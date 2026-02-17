@@ -1,3 +1,9 @@
+---
+title: Phần I - Phần chung
+description: Phần I - Phần chung
+author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+---
+
 Giáo sư Tiến sĩ Đỗ Tất Lợi
 Những cây thuốc và vị thuốc Việt Nam
 Nhà xuất bản Y học
@@ -30,23 +36,30 @@ in xong và nộp lưu chiểu tháng 6 năm 2004.
 
 ## LỜI GIỚI THIỆU
 
-Giáo sư tiến sĩ Đỗ Tất Lợi là một nhà nghiên cứu dược liệu nổi tiếng ở nước ta. Từ khi còn ngồi trên ghế nhà trường Y Dược thời thuộc Pháp (1939 - 1944), ông đã quan tâm đến việc tìm tòi sưu tầm các cây thuốc và động vật làm thuốc có ở Việt Nam sử dụng trong y học cổ truyền. Từ những ngày đầu kháng chiến, dược sĩ Đỗ Tất Lợi với cương vị Viện trưởng Viện khảo cứu chế tạo dược phẩm Cục quân y, đã chịu khó đi công tác trên núi rừng Việt Bắc tìm kiếm sưu tẩm các cây thuốc phòng chữa bệnh cho bộ đội và nhân dân. Sau ngày hoà bình lập lại, với nhiệm vụ Chủ nhiệm bộ môn dược liệu Trường đại học y dược Hà Nội, Ông đã say mê nghiên cứu về dược liệu, các vị thuốc Việt Nam và các cây di thực từ nước ngoài.
+_Giáo sư tiến sĩ Đỗ Tất Lợi là một nhà nghiên cứu dược liệu nổi tiếng ở nước ta. Từ khi còn ngồi trên ghế nhà trường Y Dược thời thuộc Pháp (1939 - 1944), ông đã quan tâm đến việc tìm tòi sưu tầm các cây thuốc và động vật làm thuốc có ở Việt Nam sử dụng trong y học cổ truyền. Từ những ngày đầu kháng chiến, dược sĩ Đỗ Tất Lợi với cương vị Viện trưởng Viện khảo cứu chế tạo dược phẩm Cục quân y, đã chịu khó đi công tác trên núi rừng Việt Bắc tìm kiếm sưu tẩm các cây thuốc phòng chữa bệnh cho bộ đội và nhân dân. Sau ngày hoà bình lập lại, với nhiệm vụ Chủ nhiệm bộ môn dược liệu Trường đại học y dược Hà Nội, Ông đã say mê nghiên cứu về dược liệu, các vị thuốc Việt Nam và các cây di thực từ nước ngoài._
 
-Sau mấy chục năm lăn lộn với việc sưu tầm nghiên cứu dược liệu, GS. TS. Đỗ Tất Lợi đã biên soạn được bộ sách “Những cây thuốc và vị thuốc Việt Nam” xuất bản đến nay là lần thứ tám. Đây là một công trình nghiên cứu rất có giá trị ở trong nước cũng như ở nước ngoài. Trên cơ sở cuốn sách này, năm 1968 Hội đồng chứng chỉ (khoa học) tối cao Liên Xô đã công nhận học vị Tiến sĩ khoa học cho dược sĩ Đỗ Tất Lợi. Năm 1983, tại Triển lãm hội chợ sách quốc tế Matxcơva, bộ sách “Những cây thuốc và vị thuốc Việt Nam” được bình chọn là một trong bảy viên ngọc quí của triển lãm sách. Đến năm 1980, dược sĩ được Chính phủ phong học hàm Giáo sư đại học.
+_Sau mấy chục năm lăn lộn với việc sưu tầm nghiên cứu dược liệu, GS. TS. Đỗ Tất Lợi đã biên soạn được bộ sách **"Những cây thuốc và vị thuốc Việt Nam"** xuất bản đến nay là lần thứ tám. Đây là một công trình nghiên cứu rất có giá trị ở trong nước cũng như ở nước ngoài. Trên cơ sở cuốn sách này, năm 1968 Hội đồng chứng chỉ (khoa học) tối cao Liên Xô đã công nhận học vị Tiến sĩ khoa học cho dược sĩ Đỗ Tất Lợi. Năm 1983, tại Triển lãm hội chợ sách quốc tế Matxcơva, bộ sách **"Những cây thuốc và vị thuốc Việt Nam"** được bình chọn là một trong bảy viên ngọc quí của triển lãm sách. Đến năm 1980, dược sĩ được Chính phủ phong học hàm Giáo sư đại học._
 
-Từ năm 1960 đến nay, mỗi lần xuất bản bộ sách “Những cây thuốc và vị thuốc Việt Nam” tác giả đều sửa chữa bổ sung một cách thận trọng. Và ngay trong lần xuất bản thứ tám này, tuy tuổi dã cao, Giáo sư Đỗ Tất Lợi đã để mấy năm rà soát, sửa chữa lại nội dung cũ, sưu tầm nghiên cứu thêm một số cây mới, vị thuốc mới và hoàn chỉnh bản thảo một cách nghiêm túc. Lần này tác giả, trong phần phụ lục, có viết thêm hai bài nói về thân thế và sự nghiệp của cụ Tuệ Tĩnh (ông Thánh thuốc Nam) và của nhà đại danh y Hải Thượng Lãn Ông Lê Hữu Trác.
+_Từ năm 1960 đến nay, mỗi lần xuất bản bộ sách **"Những cây thuốc và vị thuốc Việt Nam"** tác giả đều sửa chữa bổ sung một cách thận trọng. Và ngay trong lần xuất bản thứ tám này, tuy tuổi dã cao, Giáo sư Đỗ Tất Lợi đã để mấy năm rà soát, sửa chữa lại nội dung cũ, sưu tầm nghiên cứu thêm một số cây mới, vị thuốc mới và hoàn chỉnh bản thảo một cách nghiêm túc. Lần này tác giả, trong phần phụ lục, có viết thêm hai bài nói về thân thế và sự nghiệp của cụ Tuệ Tĩnh (ông Thánh thuốc Nam) và của nhà đại danh y Hải Thượng Lãn Ông Lê Hữu Trác._
 
-Cuốn sách “Những cây thuốc và vi thuốc Việt Nam” lần này được xuất bản sau khi tác giả được nhận Giải thưởng Hồ Chí Minh về khoa học kỹ thuật lần đầu năm 1996. Do đó giá trị cuốn sách lại càng được nâng cao.
-Tôi lấy làm vinh dự được giới thiệu với bạn đọc trong và ngoài ngành y tế cuốn sách “Những cây thuốc và vị thuốc Việt Nam” (xuất bản lần thứ tám), một công trình đã được xếp trong loại giải thưởng cao nhất ở nước ta hiện nay - Giải thưởng Hồ Chí Minh.
-Hy vọng bạn đọc sẽ tìm thấy trong cuốn sách nhiều điểu bổ ích và sử dụng tốt cuốn sách nảy trong nghiên cứu cũng như trong đời sống hàng ngày, nhằm bảo vệ sức khoẻ cho bản thân và cho cộng đồng.
-Hà Nội, ngày 28 tháng 4 năm 1999 Bộ trưởng Bộ Y tế
+_Cuốn sách **"Những cây thuốc và vị thuốc Việt Nam"** lần này được xuất bản sau khi tác giả được nhận Giải thưởng Hồ Chí Minh về khoa học kỹ thuật lần đầu năm 1996. Do đó giá trị cuốn sách lại càng được nâng cao._
+
+_Tôi lấy làm vinh dự được giới thiệu với bạn đọc trong và ngoài ngành y tế cuốn sách **"Những cây thuốc và vị thuốc Việt Nam"** (xuất bản lần thứ tám), một công trình đã được xếp trong loại giải thưởng cao nhất ở nước ta hiện nay - Giải thưởng Hồ Chí Minh._
+
+_Hy vọng bạn đọc sẽ tìm thấy trong cuốn sách nhiều điểu bổ ích và sử dụng tốt cuốn sách nảy trong nghiên cứu cũng như trong đời sống hàng ngày, nhằm bảo vệ sức khoẻ cho bản thân và cho cộng đồng._
+
+_Hà Nội, ngày 28 tháng 4 năm 1999_
+
+Bộ trưởng Bộ Y tế
 
 Giáo sư ĐỖ NGUYÊN PHƯƠNG
 
-## LỜI TÁC GIẢ NHÂN DỊP CUỐN SÁCH “NHỮNG CÂY THUỐC YÀ VỊ THUỐC VIỆT NAM” XUẤT BẢN LẦN THỨ XII
+## LỜI TÁC GIẢ NHÂN DỊP CUỐN SÁCH **"Những cây thuốc và vị thuốc Việt Nam"** XUẤT BẢN LẦN THỨ XII
 
-Trong thời gian vừa qua, chúng tôi có nhận được một số góp ý của bạn đọc trong và ngoài nước về nội dung cuốn sách qua hộp thư dotatloi@hotmail.com. Chúng tôi xin cảm ơn những đóng góp quí báu đó và hứa sẽ tìm hiểu, kiểm tra thực tế và sớm có các bổ sung với mong muốn cuốn sách “Những cây thuốc và vị thuốc Việt Nam” ngày một hoàn chỉnh hơn nhằm đáp ứng được những yêu cầu của bạn đọc.
-Trong lần in này, chúng tôi có bổ sung thêm hình vẽ (đen trắng) cây Duyên hồ sách và Trinh nữ hoàng cung, tiếp tục chỉnh sửa các lỗi được phát hiện trong lần in trước, các sai sót về tên Latinh, họ thực vật được bạn đọc góp ý.
+Trong thời gian vừa qua, chúng tôi có nhận được một số góp ý của bạn đọc trong và ngoài nước về nội dung cuốn sách qua hộp thư dotatloi@hotmail.com. Chúng tôi xin cảm ơn những đóng góp quí báu đó và hứa sẽ tìm hiểu, kiểm tra thực tế và sớm có các bổ sung với mong muốn cuốn sách **"Những cây thuốc và vị thuốc Việt Nam"** ngày một hoàn chỉnh hơn nhằm đáp ứng được những yêu cầu của bạn đọc.
+
+Trong lần in này, chúng tôi có bổ sung thêm hình vẽ (đen trắng) cây Duyên hồ sách và Trinh nữ hoàng cung, tiếp tục chỉnh sửa các lỗi được phát hiện trong lần in trước, các sai sót về tên La-tinh, họ thực vật được bạn đọc góp ý.
+
 Chúng lôi rất mong các bạn tiếp tục phát hiện những thiếu sót để chúng tời kịp thời bổ sung, sửa chữa.
 
 Mọi ý kiến đóng góp xin gửi về địa chỉ: binhdothanhhn@yahoo.com hoặc dotatloi@hotmail.com.
@@ -59,45 +72,45 @@ Tác giả ký tên
 
 ## I. MỘT SỐ ĐIỂM CẦN CHÚ Ý KHI SỬ DỤNG THUỐC NAM
 
-Thuốc đông (bao gồm cả thuốc nam và thuốc bắc) là những vị thuốc kinh nghiệm của ông cha ta, có tác dụng chữa bệnh tốt, dễ kiếm, lại rẻ tiền, việc sử dụng tương đối dễ dùng, nhưng việc sử dụng chỉ mới dựa vào kinh nghiệm và học thuyết âm dương ngũ hành của triết học phương đông còn ít người hiểu, phần lớn chưa được giải thích bằng cơ sở khoa học hiện đại. Có người nói thuốc bắc là thuốc nhập của Trung Quốc. Sự thực, không phải thuốc nào nhập của Trung Quốc cũng gọi là thuốc bắc. Ví dụ ta nhập của Trung Quốc gồm có phục linh, đương quy, bạch truật, hoàng kỳ... và penixilin, sunfamit, glucoza... nhưng chỉ gọi các vị phục linh, đương quy, bạch truật, hoàng kỳ là thuốc bắc, còn penixilin, sunfamit thì lại gọi là thuốc tây nhập của Trung Quốc.
+_Thuốc đông (bao gồm cả thuốc nam và thuốc bắc) là những vị thuốc kinh nghiệm của ông cha ta, có tác dụng chữa bệnh tốt, dễ kiếm, lại rẻ tiền, việc sử dụng tương đối dễ dùng, nhưng việc sử dụng chỉ mới dựa vào kinh nghiệm và học thuyết âm dương ngũ hành của triết học phương đông còn ít người hiểu, phần lớn chưa được giải thích bằng cơ sở khoa học hiện đại._ Có người nói thuốc bắc là thuốc nhập của Trung Quốc. Sự thực, không phải thuốc nào nhập của Trung Quốc cũng gọi là thuốc bắc. Ví dụ ta nhập của Trung Quốc gồm có phục linh, đương quy, bạch truật, hoàng kỳ... và penixilin, sunfamit, glucoza... nhưng chỉ gọi các vị phục linh, đương quy, bạch truật, hoàng kỳ là thuốc bắc, còn penixilin, sunfamit thì lại gọi là thuốc tây nhập của Trung Quốc.
 
-Có người gọi thuốc nam là thuốc sản xuất ở trong nước. Sự thực, ta cũng lại chia thuốc sản xuất ở trong nước ra hai loại thuốc tây bào chế ở Việt Nam và thuốc nam thực sự. Thuốc nam, theo định nghĩa ở trên, được nhân dân một số nơi ở miền Nam gọi là “thuốc vườn” vì có thể kiếm quanh vườn.
+Có người gọi _thuốc nam_ là thuốc sản xuất ở trong nước. Sự thực, ta cũng lại chia thuốc sản xuất ở trong nước ra hai loại thuốc tây bào chế ở Việt Nam và thuốc nam thực sự. Thuốc nam, theo định nghĩa ở trên, được nhân dân một số nơi ở miền Nam gọi là “thuốc vườn” vì có thể kiếm quanh vườn.
 
 Do thuốc đông, trong đó có thuốc nam phần lớn chưa được giải thích trên cơ sở khoa học, cho nên một số người thường đòi hỏi ta phải nghiên cứu để biết trong vị thuốc đó có những hoạt chất gì, cơ chế tác dụng ra sao rói mới sử dụng.
 
 Một số người thường quan niệm việc nghiên cứu thuốc khá đơn giản, nhanh chóng. Thực tế, nó không đơn giản, nhanh chóng như ta đã nghĩ.
 
-Khó khăn này không phải chỉ riêng đối với nước ta do điều kiện nghiên cứu còn hạn chế, mà còn là khó khăn chung đối với nhiều nước trên thế giới có nền khoa học tiên tiến, vì đối tượng nghiên cứu là những cây thuốc, động vật làm thuốc là những sinh vật còn chứa đựng nhiều bí mật chưa khám phá ra được. Vì vậy ở ngay những nước có nền khoa học tiên tiến, bên cạnh những thuốc đã biết rõ cấu tạo, cơ chế, còn rất nhiều vị thuốc được nhân dân tiếp tục sử dụng theo kinh nghiệm cổ truyền, mà người ta thường gọi là y học nhân dân.
+Khó khăn này không phải chỉ riêng đối với nước ta do điều kiện nghiên cứu còn hạn chế, mà còn là khó khăn chung đối với nhiều nước trên thế giới có nền khoa học tiên tiến, vì đối tượng nghiên cứu là những cây thuốc, động vật làm thuốc là những sinh vật còn chứa đựng nhiều bí mật chưa khám phá ra được. Vì vậy ở ngay những nước có nền khoa học tiên tiến, bên cạnh những thuốc đã biết rõ cấu tạo, cơ chế, còn rất nhiều vị thuốc được nhân dân tiếp tục sử dụng theo kinh nghiệm cổ truyền, mà người ta thường gọi là _y học nhân dân_.
 
 Thường phải rất lâu, ta mới thấy các nước đó đưa được một vị thuốc từ lĩnh vực y học nhân dân sang lĩnh vực y học khoa học.
 
 Ở nước ta, lĩnh vực y học nhân dân rất rộng lớn. Những kinh nghiệm đó nằm rải rác trong nhân dân. Nhiều thuốc có tác dụng chữa bệnh rõ rệt, nhưng ta chưa thể giải thích và chứng minh được bằng khoa học hiện đại.
 
-Phương châm kết hợp đông y và tây y của Đảng và của ngành y tế đề ra đòi hỏi chúng ta phải vừa áp dụng những kinh nghiệm chữa bệnh của ông cha ta bằng thuốc nam, vừa tiến hành nghiên cứu, chứ không đợi nghiên cứu xong rồi mới sử dụng. Vì những kinh nghiệm chữa bệnh của ông cha ta đã được thực tế chứng minh trên người thực, bệnh thực từ bao đời nay rồi.
+Phương châm kết hợp đông y và tây y của Đảng và của ngành y tế đề ra đòi hỏi _chúng ta phải vừa áp dụng những kinh nghiệm chữa bệnh của ông cha ta bằng thuốc nam, vừa tiến hành nghiên cứu_, chứ không đợi nghiên cứu xong rồi mới sử dụng. Vì những kinh nghiệm chữa bệnh của ông cha ta đã được thực tế chứng minh trên người thực, bệnh thực từ bao đời nay rồi.
 
-    1. Nhưng vì những kinh nghiệm đó thường chỉ được truyền miệng từ người này qua người khác, qua mỗi người lại thay đổi một tí, có khi bị che dấu, xuyên tạc do người có kinh nghiệm muốn giữ độc quyển, cho nên trong công tác điều tra sưu tầm bài thuốc cũng như khi áp dụng những kinh nghiệm nhân dân, vấn đề quan trọng là phải biết phân biệt kinh nghiệm thực sự và kinh nghiệm dễ bị xuyên tạc, thần bí hóa.
+1. Nhưng vì những kinh nghiệm đó thường chỉ được truyền miệng từ người này qua người khác, qua mỗi người lại thay đổi một tí, có khi bị che dấu, xuyên tạc do người có kinh nghiệm muốn giữ độc quyền, cho nên trong công tác điều tra sưu tầm bài thuốc cũng như khi áp dụng những kinh nghiệm nhân dân, vấn đề quan trọng là phải biết phân biệt kinh nghiệm thực sự và kinh nghiệm dễ bị xuyên tạc, thần bí hóa.
 
-    Trong bộ sách này, chúng tôi chỉ giới thiệu những vị thuốc phát hiện trong nhân dân mà chúng tôi đã có dịp kiểm tra lại về mặt thực giả, tốt xấu, bản thân có dịp sử dụng hay chứng kiến sử dụng. Chúng tôi lại đã tham khảo đối chiếu nhiều năm qua các tài liệu cổ, tài liệu mới ở trong và ngoài nước.
+   Trong bộ sách này, chúng tôi chỉ giới thiệu những vị thuốc phát hiện trong nhân dân mà chúng tôi đã có dịp kiểm tra lại về mặt thực giả, tốt xấu, bản thân có dịp sử dụng hay chứng kiến sử dụng. Chúng tôi lại đã tham khảo đối chiếu nhiều năm qua các tài liệu cổ, tài liệu mới ở trong và ngoài nước.
 
-    2. Một đặc điểm nữa của thuốc nam hiện nay là tên gọi vị thuốc chưa thống nhất: cùng một cây có khi mỗi nơi gọi một khác (sài đất tại một vài đại phương tỉnh Vĩnh Phúc, Phú Thọ gọi là húng trám), hoặc nhiều cây khác hẳn nhau lại cùng mang một tên (như bồ công anh, nhân trần, cam thảo). Cho nên khi sử dụng cần chú ý phân biệt, nếu không, kết quả điều trị không thống nhất sẽ ảnh hưởng tới sự tin tưởng vào thuốc nam. Sự thiếu thống nhất này làm công tác điều trị và nghiên cứu của chúng ta thêm phức tạp, nhưng trái lại, nếu biết vận dụng, lại làm cho công tác điều trị và nghiên cứu thêm phong phú, độc đáo. Trong khi giới thiệu vị thuốc, hình vẽ, phần mô tả cây và những cây thực trồng ở vườn thuốc địa phương sẽ giúp chúng ta phân biệt được cây nọ với cây kia.
+2. Một đặc điểm nữa của thuốc nam hiện nay là _tên gọi vị thuốc chưa thống nhất_: cùng một cây có khi mỗi nơi gọi một khác (sài đất tại một vài đại phương tỉnh Vĩnh Phúc, Phú Thọ gọi là húng trám), hoặc nhiều cây khác hẳn nhau lại cùng mang một tên (như bồ công anh, nhân trần, cam thảo). Cho nên khi sử dụng cần chú ý phân biệt, nếu không, kết quả điều trị không thống nhất sẽ ảnh hưởng tới sự tin tưởng vào thuốc nam. Sự thiếu thống nhất này làm công tác điều trị và nghiên cứu của chúng ta thêm phức tạp, nhưng trái lại, nếu biết vận dụng, lại làm cho công tác điều trị và nghiên cứu thêm phong phú, độc đáo. Trong khi giới thiệu vị thuốc, hình vẽ, phần mô tả cây và những cây thực trồng ở vườn thuốc địa phương sẽ giúp chúng ta phân biệt được cây nọ với cây kia.
 
-    3. Biết đúng cây thuốc rồi, nhưng còn cần thu hái đúng mùa, đúng lúc cây thuốc, vị thuốc có chứa nhiều hoạt chất nhất (ví dụ: ổi xanh ăn chát, ổi chín ăn thơm và ngọt); dùng đúng bộ phận cây để làm thuốc (ví dụ: dầu thầu đầu uống vào có tác dụng tẩy, nhưng ăn hạt thầu đầu thì có thể gây ngộ độc chết người; thịt cóc ăn được nhưng da cóc, trứng cóc gây ngộ độc chết người); chế biến phải đúng phép (ví dụ: hạt thảo quyết minh dùng sống thì gây tẩy hay nhuận tràng, sao vàng hay sao đen thì không còn thấy tác dụng tẩy nữa). Có như vậy mới bảo đảm hiệu lực thực tế của thuốc. Ngay cả việc sử dụng thuốc tươi hay thuốc khô nhiều khi cũng đưa lại những kết quả khác hẳn nhau (ví dụ ta có thể ăn chuối khô, nhãn khô, vải khô, nhưng không ai ăn mía phơi khô) vì trong quá trình phơi hay sấy khô có thể có một số hoạt chất bị phá hủy.
+3. Biết đúng cây thuốc rồi, nhưng còn cần _thu hái đúng mùa, đúng lúc cây thuốc, vị thuốc có chứa nhiều hoạt chất nhất_ (ví dụ: ổi xanh ăn chát, ổi chín ăn thơm và ngọt); _dùng đúng bộ phận cây để làm thuốc_ (ví dụ: dầu thầu đầu uống vào có tác dụng tẩy, nhưng ăn hạt thầu đầu thì có thể gây ngộ độc chết người; thịt cóc ăn được nhưng da cóc, trứng cóc gây ngộ độc chết người); _chế biến phải đúng phép_ (ví dụ: hạt thảo quyết minh dùng sống thì gây tẩy hay nhuận tràng, sao vàng hay sao đen thì không còn thấy tác dụng tẩy nữa). Có như vậy mới bảo đảm hiệu lực thực tế của thuốc. Ngay cả việc sử dụng thuốc tươi hay thuốc khô nhiều khi cũng đưa lại những kết quả khác hẳn nhau (ví dụ ta có thể ăn chuối khô, nhãn khô, vải khô, nhưng không ai ăn mía phơi khô) vì trong quá trình phơi hay sấy khô có thể có một số hoạt chất bị phá hủy.
 
-    Để cho vị thuốc khô giữ được tác dụng như lúc còn tươi, đối với một số vị thuốc ta có thể đem đồ hơi nước sôi trong vòng 3 đến 5 phút trước khi đem phơi hay sấy khô. Dạng thuốc sắc, thuốc viên hay thuốc rượu đều ảnh hưởng ít nhiều đến tác dụng chữa bệnh của đơn thuốc hay vị thuốc.
+   Để cho vị thuốc khô giữ được tác dụng như lúc còn tươi, đối với một số vị thuốc ta có thể đem đồ hơi nước sôi trong vòng 3 đến 5 phút trước khi đem phơi hay sấy khô. Dạng thuốc sắc, thuốc viên hay thuốc rượu đều ảnh hưởng ít nhiều đến tác dụng chữa bệnh của đơn thuốc hay vị thuốc.
 
-    Kinh nghiệm bản thân chúng tôi thấy dạng thuốc sắc đóng ống rồi hấp tiệt trùng như những thuốc ống để uống là một dạng thuốc để lâu không hỏng, gần giống hình thức thuốc sắc dùng trong nhân dân, lại dễ làm. Với dạng thuốc này, chúng ta có thể theo dõi tác dụng của một bài thuốc hay vị thuốc một cách tương đối chính xác.
+   Kinh nghiệm bản thân chúng tôi thấy dạng thuốc sắc đóng ống rồi hấp tiệt trùng như những thuốc ống để uống là một dạng thuốc để lâu không hỏng, gần giống hình thức thuốc sắc dùng trong nhân dân, lại dễ làm. Với dạng thuốc này, chúng ta có thể theo dõi tác dụng của một bài thuốc hay vị thuốc một cách tương đối chính xác.
 
-    Tuy nhiên, cũng cần thấy rằng đối với từng vị thuốc cụ thể, ta có thể tìm một dạng thuốc thích hợp hơn, tiện dụng hơn, rẻ hơn mà vẫn bảo đảm hiệu quả. Cho nên chúng tôi nghĩ, chính trong quá trình nghiên cứu sử dụng thuốc nam, công tác chế biến, bào chế nhất định sẽ thu được những kết quả quan trọng.
+   Tuy nhiên, cũng cần thấy rằng đối với từng vị thuốc cụ thể, ta có thể tìm một dạng thuốc thích hợp hơn, tiện dụng hơn, rẻ hơn mà vẫn bảo đảm hiệu quả. Cho nên chúng tôi nghĩ, chính trong quá trình nghiên cứu sử dụng thuốc nam, công tác chế biến, bào chế nhất định sẽ thu được những kết quả quan trọng.
 
-    4. Để bảo đảm nguồn nguyên liệu lâu dài hiệu lực đồng đều, song song với việc khai thác cây thuốc mọc hoang, cần tiến hành nghiên cứu trồng nuôi cây, con làm thuốc. Trong thực tế công tác, chúng ta sẽ thấy nhiều vấn đề tưởng như dễ nhưng rất khó (ví dụ tại Hà Nội, nhiều người trồng cây sử quân tử, tuy ra rất nhiều hoa nhưng không kết quả) và ngược lại có nhiều vấn đề thoạt nhìn tưởng khó nhưng làm lại dễ.
+4. _Để bảo đảm nguồn nguyên liệu lâu dài hiệu lực đồng đều, song song với việc khai thác cây thuốc mọc hoang, cần tiến hành nghiên cứu trồng nuôi cây, con làm thuốc._ Trong thực tế công tác, chúng ta sẽ thấy nhiều vấn đề tưởng như dễ nhưng rất khó (ví dụ tại Hà Nội, nhiều người trồng cây sử quân tử, tuy ra rất nhiều hoa nhưng không kết quả) và ngược lại có nhiều vấn đề thoạt nhìn tưởng khó nhưng làm lại dễ.
 
-    5. Đối với tác dụng của thuốc nam, bên cạnh một số tên bệnh và triệu chứng bệnh có sự phù hợp giữa tây y và đông y, chúng ta còn chưa hài lòng về một số khả nhiều những danh từ bệnh khá mơ hồ như đau bụng, ho, hậu sản, cam, v.v... Trách nhiệm của người thầy thuốc là phải theo dõi tác dụng của thuốc trên lâm sàng, có đủ những xét nghiệm, phương tiện chẩn đoán hiện đại để dần dần có thể viết lại những tên bệnh, triệu chứng tật bệnh theo đúng như khoa học y học hiện đại. Có như vậy chúng ta mới thực hiện đúng chủ trương thừa kế nhưng phải phát huy hết vốn cũ của ông cha ta. Chúng ta không thể đứng ngoài mà chê trách các cụ lương y, các tài liệu y học cũ là lạc hậu, là mơ hồ để rồi không dùng, không theo, mà thái độ đúng của chúng ta là phải nghiên cứu tìm hiểu trên thực tế những tên bệnh đó tương ứng với những bệnh theo nghĩa khoa học y học hiện đại.
+5. Đối với tác dụng của thuốc nam, bên cạnh một số tên bệnh và triệu chứng bệnh có sự phù hợp giữa tây y và đông y, chúng ta còn chưa hài lòng về một số khả nhiều những danh từ bệnh khá mơ hồ như đau bụng, ho, hậu sản, cam, v.v... _Trách nhiệm của người thầy thuốc là phải theo dõi tác dụng của thuốc trên lâm sàng, có đủ những xét nghiệm, phương tiện chẩn đoán hiện đại để dần dần có thể viết lại những tên bệnh, triệu chứng tật bệnh theo đúng như khoa học y học hiện đại._ Có như vậy chúng ta mới thực hiện đúng chủ trương thừa kế nhưng phải phát huy hết vốn cũ của ông cha ta. Chúng ta không thể đứng ngoài mà chê trách các cụ lương y, các tài liệu y học cũ là lạc hậu, là mơ hồ để rồi không dùng, không theo, mà thái độ đúng của chúng ta là phải nghiên cứu tìm hiểu trên thực tế những tên bệnh đó tương ứng với những bệnh theo nghĩa khoa học y học hiện đại.
 
-    Để tiện cho các bạn tham khảo, đối chiếu, trong phạm vi có thể, ngoài những tên bệnh mới, chúng tôi đều có ghi tác dụng và tính chất của vị thuốc theo các tài liệu cổ, theo tiếng nói của các cụ lương y. Kinh nghiệm bản thân tôi, là những tính chất và tác dụng đó tuy viết theo những danh từ cổ, nhưng cũng giúp ta một ý niệm quan trọng về những chỉ định của người xưa để có thể rút kinh nghiệm vận dụng trong điều kiện hiện nay.
+   Để tiện cho các bạn tham khảo, đối chiếu, trong phạm vi có thể, ngoài những tên bệnh mới, chúng tôi đều có ghi tác dụng và tính chất của vị thuốc theo các tài liệu cổ, theo tiếng nói của các cụ lương y. Kinh nghiệm bản thân tôi, là những tính chất và tác dụng đó tuy viết theo những danh từ cổ, nhưng cũng giúp ta một ý niệm quan trọng về những chỉ định của người xưa để có thể rút kinh nghiệm vận dụng trong điều kiện hiện nay.
 
-    Mặc dầu chóng tôi đã cố gắng để có nhiều tài liệu và dẫn chứng Việt Nam, nhưng chúng tôi vẫn tiếc rằng còn quá ít, vì phần lớn những kinh nghiệm dùng thuốc nam chưa được chính thức công bố.
+   Mặc dầu chóng tôi đã cố gắng để có nhiều tài liệu và dẫn chứng Việt Nam, nhưng chúng tôi vẫn tiếc rằng còn quá ít, vì phần lớn những kinh nghiệm dùng thuốc nam chưa được chính thức công bố.
 
-    Chúng tôi hy vọng rằng với chủ trương đẩy mạnh sử dụng thuốc nam có theo dõi, tổng kết, tập tài liệu này sẽ ngày được bổ sung thêm nhiều những dẫn chứng và số liệu Việt Nam.
+   Chúng tôi hy vọng rằng với chủ trương đẩy mạnh sử dụng thuốc nam có theo dõi, tổng kết, tập tài liệu này sẽ ngày được bổ sung thêm nhiều những dẫn chứng và số liệu Việt Nam.
 
 ## II. CƠ SỞ LÝ LUẬN VỀ TÌM THUỐC VÀ TÁC DỤNG CỦA THUỐC THEO ĐỐNG Y
 
@@ -107,70 +120,71 @@ Việc dùng thuốc trong nhân dân ta đã có từ lâu đời. Từ thời 
 
 Kinh nghiệm dần dần tích lũy, không những giúp cho loài người biết lợi dụng tính chất của cây cỏ để làm thức ăn mà còn biết dùng làm thuốc chữa bệnh, hay dùng những vị có chất độc để chế tên thuốc độc dùng trong săn bắn hay trong lúc tự bảo vệ chống ngoại xâm. Lịch sử nước ta cho biết ngay từ khi lập nước nhân dân ta dã biết chế và sử dụng tên độc làm cho bọn xâm lăng khiếp sợ.
 
-Như vậy việc phát minh ra thuốc đã có từ thượng cổ, trong quá trình đấu tranh với thiên nhiên, tìm tòi thức ăn mà có được. Nguồn gốc tìm ra thức ăn, thuốc và cây có chất độc chỉ là một. Về sau dần dần mới biết tổng kết và đặt ra lý luận. Hiện nay, đi sâu vào tìm hiểu những kinh nghiệm chữa bệnh trong nhân dân Việt Nam, chúng ta có thể dễ dàng phân biệt hai loại người làm thuốc. Một loại chỉ có kinh nghiệm chữa bệnh, không biết hay ít biết lý luận, kinh nghiệm cứ cha truyền con nối mà tồn tại, mà phát huy, loại người này chiếm chủ yếu tại các vùng dân tộc ít người. Loại người thứ hai biết dùng thuốc nhưng thêm phần lý luận, loại này chiếm chủ yếu ở thành thị và những người có cơ sở lý luận cho rằng vua Thần Nông1 là người phát minh ra thuốc. Theo truyền thuyết, một ngày vua Thần Nông nếm 100 cây cỏ để tìm thuốc, có khi một ngày ngộ độc tới 70 lần, rồi soạn ra sách thuốc đầu tiên gọi là “Thần Nông bản thảo”. Trong bộ này có ghi chép tất cả 365 vị thuốc và là một bộ sách thuốc cổ nhất của đông y (chừng 4.000 năm nay). Nhưng theo các nhà nghiên cứu khoa học hiện nay, vua Thần Nông nói ở đây không phải là một người, mà là kinh nghiệm của nhiều người tích lũy lại, ghi chép thành sách, rồi để để truyền bá để gây tin tưởng, tác giả bộ sách đã đặt ra truyền thuyết về vua Thần Nòng nếm cỏ cây tìm thuốc, thời gian viết cũng không phải xa như vậy, chỉ vào khoảng thế kỷ thứ hai.
+Như vậy việc phát minh ra thuốc đã có từ thượng cổ, trong quá trình đấu tranh với thiên nhiên, tìm tòi thức ăn mà có được. Nguồn gốc tìm ra thức ăn, thuốc và cây có chất độc chỉ là một. Về sau dần dần mới biết tổng kết và đặt ra lý luận. Hiện nay, đi sâu vào tìm hiểu những kinh nghiệm chữa bệnh trong nhân dân Việt Nam, chúng ta có thể dễ dàng phân biệt hai loại người làm thuốc. Một loại chỉ có kinh nghiệm chữa bệnh, không biết hay ít biết lý luận, kinh nghiệm cứ cha truyền con nối mà tồn tại, mà phát huy, loại người này chiếm chủ yếu tại các vùng dân tộc ít người. Loại người thứ hai biết dùng thuốc nhưng thêm phần lý luận, loại này chiếm chủ yếu ở thành thị và những người có cơ sở lý luận cho rằng vua Thần Nông(1) là người phát minh ra thuốc. Theo truyền thuyết, một ngày vua Thần Nông nếm 100 cây cỏ để tìm thuốc, có khi một ngày ngộ độc tới 70 lần, rồi soạn ra sách thuốc đầu tiên gọi là “Thần Nông bản thảo”. Trong bộ này có ghi chép tất cả 365 vị thuốc và là một bộ sách thuốc cổ nhất của đông y (chừng 4.000 năm nay). Nhưng theo các nhà nghiên cứu khoa học hiện nay, vua Thần Nông nói ở đây không phải là một người, mà là kinh nghiệm của nhiều người tích lũy lại, ghi chép thành sách, rồi để để truyền bá để gây tin tưởng, tác giả bộ sách đã đặt ra truyền thuyết về vua Thần Nòng nếm cỏ cây tìm thuốc, thời gian viết cũng không phải xa như vậy, chỉ vào khoảng thế kỷ thứ hai.
 
 Qua thực tiễn, chúng ta thấy không thể có một người nào đúc kết được tất cả những kinh nghiệm dùng thuốc mà chỉ sưu tầm, ghi chép lại cho có hệ thống mà thôi.
 
 ### B. Tên các vị thuốc
 
-Việc đặt tên các vị thuốc và đơn thuốc trong đông y dựa trên một số nguyên tắc sau đây: 1. Căn cứ vào tính chất của vị thuốc mà đặt tên.
-Ví dụ: Vị phòng phong do hai chữ phòng là phòng ngự, phong là gió, vì vị thuốc có tác dụng chữa những bệnh do cảm gió, đau các khớp xương, nhức đầu, chóng mặt v.v...
-Ích Mẫu: Vị thuốc có ích cho người mẹ, phụ nữ sau khi sinh nở.
-Quyết minh tử: Hạt uống vào sáng mắt.
-Tục đoạn: Tục là nối, đoạn là đứt gãy, vì vị thuốc có tác dụng nối liền được gân cốt đứt gãy.
+Việc đặt tên các vị thuốc và đơn thuốc trong đông y dựa trên một số nguyên tắc sau đây:
 
-    2. Căn cứ vào khí vị mà đặt tên
-    Ví dụ: Xạ hương do chữ xạ là loại thú giống loài hươu, hương là có mùi thơm.
-    Đinh hương. Vị thuốc giống cái đinh mà lại có mùi thơm.
-    Hồi hương: Vị thuốc có mùi thơm như hồi.
-    Cam thảo: Cam là ngọt, thảo là cỏ, vì vị thuốc có vị ngọt.
-    Tế tân: Tế là nhỏ, tân là cay - vị thuốc là những rễ nhỏ, có vị cay.
-    Khổ sâm: Khổ là đắng, sâm là sâm - vị thuốc giống sâm có vị đắng.
+1. _Căn cứ vào tính chất của vị thuốc mà đặt tên._
+   Ví dụ: Vị phòng phong do hai chữ phòng là phòng ngự, phong là gió, vì vị thuốc có tác dụng chữa những bệnh do cảm gió, đau các khớp xương, nhức đầu, chóng mặt v.v...
+   _Ích Mẫu_: Vị thuốc có ích cho người mẹ, phụ nữ sau khi sinh nở.
+   _Quyết minh tử_: Hạt uống vào sáng mắt.
+   _Tục đoạn_: Tục là nối, đoạn là đứt gãy, vì vị thuốc có tác dụng nối liền được gân cốt đứt gãy.
 
-    3. Căn cứ vào hình dạng mà đặt tên
-    Ô đầu: Ô là quạ, đầu là đầu, vì vị thuốc trông giống đầu con quạ.
-    Cẩu tích: Do chữ cẩu là chó, tích là lưng, vì vị thuốc trông giống lưng con chó.
-    Ngưu tất: Ngưu là trâu, tất là đầu gối, vì thân có đốt phình ra giống đầu gối con trâu.
-    Câu đằng: Do chữ câu là lưỡi câu, đằng là dây leo, vì vị thuốc là một thứ dây leo có gai cong giống như lưỡi câu.
+2. _Căn cứ vào khí vị mà đặt tên_
+   Ví dụ: Xạ hương do chữ xạ là loại thú giống loài hươu, hương là có mùi thơm.
+   _Đinh hương_: Vị thuốc giống cái đinh mà lại có mùi thơm.
+   _Hồi hương_: Vị thuốc có mùi thơm như hồi.
+   _Cam thảo_: Cam là ngọt, thảo là cỏ, vì vị thuốc có vị ngọt.
+   _Tế tân_: Tế là nhỏ, tân là cay - vị thuốc là những rễ nhỏ, có vị cay.
+   _Khổ sâm_: Khổ là đắng, sâm là sâm - vị thuốc giống sâm có vị đắng.
 
-    4. Căn cứ vào màu sắc mà đặt tên
-    Hoàng liên: Hoàng là vàng, liên là liên tiếp, vì vị thuốc có màu vàng, rễ mọc liên tiếp.
-    Hồng hoa: Vì thuốc là một thứ hoa có màu hồng da cam,
-    Huyền sâm: Huyền là đen - một thứ sâm có màu đen.
-    Tử thảo: Tử là tím, thảo là cỏ, vị thuốc có màu tím.
-    Thanh đại: Thauh là xanh, đại là sắc lông mày; ngày xưa có tục cạo lông mày, vẽ thuốc này vào. Vị thuốc chế từ cây chàm nhuộm vải.
+3. _Căn cứ vào hình dạng mà đặt tên_
+   _Ô đầu_: Ô là quạ, đầu là đầu, vì vị thuốc trông giống đầu con quạ.
+   _Cẩu tích_: Do chữ cẩu là chó, tích là lưng, vì vị thuốc trông giống lưng con chó.
+   _Ngưu tất_: Ngưu là trâu, tất là đầu gối, vì thân có đốt phình ra giống đầu gối con trâu.
+   _Câu đằng_: Do chữ câu là lưỡi câu, đằng là dây leo, vì vị thuốc là một thứ dây leo có gai cong giống như lưỡi câu.
 
-    5. Căn cứ vào cách sống của cây mà đặt tên
-    Hạ khô thảo: Vị thuốc đến mùa hạ thì khô héo.
-    Bán hạ: Vị thuốc có củ hái vào giữa mùa hạ (bán là một nửa).
-    Nhẫn đông (tên khác của vị kim ngân) vì cây này chịu đựng được mùa đông mà không khô héo (nhẫn là chịu đựng).
-    Tang ký sinh: Tang là cây dâu tằm, ký sinh là sống nhờ, vì cây này sống nhờ trên cây dâu tằm.
+4. _Căn cứ vào màu sắc mà đặt tên_
+   _Hoàng liên_: Hoàng là vàng, liên là liên tiếp, vì vị thuốc có màu vàng, rễ mọc liên tiếp.
+   _Hồng hoa_: Vì thuốc là một thứ hoa có màu hồng da cam,
+   _Huyền sâm_: Huyền là đen - một thứ sâm có màu đen.
+   _Tử thảo_: Tử là tím, thảo là cỏ, vị thuốc có màu tím.
+   _Thanh đại_: Thauh là xanh, đại là sắc lông mày; ngày xưa có tục cạo lông mày, vẽ thuốc này vào. Vị thuốc chế từ cây chàm nhuộm vải.
+5. _Căn cứ vào cách sống của cây mà đặt tên_
+   _Hạ khô thảo_: Vị thuốc đến mùa hạ thì khô héo.
+   _Bán hạ_: Vị thuốc có củ hái vào giữa mùa hạ (bán là một nửa).
+   _Nhẫn đông_: (tên khác của vị kim ngân) vì cây này chịu đựng được mùa đông mà không khô héo (nhẫn là chịu đựng).
+   _Tang ký sinh_: Tang là cây dâu tằm, ký sinh là sống nhờ, vì cây này sống nhờ trên cây dâu tằm.
 
-    6. Căn cứ vào bộ phận dùng mà đặt tên
-    Nguyên tắc này hay được áp dụng, vì thường người ta chỉ hay dùng một bộ phận của cây hay con vật.
-    Tang diệp: Tang là cây dâu tằm; diệp là lá, vì vị thuốc là lá dâu.
-    Cúc hoa: Hoa cây cúc.
-    Quế chi: Cành cây quế (chi là cành).
-    Cát căn: Cát là sắn, căn là rễ, vị thuốc là rễ cây sắn.
-    Tô tử: Tử là hạt, tô là tía tô, vị thuốc là hạt cây tía tô.
-    Miết giáp: Mai con ba ba, vì miết là con ba ba, giáp là áo, là mai.
-    Hổ cốt: Xương hổ; cốt là xương.
+6. _Căn cứ vào bộ phận dùng mà đặt tên_
+   Nguyên tắc này hay được áp dụng, vì thường người ta chỉ hay dùng một bộ phận của cây hay con vật.
+   _Tang diệp_: Tang là cây dâu tằm; diệp là lá, vì vị thuốc là lá dâu.
+   _Cúc hoa_: Hoa cây cúc.
+   _Quế chi_: Cành cây quế (chi là cành).
+   _Cát căn_: Cát là sắn, căn là rễ, vị thuốc là rễ cây sắn.
+   _Tô tử_: Tử là hạt, tô là tía tô, vị thuốc là hạt cây tía tô.
+   _Miết giáp_: Mai con ba ba, vì miết là con ba ba, giáp là áo, là mai.
+   _Hổ cốt_: Xương hổ; cốt là xương.
 
-    7. Căn cứ vào tên người dùng Vị thuốc đầu tiên
-    Đỗ trọng: Người đầu tiên dùng vị này tên là Trọng họ Đỗ.
-    Hà thủ ô: Hà là họ Hà, thủ là đầu, ô là quạ, có nghĩa là ông lão họ Hà tóc đang bạc dùng thuốc này dần trở thành đen như đầu quạ.
-    Sử quân tử. Chính là sứ quân tử vì xưa kia có một vị sứ quân họ Quách chuyên dùng vị thuốc này chữa bệnh trẻ em, do đó đặt tên là hạt của ông sứ quân (tử là hạt).
+7. _Căn cứ vào tên người dùng Vị thuốc đầu tiên_
+   _Đỗ trọng_: Người đầu tiên dùng vị này tên là Trọng họ Đỗ.
+   _Hà thủ ô_: Hà là họ Hà, thủ là đầu, ô là quạ, có nghĩa là ông lão họ Hà tóc đang bạc dùng thuốc này dần trở thành đen như đầu quạ.
+   _Sử quân tử_: Chính là sứ quân tử vì xưa kia có một vị sứ quân họ Quách chuyên dùng vị thuốc này chữa bệnh trẻ em, do đó đặt tên là hạt của ông sứ quân (tử là hạt).
 
-    8. Căn cứ vào tên ngoại quốc phiên âm ra
-    Actisô phiên âm tiếng Pháp: Artichaut,
-    Man-đà-la-hoa (một tên khác của vị cà độc dược) phiên âm tiếng Ấn Độ có nghĩa là cây có màu sặc sỡ.
-    Hồ tiêu: Một thứ tiêu mọc ở đất nước Hồ.
-    Phiên mộc miết (tên khác của mã tiền) vị thuốc giống con ba ba gỗ ở nước Phiên (mộc là gỗ, miết là ba ba).
+8. _Căn cứ vào tên ngoại quốc phiên âm ra_
+   _Actisô_: phiên âm tiếng Pháp: Artichaut,
+   _Man-đà-la-hoa_: (một tên khác của vị cà độc dược) phiên âm tiếng Ấn Độ có nghĩa là cây có màu sặc sỡ.
+   _Hồ tiêu_:: Một thứ tiêu mọc ở đất nước Hồ.
+   _Phiên mộc miết_: (tên khác của mã tiền) vị thuốc giống con ba ba gỗ ở nước Phiên (mộc là gỗ, miết là ba ba).
 
-    9. Theo nơi sản xuất mà đặt tên
-    Ba đậu: Hạt như hạt đậu sản xuất đất Ba Thục.
-    Thường sơn: Vị thuốc được thấy lần đầu tiên ở núi Thường Sơn (thuộc đất Ba Thục tức Tứ Xuyên, Trung Quốc hiện nay).
-    A giao: A là huyện Đông A, tỉnh Sơn Đông, Trung Quốc, giao là keo, là thứ keo chế từ da con lừa nấu với nước giếng ở huyện Đông A.
+9. _Theo nơi sản xuất mà đặt tên_
+   _Ba đậu_: Hạt như hạt đậu sản xuất đất Ba Thục.
+   _Thường sơn_: Vị thuốc được thấy lần đầu tiên ở núi Thường Sơn (thuộc đất Ba Thục tức Tứ Xuyên, Trung Quốc hiện nay).
+   _A giao_: A là huyện Đông A, tỉnh Sơn Đông, Trung Quốc, giao là keo, là thứ keo chế từ da con lừa nấu với nước giếng ở huyện Đông A.
 
 Có khi cùng một vị thuốc, nhưng vì nơi sản xuất có tiếng là tốt, người ta thêm tên nơi sản xuất vào như xuyên hoàng liên (hoàng liên của tỉnh Tứ Xuyên), nhưng nhiều khi tuy cùng một tên thuốc thêm tên địa phương vào tưởng là cùng một loài cây nhưng thực ra lại là hai cây khác nhau, ví dụ xuyên bối mẫu và triết bối mẫu (bối mẫu tỉnh Triết Giang) là hai vị thuốc thuộc hai cây khác nhau; xuyên bối mẫu chữa hư lao, ho khan, còn triết bối mẫu chữa ho cảm, ho gió.
 
@@ -178,16 +192,18 @@ Lại có khi cùng tên một vị thuốc, nhưng thêm chữ nam hay chữ th
 
 ### C. Tên bài thuốc
 
-Tên bài thuốc cũng dựa vào một số nguyên tắc chung: 1. Có khi căn cứ vào vị thuốc chính kèm theo tác dụng chủ yếu có kèm theo cả dạng thuốc
-Ví dụ: Hà sa đại tạo hoàn là bài thuốc có vị hà sa (nhau thai nhi) có tác dụng thay tạo hóa đem sức khỏe cho con người.
-Hoắc hương chính khí trong bài thuốc đó có vị hoắc hương.
-Tam tài thang trong đó có 3 tài là thiên (môn đông), địa (hoàng) và nhân (sâm).
+Tên bài thuốc cũng dựa vào một số nguyên tắc chung:
 
-    2. Căn cứ vào thành phần của đơn thuốc
-    Ví dụ: Lục nhất tấn đơn thuốc gồm 6 phấn hoạt thạch, 1 phần cam thảo (lục là sáu, nhất là một).
-    Thập toàn đại bổ gồm 10 vị thuốc bổ phối hợp với nhau.
-    Lục vị hoàn hay lục vị địa hoàng hoàn gồm 6 vị thuốc phối hợp với nhau.
-    Tam sà đởm trần bì trong đó có 3 loại mật rắn phối hợp với vị trần bì.
+1. _Có khi căn cứ vào vị thuốc chính kèm theo tác dụng chủ yếu có kèm theo cả dạng thuốc_
+   Ví dụ: _Hà sa đại tạo hoàn_ là bài thuốc có vị hà sa (nhau thai nhi) có tác dụng thay tạo hóa đem sức khỏe cho con người.
+   _Hoắc hương chính khí_ trong bài thuốc đó có vị hoắc hương.
+   _Tam tài thang_ trong đó có 3 tài là thiên (môn đông), địa (hoàng) và nhân (sâm).
+
+2. _Căn cứ vào thành phần của đơn thuốc_
+   Ví dụ: _Lục nhất tấn đơn_ thuốc gồm 6 phấn hoạt thạch, 1 phần cam thảo (lục là sáu, nhất là một).
+   _Thập toàn đại bổ_ gồm 10 vị thuốc bổ phối hợp với nhau.
+   _Lục vị hoàn_ hay _lục vị địa hoàng hoàn_ gồm 6 vị thuốc phối hợp với nhau.
+   _Tam sà đởm trần bì_ trong đó có 3 loại mật rắn phối hợp với vị trần bì.
 
 ### D. Phân loại thuốc trong đông y
 
