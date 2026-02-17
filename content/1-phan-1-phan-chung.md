@@ -211,61 +211,65 @@ Việc phân loại thuốc theo đông y thay đổi tùy theo từng thời k�
 
 Từ xưa đến nay đã có những lối phân loại chủ yếu sau đây:
 
-    1. Trong bộ Thần Nông bản thảo (một bộ sách thuốc cổ nhất của đông y) người ta ghi chép tất cả 365 vị thuốc chia làm 3 loại: Thượng phẩm, trung phẩm và hạ phẩm.
-    Thuốc thượng phẩm gồm các vị thuốc có tác dụng mà lại không độc.
-    Thuốc trung phẩm gồm các vị thuốc có tác dụng nhưng có độc.
-    Thuốc hạ phẩm gồm những vị thuốc có tác dụng nhưng rất độc.
+1. Trong bộ _Thần Nông bản thảo_ (một bộ sách thuốc cổ nhất của đông y) người ta ghi chép tất cả 365 vị thuốc chia làm 3 loại: Thượng phẩm, trung phẩm và hạ phẩm.
 
-    2. Về sau trong bộ Lôi Công dược đối, người ta lại chia thuốc ra làm 10 loại: Tuyên (giải rộng ra), thông, bổ, tiết, khinh, trọng, sáp, hoạt, táo, thấp. Về sau có người gọi lối phân loại đó là thập tê. Dù sao lối phân loại này cũng giống như trong Thần Nông bản thảo, chia thuốc theo tính chất chữa bệnh.
+   Thuốc thượng phẩm gồm các vị thuốc có tác dụng mà lại không độc.
 
-    3. Đến đời nhà Minh, (Trung Quốc) Lý Thời Trân trong bộ sách của ông là Bản thảo cương mục, đã chia thuốc làm 16 bộ là: Thủy (thuốc lỏng như nước), hỏa (lửa), thổ (thuốc thuộc về đất), kim (kim loại), mộc (cây), thạch (đá), thảo (cỏ), cốc (ngũ cốc), thái (rau), quả, phục khí (gấm vải, bông, áo của người có bệnh), trùng (sâu bọ), lân (thuốc lấy ở giống vật có vẩy), giới (động vật có vỏ như con trai, con cua), cầm (chìm), thú (giống vật), nhân (người).
+   Thuốc trung phẩm gồm các vị thuốc có tác dụng nhưng có độc.
 
-    Mỗi bộ lại chia nhỏ thành mấy loại như bộ thảo lại chia ra sơn thảo (cỏ ở núi), phương thảo (cỏ có mùi thơm), thấp thảo (cỏ mọc nơi ẩm ướt) độc thảo (cỏ có độc), mạn thảo (cỏ leo), thủỵ thảo (cỏ mọc ở dưới nước), thạch thảo (cỏ mọc trên đá), thai (rêu), tạp thảo (linh tinh). Như vậy là đến Lý Thời Trân bắt đầu phân loại theo hình thái vị thuốc. Lối phân loại theo tác dụng chữa bệnh giúp cho người làm công tác điều trị, còn lối phân loại theo hình thái giúp cho người tìm thuốc và phân loại tốt xấu.
+   Thuốc hạ phẩm gồm những vị thuốc có tác dụng nhưng rất độc.
 
-    Ở nước ta, từ thế kỷ thứ 17, Tuệ Tĩnh2 tác giả bộ Nam dược thần hiệu, đã phối hợp cả hai lối phân loại: mờ đầu bộ sách Tuệ Tĩnh phân loại thuốc theo hình thái thành 23 loại thuốc: Loại cỏ hoang, loại cỏ dây, loại cỏ nước, loại ngũ cốc, loai chim v.v... Những phần sau, Tuệ Tĩnh phân loại thuốc theo tật bệnh do đó cả thầy thuốc lẫn người tìm thuốc đều dễ sử dụng.
+2. Về sau trong bộ _Lôi Công dược đối_, người ta lại chia thuốc ra làm 10 loại: Tuyên (giải rộng ra), thông, bổ, tiết, khinh, trọng, sáp, hoạt, táo, thấp. Về sau có người gọi lối phân loại đó là thập tê. Dù sao lối phân loại này cũng giống như trong Thần Nông bản thảo, chia thuốc theo tính chất chữa bệnh.
 
-    4. Trong các tập bản thảo, người ta còn giới thiệu tính chất thuốc theo hàn, nhiệt, (thuốc nóng, thuốc lạnh), hay thuốc vào kinh lạc này hay kinh lạc khác. Muốn hiểu cách phân loại này cần hiểu qua cơ sở lý luận âm dương ngũ hành của đông y.
+3. Đến đời nhà Minh, (Trung Quốc) Lý Thời Trân trong bộ sách của ông là _Bản thảo cương mục_, đã chia thuốc làm 16 bộ là: Thủy (thuốc lỏng như nước), hỏa (lửa), thổ (thuốc thuộc về đất), kim (kim loại), mộc (cây), thạch (đá), thảo (cỏ), cốc (ngũ cốc), thái (rau), quả, phục khí (gấm vải, bông, áo của người có bệnh), trùng (sâu bọ), lân (thuốc lấy ở giống vật có vẩy), giới (động vật có vỏ như con trai, con cua), cầm (chìm), thú (giống vật), nhân (người).
+
+   Mỗi bộ lại chia nhỏ thành mấy loại như bộ thảo lại chia ra sơn thảo (cỏ ở núi), phương thảo (cỏ có mùi thơm), thấp thảo (cỏ mọc nơi ẩm ướt) độc thảo (cỏ có độc), mạn thảo (cỏ leo), thủỵ thảo (cỏ mọc ở dưới nước), thạch thảo (cỏ mọc trên đá), thai (rêu), tạp thảo (linh tinh). Như vậy là đến Lý Thời Trân bắt đầu phân loại theo hình thái vị thuốc. Lối phân loại theo tác dụng chữa bệnh giúp cho người làm công tác điều trị, còn lối phân loại theo hình thái giúp cho người tìm thuốc và phân loại tốt xấu.
+
+   Ở nước ta, từ thế kỷ thứ 17, Tuệ Tĩnh(2) tác giả bộ _Nam dược thần hiệu_, đã phối hợp cả hai lối phân loại: mở đầu bộ sách Tuệ Tĩnh phân loại thuốc theo hình thái thành 23 loại thuốc: Loại cỏ hoang, loại cỏ dây, loại cỏ nước, loại ngũ cốc, loai chim v.v... Những phần sau, Tuệ Tĩnh phân loại thuốc theo tật bệnh do đó cả thầy thuốc lẫn người tìm thuốc đều dễ sử dụng.
+
+4. Trong các tập bản thảo, người ta còn giới thiệu tính chất thuốc theo hàn, nhiệt, (thuốc nóng, thuốc lạnh), hay thuốc vào kinh lạc này hay kinh lạc khác. Muốn hiểu cách phân loại này cần hiểu qua cơ sở lý luận âm dương ngũ hành của đông y.
 
 ### E. Khái niệm về cơ sở lý luận trong đông y
 
 Ở đây chúng tôi chỉ đóng khung trong việc giới thiệu những cơ sở lý luận có liên quan tới tác dụng của vị thuốc, mà không đi sâu vào việc vận dụng những lý luận đó trong điều trị.
 
-Chúng ta biết rằng hiện nay trong giới đông y có những người chỉ biết một số đơn thuốc gia truyền kinh nghiệm, nhimg cũng lại có rất nhiều người trong khi điều trị tìm thuốc chế thuốc đều hay vận dụng những cơ sở lý luận rất đặc biệt của đông y.
+Chúng ta biết rằng hiện nay trong giới đông y có những người chỉ biết một số đơn thuốc gia truyền kinh nghiệm, nhưng cũng lại có rất nhiều người trong khi điều trị tìm thuốc chế thuốc đều hay vận dụng những cơ sở lý luận rất đặc biệt của đông y.
 
 Lý luận đó đúng sai thế nào, dần dần khoa học sẽ xác minh. Chỉ biết rằng hiện nay những nhà đông y đã vận dụng lý luận ấy để chữa khỏi một số bệnh và đã phát hiện một số thuốc mới. Cho nên chúng tôi nghĩ rằng ta cũng nên tìm hiểu tiếng nóỉ của những nhà đông y để có thể gẩn gũi họ mà học tập để rồi trên cơ sở những kinh nghiệm của họ, thừa kế và phát huy theo khoa học hiện đại.
 
 Điều đáng chú ý là cơ sở lý luận của đông y đã có từ lâu mà không thay đổi cho nên có điều còn đúng, có điều đã sai rồi, không nên cái gì cũng coi là sai cả hay đúng cả.
 
-Các nhà đông y coi người và hoàn cảnh là một khối thống nhất. Con người chẳng qua cũng là cơ năng của trời và đất thu nhỏ lại (nhân thân tiểu thiên địa). Cơ sở lý luận của đông y dựa vào quan niệm vũ trụ chung trong triết học Á đông hồi xưa. Quan niệm về vũ trụ này bao trùm nhiều ngành khoa học cổ khác như khí tượng, tử vi, địa lý v.v...
+_Các nhà đông y coi người và hoàn cảnh là một khối thống nhất._ Con người chẳng qua cũng là cơ năng của trời và đất thu nhỏ lại (nhân thân tiểu thiên địa). _Cơ sở lý luận của đông y dựa vào quan niệm vũ trụ chung trong triết học Á đông hồi xưa._ Quan niệm về vũ trụ này bao trùm nhiều ngành khoa học cổ khác như khí tượng, tử vi, địa lý v.v...
 
-Theo quan niệm này vũ trụ khi mới sinh ra là một khối rất lớn gọi là thái cực: thái cực biến hóa sinh ra 2 nghi (lưỡng nghi) là âm và dương. Âm dương kết hợp với nhau để sinh ra 5 hành (ngũ hành) là kim, mộc, thủy, hỏa và thổ.
+Theo quan niệm này vũ trụ khi mới sinh ra là một khối rất lớn gọi là thái cực: thái cực biến hóa sinh ra 2 nghi (_lưỡng nghi_) là _âm_ và _dương_. Âm dương kết hợp với nhau để sinh ra 5 hành (_ngũ hành_) là kim, mộc, thủy, hỏa và thổ.
 
-Ngũ hành sẽ lại kết hợp với nhau để tạo ra ba lực lượng bao trùm vũ trụ (tam tài) là thiên (trời), địa (đất) và nhân (con người), Trong mỗi lực lượng này lại có sự kết hợp chặt chẽ và cân bằng giữa âm dương, ngũ hành. Nếu thiếu sự cân bằng giữa âm và dương trong mỗi lực lượng hoặc thiếu sự cân bằng giữa ba lực lượng đó người ta sẽ mắc bệnh, Việc điều trị bệnh tật chẳng qua là lập lại được sự cân bằng của âm dương trong con người, giữa con người và trời đất.
-Sau đây xin giới thiệu tương đối chi tiết hơn về âm dương ngũ hành là cơ sở của cả quan niệm về vũ trụ và vận dụng trong đông y.
+Ngũ hành sẽ lại kết hợp với nhau để tạo ra ba lực lượng bao trùm vũ trụ (tam tài) là thiên (trời), địa (đất) và nhân (con người), Trong mỗi lực lượng này lại có sự kết hợp chặt chẽ và cân bằng giữa âm dương, ngũ hành. _Nếu thiếu sự cân bằng giữa âm và dương trong mỗi lực lượng hoặc thiếu sự cân bằng giữa ba lực lượng đó người ta sẽ mắc bệnh. Việc điều trị bệnh tật chẳng qua là lập lại được sự cân bằng của âm dương trong con người, giữa con người và trời đất._
+
+Sau đây xin giới thiệu tương đối chi tiết hơn về _âm dương ngũ hành_ là cơ sở của cả quan niệm về vũ trụ và vận dụng trong đông y.
 
 ### G. Thuyết âm dương
 
-Căn cứ nhận xét lâu đời về giới tự nhiên, người xưa đỡ nhận xét thấy sự biến hóa không ngừng của sự vật (thái cực sinh lưỡng nghi, lưỡng nghi sinh tứ tượng, tứ tượng sinh bát quái. Lưỡng nghi là âm và dương; tứ tượng là thái âm, thái dương, thiếu âm và thiếu dương. Bát quái là càn, khảm, cấn, chấn, tốn, ly, khôn và đoài).
+Căn cứ nhận xét lâu đời về giới tự nhiên, _người xưa đỡ nhận xét thấy sự biến hóa không ngừng của sự vật_ (thái cực sinh lưỡng nghi, lưỡng nghi sinh tứ tượng, tứ tượng sinh bát quái. Lưỡng nghi là âm và dương; tứ tượng là thái âm, thái dương, thiếu âm và thiếu dương. Bát quái là càn, khảm, cấn, chấn, tốn, ly, khôn và đoài).
 
-Người ta còn nhận xét thấy rằng cơ cấu của sự biến hóa không ngừng đó là ức chế lẫn nhau, giúp đỡ ảnh hưởng lẫn nhau, nương tựa lẫn nhau và thúc đẩy lẫn nhau.
+Người ta còn nhận xét thấy rằng _cơ cấu của sự biến hóa không ngừng đó là ức chế lẫn nhau, giúp đỡ ảnh hưởng lẫn nhau, nương tựa lẫn nhau và thúc đẩy lẫn nhau._
 
 Để biểu thị sự biến hóa không ngừng và quy luật của sự biến hóa đó người xưa đặt ra thuyết âm dương.
 
-Âm dương không phải là mội thứ vật chất cụ thể nào, mà là thuộc tính mâu thuẫn nằm trong tất cả mọi sự vật. Nó giải thích hiện tượng mâu thuẫn chi phối mọi sự biến hóa và phát triển của sự vật.
+_Âm dương không phải là mội thứ vật chất cụ thể nào, mà là thuộc tính mâu thuẫn nằm trong tất cả mọi sự vật._ Nó giải thích hiện tượng mâu thuẫn chi phối mọi sự biến hóa và phát triển của sự vật.
 
-Nói chung, phàm cái gì có tính cách hoạt động, hưng phấn, tỏ rõ, ở ngoài, hướng lên, tiến lên, vô hình, nóng nực, sáng chói, rắn chắc, tích cực, đều thuộc dương.
+Nói chung, phàm cái gì có tính cách _hoạt động, hưng phấn, tỏ rõ, ở ngoài, hướng lên, tiến lên, vô hình, nóng nực, sáng chói, rắn chắc, tích cực_, đều thuộc dương.
 
-Tất cả những cái gì trầm tĩnh, ức chế, mờ tối, ở trong, hướng xuống, lùi lại, hữu hình, lạnh lẽo, đen tối, nhu nhược, tiêu cực đều thuộc âm.
+Tất cả những cái gì _trầm tĩnh, ức chế, mờ tối, ở trong, hướng xuống, lùi lại, hữu hình, lạnh lẽo, đen tối, nhu nhược, tiêu cực_ đều thuộc âm.
 
 Từ cái lớn như trời, đất, mặt trời, mặt trăng, đến cái nhỏ như con sâu, con bọ, cây cỏ đều được quy vào âm dương.
 
-Ví dụ về thiên nhiên thuộc dương ta có thể kể: mặt trời, ban ngày, xuân, hè, đông, nam, phía trên, phía ngoài, nóng, lửa, sáng.
+Ví dụ về _thiên nhiên_ thuộc dương ta có thể kể: mặt trời, ban ngày, xuân, hè, đông, nam, phía trên, phía ngoài, nóng, lửa, sáng.
 
 Thuộc âm, ta có: mặt trăng, ban đêm, thu, đông, tây, bắc, phía dưới, phía trong, lạnh, nước, tối.
 
-Trong con người, dương là mé ngoài, sau lưng, phần trên, lục phủ, khí, vệ; âm là mé trong, trước ngực và bụng, phần dưới, ngũ, tạng, huyết, vinh.
+Trong _con người_, dương là mé ngoài, sau lưng, phần trên, lục phủ, khí, vệ; âm là mé trong, trước ngực và bụng, phần dưới, ngũ tạng, huyết, vinh.
 
-Về bệnh tật thuộc dương thường khô khan, táo, ôn nhiệt, tiến mạnh, hay động, cấp tính, kinh giật. Bệnh thuộc âm thường ẩm thấp, nhuận, hàn, lạnh, giảm thoái, trầm tĩnh, suy yếu, mãn tính, tê liệt.
+Về _bệnh tật_ thuộc dương thường khô khan, táo, ôn nhiệt, tiến mạnh, hay động, cấp tính, kinh giật. Bệnh thuộc âm thường ẩm thấp, nhuận, hàn, lạnh, giảm thoái, trầm tĩnh, suy yếu, mãn tính, tê liệt.
 
 Âm dương tuy bao hàm ý nghĩa đối lập, mâu thuẫn nhưng còn bao hàm cả ý nghĩa nguồn gốc ở nhau mà ra nữa, hỗ trợ chế ức nhau mà tồn tại, không thể chỉ có âm hoặc chỉ có dương. Trong hình vẽ để hình tượng âm và dương người ta vẽ hai phần bằng nhau đen và trắng, trắng là dương, đen là âm, nhưng trong phần trắng có một điểm đen, trong phần đen có một điểm trắng có nghĩa là trong âm có mầm mống dương và trong dương có sẵn mầm mống của âm rồi.
 
@@ -275,89 +279,105 @@ Lại có người nói: trong âm có âm dương, trong dương cũng có âm 
 
 ### H. Vận dụng thuyết âm dương trong y dược
 
-    1. Phòng bệnh. Muốn đề phòng bệnh tật giữ gìn sức khỏe, phải nắm vững quy luật biến hóa của giới tự nhiên và ứng với sự biến hóa đó, cần giữ gìn nhịp điệu thăng bằng giữa con người và ngoại cảnh.
-    Mùa xuân, mùa hạ thì dưỡng dương khí, mùa thu, mua đông thì dưỡng âm khí.
+1. _Phòng bệnh._ Muốn đề phòng bệnh tật giữ gìn sức khỏe, phải nắm vững quy luật biến hóa của giới tự nhiên và ứng với sự biến hóa đó, cần giữ gìn nhịp điệu thăng bằng giữa con người và ngoại cảnh.
 
-    2. Chẩn đoán và điều trị. Khi chẩn đoán nhìn thấy (vọng) bệnh nhân mặt đỏ, tươi sáng, mắt sáng ngời, da hồng nhuận, thì phần nhiều bệnh thuộc chứng dương; nếu sắc mặt nhợt nhạt, sám tối, có khi xanh bầm hoặc vàng đen, mắt lờ đờ, cử động chậm chạp thì thuộc chứng âm.
+   Mùa xuân, mùa hạ thì dưỡng dương khí, mùa thu, mua đông thì dưỡng âm khí.
 
-    Khi nghe (văn) bệnh nhân nói hay thở, thấy hơi thở, tiếng nói mạnh mẽ thì thuộc bệnh dương; hơi thở, tiếng nói nhỏ yếu thì thuộc bệnh âm.
+2. _Chẩn đoán và điều trị._ Khi chẩn đoán nhìn thấy (vọng) bệnh nhân mặt đỏ, tươi sáng, mắt sáng ngời, da hồng nhuận, thì phần nhiều bệnh thuộc chứng dương; nếu sắc mặt nhợt nhạt, sám tối, có khi xanh bầm hoặc vàng đen, mắt lờ đờ, cử động chậm chạp thì thuộc chứng âm.
 
-    Khi hỏi (vấn) bệnh nhân, thấy bệnh nhân nóng sốt, khát muốn uống nước luôn, đại tiện bị táo, phải nghĩ đến bệnh dương; trái lại nếu bệnh nhân sợ rét lạnh, đại tiện lỏng, chân tay mát, phải nghĩ đến bệnh thuộc âm.
+   Khi _nghe_ (văn) bệnh nhân nói hay thở, thấy hơi thở, tiếng nói mạnh mẽ thì thuộc bệnh dương; hơi thở, tiếng nói nhỏ yếu thì thuộc bệnh âm.
 
-    Khi bắt mạch (thiết), nếu mạch phù nổi, đại (to), hoạt (nhanh) đó là mạch dương; trái lại nếu mạch trầm (sâu) vi (nhỏ), trì (chậm) đó là mạch âm. Khi chữa bệnh thì bệnh dương phải chữa ở âm; bệnh âm phải chữa ở dương, để điều hòa cho đến lúc thăng bằng thì thôi.
+   Khi _hỏi_ (vấn) bệnh nhân, thấy bệnh nhân nóng sốt, khát muốn uống nước luôn, đại tiện bị táo, phải nghĩ đến bệnh dương; trái lại nếu bệnh nhân sợ rét lạnh, đại tiện lỏng, chân tay mát, phải nghĩ đến bệnh thuộc âm.
 
-    Nhưng cũng có khi bệnh như nhiệt mà cho uống thuốc hàn vào thấy nóng tăng lên, thì phải thấy loại nóng này là do âm hư, phải chữa bằng cách bổ âm; nếu bệnh nhân như hàn mà chữa thuốc nóng vào thấy rét thêm, loại rét này phải nghĩ đến do dương hư, nên chữa bằng thuốc trợ dương.
+   Khi _bắt mạch_ (thiết), nếu mạch phù nổi, đại (to), hoạt (nhanh) đó là mạch dương; trái lại nếu mạch trầm (sâu) vi (nhỏ), trì (chậm) đó là mạch âm. Khi chữa bệnh thì bệnh dương phải chữa ở âm; bệnh âm phải chữa ở dương, để điều hòa cho đến lúc thăng bằng thì thôi.
 
-    Trong phép điều trị bằng châm cứu cũng vậy, bệnh ở âm phải chữa dương, bệnh ở dương phải chữa âm.
+   Nhưng cũng có khi _bệnh như nhiệt_ mà cho uống thuốc hàn vào thấy nóng tăng lên, thì phải thấy loại nóng này là do âm hư, phải chữa bằng cách bổ âm; nếu _bệnh nhân như hàn_ mà chữa thuốc nóng vào thấy rét thêm, loại rét này phải nghĩ đến do dương hư, nên chữa bằng thuốc trợ dương.
 
-    Trong cơ thể người ta chia làm lục phủ, ngũ tạng thì lục phủ là đởm, vị, đại, tiểu trường, bàng quang, tam tiêu thuộc dương; ngũ tạng là tâm, can, lì, phế, thận thuộc âm.
+   Trong phép điều trị bằng _châm cứu_ cũng vậy, bệnh ở âm phải chữa dương, bệnh ở dương phải chữa âm.
 
-    Về khí huyết thì khí thuộc dương, huyết thuộc âm.
+   Trong cơ thể người ta chia làm lục phủ, ngũ tạng thì lục phủ là đởm, vị, đại, tiểu trường, bàng quang, tam tiêu thuộc dương; ngũ tạng là tâm, can, lì, phế, thận thuộc âm.
 
-    Nói về vinh vệ thì vệ thuộc dương, vinh thuộc âm.
+   Về khí huyết thì khí thuộc dương, huyết thuộc âm.
 
-    3. Dùng thuốc. Thuốc đông y đại khái chia thành 4 khí 5 vị và thăng giáng, phù trầm.
+   Nói về vinh vệ thì vệ thuộc dương, vinh thuộc âm.
 
-    4 khí là: lạnh và mát thuộc âm. ấm và nóng thuộc dương
+3. _Dùng thuốc_. Thuốc đông y đại khái chia thành 4 khí 5 vị và thăng giáng, phù trầm.
 
-    5 vị thì: cay và ngọt phát tán là dương.
+   4 khí là: _lạnh_ và _mát_ thuộc âm. ấm và nóng thuộc dương
 
-    chua và đắng làm cho đi ngoài, nôn mửa là âm, mặn là âm.
+   5 vị thì: _cay_ và _ngọt_ phát tán là dương.
 
-    nhạt làm cho tiêu thấp, lợi tiểu là dương.
+   _chua_ và _đắng_ làm cho đi ngoài, nôn mửa là âm, mặn là âm.
+
+   _nhạt_ làm cho tiêu thấp, lợi tiểu là dương.
 
 Trong khí vị lại chia ra hậu (đậm đà, nồng nặc), bạc là nhạt nhẽo, nhẹ nhàng thì hậu thuộc âm, nhưng khí hậu lại thuộc dương, vị bạc thuộc dương ở trong âm và khí bạc lại thuộc âm ở trong dương.
 
 Nói về thăng giáng phù trầm thì:
-Thăng và phù (đi lên, nổi) thuộc dương, trầm và giáng (chìm và đi xuống) thuộc âm.
+
+_Thăng_ và _phù_ (đi lên, nổi) thuộc dương, trầm và giáng (chìm và đi xuống) thuộc âm.
+
 Hiểu được quy luật này thì sẽ hiểu lý luận dùng thuốc của đông y.
 
 ### I. Thuyết ngũ hành
 
 Thuyết ngũ hành về căn bản cũng là một cách biểu thị luật mâu thuẫn đã giới thiệu trong thuyết âm dương, nhưng bổ sung và làm cho thuyết âm dương hoàn bị hơn.
 
-Ngũ hành là kim, mộc, thủy, hỏa, thổ.
+_Ngũ hành_ là kim, mộc, thủy, hỏa, thổ.
 
 Người xưa cho rằng mọi vật trong vũ trụ đều chỉ do 5 chất đó phối hợp với nhau mà tạo nên.
 
-Theo tính chất thì: thủy là lỏng, là nước thì đi xuống, thấm xuống.
-Hỏa là lửa thì bùng cháy, bốc lên.
-Mộc là cây, là gỗ thì mọc lên cong hay thẳng.
-Kim là kim loại, thuận chiều theo hay đổi thay.
-Thổ là đất thì để trồng trọt, gây giống được.
+Theo _tính chất_ thì: _thủy_ là lỏng, là nước thì đi xuống, thấm xuống.
 
-Tinh thần cơ bản của thuyết ngũ hành bao gồm hai phương diện giúp đỡ nhau gọi là tương sinh và chống lại nhau gọi là tương khắc.
+_Hỏa_ là lửa thì bùng cháy, bốc lên.
 
-Trên cơ ở sinh và khắc lại thêm hiện tượng chế hóa và tương thừa tương vũ.
+_Mộc_ là cây, là gỗ thì mọc lên cong hay thẳng.
+
+_Kim_ là kim loại, thuận chiều theo hay đổi thay.
+
+_Thổ_ là đất thì để trồng trọt, gây giống được.
+
+Tinh thần cơ bản của thuyết ngũ hành bao gồm hai phương diện giúp đỡ nhau gọi là _tương sinh_ và chống lại nhau gọi là _tương khắc_.
+
+Trên cơ ở sinh và khắc lại thêm hiện tượng _chế hóa_ và _tương thừa tương vũ_.
+
 Tương sinh, tương khắc, chế hóa, tương thừa tương vũ biểu thị mọi sự biến hóa phức tạp của sự vật.
 
-Luật tương sinh. Tương sinh có nghĩa là giúp đỡ nhau để sinh trường. Đem ngũ hành liên hệ với nhau thì thấy 5 hành đó quan hệ xúc tiến lẫn nhau, nương tựa lẫn nhau.
+_Luật tương sinh_. Tương sinh có nghĩa là giúp đỡ nhau để sinh trường. Đem ngũ hành liên hệ với nhau thì thấy 5 hành đó quan hệ xúc tiến lẫn nhau, nương tựa lẫn nhau.
 
 Theo luật tương sinh thì thủy sinh mộc, mộc sinh hỏa, hỏa sinh thổ, thổ sinh kim, kim sinh thủy, thủy lại sinh mộc và cứ như vậy tiếp diễn mãi, thúc đẩy sự phát triển không bao giờ ngừng.
 
-Trong luật tương sinh của ngũ hành còn bao hàm ý nữa là hành nào cũng có quan hệ về hai phương diện: cái sinh ra nó và cái nó sinh ra tức là quan hệ mẫu tử. Ví dụ kim sinh thủy thì kim là mẹ của thủy, thủy lại sinh ra mộc vậy mộc là con của thủy.
+Trong luật tương sinh của ngũ hành còn bao hàm ý nữa là hành nào cũng có quan hệ về hai phương diện: _cái sinh ra nó và cái nó sinh ra tức là quan hệ mẫu tử._ Ví dụ kim sinh thủy thì kim là mẹ của thủy, thủy lại sinh ra mộc vậy mộc là con của thủy.
 
 Trong quan hệ tương sinh lại có quan hệ tương khắc để biểu hiện cái ý thăng bằng, giữ gìn lẫn nhau.
 
-Luật tương khắc. Tương khắc có nghĩa là ức chế và thắng nhau. Trong quy luật tương khác thì mộc khắc thổ, thổ khắc thủy, thủy khắc hỏa, hỏa khắc kim, kim khắc mộc và mộc lại khắc thổ, và cứ như vậy tiếp diễn mãi.
+_Luật tương khắc_. Tương khắc có nghĩa là ức chế và thắng nhau. Trong quy luật tương khác thì mộc khắc thổ, thổ khắc thủy, thủy khắc hỏa, hỏa khắc kim, kim khắc mộc và mộc lại khắc thổ, và cứ như vậy tiếp diễn mãi.
 
 Trong tình trạng bình thường, sự tương khắc có tác dụng duy trì sự thăng bằng, nhưng nếu tương khắc thái quá thì lại làm cho sự biến hóa trở ngại khác thường.
+
 Trong tương khắc, mỗi hành cũng lại có hai quan hệ: giữa cái thắng nó và cái nó thắng. Ví dụ hành mộc thì nó khắc thổ, nhưng nó lại bị kim khắc nó.
 
 Hiện tượng tương khắc không tổn tại đơn độc; trong tương khắc đã có ngụ ý tương sinh, do đó vạn vật tồn tại và phát triển.
 
-Luật chế hóa. Chế hóa là chế ức là sinh hóa phối hợp với nhau. Trong chế hóa bao gồm cả hiện tượng tương sinh và tương khác. Hai hiện tượng này gắn liền với nhau.
+_Luật chế hóa_. Chế hóa là chế ức là sinh hóa phối hợp với nhau. Trong chế hóa bao gồm cả hiện tượng tương sinh và tương khác. Hai hiện tượng này gắn liền với nhau.
 
-Lẽ tạo hóa không thể không có sinh mà cũng không thể không có khắc . Không có sinh thì không có đâu mà này nở; không có khắc thì phát triển quá độ sẽ có hại. Cần phải có sinh trong khắc, có khắc trong sinh mới có vận hành liên tục, tương phản, tương thành với nhau.
+Lẽ tạo hóa không thể không có sinh mà cũng không thể không có khắc. Không có sinh thì không có đâu mà này nở; không có khắc thì phát triển quá độ sẽ có hại. Cần phải có sinh trong khắc, có khắc trong sinh mới có vận hành liên tục, tương phản, tương thành với nhau.
 
 Quy luật chế hóa ngũ hành là:
-Mộc khắc thổ, thổ sinh kim, kim khắc mộc.
-Hỏa khắc kim, kim sinh thủy, thủy khắc hỏa.
-Thổ khắc thủy, thủy sinh mộc, mộc khắc thổ.
-Kim khắc mộc, mộc sinh hỏa, hỏa khắc kim.
-Thủy khắc hỏa, hỏa sinh thổ, thổ khắc thủy.
 
-Luật chế hóa là một kháu trọng yếu trong thuyết ngũ hành. Nó biểu thị sự cân bằng tất nhiên phải thấy trong vạn vật. Nếu có hiện tượng sinh khắc thái quá hoặc không đủ thì sẽ xảy ra những sự biến hóa khác thường. Coi bảng dưới chúng ta thấy mỗi hành đều có mối liên hệ 4 mặt: cái sinh ra nó, cái nó sinh ra, cái khắc nó và cái bị nó khắc.
+> [!NOTE]
+>
+> Mộc khắc thổ, thổ sinh kim, kim khắc mộc.
+>
+> Hỏa khắc kim, kim sinh thủy, thủy khắc hỏa.
+>
+> Thổ khắc thủy, thủy sinh mộc, mộc khắc thổ.
+>
+> Kim khắc mộc, mộc sinh hỏa, hỏa khắc kim.
+>
+> Thủy khắc hỏa, hỏa sinh thổ, thổ khắc thủy.
+
+Luật chế hóa là một khâu trọng yếu trong thuyết ngũ hành. Nó biểu thị sự cân bằng tất nhiên phải thấy trong vạn vật. Nếu có hiện tượng sinh khắc thái quá hoặc không đủ thì sẽ xảy ra những sự biến hóa khác thường. Coi bảng dưới chúng ta thấy mỗi hành đều có mối liên hệ 4 mặt: cái sinh ra nó, cái nó sinh ra, cái khắc nó và cái bị nó khắc.
 
 Ví dụ: Mộc khắc thổ, nhưng thổ lại sinh kim, kim lại khắc mộc. Vậy như nếu mộc khắc thổ một cách quá đáng, thì con của thổ là kim tất nhiên nổi dậy khắc mộc kiểu như con báo thù cho mẹ. Nghĩa là bản thân cái bị khắc có đủ nhân tố chống lại cái khắc nó. Cho nên mộc khắc thổ là để tạo nên tác dụng chế ức, mà duy trì sự cân bằng. Khắc và sinh đều cần thiết cho sự gìn giữ thế cân bằng trong thiên nhiên.
 
@@ -369,16 +389,19 @@ Thuyết ngũ hành là một học thuyết triết học bao trùm mọi mặt
 
 Căn cứ vào hình thái tính chất của từng bộ phận trong cơ thể, của từng vị thuốc, người xưa đã quy nạp các vị thuốc vào từng hành một, rồi vận dụng những tính chất đó trong việc điều trị và tìm thuốc.
 
-Ví dụ hành mộc là cây cỏ, thì màu xanh tươi, vậy, màu xanh thuộc hành mộc; những cây tươi tốt vào mùa xuân vậy mùa xuân cũng thuộc hành mộc; trong mùa xuân nếu có quả thường quả chưa chín thì có vị chua, vậy vị chua cũng thuộc hành mộc; nói đến cơ thể con người thì trong mùa xuân con người ta thích hoạt động, mà theo quan niệm đông y, sự hoạt động của con người do gan chi phối vậy gan (can) thuộc mộc. Cứ như vậy mà suy ra, nguời ta đã quy tất cả các bộ phận trong cơ thể và tất cả những vị thuốc đã biết vào 5 hành đó. Đối với những vị thuốc chưa quy nạp, có thể đựa vào mùi vị màu sắc mà suy ra.
+Ví dụ hành mộc là cây cỏ, thì màu xanh tươi, vậy, màu xanh thuộc hành mộc; những cây tươi tốt vào mùa xuân vậy mùa xuân cũng thuộc hành mộc; trong mùa xuân nếu có quả thường quả chưa chín thì có vị chua, vậy vị chua cũng thuộc hành mộc; nói đến cơ thể con người thì trong mùa xuân con người ta thích hoạt động, mà theo quan niệm đông y, sự hoạt động của con người do gan chi phối vậy gan (can) thuộc mộc. Cứ như vậy mà suy ra, người ta đã quy tất cả các bộ phận trong cơ thể và tất cả những vị thuốc đã biết vào 5 hành đó. Đối với những vị thuốc chưa quy nạp, có thể đựa vào mùi vị màu sắc mà suy ra.
 
 Coi bảng hệ thống quy loại ngũ hành của một số hiện tượng sau:
 
+# TODO: thêm bảng
+
 Trong bảng này chúng tôi chỉ trích giới thiệu một số hiện tượng và tính chất chính đã được quy nạp vào các hành. Trong các tài liệu cũ người ta quy nạp cả tiếng cười, tiếng khóc hay tình cảm như mừng lo, giận sợ vào ngũ hành.
+
 Trên cơ sở tính chất đã quy nạp, người ta vận dụng vào việc tìm thuốc, chế thuốc chữa bệnh như sau:
 
-    Tìm thuốc. Căn cứ vào mùi vị, người ta cho vị thuốc này có tác dụng trên bộ phận này hay bộ phận khác trên cơ thể. Ví dụ một vị có vị ngọt, màu vàng thì sẽ tác dụng vào tỳ vị vì tỳ vị thuộc thổ, mà màu vàng vị ngọt thuộc thổ; một vị thuốc có vị cay, màu trắng thì sẽ tác dụng lên phổi (phế) vì phổi thuộc hành kim, màu trắng, vị cay cũng thuộc hành kim v.v...
+_Tìm thuốc._ Căn cứ vào mùi vị, người ta cho vị thuốc này có tác dụng trên bộ phận này hay bộ phận khác trên cơ thể. Ví dụ một vị có vị ngọt, màu vàng thì sẽ tác dụng vào tỳ vị vì tỳ vị thuộc thổ, mà màu vàng vị ngọt thuộc thổ; một vị thuốc có vị cay, màu trắng thì sẽ tác dụng lên phổi (phế) vì phổi thuộc hành kim, màu trắng, vị cay cũng thuộc hành kim v.v...
 
-    Chế thuốc. Trong việc chế thuốc, người ta cũng vận dụng ngũ hành. Ví dụ muốn cho một vị thuốc tác dụng vào thận, người ta thường chế thuốc với đậu đen vì màu đen thuộc hành thủy mà thận lại thuộc hành thủy. Hoặc nếu phải tẩm thì cần tẩm nước muối vì muối có vị mặn, mà mặn thì thuộc thủy là hành của thận. Nếu muốn vị thuốc tác dụng lên gan và mật thì cần phải tẩm thuốc với giấm vì giấm có vị chua mà chua thì thuộc mộc là hành của gan và mật. Muốn vị thuốc tác dụng theo vào tỳ vị thì cần tẩm với mật, vì ngọt thuốc hành thổ mà thổ là hành của tỳ vị; cũng dựa theo lý luận đó mà người ta tẩm thuốc với đất vách màu vàng để thuốc tốt với tỳ vị vì màu vàng cũng thuộc hành thổ.
+_Chế thuốc_. Trong việc chế thuốc, người ta cũng vận dụng ngũ hành. Ví dụ muốn cho một vị thuốc tác dụng vào thận, người ta thường chế thuốc với đậu đen vì màu đen thuộc hành thủy mà thận lại thuộc hành thủy. Hoặc nếu phải tẩm thì cần tẩm nước muối vì muối có vị mặn, mà mặn thì thuộc thủy là hành của thận. Nếu muốn vị thuốc tác dụng lên gan và mật thì cần phải tẩm thuốc với giấm vì giấm có vị chua mà chua thì thuộc mộc là hành của gan và mật. Muốn vị thuốc tác dụng theo vào tỳ vị thì cần tẩm với mật, vì ngọt thuốc hành thổ mà thổ là hành của tỳ vị; cũng dựa theo lý luận đó mà người ta tẩm thuốc với đất vách màu vàng để thuốc tốt với tỳ vị vì màu vàng cũng thuộc hành thổ.
 
 Trong việc điều trị người ta cũng vận dụng như vậy. Ví dụ: chảy máu thổ huyết. Huyết màu đỏ, thuộc hành hỏa; muốn chống với hành hỏa thì phải dùng hành thủy; hành thủy thì thuộc màu đen, vậy muốn chữa thổ huyết hay chảy máu, thuốc gì cũng phải đốt hay sao cho đen cháy đi. Như vậy là dùng tính chất khác nhau, chống nhau mà chữa bệnh. Muốn bồi bổ thì cũng phải dựa trên ngũ hành, ví dụ muốn bổ cho có thịt thì dùng thuốc có vị ngọt; chữa bệnh phổi dùng vị thuốc có vị cay như tinh dầu.
 
@@ -448,7 +471,7 @@ Ta có thể phân phương pháp bào chế đông y theo ba loại: dùng lử
    b) Ngâm (phiêu) công việc này cũng như rửa nhưng thường kéo dài và phức tạp để làm cho vị thuốc hết mùi tanh, vị mặn ví dụ ngâm hải tảo, côn bố.
    c) Dội còn gọi là bào, là cho vị thuốc vào nước lã hay nước sôi trong một thời gian rồi bóc vỏ ngoài hay chờ cho vị thuốc mềm rồi đem bào thái. Ví dụ ngâm hạnh nhân, đào nhân cho vỡ nở ra rồi xát bỏ đi; sau đó cắt bỏ đầu nhọn.
    Chú ý đừng ngâm lâu quá, chất thuốc tan trong nước và tác dụng của thuốc bị giảm.
-   Trong phương pháp này có khi nguời ta ngâm với nước gạo, nước gừng, nước bổ kết, ngâm rồi lại phơi, phơi rồi lại ngâm làm nhiều lần như vậy (ví dụ chế bán hạ).
+   Trong phương pháp này có khi người ta ngâm với nước gạo, nước gừng, nước bổ kết, ngâm rồi lại phơi, phơi rồi lại ngâm làm nhiều lần như vậy (ví dụ chế bán hạ).
    d) Thủy phi là thêm nước vào vị thuốc rồi cùng tán hay tán rồi cho vào nước khuấy lên để lắng, bột nhỏ lắng dưới, bột to ở trên.
    Thường áp dụng khi chế hoạt thạch, chu sa, thanh đại.
 3. Phương pháp phối hợp cả nước và lửa
