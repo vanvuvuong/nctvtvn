@@ -465,7 +465,11 @@ Trên cơ sở lý luận đó, ta có thể thấy.
 - Những vị thuốc màu vàng, vị ngọt thuộc thổ sẽ vào kinh _túc thái âm (tỳ kinh)_ và _túc dương minh (vị kinh)_.
 - Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào các kinh _thủ thái âm (phế)_ và _thủ dương minh (đại tràng)_. ( # TODO: bản gốc bị lặp từ)
 - Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào kinh _thủ thái âm (phế)_ và _thủ dương minh (đại tràng)_
-- Những vị thuốc màu đen, vị mặn thuộc thủy, vào các kinh _túc thiếu âm (thận) túc thái dương (bàng quang)_. Chúng ta có thể tóm tắt sự phối hợp giữa màu sắc, mùi vị và tạng phủ với kinh lạc theo sơ đồ sau đây.
+- Những vị thuốc màu đen, vị mặn thuộc thủy, vào các kinh _túc thiếu âm (thận) túc thái dương (bàng quang)_.
+
+Chúng ta có thể tóm tắt sự phối hợp giữa màu sắc, mùi vị và tạng phủ với kinh lạc theo sơ đồ sau đây.
+
+#### TODO: thêm ảnh ctú thích
 
 ## III. BÀO CHẾ THUỐC THEO ĐÔNG Y
 
