@@ -1,4 +1,11 @@
-baseURL: 'https://example.org/'
-languageCode: 'en-us'
-title: 'My New Hugo Site'
+baseURL: https://example.org/nctvtvn
+languageCode: en-us
+title: "Những cây thuốc vị thuốc Việt Nam"
 theme: hugo-theme-bootstrap
+build:
+  writeStats: true
+taxonomies:
+  author: authors
+  category: categories
+  series: series
+  tag: tags

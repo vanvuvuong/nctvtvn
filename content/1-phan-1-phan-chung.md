@@ -1,6 +1,6 @@
 ---
 title: Phần I - Phần chung
-description: Phần I - Phần chung
+description: Thuốc đông (bao gồm cả thuốc nam và thuốc bắc) là những vị thuốc kinh nghiệm của ông cha ta, có tác dụng chữa bệnh tốt, dễ kiếm, lại rẻ tiền, việc sử dụng tương đối dễ dùng, nhưng việc sử dụng chỉ mới dựa vào kinh nghiệm và học thuyết âm dương ngũ hành của triết học phương đông còn ít người hiểu, phần lớn chưa được giải thích bằng cơ sở khoa học hiện đại
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
@@ -62,11 +62,13 @@ Trong lần in này, chúng tôi có bổ sung thêm hình vẽ (đen trắng) c
 
 Chúng lôi rất mong các bạn tiếp tục phát hiện những thiếu sót để chúng tời kịp thời bổ sung, sửa chữa.
 
-Mọi ý kiến đóng góp xin gửi về địa chỉ: binhdothanhhn@yahoo.com hoặc dotatloi@hotmail.com.
+Mọi ý kiến đóng góp xin gửi về địa chỉ: [binhdothanhhn@yahoo.com](binhdothanhhn@yahoo.com) hoặc [dotatloi@hotmail.com](dotatloi@hotmail.com).
 
 Tháng 05 năm 2004
 
 Tác giả ký tên
+
+### TODO: thêm chữ ký của tác giả
 
 # Phần I: PHẦN CHUNG
 
@@ -74,7 +76,7 @@ Tác giả ký tên
 
 _Thuốc đông (bao gồm cả thuốc nam và thuốc bắc) là những vị thuốc kinh nghiệm của ông cha ta, có tác dụng chữa bệnh tốt, dễ kiếm, lại rẻ tiền, việc sử dụng tương đối dễ dùng, nhưng việc sử dụng chỉ mới dựa vào kinh nghiệm và học thuyết âm dương ngũ hành của triết học phương đông còn ít người hiểu, phần lớn chưa được giải thích bằng cơ sở khoa học hiện đại._ Có người nói thuốc bắc là thuốc nhập của Trung Quốc. Sự thực, không phải thuốc nào nhập của Trung Quốc cũng gọi là thuốc bắc. Ví dụ ta nhập của Trung Quốc gồm có phục linh, đương quy, bạch truật, hoàng kỳ... và penixilin, sunfamit, glucoza... nhưng chỉ gọi các vị phục linh, đương quy, bạch truật, hoàng kỳ là thuốc bắc, còn penixilin, sunfamit thì lại gọi là thuốc tây nhập của Trung Quốc.
 
-Có người gọi _thuốc nam_ là thuốc sản xuất ở trong nước. Sự thực, ta cũng lại chia thuốc sản xuất ở trong nước ra hai loại thuốc tây bào chế ở Việt Nam và thuốc nam thực sự. Thuốc nam, theo định nghĩa ở trên, được nhân dân một số nơi ở miền Nam gọi là “thuốc vườn” vì có thể kiếm quanh vườn.
+Có người gọi _thuốc nam_ là thuốc sản xuất ở trong nước. Sự thực, ta cũng lại chia thuốc sản xuất ở trong nước ra hai loại thuốc tây bào chế ở Việt Nam và thuốc nam thực sự. Thuốc nam, theo định nghĩa ở trên, được nhân dân một số nơi ở miền Nam gọi là _"thuốc vườn"_ vì có thể kiếm quanh vườn.
 
 Do thuốc đông, trong đó có thuốc nam phần lớn chưa được giải thích trên cơ sở khoa học, cho nên một số người thường đòi hỏi ta phải nghiên cứu để biết trong vị thuốc đó có những hoạt chất gì, cơ chế tác dụng ra sao rói mới sử dụng.
 
@@ -120,7 +122,7 @@ Việc dùng thuốc trong nhân dân ta đã có từ lâu đời. Từ thời 
 
 Kinh nghiệm dần dần tích lũy, không những giúp cho loài người biết lợi dụng tính chất của cây cỏ để làm thức ăn mà còn biết dùng làm thuốc chữa bệnh, hay dùng những vị có chất độc để chế tên thuốc độc dùng trong săn bắn hay trong lúc tự bảo vệ chống ngoại xâm. Lịch sử nước ta cho biết ngay từ khi lập nước nhân dân ta dã biết chế và sử dụng tên độc làm cho bọn xâm lăng khiếp sợ.
 
-Như vậy việc phát minh ra thuốc đã có từ thượng cổ, trong quá trình đấu tranh với thiên nhiên, tìm tòi thức ăn mà có được. Nguồn gốc tìm ra thức ăn, thuốc và cây có chất độc chỉ là một. Về sau dần dần mới biết tổng kết và đặt ra lý luận. Hiện nay, đi sâu vào tìm hiểu những kinh nghiệm chữa bệnh trong nhân dân Việt Nam, chúng ta có thể dễ dàng phân biệt hai loại người làm thuốc. Một loại chỉ có kinh nghiệm chữa bệnh, không biết hay ít biết lý luận, kinh nghiệm cứ cha truyền con nối mà tồn tại, mà phát huy, loại người này chiếm chủ yếu tại các vùng dân tộc ít người. Loại người thứ hai biết dùng thuốc nhưng thêm phần lý luận, loại này chiếm chủ yếu ở thành thị và những người có cơ sở lý luận cho rằng vua Thần Nông(1) là người phát minh ra thuốc. Theo truyền thuyết, một ngày vua Thần Nông nếm 100 cây cỏ để tìm thuốc, có khi một ngày ngộ độc tới 70 lần, rồi soạn ra sách thuốc đầu tiên gọi là “Thần Nông bản thảo”. Trong bộ này có ghi chép tất cả 365 vị thuốc và là một bộ sách thuốc cổ nhất của đông y (chừng 4.000 năm nay). Nhưng theo các nhà nghiên cứu khoa học hiện nay, vua Thần Nông nói ở đây không phải là một người, mà là kinh nghiệm của nhiều người tích lũy lại, ghi chép thành sách, rồi để để truyền bá để gây tin tưởng, tác giả bộ sách đã đặt ra truyền thuyết về vua Thần Nòng nếm cỏ cây tìm thuốc, thời gian viết cũng không phải xa như vậy, chỉ vào khoảng thế kỷ thứ hai.
+Như vậy việc phát minh ra thuốc đã có từ thượng cổ, trong quá trình đấu tranh với thiên nhiên, tìm tòi thức ăn mà có được. Nguồn gốc tìm ra thức ăn, thuốc và cây có chất độc chỉ là một. Về sau dần dần mới biết tổng kết và đặt ra lý luận. Hiện nay, đi sâu vào tìm hiểu những kinh nghiệm chữa bệnh trong nhân dân Việt Nam, chúng ta có thể dễ dàng phân biệt hai loại người làm thuốc. Một loại chỉ có kinh nghiệm chữa bệnh, không biết hay ít biết lý luận, kinh nghiệm cứ cha truyền con nối mà tồn tại, mà phát huy, loại người này chiếm chủ yếu tại các vùng dân tộc ít người. Loại người thứ hai biết dùng thuốc nhưng thêm phần lý luận, loại này chiếm chủ yếu ở thành thị và những người có cơ sở lý luận cho rằng vua Thần Nông(1) là người phát minh ra thuốc. Theo truyền thuyết, một ngày vua Thần Nông nếm 100 cây cỏ để tìm thuốc, có khi một ngày ngộ độc tới 70 lần, rồi soạn ra sách thuốc đầu tiên gọi là _"Thần Nông bản thảo"_. Trong bộ này có ghi chép tất cả 365 vị thuốc và là một bộ sách thuốc cổ nhất của đông y (chừng 4.000 năm nay). Nhưng theo các nhà nghiên cứu khoa học hiện nay, vua Thần Nông nói ở đây không phải là một người, mà là kinh nghiệm của nhiều người tích lũy lại, ghi chép thành sách, rồi để để truyền bá để gây tin tưởng, tác giả bộ sách đã đặt ra truyền thuyết về vua Thần Nòng nếm cỏ cây tìm thuốc, thời gian viết cũng không phải xa như vậy, chỉ vào khoảng thế kỷ thứ hai.
 
 Qua thực tiễn, chúng ta thấy không thể có một người nào đúc kết được tất cả những kinh nghiệm dùng thuốc mà chỉ sưu tầm, ghi chép lại cho có hệ thống mà thôi.
 
@@ -351,6 +353,8 @@ Trong luật tương sinh của ngũ hành còn bao hàm ý nữa là hành nào
 
 Trong quan hệ tương sinh lại có quan hệ tương khắc để biểu hiện cái ý thăng bằng, giữ gìn lẫn nhau.
 
+#### TODO: thêm ảnh ngũ hành
+
 _Luật tương khắc_. Tương khắc có nghĩa là ức chế và thắng nhau. Trong quy luật tương khác thì mộc khắc thổ, thổ khắc thủy, thủy khắc hỏa, hỏa khắc kim, kim khắc mộc và mộc lại khắc thổ, và cứ như vậy tiếp diễn mãi.
 
 Trong tình trạng bình thường, sự tương khắc có tác dụng duy trì sự thăng bằng, nhưng nếu tương khắc thái quá thì lại làm cho sự biến hóa trở ngại khác thường.
@@ -393,7 +397,7 @@ Ví dụ hành mộc là cây cỏ, thì màu xanh tươi, vậy, màu xanh thu�
 
 Coi bảng hệ thống quy loại ngũ hành của một số hiện tượng sau:
 
-# TODO: thêm bảng
+#### TODO: thêm bảng quy loại ngũ hành
 
 Trong bảng này chúng tôi chỉ trích giới thiệu một số hiện tượng và tính chất chính đã được quy nạp vào các hành. Trong các tài liệu cũ người ta quy nạp cả tiếng cười, tiếng khóc hay tình cảm như mừng lo, giận sợ vào ngũ hành.
 
@@ -415,9 +419,9 @@ Tuy nhiên chúng ta cũng cần tránh suy luận lung tung làm cho việc tì
 
 Trong các sách cổ, ngoài việc trình bày tính chất của thuốc theo âm dương, hàn nhiệt, ngũ hành, nhiều khi còn giới thiệu tính chất của thuốc trên các đường kinh lạc.
 
-Ví dụ: vị “mạn kính tử” khí thanh, vị bạc, phù mà thăng dương, vào các kinh túc thái dương (bàng quang kinh), túc quyết âm (can kinh), và túc dương minh (vị kinh) chủ chữa hàn nhiệt ẩn náu ở khoảng gân xương...
+Ví dụ: vị _"mạn kính tử"_ khí thanh, vị bạc, phù mà thăng dương, vào các kinh túc thái dương (bàng quang kinh), túc quyết âm (can kinh), và túc dương minh (vị kinh) chủ chữa hàn nhiệt ẩn náu ở khoảng gân xương...
 
-“Thạch xương bồ” là thuốc vào kinh thủ thiếu âm (tâm kinh) và túc thiếu âm (thận kinh), người nào tâm khí bất túc nên dùng nó (Lý thời Trân)...
+_"Thạch xương bồ"_ là thuốc vào kinh thủ thiếu âm (tâm kinh) và túc thiếu âm (thận kinh), người nào tâm khí bất túc nên dùng nó (Lý thời Trân)...
 
 Vậy ta nên hiểu qua một ít về kinh lạc áp dụng trong tính chất của thuốc. Kinh lạc trước tiên là cơ sở lý luận của phép châm cứu. Nhưng lý luận về kinh lạc lại liên quan chặt chẽ với thuyết âm dương ngũ hành cho nên cũng lại liên hệ chặt chẽ với những quan niệm về cơ thể và về thuốc giới thiệu ở các mục trên.
 
@@ -425,379 +429,486 @@ Chúng tôi thấy cần thiết giới thiệu phần kinh lạc liên quan đ�
 
 Ta biết rằng trong châm cứu, người xưa quan niệm rằng các cơ quan trong cơ thể của ta được chi phối bởi 14 đường kinh mạch chính.
 
-14 đường kinh mạch đó gồm 6 đường ở tay,
-6 đường ở chân và 2 đường kinh mạch ở giữa người. Tất cả phân phối như sau:
+14 đường kinh mạch đó gồm 6 đường ở tay, 6 đường ở chân và 2 đường kinh mạch ở giữa người. Tất cả phân phối như sau:
 
-Ở tay có 1. Kinh thủ thái dương còn gọi là tiểu trường kinh gồm 19 huyệt. 2. Kinh thủ quyết âm còn gọi là tâm bào lạc kinh gồm 9 huyệt. 3. Kinh thủ dương minh còn gọi là đại trường kinh gồm 20 huyệt. 4. Kinh thủ thiếu dương còn gọi là tâm tiêu kinh gồm 23 huyệt. 5. Kinh thủ thiếu âm còn gọi là tâm kinh gồm 9 huyệt. 6. Kinh thủ thái âm còn gọi là phế kinh gồm II huyệt.
-Ở chân có 7. Kinh túc thái dương còn gọi là bàng quang kinh gồm 67 huyệt. 8. Kinh túc quyết âm còn gọi là can kinh gồm 14 huyệt. 9. Kinh túc dương minh còn gọi là vị kinh gồm 45 huyệt. 10. Kinh túc thiếu dương còn gọi là đảm kinh gồm 43 huyệt. 11. Kinh túc thiếu âm còn gọi là thận kinh gồm 27 huyệt. 12. Kinh túc thái âm còn gọi là tỳ kinh gồm 21 huyệt. Ở giữa người gồm hai đường kinh mạch là 13. Đốc mạch kinh ở sau lưng gồm 28 huyệt 14. Nham mạch kinh ở phía bụng gồm 24 huyệt.
+**Ở tay có**
+
+1. Kinh _thủ thái dương_ còn gọi là tiểu trường kinh gồm 19 huyệt.
+2. Kinh _thủ quyết âm_ còn gọi là tâm bào lạc kinh gồm 9 huyệt.
+3. Kinh _thủ dương minh_ còn gọi là đại trường kinh gồm 20 huyệt.
+4. Kinh _thủ thiếu dương_ còn gọi là tâm tiêu kinh gồm 23 huyệt.
+5. Kinh _thủ thiếu âm_ còn gọi là tâm kinh gồm 9 huyệt.
+6. Kinh _thủ thái âm_ còn gọi là phế kinh gồm II huyệt.
+
+**Ở chân có**
+
+7. Kinh _túc thái dương_ còn gọi là bàng quang kinh gồm 67 huyệt.
+8. Kinh _túc quyết âm_ còn gọi là can kinh gồm 14 huyệt.
+9. Kinh _túc dương minh_ còn gọi là vị kinh gồm 45 huyệt.
+10. Kinh _túc thiếu dương_ còn gọi là đảm kinh gồm 43 huyệt.
+11. Kinh _túc thiếu âm_ còn gọi là thận kinh gồm 27 huyệt.
+12. Kinh _túc thái âm_ còn gọi là tỳ kinh gồm 21 huyệt.
+
+**Ở giữa người gồm hai đường kinh mạch là**
+
+13. _Đốc mạch kinh_ ở sau lưng gồm 28 huyệt
+14. _Nhâm mạch kinh_ ở phía bụng gồm 24 huyệt.
 
 Coi tên kinh mạch, chúng ta thấy mỗi kinh mạch lại chi phối một cơ quan trong cơ thể, mỗi cơ quan đó lại thuộc một trong ngũ hành.
 
-Ví dụ: Kinh túc quyết âm hay can kinh và kinh túc thiếu dương hay đảm kinh thuộc hành mộc vị can và đảm thuộc mộc; mộc lại gồm những vị thuốc có màu xanh, vị chua. Vậy những vị thuốc có màu xanh vị chua thường hay vào kinh túc quyết âm và túc thiếu dương.
+Ví dụ: Kinh _túc quyết âm_ hay _can kinh_ và kinh _túc thiếu dương_ hay _đảm kinh_ thuộc hành mộc vị can và đảm thuộc mộc; mộc lại gồm những vị thuốc có màu xanh, vị chua. Vậy những vị thuốc có màu xanh vị chua thường hay vào kinh túc quyết âm và túc thiếu dương.
 
-Kinh thủ thiếu âm hay tâm kinh và kinh thủ thái dương hay tiểu trường kinh đều thuộc hỏa vì tâm và tiểu trường thuộc hành hỏa; những vị thuốc sắc đỏ vị đắng thường vào kinh thủ thiếu âm và kinh thủ thái dương.
+Kinh _thủ thiếu âm_ hay _tâm kinh_ và kinh _thủ thái dương_ hay _tiểu trường kinh_ đều thuộc hỏa vì tâm và tiểu trường thuộc hành hỏa; những vị thuốc sắc đỏ vị đắng thường vào kinh thủ thiếu âm và kinh thủ thái dương.
 
 Trên cơ sở lý luận đó, ta có thể thấy.
 
-- Những vị thuốc màu vàng, vị ngọt thuộc thổ sẽ vào kinh túc thái âm (tỳ kinh) và túc dương minh (vị kinh). Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào các kinh thủ thái âm (phế) và thủ dương minh (đại tràng).
-- Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào kinh thủ thái âm (phế) và thủ dương minh (đại tràng)
-- Những vị thuốc màu đen, vị mặn thuộc thủy, vào các kinh túc thiếu âm (thận) túc thái dương (bàng quang).
-  Chúng ta có thể tóm tắt sự phối hợp giữa màu sắc, mùi vị và tạng phủ với kinh lạc theo sơ đồ sau đây.
+- Những vị thuốc màu vàng, vị ngọt thuộc thổ sẽ vào kinh _túc thái âm (tỳ kinh)_ và _túc dương minh (vị kinh)_.
+- Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào các kinh _thủ thái âm (phế)_ và _thủ dương minh (đại tràng)_. ( # TODO: bản gốc bị lặp từ)
+- Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào kinh _thủ thái âm (phế)_ và _thủ dương minh (đại tràng)_
+- Những vị thuốc màu đen, vị mặn thuộc thủy, vào các kinh _túc thiếu âm (thận) túc thái dương (bàng quang)_. Chúng ta có thể tóm tắt sự phối hợp giữa màu sắc, mùi vị và tạng phủ với kinh lạc theo sơ đồ sau đây.
 
 ## III. BÀO CHẾ THUỐC THEO ĐÔNG Y
 
 Mục đích của phương pháp bào chế theo đông y cũng giống như mọi phương pháp bào chế khác là:
 
-    1. Làm cho vị thuốc tốt hơn lên bằng cách bỏ những bộ phận vô ích rơm rác, vỏ, hạt, v.v... không có tác dụng.
-    2. Giảm bớt hay loại bỏ độc tính của vị thuốc hay những chất không cần thiết đối với một loại bệnh nhất định. Ví dụ rang thảo quyết minh khi không muốn dùng tác dụng tẩy của nó, hay sao toan táo nhân để khi dùng có quá liều vẫn gây ngủ được, không làm bệnh nhân bồn chồn, bứt rứt, hoặc loại bỏ hạt kim anh có độc.
-    3. Giúp cho sự bảo quản dễ dàng hơn. Ví dụ đối với những loại thuốc có tinh bột hay có chất men lâu ngày làm giảm tác dụng chữa bệnh của vị thuốc thì đem đồ lên trước khi phơi để diệt men hay để làm chín một phần tinh bột.
+1. Làm cho vị thuốc tốt hơn lên bằng cách bỏ những bộ phận vô ích rơm rác, vỏ, hạt, v.v... không có tác dụng.
+2. Giảm bớt hay loại bỏ độc tính của vị thuốc hay những chất không cần thiết đối với một loại bệnh nhất định. Ví dụ rang thảo quyết minh khi không muốn dùng tác dụng tẩy của nó, hay sao toan táo nhân để khi dùng có quá liều vẫn gây ngủ được, không làm bệnh nhân bồn chồn, bứt rứt, hoặc loại bỏ hạt kim anh có độc.
+3. Giúp cho sự bảo quản dễ dàng hơn. Ví dụ đối với những loại thuốc có tinh bột hay có chất men lâu ngày làm giảm tác dụng chữa bệnh của vị thuốc thì đem đồ lên trước khi phơi để diệt men hay để làm chín một phần tinh bột.
 
-    Nói chung, phương pháp bào chế theo đông y cũng giống như bào chế tây y nhưng có một số danh từ và cách làm hơi khác. Tuy nhiên do không được đào tạo tại một trường nào cho nên hiện nay bên cạnh cái đúng, hợp lý có lẫn nhiều phương pháp phức tạp, cầu kỳ, đượm màu sắc mê tín không cần thiết. Ở đây chúng tôi chỉ chú ý giới thiệu một số danh từ đặc biệt tương đối thống nhất của phương pháp bào chế đó.
+Nói chung, phương pháp bào chế theo đông y cũng giống như bào chế tây y nhưng có một số danh từ và cách làm hơi khác. Tuy nhiên do không được đào tạo tại một trường nào cho nên hiện nay bên cạnh cái đúng, hợp lý có lẫn nhiều phương pháp phức tạp, cầu kỳ, đượm màu sắc mê tín không cần thiết. Ở đây chúng tôi chỉ chú ý giới thiệu một số danh từ đặc biệt tương đối thống nhất của phương pháp bào chế đó.
 
 Ta có thể phân phương pháp bào chế đông y theo ba loại: dùng lửa, dùng nước và loại phối hợp cả nước và lửa.
 
-1. Phương pháp bào chế chỉ dùng lửa
-   Chủ yếu gồm các phương pháp sau đây
-   a) Nung (đoàn): cho vị thuốc trực tiếp vào lửa hồng hoặc cho vào một chảo đất hay chảo gang để mà nung. Phép này thường dùng đối với các vị thuốc khoáng vật như lô cam thạch, hay các vị thuốc là vỏ sò, vỏ hà như mẫu lệ, thạch quyết minh v.v...
-   b) Vùi hay lùi (ổi): bọc vị thuốc vào giấy ẩm hay bột hồ ẩm rồi vùi tất cả vào tro nóng hay lửa nhẹ cho đến khi giấy hoặc bột hồ khô và cháy đen, giống như ta lùi bánh chưng. Sau khi để nguội, bóc lớp giấy hay bột hồ đi mà dùng vị thuốc ở trong. Trong phép này, bột hồ hay giấy ẩm hút bớt một phần chất dầu của vị thuốc, ví dụ khi ta chế nhục đậu khấu, cam toại.
-   c) Sao (rang): cho vị thuốc vào nồi hay chảo gang, chảo đất, đun nóng và đảo đều. Phương pháp này hay dùng nhất, có khi sao vàng, có khi sao đen. Ví dụ: bạch truật, mạch nha, hoài sơn sao vàng cho có mùi thơm; sơn tra, thần khúc, chi tử sao cháy đen có lẽ để dùng phần than.
-   Sao vàng hay sao đen đều phải giữ cho lửa đều; theo đông y khi sao như vậy vị thuốc tăng mùi thơm sẽ dễ vào tỳ vị hơn, hoặc vì một số vị thuốc là hạt khi sao dòn dễ vỡ, lúc sắc thuốc, dễ ngấm hơn. Những vị thuốc sao cháy thường với mục đích làm cho vị thuốc tăng thêm tính chất thu sáp nhưng sao cháy cần phải tồn tính nghĩa là tuy cháy đen, nhưng không được thành tro. Nếu thành tro tính chất của thuốc sẽ mất hết.
-   d) Trích: phép này rất hay dùng. Ví dụ người ta nói trích cam thảo.
-   Trích là tẩm vào vị thuốc một chất gì mới khác, rồi mới đem sao hay nướng. Trích mật là vị thuốc tẩm mật rồi mới đem sao lên cho vàng. Trích khương là tẩm vị thuốc vào nước gừng rồi mới đem sao lên. Người ta còn trích tửu (rượu), giấm, trích hoàng thổ (đất màu vàng) trích muối hay mỡ.
-   e) Nướng: hơ vị thuốc lên lửa cho đến khi khô, vàng, dòn. Khi nói bổi là có nghĩa dung lửa mạnh hơn. Hồng là dùng lửa nhẹ hơn.
-2. Phương pháp bào chế chỉ dùng nước
-   Thường phương pháp bào chế dùng nước để làm cho vị thuốc mềm mại, dễ thái mỏng, hoặc làm cho vị thuốc được tinh khiết, bớt độc tính, bớt quá mạnh. Phương pháp dùng nước bao gồm: rửa (tẩy), ngâm (phiêu), dội (bào), thủy phi.
-   a) Rửa (tẩy) là làm cho vị thuốc hết đất cát, bụi bẩn; không ngâm lâu.
-   b) Ngâm (phiêu) công việc này cũng như rửa nhưng thường kéo dài và phức tạp để làm cho vị thuốc hết mùi tanh, vị mặn ví dụ ngâm hải tảo, côn bố.
-   c) Dội còn gọi là bào, là cho vị thuốc vào nước lã hay nước sôi trong một thời gian rồi bóc vỏ ngoài hay chờ cho vị thuốc mềm rồi đem bào thái. Ví dụ ngâm hạnh nhân, đào nhân cho vỡ nở ra rồi xát bỏ đi; sau đó cắt bỏ đầu nhọn.
-   Chú ý đừng ngâm lâu quá, chất thuốc tan trong nước và tác dụng của thuốc bị giảm.
-   Trong phương pháp này có khi người ta ngâm với nước gạo, nước gừng, nước bổ kết, ngâm rồi lại phơi, phơi rồi lại ngâm làm nhiều lần như vậy (ví dụ chế bán hạ).
-   d) Thủy phi là thêm nước vào vị thuốc rồi cùng tán hay tán rồi cho vào nước khuấy lên để lắng, bột nhỏ lắng dưới, bột to ở trên.
-   Thường áp dụng khi chế hoạt thạch, chu sa, thanh đại.
-3. Phương pháp phối hợp cả nước và lửa
-   Chủ yếu gồm có chưng (đổ), đun (chử), tôi (tốt), sắc (tiễn), cất.
-   a) Chưng hay đồ là đun cách thủy hay để vị thuốc vào một cái chõ dưới để nước mà đun cho đến khi chín. Ví dụ chưng sinh địa để chế thục địa. Chưng hà thủ ô với đậu đen.
-   b) Đun (chử) là cho vị thuốc vào nước lã hay vào nước ép một vị thuốc khác rồi đun sôi nhẹ cho thuốc chín hay chất của vị thuốc khác ngâm vào vị thuốc bào chế.
-   c) Tôi (tốt) là nung đỏ vị thuốc rồi nhúng ngay vào nước lã hay nước sắc một vị thuốc khác. Làm như vậy nhiều lần. Ví dụ nung tô cam thạch rồi nhúng ngay vào nước hoàng liên.
-   d) Sắc (tiễn) là cho thuốc vào nước, nấu kỹ và cô đặc. Chất thuốc tan vào nước, lấy nước bỏ bã đi.
-   e) Cất là đun lấy hơi bốc lên, để ngưng đọng lại thành nước như cất dầu bạc hà, long não, cất rượu.
-   Trong những phương pháp trên, có khi người ta còn dùng giấm, rượu, nước muối, nước vo gạo, sữa, nước tiểu trẻ con để ngâm hay tẩm, trích nữa. Tất cả những phương pháp đó đều dựa vào lý luận âm dương ngũ hành giới thiệu ở trên, hoặc có khi do kinh nghiệm.
-   Chúng tôi cho rằng lúc đầu người ta dùng thuốc không có chế biến gì cả, dần dần do tình cờ hay tìm tòi, tìm ra những phương pháp độc đáo nhưng rồi truyền khẩu hay giữ bí mật nhiều quá cho nên đôi khi đượm màu mê tín. Chúng ta cần tích cực nghiên cứu, kiểm tra lại.
-4. Làm viên tròn bằng phương pháp lắc thúng
-   Làm viên tròn bằng phương pháp lắc thúng là mộí phương pháp độc đáo trong bào chế đông y.
-   Nguyên tắc của phương pháp lắc thúng là dùng nước hay nước thuốc loãng và bột gây một nhân nhỏ gọi là con viên, sau đó cho bột thuốc bao dần vào xung quanh cho tới mức độ yêu cầu.
-   Phương pháp làm viên tròn bằng lắc thúng thường chỉ áp dụng đối với những bài thuốc không có đường hay mật, hoặc có ít đường mật; trọng lượng bột thuốc từ 500g trở lên.
-   Một người có trình độ nghiệp vụ vừa phải, trong một ngày có thể viên tới 5-10kg bột thuốc, dụng cụ lại rất đơn giản, cho nên rất thích hợp với các phòng thuốc ở xã, huyện.
-   a. Dụng cụ cần thiết cho phương pháp lắc thúng
+1.  **Phương pháp bào chế chỉ dùng lửa**
 
-- Thuyền tán hay cối giã. Thuyền tán tốt nhất, có thể dùng máy xay.
-- Rây cỡ nhỏ mắt. Có thể dùng rây bột bán tại các chợ, nhân dân vẫn dùng rây bột.
-- Sàng đan bằng tre với các cỡ mắt sàng: 1mm, 2mm, 3mm, 5mm.
-- Nồi nhôm để nấu hay cô cao, có thể dùng nồi đồng. Loại nồi to, đáy bằng tốt hơn cả.
-- Thúng lắc bằng tre cật, tốt nhất bằng dang hay bằng nhôm. Thúng nhôm có ưu điểm làm thuốc không dính vào thành thúng. Nếu thúng bằng tre hay dang, nan thúng nên chẻ mảnh, tránh nhiều mắt, đường kính thúng 0,60 - 0,80m, cao 0,18 - 0,20m; thành thẳng đứng, hơi thuôn ở đáy, đáy bằng. Thúng được buộc bằng 3 sợi dây phân đều ở miệng thúng; treo thúng vừa tầm người ngồi hay đứng, ngang tay cho tiện và đỡ mỏi.
-- Khay men hay mâm để đựng viên thuốc.
-- Chậu men để đựng bột và cao nước.
-- Chổi quét: giống như chiếc bút lông to để rẩy cao nước vào viên thuốc trong quá trình lắc thúng.
-- Dàn phơi hay tủ sấy.
-  b. Nguyên liệu để tàm viên tròn lắc thúng
-- Những vị thuốc nào có thể nấu thành cao lỏng thì nấu để làm chất dính.
-- Vị thuốc nào có thể nấu thành cao khô hay cao mềm thì cho nấu để tăng chất giảm lượng viên.
-- Vị thuốc nào tán thành bột thì cho tán thành bột, rây nhỏ. Chú ý phơi hay sấy khô trước khi tán.
-  Nếu trong đơn thuốc không có vị nào có thể nấu thành cao lỏng dính được thì dùng bột nếp nấu thành hồ loãng để làm chất dính.
-  c. Động tác lắc thúng
-  Thúng treo như chiếc nôi, vừa tầm đứng hay ngồi.
-  Nếu đứng: chân trái đưa ra phía trước, chân phải làm trụ như đứng xay lúa hay tát nước.
-  Nếu ngồi: treo thúng ngang tầm, tay phải cầm úp miệng thúng, tay trái ngửa lòng bàn tay nắm lấy miệng thúng. Tay phải đưa thúng vòng tròn như sàng gạo; thúng tre nhẹ, với tư thế ngồi dễ lắc hơn tư thế đứng. Tư thế đứng áp dụng cho thúng nhôm tiện hơn.
-  Khi đứng, tay phải lòng bàn tay nắm úp miệng thúng; tay trái ngửa lòng bàn tay ra nắm lấy miệng thúng. Hai cánh tay thẳng nâng thúng lên rồi đưa ra cho đúng tầm, rồi lại kéo về phía mình, và ấn thúng xuống. Hai tay điều khiển cho thúng lắc đều thì viên mới tròn đều.
-  Xí nghiệp dược phẩm Hà Tây có sáng kiến lắp vào miệng thúng một bộ phận nhỏ có ổ bi giúp cho việc lắc thúng được nhẹ nhàng mà viên vẫn tròn.
-  Hiện nay tại những nơi có điện, động tác lắc thúng có thể thay bằng máy như máy làm viên kẹo bọc đường.
-  d. Cách làm cụ thể viên tròn bằng phương pháp lắc thúng
-  Sau khi đã chuẩn bị nguyên liệu, cao thuốc và nước hồ dính thì bắt đầu làm viên tròn. Có ba giai đoạn là; gây con viên, làm viên, và bao viên.
-  (1) Gây con viên: Cứ 1kg thuốc bột thì dùng khoảng 30g bột, cho vào chậu men sạch; cho từ từ chất dính (cao lỏng hay hồ nếp loãng) trộn đều cho đến khi bột ướt đều (30g bột thì dùng khoảng 60ml cao lỏng hay nước hồ loãng). Cho lên sàng, sàng (mắt sàng 2mm) xát cho bột rơi xuống thành những hạt nhỏ vào thúng lắc.
-  Cầm thúng lắc nhẹ cho hạt thuốc chạy đều trong thúng; lấy chổi lông nhúng vào nước dính (ép chổi lông vào thành chậu cho nước dính chảy bớt đi) dùng chổi quét đều bên thúng (bên không có những hạt thuốc), thành một lớp nước mỏng rồi cầm thúng lắc cho những hạt trượt lên nước và thấm đều vào hạt. 1-2 phút sau, lại quét nước dính một lần nữa. Sau vài phút, dùng thìa múc độ 1g thuốc bột, rắc vào những hạt thuốc để bột phủ trên hạt thành một lớp mỏng, rồi cầm thúng lắc cho bột quyện đều vào hạt. Cách vài phút lại quét nước dính và cho bột thuốc như trên. Độ 30 phút sau, khi con viên đã hơi to, thì dùng sàng (mắt sàng 1mm) để loại những hạt quá nhỏ. Những hạt nhỏ này để riêng ra, dùng làm con viên cho mẻ sau.
-  (2) Làm viên chính thức: Những hạt to còn lại trên sàng được cho vào thúng lắc, cho thêm nước dính và bột như trên. Cứ làm như vậy, ta thấy hạt to dần lên. Khi những hạt to dần thì mỗi lần quét nước dính hay thêm bột cũng tăng lên, mỗi lần 2-3g bột. Thỉnh thoảng lại đem ra sàng rồi lại tiếp tục lắc. Những hạt lọt qua sàng đem lắc cho đến khi có kích thước bằng những hạt to để riêng thì lại cho chung vào với viên to rồi lại lắc. Cuối cùng khi viên đủ kích thước yêu cầu thì sàng qua rây có mắt 3 - 4mm để viên thuốc có kích thước không chênh lệch nhau nhiều. Lấy viên ra và tiếp tục làm mẻ khác cho tới khi hết bột.
-  (3) Bao viên: Khi viên thuốc đã làm xong, viên thuốc thường được bao để giữ hương vị và giúp cho bảo quản, chống mốc. Viên cũng đẹp hơn. Chất dùng bao thuốc viên có thể là hoạt thạch, chu sa, thần sa, than mịn hay cũng có thể là những dược liệu được nấu thành cao như cao ngải cứu, cao kim anh hoặc có thể dùng một thứ bột trắng mịn như hoài sơn.
-  Cứ 1kg thuốc viên thường cần 200g bột thuốc hay cao thuốc để bao viên. Động tác bao viên cũng giống động tác lắc thúng như nói trên.
-  Viên thuốc sau khi hoàn thành cần phơi hay sấy khô rồi mới bao; sau khi bao xong, lại phải phơi hay sấy lại lần nữa.
-  Một thí dụ cụ thể làm viên thuốc điều kinh bằng cách lắc thúng
-  Nguyên liệu và liều lượng để chế 1 kg viên tròn:
-  Hương phụ 600 g
-  Trần bì 400 g
-  Ích mẫu khô 400 g
-  Ngải cứu khô 400 g
-  Ô tặc cốt 400 g
-  Cách làm: Hương phụ giã trong cối giã gạo cho trầy hết vỏ đen, sảy bỏ vỏ đen, tán và rây lấy bột mịn, được 550g bột.
-  Trần bì sao vàng, tán nhỏ, được 300g.
-  Ngải cứu và ích mẫu rửa sạch, phơi khô, thái thành từng mẩu 3-4cm, thêm nước vào cho ngập độ 3cm, đun sôi trong 4 giờ gạn lọc lấy nước nhất, bã thêm nước nấu sôi 3 giờ, gạn lọc lấy nước hai. Hợp cả hai nước, cô còn 600ml. Mỗi ml cao tương ứng với 1g nguyên liệu. Cao này quá đặc, dùng để bao quản. Khi dùng cần pha loãng để lấy độ dính. Để nguyên rất khó viên.
-  Ô tặc cốt sau khi loại bỏ vỏ cứng, cho vào thúng ngâm và luộc 3 giờ để loại bỏ muối mặn. Vớt ra phơi khô, loại bỏ miếng đen, tán bột, rây mịn, được 300g. 
-  Trộn đều cả ba thứ bột hương phụ, ô tặc cốt và trần bì với nhau. Cuối cùng rây và được 1,1 kg bột kép.
-  Gây con viên: Vì cao ích mẫu, ngải cứu quá dính, cho nên phải pha loãng với tỉ lệ 150ml cao lỏng với 150ml nước đun sôi để nguội.
-  Cân 25g bột kép (tỷ lệ 2% so với tổng số bột kép) cho vào chậu men, cho từ từ cao đã pha loãng như trên, vừa cho vừa trộn đều cho đến khi bột ướt (dùng chừng 50ml cao đã pha loãng). Xát qua sàng 2mm cho những hạt thuốc rơi xuống thúng. Lắc thúng. Sau vài phút, dùng chổi lông thấm chất dính quét nhẹ một lớp bên trên thúng (bên không có thuốc), lắc thúng. Viên thuốc được thấm đều. Làm như trên một lần nữa, rồi cho 1g bột rắc nhẹ lên hạt thuốc. Lắc cho bột quyện đều vào viên. Cứ làm như vậy chừng một giờ thì có những hạt to bằng hạt đậu xanh, dùng sàng để loại những hạt bé quá (lọt qua mắt sàng 1mm). Những viên bé quá lọt qua sàng sẽ dùng làm con viên cho mẻ sau. Dùng sàng 2mm để loại cả những viên quá to.
-  Làm viên: Những hạt trung bình được cho vào thúng và tiếp tục lắc, thỉnh thoảng thêm chất dính và bột kép với số lượng nhiều hơn lúc gây con. Khi cao pha loãng đã dùng hết, lúc này viên thuốc đã lớn, nên tiếp tục dùng loại cao 1ml tương đương với 1g nguyên liệu để làm chất dính. Trong quá trình làm viên, nếu thấy viên to nhỏ không đều nhau thì cần sàng để loại bỏ những viên to quá hay nhỏ quá.
-  Bao viên: Dùng cao ngải cứu và ích mẫu để bao viên. Cao này cần cô cho đặc hơn; 1 ml cao tương ứng 2g nguyên liệu.
-  Cho thuốc viên đã phơi khô vào thúng lắc, dùng chổi quét cao vào thúng. Lắc cho viên thấm đều. Làm nhiều lần cho đến khi viên thuốc được bao đều bằng một lớp cao là được. Phơi hay sấy viên cho khô. Làm lại lần thứ hai cho đến khi các viên bóng đồng màu là được. Cuối cùng phơi hay sấy thật khô.
+    Chủ yếu gồm các phương pháp sau đây
 
-IV. CƠ SỞ ĐỂ XÉT TÁC DỤNG CỦA THUỐC THEO KHOA HỌC HIỆN ĐẠI (TÂY Y)
+    a) _Nung (đoàn)_: cho vị thuốc trực tiếp vào lửa hồng hoặc cho vào một chảo đất hay chảo gang để mà nung. Phép này thường dùng đối với các vị thuốc khoáng vật như lô cam thạch, hay các vị thuốc là vỏ sò, vỏ hà như mẫu lệ, thạch quyết minh v.v...
+
+    b) _Vùi hay lùi (ổi)_: bọc vị thuốc vào giấy ẩm hay bột hồ ẩm rồi vùi tất cả vào tro nóng hay lửa nhẹ cho đến khi giấy hoặc bột hồ khô và cháy đen, giống như ta lùi bánh chưng. Sau khi để nguội, bóc lớp giấy hay bột hồ đi mà dùng vị thuốc ở trong. Trong phép này, bột hồ hay giấy ẩm hút bớt một phần chất dầu của vị thuốc, ví dụ khi ta chế nhục đậu khấu, cam toại.
+
+    c) _Sao (rang)_: cho vị thuốc vào nồi hay chảo gang, chảo đất, đun nóng và đảo đều. Phương pháp này hay dùng nhất, có khi sao vàng, có khi sao đen. Ví dụ: bạch truật, mạch nha, hoài sơn sao vàng cho có mùi thơm; sơn tra, thần khúc, chi tử sao cháy đen có lẽ để dùng phần than.
+
+    Sao vàng hay sao đen đều phải giữ cho lửa đều; theo đông y khi sao như vậy vị thuốc tăng mùi thơm sẽ dễ vào tỳ vị hơn, hoặc vì một số vị thuốc là hạt khi sao dòn dễ vỡ, lúc sắc thuốc, dễ ngấm hơn. Những vị thuốc sao cháy thường với mục đích làm cho vị thuốc tăng thêm tính chất thu sáp nhưng sao cháy cần phải tồn tính nghĩa là tuy cháy đen, nhưng không được thành tro. Nếu thành tro tính chất của thuốc sẽ mất hết.
+
+    d) _Trích_: phép này rất hay dùng. Ví dụ người ta nói trích cam thảo.
+    Trích là tẩm vào vị thuốc một chất gì mới khác, rồi mới đem sao hay nướng. Trích mật là vị thuốc tẩm mật rồi mới đem sao lên cho vàng. Trích khương là tẩm vị thuốc vào nước gừng rồi mới đem sao lên. Người ta còn trích tửu (rượu), giấm, trích hoàng thổ (đất màu vàng) trích muối hay mỡ.
+
+    e) _Nướng_: hơ vị thuốc lên lửa cho đến khi khô, vàng, dòn. Khi nói bổi là có nghĩa dung lửa mạnh hơn. Hồng là dùng lửa nhẹ hơn.
+
+2.  **Phương pháp bào chế chỉ dùng nước**
+
+    Thường phương pháp bào chế dùng nước để làm cho vị thuốc mềm mại, dễ thái mỏng, hoặc làm cho vị thuốc được tinh khiết, bớt độc tính, bớt quá mạnh. Phương pháp dùng nước bao gồm: rửa (tẩy), ngâm (phiêu), dội (bào), thủy phi.
+
+    a) _Rửa (tẩy)_ là làm cho vị thuốc hết đất cát, bụi bẩn; không ngâm lâu.
+
+    b) _Ngâm (phiêu)_ công việc này cũng như rửa nhưng thường kéo dài và phức tạp để làm cho vị thuốc hết mùi tanh, vị mặn ví dụ ngâm hải tảo, côn bố.
+
+    c) _Dội_ còn gọi là _bào_, là cho vị thuốc vào nước lã hay nước sôi trong một thời gian rồi bóc vỏ ngoài hay chờ cho vị thuốc mềm rồi đem bào thái. Ví dụ ngâm hạnh nhân, đào nhân cho vỡ nở ra rồi xát bỏ đi; sau đó cắt bỏ đầu nhọn.
+    Chú ý đừng ngâm lâu quá, chất thuốc tan trong nước và tác dụng của thuốc bị giảm.
+    Trong phương pháp này có khi người ta ngâm với nước gạo, nước gừng, nước bổ kết, ngâm rồi lại phơi, phơi rồi lại ngâm làm nhiều lần như vậy (ví dụ chế bán hạ).
+
+    d) _Thủy phi_ là thêm nước vào vị thuốc rồi cùng tán hay tán rồi cho vào nước khuấy lên để lắng, bột nhỏ lắng dưới, bột to ở trên.
+
+    Thường áp dụng khi chế hoạt thạch, chu sa, thanh đại.
+
+3.  **Phương pháp phối hợp cả nước và lửa**
+
+    Chủ yếu gồm có chưng (đổ), đun (chử), tôi (tốt), sắc (tiễn), cất.
+
+    a) _Chưng_ hay _đồ_ là đun cách thủy hay để vị thuốc vào một cái chõ dưới để nước mà đun cho đến khi chín. Ví dụ chưng sinh địa để chế thục địa. Chưng hà thủ ô với đậu đen.
+
+    b) _Đun (chử)_ là cho vị thuốc vào nước lã hay vào nước ép một vị thuốc khác rồi đun sôi nhẹ cho thuốc chín hay chất của vị thuốc khác ngâm vào vị thuốc bào chế.
+
+    c) _Tôi (tốt)_ là nung đỏ vị thuốc rồi nhúng ngay vào nước lã hay nước sắc một vị thuốc khác. Làm như vậy nhiều lần. Ví dụ nung tô cam thạch rồi nhúng ngay vào nước hoàng liên.
+
+    d) _Sắc (tiễn)_ là cho thuốc vào nước, nấu kỹ và cô đặc. Chất thuốc tan vào nước, lấy nước bỏ bã đi.
+
+    e) _Cất_ là đun lấy hơi bốc lên, để ngưng đọng lại thành nước như cất dầu bạc hà, long não, cất rượu.
+
+    Trong những phương pháp trên, có khi người ta còn dùng giấm, rượu, nước muối, nước vo gạo, sữa, nước tiểu trẻ con để ngâm hay tẩm, trích nữa. Tất cả những phương pháp đó đều dựa vào lý luận âm dương ngũ hành giới thiệu ở trên, hoặc có khi do kinh nghiệm.
+
+    Chúng tôi cho rằng lúc đầu người ta dùng thuốc không có chế biến gì cả, dần dần do tình cờ hay tìm tòi, tìm ra những phương pháp độc đáo nhưng rồi truyền khẩu hay giữ bí mật nhiều quá cho nên đôi khi đượm màu mê tín. Chúng ta cần tích cực nghiên cứu, kiểm tra lại.
+
+4.  **Làm viên tròn bằng phương pháp lắc thúng**
+
+    Làm viên tròn bằng phương pháp lắc thúng là mộí phương pháp độc đáo trong bào chế đông y.
+
+    Nguyên tắc của phương pháp lắc thúng là dùng nước hay nước thuốc loãng và bột gây một nhân nhỏ gọi là con viên, sau đó cho bột thuốc bao dần vào xung quanh cho tới mức độ yêu cầu.
+
+    Phương pháp làm viên tròn bằng lắc thúng thường chỉ áp dụng đối với những bài thuốc không có đường hay mật, hoặc có ít đường mật; trọng lượng bột thuốc từ 500g trở lên.
+
+    Một người có trình độ nghiệp vụ vừa phải, trong một ngày có thể viên tới 5-10kg bột thuốc, dụng cụ lại rất đơn giản, cho nên rất thích hợp với các phòng thuốc ở xã, huyện.
+
+    a. **Dụng cụ cần thiết cho phương pháp lắc thúng**
+
+    - Thuyền tán hay cối giã. Thuyền tán tốt nhất, có thể dùng máy xay.
+    - Rây cỡ nhỏ mắt. Có thể dùng rây bột bán tại các chợ, nhân dân vẫn dùng rây bột.
+    - Sàng đan bằng tre với các cỡ mắt sàng: 1mm, 2mm, 3mm, 5mm.
+    - Nồi nhôm để nấu hay cô cao, có thể dùng nồi đồng. Loại nồi to, đáy bằng tốt hơn cả.
+    - Thúng lắc bằng tre cật, tốt nhất bằng dang hay bằng nhôm. Thúng nhôm có ưu điểm làm thuốc không dính vào thành thúng. Nếu thúng bằng tre hay dang, nan thúng nên chẻ mảnh, tránh nhiều mắt, đường kính thúng 0,60 - 0,80m, cao 0,18 - 0,20m; thành thẳng đứng, hơi thuôn ở đáy, đáy bằng. Thúng được buộc bằng 3 sợi dây phân đều ở miệng thúng; treo thúng vừa tầm người ngồi hay đứng, ngang tay cho tiện và đỡ mỏi.
+    - Khay men hay mâm để đựng viên thuốc.
+    - Chậu men để đựng bột và cao nước.
+    - Chổi quét: giống như chiếc bút lông to để rẩy cao nước vào viên thuốc trong quá trình lắc thúng.
+    - Dàn phơi hay tủ sấy.
+
+    b. **Nguyên liệu để tàm viên tròn lắc thúng**
+
+    - Những vị thuốc nào có thể nấu thành cao lỏng thì nấu để làm chất dính.
+    - Vị thuốc nào có thể nấu thành cao khô hay cao mềm thì cho nấu để tăng chất giảm lượng viên.
+    - Vị thuốc nào tán thành bột thì cho tán thành bột, rây nhỏ. Chú ý phơi hay sấy khô trước khi tán.
+
+      Nếu trong đơn thuốc không có vị nào có thể nấu thành cao lỏng dính được thì dùng bột nếp nấu thành hồ loãng để làm chất dính.
+
+    c. **Động tác lắc thúng**
+
+    Thúng treo như chiếc nôi, vừa tầm đứng hay ngồi.
+
+    Nếu đứng: chân trái đưa ra phía trước, chân phải làm trụ như đứng xay lúa hay tát nước.
+
+    Nếu ngồi: treo thúng ngang tầm, tay phải cầm úp miệng thúng, tay trái ngửa lòng bàn tay nắm lấy miệng thúng. Tay phải đưa thúng vòng tròn như sàng gạo; thúng tre nhẹ, với tư thế ngồi dễ lắc hơn tư thế đứng. Tư thế đứng áp dụng cho thúng nhôm tiện hơn.
+
+    Khi đứng, tay phải lòng bàn tay nắm úp miệng thúng; tay trái ngửa lòng bàn tay ra nắm lấy miệng thúng. Hai cánh tay thẳng nâng thúng lên rồi đưa ra cho đúng tầm, rồi lại kéo về phía mình, và ấn thúng xuống. Hai tay điều khiển cho thúng lắc đều thì viên mới tròn đều.
+
+    Xí nghiệp dược phẩm Hà Tây có sáng kiến lắp vào miệng thúng một bộ phận nhỏ có ổ bi giúp cho việc lắc thúng được nhẹ nhàng mà viên vẫn tròn.
+
+    Hiện nay tại những nơi có điện, động tác lắc thúng có thể thay bằng máy như máy làm viên kẹo bọc đường.
+
+    d. **Cách làm cụ thể viên tròn bằng phương pháp lắc thúng**
+
+    Sau khi đã chuẩn bị nguyên liệu, cao thuốc và nước hồ dính thì bắt đầu làm viên tròn. Có ba giai đoạn là; gây con viên, làm viên, và bao viên.
+
+    (1) _Gây con viên_: Cứ 1kg thuốc bột thì dùng khoảng 30g bột, cho vào chậu men sạch; cho từ từ chất dính (cao lỏng hay hồ nếp loãng) trộn đều cho đến khi bột ướt đều (30g bột thì dùng khoảng 60ml cao lỏng hay nước hồ loãng). Cho lên sàng, sàng (mắt sàng 2mm) xát cho bột rơi xuống thành những hạt nhỏ vào thúng lắc.
+    Cầm thúng lắc nhẹ cho hạt thuốc chạy đều trong thúng; lấy chổi lông nhúng vào nước dính (ép chổi lông vào thành chậu cho nước dính chảy bớt đi) dùng chổi quét đều bên thúng (bên không có những hạt thuốc), thành một lớp nước mỏng rồi cầm thúng lắc cho những hạt trượt lên nước và thấm đều vào hạt. 1-2 phút sau, lại quét nước dính một lần nữa. Sau vài phút, dùng thìa múc độ 1g thuốc bột, rắc vào những hạt thuốc để bột phủ trên hạt thành một lớp mỏng, rồi cầm thúng lắc cho bột quyện đều vào hạt. Cách vài phút lại quét nước dính và cho bột thuốc như trên. Độ 30 phút sau, khi con viên đã hơi to, thì dùng sàng (mắt sàng 1mm) để loại những hạt quá nhỏ. Những hạt nhỏ này để riêng ra, dùng làm con viên cho mẻ sau.
+
+    (2) _Làm viên chính thức_: Những hạt to còn lại trên sàng được cho vào thúng lắc, cho thêm nước dính và bột như trên. Cứ làm như vậy, ta thấy hạt to dần lên. Khi những hạt to dần thì mỗi lần quét nước dính hay thêm bột cũng tăng lên, mỗi lần 2-3g bột. Thỉnh thoảng lại đem ra sàng rồi lại tiếp tục lắc. Những hạt lọt qua sàng đem lắc cho đến khi có kích thước bằng những hạt to để riêng thì lại cho chung vào với viên to rồi lại lắc. Cuối cùng khi viên đủ kích thước yêu cầu thì sàng qua rây có mắt 3 - 4mm để viên thuốc có kích thước không chênh lệch nhau nhiều. Lấy viên ra và tiếp tục làm mẻ khác cho tới khi hết bột.
+
+    (3) _Bao viên_: Khi viên thuốc đã làm xong, viên thuốc thường được bao để giữ hương vị và giúp cho bảo quản, chống mốc. Viên cũng đẹp hơn. Chất dùng bao thuốc viên có thể là hoạt thạch, chu sa, thần sa, than mịn hay cũng có thể là những dược liệu được nấu thành cao như cao ngải cứu, cao kim anh hoặc có thể dùng một thứ bột trắng mịn như hoài sơn.
+
+    Cứ 1kg thuốc viên thường cần 200g bột thuốc hay cao thuốc để bao viên. Động tác bao viên cũng giống động tác lắc thúng như nói trên.
+
+    Viên thuốc sau khi hoàn thành cần phơi hay sấy khô rồi mới bao; sau khi bao xong, lại phải phơi hay sấy lại lần nữa.
+
+    **Một thí dụ cụ thể làm viên thuốc điều kinh bằng cách lắc thúng**
+
+    _Nguyên liệu và liều lượng để chế 1 kg viên tròn:_
+
+    | -            | -    |
+    | ------------ | ---- |
+    | Hương phụ    | 600g |
+    | Trần bì      | 400g |
+    | Ích mẫu khô  | 400g |
+    | Ngải cứu khô | 400g |
+    | Ô tặc cốt    | 400g |
+
+    _Cách làm_: Hương phụ giã trong cối giã gạo cho trầy hết vỏ đen, sảy bỏ vỏ đen, tán và rây lấy bột mịn, được 550g bột.
+
+    Trần bì sao vàng, tán nhỏ, được 300g.
+
+    Ngải cứu và ích mẫu rửa sạch, phơi khô, thái thành từng mẩu 3-4cm, thêm nước vào cho ngập độ 3cm, đun sôi trong 4 giờ gạn lọc lấy nước nhất, bã thêm nước nấu sôi 3 giờ, gạn lọc lấy nước hai. Hợp cả hai nước, cô còn 600ml. Mỗi ml cao tương ứng với 1g nguyên liệu. Cao này quá đặc, dùng để bao quản. Khi dùng cần pha loãng để lấy độ dính. Để nguyên rất khó viên.
+
+    Ô tặc cốt sau khi loại bỏ vỏ cứng, cho vào thúng ngâm và luộc 3 giờ để loại bỏ muối mặn. Vớt ra phơi khô, loại bỏ miếng đen, tán bột, rây mịn, được 300g.
+
+    Trộn đều cả ba thứ bột hương phụ, ô tặc cốt và trần bì với nhau. Cuối cùng rây và được 1,1 kg bột kép.
+
+    _Gây con viên_: Vì cao ích mẫu, ngải cứu quá dính, cho nên phải pha loãng với tỉ lệ 150ml cao lỏng với 150ml nước đun sôi để nguội.
+
+    Cân 25g bột kép (tỷ lệ 2% so với tổng số bột kép) cho vào chậu men, cho từ từ cao đã pha loãng như trên, vừa cho vừa trộn đều cho đến khi bột ướt (dùng chừng 50ml cao đã pha loãng). Xát qua sàng 2mm cho những hạt thuốc rơi xuống thúng. Lắc thúng. Sau vài phút, dùng chổi lông thấm chất dính quét nhẹ một lớp bên trên thúng (bên không có thuốc), lắc thúng. Viên thuốc được thấm đều. Làm như trên một lần nữa, rồi cho 1g bột rắc nhẹ lên hạt thuốc. Lắc cho bột quyện đều vào viên. Cứ làm như vậy chừng một giờ thì có những hạt to bằng hạt đậu xanh, dùng sàng để loại những hạt bé quá (lọt qua mắt sàng 1mm). Những viên bé quá lọt qua sàng sẽ dùng làm con viên cho mẻ sau. Dùng sàng 2mm để loại cả những viên quá to.
+
+    _Làm viên:_ Những hạt trung bình được cho vào thúng và tiếp tục lắc, thỉnh thoảng thêm chất dính và bột kép với số lượng nhiều hơn lúc gây con. Khi cao pha loãng đã dùng hết, lúc này viên thuốc đã lớn, nên tiếp tục dùng loại cao 1ml tương đương với 1g nguyên liệu để làm chất dính. Trong quá trình làm viên, nếu thấy viên to nhỏ không đều nhau thì cần sàng để loại bỏ những viên to quá hay nhỏ quá.
+
+    _Bao viên_: Dùng cao ngải cứu và ích mẫu để bao viên. Cao này cần cô cho đặc hơn; 1 ml cao tương ứng 2g nguyên liệu.
+
+    Cho thuốc viên đã phơi khô vào thúng lắc, dùng chổi quét cao vào thúng. Lắc cho viên thấm đều. Làm nhiều lần cho đến khi viên thuốc được bao đều bằng một lớp cao là được. Phơi hay sấy viên cho khô. Làm lại lần thứ hai cho đến khi các viên bóng đồng màu là được. Cuối cùng phơi hay sấy thật khô.
+
+## IV. CƠ SỞ ĐỂ XÉT TÁC DỤNG CỦA THUỐC THEO KHOA HỌC HIỆN ĐẠI (TÂY Y)
+
 Khi xét tác dụng của một vị thuốc, khoa học hiện đại căn cứ chủ yếu vào thành phần hóa học của vị thuốc, nghĩa là tìm xem trong vị thuốc có những chất gì, tác dụng của những chất đó trên cơ thể súc vật và người ra sao.
-Hiện nay, người ta biết rằng trong các vị thuốc có những chất có tác dụng chữa bệnh đặc biệt của vị thuốc, gọi là hoạt chất và những chất chung chung nhiều cây và vị thuốc khác cũng có, ta gọi những chất đó là những chất độn. Những chất độn không đóng vai trò gì trong việc chữa bệnh; tuy nhiên có một số chất độn chỉ gặp ở một số vị thuốc nhất định, người ta có thể dựa vào việc tìm chất độn đó để kết luận có phải là vị thuốc đó hay không.
-Các chất có trong vị thuốc (còn gọi là thành phần hóa học) có thể chia làm 2 nhóm chính:
-Nhóm những chất vô cơ và nhóm những chất hữu cơ.
+
+Hiện nay, người ta biết rằng trong các vị thuốc có những chất có tác dụng chữa bệnh đặc biệt của vị thuốc, gọi là _hoạt chất_ và những chất chung chung nhiều cây và vị thuốc khác cũng có, ta gọi những chất đó là những _chất độn_. Những chất độn không đóng vai trò gì trong việc chữa bệnh; tuy nhiên có một số chất độn chỉ gặp ở một số vị thuốc nhất định, người ta có thể dựa vào việc tìm chất độn đó để kết luận có phải là vị thuốc đó hay không.
+
+Các _chất có trong vị thuốc_ (còn gọi là thành phần hóa học) có thể chia làm 2 nhóm chính:
+
+Nhóm những _chất vô cơ_ và nhóm những _chất hữu cơ_.
+
 Cả hai nhóm đều hay gặp trong các vị thuốc động vật hay thực vật. Những thuốc nguồn gốc khoáng vật (lô cam thạch, chu sa, hoạt thạch v.v...) chủ yếu chỉ chứa các chất thuộc nhóm vô cơ.
+
 Những chất vô cơ tương đối ít và tác dụng tương đối ít phức tạp; trái lại các chất hữu cơ rất nhiều loại, mà tác dụng cũng rất phức tạp. Chúng ta cũng lại biết rằng khoa học hiện nay chưa phân tích được hết các chất có trong cây hay động vật, do đó nhiều khi cũng chưa giải thích được hết tác dụng của mọi thứ thuốc ông cha ta vẫn dùng.
-Việc nghiên cứu và xét tác dụng chữa bệnh của một vị thuốc không dễ dàng, vì trong một vị thuốc nhiều khi chứa nhiều hoạt chất có khi có tác dụng phối hợp, nhưng nhiều khi lại có tác dụng ngược hẳn nhau. Thay đổi liều lượng cũng có thể đưa đến những kết quả chữa bệnh khác nhau. Trong đông y lại thường dùng nhiều vị thuốc phối hợp với nhau cho nên không phải một chất tác dụng mà là nhiều chất ở nhiều vị thuốc ảnh hưỡng và tác dụng lẫn nhau làm cho việc nghiên cứu đánh giá kết quả điều trị lại càng khó.
-Việc nghiên cứu tác dụng của thuốc trên súc vật thí nghiệm hiện nay (tác dụng dược lý) mặc dầu có rất nhìểu tiến bộ, nhưng cũng chưa được hoàn bị. Khi kết quả nghiên cứu dược lý phù hợp với những kinh nghiệm nhân dân, ta có thể yên tâm sử dụng những thuốc đó. Nhưng khi thí nghiệm một vị thuốc không thấy kết quả, ta chưa có thể kết luận thuốc đó không có tác dụng trên lâm sàng, vì cơ thể con thỏ, con chó, con chuột nhiều khi không hoàn toàn giống cơ thể con người. Ngay khi người ta tạo ra bệnh trên súc vật để thí nghiệm bệnh đó cũng không phải là một bệnh diễn ra đúng như trong con người. Cho nên chúng ta cần thấy trước giá trị của những nghiên cứu trong phòng thí nghiệm cần được xác nhận trên lâm sàng, mà những kinh nghiệm chữa bệnh của ông cha ta thì có từ nghìn năm về trước, đã có những kết quả thực tiễn. Ta phải tìm mọi cách để phát hiện ra cơ sở khoa học hiện đại của những kinh nghiệm đó.
+
+Việc nghiên cứu và xét tác dụng chữa bệnh của một vị thuốc không dễ dàng, vì trong một vị thuốc nhiều khi chứa nhiều hoạt chất có khi có tác dụng phối hợp, nhưng nhiều khi lại có tác dụng ngược hẳn nhau. Thay đổi liều lượng cũng có thể đưa đến những kết quả chữa bệnh khác nhau. Trong đông y lại thường dùng nhiều vị thuốc phối hợp với nhau cho nên không phải một chất tác dụng mà là nhiều chất ở nhiều vị thuốc ảnh hưởng và tác dụng lẫn nhau làm cho việc nghiên cứu đánh giá kết quả điều trị lại càng khó.
+
+Việc nghiên cứu tác dụng của thuốc trên súc vật thí nghiệm hiện nay (tác dụng dược lý) mặc dầu có rất nhiều tiến bộ, nhưng cũng chưa được hoàn bị. Khi kết quả nghiên cứu dược lý phù hợp với những kinh nghiệm nhân dân, ta có thể yên tâm sử dụng những thuốc đó. Nhưng khi thí nghiệm một vị thuốc không thấy kết quả, ta chưa có thể kết luận thuốc đó không có tác dụng trên lâm sàng, vì cơ thể con thỏ, con chó, con chuột nhiều khi không hoàn toàn giống cơ thể con người. Ngay khi người ta tạo ra bệnh trên súc vật để thí nghiệm bệnh đó cũng không phải là một bệnh diễn ra đúng như trong con người. Cho nên chúng ta cần thấy trước giá trị của những nghiên cứu trong phòng thí nghiệm cần được xác nhận trên lâm sàng, mà những kinh nghiệm chữa bệnh của ông cha ta thì có từ nghìn năm về trước, đã có những kết quả thực tiễn. Ta phải tìm mọi cách để phát hiện ra cơ sở khoa học hiện đại của những kinh nghiệm đó.
+
 Như vậy ta thấy trình bày cơ sở để xét tác dụng của thuốc theo khoa học hiện đại không đơn giản được mà đòi hỏi có những tập sách riêng. Tuy nhiên, ở đây chúng tôi muốn trình bày sơ lược một số kiến thức chung cần thiết để hiểu một số vấn đề trình bày trong tập sách này. Muốn hiểu sâu hơn nữa cần phải có những kiến thức cơ sở về hóa học và dược lý như đã trình bày trong lời nói đầu.
-A. Nhóm những chất vô cơ
-Trong nhóm này, ta có thể kể các gốc axit như axit sunfuric (trong mang tiêu, phác tiêu, đảm phàn, minh phàn), axit clohyđric (trong muối ăn, thuốc chế với muối ăn), axit photphoric (những thuốc chế từ xương, thuốc nguồn gốc động vật), axit silixic (hoạt thạch) v.v... Cạnh những gốc axit ta còn có những kim loại và á kim thường gặp trong các vị thuốc như canxi (trong thạch cao, trong ô tặc cốt, mẫu lệ), sắt (trong hác phàn), đồng (trong đảm phàn) thủy ngân, selen (trong chu sa, thần sa), magiê (trong hoạt thạch), kali (trong râu ngô, mã đề), iôt (trong hải tảo, côn bố, ké đầu ngựa). Nói chung những chất này thường nằm trong thành phần tro giới thiệu trong vị thuốc.
+
+### A. Nhóm những chất vô cơ
+
+Trong nhóm này, ta có thể kể các _gốc axit_ như axit sunfuric (trong mang tiêu, phác tiêu, đảm phàn, minh phàn), axit clohyđric (trong muối ăn, thuốc chế với muối ăn), axit photphoric (những thuốc chế từ xương, thuốc nguồn gốc động vật), axit silixic (hoạt thạch) v.v... Cạnh những gốc axit ta còn có những kim loại và á kim thường gặp trong các vị thuốc như canxi (trong thạch cao, trong ô tặc cốt, mẫu lệ), sắt (trong hác phàn), đồng (trong đảm phàn) thủy ngân, selen (trong chu sa, thần sa), magiê (trong hoạt thạch), kali (trong râu ngô, mã đề), iôt (trong hải tảo, côn bố, ké đầu ngựa). Nói chung những chất này thường nằm trong thành phần tro giới thiệu trong vị thuốc.
+
 Những chất trong nhóm vô cơ có thể tác dụng về hai phương diện:
 
-1. Tác dụng toàn thân nhằm xúc tiến hiện tượng chuyển hóa cơ bản và một số cơ năng nào đó của cơ thể như canxi, sắt, iôt, asen cần thiết để bổ máu, làm cho cơ thể khỏe mạnh v.v...
-2. Tác dụng cục bộ như những vị ô tặc cốt, mẫu lệ, lộc giác sương do thành phần canxi rất cao nên có tác dụng chữa dạ dày đau do thừa nước chua, giúp cho máu chóng đông, phèn chua (minh phàn), đảm phàn (đồng sunfat) có tác dụng sát trùng, thu liễm v.v... kali làm thông tiểu v,v...
-   Gần đây người ta đã xác định vai trò của một số chất vô cơ như germani trong nhân sâm, selen có trong hầu hết các cây với hàm lượng dưới 1mg selen trong 1kg cây khô, rất ít cây chứa tới 10mg selen trong 1kg cây khô. Có 3 cây có hàm hrợng selen trên 1g/1kg cây khô (mẫu cao nhất tới 15g) được thế giới nói đến là Astragalus racemosus (một loại hoàng kỳ Mỹ, Iran), Neptunia amplexicaulis (châu Úc) và Morinda reticulata (Úc).
-   Ở đây chúng tôi giới thiệu một số kiến thức về selen và những vị thuốc chứa selen trong điều trị.
-   Từ năm 1930 khi công nghiệp selen phát triển, người ta rất sợ độc tính của selen. Nhưng từ năm 1968, sau hội nghị quốc tế về tác dụng của selen, bên cạnh những tác hại của selen, người ta đã phát hiện nhiều tác dụng tích cực của selen: không những selen là một nguyên tố cần thiết cho cơ thể mà còn có tác dụng chữa nhiều bệnh.
-   Về sinh hóa học selen được coi như nhóm hoạt động của nhiều men. Selen có tác dụng bảo vệ tế bào, bảo vệ cấu tử của màng tế bào chống lại hiện tượng ôxy hóa, ngăn cản sự tạo thành lipopeoxyt nên có tác dụng làm chậm quá trình lão hóa; selen tham gia sự vận chuyển ion qua màng tế bào, tham gia điều khiển sự tổng hợp collagen, tổng hợp protein của hồng cầu và của gan, tổng hợp ADN và ARN; điều khiển sự tổng hợp các globulin miễn dịch và ubiquinon là một gốc tự do cần thiết có tác dụng đệm oxy hóa khử trong tế bào, do đó có tác dụng trong hô hấp tế bào.
-   Trong dinh dưỡng, thiếu selen cơ thể không thể tổng hợp được vitamin C, sau đó teo cơ, hệ tim mạch bị tổn hại, hệ thống miễn dịch của cơ thể bị giảm sút. Đó là lý do nạn chết yểu cao ở trẻ em miền Nam nước Mỹ (Andrews 1968, hội đồng nghiên cứu Washington 1971, Mahan 1973) . Thiếu selen còn sinh bệnh đục thủy tinh thể (Frost 1972) và đục thủy tinh có thể truyền qua nhiều thế hệ (Sprinker, New Beme, Brovvn, Brurk 1971, 1972). Thiếu selen tế bào gan mất khả năng hô hấp (Schwarz 1973).
-   Đối với nhu cầu hàng ngày của cơ thể về selen các nhà nghiên cứu hiện chưa nhất trí: Ermacốv (1974) cho là 0,4mg, Frost lại cho rằng cần tới 1 - 2mg. Nếu theo Frost thì hiện nay nói chung khẩu phần của nhân dân thế giới là thiếu selen; như ở Mỹ khẩu phần trung bình là 0,4mg, Nhật 0,7mg (Schwarz 1975).
-   Về chữa bệnh người ta dùng selen chữa cho súc vật từ năm 1960. Có những nước đã đạt những thành tựu rất lớn, đặc biệt ở New Zealand. Việc dùng selen chữa bệnh cho người được bắt đầu từ năm 1973 ở Mêhicồ, sau đó vài năm ở Mỹ, Tân Tây Lan. Điều đáng chú ý là trong y học cổ truyền Việt nam ông cha ta từ lâu đời đã biết sử dụng những vị thuốc chứa selen như thần sa, chu sa, hoàng kỳ, xấu hổ, mặt quỉ, nhàu v.v...
-   Năm 1973, Hội dược học Mỹ đã tiến hành nghiên cứu độc tính của selen trên khỉ Rhesus thấy với liều 0,2mg/kg trong 58 tuần lễ không có triệu chứng độc, năm 1974 thử độc tính trên một số người tình nguyện trong 18 tuần liền với liều lượng thấp hơn 5 lần đối với khỉ Rhesus cũng không có triệu chứng độc.
-   Cùng năm 1973, ở Mêhicô người ta dùng selen lần đầu tiên để chữa 50 trường hợp bệnh nhân huyết áp cao thu được kết quả mỹ mãn (Ramirez - Ann. rev. Pharmacolo. 1975, 15).
-   Hiện nay một số chỉ định chính của selen trong chữa bệnh là:
-   Xơ mỡ động mạch, chủ yếu động mạch vành: năm 1973 đây là một đề tài được ghi trong chương trình nghiên cứu quốc tế của tổ chức y tế thế giới (OMS).
-   Thấp khớp: có tác giả cho rằng tác dụng rõ rệt của selen trong thấp khớp là do selen ổn định màng lysosome của tế bào (Frost, 1972), có tác giả cho rằng selen làm tăng nhóm -SH do phá dây nối disunfua.
-   Chống độc: Rất nhiều tài liệu công bố về tác dụng giải độc của selen đối với ngộ độc asen, thủy ngân, catmi, đồng, bạc v.v... Frost cho rằng trong những trường hợp trên, selen còn tốt hơn BAL và penixilamin (1975).
-   Kích thích miễn dịch; Gauther và cộng sự thấy các vacxin được tăng hiệu lực khi dùng kèm với selen. Spalholz thấy selen làm xuất hiện một lượng lớn kháng thể khi mẫn cảm cho thỏ với hồng cầu cừu (1973). Nhóm nghiên cứu Trường tổng hợp Colorado chứng minh vai trò của selen đối với hiện tượng thực khuẩn và đối với phản ứng miễn dịch tế bào (1972).
-   Ung thư: Các nhà khoa học Liên xô và Mỹ đều thống nhất kết luận rằng trong khẩu phần thiếu selen thì tỷ lệ ung thư sẽ rất cao (Schrauzer, 1974).
-   Có những thí nghiệm chữa ung thư vú ở chuột bằng selen, và những thí nghiệm chặn được ung thư do 3- metylcholantren. Năm 1974 ở Pháp đã chế một hợp chất của selen từ gan cá nhám có công hiệu cao đối với ung thư.
-   Nha chu viêm: các hợp chất selen có tác dụng rõ rệt đối với nha chu viêm.
-   Nhãn khoa: selen làm sáng mắt do làm tăng dòng điện từ võng mạc lên não (Apdulaev, 1974).
-   Kẽm: Trước đây người ta chỉ dùng kẽm để chữa đau mắt, những vết lở, loét, nhưng gần đây người ta đã phát hiện thấy kẽm có tác dụng giúp sự phát triển cơ thể trẻ em. Nghiên cứu so sánh hai nhóm trẻ sơ sinh nuôi bằng sữa có pha kẽm trong 12 tháng thì thấy nhóm được ăn nhiều kẽm hơn đã phát triển nhanh hơn và trong số đó các em trai thấy tác dụng tốt của kẽm nhiều hơn là các em gái. Phải chăng vì chứa nhiều kẽm mà thịt cóc có tác dụng chữa suy dinh dưỡng của trẻ em theo kinh nghiệm cổ truyền của ông cha ta? Trước đây ta thường nghĩ chỉ do các axit amin.
-   Qua thí nghiệm trên bản thân, một tác giả Hy lạp còn thấy dùng thêm thuốc kẽm, tóc của mình mọc khỏe hơn và bóng hơn, đỡ bạc, đỡ rụng, da đỡ nhờn, và gầu trên đầu biến hết.
-   Một số người còn thấy khi dùng thuốc có kẽm thì bệnh trứng cá giảm dần rõ rệt.
-   Dùng kẽm sunfat qua đường uống một tác giả còn nhận thấy các vết thương dai dẳng, các vết loét phình tĩnh mạch sẽ chóng thành sẹo.
-   Một kiểu lùn đặc biệt ở Iran và Ai cập liên quan đến sự thiếu kẽm do thức ăn thiếu đạm. Một số men nhất là các men tham gia tổng hợp chất đạm hoạt động phụ thuộc vào sự có mặt của kẽm. Thiếu kẽm, sự phát triển và sinh trưởng của cây và động vật cũng như của người bị ảnh hưởng. Nhiều thanh niên lùn ở Iran và Ai Cập đã chữa khỏi bệnh lùn một cách kỳ lạ nhờ uống mỗi ngày 27mg kẽm.
-   Người ta đã tính rằng nhu cầu con người mỗi ngày từ 15 đến 20mg kẽm.
-   Nói chung kẽm là một nguyên tố tương đối phổ biến cho nên thường ít xảy ra hiện tượng thiếu kẽm, nhưng cũng có những trường hợp thiếu kẽm trong thức ăn đã dẫn đến những hậu quả nghiêm trọng.
-   Silicium - là một chất vô cơ rất phổ biến trên trái đất, chỉ đứng sau cacbon. đã từ lâu người ta không chú ý đến vai trò chữa bệnh của nó, nhưng gần đây, trước những kết quả thực nghiêm, người ta đã tự hỏi về vai trò thực tế của silicium đối với bệnh tật. Trước hết người ta phát hiện silicium là một thành phần quan trọng trong tổ chức tissu conjonctif bao gồm sụn, gân (articulation, carti- lage) của thành phần các thành mạch máu đỏ. Silicium giúp cho các mạch máu bền và dễ co dãn hơn. Đặc biệt người ta chú ý đến vai trò của silicium trong bệnh phong tê thấp (arthrose), và trong những bệnh về mạch máu (artherosclerose).
-   Trong phong tê thấp, silicium giúp xương giữ lại chất canxi cải thiện mạng chất keo, giúp các tổ chức mềm dẻo, Trong những trường hợp mất chất vô cơ ở xương, thì silicium mất trước canxi. Silicium giúp các tổ chức dễ co dãn. Khi lượng silicium giảm, thì lượng canxi tăng trọng các tổ chức conjonctif, và sự co dãn của những tổ chức này bị giảm. Ngoài ra người ta thấy silicium làm mau lành các nơi xương gãy, có lẽ do vai trò giúp giữ lại được canxi. Vai trò của silicium trong các bệnh thành mạch (atherosclérose) được mọi người chú ý cách đây khoảng 25 năm: dân Phần Lan ở phía đông chết do đau thắt cơ tim (angine de poitrine-iníarctus) do dùng nước chứa rất ít silicium, gấp đôi số dân số Phần Lan (tại đây lượng silicium trong nước bình thường), chết về bệnh ấy.
-   Từ những nhận xét ấy, người ta nghĩ tới vai trò của silicium để đề phòng những bệnh về mạch máu vì silicium giữ thành mạch dễ co dãn, sự co dãn rất cần thiết để đối phó với sự thay đổi huyết áp. Silicium có trong nước, rau, quả (vỏ quả), đặc biệt nhiều trong vị thuốc thiên trúc hoàng.
-   B. Nhóm những chất hữu cơ
-   Nhóm này rất phức tạp, người ta lại chia làm hai nhóm nhỏ: nhóm những chất độn có ở rất nhiều cây và động vật khác như nước, muối vô cơ, chất hydrat cacbon (đường, tinh bột), chất béo (dầu mỡ, sáp) chất prôtit, các men, lục diệp tố và các sắc tố v.v... Những chất độn này một vài khi cũng tham gia làm tăng tác dụng của vị thuốc hay thêm tính chất bồi dưỡng của vị thuốc, nhưng nói chung không có giá trị đặc biệt.
-   Cạnh những chất độn có những chất đặc biệt, có tác dung chữa bệnh, ta gọi là hoạt chất. Hoạt chất hữu cơ thuộc nhiều loại; ở đây chỉ kể một số chính và một số tác dụng chủ yếu của các chất đó. Trong thực tế, cần chú ỷ là tác dụng không đơn giản.
-   Những hoạt chất thường gặp trong các vị thuốc động vật và thực vật là:
-3. Xơ thực vật Người ta xác định xơ thực vật bao gồm những chất thiên nhiên do thành các tế bào thực vật tạo ra hầu hết là các chuỗi dài các chất cao phân tử khác nhau như cellulose, hemi-cellulose, pectin, mucilage (chất nhầy), lignin, gomme (gôm)... Chất gôm như nhựa mận, nhựa đào. Chất nhầy như sâm bố chính, bạch cập; pectin như cùi bưởi, ổi, khế, là những dẫn xuất của axit uronic.
+1. _Tác dụng toàn thân_ nhằm xúc tiến hiện tượng chuyển hóa cơ bản và một số cơ năng nào đó của cơ thể như canxi, sắt, iôt, asen cần thiết để bổ máu, làm cho cơ thể khỏe mạnh v.v...
+2. _Tác dụng cục bộ_ như những vị ô tặc cốt, mẫu lệ, lộc giác sương do thành phần canxi rất cao nên có tác dụng chữa dạ dày đau do thừa nước chua, giúp cho máu chóng đông, phèn chua (minh phàn), đảm phàn (đồng sunfat) có tác dụng sát trùng, thu liễm v.v... kali làm thông tiểu v,v...
+
+Gần đây người ta đã xác định vai trò của một số chất vô cơ như _germani_ trong nhân sâm, selen có trong hầu hết các cây với hàm lượng dưới 1mg selen trong 1kg cây khô, rất ít cây chứa tới 10mg selen trong 1kg cây khô. Có 3 cây có hàm hrợng selen trên 1g/1kg cây khô (mẫu cao nhất tới 15g) được thế giới nói đến là _Astragalus racemosus_ (một loại hoàng kỳ Mỹ, Iran), _Neptunia amplexicaulis_ (châu Úc) và _Morinda reticulata_ (Úc).
+
+Ở đây chúng tôi giới thiệu một số kiến thức về selen và những vị thuốc chứa selen trong điều trị.
+
+Từ năm 1930 khi công nghiệp selen phát triển, người ta rất sợ độc tính của selen. Nhưng từ năm 1968, sau hội nghị quốc tế về tác dụng của selen, bên cạnh những tác hại của selen, người ta đã phát hiện nhiều tác dụng tích cực của selen: không những selen là một nguyên tố cần thiết cho cơ thể mà còn có tác dụng chữa nhiều bệnh.
+
+Về _sinh hóa học_ selen được coi như nhóm hoạt động của nhiều men. Selen có tác dụng bảo vệ tế bào, bảo vệ cấu tử của màng tế bào chống lại hiện tượng ôxy hóa, ngăn cản sự tạo thành lipopeoxyt nên có tác dụng làm chậm quá trình lão hóa; selen tham gia sự vận chuyển ion qua màng tế bào, tham gia điều khiển sự tổng hợp collagen, tổng hợp protein của hồng cầu và của gan, tổng hợp ADN và ARN; điều khiển sự tổng hợp các globulin miễn dịch và ubiquinon là một gốc tự do cần thiết có tác dụng đệm oxy hóa khử trong tế bào, do đó có tác dụng trong hô hấp tế bào.
+
+Trong dinh dưỡng, thiếu selen cơ thể không thể tổng hợp được vitamin C, sau đó teo cơ, hệ tim mạch bị tổn hại, hệ thống miễn dịch của cơ thể bị giảm sút. Đó là lý do nạn chết yểu cao ở trẻ em miền Nam nước Mỹ (Andrews 1968, hội đồng nghiên cứu Washington 1971, Mahan 1973) . Thiếu selen còn sinh bệnh đục thủy tinh thể (Frost 1972) và đục thủy tinh có thể truyền qua nhiều thế hệ (Sprinker, New Beme, Brovvn, Brurk 1971, 1972). Thiếu selen tế bào gan mất khả năng hô hấp (Schwarz 1973).
+
+Đối với nhu cầu hàng ngày của cơ thể về selen các nhà nghiên cứu hiện chưa nhất trí: Ermacốv (1974) cho là 0,4mg, Frost lại cho rằng cần tới 1 - 2mg. Nếu theo Frost thì hiện nay nói chung khẩu phần của nhân dân thế giới là thiếu selen; như ở Mỹ khẩu phần trung bình là 0,4mg, Nhật 0,7mg (Schwarz 1975).
+
+Về chữa bệnh người ta dùng selen chữa cho súc vật từ năm 1960. Có những nước đã đạt những thành tựu rất lớn, đặc biệt ở New Zealand. Việc dùng selen chữa bệnh cho người được bắt đầu từ năm 1973 ở Mêhicô, sau đó vài năm ở Mỹ, Tân Tây Lan. Điều đáng chú ý là trong y học cổ truyền Việt nam ông cha ta từ lâu đời đã biết sử dụng những vị thuốc chứa selen như thần sa, chu sa, hoàng kỳ, xấu hổ, mặt quỉ, nhàu v.v...
+
+Năm 1973, Hội dược học Mỹ đã tiến hành nghiên cứu độc tính của selen trên khỉ Rhesus thấy với liều 0,2 _mg/kg_ trong 58 tuần lễ không có triệu chứng độc, năm 1974 thử độc tính trên một số người tình nguyện trong 18 tuần liền với liều lượng thấp hơn 5 lần đối với khỉ _Rhesus_ cũng không có triệu chứng độc.
+
+Cùng năm 1973, ở Mêhicô người ta dùng selen lần đầu tiên để chữa 50 trường hợp bệnh nhân huyết áp cao thu được kết quả mỹ mãn (_Ramirez - Ann. rev. Pharmacolo._ 1975, 15).
+
+Hiện nay một số chỉ định chính của selen trong chữa bệnh là:
+
+Xơ mỡ động mạch, chủ yếu động mạch vành: năm 1973 đây là một đề tài được ghi trong chương trình nghiên cứu quốc tế của tổ chức y tế thế giới (OMS).
+
+_Thấp khớp_: có tác giả cho rằng tác dụng rõ rệt của selen trong thấp khớp là do selen ổn định màng lysosome của tế bào (Frost, 1972), có tác giả cho rằng selen làm tăng nhóm -SH do phá dây nối disunfua.
+
+_Chống độc_: Rất nhiều tài liệu công bố về tác dụng giải độc của selen đối với ngộ độc asen, thủy ngân, catmi, đồng, bạc v.v... Frost cho rằng trong những trường hợp trên, selen còn tốt hơn BAL và penixilamin (1975).
+
+Kích thích miễn dịch; Gauther và cộng sự thấy các vacxin được tăng hiệu lực khi dùng kèm với selen. Spalholz thấy selen làm xuất hiện một lượng lớn kháng thể khi mẫn cảm cho thỏ với hồng cầu cừu (1973). Nhóm nghiên cứu Trường tổng hợp Colorado chứng minh vai trò của selen đối với hiện tượng thực khuẩn và đối với phản ứng miễn dịch tế bào (1972).
+
+_Ung thư_: Các nhà khoa học Liên xô và Mỹ đều thống nhất kết luận rằng trong khẩu phần thiếu selen thì tỷ lệ ung thư sẽ rất cao (Schrauzer, 1974).
+
+Có những thí nghiệm chữa ung thư vú ở chuột bằng selen, và những thí nghiệm chặn được ung thư do 3- metylcholantren. Năm 1974 ở Pháp đã chế một hợp chất của selen từ gan cá nhám có công hiệu cao đối với ung thư.
+
+_Nha chu viêm_: các hợp chất selen có tác dụng rõ rệt đối với nha chu viêm.
+
+_Nhãn khoa_: selen làm sáng mắt do làm tăng dòng điện từ võng mạc lên não (Apdulaev, 1974).
+
+_Kẽm_: Trước đây người ta chỉ dùng kẽm để chữa đau mắt, những vết lở, loét, nhưng gần đây người ta đã phát hiện thấy kẽm có tác dụng giúp sự phát triển cơ thể trẻ em. Nghiên cứu so sánh hai nhóm trẻ sơ sinh nuôi bằng sữa có pha kẽm trong 12 tháng thì thấy nhóm được ăn nhiều kẽm hơn đã phát triển nhanh hơn và trong số đó các em trai thấy tác dụng tốt của kẽm nhiều hơn là các em gái. Phải chăng vì chứa nhiều kẽm mà thịt cóc có tác dụng chữa suy dinh dưỡng của trẻ em theo kinh nghiệm cổ truyền của ông cha ta? Trước đây ta thường nghĩ chỉ do các axit amin.
+
+Qua thí nghiệm trên bản thân, một tác giả Hy lạp còn thấy dùng thêm thuốc kẽm, tóc của mình mọc khỏe hơn và bóng hơn, đỡ bạc, đỡ rụng, da đỡ nhờn, và gầu trên đầu biến hết.
+
+Một số người còn thấy khi dùng thuốc có kẽm thì bệnh trứng cá giảm dần rõ rệt.
+
+Dùng kẽm sunfat qua đường uống một tác giả còn nhận thấy các vết thương dai dẳng, các vết loét phình tĩnh mạch sẽ chóng thành sẹo.
+
+Một kiểu lùn đặc biệt ở Iran và Ai cập liên quan đến sự thiếu kẽm do thức ăn thiếu đạm. Một số men nhất là các men tham gia tổng hợp chất đạm hoạt động phụ thuộc vào sự có mặt của kẽm. Thiếu kẽm, sự phát triển và sinh trưởng của cây và động vật cũng như của người bị ảnh hưởng. Nhiều thanh niên lùn ở Iran và Ai Cập đã chữa khỏi bệnh lùn một cách kỳ lạ nhờ uống mỗi ngày 27mg kẽm.
+
+Người ta đã tính rằng nhu cầu con người mỗi ngày từ 15 đến 20mg kẽm.
+
+Nói chung kẽm là một nguyên tố tương đối phổ biến cho nên thường ít xảy ra hiện tượng thiếu kẽm, nhưng cũng có những trường hợp thiếu kẽm trong thức ăn đã dẫn đến những hậu quả nghiêm trọng.
+
+Silicium - là một chất vô cơ rất phổ biến trên trái đất, chỉ đứng sau cacbon. đã từ lâu người ta không chú ý đến vai trò chữa bệnh của nó, nhưng gần đây, trước những kết quả thực nghiêm, người ta đã tự hỏi về vai trò thực tế của silicium đối với bệnh tật. Trước hết người ta phát hiện silicium là một thành phần quan trọng trong tổ chức tissu conjonctif bao gồm sụn, gân (articulation, carti- lage) của thành phần các thành mạch máu đỏ. Silicium giúp cho các mạch máu bền và dễ co dãn hơn. Đặc biệt người ta chú ý đến vai trò của silicium trong bệnh phong tê thấp (arthrose), và trong những bệnh về mạch máu (artherosclerose).
+
+Trong phong tê thấp, silicium giúp xương giữ lại chất canxi cải thiện mạng chất keo, giúp các tổ chức mềm dẻo, Trong những trường hợp mất chất vô cơ ở xương, thì silicium mất trước canxi. Silicium giúp các tổ chức dễ co dãn. Khi lượng silicium giảm, thì lượng canxi tăng trọng các tổ chức conjonctif, và sự co dãn của những tổ chức này bị giảm. Ngoài ra người ta thấy silicium làm mau lành các nơi xương gãy, có lẽ do vai trò giúp giữ lại được canxi. Vai trò của silicium trong các bệnh thành mạch (atherosclérose) được mọi người chú ý cách đây khoảng 25 năm: dân Phần Lan ở phía đông chết do đau thắt cơ tim (angine de poitrine-iníarctus) do dùng nước chứa rất ít silicium, gấp đôi số dân số Phần Lan (tại đây lượng silicium trong nước bình thường), chết về bệnh ấy.
+
+Từ những nhận xét ấy, người ta nghĩ tới vai trò của silicium để đề phòng những bệnh về mạch máu vì silicium giữ thành mạch dễ co dãn, sự co dãn rất cần thiết để đối phó với sự thay đổi huyết áp. Silicium có trong nước, rau, quả (vỏ quả), đặc biệt nhiều trong vị thuốc thiên trúc hoàng.
+
+### B. Nhóm những chất hữu cơ
+
+Nhóm này rất phức tạp, người ta lại chia làm hai nhóm nhỏ: nhóm những chất độn có ở rất nhiều cây và động vật khác như nước, muối vô cơ, chất hydrat cacbon (đường, tinh bột), chất béo (dầu mỡ, sáp) chất prôtit, các men, lục diệp tố và các sắc tố v.v... Những chất độn này một vài khi cũng tham gia làm tăng tác dụng của vị thuốc hay thêm tính chất bồi dưỡng của vị thuốc, nhưng nói chung không có giá trị đặc biệt.
+
+Cạnh những chất độn có những chất đặc biệt, có tác dụng chữa bệnh, ta gọi là hoạt chất. Hoạt chất hữu cơ thuộc nhiều loại; ở đây chỉ kể một số chính và một số tác dụng chủ yếu của các chất đó. _Trong thực tế, cần chú ý là tác dụng không đơn giản._
+
+Những hoạt chất thường gặp trong các vị thuốc động vật và thực vật là:
+
+1. _Xơ thực vật_: Người ta xác định xơ thực vật bao gồm những chất thiên nhiên do thành các tế bào thực vật tạo ra hầu hết là các chuỗi dài các chất cao phân tử khác nhau như cellulose, hemi-cellulose, pectin, mucilage (chất nhầy), lignin, gomme (gôm)... Chất gồm như nhựa mận, nhựa đào. Chất nhầy như sâm bố chính, bạch cập; pectin như cùi bưởi, ổi, khế, là những dẫn xuất của axit uronic.
+
    Tính chất chung của xơ thực vật là thường không được cơ thể hấp thụ, và có thể hợp với nước tạo thành chất đông (gel) lỏng, sánh hoặc đặc tùy theo từng loại, tính chất hiện nay được biết khá rõ.
-   Trước đây người ta coi chất xơ thực vật không giữ vai trò gì quan trọng đối với con người. Nhưng gần đây, xuất phát từ nhận xét rằng từ thời cổ xưa dân châu Âu chỉ sống bằng những sản phẩm nông nghiệp. Mỗi ngày những rau quả đã cung cấp cho họ từ 60 - 100g xơ thực vật. Nhưng khoảng hai thế kỷ trở lại đây nền công nghiệp thực phẩm đã hoàn toàn thay đổi cách thức chế biến thức ăn, và mỗi ngày người dân chỉ còn ăn vào không quá 20g xơ thực vật. Và nếu so sánh thực phẩm của những người dân ở các nước đang phát triển (trong đó ngũ cốc và rau quả chiếm chủ yếu) thì người ta nhân thấy những bệnh thường gặp ở phương “tây” còn được mệnh danh là “bệnh của những nước văn minh” như táo bón, đái đường, béo phì, cholesterol cao, xơ vữa động mạch, viêm ruột kết (colite, ung thư ruột kết...) rất hiếm thấy ở những nước chậm phát triển mà thức ăn rất giàu xơ thực vật.
+
+   Trước đây người ta coi chất xơ thực vật không giữ vai trò gì quan trọng đối với con người. Nhưng gần đây, xuất phát từ nhận xét rằng từ thời cổ xưa dân châu Âu chỉ sống bằng những sản phẩm nông nghiệp. Mỗi ngày những rau quả đã cung cấp cho họ từ 60 - 100g xơ thực vật. Nhưng khoảng hai thế kỷ trở lại đây nền công nghiệp thực phẩm đã hoàn toàn thay đổi cách thức chế biến thức ăn, và mỗi ngày người dân chỉ còn ăn vào không quá 20g xơ thực vật. Và nếu so sánh thực phẩm của những người dân ở các nước đang phát triển (trong đó ngũ cốc và rau quả chiếm chủ yếu) thì người ta nhân thấy những bệnh thường gặp ở phương _"tây"_ còn được mệnh danh là _"bệnh của những nước văn minh"_ như táo bón, đái đường, béo phì, cholesterol cao, xơ vữa động mạch, viêm ruột kết (colite, ung thư ruột kết...) rất hiếm thấy ở những nước chậm phát triển mà thức ăn rất giàu xơ thực vật.
+
    Và người ta thấy rằng xơ thực vật có một số tác dụng sau:
-   Xơ thực vật chống táo bón. Xơ thực vật ăn vào giữ nước làm tăng khối lượng phân trong ruột, do đó kích thích sự co bóp của ruột và thải phân ra dễ dàng. Tính nhuần hoạt, làm dịu niêm mạc còn dùng chữa ho, cầm máu.
-   Xơ thực vật và béo phì. Những chất đông do xơ thực vật tạo thành giữ những thức ăn trong các mắt lưới và giúp cho những thức ăn đó được tiêu thụ từ từ và bổ sung từ từ vào máu, bảo đảm sự hấp thụ có chừng mực. Do đó dẫn đến hai kết quả:
 
-- Hàm lượng đường trong máu khỏi tăng lên đột ngột. Chất insulin vì vậy khỏi bị tiết ra một cách đột xuất với lượng lớn, và vì vậy, không làm cho lượng đường được tích trữ dưới dạng mỡ trong tế bào mỡ (hiện tượng chỉ xảy ra khi lượng đường được chuyển tới quá lớn).
-- Hàm lượng cholesterol trong máu hạ xuống. Vì xơ thực vật giữ những muối mật lại, và không cho số muối mật này trở lui vào máu. Cơ thể do đó phải tiếp tục sản xuất ra muối mật để bù lại số muối mật đã tiêu thụ hàng ngày. Mà nguyên liệu ban đầu để chế muối mật là cholesterol. Do đó xơ thực vật gián tiếp làm hạ cholesterol trong máu. Xơ thực vật trở thành một thứ thuốc cần thiết hàng ngày.
+   _Xơ thực vật chống táo bón._ Xơ thực vật ăn vào giữ nước làm tăng khối lượng phân trong ruột, do đó kích thích sự co bóp của ruột và thải phân ra dễ dàng. Tính nhuần hoạt, làm dịu niêm mạc còn dùng chữa ho, cầm máu.
 
-2. Axit hữu cơ rất phổ biến trong các bộ phận của cây như quả (chanh, cam, quít, bưởi, me, mơ, sơn trà), trong lá (như lá chua me, lá sấu, lá bông). Những axit hữu cơ thường gặp như axit focmic, axit xitric, axit malic, axit tactric, axit axetic, axit oxalic v.v... Những axit này có khi có thể tự do làm cho vị thuốc có vị chua nhưng cũng có khi ở dưới dạng muối như canxi oxalat (có rất nhiều ở cây). Một số axit đặc biệt như axit xinamic (có trong quế), axit benzoic trong an tức hương (cánh kiến trắng), axit aconitic trong phụ tử, ô đầu.
+   _Xơ thực vật và béo phì._ Những chất đông do xơ thực vật tạo thành giữ những thức ăn trong các mắt lưới và giúp cho những thức ăn đó được tiêu thụ từ từ và bổ sung từ từ vào máu, bảo đảm sự hấp thụ có chừng mực. Do đó dẫn đến hai kết quả:
+
+   - Hàm lượng đường trong máu khỏi tăng lên đột ngột. Chất insulin vì vậy khỏi bị tiết ra một cách đột xuất với lượng lớn, và vì vậy, không làm cho lượng đường được tích trữ dưới dạng mỡ trong tế bào mỡ (hiện tượng chỉ xảy ra khi lượng đường được chuyển tới quá lớn).
+   - Hàm lượng cholesterol trong máu hạ xuống. Vì xơ thực vật giữ những muối mật lại, và không cho số muối mật này trở lui vào máu. Cơ thể do đó phải tiếp tục sản xuất ra muối mật để bù lại số muối mật đã tiêu thụ hàng ngày. Mà nguyên liệu ban đầu để chế muối mật là cholesterol. Do đó xơ thực vật gián tiếp làm hạ cholesterol trong máu. Xơ thực vật trở thành một thứ thuốc cần thiết hàng ngày.
+
+2. _Axit hữu cơ_ rất phổ biến trong các bộ phận của cây như quả (chanh, cam, quít, bưởi, me, mơ, sơn trà), trong lá (như lá chua me, lá sấu, lá bông). Những axit hữu cơ thường gặp như axit focmic, axit xitric, axit malic, axit tactric, axit axetic, axit oxalic v.v... Những axit này có khi có thể tự do làm cho vị thuốc có vị chua nhưng cũng có khi ở dưới dạng muối như canxi oxalat (có rất nhiều ở cây). Một số axit đặc biệt như axit xinamic (có trong quế), axit benzoic trong an tức hương (cánh kiến trắng), axit aconitic trong phụ tử, ô đầu.
+
    Tác dụng của những axit này không giống nhau, thường những loại axit benzoic có tác dụng sát trùng, chữa ho, axit xitric, tactric, có tác dụng giải nhiệt (mát) hay nhuận tràng (me), giúp sự tiêu hóa như sơn tra.
-3. Dầu béo. Những vị thuốc có chất dầu béo như hạnh nhân, đào nhân, thầu dầu, ba đậu, đại phong tử, máu chó, vừng v.v... Những vị thuốc có chất dầu béo, khi ta ép nó vào tờ giấy thì thấy trên tờ giấy có một vết trong mờ để lâu hay hơ nóng cũng không mất đi (khác với tinh dầu).
-   Tác dụng của chất béo nhiều mặt: khi thì là một chất bồi dưỡng như dầu lạc, dầu vừng, khi thì là thuốc tẩy như thầu dầu, dầu ba đậu, nhưng cũng có khi là thuốc trị bệnh ngoài da như dầu máu chó, đại phong tử, hay dầu vừng dùng chế thuốc cao dán nhọt.
-4. Tinh dầu. Tinh dầu là những chất làm cho vị thuốc có mùi thơm hay hắc. Những vị thuốc có tinh dầu, khi ép giữa hai tờ giấy cũng để lại một vết trong mờ, nhưng để lâu hoặc hơ nóng thì bay mất (phân biệt với chất béo). Tinh dầu phần lớn là những thuộc chất của tecpen, nhưng cũng có khi không phải như tinh dầu trong xạ hương.
-   Những thuốc tinh dầu thường dùng như hồi, quế, xạ hương, hoắc hương, hương nhu, bạc hà, sa nhân, thảo đậu khấu, đương quy v.v...
-   Thuốc có tinh dầu thường có tác dụng sát trùng, trị bệnh đường hô hấp (khuynh điệp, quế) hay giúp sự tiêu hóa, làm cho ăn ngon, chóng tiêu, chữa đau bụng, nôn mửa, hoặc có khi dùng chữa cảm sốt, nhức đầu.
-   Những thuốc có tinh dầu thường dùng bột, hoặc nếu sắc thì không nên sắc lâu, tinh dầu sẽ bay đi mất. Hay nếu sắc chung với những vị thuốc khác thì cho vào sau cùng, khi sắp được thuốc mới cho vào. Đôi khi những vị thuốc có tinh dầu dùng để xông giải cảm, như đại bi, lá bưởi, long não người ta đun nồi nước sôi cho các thứ lá đó vào rồi chùm chăn lên để hứng lấy những hơi tinh dầu bốc lên.
-5. Chất nhựa (résine) như nhựa thông, a ngùy, an tức hương, một dược là những chất được tạo thành do sự ôxy hóa các tinh dầu. Có thứ nhựa còn lẫn cả tinh dầu chưa bị ôxy hóa, người ta gọi là nhựa dầu (oleoresin hay bôm). Có những thứ nhựa chứa axit thơm như an tức hương, (có axit benzoic, xinamic). Những thuốc có chất nhựa không tan trong nước, cho nên ta không dùng dưới dạng thuốc sắc mà dùng dưới dạng rượu thuốc (ngâm trong rượu). Những vị thuốc có chất nhựa thường có tác dụng sát trùng đường hô hấp, đường tiểu tiện hay chữa giun,
-   Có một loại nhựa đặc biệt gọi là nhựa tẩy có trong vị khiên ngưu, khoai lang, tuy hình thức và một số tính chất giống nhựa, nhưng lại có cấu tạo những chất glucozit nói sau đây.
-6. Những chất glucozit hay heterozit rất hay gặp trong các vị thuốc. Nhưng bản thân glucozit là những chất không đơn thuần. Khi đun các chất glucoxit với nước axit loãng hay kiềm loãng, thường glucozit tách ra làm hai phần, phần chất đường (glucoza, ramnoza v.v...) và một phần không phải là đường (gọi là genin). Tùy theo phần không đường này và tác dụng của vị thuốc có, glucozit lại chia ra làm nhiều chất khác nhau nữa. Ta có thể kể một số glucozit chính sau đây:
-   (a) Glucozit chữa tim có trong vị trúc đào, thông thiên, hạt đay, một loại vạn niên thanh. Những vị thuốc có chứa glucozit tim có vị rất đắng, thường rất độc. Trong nhựa cóc có một chất gần giống glucozit tim cho nên cũng có tác dụng trên tim.
-   (b) Glucozit đắng là những chất có vị rất đắng mà không phải là ancaloit. Ta thường thấy chất đắng trong bồ công anh, trong long đởm thảo, thạch xương bồ, trong vỏ cam, vỏ quít.
-   Những vị thuốc có chất đắng thường làm cho ăn ngon cơm, chóng tiêu, bổ dạ dày.
-   (c) Saponin hay saponozit là những glucozit có tính chất gây bọt, phá huyết. Những vị thuốc có chất saponin khi tán nhỏ, lắc với một ít nước thì sẽ gây rất nhiều bọt như bọt xà phòng trong ống thí nghiêm. Bọt này rất lâu mới tan. Tuy nhiên cũng cần chú ý là những chất như lòng trắng trứng cũng gây bọt mà không phải là saponin.
-   Những vị thuốc có saponin rất nhiều như bồ kết (tạo giác), viễn chí, cát cánh, cam thảo, tri mẫu v.v...
-   Thuốc có chứa chất saponin thường là những thuốc chữa ho, long đờm, thông tiểu. Nhưng nếu tiêm những thuốc có saponin thì có thể làm chết người do huyết bị phá vỡ.
-   (d) Antragiucozit là những chất glucozit có tính chất kích thích sự co bóp của ruột. Khi dùng liều nhỏ thì nó làm cho ăn ngon cơm, tiêu hóa dễ dàng; liều vừa phải thì nhuận tràng, liều cao hơn nữa thì gây tẩy mạnh. Khi dùng ngoài da, thì những chất này có tác dụng sát trùng, thường dùng chữa hắc lào, chống một sô bệnh nấm ngoài da. Những vị thuốc có antraglucozit thường gặp như đại hoàng, phan tả diệp, lô hội, chút chít, muồng trâu, thảo quyết minh v.v...
-   (e) Chất tanin (chất chát) cũng là một loại glucozit có vị chát và chua. Nhưng tác dụng của nó thì ngược lại với antraglucozit. Uống những thuốc có tanin thì thường gây táo bón, dùng chữa những trường hợp đau bụng đi ỉa lỏng. Những thuốc có tanin hay gặp như ngũ bội tử, búp ổi, búp sim, củ nâu, hạt vải v.v... Ngoài công dụng cầm ỉa lỏng, tanin còn có tác dụng cầm máu và bổ. Trong hạt sen, lá sen, kim anh, lá chè đều có tanin.
-   Những vị thuốc có tanin khi dùng dao sắt hay nấu sắc bằng nồi sắt, nồi gang thì sẽ có màu đen. Cho nên một số vị thuốc có chất tanin thường được ông cha ta dặn là không được dùng dao sắt mà thái thuốc. Còn việc sắc thuốc thì nhất thiết phải dùng ấm đất rồi. Nếu không có ấm đất thì dùng nồi nhôm, nồi đồng, không thể dùng nồi sắt được.
-   (g) Flayon (flayonozit) và antoxyan (anthoxyanozit) là những chất glucozit có màu sắc. Flayon có màu vàng, antoxyan có màu tím (nếu môi trường trung tính) hay đỏ (môi trường axit) hoặc xanh (nếu môi trường kiềm).
-   Những chất này có liên quan chặt chẽ với chất tanin. Ta thường thấy chất Aayon trong hoa hòe, trong vỏ cam, bồ hoàng, hoàng cầm, chi tử. Một chất flayon rất quý gọi là rutin hay rutozit có trong hoa hòe có tác dụng giảm huyết áp, giúp cho cơ thể chống lại những trường hợp đứt mạch máu nhỏ khi huyết áp tăng cao.
-   Antoxyan có trong vỏ hạt đậu đen, trong nhiều loại hoa như hoa dâm bụt, hoa phù dung. Vai trò của antoxyan hiện nay chưa được xác định rõ rệt về mât điều trị.
-7. Ancaloit đóng một vai trò rất quan trọng trong điều trị. Nó còn đóng vai trò quan trọng trong nông nghiệp vì có thể dùng làm thuốc trừ sâu.
-   Ancaloit là những chất hữu cơ, có tính chất kiềm tìm thấy trong thực vật. Một số ít cũng thấy trong động vật. Ancaloit thường có vị rất đắng và có một số tính chất chung làm cho chúng ta có thể phát hiện nó trong cây một cách tương đối dễ đàng.
-   Ancaloit cũng thường có tác dụng rất mạnh trên cơ thể và thường dùng với liều rất nhỏ; nếu dùng liều quá cao có thể bị ngộ độc.
-   Cũng như các chất khác thường thấy trong cây và động vật, tỷ lệ ancaloit thay đổi tùy theo thời kỳ thu hái, cách chế biến, do đó có tác dụng thay đổi. Vậy cần chú ý thu hái chế biến cho đúng phép.
-   Những vị thuốc có chứa ancaloit rất nhiều; có thể kể phụ tử, ô đầu, cà độc dược, ma hoàng, ớt, mã tiền, hoàng nàn, thuốc phiện v.v...
-8. Vitamin hay sinh tố là những chất tác dụng trên cơ thể với liều rất nhỏ, nhưng thiếu nó thì phát sinh nhiều bệnh phức tạp. Tùy theo thứ tự tìm thấy trước sau, người ta phân chia vitamin A, B, C, D, E v.v..., nhưng sau trong mỗi thứ vitamin người ta nhận thấy nhiều thứ khác cho nên phải thêm con số vào các chữ cái ví dụ B1, B2 B12, C1, D1, D2, D3, v.v... hoặc có khi người ta dùng tác dụng chữa bệnh chủ yếu của vitamin để đặt tên ví dụ vitamin antibéribéric (Chữa phù = vitamin B1), vitamin antiscobutic (vitamin C). Hiện nay người ta đã tổng hợp được nhiều thứ vitamin, khỏi phụ thuộc nhiều thứ vào thiên nhiên.
-   Mặc dầu vitamin cần thiết cho cơ thể nhưng dùng nhiều quá cũng lại có thể phát sinh ra bệnh thừa vitamin.
-9. Các chất nội tiết tố (hocmon) thường gặp trong các vị thuốc nguồn gốc động vật như từ hà sa (nhau thai nhi), kê nội kim (màng mề gà) lộc nhung, hải cẩu thận v.v...
-   Cơ thể cũng chỉ cần những liều rất nhỏ của nội tiết tố. Dùng quá liều cũng sẽ gây tai biến rối loạn.
-10. Chất kháng sinh, gần đây người ta phát hiện trong cây có chất kháng sinh.
-    Những chất kháng sinh có thể là những chất đã biết như tinh dầu, ancaloit, nhưng có thể có câu tạo khác.
-    Trên đây mới chỉ kể sơ lược một số hoạt chất thường gặp. Hiện nay khoa học còn đang cố gắng phát hiện ra những chất mới khác trong cây và động vật.
 
-V. KÊ ĐƠN THUỐC ĐÔNG Y
+3. _Dầu béo_. Những vị thuốc có chất dầu béo như hạnh nhân, đào nhân, thầu dầu, ba đậu, đại phong tử, máu chó, vừng v.v... Những vị thuốc có chất dầu béo, khi ta ép nó vào tờ giấy thì thấy trên tờ giấy có một vết trong mờ để lâu hay hơ nóng cũng không mất đi (khác với tinh dầu).
+
+   Tác dụng của chất béo nhiều mặt: khi thì là một chất bồi dưỡng như dầu lạc, dầu vừng, khi thì là thuốc tẩy như thầu dầu, dầu ba đậu, nhưng cũng có khi là thuốc trị bệnh ngoài da như dầu máu chó, đại phong tử, hay dầu vừng dùng chế thuốc cao dán nhọt.
+
+4. _Tinh dầu_. Tinh dầu là những chất làm cho vị thuốc có mùi thơm hay hắc. Những vị thuốc có tinh dầu, khi ép giữa hai tờ giấy cũng để lại một vết trong mờ, nhưng để lâu hoặc hơ nóng thì bay mất (phân biệt với chất béo). Tinh dầu phần lớn là những thuộc chất của tecpen, nhưng cũng có khi không phải như tinh dầu trong xạ hương.
+
+   Những thuốc tinh dầu thường dùng như hồi, quế, xạ hương, hoắc hương, hương nhu, bạc hà, sa nhân, thảo đậu khấu, đương quy v.v...
+
+   Thuốc có tinh dầu thường có tác dụng sát trùng, trị bệnh đường hô hấp (khuynh điệp, quế) hay giúp sự tiêu hóa, làm cho ăn ngon, chóng tiêu, chữa đau bụng, nôn mửa, hoặc có khi dùng chữa cảm sốt, nhức đầu.
+
+   Những thuốc có tinh dầu thường dùng bột, hoặc nếu sắc thì không nên sắc lâu, tinh dầu sẽ bay đi mất. Hay nếu sắc chung với những vị thuốc khác thì cho vào sau cùng, khi sắp được thuốc mới cho vào. Đôi khi những vị thuốc có tinh dầu dùng để xông giải cảm, như đại bi, lá bưởi, long não người ta đun nồi nước sôi cho các thứ lá đó vào rồi chùm chăn lên để hứng lấy những hơi tinh dầu bốc lên.
+
+5. _Chất nhựa_ (résine) như nhựa thông, a ngùy, an tức hương, một dược là những chất được tạo thành do sự ôxy hóa các tinh dầu. Có thứ nhựa còn lẫn cả tinh dầu chưa bị ôxy hóa, người ta gọi là nhựa dầu (oleoresin hay bôm). Có những thứ nhựa chứa axit thơm như an tức hương, (có axit benzoic, xinamic). Những thuốc có chất nhựa không tan trong nước, cho nên ta không dùng dưới dạng thuốc sắc mà dùng dưới dạng rượu thuốc (ngâm trong rượu). Những vị thuốc có chất nhựa thường có tác dụng sát trùng đường hô hấp, đường tiểu tiện hay chữa giun.
+
+   Có một loại nhựa đặc biệt gọi là nhựa tẩy có trong vị khiên ngưu, khoai lang, tuy hình thức và một số tính chất giống nhựa, nhưng lại có cấu tạo những chất glucozit nói sau đây.
+
+6. _Những chất glucozit_ hay _heterozit_ rất hay gặp trong các vị thuốc. Nhưng bản thân glucozit là những chất không đơn thuần. Khi đun các chất glucoxit với nước axit loãng hay kiềm loãng, thường glucozit tách ra làm hai phần, phần chất đường (glucoza, ramnoza v.v...) và một phần không phải là đường (gọi là genin). Tùy theo phần không đường này và tác dụng của vị thuốc có, glucozit lại chia ra làm nhiều chất khác nhau nữa. Ta có thể kể một số glucozit chính sau đây:
+
+   (a) _Glucozit chữa tim_ có trong vị trúc đào, thông thiên, hạt đay, một loại vạn niên thanh. Những vị thuốc có chứa glucozit tim có vị rất đắng, thường rất độc. Trong nhựa cóc có một chất gần giống glucozit tim cho nên cũng có tác dụng trên tim.
+
+   (b) _Glucozit đắng_ là những chất có vị rất đắng mà không phải là ancaloit. Ta thường thấy chất đắng trong bồ công anh, trong long đởm thảo, thạch xương bồ, trong vỏ cam, vỏ quít.
+
+   Những vị thuốc có chất đắng thường làm cho ăn ngon cơm, chóng tiêu, bổ dạ dày.
+
+   (c) _Saponin_ hay _saponozit_ là những glucozit có tính chất gây bọt, phá huyết. Những vị thuốc có chất saponin khi tán nhỏ, lắc với một ít nước thì sẽ gây rất nhiều bọt như bọt xà phòng trong ống thí nghiêm. Bọt này rất lâu mới tan. Tuy nhiên cũng cần chú ý là những chất như lòng trắng trứng cũng gây bọt mà không phải là saponin.
+
+   Những vị thuốc có saponin rất nhiều như bồ kết (tạo giác), viễn chí, cát cánh, cam thảo, tri mẫu v.v...
+
+   Thuốc có chứa chất saponin thường là những thuốc chữa ho, long đờm, thông tiểu. Nhưng nếu tiêm những thuốc có saponin thì có thể làm chết người do huyết bị phá vỡ.
+
+   (d) _Antragiucozit_ là những chất glucozit có tính chất kích thích sự co bóp của ruột. Khi dùng liều nhỏ thì nó làm cho ăn ngon cơm, tiêu hóa dễ dàng; liều vừa phải thì nhuận tràng, liều cao hơn nữa thì gây tẩy mạnh. Khi dùng ngoài da, thì những chất này có tác dụng sát trùng, thường dùng chữa hắc lào, chống một sô bệnh nấm ngoài da. Những vị thuốc có antraglucozit thường gặp như đại hoàng, phan tả diệp, lô hội, chút chít, muồng trâu, thảo quyết minh v.v...
+
+   (e) _Chất tanin_ (chất chát) cũng là một loại glucozit có vị chát và chua. Nhưng tác dụng của nó thì ngược lại với antraglucozit. Uống những thuốc có tanin thì thường gây táo bón, dùng chữa những trường hợp đau bụng đi ỉa lỏng. Những thuốc có tanin hay gặp như ngũ bội tử, búp ổi, búp sim, củ nâu, hạt vải v.v... Ngoài công dụng cầm ỉa lỏng, tanin còn có tác dụng cầm máu và bổ. Trong hạt sen, lá sen, kim anh, lá chè đều có tanin.
+
+   Những vị thuốc có tanin khi dùng dao sắt hay nấu sắc bằng nồi sắt, nồi gang thì sẽ có màu đen. Cho nên một số vị thuốc có chất tanin thường được ông cha ta dặn là không được dùng dao sắt mà thái thuốc. Còn việc sắc thuốc thì nhất thiết phải dùng ấm đất rồi. Nếu không có ấm đất thì dùng nồi nhôm, nồi đồng, không thể dùng nồi sắt được.
+
+   (g) Flayon (flayonozit) và antoxyan (anthoxyanozit) là những chất glucozit có màu sắc. Flayon có màu vàng, antoxyan có màu tím (nếu môi trường trung tính) hay đỏ (môi trường axit) hoặc xanh (nếu môi trường kiềm).
+
+   Những chất này có liên quan chặt chẽ với chất tanin. Ta thường thấy chất Aayon trong hoa hòe, trong vỏ cam, bồ hoàng, hoàng cầm, chi tử. Một chất flayon rất quý gọi là rutin hay rutozit có trong hoa hòe có tác dụng giảm huyết áp, giúp cho cơ thể chống lại những trường hợp đứt mạch máu nhỏ khi huyết áp tăng cao.
+
+   Antoxyan có trong vỏ hạt đậu đen, trong nhiều loại hoa như hoa dâm bụt, hoa phù dung. Vai trò của antoxyan hiện nay chưa được xác định rõ rệt về mât điều trị.
+
+7. _Ancaloit_ đóng một vai trò rất quan trọng trong điều trị. Nó còn đóng vai trò quan trọng trong nông nghiệp vì có thể dùng làm thuốc trừ sâu.
+
+   Ancaloit là những chất hữu cơ, có tính chất kiềm tìm thấy trong thực vật. Một số ít cũng thấy trong động vật. Ancaloit thường có vị rất đắng và có một số tính chất chung làm cho chúng ta có thể phát hiện nó trong cây một cách tương đối dễ đàng.
+
+   Ancaloit cũng thường có tác dụng rất mạnh trên cơ thể và thường dùng với liều rất nhỏ; nếu dùng liều quá cao có thể bị ngộ độc.
+
+   Cũng như các chất khác thường thấy trong cây và động vật, tỷ lệ ancaloit thay đổi tùy theo thời kỳ thu hái, cách chế biến, do đó có tác dụng thay đổi. Vậy cần chú ý thu hái chế biến cho đúng phép.
+
+   Những vị thuốc có chứa ancaloit rất nhiều; có thể kể phụ tử, ô đầu, cà độc dược, ma hoàng, ớt, mã tiền, hoàng nàn, thuốc phiện v.v...
+
+8. _Vitamin_ hay _sinh tố_ là những chất tác dụng trên cơ thể với liều rất nhỏ, nhưng thiếu nó thì phát sinh nhiều bệnh phức tạp. Tùy theo thứ tự tìm thấy trước sau, người ta phân chia vitamin A, B, C, D, E v.v..., nhưng sau trong mỗi thứ vitamin người ta nhận thấy nhiều thứ khác cho nên phải thêm con số vào các chữ cái ví dụ B1, B2 B12, C1, D1, D2, D3, v.v... hoặc có khi người ta dùng tác dụng chữa bệnh chủ yếu của vitamin để đặt tên ví dụ vitamin antibéribéric (Chữa phù = vitamin B1), vitamin antiscobutic (vitamin C). Hiện nay người ta đã tổng hợp được nhiều thứ vitamin, khỏi phụ thuộc nhiều thứ vào thiên nhiên.
+
+   Mặc dầu vitamin cần thiết cho cơ thể nhưng dùng nhiều quá cũng lại có thể phát sinh ra bệnh thừa vitamin.
+
+9. Các chất _nội tiết tố_ (hocmon) thường gặp trong các vị thuốc nguồn gốc động vật như từ hà sa (nhau thai nhi), kê nội kim (màng mề gà) lộc nhung, hải cẩu thận v.v...
+
+   Cơ thể cũng chỉ cần những liều rất nhỏ của nội tiết tố. Dùng quá liều cũng sẽ gây tai biến rối loạn.
+
+10. Chất kháng sinh, gần đây người ta phát hiện trong cây có chất kháng sinh.
+
+    Những chất kháng sinh có thể là những chất đã biết như tinh dầu, ancaloit, nhưng có thể có câu tạo khác.
+
+Trên đây mới chỉ kể sơ lược một số hoạt chất thường gặp. Hiện nay khoa học còn đang cố gắng phát hiện ra những chất mới khác trong cây và động vật.
+
+## V. KÊ ĐƠN THUỐC ĐÔNG Y
+
 Sau khi chẩn bệnh, căn cứ vào tình hình cụ thể của bệnh, thầy thuốc thường kê đơn thuốc, dặn dò cách sử dụng, cách kiêng khem khi uống thuốc.
-Cách kê đơn dùng thuốc căn cứ vào tình hình cụ thể của bệnh, được đông y gọi là biện chứng luận trị nghĩa là căn cứ vào chứng trạng của bệnh nhân mà biện luận cách trị liệu. Biện chứng luận trị khác với lề lối làm việc của những người chỉ biết tác dụng của bài vị thuốc, vị thuốc rồi dùng chung cho tất cả mọi người. Coi như vậy thì luận chứng biện trị không phải là một biện pháp chữa bệnh độc đáo gì của đồng y, chỉ có cách nói khác nhau. Người thầy thuốc tây y biết chú ý tới từng trường hợp cụ thể mà thay đổi thuốc cho thích hợp thì cũng đã làm công việc biện chứng luận trị. Ta không nên thần bí hóa một việc đơn giản.
-Nội dung đơn thuốc có thể là những bài thuốc gia truyền kinh nghiệm, cũng có thể là những bài thuốc sẵn có như bài lục vị, bài tứ quân, tứ vật v.v... Có khi gia giảm thêm vị này, bớt vị khác (Thường gọi là gia: thêm; giảm: bớt), có khi người ta lại dựa vào toa thuốc căn bản theo kinh nghiệm của quân dân y Nam Bộ kháng chiến, mà thêm bớt cho thích hợp với từng bệnh cụ thể, mặt khác người thầy thuốc cũng có thể chỉ dựa hoàn toàn vào vào các triệu chứng tật bệnh chẩn đoán được mà kê một bài thuốc theo sáng kiến hay kinh nghiệm của mình.
-Trong giai đoạn hiện nay, nhất là đối với thầy thuốc tây y, muốn dùng thuốc đông y, ta nên áp dụng rộng rãi việc kê những đơn thuốc chỉ căn cứ vào những triệu chứng hay căn nguyên bệnh mà mình đã chẩn đoán được bằng phương pháp tây y rồi dựa vào tính vị công năng của từng vị thuốc đông y mà thay đổi cho thích hợp. Có làm được như vậy, chúng ta mới chủ động lựa chọn những vị thuốc có sẵn trong nước tránh những vị hiện nay ta còn phải nhập, đắt tiền hoặc không có sẵn ở địa phương mình. Kinh nghiệm kháng chiến Nam Bộ sử dụng chủ yếu thuốc nam, kinh nghiệm của các thẩy thuốc nam ở miến Bắc, trước Cách mạng, trong kháng chiến và từ hòa bình lập lại cho ta biết rằng chỉ bằng thuốc nam ta có thể giải quyết một số lớn bệnh thông thường, có khi cả một số bệnh hiểm nghèo đã dùng thuốc tây, thuốc bắc không khỏi mà rồi cuối cùng chỉ một hay vài vị thuốc nam vừa đơn giản, rẻ tiền, thích hợp với hoàn cảnh của chúng ta, là đã có hiệu nghiệm.
+
+Cách kê đơn dùng thuốc căn cứ vào tình hình cụ thể của bệnh, được đông y gọi là _biện chứng luận trị_ nghĩa là căn cứ vào chứng trạng của bệnh nhân mà biện luận cách trị liệu. Biện chứng luận trị khác với lề lối làm việc của những người chỉ biết tác dụng của bài vị thuốc, vị thuốc rồi dùng chung cho tất cả mọi người. Coi như vậy thì luận chứng biện trị không phải là một biện pháp chữa bệnh độc đáo gì của đông y, chỉ có cách nói khác nhau. Người thầy thuốc tây y biết chú ý tới từng trường hợp cụ thể mà thay đổi thuốc cho thích hợp thì cũng đã làm công việc biện chứng luận trị. Ta không nên thần bí hóa một việc đơn giản.
+
+Nội dung đơn thuốc có thể là những bài thuốc gia truyền kinh nghiệm, cũng có thể là những bài thuốc sẵn có như bài lục vị, bài tứ quân, tứ vật v.v... Có khi gia giảm thêm vị này, bớt vị khác (Thường gọi là _gia_: thêm; _giảm_: bớt), có khi người ta lại dựa vào toa thuốc căn bản theo kinh nghiệm của quân dân y Nam Bộ kháng chiến, mà thêm bớt cho thích hợp với từng bệnh cụ thể, mặt khác người thầy thuốc cũng có thể chỉ dựa hoàn toàn vào vào các triệu chứng tật bệnh chẩn đoán được mà kê một bài thuốc theo sáng kiến hay kinh nghiệm của mình.
+
+Trong giai đoạn hiện nay, nhất là đối với thầy thuốc tây y, muốn dùng thuốc đông y, ta nên áp dụng rộng rãi việc kê những đơn thuốc chỉ căn cứ vào những triệu chứng hay căn nguyên bệnh mà mình đã chẩn đoán được bằng phương pháp tây y rồi dựa vào tính vị công năng của từng vị thuốc đông y mà thay đổi cho thích hợp. Có làm được như vậy, chúng ta mới chủ động lựa chọn những vị thuốc có sẵn trong nước tránh những vị hiện nay ta còn phải nhập, đắt tiền hoặc không có sẵn ở địa phương mình. Kinh nghiệm kháng chiến Nam Bộ sử dụng chủ yếu thuốc nam, kinh nghiệm của các thầy thuốc nam ở miền Bắc, trước Cách mạng, trong kháng chiến và từ hòa bình lập lại cho ta biết rằng chỉ bằng thuốc nam ta có thể giải quyết một số lớn bệnh thông thường, có khi cả một số bệnh hiểm nghèo đã dùng thuốc tây, thuốc bắc không khỏi mà rồi cuối cùng chỉ một hay vài vị thuốc nam vừa đơn giản, rẻ tiền, thích hợp với hoàn cảnh của chúng ta, là đã có hiệu nghiệm.
+
 Để việc kê đơn thuốc đông y được tốt, chúng ta cần tránh một số nhận định mà chúng tôi cho là chưa hoàn toàn đúng:
 
-1. Đơn thuốc đông y phải có nhiều vị?
+1. **_Đơn thuốc đông y phải có nhiều vị?_**
+
    Những người này thường thấy trong đơn thuốc đông y có tới 20-30 vị, có khi tới 40-50 vị hay hơn nữa. Điều nhận xét đó có phần đúng. Nói chung, một số lương y hay kê những đơn thuốc nhiều vị, nhưng ta không nên vì vậy mà quan niệm rằng đơn thuốc đông y nhất thiết phải có nhiều vị.
+
    Nhìn qua lịch sử đông y và dựa vào một số bài thuốc kinh nghiệm đã nổi tiếng, ta thấy có rất nhiều bài có tác dụng rõ rệt mà cũng chỉ gồm có 4 hay 5 vị như bài tứ quân bổ khí có 4 vị là: sâm (đảng sâm hay nhân sâm), linh (phục linh), truật (bạch truật), thảo (cam thảo); bài tứ vật bổ huyết cũng chỉ có 4 vị là: quy (đương quy), khung (xuyên khung), thục (thục địa), thược (bạch thược hay xích thược); bài tiểu thừa khí nổi tiếng chữa đầy bụng, táo bón, nóng sốt từng cơn, cũng chỉ có 3 vị là đại hoàng, hậu phác và chỉ thực. Có những bài thuốc chỉ có hai vị như bài lục nhất (lục là 6, nhất là 1 vì trong bài thuốc có 6 phần hoạt thạch và 1 phần cam thảo) chữa cảm sốt, người nóng, miệng khô, tiểu tiện đỏ; bài thủy lục nhị tiên thang gồm 2 vị là kim anh và khiếm thực. Lại có nhiều bài chỉ gồm có 1 vị như cao ban long, a giao, cao quy bản v.v...
+
    Trương Trọng Cảnh một danh y thời xưa của Trung Quốc, có uy tín tới mức mà các cụ lang coi như là một thánh sư trong đông y, khi kê đơn thuốc thường chỉ dùng 4 hay 5 vị, đặc biệt lắm mới thấy dùng tới 6 hay 8 vị, rất ít khi dùng hơn.
+
    Coi vậy ta thấy khi kê đơn thuốc đông y, nhất thiết không bắt buộc phải kê nhiều vị, ta có thể dùng 1 vị, 2 vị hay 3 hoặc 4 vị, nhưng điều chủ yếu là phải cân nhắc thật cẩn thận.
-2. Liều lượng các vị thuốc đông y nên như thế nào?
+
+2. **_Liều lượng các vị thuốc đông y nên như thế nào?_**
+
    Một số người cho rằng dùng thuốc đông y phải dùng liều lượng cao từ hàng lạng (40g) trở lên, có những thang thuốc phải dùng một cái ấm khá lớn mới có thể sắc được. Sự thực không cần thiết như vậy. Nếu vị thuốc còn tươi thì có thể phải dùng liều lượng nhiều chừng 30-50g trở lên; nhưng sau khi đã phơi khô, hoặc khi dùng phối hợp với nhiều vị thuốc khác, ta chỉ cần liều lượng trung bình cho mỗi vị từ 4 đến 12g (1 đến 3 đồng cân). Khi phối hợp nhiều vị với nhau, ta có thể giảm liều xuống 1/3 hay 1/2. Một số vị thuốc mạnh như xạ hương, ngưu hoàng, thềm tô (nhựa cóc) cần dùng với liều lượng rất thấp để tránh ngộ độc.
+
    Khi mới kê đơn, ta chưa nhớ liều lượng, nên mỗi khi dùng cần xem lại tài liệu, một khi đã quen rồi thì ta không cần tra cứu nữa.
-3. Vấn đề kiêng khem khi uống thuốc đông y
+
+3. **_Vấn đề kiêng khem khi uống thuốc đông y_**
+
    Hiện nay, trong khi uống thuốc đông y, một số lương y bắt bệnh nhân kiêng nhiều món ăn quá như rau muống, đậu xanh, thịt gà, cá chép, các món ăn tanh như tôm cá, đôi khi lại không cho phối hợp với các vị thuốc tây. Cách đòi hỏi đó đã gây một ấn tượng không tốt đối với thuốc đông y, mà thực tế không có cơ sở chính xác.
+
    Phải nhận thấy rằng khi mắc một số bệnh, hay khi uống một số vị thuốc, bệnh nhân cần tránh ăn một số thức ăn, hay cần tránh uống cùng một lúc với một số vị thuốc khác có tác dụng ngược lại với vị thuốc đang uống, hay có thể gây với những vị thuốc đang uống một số phản ứng làm cho thuốc trở thành độc hay nguy hiểm. Điều này có cơ sở khoa học và đã được chứng minh, trong tây y có quy định.
+
    Qua kinh nghiệm thực tế lâm sàng, ông cha ta cũng đã phát hiện thấy khi uống một số vị thuốc đông y hay khi mắc một số bệnh thì cần tránh một số vị thuốc nhất định; điều này có ghi trong các sách; ví dụ trong sách cổ có ghi những người âm hư nhiệt (?) không dùng được vị ngải cứu; những người hư nhược không tích trệ không dùng vị nga truật; phàm những người nào tỳ, vị hư hàn mà không có nhiệt độc không nên dùng vị hoa kim ngân v.v...
+
    Nhiều vị thuốc sau khi ghi tác dụng còn ghi vị thuốc đó ghét vị thuốc nào khác (tương ố), hay sợ vị thuốc nào khác (tương úy) hoặc có tác dụng ngược lại với vị thuốc nào khác (tương phản); một số vị thuốc lại có tác dụng tiêu diệt sức phản ứng trúng độc của một vị thuốc khác như vị phòng phong trừ độc tính của vị phê sương (tương sát).
+
    Mặc dầu một số danh từ một số bệnh ghi trong sách cổ rất khó xác định nhưng trong khi cho dùng thuốc đông y, ta nên theo dõi xem trường hợp nào cần tránh vị thuốc nào, để nếu cần thiết thì viết lại theo quan niệm bệnh mới; đối với sự tương kỵ hay tương úy, tương ố giữa một số vị thuốc cũng vậy ta nên theo dõi để rồi quy định lại.
+
    Chúng ta dùng thuốc đông y nên có ý thức vừa dùng vừa rút kinh nghiệm. Đối với việc kiêng khem cũng nên như vậy. Những trường hợp đã đúng và chính xác rồi thì ta nên theo và nghiên cứu thêm để nắm nguyên nhân vì sao phải kiêng khem, nhưng cũng có nhiều trường hợp cần kiểm tra lại vì do người nọ truyền người kia, tam sao thất bản làm cho việc kiêng khem có màu sắc thần bí, không bảo đảm chính xác.
+
    Trên cơ sở đó ta thấy vừa dùng thuốc tây vừa dùng thuốc đông không mất tác dụng của loại thuốc nào, miễn là những vị thuốc dùng cùng một lúc không có vị nào có tác dụng ngược lại nhau hay phá hủy tác dụng của nhau.
-   Nội dung một đơn thuốc đông y
-   Trong một đơn thuốc đông người ta thường nói phải có đủ thành phần quân, thần, tá, sứ. Đó cũng chỉ là cách nói của người xưa dưới chế độ phong kiến. Coi triều đình có vua, có quan thì đơn thuốc cũng phải vị chính, vị phụ, vị nào chủ yếu, vị nào hỗ trợ.
-   Quân là vị thuốc chủ yếu để chữa bệnh, nhằm giải quyết triệu chứng chủ yếu cần phải thanh toán. Một vị quân không bắt buộc phải có liều lượng cao hơn các vị thuốc khác trong đơn, vì nếu là vị thuốc có tác dụng mạnh thì chỉ cần liều nhỏ cũng đủ.
-   Thần là vị thuốc đóng vai trò giúp đỡ làm cho hiệu lực của vị thuốc chủ yếu mạnh thêm.
-   Tá là vị thuốc nhằm hai mục đích: một là ức chế vị quân khi vị quân có độc quá cao hay tác dụng hơi thiên lệch; mục đích thứ hai nhằm giúp vị quân giải quyết một số triệu chứng thứ yếu của tật bệnh, khi bệnh kèm theo một số triệu chứng khác.
-   Sứ cũng dùng nhằm hai mục đích: một là để nó dẫn các chất thuốc vào kinh như dùng vị khương hoạt để dán thuốc vào kinh thái dương, dùng cát căn để đưa thuốc vào kinh dương minh; tác dụng thứ hai của nó là đóng vai trò thứ yếu, hỗ trợ trong đơn thuốc.
-   Ví dụ trong đơn ma hoàng thang của Trương Trọng Cảnh dùng chữa các chứng suyễn mà không ra mồ hôi, nhức đầu, phát sốt, sợ rét, thân thể đau nhức, có những vị thuốc sau đây: ma hoàng là vị quân làm cho ra mồ hôi và giải biểu, quế chi là thần giúp ma hoàng làm cho ra mồ hôi và giải biểu, hạnh nhân là tá giúp ma hoàng hạ cơn suyễn, cam thảo là sứ điều hòa các vị thuốc.
-   Tuy đơn phải có đủ quân, thần, tá, sứ nhưng không nhất thiết đơn thuốc nào cũng phải có đủ 4 vị, vì có khi một vị cũng có thể làm nhiệm vụ cả quân và sứ hoặc cả thần và tá.
-   Ví dụ đơn cát cánh cam thảo thang chỉ gồm có hai vị là cát cánh và cam thảo. Cát cánh vừa là quân, thông lợi cuống họng, chữa ho, vừa là sứ để dẫn thuốc đi lên; cam thảo vừa là thần, ngọt nhuận sinh tân dịch, vừa là tá, thanh nhiệt giải độc.
-   Đơn thuốc tiểu thừa khí gồm 3 vị: đại hoàng, mang tiêu và cam thảo. Đại hoàng vừa là vị quân, thanh nhiệt, công tỳ, vừa là sứ tự đi vào trường và vị: mang tiêu là vị thần, vị mặn làm mềm chất rắn, nhuận táo; cam thảo là vị tá, hòa hoãn sức tả mạnh của mang tiêu, đại hoàng đồng thời có tác dụng điều vị, nhuận táo.
-   Tóm lại vấn đề quân thần tá sứ trong đơn thuốc đông y cũng cùng một ý nghĩa như khi kê một đơn thuốc tây là có vị chính, vị phụ. Nắm vững nhiệm vụ của từng vị trong đơn thuốc là ta có thể kê được.
-   Các dạng thuốc kê trong đơn
-   Đơn thuốc đông y căn bản cũng giống như đơn thuốc tây y; ngoài dạng thuốc tiêm không có trong đồng y những hình thức khác không khác tây y nhiều lắm. Ngay như thang thuốc mua về phải sắc làm cho ta cảm như đó là một dạng thuốc độc đáo của đông y cũng đã có trong tây y với tên chè (thé) hay espèces có tên la tinh là Species, gồm nhiều vị thuốc thảo mộc cắt thái nhỏ để hãm hay sắc uống.
-   Hiểu như vậy để chúng ta có thể vững tâm khi kê đơn thuốc đông y có chăng chỉ có khác nhau do danh từ dùng khác nhau.
-   Sau đây là một số dạng thuốc thường dùng trong đông y:
-4. Thuốc thang là một dạng thuốc gồm nhiều vị thuốc thảo mộc, động vật hay khoáng vật đã chế biến thái nhỏ để sắc hay ngâm rượu uống. Thuốc thang tác dụng nhanh do đó hay dung trong trường hợp cấp tính.
+
+**Nội dung một đơn thuốc đông y**
+
+Trong một đơn thuốc đông người ta thường nói phải có đủ thành phần quân, thần, tá, sứ. Đó cũng chỉ là cách nói của người xưa dưới chế độ phong kiến. Coi triều đình có vua, có quan thì đơn thuốc cũng phải vị chính, vị phụ, vị nào chủ yếu, vị nào hỗ trợ.
+
+_Quân_ là vị thuốc chủ yếu để chữa bệnh, nhằm giải quyết triệu chứng chủ yếu cần phải thanh toán. Một vị quân không bắt buộc phải có liều lượng cao hơn các vị thuốc khác trong đơn, vì nếu là vị thuốc có tác dụng mạnh thì chỉ cần liều nhỏ cũng đủ.
+
+_Thần_ là vị thuốc đóng vai trò giúp đỡ làm cho hiệu lực của vị thuốc chủ yếu mạnh thêm.
+
+_Tá_ là vị thuốc nhằm hai mục đích: một là ức chế vị quân khi vị quân có độc quá cao hay tác dụng hơi thiên lệch; mục đích thứ hai nhằm giúp vị quân giải quyết một số triệu chứng thứ yếu của tật bệnh, khi bệnh kèm theo một số triệu chứng khác.
+
+_Sứ_ cũng dùng nhằm hai mục đích: một là để nó dẫn các chất thuốc vào kinh như dùng vị khương hoạt để dán thuốc vào kinh thái dương, dùng cát căn để đưa thuốc vào kinh dương minh; tác dụng thứ hai của nó là đóng vai trò thứ yếu, hỗ trợ trong đơn thuốc.
+
+Ví dụ trong đơn _ma hoàng thang_ của Trương Trọng Cảnh dùng chữa các chứng suyễn mà không ra mồ hôi, nhức đầu, phát sốt, sợ rét, thân thể đau nhức, có những vị thuốc sau đây: ma hoàng là vị quân làm cho ra mồ hôi và giải biểu, quế chi là thần giúp ma hoàng làm cho ra mồ hôi và giải biểu, hạnh nhân là tá giúp ma hoàng hạ cơn suyễn, cam thảo là sứ điều hòa các vị thuốc.
+
+Tuy đơn phải có đủ quân, thần, tá, sứ nhưng không nhất thiết đơn thuốc nào cũng phải có đủ 4 vị, vì có khi một vị cũng có thể làm nhiệm vụ cả quân và sứ hoặc cả thần và tá.
+
+Ví dụ _đơn cát cánh cam thảo thang_ chỉ gồm có hai vị là cát cánh và cam thảo. Cát cánh vừa là quân, thông lợi cuống họng, chữa ho, vừa là sứ để dẫn thuốc đi lên; cam thảo vừa là thần, ngọt nhuận sinh tân dịch, vừa là tá, thanh nhiệt giải độc.
+
+Đơn thuốc _tiểu thừa khí_ gồm 3 vị: đại hoàng, mang tiêu và cam thảo. Đại hoàng vừa là vị quân, thanh nhiệt, công tỳ, vừa là sứ tự đi vào trường và vị: mang tiêu là vị thần, vị mặn làm mềm chất rắn, nhuận táo; cam thảo là vị tá, hòa hoãn sức tả mạnh của mang tiêu, đại hoàng đồng thời có tác dụng điều vị, nhuận táo.
+
+Tóm lại vấn đề quân thần tá sứ trong đơn thuốc đông y cũng cùng một ý nghĩa như khi kê một đơn thuốc tây là có vị chính, vị phụ. Nắm vững nhiệm vụ của từng vị trong đơn thuốc là ta có thể kê được.
+
+**Các dạng thuốc kê trong đơn**
+
+Đơn thuốc đông y căn bản cũng giống như đơn thuốc tây y; ngoài dạng thuốc tiêm không có trong đông y những hình thức khác không khác tây y nhiều lắm. Ngay như thang thuốc mua về phải sắc làm cho ta cảm như đó là một dạng thuốc độc đáo của đông y cũng đã có trong tây y với tên chè (thé) hay espèces có tên la tinh là Species, gồm nhiều vị thuốc thảo mộc cắt thái nhỏ để hãm hay sắc uống.
+
+Hiểu như vậy để chúng ta có thể vững tâm khi kê đơn thuốc đông y có chăng chỉ có khác nhau do danh từ dùng khác nhau.
+
+Sau đây là một số dạng thuốc thường dùng trong đông y:
+
+1. _Thuốc thang_ là một dạng thuốc gồm nhiều vị thuốc thảo mộc, động vật hay khoáng vật đã chế biến thái nhỏ để sắc hay ngâm rượu uống. Thuốc thang tác dụng nhanh do đó hay dung trong trường hợp cấp tính.
+
    Có những thang thuốc phải sắc lâu mới khỏi độc và thuốc mới chữa khỏi bệnh như đơn thuốc có vị phụ tử nhưng cũng có những thang thuốc chỉ cần đun sôi 15 - 30 phút là dùng được rồi.
-5. Thuốc viên (hoàn) thường chế bằng cách tán các vị thuốc thành bột, rồi luyện với nước, hay với mật mía hay mật ong, hoặc nước hồ rồi viên thành viên. Thuốc viên thường tan chậm cho nên thường dùng khi cần chữa bệnh mãn tính, nhưng cũng có khi dùng viên để chữa bệnh cấp tính vì thuốc thơm có tinh dầu nếu dùng sắc chắc sẽ kém tác dụng do đó chế thành viên sẽ tốt hơn. Nếu chế đúng phép, bảo quản tốt, thuốc viên có thể để lâu được, khi bất thường phải dùng đến có ngay, rất tiện.
-6. Thuốc bột (tán) là các vị thuốc tán nhỏ. Thuốc bột có thể chỉ gồm một vị nhưng cũng có thể gồm nhiều vị. Thuốc bột dùng uống hay dùng rắc ngoài da. Khi bôi ngoài có thể thêm nước khuấy đều rồi bôi lên hay rắc bột khô lên. Có khi còn dùng thổi vào mũi, vào lỗ tai. Dùng thuốc bột uống có thể chiêu thuốc bằng nước thường, nước chè hay nước cơm. Điều bất tiện của thuốc bột thảo mộc là hay mốc mọt.
-7. Thuốc cao. Có 2 loại thuốc cao: loại để uống và loại để dán ngoài. Thuốc cao uống căn bản chế bằng cách sắc các vị thuốc bằng nước rồi cô cho tới đặc hay hơi mềm. Trong cao có thể cho thêm đường hay mật để thêm ngọt dễ uống.
-   Thuốc cao dán ngoài thường là một loại xà phòng chì trong đó có hòa tan các vị thuốc và chất nhựa như nhựa thông, một dược v.v...
+
+2. _Thuốc viên (hoàn)_ thường chế bằng cách tán các vị thuốc thành bột, rồi luyện với nước, hay với mật mía hay mật ong, hoặc nước hồ rồi viên thành viên. Thuốc viên thường tan chậm cho nên thường dùng khi cần chữa bệnh mãn tính, nhưng cũng có khi dùng viên để chữa bệnh cấp tính vì thuốc thơm có tinh dầu nếu dùng sắc chắc sẽ kém tác dụng do đó chế thành viên sẽ tốt hơn. Nếu chế đúng phép, bảo quản tốt, thuốc viên có thể để lâu được, khi bất thường phải dùng đến có ngay, rất tiện.
+
+3. _Thuốc bột (tán)_ là các vị thuốc tán nhỏ. Thuốc bột có thể chỉ gồm một vị nhưng cũng có thể gồm nhiều vị. Thuốc bột dùng uống hay dùng rắc ngoài da. Khi bôi ngoài có thể thêm nước khuấy đều rồi bôi lên hay rắc bột khô lên. Có khi còn dùng thổi vào mũi, vào lỗ tai. Dùng thuốc bột uống có thể chiêu thuốc bằng nước thường, nước chè hay nước cơm. Điều bất tiện của thuốc bột thảo mộc là hay mốc mọt.
+
+4. _Thuốc cao_. Có 2 loại thuốc cao: loại để uống và loại để dán ngoài. Thuốc cao uống căn bản chế bằng cách sắc các vị thuốc bằng nước rồi cô cho tới đặc hay hơi mềm. Trong cao có thể cho thêm đường hay mật để thêm ngọt dễ uống.
+
+   _Thuốc cao dán ngoài_ thường là một loại xà phòng chì trong đó có hòa tan các vị thuốc và chất nhựa như nhựa thông, một dược v.v...
+
    Cao dán ngoài thường được phết lên vải hay giấy bản để dán lên nơi mụn nhọt.
    Ngoài loại cao dán nhọt, còn loại cao gây nóng thường dùng dán vào những huyêt châm cứu để kích thích thay kim hay thay mỗi ngải cứu, ví dụ cao thiếu lâm.
-8. Đơn (đan). Lúc đầu chữ đơn chỉ dành để chỉ những thuốc chế từ kim loại như hồng đơn (chì oxyt); về sau những đơn thuốc chế phức tạp cũng gọi là đơn. Cùng loại với thuốc viên hoàn hay thuốc đĩnh. Có thể nói chữ đơn hiện nay đã mất ý nghĩa ban đầu để chỉ một dạng thuốc mà chữ đơn hiện nay bao gồm cả viên hoàn và viên đĩnh (xem chữ đĩnh).
-9. Thuốc rượu. Đem các vị thuốc ngâm với rượu (35-40 độ) hay cho rượu vào nấu cách thủy cho chất thuốc tan hết vào rượu, sau đó bỏ bã lấy rượu uống hay bôi xoa bên ngoài. Rượu thuốc có tác dụng nhanh, đưa thuốc đi khắp cơ thể, lại dễ để dành không hỏng. Nhưng có một số thuốc không tan vào rượu và một số bệnh nhân không uống được rượu, không thể dùng dạng thuốc này được.
-10. Thuốc nước cất (lộ). Là một dạng thuốc chế bằng cách cho thuốc vào nước rồi cất lấy chất bay hơi. Mùi vị thơm nhạt dễ uống. Tuy nhiên dạng thuốc này ít được sử dụng.
-11. Thuốc đĩnh là một dạng thuốc gồm các vị thuốc tán nhỏ, luyện với một chất nước dính rồi chế thành thỏi như chiếc bút chì ngắn hai đầu tròn có thể nuốt hay mài với nước mà uống hay bôi lên chỗ đau. Có khi không chế thành thỏi mà chế thành bánh. Tên đĩnh là vì dạng thuốc giống như đĩnh bạc, thoi vàng ngày xưa dùng chi tiêu thay tiền.
-12. Thuốc xông. Có hai loại thuốc xông: xông lửa là bỏ các vị thuốc vào lò than lửa, lấy khói xông vào chỗ đau như dùng hùng hoàng để xông; có khi cho vào nước đun sôi lấy hơi nước mang theo hơi thuốc mà xông vào chỗ bị đau như khi ta dùng ngũ bội tử nấu xông chữa bệnh trĩ.
-13. Tọa dược là thuốc viên hay thuốc đĩnh nhưng gói vào lụa để vào âm đạo chữa khí hư bạch đối của phụ nữ.
-    So sánh cân lạng ta về kilôgam
-    Một yến ta: 10 cân ta: 6,048kg, nếu theo dược điển Trung Quốc, 1963, thì một yến ta bằng đúng 5kg.
-    Một cân ta (thị cân Trung Quốc): 16 lạng ta:
-    0,6048kg hoặc 0,500kg (theo DĐTQ, 1963).
-    Một lạng ta: 10 đồng cân hay 10 tiền: 37,77g hoặc 31,25g (theo DĐTQ, 1963).
-    Một phân ta: 10 ly: 0,377g hay 0,3125g (theo DĐTQ, 1963).
-    Một lai ta: 0,00377g hay 0,0031g (theo DĐTQ, 1963).
-    Hiện nay ta đã quy định dùng theo cân lạng kg v.v... Tuy nhiên ta cần biết bảng so sánh đối chiếu này để đọc và tham khảo các tài liệu cũ.
 
-Phần II
-NHỮNG CÂY THUỐC VÀ VỊ THUỐC
+5. _Đơn (đan)_. Lúc đầu chữ đơn chỉ dành để chỉ những thuốc chế từ kim loại như hồng đơn (chì oxyt); về sau những đơn thuốc chế phức tạp cũng gọi là đơn. Cùng loại với thuốc viên hoàn hay thuốc đĩnh. Có thể nói chữ đơn hiện nay đã mất ý nghĩa ban đầu để chỉ một dạng thuốc mà chữ đơn hiện nay bao gồm cả viên hoàn và viên đĩnh (xem chữ đĩnh).
 
-1. CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH PHỤ NỮ
-   ÍCH MẪU 益母草
-   Còn gọi là ích mẫu thảo, sung úy, chói đèn.
-   Tên khoa học Leonurus heterophyllus Sw.
-   Thuộc họ Hoa môi Lamiaceae (Labiatae)3
-   Cây ích mẫu cung cấp cho ta 2 vị thuốc:
-1. Ích mẫu hay ích mẫu thảo (Herba Leonuri) là toàn bộ phận trên mặt đất phơi hay sấy khô của cây ích mẫu.
-1. Sung úy tử (Fructus Leonuri) là quả chín phơi hay sấy khô của cây ích mẫu. Nhiều người vẫn gọi nhầm là hạt ích mẫu.
-   Về tên khoa học của cây trước đây căn cứ vào những tác giả trong và ngoài nước, vẫn xác định là Leonurus sibiricus L. Hiện nay theo sự điều tra đối chiếu mới, cây ích mẫu nhân dân ta vẫn dùng làm thuốc phải xác định lại là Leonurus heterophyllus Sw. mới đúng. Cây Leonurus sibiricus L. cũng có ở Việt Nam nhưng ít phổ biến hơn. Cần chú ý khi nghiên cứu lâm sàng cũng như hóa học và dược lý.
-   A. Mô tả cây
-   Cây ích mẫu có tên như vậy vì có ích cho người mẹ (ích là có ích, mẫu là mẹ). Tên Leonurus do chữ Hy Lạp leon là sư tử, oura là đuôi, heterophyllus là lá có hình dạng biến đổi, vì cây ích mẫu giống đuôi con sư tử có lá hình dạng thay đổi. Ích mẫu là một loại cỏ sống 1-2 năm, cao 0,6m đến 1m. Thân hình vuông, ít phân nhánh, toàn thân có phủ lông nhỏ ngắn. Lá mọc đối, tùy theo lá mọc ở gốc, giữa thân hay đầu cành mà có hình dạng khác nhau. Lá ở gốc, có cuống dài, phiến lá hình tim, mép có răng cưa thô và sâu; lá ở thân có cuống ngắn hơn, phiến lá thường xẻ sâu thành 3 thùy, trên mỗi thùy lại có răng cưa thưa; lá trên cùng phần lớn không chia thùy và hầu như không cuống. Hoa mọc vòng ở kẽ lá. Tràng hoa màu hồng hay tím hồng, xẻ thành hai môi gần đều nhau. Quả nhỏ, 3 cạnh, vỏ màu xám nâu. (Hình 4, Hm 1.1)
-   Ngoài cây ích mẫu mô tả trên, cần chú ý phát hiện và phân biệt cây ích mẫu Leonurus sibiricus L. (tạm gọi là cây ích mẫu hoa to) vì cây này khác cây ích mẫu nói trên ở hoa to hơn, dài hơn, lá phía trên vẫn chia 3 thùy (Hình 5). Ta có thể tóm tắt sự khác nhau giữa 2 cây như sau:
-1. Lá trên cùng không chia thùy, tràng hoa đài 9-12mm, môi trên, môi dưới gần bằng nhau... Leonurus heterophyllus
+6. _Thuốc rượu_. Đem các vị thuốc ngâm với rượu (35-40 độ) hay cho rượu vào nấu cách thủy cho chất thuốc tan hết vào rượu, sau đó bỏ bã lấy rượu uống hay bôi xoa bên ngoài. Rượu thuốc có tác dụng nhanh, đưa thuốc đi khắp cơ thể, lại dễ để dành không hỏng. Nhưng có một số thuốc không tan vào rượu và một số bệnh nhân không uống được rượu, không thể dùng dạng thuốc này được.
 
-Hình 4. ích mẫu - Leonurus heterophyllus
+7. _Thuốc nước cất (lộ)_. Là một dạng thuốc chế bằng cách cho thuốc vào nước rồi cất lấy chất bay hơi. Mùi vị thơm nhạt dễ uống. Tuy nhiên dạng thuốc này ít được sử dụng.
 
-Hình 5. ích mẫu - Leonurus sibiricus 2. Lá trên cùng xẻ 3 thùy, tràng hoa dài 15- 20mm, môi dưới ngắn hơn môi trên... Leonurus
-B. Phân phối thu hái và chế biến
-Ích mẫu hiện nay chủ yếu mọc hoang, thường thấy ở ven suối, ven sông nơi đất cát, còn mọc hoang ở ruộng hoang, ven đường. Gần đây một số nơi đã bắt đầu trồng để làm thuốc. Nhưng chưa ai tổng kết cách trồng như thế nào để có hiệu suất cao nhất.
-Hiện nay nhu cầu ích mẫu rất lớn chỉ trông vào thu hái ích mẫu mọc hoang không đủ. Chúng tôi tóm tắt một số kinh nghiệm trồng ích mẫu tại trạm trồng cây thuốc Nam Xuyên (Trung Quốc) để tham khảo:
-Khi thí nghiệm người ta phân biệt ba loại: ích mẫu mùa đông cần trồng vào mùa thu, ích mẫu mùa xuân gieo trồng vào mùa xuân hay mùa thu, ích mẫu mùa hạ cũng có thể gieo trồng vào mùa xuân hay mùa thu. Ích mẫu mùa hạ cho hiệu suất cao nhất (9 tấn khô 1 hecta), nhưng thời gian từ khi gieo đến khi thu hoạch trên 10 tháng, còn các loài mùa đông và mùa xuân chỉ cần hơn 8 tháng nhưng năng suất chỉ được 4-6 tấn khô 1 hecta. Gieo hạt thẳng thành luống, mỗi luống cách nhau 17cm, trên mỗi luống cây nọ cách cây kia 7cm cho sản lượng cao nhất. Mỗi hecta cần từ 8 đến 9 kilôgam hạt giống. Khi trồng cần trộn hạt với tro bếp. Vào khoảng tháng 5-6, lúc một nửa số hoa của cây bắt đầu nở thì bắt đầu thu hái. Đem về phơi hay sấy khô là được. Nếu muốn thu hoạch hạt (quả) thì cần chờ khi hoa trên cây đã tàn hết, thu hoạch đến đâu dũ hết quả đến đó. mỗi hecta cho từ 350 đến 370 kilôgam quả khô. Mùa thu hoạch cây: tháng 5-9, mùa quả: tháng 8-10.
-C. Thành phần hóa học
-Cây ích mẫu Leonurus heterophyllus chưa thấy tài liệu nghiên cứu. Sơ bộ chúng tôi thấy phản ứng ancaloit và tanin (7-8%), flayonozit.
-Từ cây ích mẫu Leonurus sibiricus, các nhà nghiên cứu Nhật Bản (Nhật Bản dược vật học tạp chí 1930, tr. 153-158) đã chiết được 0,05% ancaloit gọi là leonurin C13H19O4N4 có độ chảy 238oC.
+8. _Thuốc đĩnh_ là một dạng thuốc gồm các vị thuốc tán nhỏ, luyện với một chất nước dính rồi chế thành thỏi như chiếc bút chì ngắn hai đầu tròn có thể nuốt hay mài với nước mà uống hay bôi lên chỗ đau. Có khi không chế thành thỏi mà chế thành bánh. Tên đĩnh là vì dạng thuốc giống như đĩnh bạc, thoi vàng ngày xưa dùng chi tiêu thay tiền.
 
-Leonurin
-Năm 1958, một số tác giả khác (Bắc Kinh y học viện học báo kỳ I) đã chiết từ ích mẫu Leonurus sibiricus 5 chất có tinh thể: 2 chất đầu là ancaloit và gọi là leonurin A: C20H32O10N6 có độ chẩy 229-230oC, leorunin B: C14H24O7N4 và ba chất sau không phải ancaloit và có độ chảy 77-78oC, 86-87oC và 141-142oC.
-Năm 1940, Thang Đẳng Hán (1940 J. Chem. Soc. vol. 7, No2) chiết từ phần tan trong nước một chất gọi là leonuridin công thức C6H12O3N2 có độ chảy 221,5-222oC. Trong cây và quả ích mẫu, Hứa Thực Phương (J. Chem. Soc. vol 2. No3) còn báo cáo chiết được một ancaloit khác còn gọi là leonurinin có độ chảy 262-263°C với công thức C10H14O3N2.
-Tỷ lệ ancaloit cao nhất vào tháng 5, sau đó giảm xuống. Ngoài ra trong cây ích mẫu còn có tanin, chất đắng, saponin và 0,03% tinh dầu.
-Hoạt chất của ích mẫu như thế cũng chưa được xác định chắc chắn, nhưng trên cơ sở dược lý người ta thấy trong ích mẫu có 2 loại hoạt chất: Một loại hoạt chất tan trong ête có tác dụng ức chế tử cung, một loại hoạt chất không tan trong ête có tác dụng kích thích tử cung.
-Gần đây người ta thấy trong ích mẫu có 3 flayonozit, một trong số flayonozit được xác định là rutin, một glucozit có cấu tạo steroit, một ít tanin, trong toàn cây có Ieocacdin cùng cấu trúc với stachydrin, một ít tinh dầu. Ancaloit không có tác dụng chữa bệnh.
-D. Tác dụng dược lý
+9. _Thuốc xông_. Có hai loại thuốc xông: xông lửa là bỏ các vị thuốc vào lò than lửa, lấy khói xông vào chỗ đau như dùng hùng hoàng để xông; có khi cho vào nước đun sôi lấy hơi nước mang theo hơi thuốc mà xông vào chỗ bị đau như khi ta dùng ngũ bội tử nấu xông chữa bệnh trĩ.
 
-1. Tác dụng trên tử cung. Nước sắc ích mẫu Leonurus sibiricus 1/5.000 hay 1/1.000 có tác dụng kích thích đối với tử cung cô lập của thỏ cái (dù có thai hay không có thai cũng vậy).
-   Thỏ cái gây mê bằng urétan rồi cho uống nước sắc ích mẫu cũng thấy có tác dụng kích thích trên tử cung tại chỗ của thỏ.
-   Dung dịch nước 10% ích mẫu khô tác dụng trên tử cung mạnh hơn là dung địch rượu 20%.
-   Tác dụng của ích mẫu trên tử cung cũng giống như tác dụng của cựa lõa mạch (Clayiceps purpurea).
-   Điều đáng chú ý là dung dịch rượu hay dung dịch nước ích mẫu tác dụng lên tử cung thì bắt đầu có một giai đoạn hưng phấn.
-   Nếu trước khi sắc ích mẫu, dùng ête để loại phần tan trong ête đi thì hiện tượng ức chế tử cung không thấy nữa.
-2. Tác dụng trên huyết áp. Nước sắc ích mẫu tuy không tác dụng trực tiếp trên huyết áp nhưng làm giảm tác dụng của adrenalin trên mạch máu.
-   Cao ích mẫu làm giảm huyết áp, nhất là đối với thời kỳ đầu của bệnh cao huyết áp.
-3. Tác dụng trên tim mạch. Loài ích mẫu Leonurus quinquelobatus và Leonurus cardia có tác dụng tốt trên tim mạch và đối với cơ tim có bệnh.
-4. Tác dụng đối với hệ thần kinh của ích mẫu Leonurus sibiricus mạnh hơn tác dụng của Valerian và của Muyghe (Convallaria maialis).
-5. Tác dụng kháng sinh đối với một số vi trùng ngoài da. Theo Trung Hoa bì phụ khoa tạp chí (số 4-1957, tr. 286-292) một số tác giả nghiên cứu thấy nước chiết ích mẫu 1:4 có tác dụng ức chế với trình độ khác nhau đối với một số vi trùng gây bệnh ngoài đa.
-6. Tác dụng trên viêm thận và phù cấp tính. Trên lâm sàng, ích mẫu chữa khỏi một số trường hợp viêm thận và phù (Trung y tạp chí số 6, 1959 và Trung y dược 1966 kỳ 4, 26).
-   E. Công dụng và liều dùng
-   Từ lâu vị ích mẫu được nhân dân ta dùng chữa bệnh phụ nữ, nhất là đối với phụ nữ sau khi sinh nở, do đó có câu ca dao:
-   Nhân trần, ích mẫu đi đâu
-   Để cho gái đẻ đớn đau thế này?
-   Thường ích mẫu dùng trong trường hợp đẻ xong bị rong huyết (cầm máu tử cung), chữa viêm niêm mạc dạ con, kinh nguyệt quá nhiều.
-   Còn dùng chữa huyết áp cao, thuốc bổ huyết, các bệnh về tuần hoàn cơ tim, thần kinh của tim, chứng tim hẹp nhẹ (stenocardie), chữa lỵ.
-   Quả ích mẫu dùng với tên sung úy tử làm thuốc thông tiểu, chữa phù thũng, thiên đầu thống (glôcôm).
-   Dùng ngoài thân và quả ích mẫu giã đắp hay sắc lấy nước rửa chữa một số bệnh như sưng vú, chốc đầu, lở ngứa.
-   Theo sách cổ, ích mẫu có tính chất: Vị cay, đắng, tính hơi hàn, có khả năng trục ứ huyết, sinh huyết mới, hoạt huyết điều kinh, những người có đồng tử mở rộng không dùng được.
-   Liều dùng hằng ngày từ 6 đến 12g dưới dạng thuốc sắc hay nấu thành cao. Quả ích mẫu dùng với liều 6 đến 12g dưới dạng thuốc sắc.
-   Đơn thuốc có ích mẫu:
-   Cao ích mẫu: Cây ích mẫu nấu với nước, cô đặc thành cao mềm. Trong nhân dân trước đây thường dùng loại cao này.
-   Cao ích mẫu bán trên thị trường hiện nay thường không phải chỉ có vị ích mẫu, mà thường phối hợp nhiều vị khác nhau, ví dụ cao ích mẫu của Thanh Hóa gồm ích mẫu nước 800g, ngải diệp 200g, hương phụ tử chế 250g (căn bản theo đơn cao hương ngải thêm bớt một chút).
-   Đơn cao ích mẫu của Quốc doanh dược phẩm Nghệ An gồm ích mẫu 70%, xuyên khung 2%, đương quy 10%, bạch thược 3%, thục địa 1%, bắc mộc hương 1%, đại táo 2%, trần bì 1%, hương phụ chế 5%, ô dược 2%. Ngay tại mỗi nơi, tùy theo thời kỳ, công thức cũng thay đổi cho nên khi dùng và theo dõi kết quả cần chú ý để tránh nhầm lẫn.
-   Cao ích mẫu hiện nay được thống nhất theo đơn: Ích mẫu 800g, ngải cứu 200g, hương phụ 250g, tá được (xirô, cồn 15°) vừa đủ 1000g.
-   Cao hương ngải. Xem vị hương phụ.
+10. _Tọa dược_ là thuốc viên hay thuốc đĩnh nhưng gói vào lụa để vào âm đạo chữa khí hư bạch đối của phụ nữ.
 
-HƯƠNG PHỤ 香附
-Còn gọi là củ gấu, cỏ gấu, cỏ cú.
-Tên khoa học Cyperus rotundus L.
-Thuộc họ Cói Cyperaccae.
-Vị hương phụ là thân rễ - Rhizoma Cyperi - phơi hay sấy khô của cây củ gấu hay cỏ gấu Cyperus rotundus L.
-Người ta còn dùng củ của cây hải hương phụ Cyperus stoloniferus Retz mọc nhiều ở bãi cát gần biển..
-Cây cỏ gấu là một loai cỏ khó tiêu diệt đối với nhà nông, nhưng là một vị thuốc quý nếu biết sử dụng. Các nhà đông y thường truyền nhau câu: “Nam bất thiểu trần bì, nữ bất ly hương phụ” có nghĩa là chữa bệnh cho nam giới không thể thiếu được vị trần bì và chữa bệnh cho nữ giới không thể không dùng vị hương phụ.
-Trong khi làm cỏ, nếu biết xử lý thì vừa giải quyết được một loại cỏ dại vừa có thêm một vị thuốc quý.
-A. Mô tả cây
-Cỏ gấu là một loại cỏ sống lâu năm, cao 20- 60cm, thân rễ phát triển thành củ, tùy theo đất rắn hay xốp củ phát triển to hay nhỏ, ở vùng bờ biển củ to dài còn gọi là hải hương phụ (hương phụ vùng biển). Lá nhỏ hẹp, ở giữa lưng có gân nổi lên, cứng và bóng, phần dưới lá ôm lấy thân cây.
-Vào tháng 6, trên ngọn cây có 3 đến 8 cụm hoa hình tán màu xám nâu, hoa lưỡng tính, 3 nhị dài chừng 2mm, nhụy có đầu núm chia thành 2 nhánh như lông tơ. Quả 3 cạnh màu xám. ( Hình 6, Hm 1.3)
-B. Phân bố, thu hái và chế biến
-Cỏ gấu mọc hoang ở khắp nơi trên đồng ruộng, ven đường. Tại ven biển, đất cát xốp củ to hơn, dễ đào hơn. Đối với nhà nông, đây là một loại cỏ rất khó tiêu diệt. Chỉ cần sót lại một mẩu thân rễ nhỏ cũng đủ phát triển. Còn thấy mọc những ở nước khác vùng châu Á như Trung Quốc, Triều Tiên, Nhật Bản, Inđônêxia.
+**So sánh cân lạng ta về kilôgam**
 
-Hình 6. Hương phụ - Cyperus rotundus
+Một yến ta: 10 cân ta: 6,048kg, nếu theo dược điển Trung Quốc, 1963, thì một yến ta bằng đúng 5kg.
 
-Thu hoạch củ gấu hiện nay chỉ mới dựa vào nguồn mọc hoang thiên nhiên; không ai ương. Có thể kết hợp với việc làm cỏ vườn, ruộng để thu hoạch hay có thể tổ chức thu hái riêng. Thường hay đào về mùa xuân, nhưng đào về mùa thu củ chắc và tốt hơn.
-Sau khi đào toàn cây, người ta phơi cho khô, vun thành đống để đốt, lá và rễ con cháy hết, còn lại củ lấy riêng rửa sạch, phơi hay sấy khô.
-Khi dùng có thể dùng sống (nghĩa là củ chế biến như trên, dùng ngay), sắc hay ngâm rượu tán bớt. Có thể chế biến thêm nữa. Các cụ lương y thường chế biến phức tạp rồi mới dùng. Theo kinh nghiệm của chúng tôi thì không cần chế biến gì thêm vẫn tốt.
-Các lương y thường dùng thất chế hoặc tứ chế hương phụ, phổ biến nhất là tứ chế. Thất chế hay tứ chế cũng lại có nhiều cách làm. Dưới đây chúng tôi giới thiệu phương pháp hay dùng nhất:
-Cân 1 kilôgam hương phụ, chia làm 4 phần: một phần (250g) ngâm với 200ml giấm (có độ axit axetic 5%), một phần ngâm rượu 40%, một phần ngâm nước tiểu trẻ em (nước tiểu của trẻ em khỏe mạnh, bỏ phần đầu và phần cuối, chỉ lấy phần giữa), một phần ngâm nước muối 15%. Thời gian ngâm thay đổi tùy theo mùa: 1 ngày 1 đêm nếu là mùa hè, 3 ngày 3 đêm nếu là mùa thu, 7 ngày 7 đêm nếu là mùa đông. Cuối cùng lấy ra sao hay phơi khô rồi trộn đều 4 phần với nhau. Theo lý luận đông y, ngâm giấm vị chua là để thuốc vào gan, muối vị mặn sẽ dẫn thuốc vào thận, rượu bốc lên cho nên dẫn thuốc đi lên trên, nước tiểu thêm tác dụng bổ.
-Đáng lẽ chia 4 phần, có người dùng giấm và rượu mỗi thứ 160g, muối 20g, nước tiểu trẻ con mạnh khỏe vừa đủ để ngập hương phụ, cho vào đó 600g hương phụ rồi ngâm theo thời gian nói trên, cuối cùng sấy hay phơi khô mà dùng.
-Thất chế là làm như trên nhưng thêm 3 lần tẩm nữa như tẩm với nước gừng, tẩm nước cam thảo, tẩm nước vo gạo. Nghĩa là tẩm với 7 thứ.
-Trên thực tế còn nhiều cách chế biến rất phức tạp và thay đổi tùy theo sáng kiến của thầy thuốc. Cho nên khi dùng cũng như khi nghiên cứu cần biết dùng loại hương phụ nào. Qua kinh nghiệm bản thân hơn 20 năm, chúng tôi không chế biến gì cả. Kết quả vẫn rất tốt.
-C. Thành phần hóa học
-Hoạt chất của hương phụ hiện chưa rõ. Chỉ mới biết trong hương phụ có từ 0,3 đến 2,8% tinh dầu màu vàng, mùi thơm nhẹ đặc biệt của hương phụ.
-Thành phần tinh dầu gồm 32% cyperen C15H24, 49% rượu cyperola C15H24O. Ngoài ra còn có các axit béo, phenol, Trong tinh dầu hương phụ Ấn Độ còn chứa cyperon C15H22O. Ngoài ra trong hương phụ còn chứa rất nhiều tinh bột.
-Do nguồn gốc hương phụ khác nhau, thành phần tinh dầu của hương phụ cũng không hoàn loàn giống nhau. Trong tinh dầu hương phụ Trung quốc có thành phần chủ yếu là cyperen (độ sôi 104oC/5mm thủy ngân) và izocyperotundone, còn trong tinh dầu hương phụ Nhật bản có thành phần chủ yếu là cyperol, cyperenol (độ chảy 94oC) chiếm 49%, cyperen 32% và a-cyperon (độ sôi 177oC/20mm thủy ngân), cyperotundon và cyperolon (độ chảy 41- 42°C) (Lâm Khải Thọ, 1977, 580):
-D. Tác dụng dược lý
-Đã được nghiên cứu:
+Một cân ta (thị cân Trung Quốc): 16 lạng ta: 0,6048kg hoặc 0,500kg (theo DĐTQ, 1963).
+Một lạng ta: 10 đồng cân hay 10 tiền: 37,77g hoặc 31,25g (theo DĐTQ, 1963).
 
-1. Theo Trương Phát Sơ, Trương Diệu Đức và Lun Thiệu Quang (1935, Trung Hoa y học tạp chí tập 1, kỳ 2: 148-156) đã dùng vị hương phụ nguồn gốc ở tỉnh Quảng Đông, nhưng bán ở Nam Kinh chế thành cao lỏng 5%, tiến hành thí nghiệm 102 lần trên tử cung cô lập của thỏ, mèo, chó và chuột bạch đã chứng minh hương phụ có khả năng ức chế sự co bóp của tử cung, làm dịu sự cãng thẳng của tử cung dù con vật có thai hay không có thai đều như nhau, gần như có tác dụng trực tiếp làm cho cơ tử cung dịu lại. So sánh tác dụng của cao lỏng hương phụ và cao lỏng đương quy (một vị thuốc bắc hiện nay còn phải nhập có tác dụng chữa bệnh phụ khoa) thì tác dụng giống nhau, nhưng tác dụng của đương quy mạnh hơn.
-2. Năm 1959, một số tác giả ở Quí Dương y học viện (Trung Quốc) báo cáo nghiên cứu và chứng minh tác dụng giảm đau trên chuột nhắt trắng.
-   E. Công dụng và liều dùng
-   Hương phụ là một vị thuốc kinh nghiệm nhân dân. Tính chất của hương phụ trong các sách cổ: Vị cay, hơi đắng, ngọt, vào hai kinh can và tam tiêu. Có tác dụng lý khí, giải uất, điều kinh, chỉ thống (làm hết đau), chữa khí uất, ung thư, ngực bụng chướng đau.
-   Hương phụ thường được dùng:
-3. Chữa kinh nguyệt không đều, thấy kinh đau bụng, viêm tử cung mãn tính, các bệnh phụ nữ trước và sau khi sinh nở.
-4. Đau dạ dày do thần kinh, giúp sự tiêu hóa, ăn không tiêu, chũa nôn mửa, đau bụng, đi lỵ.
-   Ngày dùng 6 đến 12 gam dưới dạng thuốc sắc, thuốc bột hay thuốc viên hoặc rượu thuốc.
-   Đơn thuốc có hương phụ
-   Cao hương ngải: Hương phụ, ngải cứu, ích mẫu, lá bạch đồng nữ mỗi thứ 1g, thêm nước vào sắc kỹ, cô đến còn 10ml, thêm đường vào cho đủ ngọt. Đóng vào ống 10ml, hàn và hấp tiệt trùng (đun sôi và giữ sôi trong 1 giờ). Thuốc có thể bảo quản trong nhiều năm không hỏng. Chữa kinh nguyệt không đều, thấy kinh đau bụng, khó sinh nở, khí hư bạch đới. Ngày uống từ 3 đến 6 ống. Muốn cho kinh nguyệt đều uống đón kinh, 10 ngày trước ngày dự đoán có kinh. Uống luôn như vậy trong 2 hay 3 tháng. Có thể dùng lâu hơn.
-   Đơn này do Đỗ Tất Lợi xây dựng và đưa vào áp dụng rộng rãi đầu tiên vào năm 1946 với tên FUNUX, năm 1955 đổi thành CYPERIN. Từ 1958 bộ môn dược liệu Trường đại học dược khoa đưa ra với tên HƯƠNG NGẢI và đã áp dạng thí nghiệm tại phòng khám phụ khoa bệnh viện C. Theo báo cáo của bệnh viện C ngày 21-9-1961 thì theo dõi trên lâm sàng thấy tác dụng thông kinh rõ rệt, ảnh hưởng tới thông kinh tốt. Tất cả các bệnh nhân đều giảm đau nhiều hay ít (có một trường hợp đã dùng thuốc tây không có tác dụng) dùng đơn này thấy kết quả tốt. Đối với lượng huyết kinh, làm kinh ra nhiều, tươi hơn, làm bệnh nhân phấn khởi (Nguyên Khắc Liêu).
-   Hiện nay trên thị trường Hà Nội có một loại thuốc điều kinh mang tên Điều kinh hương ngải đóng chai, có rượu. Đơn thuốc không hoàn toàn đúng đơn nói trên. Cần theo dõi phân biệt khi áp dụng.
-   Thuốc ống HAI. Từ 1964, để tránh nhầm lẫn và tiết kiệm ống, tác giả đã đổi tên thuốc ống cao hương ngải thành HAI: Trong mỗi ống có ích mẫu, hương phụ, ngải cứu và lá bạch đồng nữ, mỗi thứ 2g (đặc gấp 2 lần ống cao hương ngải). Cách chế cũng như chế cao hương ngải. Ngoài công dụng chữa bệnh phụ khoa, chúng tôi đã áp dụng có kết quả trong một số trường hợp cao huyết áp. Mỗi ngày chỉ
+Một phân ta: 10 ly: 0,377g hay 0,3125g (theo DĐTQ, 1963).
+
+Một lai ta: 0,00377g hay 0,0031g (theo DĐTQ, 1963).
+
+Hiện nay ta đã quy định dùng theo cân lạng kg v.v... Tuy nhiên ta cần biết bảng so sánh đối chiếu này để đọc và tham khảo các tài liệu cũ.
