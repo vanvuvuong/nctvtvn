@@ -598,7 +598,7 @@ Cây chưởng diệp bán hạ (_Pinellia pedatisecta_ Schott) khác những c�
 
 Cây bán hạ ở Việt Nam mọc hoang ở khắp những nơi đất ẩm ở nước ta từ Nam chí Bắc. Còn mọc ở Ấn Độ, Trung Quốc, Nhật Bản.
 
-Người ta đào rễ (củ), rửa sạch đất cát, lựa củ to (gọi là nam tinh), củ nhỏ (gọi là bán hạ). Có thể dùng tươi (thường chỉ dùng giã đắp lên nơi rắn độc cắn), thường dùng khô có chế biến. Có nhiều cách chế biến mục đích theo quan niệm đông y để giảm bớt độ độc (tẩm cam thảo) hay tăng tác dụng chữa ho (tẩm gừng hay bồ kết). Sau đây là một số cách chế biến thường thấy:
+Người ta đào rễ (củ), rửa sạch đất cát, lựa củ to (gọi là _nam tinh_), củ nhỏ (gọi là _bán hạ_). Có thể dùng tươi (thường chỉ dùng giã đắp lên nơi rắn độc cắn), thường dùng khô có chế biến. Có nhiều cách chế biến mục đích theo quan niệm đông y để giảm bớt độ độc (tẩm cam thảo) hay tăng tác dụng chữa ho (tẩm gừng hay bồ kết). Sau đây là một số cách chế biến thường thấy:
 
 1. _Tẩm cam thảo và bồ kết_. Củ chóc (bán hạ Viột Nam) rửa sạch ngâm nước trong 2-3 ngày, mỗi ngày thay nước một lần cho đến khi nước trong hẳn.
 
@@ -608,79 +608,151 @@ Người ta đào rễ (củ), rửa sạch đất cát, lựa củ to (gọi l�
 
 Chúng ta biết rằng gừng cũng có tác dụng chữa ho. Còn cách chế biến có cần như vậy không, còn phải nghiên cứu thí nghiệm thêm.
 
-Trong Bản thảo cương mục của Lý Thời Trân thấy có ghi về chế bán hạ như sau: Phàm dùng bán hạ, phải đem ngâm nước nóng chừng nửa ngày cho hết nhớt, nếu không thời có độc, uống vào ngứa cổ không chịu được. Trong các bài thuốc người ta dùng bán hạ kèm theo cả sinh khương (gừng tươi) là vì sinh khương chế được chất độc của bán hạ. Trong bài thuốc bán hạ Dược điển Trung Quốc 1953 thì chỉ thấy ghi bán hạ không chế dùng cùng với sinh khương.
+Trong _Bản thảo cương mục_ của Lý Thời Trân thấy có ghi về chế bán hạ như sau: Phàm dùng bán hạ, phải đem ngâm nước nóng chừng nửa ngày cho hết nhớt, nếu không thời có độc, uống vào ngứa cổ không chịu được. Trong các bài thuốc người ta dùng bán hạ kèm theo cả sinh khương (gừng tươi) là vì sinh khương chế được chất độc của bán hạ. Trong bài thuốc bán hạ _Dược điển Trung Quốc_ 1953 thì chỉ thấy ghi bán hạ không chế dùng cùng với sinh khương.
 
-Theo tài liệu cổ (Lôi Học tức Lôi Công) cũng ghi theo Bản thảo cương mục, người ta chế bán hạ như sau: Bán hạ 120g, bạch giới tử 80g, dấm chua 200g; cho bạch giới tử giã nhỏ vào dấm quấy đều, thêm bán hạ vào ngâm một đêm. Lấy ra rửa sạch hết nhớt mà dùng.
+Theo _tài liệu cổ_ (Lôi Học tức Lôi Công) cũng ghi theo _Bản thảo cương mục_, người ta chế bán hạ như sau: Bán hạ 120g, bạch giới tử 80g, dấm chua 200g; cho bạch giới tử giã nhỏ vào dấm quấy đều, thêm bán hạ vào ngâm một đêm. Lấy ra rửa sạch hết nhớt mà dùng.
 
 Một phương pháp khác: Rửa sạch bán hạ, dùng nước nóng ngâm, thay nước luôn cho hết nhớt, thái mỏng, tẩm nước gừng, sấy thật khô mà dùng. Có thể tán nhỏ thành bột trộn với nước ép gừng, phơi khô dùng.
-Như vậy phương pháp ghi uống sách cổ cũng gần như phương pháp ta thường làm nhưng chỉ thêm bạch giới tử cũng là một vị thuốc chữa ho.
-Do phương pháp bào chế bán hạ chưa thống nhất như vậy, cho nên khi nghiên cứu cần phải chú ý.
-Bán hạ thu hoạch từ mùa hạ đến thu đông.
-Đào về rửa sạch đất cát, đãi sạch vỏ mỏng ngoài, ngâm nước phèn cho sạch nhớt, phơi khô là được. Chỉ khi nào bào chế để dùng mới theo nhưng phương pháp nói trên.
-C. Thành phần hoá học
-Bán hạ Việt Nam và chưởng diệp bán hạ chưa thấy có tài liệu nghiên cứu.
-Bán hạ Trung Quốc, theo Lý Thừa Cố (Trung Quốc dược dụng thực vật đồ giám) có một ít tinh dầu 0,003-0,013%, một chất ancaloit, một ancol, một chất cay, phytosterol. Ngoài ra còn dầu béo, tinh bột, chất nhầy.
-Theo Quốc lập Sơn Đông đại học, hệ hoá học (năm 1934, số 3: 463-477), trong bán hạ có một chất cay dễ tan trong ête etylic, dung dịch trong ête có phản úng ancaloit, nhiệt có tác dụng làm giảm độ cay.
-D. Tác dụng dược lý
-Tác dụng chữa ho: Theo báo Trung Hoa y học tạp chí (1954, 5: 325-330) sau khi dùng lml cồn iốt 1% gây ho cho mèo, rồi dùng nước sắc bán hạ 20% (lml tương ứng với 0,2g bán hạ) thì thấy với liều 0,6g bán hạ trên 1kg thể trọng tác dụng chữa ho rõ rệt. Liều ấy cho kết quả tương đương với liều codêin photphat lg/ 1kg.
-Theo Linh Mộc Đạt (Nhật Bản, 1931) tác dụng của bán hạ là do ancol và ancaloit bay hơi có tác dụng ức chế trung khu và mạt tiêu thần kinh.
-Tác dụng chống nôn: Kinh Lợi Bản (1935) đã thí nghiệm trên 6 con chó nặng từ 11,5 đến 28kg, mỗi con tiêm vào da từ 0,01g apomocphin để gây nôn. Cách một ngày tiêm một lần, tất cả tiêm 4 lần. Đến lần tiêm thứ hai thì đồng thời tiêm 5ml dung dịch nước bán hạ (1ml tương ứng với 1g bán hạ); lần thứ 3 trước hết tiêm 5ml dung dịch bán hạ, 5 phút sau tiêm apomocphin; lần thứ 4, trước hết tiêm 5ml dung dịch bán hạ và 15 phút sau tiêm apomocphin. Kết quả lẩn thứ nhất bình quân nôn 13 lần, tiếp tục luôn trong 31 phút 15 giây. Lần thứ hai nôn 2 lần, liền trong
-16 phút 28 giây. Lần thứ 3 nôn 3-6 lần liên tục 15 phút 40 giây. Lần thứ 4 nôn 2 lẩn liên tục trong 13 phút 11 giây. Do đó tác giả đi tới kết luận là bán hạ có khả năng ức chế gây nôn do apomocphin. Theo Linh Mộc Đạt (1931) tác dụng chống nôn là do phytosterrol của bán hạ.
-Tuy nhiên nếu uống bán hạ sống ngược lại, lại gây nôn, phải chăng đun nóng có tác dụng làm mất chất gây nôn trong bán hạ theo như sách cổ có ghi ?
-Độc tính: Theo dược lý đích sinh dược học (Nhật Bản 1933) dịch chiết cồn bán hạ gây cho con vật co cắp mà chết. Tác dụng này giống như do tác dụng hưng phấn của bán hạ đối với mạt tiêu thần kinh.
-E. Công dụng và liều dùng
-Bán hạ còn là một vị thuốc dùng theo kinh nghiệm dân gian để chữa phụ nữ có thai bị nôn mửa hoặc chữa nôn trong trường hợp viêm dạ dày mãn tính.
-Nó còn là một vị thuốc chữa ho (làm cho long đờm), chữa nhức đầu, đau dạ dày mãn tính. 
-Ngày dùng 1,5 đến 4g; có thể dùng tới liều từ 4 đến 12g bán hạ đã chế biến hoặc hơn nữa (xem phần đơn thuốc có bán hạ dưới đây). Dùng ngoài, tuỳ theo liều lượng và dùng tươi, giã nát đắp lên nơi đau.
-Trong sách cổ ghi về tính chất và tác dụng của vị bán hạ như sau: Vị cay, ôn, có độc; có tác dụng táo thấp (làm khô ẩm thấp), hoá đờm, giáng nghịch (làm hạ hơi đưa lên) hết nôn. Dùng uống những trường hợp nôn mửa, đờm thấp, hen suyễn, đầu nhức, đầu váng, không ngủ; dùng ngoài có tác dụng tiêu thũng. Phụ nữ có thai dùng phải cẩn thận. Vị bán hạ phản với ô đầu, thảo ô.
-Đơn thuốc có vị bán hạ dùng trong nhân dân
-Đơn thuốc có vị bán hạ ghi trong Dược điển Trung Quốc 1953: Bột bán hạ 80g, bột gừng sống 50g, nước 3000ml đun sôi và sắc cho đến khi cạn còn 1000ml; lọc qua bông và dùng nước cất pha thêm vào cho đủ 1000ml. Đơn thuốc ch chế khi cần đến. Theo Dược điển Trung Quốc mỗi lần dùng 100-300ml, trung bình mỗi ngày dùng 200-600ml tương ứng vớí 8-24g hoặc 16-18g bán hạ. Chữa ho và nôn mửa khi có thai.
-Tiểu bán hạ gia phục linh thang (đơn thuốc của Trương Trọng Cảnh): Bán hạ 8g, phục linh 6g, sinh khương 3g, nước 300ml; sắc còn 100ml. Uống dần trong ngày, chữa phụ nữ có thai, nôn mửa.
-Đơn khác dùng chữa hen suyễn, nặng mặt, nằm không được, muốn nôn oẹ, bụng dưới nôn nao, cũng dùng chữa nôn: Bán hạ chế 40g, sinh khương 20g, nước 600ml, sắc còn 200ml, chia nhiều lần uống trong ngày. Liều dùng bán hạ ở đây so với đơn tiểu bán hạ có cao hơn, nên uống từ từ, vừa uống vừa nghe, thấy chịu thì uống nữa. Trẻ con ngất bất tỉnh: Sinh bán hạ 4g, bồ kết 2g, tất cả tán nhỏ thổi vào mũi.
-CÂY BÔNG
-Tên khoa học _Gossypium sp_.
-Thuộc họ Bông Malvaceae.
-Ta dùng vỏ rễ cây bông (Cortex Gossypii radicis) là dư phẩm của kỹ nghệ trồng bông ( Hình 17 ). Sau khi hái cây bông ta đào rễ rửa sạch, bóc lấy vỏ phơi khô.
-Theo sự nghiên cứu ghi trong tài liệu của Liên Xô cũ trong vỏ rễ cây bông có chứa sinh tố K, chất gossypola C30H30O8một ít tinh dầu, một ít tanin.
-Công dụng và liều dùng 6. Liên Xô cũ công nhận vỏ rễ cây bông là một vị thuốc chính thức dùng dưới dạng cao lỏng làm thuốc cầm máu tử cung.
-Hình 17. Cây bông - Gossypium sp.
-Gosypola
-Gosypola 7. Nhân dân ta và một số nước khác dùng làm thuốc điều kinh. Nó gây co bóp tử cung giống như sự co bóp tự nhiên khi đẻ. Liều dùng 3-5g dưới sáng sắc.
-Đơn thuốc có vỏ rễ cây bông
-Vỏ rễ cây bông 3g, nước 300ml, sắc còn 100ml. Uống trong ngày, làm thuốc điều kinh, thông kinh.
-Nên chú ý nghiên cứu thêm.
-HẠT BÔNG
-Hạt bông nói đây là hạt của cây bông cho ta sợi để dệt vải. Hạt bông sau khi đã lấy sợi đi rồi, trước khi người ta đổ bỏ đi, gần đây người ta đă dùng ép lấy dầu để thắp và nấu xà phòng hoặc để ăn sau khi đã loại chất gossypola đi rồi.
-A. Thành phần hoá học của hạt bông
-Trong hạt bông có chừng 17-30% dầu, nếu chỉ tính nhân không tỷ lệ lên tới 35-40%. Dầu hạt bông là một thứ dầu nửa khô, có chứa chừng 20-22% panmitin (palmitin), 4% stearin (stearine), 30-35% olein, 42-45% linolein (linoleine) và 1% chất không xà phòng hoá được.
-Dầu bông ép nguội có màu vàng nhạt, không mùi vị, có chứa sinh tố E.
-Hạt bông có chứa hai chất độc: Gossypola vàng và gossypola đỏ. Cả hai chất này đều có chứa trong lá mầm.
-Gossypola là một chất có chứa phenol và anđêhyt.
-Gossypola uống ít độc, tiêm mạch máu độc hơn, tiêm 0,50g vào phúc mạc con thỏ sẽ chết sau 4 ngày .
-Gossypola bị phá bởi nhiệt để cho một chất ít độc hơn, cho nên khô dầu bông ép nóng ít độc hơn khô dầu ép nguội.
-Muốn tìm gossypola thêm H2SO4 vào dầu sẽ thấy màu đỏ, hoặc nếu thêm FeCl3 sẽ có màu xanh lục.
-B. Tác dụng dược lý
-Người ta thấy hạt bông sau khi đã loại chất gossypola có tác dụng lợi sữa, trong sữa tỷ lệ bơ và cađêin tăng lên.
-C. Công dụng và liều dùng
-Làm thuốc lợi sữa, dùng với liều 5g, dưới dạng thuốc sắc.
-Đơn thuốc
-Hạt bông sao vàng 5g, cam thảo 2g, nước 600ml, sắc còn 200ml. Chia ba lần uống trong ngày (đơn ghi trong Hoà hán dược ứng dụng phương). Xưa kia Nhật Bản có ra một số biệt dược lợi sữa chế từ hạt bôngvới tên lactaogon (lactaogol), mamain, lactomin (lactomil) v.v ....
 
-CÂY NGƯU TẤT
-_Còn có tên là_ cây cỏ xước, hoài ngưu tất.3
+Như vậy phương pháp ghi uống sách cổ cũng gần như phương pháp ta thường làm nhưng chỉ thêm bạch giới tử cũng là một vị thuốc chữa ho.
+
+Do phương pháp bào chế bán hạ chưa thống nhất như vậy, cho nên khi nghiên cứu cần phải chú ý.
+
+Bán hạ thu hoạch từ mùa hạ đến thu đông.
+
+Đào về rửa sạch đất cát, đãi sạch vỏ mỏng ngoài, ngâm nước phèn cho sạch nhớt, phơi khô là được. Chỉ khi nào bào chế để dùng mới theo nhưng phương pháp nói trên.
+
+#### C. Thành phần hoá học
+
+_Bán hạ Việt Nam và chưởng diệp bán hạ_ chưa thấy có tài liệu nghiên cứu.
+
+Bán hạ Trung Quốc, theo Lý Thừa Cố (_Trung Quốc dược dụng thực vật đồ giám_) có một ít tinh dầu 0,003-0,013%, một chất ancaloit, một ancol, một chất cay, phytosterol. Ngoài ra còn dầu béo, tinh bột, chất nhầy.
+
+Theo Quốc lập Sơn Đông đại học, hệ hoá học (năm 1934, số 3: 463-477), trong bán hạ có một chất cay dễ tan trong ête etylic, dung dịch trong ête có phản úng ancaloit, nhiệt có tác dụng làm giảm độ cay.
+
+#### D. Tác dụng dược lý
+
+Tác dụng chữa ho: Theo báo T*rung Hoa y học tạp chí* (1954, 5: 325-330) sau khi dùng 1ml cồn iốt 1% gây ho cho mèo, rồi dùng nước sắc bán hạ 20% (1ml tương ứng với 0,2g bán hạ) thì thấy với liều 0,6g bán hạ trên 1kg thể trọng tác dụng chữa ho rõ rệt. Liều ấy cho kết quả tương đương với liều codêin photphat lg/ 1kg.
+
+Theo Linh Mộc Đạt (_Nhật Bản_, 1931) tác dụng của bán hạ là do ancol và ancaloit bay hơi có tác dụng ức chế trung khu và mạt tiêu thần kinh.
+
+_Tác dụng chống nôn_: Kinh Lợi Bản (1935) đã thí nghiệm trên 6 con chó nặng từ 11,5 đến 28kg, mỗi con tiêm vào da từ 0,01g apomocphin để gây nôn. Cách một ngày tiêm một lần, tất cả tiêm 4 lần. Đến lần tiêm thứ hai thì đồng thời tiêm 5ml dung dịch nước bán hạ (1ml tương ứng với 1g bán hạ); lần thứ 3 trước hết tiêm 5ml dung dịch bán hạ, 5 phút sau tiêm apomocphin; lần thứ 4, trước hết tiêm 5ml dung dịch bán hạ và 15 phút sau tiêm apomocphin. Kết quả lẩn thứ nhất bình quân nôn 13 lần, tiếp tục luôn trong 31 phút 15 giây. Lần thứ hai nôn 2 lần, liền trong 16 phút 28 giây. Lần thứ 3 nôn 3-6 lần liên tục 15 phút 40 giây. Lần thứ 4 nôn 2 lẩn liên tục trong 13 phút 11 giây. Do đó tác giả đi tới kết luận là bán hạ có khả năng ức chế gây nôn do apomocphin. Theo Linh Mộc Đạt (1931) tác dụng chống nôn là do phytosterrol của bán hạ.
+
+Tuy nhiên nếu uống bán hạ sống ngược lại, lại gây nôn, phải chăng đun nóng có tác dụng làm mất chất gây nôn trong bán hạ theo như sách cổ có ghi?
+
+_Độc tính_: Theo dược lý đích sinh dược học (Nhật Bản 1933) dịch chiết cồn bán hạ gây cho con vật co cắp mà chết. Tác dụng này giống như do tác dụng hưng phấn của bán hạ đối với mạt tiêu thần kinh.
+
+#### E. Công dụng và liều dùng
+
+Bán hạ còn là một vị thuốc dùng theo kinh nghiệm dân gian để chữa phụ nữ có thai bị nôn mửa hoặc chữa nôn trong trường hợp viêm dạ dày mãn tính.
+
+Nó còn là một vị thuốc chữa ho (làm cho long đờm), chữa nhức đầu, đau dạ dày mãn tính.
+
+Ngày dùng 1,5 đến 4g; có thể dùng tới liều từ 4 đến 12g bán hạ đã chế biến hoặc hơn nữa (xem phần đơn thuốc có bán hạ dưới đây). Dùng ngoài, tuỳ theo liều lượng và dùng tươi, giã nát đắp lên nơi đau.
+
+Trong _sách cổ_ ghi về tính chất và tác dụng của vị bán hạ như sau: Vị cay, ôn, có độc; có tác dụng táo thấp (làm khô ẩm thấp), hoá đờm, giáng nghịch (làm hạ hơi đưa lên) hết nôn. Dùng uống những trường hợp nôn mửa, đờm thấp, hen suyễn, đầu nhức, đầu váng, không ngủ; dùng ngoài có tác dụng tiêu thũng. Phụ nữ có thai dùng phải cẩn thận. Vị bán hạ phản với ô đầu, thảo ô.
+
+**Đơn thuốc có vị bán hạ dùng trong nhân dân**
+
+_Đơn thuốc có vị bán hạ ghi trong Dược điển Trung Quốc_ 1953: Bột bán hạ 80g, bột gừng sống 50g, nước 3000ml đun sôi và sắc cho đến khi cạn còn 1000ml; lọc qua bông và dùng nước cất pha thêm vào cho đủ 1000ml. Đơn thuốc chỉ chế khi cần đến. Theo Dược điển Trung Quốc mỗi lần dùng 100-300ml, trung bình mỗi ngày dùng 200-600ml tương ứng vớí 8-24g hoặc 16-18g bán hạ. Chữa ho và nôn mửa khi có thai.
+
+_Tiểu bán hạ gia phục linh thang_ (đơn thuốc của Trương Trọng Cảnh): Bán hạ 8g, phục linh 6g, sinh khương 3g, nước 300ml; sắc còn 100ml. Uống dần trong ngày, chữa phụ nữ có thai, nôn mửa.
+
+_Đơn khác dùng chữa hen suyễn, nặng mặt, nằm không được, muốn nôn oẹ, bụng dưới nôn nao, cũng dùng chữa nôn_: Bán hạ chế 40g, sinh khương 20g, nước 600ml, sắc còn 200ml, chia nhiều lần uống trong ngày. Liều dùng bán hạ ở đây so với đơn tiểu bán hạ có cao hơn, nên uống từ từ, vừa uống vừa nghe, thấy chịu thì uống nữa. Trẻ con ngất bất tỉnh: Sinh bán hạ 4g, bồ kết 2g, tất cả tán nhỏ thổi vào mũi.
+
+### CÂY BÔNG 棉株
+
+Tên khoa học _Gossypium sp_.
+
+Thuộc họ Bông _Malvaceae_.
+
+Ta dùng vỏ rễ cây bông (_Cortex Gossypii radicis_) là dư phẩm của kỹ nghệ trồng bông ( Hình 17 ). Sau khi hái cây bông ta đào rễ rửa sạch, bóc lấy vỏ phơi khô.
+
+Theo sự nghiên cứu ghi trong tài liệu của Liên Xô cũ trong vỏ rễ cây bông có chứa sinh tố K, chất gossypola C30H30O8một ít tinh dầu, một ít tanin.
+
+**Công dụng và liều dùng**
+
+1. Liên Xô cũ công nhận vỏ rễ cây bông là một vị thuốc chính thức dùng dưới dạng cao lỏng làm thuốc cầm máu tử cung.
+
+##### TODO: thêm ảnh minh họa
+
+Hình 17. Cây bông - Gossypium sp.
+
+##### TODO: thêm ảnh CTHH
+
+Gosypola
+
+Gosypola 2. Nhân dân ta và một số nước khác dùng làm thuốc điều kinh. Nó gây co bóp tử cung giống như sự co bóp tự nhiên khi đẻ. Liều dùng 3-5g dưới sáng sắc.
+
+**Đơn thuốc có vỏ rễ cây bông**
+
+Vỏ rễ cây bông 3g, nước 300ml, sắc còn 100ml. Uống trong ngày, làm thuốc điều kinh, thông kinh.
+
+Nên chú ý nghiên cứu thêm.
+
+### HẠT BÔNG 棉籽
+
+Hạt bông nói đây là hạt của cây bông cho ta sợi để dệt vải. Hạt bông sau khi đã lấy sợi đi rồi, trước khi người ta đổ bỏ đi, gần đây người ta đă dùng ép lấy dầu để thắp và nấu xà phòng hoặc để ăn sau khi đã loại chất gossypola đi rồi.
+
+#### A. Thành phần hoá học của hạt bông
+
+Trong hạt bông có chừng 17-30% dầu, nếu chỉ tính nhân không tỷ lệ lên tới 35-40%. Dầu hạt bông là một thứ dầu nửa khô, có chứa chừng 20-22% panmitin (palmitin), 4% stearin (stearine), 30-35% olein, 42-45% linolein (linoleine) và 1% chất không xà phòng hoá được.
+
+Dầu bông ép nguội có màu vàng nhạt, không mùi vị, có chứa sinh tố E.
+
+Hạt bông có chứa hai chất độc: Gossypola vàng và gossypola đỏ. Cả hai chất này đều có chứa trong lá mầm.
+
+Gossypola là một chất có chứa phenol và anđêhyt.
+
+Gossypola uống ít độc, tiêm mạch máu độc hơn, tiêm 0,50g vào phúc mạc con thỏ sẽ chết sau 4 ngày .
+
+Gossypola bị phá bởi nhiệt để cho một chất ít độc hơn, cho nên khô dầu bông ép nóng ít độc hơn khô dầu ép nguội.
+
+Muốn tìm gossypola thêm H2SO4 vào dầu sẽ thấy màu đỏ, hoặc nếu thêm FeCl3 sẽ có màu xanh lục.
+
+#### B. Tác dụng dược lý
+
+Người ta thấy hạt bông sau khi đã loại chất gossypola có tác dụng lợi sữa, trong sữa tỷ lệ bơ và cađêin tăng lên.
+
+C. Công dụng và liều dùng
+
+#### Làm thuốc lợi sữa, dùng với liều 5g, dưới dạng thuốc sắc.
+
+**Đơn thuốc**
+
+Hạt bông sao vàng 5g, cam thảo 2g, nước 600ml, sắc còn 200ml. Chia ba lần uống trong ngày (đơn ghi trong _Hoà hán dược ứng dụng phương_). Xưa kia Nhật Bản có ra một số biệt dược lợi sữa chế từ hạt bông với tên lactaogon (lactaogol), mamain, lactomin (lactomil) v.v ....
+
+### CÂY NGƯU TẤT 牛膝
+
+_Còn có tên là_ cây cỏ xước, hoài ngưu tất.
+
 Tên khoa học _Achyranthes bidentata Blume_.
-Thuộc họ Giền Amaranthaceae.
-Ta dùng rễ phơi hay sấy khô- Radix Achyranthis bidentatae- của cây ngưu tất.
+
+Thuộc họ Giền _Amaranthaceae_.
+
+Ta dùng rễ phơi hay sấy khô- Radix _Achyranthis bidentatae_- của cây ngưu tất.
+
 Sách cổ nói: vị thuốc giống đầu gối con trâu nên gọi là ngưu tất (ngưu là trâu, tất là đầu gối).
-A. Mô tả cây
-Cây ngưu tất là một loại cỏ xước cho nên người ta nhầm với cây cỏ xước Achyranthes aspera L. Cỏ có thân mảnh, hơi vuông, thường chỉ cao 1m, cũng có khi tới 2m. Lá mọc đối có cuống, dài 5-12cm, rộng 2-4cm, phiến lá hình trứng, đầu nhọn, mép nguyên. Cụm hoa mọc thành bông ở đầu cành hoặc kẽ lá (Hình 18, Hm 2,1).
-B. Phân bố, thu hái và chế biến
-Hiện ta đang trồng giống ngưu tất di thực của Trung Quốc có rễ to hơn cây cỏ xước mọc hoang ở khắp nơi trong nước ta. Có thể tìm loại cỏ xước ở nước ta dùng làm ngưu tất được. Rễ đào về rửa sạch, phơi hoặc sấy khô.
-C. Thành phần hoá học
-Trong rễ ngưu tất ngưòi ta chiết xuất ra một chất saponin, khi thuỷ phân sẽ cho axit oleanic C30H48O3 và galactoza, rhamnoza, glucoza. Ngoài ra còn có ecdysteron, inokosteron và muối kali.
+
+#### A. Mô tả cây
+
+Cây ngưu tất là một loại cỏ xước cho nên người ta nhầm với cây cỏ xước _Achyranthes aspera L_. Cỏ có thân mảnh, hơi vuông, thường chỉ cao 1m, cũng có khi tới 2m. Lá mọc đối có cuống, dài 5-12cm, rộng 2-4cm, phiến lá hình trứng, đầu nhọn, mép nguyên. Cụm hoa mọc thành bông ở đầu cành hoặc kẽ lá (Hình 18, Hm 2,1).
+
+##### TODO: thêm ảnh minh họa
+
 Hình 18. Cây ngưu tất - Achyranthes bidenlata
-D. Tác dụng dược lý
-Trương Diệu Đức, Trương Phát Sơ và Lưu Thiệu Quang (1935, Trung Hoa y học tạp chí) đã dùng cao lỏng ngưu tất tiến hành 90 thí nghiệm trên tử cung cô lập của thỏ, chuột bạch, mèo và chó (có chửa hoặc không có chửa) đi tới kết luận sau đây:
+
+#### B. Phân bố, thu hái và chế biến
+
+Hiện ta đang trồng giống ngưu tất di thực của Trung Quốc có rễ to hơn cây cỏ xước mọc hoang ở khắp nơi trong nước ta. Có thể tìm loại cỏ xước ở nước ta dùng làm ngưu tất được. Rễ đào về rửa sạch, phơi hoặc sấy khô.
+
+#### C. Thành phần hoá học
+
+Trong rễ ngưu tất ngưòi ta chiết xuất ra một chất saponin, khi thuỷ phân sẽ cho axit oleanic C30H48O3 và galactoza, rhamnoza, glucoza. Ngoài ra còn có ecdysteron, inokosteron và muối kali.
+
+#### D. Tác dụng dược lý
+
+Trương Diệu Đức, Trương Phát Sơ và Lưu Thiệu Quang (1935, _Trung Hoa y học tạp chí_) đã dùng cao lỏng ngưu tất tiến hành 90 thí nghiệm trên tử cung cô lập của thỏ, chuột bạch, mèo và chó (có chửa hoặc không có chửa) đi tới kết luận sau đây:
 
 1. Cao lỏng ngưu tất có tác dụng làm dịu sức căng của tử cung chuột bạch (có chửa hay không có chửa cũng vậy).
 2. Đối với tử cung của thỏ có chửa hay không, đều phát sinh tác dụng co bóp.
@@ -695,41 +767,77 @@ Trương Diệu Đức, Trương Phát Sơ và Lưu Thiệu Quang (1935, Trung H
 3. Ngưu tất có tác dụng ức chế sự co bóp của khúc tá tràng.
 4. Ngưu tất hơi có tác dụng làm lợi tiểu.
 5. Liều cao, ngưu tất có tác dụng kích thích sự vận động của tử cung.
-   Chất saponin của ngưu tất có tác dụng phá huyết và làm cho vón anbumin (albumin).
-   Ecdysteron và inokosteron có tác dụng làm kìm hãm sự phát triển của một số sâu bọ.
-   Đoàn Thị Nhu phát hiện ngưu tất có tác dụng hạ cholesterol trong máu và tác dụng hạ huyết áp.
-   E. Công dụng và liều dùng
-   Tính vị theo đông y: Vị chua, đắng, bình, không độc, vào hai kinh can và thận. Có tác dụng phá huyết, hành ứ (sống), bổ can thận, mạnh gân cốt (chế biến chín).
-   Trong nhân dân, ngưu tất được dùng trong bệnh viêm khớp, đau bụng, kinh nguyệt khó khăn.
-   Ngày dùng 3-9g dưới dạng thuốc sắc.
-   Người có thai không được dùng.
-   Viên ngưu tất (0,25 cao khô)hoặc thuốc ống (4g ngưu tất khô/ống) chữa bệnh cholesterol máu cao, huyết áp cao, vữa xơ động mạch. Ngày uống hai lần, mỗi lần 5viên hoặc một ống sau bữa ăn. Dùng liền 1-2 tháng lại nghỉ.
 
-CÂY TÔ MỘC
+Chất saponin của ngưu tất có tác dụng phá huyết và làm cho vón anbumin (albumin).
+
+Ecdysteron và inokosteron có tác dụng làm kìm hãm sự phát triển của một số sâu bọ.
+
+Đoàn Thị Nhu phát hiện ngưu tất có tác dụng hạ cholesterol trong máu và tác dụng hạ huyết áp.
+
+#### E. Công dụng và liều dùng
+
+Tính vị theo _đông y_: Vị chua, đắng, bình, không độc, vào hai kinh can và thận. Có tác dụng phá huyết, hành ứ (sống), bổ can thận, mạnh gân cốt (chế biến chín).
+
+Trong nhân dân, ngưu tất được dùng trong bệnh viêm khớp, đau bụng, kinh nguyệt khó khăn.
+
+Ngày dùng 3-9g dưới dạng thuốc sắc.
+
+_Người có thai không được dùng._
+
+Viên ngưu tất (0,25 cao khô)hoặc thuốc ống (4g ngưu tất khô/ống) chữa bệnh cholesterol máu cao, huyết áp cao, vữa xơ động mạch. Ngày uống hai lần, mỗi lần 5 viên hoặc một ống sau bữa ăn. Dùng liền 1-2 tháng lại nghỉ.
+
+_Chú thích:_
+
+Hồng căn thảo là một loại ngưu tất có thân lá và rễ đỏ cùng loài _Achyranfhes biđeniata Blume_.
+
+Ta còn dùng loại cỏ xước cũng gọi là ngưu tất _Achyranthes aspera L_.. cùng một công dụng ( Hm 2.2 ).
+
+Nên chú ý nghiên cứu thêm.
+
+### CÂY TÔ MỘC 蘇木
+
 _Còn có tên là_ cây gỗ vang, cây vang nhuộm, cây tô phượng( do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc).
+
 Tên khoa học _Caesalpinia sappan L_.
-Thuộc họ Vang Caesalpiniaceae.
-Tô mộc (Lignum Caesalpiniae sappan) là gỗ phơi khô của cây gỗ vang hay cây tô mộc. Vì vị thuốc sản xuất ở Tô Phượng cho nên có tên (Tô là Tô Phưọng, mộc là gỗ).
-A. Mô tả cây
-Cây tô mộc là một cây cao 7-10m, thân có gai. Lá kép lông chim, gồm 12 đôi, hay hơn 12 đôi lá chét, hơi hẹp ở phía dưới tròn ở đầu, mặt trên nhẵn, mặt dưới có lông. Hoa 5 cánh màu vàng mọc thành chùm, nhị hơi lòi ra, nửa dưới chỉ nhị hoi có lông, bầu hoa phủ lông xám. Quả là một giáp dẹt hình trứng ngược dày, dai, cứng, dài từ 7-10cm, rộng từ 3,5-4cm, trong có 3-4 hạt màu nâu (Hình 19, Hm 12,1).
-B. Phân bố, thu hái và chế biến
+
+Thuộc họ Vang _Caesalpiniaceae_.
+
+Tô mộc (_Lignum Caesalpiniae sappan_) là gỗ phơi khô của cây gỗ vang hay cây tô mộc. Vì vị thuốc sản xuất ở Tô Phượng cho nên có tên (Tô là Tô Phượng, mộc là gỗ).
+
+#### A. Mô tả cây
+
+Cây tô mộc là một cây cao 7-10m, thân có gai. Lá kép lông chim, gồm 12 đôi, hay hơn 12 đôi lá chét, hơi hẹp ở phía dưới tròn ở đầu, mặt trên nhẵn, mặt dưới có lông. Hoa 5 cánh màu vàng mọc thành chùm, nhị hơi lòi ra, nửa dưới chỉ nhị hoi có lông, bầu hoa phủ lông xám. Quả là một giáp dẹt hình trứng ngược, dày, dai, cứng, dài từ 7-10cm, rộng từ 3,5-4cm, trong có 3-4 hạt màu nâu (Hình 19, Hm 12,1).
+
+##### TODO: thêm ảnh minh họa
+
+#### B. Phân bố, thu hái và chế biến
+
 Cây mọc hoang và được trồng ở nhiều nơi trong nước ta vì gỗ được dùng làm thuốc nhuộm gỗ và làm thuốc với tên tô mộc. Người ta dùng gỗ chẻ mỏng phơi khô.
+
+##### TODO: thêm ảnh CTHH
+
 Hematoxylin
 Hematein ( màu đỏ)
 Brasilin
-C. Thành phần hóa học
-Trong cây tô mộc có tanin, axit galic, chất sappanin C12H12O4 và tinh dầu.
-Brasilin là một chất có tinh thể màu vàng. Với kiềm cho màu đỏ, khi oxy hoá sẽ cho braseilin C16H12O5
-Cấu tạo của chất brasilin và brasilein gần giống chất hematoxylin và hematein (do hematoxylin oxy hoá) là chất màu lấy ở gỗ cây Hematoxylon campechianum L. cùng họ.
-D. Tác dụng dược lý
 
-1. Phòng đông y thực ngiệm Viện vi trùng Việt Nam (1961) đã ngiên cứu thấy nước sắc tô mộc có tác dụng kháng sinh mạnh đối với vi trùng Staphylococcus 209P (vòng vô khuẩn (l,2cm), Salmonella typhi (0,4cm), Shiga flexneri (0,7cm), Shigella sonnei (0,2), Shigella dysenteria Shiga (lcm), Bacillus subtilis (lcm).
+#### C. Thành phần hóa học
+
+Trong cây tô mộc có tanin, axit galic, chất sappanin C12H12O4 và tinh dầu.
+
+Brasilin là một chất có tinh thể màu vàng. Với kiềm cho màu đỏ, khi oxy hoá sẽ cho braseilin C16H12O5.
+
+Cấu tạo của chất brasilin và brasilein gần giống chất hematoxylin và hematein (do hematoxylin oxy hoá) là chất màu lấy ở gỗ cây _Hematoxylon campechianum L._ cùng họ.
+
+#### D. Tác dụng dược lý
+
+1. Phòng đông y thực ngiệm Viện vi trùng Việt Nam (1961) đã ngiên cứu thấy nước sắc tô mộc có tác dụng kháng sinh mạnh đối với vi trùng _Staphylococcus 209P_ (vòng vô khuẩn (1,2cm), _Salmonella typhi_ (0,4cm), _Shiga flexneri_ (0,7cm), _Shigella sonnei_ (0,2), _Shigella dysenteria Shiga_ (1cm), _Bacillus subtilis_ (1cm).
    Tác dụng kháng sinh này không bị nhiệt, dịch vị và dịch tụy tạng phá hủy.
 2. Theo M.Gabor (1951) brasilein có tác dụng kháng histamin. Nếu tiêm brasilein vào màng bụng chuột bạch trước thì có thể đề phòng hiện tượng thay đổi ở mắt chuột bạch do tiêm dung dịch 1,5% histamin clohiđrat.
 3. Theo M Gabor, B. Horvath, L. Kiss và z. Dirner (1952), brasilin và brasilein đều có tác dụng làm mạnh và kéo dài tác dụng của hocmon thượng thận đối với mẩu ruột cô lập của chuột bạch hoặc tử cung cô lập của thỏ và đối với huyết áp của thỏ.
 4. Năm 1952 M. Gabor, I. Szodady và Z. Dirner còn báo cáo thí nghiệm trên sinh thiết (coupe microscopique) tổ chức thận và nước của tổ chức thận thấy brasilin và brasilein có tác dụng ức chế men histidin decacboxylaza.
 5. Tù Tá Hạ và Diêm Ứng Bổng (1954-1955, 1956, Trung Hoa y học tạp chí) nghiên cứu toàn diện áp dụng dược lý của tô mộc đã đi đến kết luận sau:
-   Báo cáo thứ nhất
+
+_Báo cáo thứ nhất_
 
 - Với lượng vừa thích hợp, tô mộc có tác dụng làm tăng sự co bóp của tim ếch cô lập. Áp lực tim lúc đầu càng yếu, tác dụng càng rõ.
 - Nước tô mộc làm cho sự co mạch của huyết quản ếch tăng lên (phương pháp Treudenberg). Nếu bắt đầu dùng nước tô mộc trước rồi mới dùng muối nitrit, thì tác dụng dãn mạch của muối nitrit sẽ không xuất hiện nữa.
@@ -737,53 +845,90 @@ D. Tác dụng dược lý
 - Đối với mẩu ruột thỏ cô lập, nước tô mộc không có tác dụng, nhưng có thể tăng mạnh tác dụng của hocmon thượng thận đối với mẩu ruột.
 - Nước tô mộc hơi có tác dụng ức chế đối với tử cung cô lập của chuột nhắt. Nếu phối hợp tô mộc với hocmon thượng thận, tác dụng ức chế càng rõ.
 - Nước tô mộc và hematoxylin không giống nhau. Tựa hồ như không có tác dụng kháng histamin.
-  Báo cáo thứ hai
+
+_Báo cáo thứ hai_
+
 - Bôi dầu thông trên bụng thỏ. Nước tô mộc không có tác dụng giảm nhẹ tính chất kích thích của dầu thông.
 - Thí nghiệm trên phế quản của chuột bạch, nước tô mộc không có tác dụng làm giảm mất tác dụng của histamin đã gây co bóp trên phế quản.
 - Tiêm nước tô mộc vào tĩnh mạch của con chó đã gây mê, dung tích của thận không bị ảnh hưởng.
 - Sau khi tiêm 0,1 ml vác-xin thương hàn vào tĩnh mạch con thỏ để gây sốt, sau đó tiêm vào màng bụng 5ml dung dịch 20% tô mộc, nhiệt độ không giảm.
 - Tiêm vào bụng chuột nhắt 1ml dung dịch 100% tô mộc, không làm mất tác dụng cong đuôi do tiêm mocphin vào chuột 1mg/10g chuột. Đối với thỏ hầu như có tác dụng đối kháng với tác dụng trấn tĩnh do tiêm dung dịch mocphin vào dưới da (5mg/kg thể ưọng).
 - 0,2ml dung dịch 20% tô mộc có thể khôi phục sự hoạt động của tim ếch cô lập (phương pháp Straub) đã bị đình lại đo tiêm nước sắc 20% vị thuốc chỉ xác.
-  Báo cáo thứ ba
+
+_Báo cáo thứ ba_
+
 - Dùng nước tô mộc cho thỏ, chuột bạch, chuột nhắt uống hoặc tiêm tĩnh mạch hay dưới da hoặc thụt đều gây ngủ, lượng lớn có thể gây mê và có thể chết.
 - Nước tô mộc có tác dụng đối kháng đối với tác dụng hưng phấn trung khu thần kinh do stricnin hoặc côcain gây ra.
 - Nước tô mộc có khả năng khôi phục sự hoạt động của tim ếch cô lập (phương pháp Straub) đã bị cloralhytdrat hoặc quinin clohydrat, pilocacpin, eserin salixylat làm cho chưa hoàn toàn đình chỉ.
 - Tiêm nước sắc tô mộc dưới da hoặc vào bụng con chó có thể gây nôn mửa và đi tả.
-  E. Công dụng và liều dùng
-  Tính vị theo đông y: Vị ngọt, bình, không độc, vào 3 kinh tâm, can và tì, Có tác dụng hành huyết, thông lạc, khứ ứ, chỉ thống, tán phong hòa huyết, chửa đẻ xong ứ trệ, kinh nguyệt bế, ung thũng, bị đánh tổn thương. Khõng ứ trệ cấm dùng.
-  Nhân dân dùng tô mộc làm thuốc săn da và cầm máu dùng trong các trường hợp tử cung chảy máu, đẻ mà mất máu qúa nhiều, choáng váng, hoa mắt.
-  Còn dùng chữa lỵ ra máu, chảy máu trong ruột, xích bạch đới.
-  Một số vùng nhân dân dùng tô mộc nấu với nước uống thay chè.
-  Phụ nữ có thai không dùng được.
-  Ngày uống 6 - 12g, dưới dạng thuốc sắc.
-  Nước sắc gỗ vang còn dùng để nhuộm đồ gỗ trước khi đánh vécni.
-  Đơn thuốc có tô mộc
 
-1. Bài thuốc chữa kinh nguyệt không đều hoặc đẻ xong đau bụng từng cơn:
+#### E. Công dụng và liều dùng
+
+Tính vị theo _đông y_: Vị ngọt, bình, không độc, vào 3 kinh tâm, can và tì, Có tác dụng hành huyết, thông lạc, khứ ứ, chỉ thống, tán phong hòa huyết, chửa đẻ xong ứ trệ, kinh nguyệt bế, ung thũng, bị đánh tổn thương. Không ứ trệ cấm dùng.
+
+Nhân dân dùng tô mộc làm thuốc săn da và cầm máu dùng trong các trường hợp tử cung chảy máu, đẻ mà mất máu qúa nhiều, choáng váng, hoa mắt.
+
+Còn dùng chữa lỵ ra máu, chảy máu trong ruột, xích bạch đới.
+
+Một số vùng nhân dân dùng tô mộc nấu với nước uống thay chè.
+
+_Phụ nữ có thai không dùng được._
+
+Ngày uống 6 - 12g, dưới dạng thuốc sắc.
+
+Nước sắc gỗ vang còn dùng để nhuộm đồ gỗ trước khi đánh vécni.
+
+**Đơn thuốc có tô mộc**
+
+1. _Bài thuốc chữa kinh nguyệt không đều hoặc đẻ xong đau bụng từng cơn:_
    Tô mộc 10g, huyền hồ sách 6g, sơn tra 10g, hồng hoa 3g, ngũ linh chi 8g, đương quy thân 10g, nước 600ml, sắc còn 200ml. Chia 3 lần uống trong ngày.
-2. Đẻ xong ra huyết nhiều: Tô mộc 12g, sắc với 200ml nước còn 100ml. Chia 2 lần uống trong ngày.
-   CÂY RAU NGÓT
-   _Còn gọi là_ bồ ngót, bù ngót, hắc diện thần (Trung Quốc).
-   Tên khoa học _Sauropus androgynus (L) Merr_.
-   Thuộc họ Thầu dầu Euphorbiaceae.
-   Tên cây rau ngót trước đây được xác định là Phyllanthus elegans Wall. Hiện nay tên nay được dành cho cây rau sắng Phyllanthus elegans L. thuộc cùng họ. Nhưng gần đây nhất, trong quyển Arbres forestiers du Viet nam, tome V, 198 tr. 147, hình 73, Rau sắng lại được xác định là Meliantha suavis Pierre thuộc họ Opiliaceae.
-   A. Mô tả cây
-   Cây nhỏ, nhẵn, có thể cao tới 1,50-2m. Có nhiều cành mọc thẳng. Vì người ta hái lá luôn cho nên thường chỉ thấp 0,90-1m. Vỏ thân cây màu xanh lục, sau màu nâu nhạt. Lá mọc so le, dài 4-6cm, rộng 15-30mm cuống rất ngắn 1- 2mm có 2 lá kèm nhỏ, phiến lá nguyên hình trứng dài hoặc bầu dục, mép nguyên, (Hình 20). Hoa đực mọc ở kẽ lá thành xim đơn ở phía dưới, hoa cái ở trên. Quả nang hình cầu, hạt có vân nhỏ ( Hm 3,4 ).
-   B. Phân bố, thu hái và chế biến
-   Mọc hoang và được trồng khắp nơi ở Việt Nam để lấy lá nấu canh. Khi làm thuốc thường chọn những cây rau ngót đã sống 2 năm trở lên. Hái lá tươi về dùng ngay.
-   C. Thành phần hóa học
-   Hoạt chất làm thuốc chưa rõ. Chỉ mới biết uống rau ngót có 5,3% protit, 3,4% gluxit, 2,4% tro trong đó chủ yếu là canxi (169mg%), photpho (64,5mg%), vitamin C (185mg%). Rau ngót có nhiều axit amin cần thiết: trong 100g rau ngót có 0,16g lysin, 0,13g metionin, 0,05g tryp- tophan, 0,25g phenylalanin, 0,34g treonin, 0,17g valin, 0,24g leuxin và 0,17 izoleuxin. Trong cây rau sắng rất gần với rau ngót có hàm lượng protit cao hơn (6,5%), trong đó thành phần axit amin cần thiết trong 100g rau có 0,23g lysin, 0,19g metionin, 0,08g tryptophan, 0,25g phenylalanin, 0,45g treonin, 0,22g valin, 0,26g leuxin, 0,23g izoleuxin.
-   D. Tác dụng dược lý
-   Chưa thấy tài liệu nghiên cứu.
-   E. Công dụng và liều dùng
-   Lá rau ngót ngoài công dụng nấu canh, còn là một vị thuốc nhân dân dùng chữa sót nhau4 và chữa tưa lưỡi. Cách dùng như sau:
-   Chữa sót nhau: Hái độ 40g lá rau ngót. Rửa sạch giã nát.
-   Thêm ít nước đã đun sôi để nguội vào. Vắt lấy chừng 100 ml nước. Chia làm 2 lần uống, mỗi lần cách nhau 10 phút. Sau chừng 15-20 phút nhau sẽ ra.
-   Có người dùng đơn thuốc này chữa chậm kinh có kết quả (Đỗ Tất Lợi).
-   Có người chỉ gìă nhỏ đắp vào gan bàn chần (Y học thực hành, tháng 2/1960 và 10/1961).
-   Chữa tưa lưỡi: Giã lá rau ngót tươi độ 5-10g. Vắt lấy nước. Thấm vào bông đánh lên lưỡi, lợi và vòm miệng trẻ em, chỉ hai ngày sau là bú được.
-   Chữa hóc: Giã cây tươi, vắt lấy nước ngậm.
-   Chú ý nghiên cứu thêm.
+2. _Đẻ xong ra huyết nhiều:_ Tô mộc 12g, sắc với 200ml nước còn 100ml. Chia 2 lần uống trong ngày.
+
+### CÂY RAU NGÓT 冬闽菜
+
+_Còn gọi là_ bồ ngót, bù ngót, hắc diện thần (Trung Quốc).
+
+Tên khoa học _Sauropus androgynus (L) Merr_.
+
+Thuộc họ Thầu dầu _Euphorbiaceae_.
+
+Tên cây rau ngót trước đây được xác định là _Phyllanthus elegans Wall_. Hiện nay tên nay được dành cho cây rau sắng _Phyllanthus elegans L_. thuộc cùng họ. Nhưng gần đây nhất, trong quyển _Arbres forestiers du Viet nam_, tome V, 198 tr. 147, hình 73, Rau sắng lại được xác định là Meliantha suavis Pierre thuộc họ Opiliaceae.
+
+#### A. Mô tả cây
+
+Cây nhỏ, nhẵn, có thể cao tới 1,50-2m. Có nhiều cành mọc thẳng. Vì người ta hái lá luôn cho nên thường chỉ thấp 0,90-1m. Vỏ thân cây màu xanh lục, sau màu nâu nhạt. Lá mọc so le, dài 4-6cm, rộng 15-30mm cuống rất ngắn 1- 2mm có 2 lá kèm nhỏ, phiến lá nguyên hình trứng dài hoặc bầu dục, mép nguyên, (Hình 20). Hoa đực mọc ở kẽ lá thành xim đơn ở phía dưới, hoa cái ở trên. Quả nang hình cầu, hạt có vân nhỏ ( Hm 3,4 ).
+
+##### TODO: thêm ảnh minh họa
+
+#### B. Phân bố, thu hái và chế biến
+
+Mọc hoang và được trồng khắp nơi ở Việt Nam để lấy lá nấu canh. Khi làm thuốc thường chọn những cây rau ngót đã sống 2 năm trở lên. Hái lá tươi về dùng ngay.
+
+#### C. Thành phần hóa học
+
+Hoạt chất làm thuốc chưa rõ. Chỉ mới biết uống rau ngót có 5,3% protit, 3,4% gluxit, 2,4% tro trong đó chủ yếu là canxi (169mg%), photpho (64,5mg%), vitamin C (185mg%). Rau ngót có nhiều axit amin cần thiết: trong 100g rau ngót có 0,16g lysin, 0,13g metionin, 0,05g tryp- tophan, 0,25g phenylalanin, 0,34g treonin, 0,17g valin, 0,24g leuxin và 0,17 izoleuxin. Trong cây rau sắng rất gần với rau ngót có hàm lượng protit cao hơn (6,5%), trong đó thành phần axit amin cần thiết trong 100g rau có 0,23g lysin, 0,19g metionin, 0,08g tryptophan, 0,25g phenylalanin, 0,45g treonin, 0,22g valin, 0,26g leuxin, 0,23g izoleuxin.
+
+#### D. Tác dụng dược lý
+
+Chưa thấy tài liệu nghiên cứu.
+
+#### E. Công dụng và liều dùng
+
+Lá rau ngót ngoài công dụng nấu canh, còn là một vị thuốc nhân dân dùng chữa sót nhau4 và chữa tưa lưỡi. Cách dùng như sau:
+
+_Chữa sót nhau_: Hái độ 40g lá rau ngót. Rửa sạch giã nát.
+
+Thêm ít nước đã đun sôi để nguội vào. Vắt lấy chừng 100 ml nước. Chia làm 2 lần uống, mỗi lần cách nhau 10 phút. Sau chừng 15-20 phút nhau sẽ ra.
+
+Có người dùng đơn thuốc này chữa chậm kinh có kết quả (Đỗ Tất Lợi).
+
+Có người chỉ gìă nhỏ đắp vào gan bàn chần (Y học thực hành, tháng 2/1960 và 10/1961).
+
+_Chữa tưa lưỡi_: Giã lá rau ngót tươi độ 5-10g. Vắt lấy nước. Thấm vào bông đánh lên lưỡi, lợi và vòm miệng trẻ em, chỉ hai ngày sau là bú được.
+
+_Chữa hóc_: Giã cây tươi, vắt lấy nước ngậm.
+
+Chú ý nghiên cứu thêm.
 
 ĐÀI HÁI
 _Còn gọi là_ du qua, dây mỡ lợn, dây hái, then hái, mướp rừng, dây sén, mak khing (Lào), Kigarasu-uri (Nhật).
