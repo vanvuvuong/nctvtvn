@@ -9,3 +9,4 @@ hugo.linux
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Hugo
 node_modules
+_pagefind
