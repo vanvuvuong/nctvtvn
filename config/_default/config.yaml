@@ -1,5 +1,5 @@
-baseURL: https://example.org/
-languageCode: en-us
+baseURL: https://nctvtvn.fyi
+languageCode: vi-vn
 title: "Những cây thuốc vị thuốc Việt Nam"
 theme: hugo-theme-bootstrap
 build:
