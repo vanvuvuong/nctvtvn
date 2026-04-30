@@ -1022,7 +1022,7 @@ O
 
 ÓT
 
-N—CH*--C!H—COOH NH2
+N—CH\*--C!H—COOH NH2
 
 Leuxenin = leuxenola — mimosin
 
@@ -1652,9 +1652,9 @@ Nhân dân còn dùng hạt cau phối hợp với thường sơn, thảo quả 
 
 Chú thích:
 
-1) Người ta còn dùng vỏ quả cau làm thuốc lợi tiểu với tên đại phúc bì (xem vị này ở mục các thuốc thông tiểu tiện).
+1. Người ta còn dùng vỏ quả cau làm thuốc lợi tiểu với tên đại phúc bì (xem vị này ở mục các thuốc thông tiểu tiện).
 
-2. Cây cau rừng (sơn binh lang) có tên khoa học Areca laoensis L. cùng họ, với cùng một cống đụng. Một cây cau rừng khác có tên khoa học Pinanga baviensis o. Becc. cùng họ, ít dùng.
+2) Cây cau rừng (sơn binh lang) có tên khoa học Areca laoensis L. cùng họ, với cùng một cống đụng. Một cây cau rừng khác có tên khoa học Pinanga baviensis o. Becc. cùng họ, ít dùng.
 
 ### CÂY RÙM NAO
 
@@ -1978,7 +1978,7 @@ CHS — CO — COOH + 2 NHs
 
 axit pyruvic amoniac
 
-+ CH2 = CH — CHa — s — s — CH2 — CH = CHa 0 alixin
+- CH2 = CH — CHa — s — s — CH2 — CH = CHa 0 alixin
 
 C:>H5 — s — s — C;iHr, + 2 HS — CH2 — CH — COOH 11 l 0 nh2
 
@@ -2165,4 +2165,3 @@ b. Năm 1953, (heo Thực vật học báo, [2(2): 312-325] nghiên cứu tác d
 c. Nâm 1960, một tác giả khác trong báo Vỉ sinh vật học báo (Kỳ 1 quyển 8: 48-51) đã báo cáo cấy vi trùng lỵ trong nước canh có rau sam qua nhiều thế hệ thì thấy xuất hiện tác dụng chống thuốc.
 
 d. Đối với vi trùng bệnh ngoài da, nãm 1957 (Trung Hoa bì phu học tạp chí, số 4) một số tác giả thấy nước rau sam 1:6 có tác dụng ức chế khác nhau vối những vi trùng gây bệnh khác nhau.
-

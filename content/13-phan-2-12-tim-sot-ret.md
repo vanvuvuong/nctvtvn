@@ -80,7 +80,7 @@ Ngoài việc dùng chất tevetin chiết từ hạt, có nơi còn dùng hạt
 
 Cây và thuốc chế từ thông thiên có chất rất độc; cần chú ý tránh gây ngộ độc.
 
-CÂY TRÚC ĐÀO 夹竹桃
+### CÂY TRÚC ĐÀO 夹竹桃
 
 _Còn gọi là đào lê, giáp trúc đào, laurier rose._
 
@@ -184,7 +184,7 @@ Theo kinh nghiệm điều trị ở Bệnh viện Việt-Tiệp Hải Phòng, n
 
 Bản thân chất neriolin phải bảo quản theo chế độ thuốc độc bảng A, nhưng dung dịch và viên neriolin thì theo chế độ thuốc độc bảng B.
 
-VẠN NIÊN THANH 萬年青
+### VẠN NIÊN THANH 萬年青
 
 _Còn gọi là thiên niên vận, đông bất điêu thảo, cửu tiết liên._
 
@@ -244,7 +244,7 @@ Tác dụng dược lý của hoạt chất vạn niên thanh đã được các
 
 Tuy trên thí nghiệm vạn niên thanh và hoạt chất rodein có tác dụng làm mạnh tim gần như digitoxin, lại mạnh hơn, nhưng vì tính chất tích luỹ cao cho nên còn cần nghiên cứu hơn nữa mới dùng được.
 
-HÀNH BIỂN
+### HÀNH BIỂN
 
 Tên khoa học _*Scilla maritima L. (Urginea scilla Steinh., Urginea maritima (L.) Baker)*_
 
@@ -332,7 +332,7 @@ Người ta cho rằng củ hành biển độc đối với chuột không ph�
 
 ### XVII. CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA CẢM SỐT
 
-BẠC HÀ 薄荷
+### BẠC HÀ 薄荷
 
 Tên khoa học _*Mentha arvensis L.*_
 
@@ -452,7 +452,7 @@ Nãm 1958, chúng tôi có xin được loài bạc hà lai số 272 của Liên
 
 Tại Việt Nam, chúng tôi cất từ loài húng dũi Mentha crispa L. được thứ tinh dầu có chứa 50- 60% cacvon như tinh dầu lưu lan hương (Đỗ Tất Lợi, 1970).
 
-BẠCH CHỈ 白芷
+### BẠCH CHỈ 白芷
 
 Tên khoa học _*Angelica dahurica Benth. et Hook. và Angelica anomala Lallem.*_
 
@@ -538,7 +538,7 @@ Trong nhân dân Việt Nam còn dùng một vị thuốc với tên nam bạch 
 
 Trong một số sách thuốc cũ của Trung Quốc người ta giới thiệu bạch chỉ là rễ Angelica glabra Makino hay Angelica formosana Boiss. họ Hoa tán; nhưng những tài liệu mới nhất thường thống nhất những tên đã giới thiệu ở trên.
 
-CÂY CỐI XAY 磨盘草
+### CÂY CỐI XAY 磨盘草
 
 _Còn gọi là cây dằng xay, kim hoa thảo, ma mãnh tháo, nhĩ hương thảo._
 
@@ -580,7 +580,7 @@ Chú thích:
 
 Tại Trung Quốc người ta thường hay dùng một cây cùng chi với cối xay: Abutilon avicennae Gaertn (Abuliton theophrasti Medic. ) cùng họ, gọi là mãnh ma hay bạch ma. Hạt của nó gọi là đông quì tử có chứa chất protit và chất béo 15- 20%, có khi tới 30% dùng chữa xích và bạch lỵ, còn dùng chữa mụn nhọt, đại tiểu tiện khó khăn, thuỷ thũng, vú sưng đau. Ngày uống 4-12g dưới dạng thuốc sắc.
 
-CÂY CÚC BÁCH NHẬT 百日红
+### CÂY CÚC BÁCH NHẬT 百日红
 
 _Còn gọi là thiên kim hồng, bách nhật hồng, bách nhật bạch, thiên nhật hồng._
 

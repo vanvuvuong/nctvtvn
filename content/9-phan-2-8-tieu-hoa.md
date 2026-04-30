@@ -250,7 +250,7 @@ Chữ macrocephala có nghĩa là đấu to, ý nói cụm hoa hình đầu mà 
 
 #### A. Mô tả cầy
 
-Bạch truật là một cây mọc lâu năm, cao tới 80cm. Rễ phát triển thành củ to và mẫm. Lá mọc so le, dai. Lá ở phía dưới thân có cuống dài, phiến lá chìa làm 3 thùy rõ rệt, cắt sâu, trông gần như lá riêng, lá ở ngọn không chia thùy, cuống ngắn, mép phiến lá có răng cưa đều và nhọn. Cụm hoa hình đầu, lớn, tổng bao hình chuông, phiến tổng bao gồm 7 lớp trông như ngói lợp. Tràng hoa hình Ống phía dưới màu trắng, phía trên màu tím đỏ, chia làm 5 thùy hình, sợi* dài, 5 nhị (trong những hoa cái ò phía ngoài của cụm hoa có nhị thoái hóa). Bầu nhụy có phủ lông trắng, ở đỉnh mang một chùm lông dài mượt (dùng để phát tán quả
+Bạch truật là một cây mọc lâu năm, cao tới 80cm. Rễ phát triển thành củ to và mẫm. Lá mọc so le, dai. Lá ở phía dưới thân có cuống dài, phiến lá chìa làm 3 thùy rõ rệt, cắt sâu, trông gần như lá riêng, lá ở ngọn không chia thùy, cuống ngắn, mép phiến lá có răng cưa đều và nhọn. Cụm hoa hình đầu, lớn, tổng bao hình chuông, phiến tổng bao gồm 7 lớp trông như ngói lợp. Tràng hoa hình Ống phía dưới màu trắng, phía trên màu tím đỏ, chia làm 5 thùy hình, sợi\* dài, 5 nhị (trong những hoa cái ò phía ngoài của cụm hoa có nhị thoái hóa). Bầu nhụy có phủ lông trắng, ở đỉnh mang một chùm lông dài mượt (dùng để phát tán quả
 
 ##### TODO: thêm hình ảnh
 
@@ -292,7 +292,7 @@ Thuộc họ Cúc Asieraceae (Compositae).
 
 A. Mò tả cây
 
-* Thương truật là một loại cây sống lâu năm, cao chừng 0,60m, có rễ phát triển thành củ to, thân mọc thẳng đứng. Lá mọc so le, gần như không có cuống, lá ở phía gốc chia 3 thùy nhưng cắt không sâu. 2 thùy 2 bên không lớn lắm, thùy giữa rất lớn, lá phía trên hình mác, không chia thùy. Mép lá trên lá dưới đều có răng cưa nhỏ nhọn. Cụm hoa hình đầu, tổng bao do 5-7 lớp như ngói lợp, lớp dưới cùng chia rất nhỏ hình lông chim. Hoa hình ống, những hoa phía ngoài là hoa cái, những hoa trong lưỡng ưnh, tràng hoa màu trắng hay tím nhạt, đỉnh chia 5 thùy xẻ xâu. 5 nhị (bị thoái hóí ở hoa cái), nhụy có đầu vòi chia hai, bầu có lónỄ mềm nhỏ. Cụm hoa thuơng truật so với cụm ho£ của bạch truật nhỏ và gầy hơn. Quả khô ( Htrứ 294 ).'
+- Thương truật là một loại cây sống lâu năm, cao chừng 0,60m, có rễ phát triển thành củ to, thân mọc thẳng đứng. Lá mọc so le, gần như không có cuống, lá ở phía gốc chia 3 thùy nhưng cắt không sâu. 2 thùy 2 bên không lớn lắm, thùy giữa rất lớn, lá phía trên hình mác, không chia thùy. Mép lá trên lá dưới đều có răng cưa nhỏ nhọn. Cụm hoa hình đầu, tổng bao do 5-7 lớp như ngói lợp, lớp dưới cùng chia rất nhỏ hình lông chim. Hoa hình ống, những hoa phía ngoài là hoa cái, những hoa trong lưỡng ưnh, tràng hoa màu trắng hay tím nhạt, đỉnh chia 5 thùy xẻ xâu. 5 nhị (bị thoái hóí ở hoa cái), nhụy có đầu vòi chia hai, bầu có lónỄ mềm nhỏ. Cụm hoa thuơng truật so với cụm ho£ của bạch truật nhỏ và gầy hơn. Quả khô ( Htrứ 294 ).'
 
 B. Phàn bố, thu hái và chế biến
 
@@ -434,7 +434,7 @@ Vị thuốc mới thấy dùng trong phạm vi nhân dân: Tại các hàng lá
 
 Ngày uống 15-30g lá và cành phơi khô, chia làm 2 hoặc 3 lần uống trước bữa cơm chính.
 
-m.nm*\=Ị-
+m.nm\*\=Ị-
 
 ##### TODO: thêm hình ảnh
 
@@ -612,13 +612,13 @@ Dưới đây là một số vị thuốc chính nguồn gi là những quả c�
 
 2. Dương xuân xa (Fructus - Amomi villosi) '3. Đậu khâu còn gọi là bạch dậu khấu h; viên đậu khấu (Pructus Arnomi cardamomi h: Fructus Carảamomì rỡtundi).
 
-4. Tiểu đậu khấu (Pructus Cardamomi)
+3. Tiểu đậu khấu (Pructus Cardamomi)
 
-5. Hồng đậu khấu còn gọi là sơn khương (Fructus Alpiniae galangae)
+4. Hồng đậu khấu còn gọi là sơn khương (Fructus Alpiniae galangae)
 
-6. Thảo đậu khấu (Semen Alpini; katsumadai)
+5. Thảo đậu khấu (Semen Alpini; katsumadai)
 
-7. ích trí nhân (Fructus Alpiniae yichi)
+6. ích trí nhân (Fructus Alpiniae yichi)
 
 Trên đây mới chỉ là một sô' cây chính. Thực
 
@@ -828,7 +828,7 @@ Trong thảo đậu khấu có chừng 4% tinh dầu mùi long não (theo Wehmer
 
 #### D. Công dụng và liều dùng
 
-Thảo đậu khấu chỉ mới thấy dùng trong đông y. Tính vị theo đông _y là vị cay, chát, tính ôn,
+Thảo đậu khấu chỉ mới thấy dùng trong đông y. Tính vị theo đông \_y là vị cay, chát, tính ôn,
 
 3 4
 
@@ -954,7 +954,7 @@ Tỷ trọng 0,870-0,925; năng suất quay cực phải (a)D+l6° đến +30°.
 
 o—CHa CHaO ..^Wr-0
 
-CH2—CH*CH2
+CH2—CH\*CH2
 
 Myristixin
 
@@ -2089,4 +2089,3 @@ Việc tạo thành trầm hương chua rõ: Có người nói trầm hương đ
 Tại nhũng vùng có cây trầm hương có bệnh (tức là bắt đẩu có những điểm nâu đỏ), thì người ta thường làm nhà ở gần để canh, vì loại trầm thu được như vậy giá rất đắt, có khi gấp 20-30 lần. Một cây gió bầu có trầm cho từ 2-30kg trầm hương.
 
 Trầm hương có hình dáng, kích thước không nhất định: Có khi là miếng gổ, có khi là nhũng cục hình trụ, thường dài lOcm, rông 2-4cm, hai đầu có vết như dao cắt, có khi lại như miếng gỗ mục, mặt ngoài màu vàng nâu, có khi có những vết dọc sẫm màu, chất cứng nặng, nơi cắt ngang có thể thấy những đám nhựa màu đen hay đen nàu. Mùi thơm đạc biệt, khi đốt lên mùi thơm lại càng rõ rệt.
-

@@ -538,7 +538,7 @@ vỏ rễ cây sòi là một vị thuốc được dùng trong nhân dủn đ�
 
 Năm 1957 (Trung dược thòng báo, 5-1957) đã chứng minh được vỏ rẻ sòi có tác dụng chữa bệnh huyết hấp trùng (Schistosomiasis) gây ra lá lách và gan sừng to, bụng trướng nước, thiếu máu trầm trọng và bệnh viêm gan có tính chất truyền nhíẻm {Phúc Kiến trung >’ dược số 8-
 
-1959) với những triệu chứng nước tiểu sánh, ít, đại liểu tiện không thống, hoàng đản, sườn bên phải sưng đau, ăn uống kém ngon, sốt v.v...
+1959. với những triệu chứng nước tiểu sánh, ít, đại liểu tiện không thống, hoàng đản, sườn bên phải sưng đau, ăn uống kém ngon, sốt v.v...
 
 Đào lấy rẽ (có thể dùng vỏ thân, nhưng tác dụng kém hơn) loại bỏ lõi và lớp vỏ đen náu bèn ngoài chỉ lấy lóp vỏ lụa, có thể dùng tươi hay phơi khô tán nhỏ.
 
@@ -978,7 +978,7 @@ Hình 194, Côn bổ■ Cyperus malaccensis
 
 cồn bố ở biển, dưa lôn bờ rửa sạch bớt nước mặn và tạp chất rồi phơi khô là được.
 
-VỊ thuốc cuộn khúc lại thành cuộn hoặc bó lại thành từng bó tùy theo loại tảo mà vị thuốc *có màu nâu xanh hay đen nâu, mạt ngoài thường phủ một ít tinh thể muối, mùi tanh, vị mặn.
+VỊ thuốc cuộn khúc lại thành cuộn hoặc bó lại thành từng bó tùy theo loại tảo mà vị thuốc \*có màu nâu xanh hay đen nâu, mạt ngoài thường phủ một ít tinh thể muối, mùi tanh, vị mặn.
 
 Khi dùng người ta nhặt hết tạp chất, dùng nước rửa sạch, vớt ra để phơi hơi khô, đem cắt nhỏ chành sợi, rồi phơi khô hẳn để dùng.
 
@@ -1164,7 +1164,7 @@ Hình ỉ 98. Dứa dại - Pandanus tectorius l. Cây con 2. Cây có quá
 
 ### CÂY ĐA
 
-Tên khoa học_*: Ficus elastica Roxb, đa búp đỏ, bồ đề (đom pur): Ficus religiosa L. đa nhiều rể: Ficus macrophyllữ', đa tròn lá: Fỉcus ben^haỉensis L.*_
+Tên khoa học**: Ficus elastica Roxb, đa búp đỏ, bồ đề (đom pur): Ficus religiosa L. đa nhiều rể: Ficus macrophyllữ', đa tròn lá: Fỉcus ben^haỉensis L.**
 
 Đều thuộc họ Dâu tằm Moraceae.
 
@@ -1844,7 +1844,7 @@ i
 
 —OCHj
 
-CH * CHa
+CH \* CHa
 
 (60-80%) là một ete của phenol với một dãy alylic, 2 nhóm OCH3, một nhóm metylen dioxy có tinh thể hình kim (còn gọi là Camphre của persil). Nòi này chủ yếu gốc ở Đức. Nòi với thành phần chủ yếu là myristin (đemetoxy 2 apiol) từ
 
@@ -2311,4 +2311,3 @@ Loại cỏ cao 0,5-l,5m, toàn thân có vạch dọc và mang lông trắng, n
 B. Phàn bố, thu hái và chế biến
 
 Cây mọc hoang ỏ miên Bắc Việt Nam (quanh
-

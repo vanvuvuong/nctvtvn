@@ -464,7 +464,7 @@ Kinh _thủ thiếu âm_ hay _tâm kinh_ và kinh _thủ thái dương_ hay _ti�
 Trên cơ sở lý luận đó, ta có thể thấy.
 
 - Những vị thuốc màu vàng, vị ngọt thuộc thổ sẽ vào kinh _túc thái âm (tỳ kinh)_ và _túc dương minh (vị kinh)_.
-- Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào các kinh _thủ thái âm (phế)_ và _thủ dương minh (đại tràng)_. ( # TODO: bản gốc bị lặp từ)
+- Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào các kinh _thủ thái âm (phế)_ và _thủ dương minh (đại tràng)_.
 - Những vị thuốc màu trắng, vị cay thuộc kim sẽ đi vào kinh _thủ thái âm (phế)_ và _thủ dương minh (đại tràng)_
 - Những vị thuốc màu đen, vị mặn thuộc thủy, vào các kinh _túc thiếu âm (thận) túc thái dương (bàng quang)_.
 

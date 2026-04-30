@@ -38,7 +38,7 @@ Chữa phụ nữ sưng vú:
 
 Gai bồ kết thiêu tồn tính 40g, bạng phấn 4g. Hai vị đều tán nhỏ, trộn đều, mỗi lần uống 4g bột này.
 
-MƯỚP ĐẮNG 苦瓜
+### MƯỚP ĐẮNG 苦瓜
 
 _Còn gọi là khổ qua, cẩm lệ chi, lại bồ đào, hồng cô nương, lương qua, mướp mủ, chua hao (Mưòng-Thanh Hoá)._
 
@@ -90,7 +90,7 @@ Chữa ho:
 
 Mướp đắng 1-2 quả, nấu với nước mà uống làm 1 hay 2 lần trong ngày.
 
-TRÁM 烏榄, 白榄
+### TRÁM 烏榄, 白榄
 
 _Còn gọi là cảm lãm, trám trắng, cà na, thanh quả, đêm ta lát (Cămpuchia)._
 
@@ -160,7 +160,7 @@ Nhựa trám đen cũng lấy như nhựa trám trắng. Trong nhân trám trắ
 
 Nhựa trám đen cùng một công dụng như trám trắng. Trong nhân trám trắng và trám đen có chừng 50-65% chất dầu béo có thể dùng làm dầu chạy máy.
 
-THỊ ĐẾ 柿蒂
+### THỊ ĐẾ 柿蒂
 
 _Còn gọi là thị đinh, tai hồng, hồng._
 
@@ -220,7 +220,7 @@ Tại Trung Quốc, người ta còn dùng hồng dưới 2 dạng khác nữa:
 
 Người ta nghiên cứu thấy trong thị sương có đường manit và trong thị tất có chất tanin gọi là shibuol C₁₄H₂₇O₂.
 
-TỬ UYỂN 紫菀
+### TỬ UYỂN 紫菀
 
 _Còn gọi là thanh uyển, dã ngưu bàng._
 
@@ -294,11 +294,11 @@ Bách bộ 0,05g, lá tía tô 0,025g, trần bì 0,05 g, tử uyển 0,025g, c�
 
 Tử uyển 10g, khoản đông hoa 10g, bối mẫu 10g, cam thảo 3g, cát cánh 7g, hạnh nhân 10g, nước 600ml sắc còn 200ml. Chia làm 3 lần uống trong ngày (Đơn thuốc của Diệp Quyết Tuyền).
 
-TRÀM VÀ KHUYNH DIỆP 白千層
+### TRÀM VÀ KHUYNH DIỆP 白千層
 
 Tên tràm và khuynh diệp hiện nay thường được dùng lẫn lộn để chỉ một số cây cho tinh dầu có mùi và công dụng gần giống nhau, hoạt chất căn bản cũng như nhau, nhưng tỷ lệ hoạt chất có khác nhau, do đó cần chú ý để tránh nhầm lẫn, cũng như khi cần giới thiệu với nước ngoài.
 
-TRÀM VÀ TINH DẦU TRÀM
+### TRÀM VÀ TINH DẦU TRÀM
 
 _Còn gọi là cây chè cay, chè đồng, smach chanlos, -smach tachah (Cămpuchia), cajeputier (Pháp)._
 
@@ -364,7 +364,7 @@ Dung dịch tinh dầu tràm 5-10 hay 20% trong dầu còn được dùng với 
 
 Người ta còn dùng tinh dầu pha vào nưóc với nồng độ 2 phần nghìn để rửa các vết thương rất tốt.
 
-BẠCH ĐÀN VÀ TINH DẦU BẠCH ĐÀN 白壇
+### BẠCH ĐÀN VÀ TINH DẦU BẠCH ĐÀN 白壇
 
 _Còn gọi là cây khuynh diệp._
 

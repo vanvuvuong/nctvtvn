@@ -92,7 +92,7 @@ Hà thủ ô 1.800g thái mỏng, ngưu tất 600g thái mỏng. Hai vị trộn
 
 Hà thủ ô cạo vỏ, thái mỏng phơi cho khô, tán bột. Ngày uống 4g vào sáng sớm, chiêu thuốc bằng ruợu.
 
-HÀ THỦ Ô TRẮNG白何首烏
+### HÀ THỦ Ô TRẮNG白何首烏
 
 _Còn có tên là hà thủ ô nam, bạch hà thủ ô, củ vú bò, dây sữa bò, dây mốc, cây sừng bò cây đa lông, khâu cần cà (Thổ), khâu nước (Lạng Sơn), mã liên an, mã lìn ón, khua mak tang ning (Lào), khua khao (Luang Prabang), chừa ma sìn (Thái)._
 
@@ -148,7 +148,7 @@ Có nơi người ta sắc cây này với nước cho phụ nữ đẻ mà khô
 
 Cần chú ý nghiên cứu.
 
-SINH ĐỊA 生地黄
+### SINH ĐỊA 生地黄
 
 _Còn gọi là địa hoàng, thục địa._
 
@@ -304,7 +304,7 @@ Giã sinh địa vắt lấy nước, tẩm vào hoàng liên, lấy hoàng liê
 
 Mỗi lần uống 20 viên, mỗi ngày uống 2-3 lần.
 
-HOÀNG TINH黄精
+### HOÀNG TINH黄精
 
 _Còn gọi là củ cây cơm nếp (Lào Cai) woòng sính, kim thị hoàng tinh, cứu hoang thảo, koesd ka sat pa (Mèo Xiêng Khoảng)._
 
@@ -390,7 +390,7 @@ Củ bột hoàng tinh này không được dùng làm thuốc, mà chỉ làm t
 
 3. Một số loại hoàng tinh dễ nhầm với vị ngọc trúc giới thiệu sau đây.
 
-NGỌC TRÚC玉竹
+### NGỌC TRÚC玉竹
 
 Tên khoa học _*Polygonatum officinale All.*_
 
@@ -428,7 +428,7 @@ Trong nhân dân ngọc trúc được coi là vị thuốc bổ dùng trong tr�
 
 Theo tài liệu cổ, ngọc trúc có vị ngọt, tính hơi hàn vào 2 kinh phế và vị. Có tác dụng tư âm, nhuận táo, sinh tân khỏi khát. Dùng chữa táo nhiệt, miệng khát, phong thấp, sinh ho phát sốt, mồ hôi trộm hư lao mà sốt. Người dương suy âm thịnh, tỳ hư đờm thấp ứ trệ không dùng được.
 
-Ý DĨ 薏苡仁
+### Ý DĨ 薏苡仁
 
 _Còn gọi là dĩ mễ, dĩ nhân, ý dĩ nhân, hạt bo bo, bo bo._
 

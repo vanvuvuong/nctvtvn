@@ -14,7 +14,7 @@ Ngoài ra còn có tác dụng chữa ho lâu ngày, ho lao (Thượng Hải tru
 
 Dùng ngoài và uống chữa mụn nhọt, sưng đau, trĩ (Trung Hoa ngoại khoa tạp chí 1959, 7: 130-132).
 
-()(*)()Rau sam dược dùng trong nhân dân nhiều vùng ở nước ta và nhiều nước khác làm rau ăn: Nhân dân châu Âu ăn rau này thay xà lách, ản sống hoặc nấu chín.
+()(\*)()Rau sam dược dùng trong nhân dân nhiều vùng ở nước ta và nhiều nước khác làm rau ăn: Nhân dân châu Âu ăn rau này thay xà lách, ản sống hoặc nấu chín.
 
 Nhân dân Việt Nam và Trung Quốc dùng rau sam làm thuốc chữa ]ỵ trực trùng, giã nát đắp mụn nhọt, làm thuốc lợi tiểu tiện, tẩy giun kim.
 
@@ -22,7 +22,7 @@ Tính chất của rau sam theo các tài liệu cổ: Vị chua, tính hàn (l�
 
 Liều dùng của rau sam từ 6-12g khô dưới dạng thuốc sắc. Dùng ngoài không kể liều lượng. Dùng riêng hay phổi hợp với thuốc khác.
 
-()(*)()Chữa lỵ cho trẻ em:italic2 Rau sam tươi 250g (hay 50g rau sam khô), nước 600ml, sắc còn lOOml (]ml tương đương với 2,5g rau sam tươi hoặc
+()(\*)()Chữa lỵ cho trẻ em:italic2 Rau sam tươi 250g (hay 50g rau sam khô), nước 600ml, sắc còn lOOml (]ml tương đương với 2,5g rau sam tươi hoặc
 
 0, 50g rau sam khồ). Đơn thuốc này chỉ dùng trong ngày. Nếu muốn sắc 1 lần dùng nhiều ngày thì phải thêm vào 0,5 natri benzoal hay 0,3 nipagin để bào quản. Có thể sấc như trên rổi đóng ống, mỗi ống 5ml (không cần thêm thuổc bảo quản), chỉ cần hàn ngay và hấp tiệt trùng ngay.
 
@@ -40,7 +40,7 @@ Trẻ em chốc đầu: Giã nát rau sam tươi, thêm nước, sắc đặc b�
 
 Đái ra máu: Rau sam nấu canh ăn hằng ngày, liên tục 3-7 hôm.
 
-()(*)()ề- ()(*)()
+()(_)()ề- ()(_)()
 
 _Còn có tên khác là dây mơ lông, dây mơ tròn, thổi địt, ngưu bì đống (tên Trung Quốc). Tên khoa học Paederia tomentosa L._
 
@@ -48,19 +48,19 @@ Thuộc họ Cà phê Rubiaceae.
 
 Tầ dùng lá cây mơ tam thể.
 
-()(*)()Cây này là một thứ cây leo, lá mọc đối, hình trứng hay mác dài, gốc lá tròn hay hình tim, cuống dài, mặt lá hay bị nấm Aecidium paederiae ăn hại. Hoa tím nhạt, tràng hình ống
+()(\*)()Cây này là một thứ cây leo, lá mọc đối, hình trứng hay mác dài, gốc lá tròn hay hình tim, cuống dài, mặt lá hay bị nấm Aecidium paederiae ăn hại. Hoa tím nhạt, tràng hình ống
 
 Hình ì28. Mơ tam thể - Paederia tomentosa
 
 mọc thành xim kép ờ kẽ lá hoặc đáu cành. Quả hình cầu có đài tồn tại màu vàng nâu, bóng (Hình 128, Hm 9,4).
 
-()(*)()Cây này mọc hoang ở những hàng rào, nhiều nơi trong nước ta. Thường chỉ hái lá tươi khi dùng đến.
+()(\*)()Cây này mọc hoang ở những hàng rào, nhiều nơi trong nước ta. Thường chỉ hái lá tươi khi dùng đến.
 
-c. ()(*)()Trong cây chứa một tinh dầu rất hăng mùi bisunfua cacbon.
+c. ()(\*)()Trong cây chứa một tinh dầu rất hăng mùi bisunfua cacbon.
 
 Có tác giả (Dymock, Warden và Hooper) lấy được từ cấy này hai chất ancaloit: paederin cc và p, một chất tan trong ête kết tinh dưới dạng kim nhỏ, một chất vô định hình hơi tan trong rượu amylic, cloroíòc và benzen.
 
-()(*)()Chữa lỵ trực trùng Shiga, dùng như sau:
+()(\*)()Chữa lỵ trực trùng Shiga, dùng như sau:
 
 Lá mơ tam thể 30-50g
 
@@ -78,7 +78,7 @@ Chứ thích:
 
 3. Loài Paederia íoetida rất gần loài trên, chỉ khác là quả dẹt. Cây Leo, lá mọc đới, mỏng có mùi thối. Hoa màu tím, mọc thành xim, 4-5 lá đài liền nhau, 4-5 cánh hoa liền nhau, 4-5 nhị.
 
-()(*)()Còn gọi lờ ưà.
+()(\*)()Còn gọi lờ ưà.
 
 Tèn khoa học Camelỉia sinensis O.Ktze Ợhea chinensis Seem.).
 
@@ -86,11 +86,11 @@ Thuộc họ Chè Theaceae.
 
 Ta dùng búp và lá chè non (FoUum Theae), sao khô làm thuốc, thường gọi là chè hương hay chè tàu. Còn gọi là trà diệp.
 
-()(*)()Chè là mội cây khỏe, mọc hoang và không cắt xén có thể cao tới lOm hay hơn nữa, đường kính thân có thể tới mức một người ôm không xuể. Đôi khi mọc thành rừng gỗ trên núi đá cao. Nhưng trong khi trồng tỉa thường người ta cắt xén để tiện việc hái cho nên thường chỉ cao nhất là 2m. Nhiều cành đâm ngay từ gốc. Lá mọc so le, không rụng. Hoa to trấng, mọc ở kẽ
+()(\*)()Chè là mội cây khỏe, mọc hoang và không cắt xén có thể cao tới lOm hay hơn nữa, đường kính thân có thể tới mức một người ôm không xuể. Đôi khi mọc thành rừng gỗ trên núi đá cao. Nhưng trong khi trồng tỉa thường người ta cắt xén để tiện việc hái cho nên thường chỉ cao nhất là 2m. Nhiều cành đâm ngay từ gốc. Lá mọc so le, không rụng. Hoa to trấng, mọc ở kẽ
 
 lá, mùi rất thơm, nhiều nhị. Quả là một nang thường có ba ngăn, nhưng chỉ còn một hạt do các hạt khác bị teo đi. Quả khai bàng lối cắt ngăn, hạl không phôi nhũ, lá mẩm lớn, có chứa dau. ( Hình 129 )
 
-()(*)()Chè là một cây nguồn gốc Trang Quốc. Nhân dân Trung Quốc đă biết dùng chè từ 2.500 nâm trước công nguyên, sau tới Nhật Bản và nhiều nước châu Á khác. Hiện nay cẵy chè được trổng ở nhiều nước. Liên Xõ cũ cũng rất phát triển việc trồng chè.
+()(\*)()Chè là một cây nguồn gốc Trang Quốc. Nhân dân Trung Quốc đă biết dùng chè từ 2.500 nâm trước công nguyên, sau tới Nhật Bản và nhiều nước châu Á khác. Hiện nay cẵy chè được trổng ở nhiều nước. Liên Xõ cũ cũng rất phát triển việc trồng chè.
 
 Ở nước ta chè được trổng nhiều nhất tại các tỉnh Phú Thọ, rồi tới Tuyên Quang, Hà Giang, Thái Nguyên, các tỉnh miền Nam cũng trổng rất nhiều (Quảng Nam, Đà Nẵng, Nghĩa Bình, Đắc Lắc, Lâm Đồng).
 
@@ -98,11 +98,11 @@ Chè dùng làm thuốc hái vào mùa xuân: Hái búp và lá non. Vò rồi s
 
 Không dùng chè đen hay chè mạn là những loại chè đã cho lên men rổi mới phơi hay sấy khô.
 
-()(*)()Trong lá có chứa tới 20% tamin là một chất có tác dụng làm săn da, sát khuẩn mạnh. Ngoài ra còn cafein với tỷ lệ 1,5-5%, một sổ vitamin B|( B2 và c.
+()(\*)()Trong lá có chứa tới 20% tamin là một chất có tác dụng làm săn da, sát khuẩn mạnh. Ngoài ra còn cafein với tỷ lệ 1,5-5%, một sổ vitamin B|( B2 và c.
 
 Đặc biệt tanin trong chè có tác dụng như một vitamin p vì đày là hỗn hợp của các catechin và dẫn xuất của catechin có cấu trúc hóa học của vitamin p.
 
-()(*)()Chè được dùng pha nước uống, làm thuoc kích thích do caíein và chữa lỵ theo như đơn sau đây:
+()(\*)()Chè được dùng pha nước uống, làm thuoc kích thích do caíein và chữa lỵ theo như đơn sau đây:
 
 Chè hương lOOg
 
@@ -126,15 +126,15 @@ Lấy lOg nước chè, sắc trong nửa giờ, rổi lọc. Mỗi ngày thụt
 
 Đơn thuốc này đã được áp dụng có kết quả ở một số bệnh viện Trung Quốc và Việt Nam (Nà Sản) để điểu trị các trường hợp lỵ do trùng Shiga.
 
-()(*)()£fâ)ỈL ()(*)()
+()(_)()£fâ)ỈL ()(_)()
 
 Tức là vỏ quả cây thạch lựu Perìcarpium granati (đã nói ở trèn - mục thuốc trị giun sán).
 
-()(*)()Trong vỏ quả lựu chứa chừng 28% chất tanín và chất màu.
+()(\*)()Trong vỏ quả lựu chứa chừng 28% chất tanín và chất màu.
 
 Các chất này có tính chất làm săn da và sát khuẩn mạnh.
 
-()(*)()Ngày dùng 15-20g (hoặc hơn) dưới dạng
+()(\*)()Ngày dùng 15-20g (hoặc hơn) dưới dạng
 
 thuốc sắc vổi nước. Có thể cho thêm đường và tinh dầu thơm (như tính dầu chanh, cam, cho dễ uống).
 
@@ -142,7 +142,7 @@ Thời gian điều trị 7 đến 10 ngày.
 
 Có thể pha để lâu như sau:
 
-()(*)()2000g()(*)()Nước vừa đủ
+()(_)()2000g()(_)()Nước vừa đủ
 
 Sacarin hoặc đường cho vừa đủ ngọt.
 
@@ -156,15 +156,15 @@ Tại một bệnh viện Trung Quốc người ta đã dùng thử nước sắ
 
 Mùa thu hoạch vỏ quả lựu: Mùa hè.
 
-()(*)()
+()(\*)()
 
 Hoàng liên (Coptis - Rhizoma Coptidis) là thân rẽ phơi khô của nhiều loài hoàng liên chân gà như Coptis quinquesecta, Coptis sìnensis Franch, Coptis tceta Wall., Coptis teetoides c. Y. Cheng v.v... đều thuộc họ Mao lương Ranunculaceae.
 
-()(*)()Hoàng liên là một loại cây cỏ nhỏ, sống lâu năm, cao độ 20-35cm. Lá mọc so le từ thân rễ, có cuống đài. Phiến lá gồm 3-5 lá chét. Mỗi lá chét lại chia thành nhiều thùy, mép có răng cưa to. Đầu mùa xuân sinh trục mang hoa dài chừng
+()(\*)()Hoàng liên là một loại cây cỏ nhỏ, sống lâu năm, cao độ 20-35cm. Lá mọc so le từ thân rễ, có cuống đài. Phiến lá gồm 3-5 lá chét. Mỗi lá chét lại chia thành nhiều thùy, mép có răng cưa to. Đầu mùa xuân sinh trục mang hoa dài chừng
 
 lOcm. Đầu trục có 3-4 hoa màu trắng, nhiểu lá noãn rời nhau ( Hình 130, 131).
 
-()(*)()Cây hoàng liên mọc hoang ở các vùng núi cao '1.500-2.000m tại Lào Cai (Sapa), dãy núi Hoàng Liên Sơn, khu Tây Bắc. Tuy nhiên chưa đủ nhu cầu dùng trong nước và xuất khẩu.
+()(\*)()Cây hoàng liên mọc hoang ở các vùng núi cao '1.500-2.000m tại Lào Cai (Sapa), dãy núi Hoàng Liên Sơn, khu Tây Bắc. Tuy nhiên chưa đủ nhu cầu dùng trong nước và xuất khẩu.
 
 Muốn trồng hoàng liên, chọn các quả già nhưng chưa nứt vỏ. Hái quả về phơi, khi vò nứt, sẽ chọn các hạt mập, chắc, có hạt phải tranh thủ gieo ngay, để lấu sẽ mất khả năng mọc. Nếu chưa gieo ngay phải lấy đất lẫn cát ẩm trộn với hạt. Trong vòng một tháng phải trổng, để lâu không mọc nữa.
 
@@ -178,9 +178,9 @@ Khi cây đã có 5-6 lá thì sẽ nhổ lên trổng cố định tại nơi k
 
 Sau 5 năm bắt đầu có thể thu hoạch, cần thu hoạch vào thu đông, nếu để sang xuân chất lượng sẽ kém. Hoàng liên hái về, rửa sạch, phơi hay sấy khô là được.
 
-c. ()(*)()Trong hoàng liên có chừng 7% ancaloit toàn phẩn trong đó chủ yếu là chất becbérin
+c. ()(\*)()Trong hoàng liên có chừng 7% ancaloit toàn phẩn trong đó chủ yếu là chất becbérin
 
-()(*)()Ngoài ra còn có chất panmatin C2|H23N05. coptisin C[5H)5N05, worenin C2|H1SN04, columbamin C20H20NO4 (OH).
+()(\*)()Ngoài ra còn có chất panmatin C2|H23N05. coptisin C[5H)5N05, worenin C2|H1SN04, columbamin C20H20NO4 (OH).
 
 hoàng liên có tác dụng đối với trùng Staphỵloccus aureus với Streptococ hemolytique, trực trùng ho gà, thương hàn, phó thương hàn, lỵ, lao v.v...
 
@@ -198,7 +198,7 @@ hoàng liên có tác dụng đối với trùng Staphỵloccus aureus với Str
 
 ch2
 
-()(*)()Tác dụng chống Ví trùng
+()(\*)()Tác dụng chống Ví trùng
 
 1 . D.v. Lebedev đã thí nghiệm và chứng minh
 
@@ -226,13 +226,13 @@ Tên khoa học _*Berberis waỉlỉchiana DC.*_
 
 Thuộc họ Hoàng liên gai Berheridaceae.
 
-()(*)()Cây bụi, cao 2-3m có những cành vươn đài, vỏ thân màu vàng xám nhạt, mỗi đốt, dưới chùm lá có gai ba nhánh, dài l-l,5cm. Lá mọc thành chùm 3-4 lá, có khi tới 8 lá ờ một đốt. Cuống lá ngắn 0,5-1 cm, phiến lá nguyên, hình mác, mép có răng cưa to, cứng, dài 16-17cm, rộng 4-6cm, mặt trên màu xanh lục nhạt, mặt dưới màu trắng. Hoa màu vàng, mọc thành chùm. Quả mọng hình trái xoan, dài khoảng lcm mọc trên một cuống dài 30-35mm, khi chín có màu tím đen trong chứa 3, 4 hạt đen dài 5-6 mm, rộng 2-3 mm.
+()(\*)()Cây bụi, cao 2-3m có những cành vươn đài, vỏ thân màu vàng xám nhạt, mỗi đốt, dưới chùm lá có gai ba nhánh, dài l-l,5cm. Lá mọc thành chùm 3-4 lá, có khi tới 8 lá ờ một đốt. Cuống lá ngắn 0,5-1 cm, phiến lá nguyên, hình mác, mép có răng cưa to, cứng, dài 16-17cm, rộng 4-6cm, mặt trên màu xanh lục nhạt, mặt dưới màu trắng. Hoa màu vàng, mọc thành chùm. Quả mọng hình trái xoan, dài khoảng lcm mọc trên một cuống dài 30-35mm, khi chín có màu tím đen trong chứa 3, 4 hạt đen dài 5-6 mm, rộng 2-3 mm.
 
 Mùa quả ò Sapa: tháng 5-6 (Hình 132, Hm 8,3).
 
-()(*)()Cây hoàng liên gai mọc hoang ở Sapa (quanh thị trấn) và trên những vùng núi cao tỉnh Lào Cai. Theo .tài liệu cũ, nhân dân Sapa gọi cây này là hoàng mù (có lẽ do chữ hoàng mộc là gỗ màu vàng) nhưng trên thực tế điều tra, chúng tôi thấy ít người biết tên này. Cho nên vào nãm 1961, khi chúng tôi phát hiện lại chúng tôi tạm đặt tên là hoàng liên gai (để phân biệt với cây hoàng liên cũng mọc ở đây nhưng thuộc họ Mao lương, xem vị này). Ta có thể dùng thân cây và rễ cây. Thân và rễ đào về cắt ngắn, thái mỏng hay phơi hay sấy khô mà dùng. Không phải chế biến gì khác. Có thể trồng cây này bằng hạt, cây mọc rất dễ dàng tại quanh thị trấn Sapa. Cho tới nay chua ai chú ý phất triển trồng. Chỉ dựa vào nguồn mọc hoang. Cần đặt vấn đề trồng để bảo đảm nguồn lợi lâu dài.
+()(\*)()Cây hoàng liên gai mọc hoang ở Sapa (quanh thị trấn) và trên những vùng núi cao tỉnh Lào Cai. Theo .tài liệu cũ, nhân dân Sapa gọi cây này là hoàng mù (có lẽ do chữ hoàng mộc là gỗ màu vàng) nhưng trên thực tế điều tra, chúng tôi thấy ít người biết tên này. Cho nên vào nãm 1961, khi chúng tôi phát hiện lại chúng tôi tạm đặt tên là hoàng liên gai (để phân biệt với cây hoàng liên cũng mọc ở đây nhưng thuộc họ Mao lương, xem vị này). Ta có thể dùng thân cây và rễ cây. Thân và rễ đào về cắt ngắn, thái mỏng hay phơi hay sấy khô mà dùng. Không phải chế biến gì khác. Có thể trồng cây này bằng hạt, cây mọc rất dễ dàng tại quanh thị trấn Sapa. Cho tới nay chua ai chú ý phất triển trồng. Chỉ dựa vào nguồn mọc hoang. Cần đặt vấn đề trồng để bảo đảm nguồn lợi lâu dài.
 
-()(*)()Trong thân và rễ hoàng liên gai đều chứa
+()(\*)()Trong thân và rễ hoàng liên gai đều chứa
 
 becberín. Hàm lượng đạt tới 3-4% (Đỗ Tất Lợi, 1963).
 
@@ -242,7 +242,7 @@ Hoàng liên gai được dùng làm thuốc chữa đi lỵ, đau mất, ăn u�
 
 Hoàng liên gai ngâm rượu uống chữa những triệu chứng của huyết áp cao như hoa mắt, nhức đẩu, chóng mặt, đau ngang lưng. Rượu hoàng liên gai ngậm chữa đau răng.
 
-()(*)()Chữa đì lỵ:italic2 Hoàng liên gai 4g, nước 150ml,
+()(\*)()Chữa đì lỵ:italic2 Hoàng liên gai 4g, nước 150ml,
 
 _Còn gọi ỉ à thập đại công lao (Trung Quốc)._
 
@@ -250,19 +250,19 @@ Tên khoa học _*Mahonia healii Cam*_
 
 Thuộc họ Hoàng liên gai Berberidaceae.
 
-()(*)()Cây nhỏ cao 3-4m, cành không có gai. Lá kép dìa lẻ, đài 30 cm có hai gai nhỏ ở phía cuống lá, 5-7 lá chét hình trứng Hình 131. Hoàng liên ô rô đầu nhọn sắc, phía cuống tròn, dài 6- lOcm, rộng 20-45mm, mỗi bên 3-8 răng sắc ngắn dài 3-6mm. Cụm hoa tận cùng mọc thành bông, phân cành ờ phía dưới, nhiều hoa. Lá bắc hai lần ngắn hơn cuống hoa phụ. Hoa màu vàng nhạt. Lá đài 9 xếp thành 3 lớp, mỗi lớp 3. Cánh tràng 6. Nhị 6. Bầu hình nón, phình ở giữa. Quả mọng màu xanh hình cầu ( Hình 133 ).
+()(\*)()Cây nhỏ cao 3-4m, cành không có gai. Lá kép dìa lẻ, đài 30 cm có hai gai nhỏ ở phía cuống lá, 5-7 lá chét hình trứng Hình 131. Hoàng liên ô rô đầu nhọn sắc, phía cuống tròn, dài 6- lOcm, rộng 20-45mm, mỗi bên 3-8 răng sắc ngắn dài 3-6mm. Cụm hoa tận cùng mọc thành bông, phân cành ờ phía dưới, nhiều hoa. Lá bắc hai lần ngắn hơn cuống hoa phụ. Hoa màu vàng nhạt. Lá đài 9 xếp thành 3 lớp, mỗi lớp 3. Cánh tràng 6. Nhị 6. Bầu hình nón, phình ở giữa. Quả mọng màu xanh hình cầu ( Hình 133 ).
 
 Hình J(33. Hoàng lién ô rô - Mahonia bealii
 
-()(*)()Năm 1967, cây này mới được đoàn điều tra dược liệu của tỉnh Lào Cai, do Trường đại liọc dược khoa giúp về chuyên môn phát hiộn Lần đầu tiên ờ vùng núi cao huyộn Bát Xát. Nhân dân ở đây vẫn dùng như vị hoàng liên hay hoàng bá. Tên hoàng liên ô rô chúng tôi đặt cho vì lá giống cây ô rô, tác dụng như hoàng liên. Thường hái thân về, thái thành từng đoạn ngắn phơi khô, hoặc sắc uống hay tán bột uống. Khỏng có chế biến gì khác.
+()(\*)()Năm 1967, cây này mới được đoàn điều tra dược liệu của tỉnh Lào Cai, do Trường đại liọc dược khoa giúp về chuyên môn phát hiộn Lần đầu tiên ờ vùng núi cao huyộn Bát Xát. Nhân dân ở đây vẫn dùng như vị hoàng liên hay hoàng bá. Tên hoàng liên ô rô chúng tôi đặt cho vì lá giống cây ô rô, tác dụng như hoàng liên. Thường hái thân về, thái thành từng đoạn ngắn phơi khô, hoặc sắc uống hay tán bột uống. Khỏng có chế biến gì khác.
 
 Theo tài liệu cũ, chỉ nói thấy phát hiện ỏ miền nam, vùng cao nguyên Langbiang (Lâm Đồng), và được xác định tên khoa học là Mahonia annamica Gagne. cùng họ.
 
-()(*)()Trong thân cây hoàng liên ô rô có từ 0,35 đến 2,5% becberin.
+()(\*)()Trong thân cây hoàng liên ô rô có từ 0,35 đến 2,5% becberin.
 
 Trong một loài hoàng liên ô rô Mahonia /ortunei (Fort.) Caư. có khoảng 0,3% ancaloit, trong đó chủ yếu là becberin, panmatin, jatrorrhizin, magnof]orin, oxyacanthin, và becbamin (Dược học tạp chí , 1952, 72, 773).
 
-()(*)()Hoàng liên ô rô được nhân dân dùng chữa lỵ, án uống không tiêu, vàng da, đau mắt. Dùng ngoài chữa mẩn ngứa mụn nhọt. Mỗi ngày dùng
+()(\*)()Hoàng liên ô rô được nhân dân dùng chữa lỵ, án uống không tiêu, vàng da, đau mắt. Dùng ngoài chữa mẩn ngứa mụn nhọt. Mỗi ngày dùng
 
 4 đến 12g dưới dạng thuốc sắc hay thuốc bột.
 
@@ -276,7 +276,7 @@ Tên khoa học _*Fibraurea tìnctoria Lour. (Fibraurea recisa Pierre).*_
 
 Thuộc họ Tiết dê Menispermaceae.
 
-()(*)()Có tác giả gộp hai cây hoàng đằng Pibraurea iinctoria và Fibraurea recisa làm một loài; nhưng có tác giả phân thành hai loài khác nhau.
+()(\*)()Có tác giả gộp hai cây hoàng đằng Pibraurea iinctoria và Fibraurea recisa làm một loài; nhưng có tác giả phân thành hai loài khác nhau.
 
 1. Cây hoàng đầng Fibraurea recisa là một loài cây mọc leo, thân rất cứng to. Lá mọc so le, dài 9-20cm, rộng 4-10cm, cống, nhẵn phiến lá
 
@@ -288,11 +288,11 @@ hình ba cạnh dài, phía dưới tròn, có ba gân chính rõ và hai gân c
 
 2. Cây Fibraurea tinctoria theo các tác giả chia làm hai loài thì khác cây trên ở chỗ lá nhọn, chùy hai đến bón lần ngắn hơn, chi phân nhánh hai lần ihôi.
 
-()(*)()Mọc hoang khắp nơi ở vùng núi nước ta như Cao Bằng, Lạng Sơn, Hà Tây, Hoà Bình, Thanh Hóa, Hà Giang, Tuyên Quang, Nghệ An, Hà Tỉnh, v.v...
+()(\*)()Mọc hoang khắp nơi ở vùng núi nước ta như Cao Bằng, Lạng Sơn, Hà Tây, Hoà Bình, Thanh Hóa, Hà Giang, Tuyên Quang, Nghệ An, Hà Tỉnh, v.v...
 
 Mùa thu hoạch gần quanh nãm. Có thể thu hoạch cả cây, cắt thành từng đoạn thân hoặc có thể chỉ lấy rễ thỏi. Nhưng (hường dùng cả thân và rễ cắt thành từng đoạn ngắn 15 20cm, phơi hay sấy khô. Không phải chế biến gì khác.
 
-()(*)()Trong hớàng đằng chủ yếu là panmatin với tỷ lệ 1 đến 3%. Ngoài ra còn có một ít jatrorrhizin, columbamin.
+()(\*)()Trong hớàng đằng chủ yếu là panmatin với tỷ lệ 1 đến 3%. Ngoài ra còn có một ít jatrorrhizin, columbamin.
 
 Theo Irokawa và cộng sự (Phytochemistry, 28,
 
@@ -300,7 +300,7 @@ Theo Irokawa và cộng sự (Phytochemistry, 28,
 
 diterpenglycosìt là tenophylloloside 3, fibleucìnosiđe 4 và íibraurinosìde 5. Trước đó một số tác giả đã phát hiện 2 diterpen khác là fibleucine 1 và fibraucine 2.
 
-()(*)()Theo Phạm Duy Mai và cộng sự thì panmatin clorua chỉ có tác dụng ức chế đối với vi trùng Staphyỉlococ và Streptacoc, còn đối với các loại vi trùng khác (lỵ, thương hàn...) thì không thấy có kết quả rõ rệt. Tác dụng ức chế vi trùng của panmatin clorua kém các loại kháng sinh thông thường (1962).
+()(\*)()Theo Phạm Duy Mai và cộng sự thì panmatin clorua chỉ có tác dụng ức chế đối với vi trùng Staphyỉlococ và Streptacoc, còn đối với các loại vi trùng khác (lỵ, thương hàn...) thì không thấy có kết quả rõ rệt. Tác dụng ức chế vi trùng của panmatin clorua kém các loại kháng sinh thông thường (1962).
 
 Liều độc DL-50 trên chuột nhắt trắng (tiêm mạch) là 18mg/kg thể trọng. DL-50 uống đối với chuột nhắt trắng là 57 V,5mg/kg. Đến nãm 1968, thí nghiệm lại, Phạm Duy Mai lại thấy DL-50 uống đối với chuột nhắt trắng lên tới ỉ ,260mg/kg.
 
@@ -318,7 +318,7 @@ Liều dùng của viên panmatin như sau: Người lớn dùng viên 0,02g. Ng
 
 viên. Có thể tăng liều này lên tới 20-30 viên một ngày. Trẻ em dưới 3 tuổi nẽn đùng viên 5mg, 1 tuổi cho uống từ 2 đến 4 viên một ngày, 2 tuổi - 3-6 viên/ngày, 3 tuổi 4-8 viên/ngày. Liều hàng ngày chia làm 2 hay 3 lần uống.
 
-()(*)()italic2 Hoàng đằng tán bột làm thành viên 0,0Ig.
+()(\*)()italic2 Hoàng đằng tán bột làm thành viên 0,0Ig.
 
 Ngày uống 10-20 viên (Nguyễn Tử Độ, 1968. Y học thực hành (154): 29).
 
@@ -328,7 +328,7 @@ Chú ý:
 
 Tránh nhầm hoàng đằng với cây bánh nem Bowringia callicarpa thuộc họ Cánh bướm- Pabaoeae (Papilionaceae).
 
-()(*)()
+()(\*)()
 
 _Còn gọi lá tờ rôn, nhân sâm, sàm nam, plou, plou bat (Cămpuchia)._
 
@@ -336,19 +336,19 @@ Tên khoa học _*Cỵclea peltata Hook. et. Thw ịCoccuỉus pehatus DC).*_
 
 Thuộc họ Tiết dê Menispermaceae.
 
-()(*)()Dây leo to, đường kính 3-6ctn, thân và cành có rãnh dọc, màu trắng ngà, có lòng. Thân già màu xám xù xì. cát ngang có hình bánh xe với những tia tủy hình nan hoa bánh xe, màu vàng tươi. Lá có cuống dính ờ 1/5 đến 1/7 của phiến,
+()(\*)()Dây leo to, đường kính 3-6ctn, thân và cành có rãnh dọc, màu trắng ngà, có lòng. Thân già màu xám xù xì. cát ngang có hình bánh xe với những tia tủy hình nan hoa bánh xe, màu vàng tươi. Lá có cuống dính ờ 1/5 đến 1/7 của phiến,
 
 Hình J35. Hoàng đằng chân vịt - Cycỉea peltata
 
 phiến hình ba cạnh, nhọn, đầu tận cùng bằng một móc hình sợi, dài 20-24cm, rộng 14-16cm, mặt trên màu xanh tươi, mặt duới màu trắng ngà, gân lá hình chân vịt có 5-9 gân tỏa ra xung quanh. Vì thân và rẽ có màu vàng như cây hoàng đàng, nhưng lá có gân hình chân vịt, do đó được đat tên hoàng đằng chân vịt để phân biệt với cây hoàng đằng. Cuống lá chỉ ngắn 2 phần chiều dài của lá. Cụm hoa mọc ở kẽ lá, phân nhánh, nhánh phía dưới dài hơn, có thể dài tới 7cm. Hoa hình đầu hay hình trứng. Quả hạch hình cầu, hơi dẹt, có phủ lông, đường kính 5mm. Nhân hình mắt chim, lồi ở hai mặt, vói 8 vòng đồng tâm những mấu xù xì ( Hình 135 ).
 
-()(*)()Mọc hoang dại ờ miền nam nước ta, từ Quảng Nam, Quảng Ngãi trở vào. Còn thấy mọc ớ Cămpuchia.
+()(\*)()Mọc hoang dại ờ miền nam nước ta, từ Quảng Nam, Quảng Ngãi trở vào. Còn thấy mọc ớ Cămpuchia.
 
 Người ta dùng thán cây và rễ cây hoàng đẳng chân vịt. Thu hái gần như quanh năm. Hái về thái mỏng, phơi hoặc sáy khô. Không phải chế biến gì đặc biệt. Có nơi dùng thân để nhai cùng với trầu khòng.
 
-()(*)()Trong hoàng đàng chân vịt, có ancaloit, chủ yếu là becberin với tỷ lệ từ 1,5 đến 2% (Nguyễn Liêm và cộng sự, 1975).
+()(\*)()Trong hoàng đàng chân vịt, có ancaloit, chủ yếu là becberin với tỷ lệ từ 1,5 đến 2% (Nguyễn Liêm và cộng sự, 1975).
 
-()(*)()Hoàng đằng chân vịt được nhân dân dùng làm thuốc nhuộm vàng.
+()(\*)()Hoàng đằng chân vịt được nhân dân dùng làm thuốc nhuộm vàng.
 
 Trong điều trị, hoàng đằng chân vịt dùng chữa bệnh đau mất, ỉa chảy lỵ, sổt, sổt rét, bệnh về gan, mật, lòi dom.
 
@@ -364,11 +364,11 @@ Tên khoa học _*Coscinium usitatum Pierre.*_
 
 Thuộc họ Tiết dê Menispermaceae.
 
-()(*)()Vang đằng là một cây leo to, có phân nhánh, mọc bò trên mặt đất hoặc leo lén những cây gỗ cao. Thân hình trụ, đường kính 5-10cm. Thân non màu trắng bạc, thãn già mà lí ngà, xù xì, có vết tích của lá rụng, cắt ngang thân có hình bánh xe với những tia tủy như nan hoa bánh xe, màu vàng, giữa có vòng lõi tủy xốp. Lá mọc so le, mặt trên xanh, mặt dưới màu trắng nhạt, dài 15- 30cm, rộng 10-20cm, có 5 gân (3 gân nổi rõ). Mặt dưới có phủ lông tơ. Hoa màu trắng phớt tím, mọc thành xim ở kẽ lá. Cuống hoa rất ngắn. Rể hình trụ, đầu thuôn hình nón, mặt ngoài màu trắng nhạt, mặt trong màu vàng, cắt ngang có hình bánh xe với nhũng tia tủy hình nan hoa. Vị đắng. (Hình 136, Hm 9,2).
+()(\*)()Vang đằng là một cây leo to, có phân nhánh, mọc bò trên mặt đất hoặc leo lén những cây gỗ cao. Thân hình trụ, đường kính 5-10cm. Thân non màu trắng bạc, thãn già mà lí ngà, xù xì, có vết tích của lá rụng, cắt ngang thân có hình bánh xe với những tia tủy như nan hoa bánh xe, màu vàng, giữa có vòng lõi tủy xốp. Lá mọc so le, mặt trên xanh, mặt dưới màu trắng nhạt, dài 15- 30cm, rộng 10-20cm, có 5 gân (3 gân nổi rõ). Mặt dưới có phủ lông tơ. Hoa màu trắng phớt tím, mọc thành xim ở kẽ lá. Cuống hoa rất ngắn. Rể hình trụ, đầu thuôn hình nón, mặt ngoài màu trắng nhạt, mặt trong màu vàng, cắt ngang có hình bánh xe với nhũng tia tủy hình nan hoa. Vị đắng. (Hình 136, Hm 9,2).
 
-()(*)()Mọc hoang dại rất phổ biến ở vùng rừng núi miền đông Nam bộ, nam Trung bộ, Tây nguyên. Còn thấy mọc nhiều ở trung và hạ Lào, Cămpuchia. Trữ lượng khá nhiều. Người ta dùng thân và rễ, thu hái gần như quanh nãm. Hái về thái mỏng phơi hay sấy khồ. Không phải chế biến gì khác.
+()(\*)()Mọc hoang dại rất phổ biến ở vùng rừng núi miền đông Nam bộ, nam Trung bộ, Tây nguyên. Còn thấy mọc nhiều ở trung và hạ Lào, Cămpuchia. Trữ lượng khá nhiều. Người ta dùng thân và rễ, thu hái gần như quanh nãm. Hái về thái mỏng phơi hay sấy khồ. Không phải chế biến gì khác.
 
-()(*)()Trong vàng đàng có nhiều ancaloit dẫn xuất của izoquinolein, chủ yếu là becberin. Tỷ lệ becberin chiếm từ 1,5 đến 2-3 % (Nguyễn Liêm và cộng sự, 1975).
+()(\*)()Trong vàng đàng có nhiều ancaloit dẫn xuất của izoquinolein, chủ yếu là becberin. Tỷ lệ becberin chiếm từ 1,5 đến 2-3 % (Nguyễn Liêm và cộng sự, 1975).
 
 Hìnk ỉ36. Vàng đằng - Coscìnium usitatum
 
@@ -384,7 +384,7 @@ Có thể dùng làm nguyên iiệu chiết becberin. Becberín clorua có thể
 
 Dùng ngoài: Chế thuốc đau mắt dưới dạng dung dịch 0,5% đến 1%.
 
-### THỔ HOÀNG LIÊN ()(*)(
+### THỔ HOÀNG LIÊN ()(\*)(
 
 Tên khoa học _*Thaỉicírum ỷoỉioỉosum D.c. Thuộc họ Mao lương Ranunculaceae.*_
 
@@ -400,9 +400,9 @@ Hình 137. Thổ hoàng liên - Thaỉictrum ỷoỉiolosum
 
 tai bèo, phiến lá dài, lá màu xanh lục, mặt dưới nhạt hơn. Hoa nhỏ, cánh mỏng hơi phớt tím. Quả nhỏ, hình hạt thóc, đầu hơi có mỏ. Thân rễ to, thô đường kính 0,3-0,5cm có nhiều mấu, mấu cách nhau chừng 0,5-lcm, bẻ ngang thấy rất nhiều xơ, thịt màu vàng tươi, vàng trắng ( Hình 137).
 
-()(*)()Mới phát hiện mọc nhiều ờ vùng Tây tìắc nhiều nhất ở vùng Tủa Chùa. Đã đem trồng thí nghiệm tại vườn thuốc Sapa (Lào Cai) và Tầm Đảo (Vĩnh Phúc). Cây mọc tốt, ra hoa kết quả, rất đễ phát triển. Tuy nhiên cho đến năm 1967 chưa được đạt thành vấn đề trồng trên quy mô lớn. Chúng lôi cũng đã thí nghiệm trổng ờ đồng bằng, nhưng sang mùa nóng cây khô héo và chết.
+()(\*)()Mới phát hiện mọc nhiều ờ vùng Tây tìắc nhiều nhất ở vùng Tủa Chùa. Đã đem trồng thí nghiệm tại vườn thuốc Sapa (Lào Cai) và Tầm Đảo (Vĩnh Phúc). Cây mọc tốt, ra hoa kết quả, rất đễ phát triển. Tuy nhiên cho đến năm 1967 chưa được đạt thành vấn đề trồng trên quy mô lớn. Chúng lôi cũng đã thí nghiệm trổng ờ đồng bằng, nhưng sang mùa nóng cây khô héo và chết.
 
-Thu hoạch tốt nhất vào thu đông, nhưng vì mùa này cây lụi đi khó tìm, khí hâu lại rét quá, ít ai đi tìm đào, cho nên thường khai thác vào các tháng 6, 7,8. Háì về rửa sạch đất cát, cắt bỏ rễ nhỏ, phơi hay sắy khô. Không phải chế biến gì đặc biệt. Ta nên nghiên cứu trồng phát triển tại những vùng có khí hậu mát ở nước ta. ()(*)()
+Thu hoạch tốt nhất vào thu đông, nhưng vì mùa này cây lụi đi khó tìm, khí hâu lại rét quá, ít ai đi tìm đào, cho nên thường khai thác vào các tháng 6, 7,8. Háì về rửa sạch đất cát, cắt bỏ rễ nhỏ, phơi hay sắy khô. Không phải chế biến gì đặc biệt. Ta nên nghiên cứu trồng phát triển tại những vùng có khí hậu mát ở nước ta. ()(\*)()
 
 VỊ thuốc tiêu thụ trên thị trường ở nước ta là những mẩu thân rễ cắt thành từng đoạn ngấn, 2-4cm, đưòmg kính 0,2-0,5cm. Mặt ngoài màu nâu sẫm, còn mang những đoạn thân ngấn, rỗng, đường kính 0,3-0,5cm. Trên có những rể nhỏ màu vàng trắng dài hay sẹo của rẻ nhỏ. Thân rễ rắn cứng, mặt bẻ gẫy không phảng, màu vàng tươi. VỊ rất đắng.
 
@@ -420,11 +420,11 @@ Thổ hoàng liên tán bột có màu vàng xám, tươi dưới tia ngoại t�
 
 Lấy một ít bột, đạt lên tấm kính, thêm một giọt cồn 95°, một giọt axít nitric 30% đậy kính mỏng, chờ 5-10 phút, nhìn qua kính hiển vi sẽ thấy tinh thể hình kim màu vàng tươi (becberin nitrat). Ta có thể lấy một ít bột, đặt trên kính và thêm 1 giọt axit clohydric, chờ 15-20 phút sẽ thấy tinh thể becberin hình kim. Lấy chừng 30mg bột, cho vào ống nghiệm, nhỏ thêm độ 3ml nước cất, lắc vài phút, lọc lấy 2ml, cho vào ống nghiệm khác, thêm lml axit suníuaric đặc 35%, nhỏ dấn dần vào ống nghiệm lml nước clo, nơi phân cách 2 dung dịch sẽ thấy một vòng màu đỏ.
 
-()(*)()Trong thổ hoàng liên có khoảng 3% becberin,
+()(\*)()Trong thổ hoàng liên có khoảng 3% becberin,
 
 0, 3% panmatin, 0,02% jatrorrhizin. Ngoài ra còn một ít thalictrin nhưng có khi không thấy chất này (C. /ì. 1942, 36, 5478 a và c. A. 1953, 47, 1166311).
 
-()(*)()Như vị hoàng liên. Ngày dùng từ 4 đến 6g chia làm 2 hoặc ba lần uống dưới dạng thuốc bột hay làm thành viên. Dạng thuốc sắc quá đắng khó uống. Dùng ngoài cũng để chữa đau mắt, mụn nhọt như hoàng liên bấc.
+()(\*)()Như vị hoàng liên. Ngày dùng từ 4 đến 6g chia làm 2 hoặc ba lần uống dưới dạng thuốc bột hay làm thành viên. Dạng thuốc sắc quá đắng khó uống. Dùng ngoài cũng để chữa đau mắt, mụn nhọt như hoàng liên bấc.
 
 Tẽn khoa học Cyclea bicristata Diels.
 
@@ -432,9 +432,9 @@ Thuộc họ Tiết dê Menispermaceae.
 
 _Còn gọi là sâm hai sóng._
 
-()(*)()Loại cây leo, đường kính gốc thân có thể đạt 8-10cm, thân dài 20cm hoặc hơn. Trên thân cây thỉnh thoảng có u lồi, vỏ màu ngà vàng, cát ngang thân có màu vàng tươi với nhiều vòng tẩng tăng trưởng. Các tia tủy xếp xít nhau thành hình nan hoa. Cây chứa nhiều nước, nhấm có vị đắng. Cuống lá dài, hai đầu phình, phiến lá hình tim, dài 10-12cm, rộng 8-9cm, lá đơn nguyên, mọc cách, măt lá xanh sẫm, khôong có lông lá, có 5 gân nổi rõ. Phát hoa trên phần giá, hoa đực không cánh, đài dính, 4-5 bao phấn hoa cái có cánh hoa bằng nửa lá đài. Quả tròn 4mm.
+()(\*)()Loại cây leo, đường kính gốc thân có thể đạt 8-10cm, thân dài 20cm hoặc hơn. Trên thân cây thỉnh thoảng có u lồi, vỏ màu ngà vàng, cát ngang thân có màu vàng tươi với nhiều vòng tẩng tăng trưởng. Các tia tủy xếp xít nhau thành hình nan hoa. Cây chứa nhiều nước, nhấm có vị đắng. Cuống lá dài, hai đầu phình, phiến lá hình tim, dài 10-12cm, rộng 8-9cm, lá đơn nguyên, mọc cách, măt lá xanh sẫm, khôong có lông lá, có 5 gân nổi rõ. Phát hoa trên phần giá, hoa đực không cánh, đài dính, 4-5 bao phấn hoa cái có cánh hoa bằng nửa lá đài. Quả tròn 4mm.
 
-Tầ có thể phân biệt giữa 3 cây hoàng đằng, vàng đằng và hoàng đằng loong trơn dựa theo một sô' đặc điểm sau đây: mọc ở Định Quán), Cyclea tonkinensis Gagn. (Dây sâm nam đỏ phát hiện ờ Quảng Trị), Cyclea barbata Miers (Dây sâm, sâm lông thấy mọc ờ cấc tỉnh phía Nam tới Nha Trang), được nhân dân trồng để lấy lá dùng với tên Nhân sâm, rễ dùng làm thuốc lọc máu và lợi tiểu) và cây Cyclea bicrìsiata Diels (Sâm hai sóng) phát hiện ở Bảo lộc. Ngoài ra A. Pételot (1952) còn kê thêm Cvclea peỉtata Hook. et Thw. (Nhân sâm, sâm nam -tiếng Cămpuchia Plou, plou bat), thấy ở các tỉnh phía Nam và Cămpuchia, có tác dụng lợi tiểu, lọc máu và chữa bệnh gan). Ngô Vân Thu và Vương Văn Ánh phát hiện cây hoàng đằng loong ươn trong tỉnh Thuận Hải được thấy nhân dân xã Sùng Nhem huyện Đức Linh dùng chữa bệnh kiết lỵ, tiêu chảy, sớt rét, cảm sớt. 'c. ()(*)()Ngô Vân Thu và Vương Văn Ánh (Dược học
+Tầ có thể phân biệt giữa 3 cây hoàng đằng, vàng đằng và hoàng đằng loong trơn dựa theo một sô' đặc điểm sau đây: mọc ở Định Quán), Cyclea tonkinensis Gagn. (Dây sâm nam đỏ phát hiện ờ Quảng Trị), Cyclea barbata Miers (Dây sâm, sâm lông thấy mọc ờ cấc tỉnh phía Nam tới Nha Trang), được nhân dân trồng để lấy lá dùng với tên Nhân sâm, rễ dùng làm thuốc lọc máu và lợi tiểu) và cây Cyclea bicrìsiata Diels (Sâm hai sóng) phát hiện ở Bảo lộc. Ngoài ra A. Pételot (1952) còn kê thêm Cvclea peỉtata Hook. et Thw. (Nhân sâm, sâm nam -tiếng Cămpuchia Plou, plou bat), thấy ở các tỉnh phía Nam và Cămpuchia, có tác dụng lợi tiểu, lọc máu và chữa bệnh gan). Ngô Vân Thu và Vương Văn Ánh phát hiện cây hoàng đằng loong ươn trong tỉnh Thuận Hải được thấy nhân dân xã Sùng Nhem huyện Đức Linh dùng chữa bệnh kiết lỵ, tiêu chảy, sớt rét, cảm sớt. 'c. ()(\*)()Ngô Vân Thu và Vương Văn Ánh (Dược học
 
 2, 1986) đã thấy trong hoàng đằng loong trơn
 
@@ -452,17 +452,17 @@ Góc lá thẳng, hơi lồi Mặt dưới mốc ưắng,
 
 Góc Lá thẳng, hơi lồi
 
-A. ()(*)()Dủy hoàng đằng loong trơn mọc hoang dại rất phổ biến ở các tỉnh phía Nam từ Quảng Trị ưở vào, cả ở Cămpuchia. Trong cuổn Cây cỏ miền Nam Việt Nam (Q.l), Phạm Hoàng Hộ có kể Cycleơ aphyỉìa Gagn. (Dây sâm không lá thấy có chứa ancaloit mà chủ yếu là becberin, với hàm lượng từ 0,9 đến 1,1%.
+A. ()(\*)()Dủy hoàng đằng loong trơn mọc hoang dại rất phổ biến ở các tỉnh phía Nam từ Quảng Trị ưở vào, cả ở Cămpuchia. Trong cuổn Cây cỏ miền Nam Việt Nam (Q.l), Phạm Hoàng Hộ có kể Cycleơ aphyỉìa Gagn. (Dây sâm không lá thấy có chứa ancaloit mà chủ yếu là becberin, với hàm lượng từ 0,9 đến 1,1%.
 
-()(*)()Làm nguyên liêu chiết suất becberin.
+()(\*)()Làm nguyên liêu chiết suất becberin.
 
 Dùng làm thuốc chữa kiết lỵ, ỉa chảy, ăn uống không tiêu, sốt, cách và liều dùng như vị hoàng đằng hoặc vàng đằng.
 
-()(*)()
+()(\*)()
 
 _Còn gọi là hoàng nghiệt._
 
-Tên khoa học_*: Phellodendron amurense Rupr. (Phelìodendron amurense Rupr. var. sachalìnense Fr.Schmidt).*_
+Tên khoa học**: Phellodendron amurense Rupr. (Phelìodendron amurense Rupr. var. sachalìnense Fr.Schmidt).**
 
 Thuộc họ Cam Rutaceae.
 
@@ -474,13 +474,13 @@ Vị hoàng bá thật hiện nay còn phải nhập vì cãy này vốn chưa c
 
 Vốn tên cũ là hoàng nghiệt là vỏ màu của cây nghiệt. Sau này người ta dùng chữ bá thay cho chữ nghiệt để viết cho đơn giản (chữ nho).
 
-()(*)()Hoàng bá là một cây to cao, có thể cao tới 20- 25m, đường kính thân có thể đạt tới 70cm. vỏ thân dày phân thành hai tầng rõ rệt. Tầng ngoài màu xám, tầng trong màu vàng. Lá mọc đối, kém gồm 5-13 lá chét nhỏ hình trứng dài, mép nguyên. Hoa tím đen, trong chứa 2-5 hạt. Ra hoa mùa hạ. (Hình 138 )
+()(\*)()Hoàng bá là một cây to cao, có thể cao tới 20- 25m, đường kính thân có thể đạt tới 70cm. vỏ thân dày phân thành hai tầng rõ rệt. Tầng ngoài màu xám, tầng trong màu vàng. Lá mọc đối, kém gồm 5-13 lá chét nhỏ hình trứng dài, mép nguyên. Hoa tím đen, trong chứa 2-5 hạt. Ra hoa mùa hạ. (Hình 138 )
 
 Ngoài cây hoàng bá kể trên, tại Trung Quốc người ta còn khai thác vỏ cây xuyên hoàng bá Pheỉlodendron amurense Rupr. var. sachalinensỉs Fr. Schmidt (có tác giả xác định là Phellodendron sinensis Schneider), cây nhỏ và thấp hơn, 7-15 lá chét, quả hình trứng, còn quả
 
 cay hoàng bá nói trên hình cầu.
 
-()(*)()Vị hoàng bá thật hiện còn phải nhập. Tại Trung Quốc, hoàng bá mọc ở Hắc Long Giang, Hà Bắc, Tứ Xuyên, Vân Nam, Quí Châu.
+()(\*)()Vị hoàng bá thật hiện còn phải nhập. Tại Trung Quốc, hoàng bá mọc ở Hắc Long Giang, Hà Bắc, Tứ Xuyên, Vân Nam, Quí Châu.
 
 Tại nước Nga, hoàng bá mọc ở nhiều vùng Xibêri.
 
@@ -488,7 +488,7 @@ Mấy năm gần đây chúng ta đã xin được hạt và bắt đầu trổn
 
 Vỏ thân thường hái vào mùa hạ, cạo sạch vỏ ngoài, chỉ còn lớp trong dày chừng lcm, sau đó cát thành từng miếng dài 9cm, rộng 6cm, phơi khô. Loại tốt có màu vàng tươi rất đẹp, vị rất đáng.
 
-()(*)()Trong hoàng bá có chứng 1,6% becberin
+()(\*)()Trong hoàng bá có chứng 1,6% becberin
 
 C, 0H1,OJN, một ít panmatin C21H2305N.
 
@@ -502,27 +502,27 @@ Phản ứng Liebecman xác định sự có mặt hợp chất sterolic.
 
 Bột hay mảnh vỏ soi ánh ngoại tím cho huỳnh quang màu vàng tươi.
 
-()(*)()Nhiểu thí nghiệm chứng minh tác dụng kháng sinh của hoàng bá, dịch chiết bằng cồn ức chế các vi trùng Staphyllococ, lỵ, thổ tả, Sal- monella Ợhực vật học báo 1954, 3(2): 121- 131, Giang tây Trung Y báo 1956 2: 54-58).
+()(\*)()Nhiểu thí nghiệm chứng minh tác dụng kháng sinh của hoàng bá, dịch chiết bằng cồn ức chế các vi trùng Staphyllococ, lỵ, thổ tả, Sal- monella Ợhực vật học báo 1954, 3(2): 121- 131, Giang tây Trung Y báo 1956 2: 54-58).
 
-()(*)()Thuốc bổ đắng, giúp cho sự tiêu hóa, kém chưa đi rửa, bệnh do khuẩn ở ruột lỵ. Còn dùng rửa mặt, thay hoàng liên chế becberin, chữa giun, thuốc nhuộm, đắp chữa mụn nhọt, vết thương.
+()(\*)()Thuốc bổ đắng, giúp cho sự tiêu hóa, kém chưa đi rửa, bệnh do khuẩn ở ruột lỵ. Còn dùng rửa mặt, thay hoàng liên chế becberin, chữa giun, thuốc nhuộm, đắp chữa mụn nhọt, vết thương.
 
 Ngày dùng 5 đến lOg dưới dạng thuởc sắc, thuốc bột.
 
 Đông y coi hoàng bá có vị đắng, lạnh không độc có tác dụng tả tướng hỏa, thanh thấp nhiệt, dùng làm thuốc kiện vị, ngoại khoa chữa mắt và bệnh ngoài da, còn dùng chữa hoàng đản, trĩ hậu môn, phụ nữ bị xích bạch đới.
 
-()(*)()Kiệnitalic2 vị kém tiêu hóa, hữàng đản do viêm ổng mật: hoàng bá 12g, chi tủ 12g, cam thảo 6g, nước 600ml. sắc còn 200ml. Chia 3 lần uống trong ngày.
+()(\*)()Kiệnitalic2 vị kém tiêu hóa, hữàng đản do viêm ổng mật: hoàng bá 12g, chi tủ 12g, cam thảo 6g, nước 600ml. sắc còn 200ml. Chia 3 lần uống trong ngày.
 
 Người có thai đi lỵ: Hoàng bá tẩm mật sao cho cháy, tán nhỏ. Dùng một củ tỏi nướng chín, bóc vỏ giã nát thêm bột hoàng bá vào viên bằng
 
 hạt ngô. Ngày uống 3 lần mỗi lần 30-40 viên.
 
-Lở miệng, loét lưỡi: Hoàng bá chẻ nhỏ, ngậm. Nước có thể nuốt hay nhổ ()(*)()
+Lở miệng, loét lưỡi: Hoàng bá chẻ nhỏ, ngậm. Nước có thể nuốt hay nhổ ()(\*)()
 
 Chú thích:
 
 Trong nhân dân ta thường dùng vỏ cây núc nác với tên hoàng bá hay nam hoàng bá. Hai vị thuốc có thành phần khác hẳn nhau nhung lại có mội số tấc dụng giống nhau (xem vị này).
 
-()(*)()
+()(\*)()
 
 Tên khoa học _*Euphorbìa thymiỷolia Burm {E.prostrata Grah).*_
 
@@ -530,29 +530,29 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 Ta dùng toàn cây phơi khô của cây cỏ sữa nhỏ lá.
 
-()(*)()Cỏ sữa là một loại cỏ nhỏ, gầy. mọc là là trên mặt đất, thân và cành tím đỏ. Lá mọc đối, hình bầu dục hay thon dài, dài nhất 7mm, rộng chừng 4mm mép lá hơi khía lai bèo. Cụm hoa mọc ờ kẽ lá thành xim đơn mang ít hoa. Quả nang đường kính ],5mm, có lông. Hạt nhần, dài
+()(\*)()Cỏ sữa là một loại cỏ nhỏ, gầy. mọc là là trên mặt đất, thân và cành tím đỏ. Lá mọc đối, hình bầu dục hay thon dài, dài nhất 7mm, rộng chừng 4mm mép lá hơi khía lai bèo. Cụm hoa mọc ờ kẽ lá thành xim đơn mang ít hoa. Quả nang đường kính ],5mm, có lông. Hạt nhần, dài
 
 0, 7mm có 4 góc (Hình 139, Hm 45,3 ).
 
 Toàn thân bấm đều chảy một chất nhựa mủ trắng.
 
-()(*)()Mọc hoang khắp nơi ở Việt nam. Ưa các đất có sỏi, đá thường thấy ở các kẽ các gạch, sân xi măng dọc đường xe lửa có dải những hòn đá vôi xanh.
+()(\*)()Mọc hoang khắp nơi ở Việt nam. Ưa các đất có sỏi, đá thường thấy ở các kẽ các gạch, sân xi măng dọc đường xe lửa có dải những hòn đá vôi xanh.
 
 Hái vào mùa hè. Hái về rửa sạch, sao vàng phơi khô mà dùng. Có mọc ờ Ấn Độ, Inđônêxia, Trung Quốc, Philipin.
 
-()(*)()Toàn cây có ancaloit (theo c. A. 1966, 64, 1013a), thàn và lá có cosmosiin C2|H20O10 chừng
+()(\*)()Toàn cây có ancaloit (theo c. A. 1966, 64, 1013a), thàn và lá có cosmosiin C2|H20O10 chừng
 
 0, 037%, rễ có taraxerol, và tirucallol và
 
 myrixylalcohol (C. A. 1967, 66, 73239g).
 
-()(*)()Theo Côpacdiuxki 1947 {Buỉỉ, Soc. Chìmie
+()(\*)()Theo Côpacdiuxki 1947 {Buỉỉ, Soc. Chìmie
 
 biologique số 29: 924-926) chắt nhựa mủ của cỏ sữa có tính gày xót đối với niêm mạc và độc với cá và chuột.
 
 - Dung dịch cỏ sữa 1/20 đến 1/40 có tác dụng ức chế sự sinh sản của các loại vi trùng lỵ Sonner, Plexne và Shiga.
 
-()(*)()Vị thuốc chữa lỵ rất phổ cập trong nhân dân. Hay dùng nhất đối với trẻ em. Hằng ngày dùng 15g đến 20g (có thể dùng tới 50g) dưới dạng thuóc sác.
+()(\*)()Vị thuốc chữa lỵ rất phổ cập trong nhân dân. Hay dùng nhất đối với trẻ em. Hằng ngày dùng 15g đến 20g (có thể dùng tới 50g) dưới dạng thuóc sác.
 
 Người lớn có thể dùng tới 100-150g.
 
@@ -580,7 +580,7 @@ Tại các nước khác, cỏ sữa lớn lá được dùng chữa đau mắt,
 
 Năm 1975, ở Việt Nam cao nước cỏ sữa Lớn lá được phối hợp với vị hoàng đằng để sân xuất thuốc chữa hội chứng lỵ mang tên codanzit (Phan Quốc Kinh và cộng sự, 1975).
 
-()(*)()
+()(\*)()
 
 _Còn gọi là ba chẽ, niễng đực._
 
@@ -588,15 +588,15 @@ Tên khoa học _*Desmodium cephalotes Wall.*_
 
 Thuộc họ Cánh bướm Pabaceae ịPapiìiỡnaceae).
 
-()(*)()Cây nhỏ sống lấu nảm, thân nhỏ, có nhiều cành. Thường cao 0,5-0,60m nhưng cũng có thể cao tói 1,5Om. Lá gồm ba lá chét hình bầu dục với lá kèm nhỏ. Đường gân mặt trên lõm. Mặt dưới lồi, mặt dưới lá phủ một lớp lông tơ trắng trông hơi lấp lánh, đặc biệt các lá non ở ngọn có phủ lớp lông tơ nhiều hơn. Hoa nhỏ màu trấng, mọc thành chùm đơn ở kẽ lá. Quả giáp, hạt hình thân. Mùa hoa quả: Hè và thu. (Hình 141, Hm 15,4 )
+()(\*)()Cây nhỏ sống lấu nảm, thân nhỏ, có nhiều cành. Thường cao 0,5-0,60m nhưng cũng có thể cao tói 1,5Om. Lá gồm ba lá chét hình bầu dục với lá kèm nhỏ. Đường gân mặt trên lõm. Mặt dưới lồi, mặt dưới lá phủ một lớp lông tơ trắng trông hơi lấp lánh, đặc biệt các lá non ở ngọn có phủ lớp lông tơ nhiều hơn. Hoa nhỏ màu trấng, mọc thành chùm đơn ở kẽ lá. Quả giáp, hạt hình thân. Mùa hoa quả: Hè và thu. (Hình 141, Hm 15,4 )
 
-()(*)()Ba chẽ là một cây mọc hoang ở nhiều nơi
+()(\*)()Ba chẽ là một cây mọc hoang ở nhiều nơi
 
 nhất là đồi núi ít cây vùng trung du. Nhân dân địa phương cắt cây về làm phân xanh hoặc làm củi đun. Có thể trồng bằng hạt hay bằng dâm cành, ở đồng bằng hay vùng trung du cây đểu mọc tốt.
 
 Bộ phận dùng là lá, hái lá về phơi hay sấy khô. Có thể sao cho hơi vàng và cho thơm mà đùng.
 
-()(*)()Chưa thấy tài liệu nghiên cứu.
+()(\*)()Chưa thấy tài liệu nghiên cứu.
 
 #### D. Tác dụng dược lý
 
@@ -604,7 +604,7 @@ Nhân dân nhiều vùng trung du đã biết sử dụng lá cây này chữa k
 
 Còn dùng chữa rấn cắn: Lá ba chẽ tươi giã nát hay nhai nát, nuốt nước, bã còn lại đắp lên nơi rắn cắn.
 
-()(*)()
+()(\*)()
 
 italic1Còn gọi là quang lang, chambok barang parcang prang (Càmpuchia), badamier (Pháp).
 
@@ -612,11 +612,11 @@ Tên khoa học _*Terminơỉia catappa L.*_
 
 Thuộc họ Bàng Combretaceae.
 
-()(*)()Bàng là một cây to, có thể cao tới 25m, cành mọc vòng làm cho tán cây xòe ra như cái lọng. Lá to hình thìa, đầu tròn, mặt trên nhẵn, mặt dưới có lông hung nhạt phiến lá dài 20-30cm, rộng 10-13cm. Hoa nhiều mọc thành bổng dài 15-20cm, trên cán bồng hoa có lông. Quả hình bầu dục, nhẵn dẹt với hai bên dìa hẹp, đầu hơi nhọn, dài 4cm, rộng 3cm, dày 15mm, nhẵn, cơm màu vàng đỏ, có xơ. Hạch rộng 15mm, hạt có nhân trắng chứa nhiều dầu. Mùa quả: Tháng 8-
+()(\*)()Bàng là một cây to, có thể cao tới 25m, cành mọc vòng làm cho tán cây xòe ra như cái lọng. Lá to hình thìa, đầu tròn, mặt trên nhẵn, mặt dưới có lông hung nhạt phiến lá dài 20-30cm, rộng 10-13cm. Hoa nhiều mọc thành bổng dài 15-20cm, trên cán bồng hoa có lông. Quả hình bầu dục, nhẵn dẹt với hai bên dìa hẹp, đầu hơi nhọn, dài 4cm, rộng 3cm, dày 15mm, nhẵn, cơm màu vàng đỏ, có xơ. Hạch rộng 15mm, hạt có nhân trắng chứa nhiều dầu. Mùa quả: Tháng 8-
 
 10 ( Hình 142 ).
 
-()(*)()Cây bàng được trồng khắp nơi làm cây hóng mát. Ngưòti ta cho rằng cây bàng vốn không có ở nước ta, mà di thực tù đảo Moluques vào.
+()(\*)()Cây bàng được trồng khắp nơi làm cây hóng mát. Ngưòti ta cho rằng cây bàng vốn không có ở nước ta, mà di thực tù đảo Moluques vào.
 
 Người ta thường đùng lá, vổ cây và hạt.
 
@@ -624,7 +624,7 @@ Hình Ì42. Bàng - Terminalia catappa
 
 Về mật nguyên liệu cho dẩu thì năng suất bàng thấp vì việc tách nhân bàng ra vất vả. Từ 100 g hạch khô chỉ tách được 23g nhân.
 
-()(*)()Lá và vỏ cây chứa tanin: vỏ thân chứa từ 25- 35% tanin pyrogalic và tanin catechic. vỏ cành chứa 11% tanin.
+()(\*)()Lá và vỏ cây chứa tanin: vỏ thân chứa từ 25- 35% tanin pyrogalic và tanin catechic. vỏ cành chứa 11% tanin.
 
 Nhân hạt chứa 50% dầu béo màu vàng nhạt hay lục nhạt, vị dễ chịu, giống như dầu hạnh nhân, ăn được. Tuy nhiên nhân chỉ chiếm 10% toàn quà cho nên cuối cùng toàn quả chỉ chứa chừng 5% dầu béo, việc tách nhân lại đòi hỏi nhiều công sức, chưa cơ giới hóa đuợc cho nên đến nay việc khai thác dầu hạt bàng chưa được đặt ra. Một số tính chắt của dầu nhân hạt bàng đã được nghiên cứu kết quả như sau: Tỷ trọng
 
@@ -632,7 +632,7 @@ Nhân hạt chứa 50% dầu béo màu vàng nhạt hay lục nhạt, vị dễ 
 
 Do chỉ sổ iốt thấp và do không cho phản ứng hexabromua cho nèn người ta có thể kết luận dầu bàng không có glyxerit linoleic và thuộc loại dầu không khô.
 
-()(*)()Tại một số vùng, nhân dân dùng vỏ bàng sấc uống chữa ly, ỉa chày và rửa các vết loét, vết thương.
+()(\*)()Tại một số vùng, nhân dân dùng vỏ bàng sấc uống chữa ly, ỉa chày và rửa các vết loét, vết thương.
 
 ở Ân Độ, Inđônêxia và Philipin người la cũng dùng như vậy. Liều dùng hằng ngày 12-I5g, sắc với 200ml, thêm ít đường cho dẻ uống.
 
@@ -640,7 +640,7 @@ Lá còn được dùng sắc uống chữa cảm sốt làm cho ra mồ hôi, h
 
 Hạt dùng chữa ỉa ra máu (sắc uống), có thể dùng ép lấy dầu để ăn hay dùng trong công nghiệp.
 
-()(*)()
+()(\*)()
 
 _Còn gọi là mỏ quạ, mỏ ó, gãng cơm, găng vàng, găng sơn, găng cườm, ihiết thỉ mễ (Trung Quốc)._
 
@@ -650,11 +650,11 @@ Thuộc họ Cà phê Rubiaceae.
 
 Cẩm xà lạc là tên vỏ cây này được xuất bán cho Trung Quốc. Tên này phổ biến ở tỉnh Quảng Bình là nơi được khai thác thu mua để xuất. Tại nhũng nơi khác tên mỏ quạ, mỏ ó phổ biến hơn. Cũng có nơi gọi là cây găng, tên mỏ qụa còn dùng để chỉ một cây khác (xem vị này) cần chú ý tránh nhầm.
 
-()(*)()Cẩm xà lặc là một cây nhỏ có gai dài từ 0,3 đến 5cm hai đầu quặp lại gần giớng như mỏ qụa, phía gốc gai có lông. Lá hình trứng thuôn dài mặt trên nhẵn, mặt dưới hơi có lông trên đường gân; phiến lá dai, cuống rất ngắn. Hoa màu vàng họp thành chùm ở kẽ lá từng 2 đến 8 hoa. Cánh hoa 2-3mm. Quả hạch hình cầu đường kính 8-lOmm khi chín có màu vàng nhạt trong có hai ngăn mỗi ngăn chứa một hạt.
+()(\*)()Cẩm xà lặc là một cây nhỏ có gai dài từ 0,3 đến 5cm hai đầu quặp lại gần giớng như mỏ qụa, phía gốc gai có lông. Lá hình trứng thuôn dài mặt trên nhẵn, mặt dưới hơi có lông trên đường gân; phiến lá dai, cuống rất ngắn. Hoa màu vàng họp thành chùm ở kẽ lá từng 2 đến 8 hoa. Cánh hoa 2-3mm. Quả hạch hình cầu đường kính 8-lOmm khi chín có màu vàng nhạt trong có hai ngăn mỗi ngăn chứa một hạt.
 
 Mùa hoa và quả: tháng 10-12 (Hình 143, Hm 35,1).
 
-()(*)()Mọc hoang ờ khắp các tình miền Bấc nước
+()(\*)()Mọc hoang ờ khắp các tình miền Bấc nước
 
 ##### TODO: thêm hình ảnh
 
@@ -664,7 +664,7 @@ ta, đôi khi được trồng làm hàng rào vì rất nhiểu gai nhọn. Cò
 
 Thưcmg người ta đào rễ bóc lấy vỏ phơi khô để xuất, trước đây thu hái cả cành. Quả dùng để giặt quần áo thay xà phòng.
 
-()(*)()Chưa thấy tài liêu nghiên cứu. Sơ bộ thấy có ancaloit và saponozit.
+()(\*)()Chưa thấy tài liêu nghiên cứu. Sơ bộ thấy có ancaloit và saponozit.
 
 #### D. Tác dụng và liều dùng
 
@@ -678,7 +678,7 @@ Vỏ thản và vỏ cành dùng chữa lỵ. Dùng dưới dạng thuốc sắc
 
 Lá cây này được dùng giã nát đắp lên vết thương, nhưng ít được dùng hơn lá cây mỏ quạ thuộc họ Dâu tằm (xem vị này).
 
-()(*)()
+()(\*)()
 
 _Còn gọi là xiêm phung, cham pou, champuk shralok (Cămpuchia), som hu, som phu, kam tai, kam set (Lào), rocouyer-annato._
 
@@ -686,9 +686,9 @@ Tên khoa học _*Bixa orelỉana L.*_
 
 Thuộc họ Điểu nhuộm Bixaceae.
 
-()(*)()Cây nhỏ đẹp, cao 4”5m. Lá đơn mềm, nhỉn, hơi hình ba cạnh, đấu nhọn, phía cuống hình tim, dài ]2cm, rộng 7cm hay hơn, cuống lá phình ở đầu, dài 34cm. Hoa khá lớn, màu tía, hay trắng, mọc thành chùy ngắn ở đầu cành. Bầu hai lá noãn với hai giá noãn mang nhiêu noãn. Quả to, đỏ tía, hình cầu, trên mặt có gai mềm, mở bằng hai van, mỗi mảnh mang ở trong rất nhiều hạt. Hạt hơi hình lạp phương trên một cuống ngắn, xung quanh tễ nở ra thành một thứ áo hạt ngắn màu đỏ ( Hình 144 ).
+()(\*)()Cây nhỏ đẹp, cao 4”5m. Lá đơn mềm, nhỉn, hơi hình ba cạnh, đấu nhọn, phía cuống hình tim, dài ]2cm, rộng 7cm hay hơn, cuống lá phình ở đầu, dài 34cm. Hoa khá lớn, màu tía, hay trắng, mọc thành chùy ngắn ở đầu cành. Bầu hai lá noãn với hai giá noãn mang nhiêu noãn. Quả to, đỏ tía, hình cầu, trên mặt có gai mềm, mở bằng hai van, mỗi mảnh mang ở trong rất nhiều hạt. Hạt hơi hình lạp phương trên một cuống ngắn, xung quanh tễ nở ra thành một thứ áo hạt ngắn màu đỏ ( Hình 144 ).
 
-()(*)()Cây nguồn gốc ở các vùng nhiệt đới châu Mỹ, hiện được trồng phổ biến ở An Độ và nhiều nước khác.
+()(\*)()Cây nguồn gốc ở các vùng nhiệt đới châu Mỹ, hiện được trồng phổ biến ở An Độ và nhiều nước khác.
 
 Tại nước ta, Lào, Cămpuchia nhiều gia đình trồng lấy chất nhuộm màu. Người ta thu hái hạt, cho ngay vào nước thật nóng, khuấy mạnh rồi để hạt lèn một cái rây để xát, tách hết bạt và những tạp chất. Được thứ cơm hạt để yên cho lên men và loại chất nhầy. Màu lắng xuống dưới, gạn lấy chất màu này, để cho hơi khô thì gói vào lá chuối thành từng bánh 1 đến 2kg. Chúng ta có chất màu mềm, mặt ngoài hơi xỉn, nhưng khi cắt thì giữa có màu tươi hơn. Chất màu này Ưên thị trường quốc tế trước đây người ta gọi là
 
@@ -712,15 +712,15 @@ Nam 1937, Bachster và Cavallini còn chiết được từ dầu hạt có ch�
 
 Bixin là một chất màu đỏ tươi, có tinh thể, orelin có màu vàng, không tinh thể. Khi thêm axit sunfuric thì cả hai chất đều cho màu xanh.
 
-()(*)()Trước đây khi chưa có màu tổng hợp anìlin, thì rôcu là một chất màu quan trọng vì tuơi đẹp, xà phòng khõng làm sạch, nhưng chịu ánh sáng thì kém. Hiện nay một số nơi còn dùng nhuộm len, lụa, và sợi bông.
+()(\*)()Trước đây khi chưa có màu tổng hợp anìlin, thì rôcu là một chất màu quan trọng vì tuơi đẹp, xà phòng khõng làm sạch, nhưng chịu ánh sáng thì kém. Hiện nay một số nơi còn dùng nhuộm len, lụa, và sợi bông.
 
 Còn dùng trong công nghiệp vecni, xi đánh sàn, và nhất là do độ tan trong chất béo, lại không độc và có tính chất của vitamin A, rôcu được .dùng để nhuộm bơ, phó mát (ngâm trong dầu vừng 2 đến 3 giọt cho lkg bơ). Nếu nhuộm nước thì dùng muối kiềm của norbixin.
 
 Tại quê hương châu Mỹ, cơm và hạt được đùng làm thuốc tẩy giun.
 
-Một số nơi dùng ()(*)()chữa lỵ, chữa sốt, sốt rét. Có khi sắc uổng nhưng có khi người ta chi nấu nước cho bệnh nhân tắm, thuốc thấm qua da mà tác dụng. Ngày uống 20-30g lá tươi sao khô. Dùng nấu nước tắm chữa sốt không kể liều lượng.
+Một số nơi dùng ()(\*)()chữa lỵ, chữa sốt, sốt rét. Có khi sắc uổng nhưng có khi người ta chi nấu nước cho bệnh nhân tắm, thuốc thấm qua da mà tác dụng. Ngày uống 20-30g lá tươi sao khô. Dùng nấu nước tắm chữa sốt không kể liều lượng.
 
-()(*)()
+()(\*)()
 
 _Còn gọi là Bởng trang đỏ, mẫu đơn, kam ron tea (Cãmpuchia)._
 
@@ -728,7 +728,7 @@ Tên khoa học _*ỉxora coccinea L.*_
 
 Thuộc họ Cà phê Ruhiaceae.
 
-A. Mô ()(*)()cây
+A. Mô ()(\*)()cây
 
 Cây nhỏ, thân cành nhãn, cao 0,6-lm. Lá mọc
 
@@ -752,7 +752,7 @@ Chú. thích:
 
 Bên cạnh cây đơn đỏ, nhân dân còn trổng cây đơn trắng hay bông trang trắng, mẫu đơn trắng có tên khoa học Ixora nigricans R. Br. thuộc cùng họ ( Hình 146 ). Cũng được trổng làm cảnh và một sổ nơi dùng làm thuốc cùng một công đụng với đơn đỏ, nhưng đơn đỏ có tác dụng mạnh hơn.
 
-### ĐƠN TRẮNG ()(*)()MỌ
+### ĐƠN TRẮNG ()(\*)()MỌ
 
 _Còn gọi ìà lấu, bời lời, bồ chát, cây men sứa._
 
@@ -760,15 +760,15 @@ Tên khoa học _*Psychoiria reevesii Wall.*_
 
 Thuộc họ Cà Phê Rubiaceae.
 
-()(*)()Cây nhỏ hay nhỡ có thể cao từ 1 đến 9m. Thân nhẵn. Lá thuôn dài, mọc đối, phía cuổng hẹp và nhọn lại, phiến là dài 8-20cm, rộng 2- 7,5cm, mặt trên xanh hay xanh sảm, mặt dưới màu nhạt hơn. Hoa trắng nhạt, mọc thành xim ỏ đầu cành, Quả hình cầu với đài tồn tại, đường kính 5-7mm, chín có màu đò, vói hai hạch, mặt hai hạch tiếp giáp nhau phẳng, 5 sống và rãnh trên lưng hạch. Mỗi hạch chứa một hạt màu đen. Mùa hoa quả: Tháng 5-7 ( Hình 147 ).
+()(\*)()Cây nhỏ hay nhỡ có thể cao từ 1 đến 9m. Thân nhẵn. Lá thuôn dài, mọc đối, phía cuổng hẹp và nhọn lại, phiến là dài 8-20cm, rộng 2- 7,5cm, mặt trên xanh hay xanh sảm, mặt dưới màu nhạt hơn. Hoa trắng nhạt, mọc thành xim ỏ đầu cành, Quả hình cầu với đài tồn tại, đường kính 5-7mm, chín có màu đò, vói hai hạch, mặt hai hạch tiếp giáp nhau phẳng, 5 sống và rãnh trên lưng hạch. Mỗi hạch chứa một hạt màu đen. Mùa hoa quả: Tháng 5-7 ( Hình 147 ).
 
-()(*)()Cây mọc hoang dại ở dưới những tán rừng thưa vùng trung du, vùng núi.
+()(\*)()Cây mọc hoang dại ở dưới những tán rừng thưa vùng trung du, vùng núi.
 
 Người ta dùng rễ và lá thu hái quanh năm. Rẽ đào về rửa sạch, thái mỏng phơi hay sắy khô. Lá dùng tươi hay phơi hoặc sấy khô.
 
-()(*)()Chưa thấy tài liệu nghiên cứu. Sơ bộ thấy rễ và lá đều cho những phản ứng của ancaloit.
+()(\*)()Chưa thấy tài liệu nghiên cứu. Sơ bộ thấy rễ và lá đều cho những phản ứng của ancaloit.
 
-()(*)()Rề được dùng làm thuốc chữa đau răng, đau viêm tai. Còn dùng làm thuốc chữa băng huyết, đái ra máu, đắp vết thưcmg, vết loét, chữa lỵ, rắn
+()(\*)()Rề được dùng làm thuốc chữa đau răng, đau viêm tai. Còn dùng làm thuốc chữa băng huyết, đái ra máu, đắp vết thưcmg, vết loét, chữa lỵ, rắn
 
 ##### TODO: thêm hình ảnh
 
@@ -788,11 +788,11 @@ Tên khoa học _*Auricularia pohtricha Sacc.*_
 
 Thuộc họ Mộc nhĩ Auriculariaceae.
 
-()(*)()Loại nấm mọc trông giống tai người (mộc: gỗ, nhĩ: tai) mạt ngoài màu nâu nhạt, có lông mịn, mặt trong nhãn màu nâu sẫm. Thể quả chất keo, thời kỳ đầu hình chén, dần dần biến thành hình cái tai, hoặc hình lá, đại bộ phận phẳng, nhẩn, rất ít khí có nếp nhãn. Bô phận gốc thường có nếp gấp màu xám đỏ, nhiều khi màu tím. Đường kính có thể tới I5cm ( Hình 148 ).
+()(\*)()Loại nấm mọc trông giống tai người (mộc: gỗ, nhĩ: tai) mạt ngoài màu nâu nhạt, có lông mịn, mặt trong nhãn màu nâu sẫm. Thể quả chất keo, thời kỳ đầu hình chén, dần dần biến thành hình cái tai, hoặc hình lá, đại bộ phận phẳng, nhẩn, rất ít khí có nếp nhãn. Bô phận gốc thường có nếp gấp màu xám đỏ, nhiều khi màu tím. Đường kính có thể tới I5cm ( Hình 148 ).
 
-()(*)()Mọc hoang trên những cây, cành gỗ mục, ở trong rừng hay ờ vùng đồng bằng trên một số cây như cây sung, cây duối, cây sắn, hòe, dâu tầm. Hiện được sản xuất công nghiệp. Hái vể phơi hoặc sấy khô. Khí đùng làm thuốc thì sao cháy.
+()(\*)()Mọc hoang trên những cây, cành gỗ mục, ở trong rừng hay ờ vùng đồng bằng trên một số cây như cây sung, cây duối, cây sắn, hòe, dâu tầm. Hiện được sản xuất công nghiệp. Hái vể phơi hoặc sấy khô. Khí đùng làm thuốc thì sao cháy.
 
-()(*)()Hoạt chất chưa rõ. Chỉ mới biết trong mộc nhĩ có 10% nước, 9-10% protit, 0,2% lipit, 58,5% gluxit, 6,3% xenluloza, 5,2% tro. Mỗi lOOg mộc nhĩ có 321,3mg canxi, 180,9mg p, 0,03mg caroten, 0,14mg vitamin Bị, 0,50mg vitamin B^, 2,4mg vitamin pp
+()(\*)()Hoạt chất chưa rõ. Chỉ mới biết trong mộc nhĩ có 10% nước, 9-10% protit, 0,2% lipit, 58,5% gluxit, 6,3% xenluloza, 5,2% tro. Mỗi lOOg mộc nhĩ có 321,3mg canxi, 180,9mg p, 0,03mg caroten, 0,14mg vitamin Bị, 0,50mg vitamin B^, 2,4mg vitamin pp
 
 ##### TODO: thêm hình ảnh
 
@@ -802,19 +802,19 @@ Hình 148. Mộc nhĩ - Auricularia polytricha
 
 Ngoài công dụng làm thức ăn, mộc nhĩ được dùng làm thuốc giải độc, chữa lỵ, táo bón và rong huyết. Ngày dùng 6-12g dưới dạng thuốc bột (sao cháy, tán bột), chia làm nhiều lần trong ngày.
 
-()(*)()
+()(\*)()
 
-()(*)()Cây mọc hoang dại phổ biến ở những vùng núi cao tỉnh Lào Cai, đặc biệt quanh vùng Sapa. Còn mọc ở Trung Quốc. Người ta còn di thực cây này sang một số nước châu Âu dùng làm cảy bóng mất đường phố vì câv mọc nhanh, đòi hỏi ít đất.
+()(\*)()Cây mọc hoang dại phổ biến ở những vùng núi cao tỉnh Lào Cai, đặc biệt quanh vùng Sapa. Còn mọc ở Trung Quốc. Người ta còn di thực cây này sang một số nước châu Âu dùng làm cảy bóng mất đường phố vì câv mọc nhanh, đòi hỏi ít đất.
 
-Thường người ta dùng gổ làm đồ dùng ()(*)()gỗ đẹp, ít bị mọt có lẽ do mùi gỗ và hoa.
+Thường người ta dùng gổ làm đồ dùng ()(\*)()gỗ đẹp, ít bị mọt có lẽ do mùi gỗ và hoa.
 
 Làm thuốc người ta dùng vỏ cây, quả và chất nhựa của vỏ.
 
-c. ()(*)()Trong vỏ cây có chất nhựa dầu, mởt tinh dầu hắc và một tinh dấu thơm, chất nhựa dầu, một tinh dầu hắc và một tinh dẩu thơm, chất nhựa resin và chất nhẩy. Chất nhầy nhiều đến mức nước sắc nhầy đặc lại gần như thạch. Ngoài ra năm 1933, Wazicky còn thấy trong vỏ một glucozit và một saponoãt.
+c. ()(\*)()Trong vỏ cây có chất nhựa dầu, mởt tinh dầu hắc và một tinh dấu thơm, chất nhựa dầu, một tinh dầu hắc và một tinh dẩu thơm, chất nhựa resin và chất nhẩy. Chất nhầy nhiều đến mức nước sắc nhầy đặc lại gần như thạch. Ngoài ra năm 1933, Wazicky còn thấy trong vỏ một glucozit và một saponoãt.
 
-Tròng lá có chất độc, có ()(*)()là chất nhựa gây viêm ống tiêu hóa có thể làm chết súc vật ăn phải lá cây này. Những'người ngả (đẵn) cây thường bị viêm tấy và nôi phổng lên da. Mùi khó chịu của cây còn gây ngủ cho người.
+Tròng lá có chất độc, có ()(\*)()là chất nhựa gây viêm ống tiêu hóa có thể làm chết súc vật ăn phải lá cây này. Những'người ngả (đẵn) cây thường bị viêm tấy và nôi phổng lên da. Mùi khó chịu của cây còn gây ngủ cho người.
 
-()(*)()Vỏ cây được dùng chữa ỉa chảy và chữa lỵ dưới dậng thuốc sắc hoậc thuốc hãm: Ngày dùng 50g vỏ cây khô, thêm lOOg nước nóng, đun sôi rồi để nguội từ từ cho đến khi còn vừa nóng uống được. Người uống có thể buồn nón hay nôn thì giảm liều xuống. Sau 2 hay 3 ngày thấy kết quả.
+()(\*)()Vỏ cây được dùng chữa ỉa chảy và chữa lỵ dưới dậng thuốc sắc hoậc thuốc hãm: Ngày dùng 50g vỏ cây khô, thêm lOOg nước nóng, đun sôi rồi để nguội từ từ cho đến khi còn vừa nóng uống được. Người uống có thể buồn nón hay nôn thì giảm liều xuống. Sau 2 hay 3 ngày thấy kết quả.
 
 Heret còn dùng trị sán: vỏ khô tán bột, ngày uống lg bột, uống liên tục trong 7-8 ngày. Ngày cuối cùng uống một liều dầu tẩy để tống sán.
 
@@ -822,7 +822,7 @@ Quả dùng chữa ho, điều kinh. Ngày dùng 5- lOg dưới dạng thuốc s
 
 l>á cây dùng nấu tắm ghè hay rùa chớc đầu.
 
-()(*)()Còn cỏ tên lờ tam thạch cô, thanh ngưu đởm, cửu ngưu đởm, kim chư đòm, sơn từ cô, củ gió.
+()(\*)()Còn cỏ tên lờ tam thạch cô, thanh ngưu đởm, cửu ngưu đởm, kim chư đòm, sơn từ cô, củ gió.
 
 Tên khoa học _*Tinospora sagittata (Oliv.) Gagnep.*_
 
@@ -832,17 +832,17 @@ Thuộc họ Tiết dẻ Menỉspermaceae.
 
 Mình ỉ50. San sư cô - Tinospora sagittata
 
-()(*)()Mọc hoang ờ một số tỉnh miến núi cao mát như Lào Cai (Mường Khương), Hoà Bình (Ba
+()(\*)()Mọc hoang ờ một số tỉnh miến núi cao mát như Lào Cai (Mường Khương), Hoà Bình (Ba
 
-()(*)()Thường thu hái quanh năm, đào lấy củ về rửa sạch, phơi sấy khô. Khi dùng thái mỏng sấc uống hay dã nát đấp bên ngoài.
+()(\*)()Thường thu hái quanh năm, đào lấy củ về rửa sạch, phơi sấy khô. Khi dùng thái mỏng sấc uống hay dã nát đấp bên ngoài.
 
-c. ()(*)()Trong củ san sư cô có chất columbin C-„H,,0,. Hoat chất khác chưa rõ.
+c. ()(\*)()Trong củ san sư cô có chất columbin C-„H,,0,. Hoat chất khác chưa rõ.
 
 italic121) 22 r>
 
-()(*)()Theo italic1tái liệu cổ\ San sư cô có vị đắng, tính lạnh, vào 3 kinh tâm, phế và vị. Có tác dụng thanh nhiệt, giải độc, chủ ưị yết hầu sưng đau,
+()(\*)()Theo italic1tái liệu cổ\ San sư cô có vị đắng, tính lạnh, vào 3 kinh tâm, phế và vị. Có tác dụng thanh nhiệt, giải độc, chủ ưị yết hầu sưng đau,
 
-()(*)()Còn gọi là phượng vĩ thảo, theo gà, phượng
+()(\*)()Còn gọi là phượng vĩ thảo, theo gà, phượng
 
 vĩ.
 
@@ -852,9 +852,9 @@ Thuộc họ Dương xỉ Poỉypodìaceae.
 
 Tên seo gà vì lá có một cái seo giống như seo ở đuôi con gà.
 
-()(*)()Seo gà Jà một loại cây nhỏ, thân cồ, cao trung bình 15-25cm, có cây cao hơn. Lá bắt thụ có cuống mang dìa, dài 6-12cm, phiến lá dài 8- 25cm chia thành nhiẻu phiến nhỏ dài, mép có răng cưa, phiến nhỏ ờ đầu lá dài hơn cả, thoạt nhìn trông giống như những cành của cây. Lá hữu thụ có cuống dài 10-50cm, phiến lá dài 10- 40cm, cũng chia thành nhiều phiến lá nhỏ. Giữa các phiến lá nổi rõ gân chính, từ gân này tỏa ra nhiều gân phụ hình lông chim, xếp song song với nhau. Hai bên mép phiến lá hữu thụ mang cơ quan sình sản gọi là ổ tử nang xếp thành một đuờng thẳng liên tục ( Hình 151 ).
+()(\*)()Seo gà Jà một loại cây nhỏ, thân cồ, cao trung bình 15-25cm, có cây cao hơn. Lá bắt thụ có cuống mang dìa, dài 6-12cm, phiến lá dài 8- 25cm chia thành nhiẻu phiến nhỏ dài, mép có răng cưa, phiến nhỏ ờ đầu lá dài hơn cả, thoạt nhìn trông giống như những cành của cây. Lá hữu thụ có cuống dài 10-50cm, phiến lá dài 10- 40cm, cũng chia thành nhiều phiến lá nhỏ. Giữa các phiến lá nổi rõ gân chính, từ gân này tỏa ra nhiều gân phụ hình lông chim, xếp song song với nhau. Hai bên mép phiến lá hữu thụ mang cơ quan sình sản gọi là ổ tử nang xếp thành một đuờng thẳng liên tục ( Hình 151 ).
 
-()(*)()Seo gà mọc phổ biến ở miền Bắc và miền Trung nước ta, thường gặp nhất ở trên những vách đá, vách đất, xung quanh thành giếng, ven đường đi, những nơi thoáng ẩm và mát. Còn thấy mọc cả ờ Trung Quốc, Nhật Bản. Bộ phận dùng làm thuốc cùa cây là thân rể và lá. Thân rễ nằm ngang dưới mặt đất, chừng 3-4cm, hình cong queo, sần sùi, nhiều .mấu, hơi cứng, vị hơi ngọt, đắng và tê, mùi thơm hắc. Đào về thái mỏng, phơi hoặc sấy khô.
+()(\*)()Seo gà mọc phổ biến ở miền Bắc và miền Trung nước ta, thường gặp nhất ở trên những vách đá, vách đất, xung quanh thành giếng, ven đường đi, những nơi thoáng ẩm và mát. Còn thấy mọc cả ờ Trung Quốc, Nhật Bản. Bộ phận dùng làm thuốc cùa cây là thân rể và lá. Thân rễ nằm ngang dưới mặt đất, chừng 3-4cm, hình cong queo, sần sùi, nhiều .mấu, hơi cứng, vị hơi ngọt, đắng và tê, mùi thơm hắc. Đào về thái mỏng, phơi hoặc sấy khô.
 
 ho nhiệt mất tiếng. Dùng ngoài đắp những mụn nhọt sưng đau.
 
@@ -868,21 +868,21 @@ Tên sơn từ cô chính ra chỉ dùng để gọi tôn một vị thuốc h�
 
 Hình Ì5Ỉ. Seo gà - Pteris muỉtifida
 
-c. ()(*)()Chưa thấy tài liệu nghiên cứu.
+c. ()(\*)()Chưa thấy tài liệu nghiên cứu.
 
-()(*)()Rễ và lá được dùng làm thuốc chữa đi ỉa chảy, ỉa ra máu, lỵ dưới dạng thuốc sắc hay thuớc ngâm rượu, nước sắc đôi khi còn thấy ra giun.
+()(\*)()Rễ và lá được dùng làm thuốc chữa đi ỉa chảy, ỉa ra máu, lỵ dưới dạng thuốc sắc hay thuớc ngâm rượu, nước sắc đôi khi còn thấy ra giun.
 
 Rễ, lá sao vàng, tán nhỏ đun với dầu vừng thành thuốc dầu bởi chữa một số bệnh ngoài da của trẻ em.
 
 Ngày uông từ 12 đến 24g rẽ hoặc lá khô. Dùng ngoài không kc liểu ỉượng.
 
-()(*)()Chừa kiết lỵitalic2 (trực ưùng); Rề và lá seo gà sao cho thơm 24g, nước lOOml, đun sôi, giữ sôi trong
+()(\*)()Chừa kiết lỵitalic2 (trực ưùng); Rề và lá seo gà sao cho thơm 24g, nước lOOml, đun sôi, giữ sôi trong
 
 vòng 30 phút. Chia 2 hay 3 lần uống trong ngày chữa lỵ trực trùng.
 
 Đưn thứ hai : Chè tươi lOOg, seo gà khỏ 24g, nước I50ml, đun sôi giữ trong 30 phút. Chia hai hay ba lần uống trong ngày chữa lỵ trực trùng.
 
-()(*)()
+()(\*)()
 
 Cùn gọi là bọng cách, cách.
 
@@ -890,7 +890,7 @@ Tên khoa học _*Premna integriýolia L. (Gumirơ littorea Rumph.).*_
 
 Thuộc họ Cỏ roi ngựa Verbenaceae.
 
-()(*)()Vọng cách là một cây nhỏ có nhiểu cành, đôi khi mọc leo, có khí có gai. Lá mỏng, hình dáng thay đổi, khi thì hình trứng, khi thì hình hơi bầu dục, đầu lá tù hay hơi nhọn, phía cuống hơi hình tròn, dài từ 10-16em, rộng 5-6cm, có khi tới lOcm hay hơn; mép lá nguyên hay hơi khía tai bèo. Hoa nhiều, nhò, màu xanh lục nhạt, mọc thành ngù ở đẩu cành. Quả hình trứng, màu đen nhạt, to bằng hại đậu, xù xì, ở đâu hơi hõm, có 4 ngân, mỗi ngăn chứa một hạt.
+()(\*)()Vọng cách là một cây nhỏ có nhiểu cành, đôi khi mọc leo, có khí có gai. Lá mỏng, hình dáng thay đổi, khi thì hình trứng, khi thì hình hơi bầu dục, đầu lá tù hay hơi nhọn, phía cuống hơi hình tròn, dài từ 10-16em, rộng 5-6cm, có khi tới lOcm hay hơn; mép lá nguyên hay hơi khía tai bèo. Hoa nhiều, nhò, màu xanh lục nhạt, mọc thành ngù ở đẩu cành. Quả hình trứng, màu đen nhạt, to bằng hại đậu, xù xì, ở đâu hơi hõm, có 4 ngân, mỗi ngăn chứa một hạt.
 
 Toàn thím cây có mùi thơm dễ chịu, lá cũng có mùi thơm hơi hắc, rễ có vị hãng đắng, mùi
 
@@ -900,25 +900,25 @@ Hình 152. Vọng cách - Premna integriỷoỉia
 
 thơm ( Hình 152 , Hm 23,4 ).
 
-()(*)()Cây vọng cách mọc hoang khắp nơi ở Việt Nam và các nuớc Lào, Cămpuchia. Còn thấy mọc ở Mangát, An Độ, Inđónêxia, Philipin và châu Úc.
+()(\*)()Cây vọng cách mọc hoang khắp nơi ở Việt Nam và các nuớc Lào, Cămpuchia. Còn thấy mọc ở Mangát, An Độ, Inđónêxia, Philipin và châu Úc.
 
 Thường người ta hái lá quanh năm, có nơi dùng cả vò thân, rễ. Hái về rửa sạch, phơi hay sấy'khô hoặc SÍIO vàng mà dùng.
 
-()(*)()Lá chưa thấy tài liệu nghiên cứu.
+()(\*)()Lá chưa thấy tài liệu nghiên cứu.
 
 Basu N. K và Dandìya p. c (1947) đã chiết được từ vỏ thân hai ancaloit gọi là premnin và ganìarin.
 
 Trong rễ có tinh dầu thơm và một chất màu vàng.
 
-()(*)()Theo kết quả nghiên cứu của Basu N. K và Dandiya p. c thì Premnin thí nghiêm trên ếch có tác dụng giống giaocảm (sympathomimetique), nỏ làm giảm sức cơ của tim và làm dãn nở, dãn đồng tử.
+()(\*)()Theo kết quả nghiên cứu của Basu N. K và Dandiya p. c thì Premnin thí nghiêm trên ếch có tác dụng giống giaocảm (sympathomimetique), nỏ làm giảm sức cơ của tim và làm dãn nở, dãn đồng tử.
 
-()(*)()Vọng cách chi mới thấy được dùng trong phạm vi kinh nghiệm nhân dân. Ngoài công dụng làm thuốc, lá vọng cách được nhân dán dùng ăn gỏi cá.
+()(\*)()Vọng cách chi mới thấy được dùng trong phạm vi kinh nghiệm nhân dân. Ngoài công dụng làm thuốc, lá vọng cách được nhân dán dùng ăn gỏi cá.
 
 Làm thuốc, lá vọng cách dùng chữa lỵ, thông tiểu tiện, giúp sự tiêu hóa. Rê vọng cách chữa đau bụng, ãn uống không tiêu, chữa sốt.
 
 Tại An Độ, Inđônêxia lá vọng cách được dùng dưới dạng sắc uống chữa tê thấp, thấp khớp. Lợi sữa cho phụ nữ mới sinh con. Mỗi ngày dùng 30-40g lá tươi hoặc 15-20g rễ.
 
-()(*)()Chữa kiết lỵ:italic2 Lá vọng cách tươi (30-40g), rửa sạch, vò nát thêm ít nước lã đun sồi để nguội.
+()(\*)()Chữa kiết lỵ:italic2 Lá vọng cách tươi (30-40g), rửa sạch, vò nát thêm ít nước lã đun sồi để nguội.
 
 Cồn í>ọi là đậu kiếm, đậu mèo leo, đao đậu
 
@@ -932,11 +932,11 @@ A. Mò tả cây
 
 Cây thảo, leo cao tới lOm, sống hằng năm. Thân tròn có khía dọc. Lá kép 7 lá chét có cuống chung, xẻ rãnh ở trên, lá chét màu lục nhạt, hình trứng rộng, mềm và nhẩn. Lá kèm sớm rụng. Cụm hoa hình chùm ỏ nách lá, dựng đứng, có cuống 10, mang hoa ở một nửa trên. Hoa to màu trắng hay tím nhat. Đài hình ống chia 2 môi. Cánh hoa có móng, nhị dính thành 1 bó mang 10 bao phân màu vàng. Quả lớn, dẹt, hai mép song song, cong hình chữ s. Hạt 10-14, hình bầu đục dài dẹt màu đỏ. Cây ríi hoa nhiéu lứa từ tháng 6 đến 9, có quả già từ iháng 10-12 (Hình 153).
 
-()(*)()Nguồn sốc ở Ấn Độ. Hiện được trồníỉ ở hầu hết các nước nhiệt đới.
+()(\*)()Nguồn sốc ở Ấn Độ. Hiện được trồníỉ ở hầu hết các nước nhiệt đới.
 
 Người tíi dùng hạt làm thuốc: Quả chín thu hái về. phơi khỏ lẩy hạt, phơi hạt cho thật khô. Hat dài 2,5-3cm. rộng l,5-2cm, đày lcm. Mặt ngoài bỏng có những vết nhãn, mép có tễ mÌLU xám đen. dìii 1,5-2mm, rộns 2mm.
 
-()(*)()Hạt chứa khoảng 20% canavalin, một ít canavanin C-HpO^ (axit), men ureaza. Hạt chưa chín chứa giberellin A21 và A,, (Quảng Châu ihực vật đại từ điển, 1963, 255 và c. A.
+()(\*)()Hạt chứa khoảng 20% canavalin, một ít canavanin C-HpO^ (axit), men ureaza. Hạt chưa chín chứa giberellin A21 và A,, (Quảng Châu ihực vật đại từ điển, 1963, 255 và c. A.
 
 1968, 68, 29.885g, c. A. 1969. 71, 69500w).
 
@@ -946,7 +946,7 @@ Hình 153. Đậu rựa - Catiavơỉia gỉadiata
 
 Trong hạt còn chứa chất gây vón hồng cầu với nống độ 1:100.000.
 
-()(*)()Hạt đậu rựa lẩn đáu tiên thấy shi trong “Bản thảo cưưng mục ” làm thuốc với tên đao đậu. “Bản thào cương mục thập di" ghi rể dùng làm thuốc với tên dao đậu cãn.
+()(\*)()Hạt đậu rựa lẩn đáu tiên thấy shi trong “Bản thảo cưưng mục ” làm thuốc với tên đao đậu. “Bản thào cương mục thập di" ghi rể dùng làm thuốc với tên dao đậu cãn.
 
 Theo tài liệu cổ đậu rựa có vị ngọt, tính ôn, vào hai kinh vị và thận, có tác dụng ôn trung, hạ khí.
 
@@ -966,7 +966,7 @@ Ngoài hạc đậu kiềm nói trên, nhân dân còn dùng hạt đậu tăc, 
 
 1969, 71, 56958b), hạt còn chứa canavanin giberellin I CiyH2ĩ07 và canavalia gibereỉlin II C„H2206 (Kaỉo et al. Teỉrahedron Letters 1967", 4861).
 
-()(*)()
+()(\*)()
 
 Cồn gọi ìù Zơrơng (Bình Định).
 
@@ -974,7 +974,7 @@ Tôn khoa học Zingiber cassumunar Roxb.
 
 Thuộc họ Gừng Zingibcraceae.
 
-A. Mô ()(*)()cây
+A. Mô ()(\*)()cây
 
 Cay thảo, cao 2m, có thân rễ lớn hơn củ gừng, màu lục vàng, mùi nồng tựa hạt tiêu. Lá khòng cuống, hình thuỗn mũi mác, gốc lá tròn, đầu thóp nhọn, mặt trên nhẩn, mặt dưới hơi có lông như bột. Phiến lá dài tới 40cm, rộng 3,5cm,
 
@@ -990,13 +990,13 @@ Cán hoa có lông, dài trung bình 15-25cm vẩy có lông ở gốc, hình m�
 
 Mùa hoa: tháng 7-8, quả: tháng 7-9. (Hình 154)
 
-()(*)()Cây mọc hoang dại ở vùng núi Ba Vì (thuộc Hà Tây). Có nhiều ở Cắc tỉnh micn Nam, được khai thác và sử dụng với tên zơrơng (huyện Tây Sơn, tỉnh Bình Định).
+()(\*)()Cây mọc hoang dại ở vùng núi Ba Vì (thuộc Hà Tây). Có nhiều ở Cắc tỉnh micn Nam, được khai thác và sử dụng với tên zơrơng (huyện Tây Sơn, tỉnh Bình Định).
 
 Còn thấy ở Thái Lan (mang tên Phlai), Ấn Độ, Malaixia.
 
 Nhân dân thu hái thân rễ, đem về rửa sạch, thái mỏng phơi hay sấy khô làm thuốc.
 
-()(*)()Năm 1979, Trạm nghiên cứu dược liệu Nghĩa Bình đã cất từ thân rễ tươi của gừng dại được
+()(\*)()Năm 1979, Trạm nghiên cứu dược liệu Nghĩa Bình đã cất từ thân rễ tươi của gừng dại được
 
 0, 5-0,8% tinh dầu. Từ thân rễ quy ra khổ kiệt được 4-5% tinh dầu. Tinh dầu màu vàng nhạt, sánh, mùi thơm. Để ở nhiệt độ phòng thí nghiệm, sau 5 ngày tinh dầu có khoảng 50-70% tinh thể, nếu để tinh dầu ngay vào tủ lạnh thì chỉ 2 giờ sau kết tinh. Tinh thể màu tráng đục, mùi
 
@@ -1012,11 +1012,11 @@ Matthews và J. Nabney (Tropical Sc. 13, 199- Milti!zer Berichte 1972, 60) nghi�
 
 Năm 1975, (Íníerna!. Fỉavours 6, 136 1936- Miltiier Berichte 1975, 70) D. M. Baker và J . Nabney đã tách được từ linh dầu gừng dai Thái Lan chất l-(3,4-dimetoxyphenyl) butadicn (2,4). Chánàyđã &ọ:TEGjsey,J.Dougm,W.S. Matthews và J. Nabney xác định một số năm nhưng vãn chưa tách ra được (Vạ!. Tropical Sc. 13, 199. ] 97 1).
 
-()(*)()Cây này hầu như chưa thấy sử dụng ở miền Bác nước ta. Dân tộc Bana huyện Tây Sơn tỉnh Bình Định rất hay dùng thân rễ gừng dại với tcn “ngải”, zơt'ơng” để chữa lỵ mãn tính, toi gà.
+()(\*)()Cây này hầu như chưa thấy sử dụng ở miền Bác nước ta. Dân tộc Bana huyện Tây Sơn tỉnh Bình Định rất hay dùng thân rễ gừng dại với tcn “ngải”, zơt'ơng” để chữa lỵ mãn tính, toi gà.
 
 Nhân dân Mataixia dùng thân rể cho trẻ ân đổ tẩy giun và cho phụ nữ sắc uống sau khi đỏ. Thân rễ ngâm rượu dùng xoa bóp bụng cho pliụ nữ sau khi đẻ. Người ta còn dùng chữa thấp khớp; đau nhức và những trường hợp vicm tấy.
 
-()(*)()
+()(\*)()
 
 _Còn gọi là bâng lang, bằng lãng (miển Nam), kwer (dân tộc Ma, Tây Nguyên), thao lao, ưuol (Rađê, Tây Nguyên)._
 
@@ -1028,17 +1028,17 @@ Tên săng lẻ cũng như bằng lăng dùng chỉ nhiều cây thuộc cùng c
 
 Tên Lagerstroemia do Carl von Linné đặt cho từ năm 1759 đê nhớ tới người bạn thân của mình, một công chức người Thụy Điển có tên Magnus Lagerstroem sinh năm 1691 ở Stettin và chết năm 1759 ở Gotterburg.
 
-()(*)()Cây gỗ cao 30-35m, thản gỗ có đường kính 40-8 Ocm, cành mảnh khảnh, có lông mềm màu hung, lông hlnh sao, có ở ngọn, sau nhấn và hình trụ. Lá mũi mác, thuôn dài, hẹp dán, tù ở gốc, dài 7-I4cm, rộng 20-50mm dai, lúc đấu có lông hình sao, sau không lông ở phía trên, có nhiều lông mềm hơn ở mặt dưới, gân phụ 10-13 đôi. Cụm hoa mọc ở đỉnh với 6-8 hoa, nụ hình nón ngược hay trái xoan, đài hình chuông, rất nhiều lông mềm, 6 thùy hình ba cạnh, cánh hoa
+()(\*)()Cây gỗ cao 30-35m, thản gỗ có đường kính 40-8 Ocm, cành mảnh khảnh, có lông mềm màu hung, lông hlnh sao, có ở ngọn, sau nhấn và hình trụ. Lá mũi mác, thuôn dài, hẹp dán, tù ở gốc, dài 7-I4cm, rộng 20-50mm dai, lúc đấu có lông hình sao, sau không lông ở phía trên, có nhiều lông mềm hơn ở mặt dưới, gân phụ 10-13 đôi. Cụm hoa mọc ở đỉnh với 6-8 hoa, nụ hình nón ngược hay trái xoan, đài hình chuông, rất nhiều lông mềm, 6 thùy hình ba cạnh, cánh hoa
 
 6, hình mắt chim, nhị có nhiều gần bằng nhau, nhị bầu xù xì có 5-6 ô, quả nang hình trứng dài 12mm, tụt vào trong dài tới 1/3 {Hình 155 ).
 
-()(*)()Mọc hoang dại hầu như ở khắc nước ta nhưng nhiều lìhất ở Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Quàng Trị, Thừa Thiên, Gia Lai, Kontum, Đắc Lắc.
+()(\*)()Mọc hoang dại hầu như ở khắc nước ta nhưng nhiều lìhất ở Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Quàng Trị, Thừa Thiên, Gia Lai, Kontum, Đắc Lắc.
 
 Còn thấy mọc ở Lào, Cămpuchia, Thái Lan, Miến Điện, Ân Độ.
 
 Chủ yếu là lấy gỗ loại gỗ hồng sắc, Nhân dân miền Nam thường dùng vò thân và lá dừng làm Ihuổc chữa bỏng, lỵ.
 
-()(*)()Hoàng Như Mai (1983) đã phân tích thấv:
+()(\*)()Hoàng Như Mai (1983) đã phân tích thấv:
 
 Trrtng vỏ íhán có ancaloit, Aavonoit, axit hữu cơ, tanin, saponin, cumarin và sterol. Trong đó tanin catechie và gallic chiếm 30,5% chủ yếu là tanin catechic 23%, lanĩn gallic 7%. Axit hữu cơ biểu thị bàng axit malic 4,22%, tổng sổ đường 14,2% trong đó đường khử 13,2%, saccaroza
 
@@ -1048,7 +1048,7 @@ Trong ìá và hoa cũng có những chất như trong vò thân nhưng với t�
 
 0, 57%, chỉ số bọt duới ỉ 00, nhưng gôm chất nhầy ưong lá cao hơn trong vỏ thân: Chất nhầy 3,25%, gôm 3,7%, pectin 6,51%.
 
-()(*)()Cũng Hoàng Như Mai đã theo dõi thí nghiệm tác dụng kháng khuẩn của nước sắc vỏ thân 3:1, lá và hoa 2:1 in vitro đối với nhiều nòi vi. khuẩn hay gặp trên vết thương và gây bệnh đường ruột (iStaphylococcus aureus 209P, Proìeus vuỉgaris , Proteus. aeruginosa, Shiỵeỉla shiụae, sonnci, Ịìexneru E. coli 086, Saltnoneỉỉa typhi , B.subt.ilis) đều thấy có tác dụng kháng khuẩn với mức độ khác nhau. Thí nghiêm còn cho thấy tan in trong săng lẻ là một trong các thành phần có tác (lụng kháng khuẩn của cây.
+()(\*)()Cũng Hoàng Như Mai đã theo dõi thí nghiệm tác dụng kháng khuẩn của nước sắc vỏ thân 3:1, lá và hoa 2:1 in vitro đối với nhiều nòi vi. khuẩn hay gặp trên vết thương và gây bệnh đường ruột (iStaphylococcus aureus 209P, Proìeus vuỉgaris , Proteus. aeruginosa, Shiỵeỉla shiụae, sonnci, Ịìexneru E. coli 086, Saltnoneỉỉa typhi , B.subt.ilis) đều thấy có tác dụng kháng khuẩn với mức độ khác nhau. Thí nghiêm còn cho thấy tan in trong săng lẻ là một trong các thành phần có tác (lụng kháng khuẩn của cây.
 
 Tác dụng thể hiện trên nhìểu nòi vi khuẩn đã kháng các kháng sinh thông thường (penixilin, sreptomyxin, tetracyclin) trong đó có Staphvlìococcus ơureus. So với một vài dược liệu khác (muổng trâu, chút chíi, bạch hạc, nhựa chuối tiêu, trầu không) săng lẻ có tác dụng kháng khuẩn tương đối mạnh, nồng độ tối thiểu ức chế vi sinh vật phát triển tương đối thấp.
 
@@ -1062,7 +1062,7 @@ Thí nghiệm thử độc tính bán cấp và trường diễn không thấy c
 
 Thử tác dụng điều trị bỏng thực nghiêm của sáng lẻ cho thấy cao lỏng vỏ sãng lẻ 3:1 tạo thành một màng mỏng chóng khô ở chỗ bôi, bản thân săng lẻ lai có tác dụng kháng khuẩn nên hạn chế được rõ so với lô đối chứng nhưng cao săng lẻ giúp cho quá trinh liền sẹo nhanh và tốt hơn, không có trường hợp nào phát hiện thấy có sẹo xấu, lôi hoặc co.
 
-()(*)()Theo kính nghiệm của nhân dân, săng tẻ được áp dụng chữa bênh nấm ngoài da (dùng cồn sãng lẻ 30%) bôi lên nơi tổn thương, ngày 2 lần, kết quả thu được rõ hơn là dùng cổn chút chít và bạch hạc.
+()(\*)()Theo kính nghiệm của nhân dân, săng tẻ được áp dụng chữa bênh nấm ngoài da (dùng cồn sãng lẻ 30%) bôi lên nơi tổn thương, ngày 2 lần, kết quả thu được rõ hơn là dùng cổn chút chít và bạch hạc.
 
 Điều trị lỵ trực khuẩn: Ngày uống từ 10-15 viên, mỗi viên tương đương với 1,5g dược ỉiệu khó. Thời gian hết khuẩn Shigcỉỉa ngắn hơn so với đùnỉ’ cloroxit hay ganidan. Thời gian đícu trị 10-15 ngày. Đối với trò em dưới 5 tuổi dùng với liều 3-6 viẽn/ngày. Dùng liển 5-7 ngày.
 
@@ -1070,7 +1070,7 @@ Thử tác dụng điều trị bỏng thực nghiêm của sáng lẻ cho thấ
 
 ### V. CÁC CÂY THUỐC VÀ VỊ THUỐC THÔNG TIỂU TIỆN VÀ THÔNG MẬT
 
-()(*)()Còn gọi là mã đề thảo, xa tiển, nhả én, dứt (Thái) su ma (Thổ).
+()(\*)()Còn gọi là mã đề thảo, xa tiển, nhả én, dứt (Thái) su ma (Thổ).
 
 Tên khoa học _*Plantago asiatica L.ịPlantago major L. var. asiatica Decaísnc).*_
 
@@ -1086,9 +1086,9 @@ Cay mã dề cho các vị thuốc có tên sau đây:
 
 3. Lá mã đề; Foliuin p]antaginis-là lá tươi hay phơi hiìặc sấy khô.
 
-()(*)()Mã đè là loại cỏ sống lâu năm, thân ngắn, lá mọc thành cụm ở gốc, cuống dài, phiến lá hình thìa hay hình trứng, có gân dọc theo sống lá và đồng quy ỏ ngọn và gốc lá. Hoa mọc thành bồng, có cán dài, xuất phát từ kẽ lá. Hoa đểu, lưỡng tính, đài 4, xếp chéo, hơi đính nhau ở gốc, tràng màu nâu lổn tại, gồm 4 thùy nằm xen kẽ ở giữa các lá đài. Nhị 4 chỉ nhị mảnh, dài, 2 lá noãn chứa nhiều tiểu noãn. Quả hộp trong chứa nhiều hạt màu níiu đcn bóng. ( Hình 156, Hm27,3 )
+()(\*)()Mã đè là loại cỏ sống lâu năm, thân ngắn, lá mọc thành cụm ở gốc, cuống dài, phiến lá hình thìa hay hình trứng, có gân dọc theo sống lá và đồng quy ỏ ngọn và gốc lá. Hoa mọc thành bồng, có cán dài, xuất phát từ kẽ lá. Hoa đểu, lưỡng tính, đài 4, xếp chéo, hơi đính nhau ở gốc, tràng màu nâu lổn tại, gồm 4 thùy nằm xen kẽ ở giữa các lá đài. Nhị 4 chỉ nhị mảnh, dài, 2 lá noãn chứa nhiều tiểu noãn. Quả hộp trong chứa nhiều hạt màu níiu đcn bóng. ( Hình 156, Hm27,3 )
 
-()(*)()Mã đé mạc hoang và được trồng tại nhiều nơi ở kháp nước ta. Muốn bảo đảm nhu cầu cần đặt vấn dề trồng. Trồng bằng hạt chọn ỏ những cây
+()(\*)()Mã đé mạc hoang và được trồng tại nhiều nơi ở kháp nước ta. Muốn bảo đảm nhu cầu cần đặt vấn dề trồng. Trồng bằng hạt chọn ỏ những cây
 
 Hình í56. Mã đé ■ Plantago asiatica
 
@@ -1096,13 +1096,13 @@ to khỏe, hạt mẫm đen. Thường trồng vào mùa xuân và mùa thu như
 
 Vào thấng 7-8 quả chín thì hái toàn cây đưa về phơi hay sấy khô, loại bỏ tạp chất. Muốn lấy hạt thì đập và giũ lấy hạt, rây qua rây rồi phơi khô. Không phải chế biến gì đạc biệt. Khi dùng lá, có thể hái gần như quanh năm, có thể dùng tươi hay khỏ.
 
-()(*)()Toàn cây chứa một glucozứ gọi là aucubin
+()(\*)()Toàn cây chứa một glucozứ gọi là aucubin
 
 Thuốc lợi tiếu: Xa tiền tủ (hạt mã đề) lOg, cam thảo 2g, nước 600ml (3 bát), sắc và giữ sôi trong nửa giờ. Chia 3 lần uống trong ngày. Chữa ho tiểu đờm: Xa tiền thảo (cày mã đề)
 
 lOg, catn thảo 2g, cát cánh 2g, nước 400ml. Đun sôi trong nửa giờ. Chia 3 lần uống trong ngày. Nếu không có cam thảo, thì có thể thay bằng đường cho đủ ngọt mà uống.
 
-### ()(*)()MM ()(*)(
+### ()(_)()MM ()(_)(
 
 Còn có lén là cây mã đề nước.
 
@@ -1112,15 +1112,15 @@ Thuộc họ Trạch tả Aiismataceae.
 
 Trạch tả (Rhiioma Alismatis ) là thân củ. chế biến, phơi hay sấy khô cùa cây trạch tả (trạch-đầm, tả=tát cạn, vì vị này thồng tiểu tiện rất mạnh như tát cạn nước đầm ao).
 
-()(*)()Cây trạch tả mọc ở ao và ruộng, cao 0,3-Im. Thân rẻ trắng, hình cầu hay hình con quay, thành cụm, lá mọc ở gốc hình trứng thuôn, hay lưỡi mác, phía cuống hai hẹp lại hmh tim. Hoa họp thành tán có cuống dài đều, lưỡng tính có 3 lá đài màu lục, 3 cánh hoa trâng hay hơi hồng, nhị nhiều lá noãn rời nhau, xếp xoắn ốc. Quả ỉà một đa bế quả. ( Hình 157, Hm 37,4 ).
+()(\*)()Cây trạch tả mọc ở ao và ruộng, cao 0,3-Im. Thân rẻ trắng, hình cầu hay hình con quay, thành cụm, lá mọc ở gốc hình trứng thuôn, hay lưỡi mác, phía cuống hai hẹp lại hmh tim. Hoa họp thành tán có cuống dài đều, lưỡng tính có 3 lá đài màu lục, 3 cánh hoa trâng hay hơi hồng, nhị nhiều lá noãn rời nhau, xếp xoắn ốc. Quả ỉà một đa bế quả. ( Hình 157, Hm 37,4 ).
 
-()(*)()Cây này mọc hoang ở những nơi ẩm ướt ở Lào Cai, Lai Châu, Cao Bằng, Lạng Sơn. Hiện được trồng ở nhiều linh như Nam Hà, Thái Bình, Hà Tày, Hoà Bình... Hái lấy rễ củ, rửa sạch, cạo hết rẻ nhò, phơi hoặc sấy khô.
+()(\*)()Cây này mọc hoang ở những nơi ẩm ướt ở Lào Cai, Lai Châu, Cao Bằng, Lạng Sơn. Hiện được trồng ở nhiều linh như Nam Hà, Thái Bình, Hà Tày, Hoà Bình... Hái lấy rễ củ, rửa sạch, cạo hết rẻ nhò, phơi hoặc sấy khô.
 
-()(*)()Trong trạch tả, người ía mới phàn tích thấy được tinh dầu, chất nhựa 7%, chất prôtit và 23% chất bột. Thành phần hoạt chất chưa rõ.
+()(\*)()Trong trạch tả, người ía mới phàn tích thấy được tinh dầu, chất nhựa 7%, chất prôtit và 23% chất bột. Thành phần hoạt chất chưa rõ.
 
 Dược diển Triểu Tiên quy định: Độ ẩm dưới 15%, tro dưới 7%, tro không tan trong HC1 dưới 2% , cao rượu trên 1%.
 
-()(*)()Trong chuyên san của Viện nghiên cứu tiền Bắc Bình có báo cáo: Bắt đầu, tiêm kali nitrat cho thỏ để gây viêm thận đưa đến hiện tượng ứ đọng urê và cholesterin trong máu, sau đó tiêm thuốc trạch tả. Kết quả là lượng urê và cholesterin trong máu giảm xuống.
+()(\*)()Trong chuyên san của Viện nghiên cứu tiền Bắc Bình có báo cáo: Bắt đầu, tiêm kali nitrat cho thỏ để gây viêm thận đưa đến hiện tượng ứ đọng urê và cholesterin trong máu, sau đó tiêm thuốc trạch tả. Kết quả là lượng urê và cholesterin trong máu giảm xuống.
 
 Cho người mạnh khỏe, uống nước sắc trạch tả, thấy lượng nước tiểu, lượng urê và lượng
 
@@ -1128,19 +1128,19 @@ Hình ỉ57. Trạch lả - Alisma plantago aquatica L. var. orientaỉis
 
 natri clorua bài tiết đều tăng lên.
 
-()(*)()Chủ yếu làm thuốc thông tiểu chữa bệnh thủy thũng trong bệnh viêm thận. Ngày dùng từ 10 đến 30g dưới dạng thuốc sắc hoặc dùng riêng hay phối hợp với các vị thuốc khác. Có người nói là có thể chữa bệnh sỏi thân và lợi sữa.
+()(\*)()Chủ yếu làm thuốc thông tiểu chữa bệnh thủy thũng trong bệnh viêm thận. Ngày dùng từ 10 đến 30g dưới dạng thuốc sắc hoặc dùng riêng hay phối hợp với các vị thuốc khác. Có người nói là có thể chữa bệnh sỏi thân và lợi sữa.
 
-1. ()(*)()Chữa thủy thũng:italic2 Trạch tả 40g, bạch truật 40g, tán nhỏ, mỗi lần uống 10-12g. Dùng nước sắc phục linh để chiêu thuốc.
+1. ()(\*)()Chữa thủy thũng:italic2 Trạch tả 40g, bạch truật 40g, tán nhỏ, mỗi lần uống 10-12g. Dùng nước sắc phục linh để chiêu thuốc.
 
 2. Phục linh trạch là thang: Trạch tả 6g, phục linh 6g, bạch truật 4g, cam thào 2g, quế chi 2g, nước 600ml. sắc còn 200ml chia 3 lần uống trong ngày. Cũng chữa bệnh thủy thũng.
 
-()(*)()Đợi phúc bì (Pericarpium Arecae) là vỏ ngoài và vó giữa phơi hay sấy khô của quả cau (xem cây cau ở trên) ( Hình 158 ).
+()(\*)()Đợi phúc bì (Pericarpium Arecae) là vỏ ngoài và vó giữa phơi hay sấy khô của quả cau (xem cây cau ở trên) ( Hình 158 ).
 
 Thườna các mảnh vò này đuợc đập làm hai mà phơi cho chóng khô.
 
-()(*)() ()(*)()Trong đại phúc bì có những ancaloit Irong hạt CHU như arecolin, arecaidin, guvacolin và guvaxin v.v... nhưng tỷ }ệ rất thấp.
+()(_)() ()(_)()Trong đại phúc bì có những ancaloit Irong hạt CHU như arecolin, arecaidin, guvacolin và guvaxin v.v... nhưng tỷ }ệ rất thấp.
 
-()(*)()Tác dụng thông tiểu tiện rất rõ rệt, thường dùng chữa các bệnh phù toàn thần, nhất là bụng.
+()(\*)()Tác dụng thông tiểu tiện rất rõ rệt, thường dùng chữa các bệnh phù toàn thần, nhất là bụng.
 
 Ngày dùng 10-12g dưới dạng ihuốc sắc.
 
@@ -1148,7 +1148,7 @@ Chú thích:
 
 Có người dùng và gọi đại phúc bì là những miếng mo cau phơi khô. Nhưng vỏ ngoài và vỏ giữa của quả cau hay được dùng hơn.
 
-()(*)()
+()(\*)()
 
 _Còn gọi !ù cỏ gà, cỏ ống._
 
@@ -1158,13 +1158,13 @@ Thuộc họ Lúa Poaceae (Gramineae).
 
 Cỏ chỉ-cỏ ống (Rhizoma cynodoni) là thân rễ phơi hay sấy khò của cây cỏ ống hay cây cỏ chỉ.
 
-()(*)()Đây là một loại cỏ sống dai, thân có nhiều cành, cứng, bò, thỉnh thoảng lại phát ra những thân đứng, bất thụ. Lá phẳng, ngắn, hẹp, nhọn, dài 3-4cm. Cụm hoa gồm 2-5 bòng hình ngón tay, gầy, dài 2,5-5cm màu xanh hay tím, tỏa trên đỉnh một cuống gầy. Quả dĩnh, hình thoi thường dẹt, không có rãnh, tự do trong các mày nhỏ (Hình 159 ).
+()(\*)()Đây là một loại cỏ sống dai, thân có nhiều cành, cứng, bò, thỉnh thoảng lại phát ra những thân đứng, bất thụ. Lá phẳng, ngắn, hẹp, nhọn, dài 3-4cm. Cụm hoa gồm 2-5 bòng hình ngón tay, gầy, dài 2,5-5cm màu xanh hay tím, tỏa trên đỉnh một cuống gầy. Quả dĩnh, hình thoi thường dẹt, không có rãnh, tự do trong các mày nhỏ (Hình 159 ).
 
-()(*)()Cây cỏ Ống mọc hoang kháp nơi ở Việt Nam. ở các nước khác cây này thường dùng để giả mạo hay dùng cùng với cây Agropyrum repens Beauv. {Triticum repens L.) làm thuốc thông tiểu tiện. Đào cây, cát lấy thân rể rửa sạch đất, cát, phơi hay sấy khô.
+()(\*)()Cây cỏ Ống mọc hoang kháp nơi ở Việt Nam. ở các nước khác cây này thường dùng để giả mạo hay dùng cùng với cây Agropyrum repens Beauv. {Triticum repens L.) làm thuốc thông tiểu tiện. Đào cây, cát lấy thân rể rửa sạch đất, cát, phơi hay sấy khô.
 
-c. ()(*)()Chưa thấy có tài liệu. Trong cây Agropyrum repens (petit chiendent) người ta tiiấy có các muối kali.
+c. ()(\*)()Chưa thấy có tài liệu. Trong cây Agropyrum repens (petit chiendent) người ta tiiấy có các muối kali.
 
-()(*)()Thuốc thông tiểu tiện dùng dưới dạng thuốc pha hay thuốc sác (20%o: 20g pha trong 1 lít nước).
+()(\*)()Thuốc thông tiểu tiện dùng dưới dạng thuốc pha hay thuốc sác (20%o: 20g pha trong 1 lít nước).
 
 Có thể dùng dưới dạng cao nước.
 
@@ -1180,21 +1180,21 @@ Thuộc họ Lúa Poaceae (Grctmineae ).
 
 Rễ cỏ tranh hay Bạch mao cãn (Rhiioma ỉmperataè) là thân rễ phơi hay sấy khô của cây tranh hay cổ tranh.
 
-()(*)()Cây cỏ tranh là một loại cỏ sống dai, thân rễ khỏe chác. Thân cao 30-90CIĨ1, lá hẹp dài 15- 30cm, rông 3-6mm, gân lá ở giữa phát triển, ráp ở mặt trên, nhẵn ở mặt dưới, mép lá sắc. Cụm hoa hình chùy nhưng hình bắp dài 5-20cm màu trắng bạc, bồng nhỏ phủ đầy lông nhỏ níểm, rất dài ( Hình 160, Hm 10,3 ).
+()(\*)()Cây cỏ tranh là một loại cỏ sống dai, thân rễ khỏe chác. Thân cao 30-90CIĨ1, lá hẹp dài 15- 30cm, rông 3-6mm, gân lá ở giữa phát triển, ráp ở mặt trên, nhẵn ở mặt dưới, mép lá sắc. Cụm hoa hình chùy nhưng hình bắp dài 5-20cm màu trắng bạc, bồng nhỏ phủ đầy lông nhỏ níểm, rất dài ( Hình 160, Hm 10,3 ).
 
 Mọc hoang ở khắc nơi trong nước ta.
 
-()(*)()Trong thân rễ có glucoza, fructoza và axit hữu cơ.
+()(\*)()Trong thân rễ có glucoza, fructoza và axit hữu cơ.
 
-()(*)()Tính chất theo tài liệu cổ: Bạch mao căn có vị ngọl tính hàn, hoa có vị ngọt tính ôn. Vào ba kinh tâm, tỳ và vị. Có lác dụng trừ phục nhiệt, liêu ứ huyết, lợi tiểu tiện, dùng chữa nội nhiệt phiền khái, tiểu tiện khó khăn, đái ra máu, thổ huyết, máu cam.
+()(\*)()Tính chất theo tài liệu cổ: Bạch mao căn có vị ngọl tính hàn, hoa có vị ngọt tính ôn. Vào ba kinh tâm, tỳ và vị. Có lác dụng trừ phục nhiệt, liêu ứ huyết, lợi tiểu tiện, dùng chữa nội nhiệt phiền khái, tiểu tiện khó khăn, đái ra máu, thổ huyết, máu cam.
 
 Rễ cỏ tranh có tác dụng thông tiểu tiện và tẩy độc cơ thể. Còn dùng chữa sổt nóng, khát nước, niệu huyết, thổ huyết.
 
 Liểu dùng 10-40g dưới dạng thuốc sắc.
 
-()(*)()Chè lợi tiểu:italic2 Râu ngô 40g, xa tiền 25g, rễ cỏ tranh 30g, hoa cúc 5g. Tất cả thái nhỏ, trộn đcu. Mỗi lần cân 50g pha thành 0,751ít chia uống
+()(\*)()Chè lợi tiểu:italic2 Râu ngô 40g, xa tiền 25g, rễ cỏ tranh 30g, hoa cúc 5g. Tất cả thái nhỏ, trộn đcu. Mỗi lần cân 50g pha thành 0,751ít chia uống
 
-()(*)()Còn có tén gọi là cây bông bạc.
+()(\*)()Còn có tén gọi là cây bông bạc.
 
 Tên khoa học _*Orthosiphon stamineus Benth.*_
 
@@ -1202,7 +1202,7 @@ Thuộc họ Hoa môi Lamiơceae (Labiatae).
 
 Ta dùng lá râu mèo (Folium Orthosiphonis) là lá và búp phơi hay sấy khô hoặc chế biến rồi phơi hay sấy khô của cây râu mèo hay bông bạc.
 
-()(*)()Cây râu mèo-có tên như vậy vì nhị và nhụy
+()(\*)()Cây râu mèo-có tên như vậy vì nhị và nhụy
 
 trong ngày vào lúc khát.
 
@@ -1216,7 +1216,7 @@ Chú (hích:
 
 Lá non dùng cho trâu, bò, ngựa ăn rất tớt. Lá già dùng để lợp nhà.
 
-()(*)()mm ()(*)()của hoa thò ra giống râu con mèo.
+()(_)()mm ()(_)()của hoa thò ra giống râu con mèo.
 
 Cây nhỏ, sống lâu năm, cao 0,30 hoặc 0,50 đến lm. Thân cây có cạnh vuông, mang nhiểu cành. Lá mọc đối, cặp lá trước mọc thành chữ thập đối với cặp lá sau. Cuống lá rất ngắn, chừng 2-5mm. Cụm hoa tận cùng thẳng, mọc thành chùm, màu hoa lúc non thì trắng, sau ngả màu xanh tím. Hoa nở suốt mùa hè ( Hình 161, Hm 10,1).
 
@@ -1224,33 +1224,33 @@ Cây nhỏ, sống lâu năm, cao 0,30 hoặc 0,50 đến lm. Thân cây có c�
 
 Hình J6Ỉ Râu mèo - Orthosiphon stamineus
 
-()(*)()Mọc hoang và được trồng ở nước ta. Trổng bằng hạt hay dủm cành. Còn mọc italic1ở Inđônêxia, Philipin.
+()(\*)()Mọc hoang và được trồng ở nước ta. Trổng bằng hạt hay dủm cành. Còn mọc italic1ở Inđônêxia, Philipin.
 
-c. ()(*)()Trong cây râu mèo có một glucozit đáng gọi là orthosiphonin, ít tan trong ruợu, tan nhiều trong nước.
+c. ()(\*)()Trong cây râu mèo có một glucozit đáng gọi là orthosiphonin, ít tan trong ruợu, tan nhiều trong nước.
 
 Ngoài ra còn một ít tinh dầu, một ít chất béo, tanin (5-6%), đường, và một tỷ lệ khá cao muối vồ cơ (rong đó chủ yếu ià muôi kali.
 
 Có táf giả nói còn lấy đưực một chất saponin tritecpenic gọi là sapophonin. Chất này thủy phân sẽ được sapogenin, arabinoza và hexoza. Nhung gần đây có người không công nhận chất này.
 
-()(*)()Nước sắc hay nước pha lá râu mèo làm Căng lương nước tiểu, đổng thời tăng cả lượng clorua, lượng urê và lượng axit uric.
+()(\*)()Nước sắc hay nước pha lá râu mèo làm Căng lương nước tiểu, đổng thời tăng cả lượng clorua, lượng urê và lượng axit uric.
 
 Còn có tác dụng chữa xung huyết gan, đuờng mật.
 
-()(*)()và ()(*)()Thuốc thông tiểu tiện dùng trong bệnh sỏi thận, sỏi túi mật, sốt ban, cúm, tê thấp, phù.
+()(_)()và ()(_)()Thuốc thông tiểu tiện dùng trong bệnh sỏi thận, sỏi túi mật, sốt ban, cúm, tê thấp, phù.
 
 Liều dùng 5-6g pha với nửa lít nưóc. Chia 2 íần uống trong ngày, trước khi ăn cơm 15-30 phút. Uống nóng.
 
 Thường uống luôn 8 ngày, lại nghỉ 2 đến 4 ngày. Có thể dùng cao lỏng 2-5g.
 
-()(*)()Ràu ngô (Stigmata Maydis hay Styìi ei Stìgmata Maydis) là vòi và núm phơi khô của hoa cây ngố (Zea.mavs L.) đã già và cho bắp. Râu ngô hái vào lúc ta thu hoạch ngô (Hình 162, Hm 10,2).
+()(\*)()Ràu ngô (Stigmata Maydis hay Styìi ei Stìgmata Maydis) là vòi và núm phơi khô của hoa cây ngố (Zea.mavs L.) đã già và cho bắp. Râu ngô hái vào lúc ta thu hoạch ngô (Hình 162, Hm 10,2).
 
-()(*)()Trong râu ngô có các chất xitosterol, stìgmas- terol, chất dầu, tinh dầu, saponin, glucozit đắng, vitamin c, vitamin K, chất nhầy và một sô' chất khác.
+()(\*)()Trong râu ngô có các chất xitosterol, stìgmas- terol, chất dầu, tinh dầu, saponin, glucozit đắng, vitamin c, vitamin K, chất nhầy và một sô' chất khác.
 
 Ig râu ngô chứa tới 1600 đơn vị sinh lỷ vita- min K.
 
 Tỷ lệ muối kali trong râu ngô cũng cao: 20g râu ngó phơi khố chứa 0,028g canxi và 0,532g kali.
 
-1. ()(*)()Râu ngô làm tăng lượng nước tiểu từ 3 tới
+1. ()(\*)()Râu ngô làm tăng lượng nước tiểu từ 3 tới
 
 5 lần.
 
@@ -1274,7 +1274,7 @@ Cân lơg râu ngô, cắt nhỏ, cho vào 1 bát nuớc (200ml) đun sỏi, đ�
 
 Nếu chê thành cao lỏng, đóng thành lọ 20g. Ngày uống 2-3 lần, mỗi lân 30-40 giọt trước bữa àn.
 
-()(*)()
+()(\*)()
 
 Tên khoa học _*Cvnara scoỉymus L.*_
 
@@ -1286,9 +1286,9 @@ A. Mò tả cây
 
 Cây Actísô cao gán lm hay hơn, có khi tới hơn 2m, trên thân và lá có lòng trắng như bồng. Lá lo mọc cách, phiến lá bị khía sầu, có gai, mặt đưới có lông trắng. Cụm hoa hình đầu, màu tím nhạt. Lá bdc ngoài của cụm hoa dầy và nhọn. Phần gốc nạc của lá bác và đế hoa ãn được (Hình 163)
 
-()(*)()Cây được di thực và trồng ở nước ta, nhiều nhất ở Đà Lạt, Sapa, Tam Đảo. Có thể trồng được ở đồng bằng. Lá hái vào lúc cây sáp hoặc đang ra hoa. Rọc bỏ sống lá, sấy hay phơi khô.
+()(\*)()Cây được di thực và trồng ở nước ta, nhiều nhất ở Đà Lạt, Sapa, Tam Đảo. Có thể trồng được ở đồng bằng. Lá hái vào lúc cây sáp hoặc đang ra hoa. Rọc bỏ sống lá, sấy hay phơi khô.
 
-c. ()(*)()Hoạt chất của actisô hiện chưa xác định. Mới xác định trong lá actisô có một chất đắng có phản ứng axit gọi là xynarin đã tổng hợp được. Công thức đã được xác định là axit 1-4 dicaíein quinic.
+c. ()(\*)()Hoạt chất của actisô hiện chưa xác định. Mới xác định trong lá actisô có một chất đắng có phản ứng axit gọi là xynarin đã tổng hợp được. Công thức đã được xác định là axit 1-4 dicaíein quinic.
 
 Ngoài ra còn thấy inulin, inulinaza, tanin, các muối hữu cơ của các kim loại ka li, canxí, magiê, natri (tỷ lệ kali rất cao).
 
@@ -1296,13 +1296,13 @@ Ngoài ra còn thấy inulin, inulinaza, tanin, các muối hữu cơ của các
 
 Hình 163- Acỉisỗ - Cynara scohmus
 
-1. ()(*)()Sau khi tiêm mạch máu dung dịch actisô từ 2 đến 3 giờ lượng mật bài tiết tăng lên gấp 4 lần (M. Chabrol, Charonnat Maxim và Watz, 1929).
+1. ()(\*)()Sau khi tiêm mạch máu dung dịch actisô từ 2 đến 3 giờ lượng mật bài tiết tăng lên gấp 4 lần (M. Chabrol, Charonnat Maxim và Watz, 1929).
 
 2. Uống và tiêm actisô đều có tác dụng tăng lượng nước tiểu, lượng urẻ trong nước tiểu cũng
 
 OH OH
 
-o 1 COOH ()(*)()
+o 1 COOH ()(\*)()
 
 CH- CH —c —o-/ o — ổ — CH - CH
 
@@ -1328,7 +1328,7 @@ Tên khoa học _*Poria cocos Wolf. (Pachyma hoeìen Rumph.).*_
 
 Thuộc họ Nấm lỗ Pơlyporaceae.
 
-()(*)()Nấm này mọc ký sinh trên rễ cây thông. Vì người ta cho phục linh là linh khí của cây thông nấp ở dưới đất, do đó mà đặt tên. Nếu nấm mọc xun? quanh rễ khi đào lên có rễ thông ở giữa nẩm thì gọi là phục thần. Người ta cho loại này có lác dung yên thần phách, chữa sợ hãi, mất ngù.
+()(\*)()Nấm này mọc ký sinh trên rễ cây thông. Vì người ta cho phục linh là linh khí của cây thông nấp ở dưới đất, do đó mà đặt tên. Nếu nấm mọc xun? quanh rễ khi đào lên có rễ thông ở giữa nẩm thì gọi là phục thần. Người ta cho loại này có lác dung yên thần phách, chữa sợ hãi, mất ngù.
 
 Nấm hình khôi to, có (hể nặng tới 5 kg. Nhỏ có thể bàng nắm tay. Mặt ngoài màu xám đen, nhăn nheo có khi thành bướu, cắt ngang sẽ thây mặt lổn nhổn hoặc trắng (bạch phục linh) hoặc hổng xám (xích phục linh).
 
@@ -1336,11 +1336,11 @@ Bột phục linh có màu trấng xám, chủ yếu gồm các khuẩn ty. bào
 
 Dùng glyxêrin để soi sẽ thấy các khuẩn ty không mầu, thỉnh thoảng có các khuẩn ty màu nâu đường kính 3-4 f.urs, Cuống đám tử có đường kính 9-18^lm, trên đầu có nhiều đảm bào tử đường kính 11-26 |U.m. Ngoài ra, đôi khi có các đám chất keo ( Hình 164, Hm 49,1).
 
-()(*)()Phục linh hiên phải nhập của Trung Quốc. Loại tốt nhất mọc ở Vân Nam gọi là Vân Linh.
+()(\*)()Phục linh hiên phải nhập của Trung Quốc. Loại tốt nhất mọc ở Vân Nam gọi là Vân Linh.
 
 Thứ ớ Quàng Đồng có thể không tổt bằng thứ ở Vàn Nam. Năm 1977 phát hiện thấy có ở vùng Đà Lạt (Lâm Đồng) ở nước ta.
 
-()(*)()Chưa rõ hoạt chất là gì. Tuy nhiên, trong phục linh người ta đã phân tích có chất đường đặc biệt của phục linh: Pachymoza, glucoza, frucíoza và chất khoáng.
+()(\*)()Chưa rõ hoạt chất là gì. Tuy nhiên, trong phục linh người ta đã phân tích có chất đường đặc biệt của phục linh: Pachymoza, glucoza, frucíoza và chất khoáng.
 
 Mới đây người ta nghiên cứu thấy thành phần phục linh gổm 3 loại:
 
@@ -1350,7 +1350,7 @@ Mới đây người ta nghiên cứu thấy thành phần phục linh gổm 3 l
 
 3. Ngoài ra còn ergosterol, cholin, histiđin, và rất ít men proteaza.
 
-()(*)()Cao Úng Dấu và Chu Nhĩ Phượng (1955, Trung Hoa V học lạp chí, 10) đã nghiên cứu và báo cáo vé tác dụng dược lý của phục linh như sau:
+()(\*)()Cao Úng Dấu và Chu Nhĩ Phượng (1955, Trung Hoa V học lạp chí, 10) đã nghiên cứu và báo cáo vé tác dụng dược lý của phục linh như sau:
 
 - Chuẩn bị một số thỏ trong 5 ngày: Nhốt từng con vào chuồng riêng, mỗi ngày cho mỗi con ãn ngoài đậu đcn ra còn cho uống 200ml nước (cho vào cố họng). Hằng ngày hứng nước tiểu của từng con và cân.
 
@@ -1360,7 +1360,7 @@ Sau đó tiến hành đôi chiếu với lượng tro tương đương cúa dư
 
 Kêì quả thí nghiệm chứng mình phục linh có lác đụng lợi ticu và tác dụng lợi tiểu đó không phái do muôi có trong tro của phục linh.
 
-()(*)()Tính chất phục linh theo íài liệu cổ: VỊ ngọt, nhạt, tính bình, vào 5 kính tâm, phế, thận, tỳ và vị. Có tác dụng lợi thủy, thẩm thấp, bổ tỳ, định tam, dùng chữa tiểu tiện khó khăn, thủy thũng trướng man, tiết tả, phục thán định tâm, an thần chữa hồi hôp mất ngủ.
+()(\*)()Tính chất phục linh theo íài liệu cổ: VỊ ngọt, nhạt, tính bình, vào 5 kính tâm, phế, thận, tỳ và vị. Có tác dụng lợi thủy, thẩm thấp, bổ tỳ, định tam, dùng chữa tiểu tiện khó khăn, thủy thũng trướng man, tiết tả, phục thán định tâm, an thần chữa hồi hôp mất ngủ.
 
 Trong nhân dân , phục linh được coi là vị thuốc bổ, thuốc lợi tiểu, dùng trong bệnh thủy thũng.
 
@@ -1368,7 +1368,7 @@ Còn dùng làm thuốc trấn tĩnh, chữa các trường hợp mất ngủ, h
 
 Ngày dùng 5 đến 10g dưới dạng thuốc sác, thuốc bột, viên.
 
-()(*)()ỉ. Chữa bệnh thủy thũỉiỊ’:italic2 Phục linh ]0g, mộc thông 5g, tang bạch bì lOg, nước 600ml. sác còn 200ml. Chia làm 3 lần uôYig trong ngày.
+()(\*)()ỉ. Chữa bệnh thủy thũỉiỊ’:italic2 Phục linh ]0g, mộc thông 5g, tang bạch bì lOg, nước 600ml. sác còn 200ml. Chia làm 3 lần uôYig trong ngày.
 
 2. Dơn thuốc chữa phù íhũni’, sợ hãi: Phục linh 8g, cam thảo 3g, quế chi 4g, sinh khương 3g, nước 400ml, sắc còn 200ml.
 
@@ -1386,33 +1386,33 @@ Thuộc họ Bấc Juncaceae.
 
 Đâng tâm thảo (Medulla Junci caulis) là ruột phơi khô của thân cây bấc đèn.
 
-A. Mó ()(*)()cây
+A. Mó ()(\*)()cây
 
 Cây bấc là một loại cỏ sống lâu năm, thân tròn cứng, mọc thành cụm dày cao độ 35- lOOcm, đường kính của thân chừng l-2mm, mặt
 
-()(*)()ình ()(*)()65. Củ bấc đèn - ()(*)()effusus Ị. Toùn càv; 2. Hoa; 3. Quà
+()(_)()ình ()(_)()65. Củ bấc đèn - ()(\*)()effusus Ị. Toùn càv; 2. Hoa; 3. Quà
 
-()(*)()
+()(\*)()
 
 ngoài thân có màu xanh nhạt, có vạch dọc. Ruột (lõi) cây bấc cáu tạo bới những tế bào hình ngôi sao để hở ra nhiều lỗ khuyết ìớn. Lá bị giảm rất nhiều, chỉ còn lại bẹ ờ gốc thân. Hoa đều, lưỡng tính, mọc thành vòng. Bao hoa khô xác (Hình
 
 165).
 
-()(*)()Mọc hoang và được trồng ở những nơi ẩm ướt ở nước ta (Nam Định, Hà Nam...).
+()(\*)()Mọc hoang và được trồng ở những nơi ẩm ướt ở nước ta (Nam Định, Hà Nam...).
 
 Mùa thu cắt toàn cáv vổ, rạch dọc đế lấy lõi ricng ra, bó thành từng bó, phơi khô mà dùniĩ, còn gọi là đăng tăm thào hay dăng tâm hoặc bác đèn đe làm bấc đèn dầu ta hay để làm thuốc.
 
-()(*)()Hoạt chất chưa rõ.
+()(\*)()Hoạt chất chưa rõ.
 
-()(*)()Tính chất theo tài liệu cổ: VỊ ngọt, tính hàn, vào ba kinh tâm, phế và tiểu truờng. Có tác dụng giáng tâm hỏa, thanh phê' nhiệt, lợi tiểu trường. Dùng chữa tiểu tiện khó khăn, tâm phiền mất ngủ, dùng ngoài đồ mụn nhọt.
+()(\*)()Tính chất theo tài liệu cổ: VỊ ngọt, tính hàn, vào ba kinh tâm, phế và tiểu truờng. Có tác dụng giáng tâm hỏa, thanh phê' nhiệt, lợi tiểu trường. Dùng chữa tiểu tiện khó khăn, tâm phiền mất ngủ, dùng ngoài đồ mụn nhọt.
 
 Mới được dừng trong phạm vi nhân dân làm thuốc thông tiểu tiện, chữa sốt, an thần, mất ngủ, chữa ho, viêm cổ họng.
 
 Ngày dùng l-2g dưới dạng thuớc sắc hoặc thuốc bột. Tán đãng tâm rất khó. Truớc khi tán cẩn hồ đăng tâm bàng nước cơm, sau đó phơi khô mà tán. Tán xong ngâm nước, vớt lấy đăng tâm nổi ở trên mà dùng.
 
-()(*)()italic2 Đăng tâm thảo 2g, sắc với nước, uống thay nước chè trong ngày làm thuốc lợi tiểu, chữa phù và mất ngủ.
+()(\*)()italic2 Đăng tâm thảo 2g, sắc với nước, uống thay nước chè trong ngày làm thuốc lợi tiểu, chữa phù và mất ngủ.
 
-()(*)()
+()(\*)()
 
 Còn có lên ỉà Cây thông thoát.
 
@@ -1422,9 +1422,9 @@ Thuộc họ Ngũ gia bì Araliaceae.
 
 Thông thảo (Medulla Tetrapanacis) là lõi phơi hay sấy khô của thân cây thông thảo.
 
-()(*)()Thông thảo là một cây nhỏ thường cao 3m có khi có thể tới 6m. Thân cứng nhưng dòn. Giữa thân có lõi trắng xốp, cây càng già, lõi càng đặc và chắc hơn. Lá to chia thành nhiều thùy có khi cắt sâu, mép có răng cưa to, cuống lá dài 30cm, đường kính lcm có lõi mểm, phiến lá đài 30cm đến 90cm: Hoa màu trắng hình cáu, cụm hoa hình tán tụ thành chùm. Quả dẹt gán liình cầu (Hình 166, Hm 4-9,2 ).
+()(\*)()Thông thảo là một cây nhỏ thường cao 3m có khi có thể tới 6m. Thân cứng nhưng dòn. Giữa thân có lõi trắng xốp, cây càng già, lõi càng đặc và chắc hơn. Lá to chia thành nhiều thùy có khi cắt sâu, mép có răng cưa to, cuống lá dài 30cm, đường kính lcm có lõi mểm, phiến lá đài 30cm đến 90cm: Hoa màu trắng hình cáu, cụm hoa hình tán tụ thành chùm. Quả dẹt gán liình cầu (Hình 166, Hm 4-9,2 ).
 
-()(*)()Ta mới khai thác một số cây mọc hoang dại ở những nơi ẩm vùng Cao Bằng, Lạng sơn, Tuyên Quang, Hà Giang.
+()(\*)()Ta mới khai thác một số cây mọc hoang dại ở những nơi ẩm vùng Cao Bằng, Lạng sơn, Tuyên Quang, Hà Giang.
 
 Có thể trồng bằng hạt hay bằng cách chia gốc. Nếu trổng bàng hạt thì mùa thu hái quà chín về phơi khô, sang xuân gieo hạt. Sau một tháng cây mọc. Một năm sau có thể đánh cây con để trồng. Có thể trồng bằng cách chia gốc: Vào mùa đông, cuốc cho tơi đất xung quanh gốc, năm tới cây sẽ cho nhiều cây con, khi đã khá lớn đem đánh đi trồng chỗ khác.
 
@@ -1436,9 +1436,9 @@ Sau khi trồng 3 năm, có thể thu hoạch, cắt bỏ
 
 nhà, chỗ thoáng gió, không dùng than sấy vì bị biến chất. Có thể thu hoạch quanh năm.
 
-()(*)()Chưa thấy có tài liệu nghiên cứu, công dụng còn ở phạm vi nhân dân.
+()(\*)()Chưa thấy có tài liệu nghiên cứu, công dụng còn ở phạm vi nhân dân.
 
-()(*)()Tính vị theo tài ỉiệu cổ có vị ngọt, nhạt, tính hàn, vào hai.kính phế và vị. Có tác dụng lợi tiổu, thanh thấp nhiệt, hạ sữa. Dùng chữa thủy thũng, tiểu tiện khó khăn, ít sữa.
+()(\*)()Tính vị theo tài ỉiệu cổ có vị ngọt, nhạt, tính hàn, vào hai.kính phế và vị. Có tác dụng lợi tiổu, thanh thấp nhiệt, hạ sữa. Dùng chữa thủy thũng, tiểu tiện khó khăn, ít sữa.
 
 Nhân dân đùng làm thuốc thông tiểu tiện, giảm sốt, trấn tĩnh, dùng chữa bệnh sốt khát nước, tiểu tiện khó khăn, ho.
 
@@ -1446,7 +1446,7 @@ Còn dùng làm thuốc lợi sữa.
 
 Ngày dùng 3-6g dưới dạng thuổc sắc.
 
-()(*)()italic2 Thông thảo lOg, cám gạo nếp lOg, hạt bông (sao vàng) 15g, nước 600ml. sắc còn 200ml. Chia 3 lần uổng trong ngày.
+()(\*)()italic2 Thông thảo lOg, cám gạo nếp lOg, hạt bông (sao vàng) 15g, nước 600ml. sắc còn 200ml. Chia 3 lần uổng trong ngày.
 
 Chú thích:
 
@@ -1454,7 +1454,7 @@ Chú thích:
 
 2. Tại nước ta nhân dân còn khai thác với tên thông thảo một sồ' loài cây thuộc họ Ngũ gia bì (Aralỉữceae) như Trevesia palmata (đu đủ rừng) và một số cây khác cùng họ có thân rỗng xốp.
 
-()(*)()Còn gụi là sơn chi tử, chi tử.
+()(\*)()Còn gụi là sơn chi tử, chi tử.
 
 Tên khoa học _*Gardenia ịasminoìdes Ellis (Gardenia ịìoriđa L.).*_
 
@@ -1476,11 +1476,11 @@ Dành dành là một loại cây nhỏ, cao chừng 1- 2m thuờng xanh tốt q
 
 trắng, không cuống, có mùi thơm. Nở vào mùa hè. Quả hình chén với 6-9 góc, có 2-5 ngăn, khi chín có màu vàng đỏ, chứa rất nhiểu hạt, mùi thơm vị đắng. ( Hình 167, Hm 48,1 )
 
-B. ()(*)()Dành dành mọc hoang và được trổng tại nhiều vùng ở miền Bấc nước ta. Tại miền núi, đành dành thường thấy mọc hoang ỏ ven suối. Tại đồng bàng, nhân dân thường trồng làm cảnh và lấy quả làm thuốc hay để nhuộm bánh trái thành màu vàng (bánh xu xê, thạch). Dành dành còn thấy mọc ở Triều Tiên, Trung Quốc, Nhật Bản.
+B. ()(\*)()Dành dành mọc hoang và được trổng tại nhiều vùng ở miền Bấc nước ta. Tại miền núi, đành dành thường thấy mọc hoang ỏ ven suối. Tại đồng bàng, nhân dân thường trồng làm cảnh và lấy quả làm thuốc hay để nhuộm bánh trái thành màu vàng (bánh xu xê, thạch). Dành dành còn thấy mọc ở Triều Tiên, Trung Quốc, Nhật Bản.
 
 Vào tháng 8-11, quá chín, hái về ngắt bỏ cuồng, để trong 5 phút rồi phơi hay sấy khô. Quả dành dành rất hút ẩm, cho nên thường xuyôn kiểm tra, thấy ẩm phải phơi hay sấy khô lại tránh ẩm mốc.
 
-Khi dùng có thể dùng sống (không chế biến gì ihêm cả), có thể sao cho hơi sẫm màu hoặc có thể sao cháy đen nhưng chưa thành tro {tồn tính). Trong đông y cho ràng để sống có tác dụng thanh nhiệt (chữa sốt), sao vàng để tả hỏa (nóng trong người), sao đen để cầm máu. c. ()(*)()Trong dành dành có mộl glucozit màu vàng gọi là gacdenin. Khi thủy phân, cho phần không
+Khi dùng có thể dùng sống (không chế biến gì ihêm cả), có thể sao cho hơi sẫm màu hoặc có thể sao cháy đen nhưng chưa thành tro {tồn tính). Trong đông y cho ràng để sống có tác dụng thanh nhiệt (chữa sốt), sao vàng để tả hỏa (nóng trong người), sao đen để cầm máu. c. ()(\*)()Trong dành dành có mộl glucozit màu vàng gọi là gacdenin. Khi thủy phân, cho phần không
 
 máu càng giảm nhiều.
 
@@ -1494,7 +1494,7 @@ Năm 1954 (Nhật Bán dược lý học tạp chí , 5 (I): 25-26) một tác g
 
 Tác dụng không sinh. Một số tác giá khá (Trung Hoa V học tạp chí 1952, 38, 4 và Trun Hoa bì phu khoa tạp chí 1957, 4) có nghiê cứu và thấy nước sắc chi tử có tác dụng khán sinh đối với một số vi trùng.
 
-()(*)()Dành dành là một vị thuoc được dùng từ lã trong đông y. Theo các tài liệu cổ quả dàn dành có vị đắng, tính hàn, vào 3 kinh lâm, ph và tam tiêu có tác dụng làm thanh nhiệt (chũ sốt), tả hỏa, lợi tiểu, cầm máu, dùng trong hện sốt, người bồn chồn, khó ngủ, miộng khái, họn
+()(\*)()Dành dành là một vị thuoc được dùng từ lã trong đông y. Theo các tài liệu cổ quả dàn dành có vị đắng, tính hàn, vào 3 kinh lâm, ph và tam tiêu có tác dụng làm thanh nhiệt (chũ sốt), tả hỏa, lợi tiểu, cầm máu, dùng trong hện sốt, người bồn chồn, khó ngủ, miộng khái, họn
 
 HOOC—C=CÍĨ—CH=CH—C=CH—CH=CH—CH=C—CH=CH—CH=C—COOH
 
@@ -1510,7 +1510,7 @@ CC-croxetin là một sắc tô' màu vàng, độ chảy 273“C, không tan tr
 
 Trong đành dành có chứa 10 đến 20% manit.
 
-()(*)()Đối với lượng sắc tố mật. Năm 1951, Lý Hy Thần (Trung Hoa tân y học báo, 2 (9): 660- 669) báo cáo, nếu buộc chật ống mật của thỏ rồi cho thỏ uống cao nước dành dành, thì lượng sắc (Ố mật trong máu sẽ giảm xuống. Lượng cao dành dành càng tãng thì lượng sắc tô' mật trong đau, mắt đỏ, đii vàng, tiểu tiện khó khăn, th huyết, máu cam, lỵ ra lĩiáu tiểu tiện ra máu.
+()(\*)()Đối với lượng sắc tố mật. Năm 1951, Lý Hy Thần (Trung Hoa tân y học báo, 2 (9): 660- 669) báo cáo, nếu buộc chật ống mật của thỏ rồi cho thỏ uống cao nước dành dành, thì lượng sắc (Ố mật trong máu sẽ giảm xuống. Lượng cao dành dành càng tãng thì lượng sắc tô' mật trong đau, mắt đỏ, đii vàng, tiểu tiện khó khăn, th huyết, máu cam, lỵ ra lĩiáu tiểu tiện ra máu.
 
 Ngày dùng 6 đến 12g dưới dạng thuốc sắc
 
@@ -1520,7 +1520,7 @@ Lá dành dành được nhân dân ta hay dùng gi nát đắp lên mất đỏ
 
 Màu vàng của dành dành không độc, nhâ dân ta vẫn dùng nhuộm thức ân như bánh X xê, thạch.
 
-()(*)()có ()(*)()Xi rô nhân trần:italic2 Nhân trần 24g, chi tử 12* nước 600ml, sắc còn lOOml, thêm đường và cho đủ thành xirô. Chia 3 lẩn uống trong ngà chữa vàng da, vàng mắt, viêm gan.
+()(_)()có ()(_)()Xi rô nhân trần:italic2 Nhân trần 24g, chi tử 12\* nước 600ml, sắc còn lOOml, thêm đường và cho đủ thành xirô. Chia 3 lẩn uống trong ngà chữa vàng da, vàng mắt, viêm gan.
 
 Chi tử hoảng nghiệt bì thang (đơn thuốc kin
 
@@ -1528,7 +1528,7 @@ nghiệm của Trương Trọng Cảnh): Chi tử 5g, hoàng nghiệt (tên khá
 
 Chữa bỏng do nước: Chi tử đốt thành than
 
-()(*)()Còn có tên ìà uất kim, khương hoàng, safran des Inđes,
+()(\*)()Còn có tên ìà uất kim, khương hoàng, safran des Inđes,
 
 Tên khoa học _*Curcuma tonga L. (Curcuma domestica Lour.).*_
 
@@ -1536,11 +1536,11 @@ Thuộc họ Gừng ZiniỊìberaceae.
 
 Ta dùng thân rễ cây nghê gọi là khương hoàng (Rhizoma Curcumae longae) và rẻ củ gọi là uất kim (Radix Curcumae longae).
 
-()(*)()Nghệ là một loại cỏ cao 0,60(11 đến lm. Thân rễ thành củ hình trụ hoặc hơi dẹt, khi bẻ hoặc cắt ngang có màu vàng cam sãm. Lá hình trái xoan thon nhọn ở hai đầu, hai mát đểu nhẵn dài tới 45cm, rộng tói 18cm. Cuông lá có bẹ. Cụm hoa mọc từ giữa các lá lên, thành hình nón thưa, lá bác hữu thụ khum hình máng rộng, đầu tròn màu xanh lục nhạt, lá bắc bất (hụ hep hơn, màu hơi úm nhạt. Tràng có phiến, cánh hoa ngoài màu xanh lục vàng nhạt, chia thành ba thùy, thùy trẽn to hơn, phiến cánh hoa trong cũng chia ba thùy, 2 thùy hai bên đứng và phẳng, thùy dưới hõm thành máng sâu. Quà nang 3 ngân, mở bằng 3 van.
+()(\*)()Nghệ là một loại cỏ cao 0,60(11 đến lm. Thân rễ thành củ hình trụ hoặc hơi dẹt, khi bẻ hoặc cắt ngang có màu vàng cam sãm. Lá hình trái xoan thon nhọn ở hai đầu, hai mát đểu nhẵn dài tới 45cm, rộng tói 18cm. Cuông lá có bẹ. Cụm hoa mọc từ giữa các lá lên, thành hình nón thưa, lá bác hữu thụ khum hình máng rộng, đầu tròn màu xanh lục nhạt, lá bắc bất (hụ hep hơn, màu hơi úm nhạt. Tràng có phiến, cánh hoa ngoài màu xanh lục vàng nhạt, chia thành ba thùy, thùy trẽn to hơn, phiến cánh hoa trong cũng chia ba thùy, 2 thùy hai bên đứng và phẳng, thùy dưới hõm thành máng sâu. Quà nang 3 ngân, mở bằng 3 van.
 
 Hạl có áo hạt (Hình 168, Hm 15,1).
 
-()(*)()Được trổng ở khắp nơi trong nước ta đê làm gia vị và làm thuốc.
+()(\*)()Được trổng ở khắp nơi trong nước ta đê làm gia vị và làm thuốc.
 
 Còn mọc và được trồng ở các nước Ấn Độ, Inđônêxya, Cămpuchia, Lào, Trung Quốc và các nước nhiệt đới.
 
@@ -1550,7 +1550,7 @@ Muốn để được lâu phải dồ hoặc hấp trong 6-
 
 12 giờ, sau đó đợi ráo nước, đem phơi nắng hoặc sấy khô. Thân rễ gọi là khương hoàng\ rẻ gọi là uất kìm.
 
-()(*)()Trong nghệ, ngưòi ta đã phân tích được: hòa với lòng trắng trứng gà bôi lên nơi bỏng.
+()(\*)()Trong nghệ, ngưòi ta đã phân tích được: hòa với lòng trắng trứng gà bôi lên nơi bỏng.
 
 Chữa trẻ con sốt nónq điên cuồng ân không đưực: Chi tử 7 quả, đậu sị 20g, thêm 400ml nước sắc còn 200ml, chia 3-4 lần uống trong ngày.
 
@@ -1598,11 +1598,11 @@ Hoạt chất của nghệ gồm:
 
 Curcumìn chính thức (còn gọi là curcumin I) chiếm 60% đây là một dixeton đối xứng không no có thể coi như là diferuloyl-metan (axit feru- lic là axit hydroxy~4-metoxy-3-xinamic).
 
-Curcumin ỉ! ()(*)()monodesmetoxy-curcumin ()(*)()curcumìn ỉỉl ()(*)()curcumin chiếm 14% trong đó 1 hay 2 axit hydroxycinamic thay cho axit ferulic.
+Curcumin ỉ! ()(_)()monodesmetoxy-curcumin ()(_)()curcumìn ỉỉl ()(\*)()curcumin chiếm 14% trong đó 1 hay 2 axit hydroxycinamic thay cho axit ferulic.
 
 Nếu dùng sắc ký trên giấy sẽ thấy các chất curcumin khác nữa nhưng với lượng nhỏ.
 
-Theo E. Giỉdmeister và F. R. Hoffman trong linh dầu nghệ có 53,1% xeton a*p etylenic ở từ mạch nhánh gán vào nhân {bao gồm 29,5% turmeron và 23,6% arylturmcron).
+Theo E. Giỉdmeister và F. R. Hoffman trong linh dầu nghệ có 53,1% xeton a\*p etylenic ở từ mạch nhánh gán vào nhân {bao gồm 29,5% turmeron và 23,6% arylturmcron).
 
 ' Năm 1977, Nguyễn Khang (Đại học dược khoa Hà Nôi) đã chiết từ bột củ nghệ sau khi đă cất lấy hết tinh đầu bàng benzen, sau đó thu hổi dung môi trong áp lực giảm và kết tinh lại bầng cổn etylic cho tới khi có độ chảy không thay đổi và một vết trên sắc ký lớp mỏng đã thu được
 
@@ -1612,7 +1612,7 @@ Từ vỏ củ nghệ (vẫn cạo bỏ đi) đã cất được từ 1,5 đến
 
 0, 5-lmm trong đó trọng lượng lớp vỏ mỏng không đáng kể, còn phần củ dính vào chiếm chủ yếu.
 
-1. ()(*)()Guy Laroche (1933), H. Leclerc (1935) đã chứng minh tính chất kích thích sự bài tiết mật của các tế bào gan (cholérétique) là do chất paratolyl metylcacbinol, còn chất curcumin có tính chất thông mật (cholagogue) nghĩa là gây co bóp túi mật. Chất curcumen có tác dụng phá cholesterol trong máu (cholesterolitique).
+1. ()(\*)()Guy Laroche (1933), H. Leclerc (1935) đã chứng minh tính chất kích thích sự bài tiết mật của các tế bào gan (cholérétique) là do chất paratolyl metylcacbinol, còn chất curcumin có tính chất thông mật (cholagogue) nghĩa là gây co bóp túi mật. Chất curcumen có tác dụng phá cholesterol trong máu (cholesterolitique).
 
 Toàn tinh dấu dù pha loãng cũng có tác dụng diệt nấm và sát trùng đối với bệnh nấm, với Síaphyỉcoc và vi trùng khác.
 
@@ -1646,19 +1646,19 @@ Nếu như đang cho nước nghệ vào tá tràng làm cho lượng nước m�
 
 Theo Taniyama H. và cộng sự ự. Pharm. Soc. Japan 1956, 76, 154-157) các xeton a-p etylenic trong hệ thống vòng có khả năng khóa nhóm 'SH của men, làm rối loạn chuyển hóa của men trong cơ thể vi trùng nói chung và vi trùng lao Mycobacterìum tubercuỉosis nói riêng. Các xeton loại này có nhiều trong nghệ.
 
-Năm 1977, phòng vi trùng Viện chống lao và Viện đông y Hà Nội đã thí nghiệm thấy tinh dầu nghệ ức chế được sự phát triển của vi trùng lao Mycobacterium tuberculosỉs H37RV ở nồng độ 1 Y/ml; nồng độ tối thiểu ức chế đối vói Ba- ciỉíus subtilis ()(*)()Candida albicans là 1/160. Tinh dầu nghệ không có tác dụng đối với Bacterium pyocyaneum và Streptococcus hemoỉyticus.
+Năm 1977, phòng vi trùng Viện chống lao và Viện đông y Hà Nội đã thí nghiệm thấy tinh dầu nghệ ức chế được sự phát triển của vi trùng lao Mycobacterium tuberculosỉs H37RV ở nồng độ 1 Y/ml; nồng độ tối thiểu ức chế đối vói Ba- ciỉíus subtilis ()(\*)()Candida albicans là 1/160. Tinh dầu nghệ không có tác dụng đối với Bacterium pyocyaneum và Streptococcus hemoỉyticus.
 
 6. Độc tính của tinh dầu nghệ DLJ0 của tinh dẩu nghệ trên chuột nhắt trắng là 9,2ml/kg thể trọng (Bộ môn dược lý-Đại học Quân y Hà Nội, 1977).
 
 7. Tác dụng khác: Võ văn Lan đã phát hiện tiêm tinh nghệ có khả năng thấm qua các màng tế bào đặc biệt là vỏ sáp khuẩn lao và hủi, nó giúp cho chất màu xâm nhập vào trong các tế báo này (Bộ môn sinh lý, dược lý-Đại học y khoa thành phô' Hổ Chí Minh-Các hội nghị y dược học quốc tế và quốc gia quý I-1977-Thư viện y học trung ương, 3).
 
-()(*)()Theo tài liệu cổ: Nghệ vị cay, đấng, tính ÔĨ1, vào 2 kinh can và tỳ, nghệ có tác dụng phá ác huyết, huyết tích, kim sang và sinh cơ (lên da) chi huyết. Nhưng nếu âm hư fnà không ứ trệ cấm dùng; các bệnh sản hậu (sau khi đẻ) mà không phải nhiệt kết ứ cũng không nên dùng; đàn bà có thai không nên dùng. Nghệ thường được dùng trong bệnh đau dạ dày, vàng da, phụ nữ sinh nở xong đau bụng.
+()(\*)()Theo tài liệu cổ: Nghệ vị cay, đấng, tính ÔĨ1, vào 2 kinh can và tỳ, nghệ có tác dụng phá ác huyết, huyết tích, kim sang và sinh cơ (lên da) chi huyết. Nhưng nếu âm hư fnà không ứ trệ cấm dùng; các bệnh sản hậu (sau khi đẻ) mà không phải nhiệt kết ứ cũng không nên dùng; đàn bà có thai không nên dùng. Nghệ thường được dùng trong bệnh đau dạ dày, vàng da, phụ nữ sinh nở xong đau bụng.
 
 Liều dùng hàng ngày l-6g dưới hình thức bột hoặc thuốc sắc chia làm 2, 3 lần uống trong ngày.
 
 Ngoài cóng dụng trên, nhân dân còn dùng nghệ bôi lên các mụn mới khỏi để đỡ sẹo, nhuộm vàng bột cary, nhuộm len, nhuộm tơ, nhuộm da.
 
-()(*)()ỉ. Chữa thổ huyết máu cam:italic2 Nghệ tán nhỏ, ngày uống 4-6g chiêu bằng nước.
+()(\*)()ỉ. Chữa thổ huyết máu cam:italic2 Nghệ tán nhỏ, ngày uống 4-6g chiêu bằng nước.
 
 2. Bài thuốc kinh nghiệm chữa điên cuồng (kinh nghiệm phương-Bản thảo cương mục)'. Nghệ 250g, phèn chua lOOg, tán nhò, hòa nước cháo viên thành viên bàng hạt ngô. Ngày uống 50 viên.
 
@@ -1680,7 +1680,7 @@ Dầu vừng 80g
 
 Củ ráy gọt sạch vở cùng giã với nghệ cho thật nhỏ, cho vào nấu nhừ với nhựa ihông dầu vừng và sáp ong. Lọc để nguội, phết lên giấy bản dán vào mun nhot.
 
-()(*)()
+()(\*)()
 
 Đông y và tây y đều dùng mật động vật làm thuốc, nhưng tây y chỉ hay đùng mật lợn, mật bò. Còn đồng y dùng mật của nhiều loài như mạt gấu, mật dê, mật lợn, mật bò, mật trăn, mật rắn, mậc gà, mật cá chcp v.v... Ngoài ra lại còn dùng cả sòi trong túi mật của con bò con trâu có bệnh nữa (ngưu hoàng).
 
@@ -1688,11 +1688,11 @@ Thống kê những cõng dụng của mật dùng trong đông y, chủ yêu ta
 
 Một số mật được giới thiệu cùng với con vạt (mât rán) hay giới thiêu riêng (mật gấu); ả đây chúng tôi chỉ giới thiệu mật lợn, mật bò hiện ta còn ít sử dụng.
 
-()(*)()
+()(\*)()
 
 Mật lợn, mật bò có thể dùng tươi, nhưng vì khó uống và không để được lâu cho nên thường cô đặc thành cao đạc hay cao khô hoặc đem tinh chế thành cao mật bò, cao mật lợn tinh chế.
 
-A. ()(*)()Có nhiều phương pháp hiện được áp dụng. Tùy hoàn cảnh ta có thể áp dụng một trong mấy phương pháp sau đây, đổng thời theo dõi xem phương pháp nào tốt và rẻ nhất.
+A. ()(\*)()Có nhiều phương pháp hiện được áp dụng. Tùy hoàn cảnh ta có thể áp dụng một trong mấy phương pháp sau đây, đổng thời theo dõi xem phương pháp nào tốt và rẻ nhất.
 
 ỉ. Phương pháp của Đội điều trị 10. (Dược học 1961, 2: 13): Lấy 20-30 túi mật hay hơn nữa hoặc ít hơn tùy theo lượng cao muốn có. Rửa sạch vỏ túi mật bằng nước muối 0,9%. Sau đó ngâm vào cồn 90 độ trong 1-2 phút để sát trùng. Đem cắt thùng túi mật và hứng nước mật cho chảy qua vải để lọc. Nước mật đã lọc được đem đun cách thủy, vừa đun vừa khuấy cho tới thành cao đặc. Kinh nghiệm là đun cho tới khi nghiêng bát mà cao không chảy là được.
 
@@ -1720,11 +1720,11 @@ Muốn tinh chế hơn thì trước khi cỏ thu hổi cồn, cứ mỗi lít t
 
 Phương pháp này cầu kỳ, chỉ có thể áp dụng ở một sô cơ sớ. Tại địa phương ta có thể áp dụng phương pháp của đội điều trị 10 hay Viện nghiên cứu đông y.
 
-()(*)()Trong cao mật bò chế như trên có hỗn hợp natri glycocholat và natri taurocholat, sắc tô' mât biliru- bin và bilivecdin, cholesterol, axit taurodesoxychoỉat (hay taurochenodesoxycholat) và một số muối mật khác như muối cholat và glycođesoxycholat (hay glycochenodesoxycholat).
+()(\*)()Trong cao mật bò chế như trên có hỗn hợp natri glycocholat và natri taurocholat, sắc tô' mât biliru- bin và bilivecdin, cholesterol, axit taurodesoxychoỉat (hay taurochenodesoxycholat) và một số muối mật khác như muối cholat và glycođesoxycholat (hay glycochenodesoxycholat).
 
 Trong mật lợn chủ yếu gổm các muối cholat như hyodesoxycholat, glycocholat, glycodesoxycholat (hay glycochenodesoxycholat), taurocholat, taurodesoxycholat cholesterol, và một sổ (hay taurochenodesoxycholat) sắc tố mật như bilirubin.
 
-1. ()(*)()Từ lâu người ta đã chứng minh mật lợn, mật bò có tác dụng kích thích nhu động ruột, hấp thu ở vùng tá tràng, I1Ó kích thích rất mạnh sự bài tiết mật, vừa có tác dụng thông mậ( (chola- gogue) vừa có tác dụng kích thích tiết mật (choleretique). Do sự bài (iết mật này, nó giúp và cùng-với dịch tụy tiêu hóa chất béo.
+1. ()(\*)()Từ lâu người ta đã chứng minh mật lợn, mật bò có tác dụng kích thích nhu động ruột, hấp thu ở vùng tá tràng, I1Ó kích thích rất mạnh sự bài tiết mật, vừa có tác dụng thông mậ( (chola- gogue) vừa có tác dụng kích thích tiết mật (choleretique). Do sự bài (iết mật này, nó giúp và cùng-với dịch tụy tiêu hóa chất béo.
 
 Mật còn là một chất sát trùng đường ruột.
 
@@ -1744,19 +1744,19 @@ Trên phổi cô lập của chuột lang, natri cholat làm dãn cơ trơn ti�
 
 Ngoài ra natri cholat còn có tác dụng chống co giật do pilocacpin gây nên. Vậy natri cholat, thành phần chủ yếu trong mật lợn, có tác dụng giảm ho và chống co giật.
 
-()(*)()Mật bò, mật lợn thường được dùng làm thuổc chữa táo bón, bênh về gan, mật, bệnh về đường tiêu hóa.
+()(\*)()Mật bò, mật lợn thường được dùng làm thuổc chữa táo bón, bênh về gan, mật, bệnh về đường tiêu hóa.
 
 Ngày dùng 0,50g đến lg (uống) hoặc thụt (4g trong 250ml nước).
 
 Gần đây mậi lợn được dùng chữa ho gà dưới dạng xirô có chứa 20mg cao mật lợn trong Iml xirố: Ngày uống 3 lần, mỗi lần trẻ em dưới 1 tuổi uổng nửa thìa cà phê, 1-2 tuổi mỏi lần uống 1 thìa cà phê, 2-3 tuổi mỗi lần 1 thìa cà phê rưỡi, trên 3 tuổi mỗi lần 2 thìa cà phê rưỡi. Có thể dùng dưới dạng thuốc viên, mỗi viên chứa 50mg cao bột mật lợn toàn phần. Ngày 3 lần, mỗi lần trẻ em dưới 1 tuổi uống 1 viên; 1-2 tuổi uống 2 viên; 2-3 tuổi uống 3 viên; trẽn 3 tuổi uống 5 viên.
 
-()(*)()Viên mật lợn trị táo bónitalic2 của Viện đông y: Mật lợn chế theo phương pháp của Viện đã giới thiệu ở trên sốy khô tán bột, trộn với tá dược làm thành viên, mỗi viên nhỏ nặng 0,1 Og. Người lớn uống mỗi ngày 6 đến 12 viên chia làm 1 hay 2 lần vào buổi tối trước khi đi ngủ hay sáng sớm. Nếu táo bón nhiểu có thể uống lúc đầu 20 viên rồi giảm dần xuống.
+()(\*)()Viên mật lợn trị táo bónitalic2 của Viện đông y: Mật lợn chế theo phương pháp của Viện đã giới thiệu ở trên sốy khô tán bột, trộn với tá dược làm thành viên, mỗi viên nhỏ nặng 0,1 Og. Người lớn uống mỗi ngày 6 đến 12 viên chia làm 1 hay 2 lần vào buổi tối trước khi đi ngủ hay sáng sớm. Nếu táo bón nhiểu có thể uống lúc đầu 20 viên rồi giảm dần xuống.
 
 Viền mật của Đội điểu trị )0 và Bệnh viện Nam Định: Cao mật bò hay mật lợn lOOg, lưu hoàng rửa lại lOOg, bột hoạt thạch 150g, tĩnh dầu bạc hà 20 giọt. Cao mât bò chế theo phương pháp giới thiệu trên, thêm các vị thuốc khác vào ròi làm thành viên 0,15g. Ngày uống từ 20-30 viên chia làm 2 hay 3 lần uống. Dùng trong vòng 10 đến 30 ngày tùy theo bệnh nạng nhẹ. Chữa viêm mật, viêm gan, vàng da, rối loạn tiêu hóa, chậm tiêu, phân sống, láo bón.
 
 Viên lô đảm (biệt dược Xí nghiệp dược phẩm I): Mỗi viên có cao mật tinh chế 0,50g, lô hội (hoặc phan tả diệp) 0,08g, phenolphtalein 0,05g, tá dược vừa đủ 1 viên. Trị táo bón, ăn uống khó tiêu, do thiểu mật, vàng da, ứ mât, suy gan, nhiễm trùng đường ruột, sỏi mật. Người lớn ngày uống từ 2 đến 4 viên chia làm 2 lần uống. Uống sau các bữa ăn, nuốt chửng với một chén nước, không nhai vì rất đẳng.
 
-()(*)()
+()(\*)()
 
 _Còn gọi là toán bàn tử, chè bọt (Xuân Mai- Hà Tây)_
 
@@ -1766,15 +1766,15 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 Tên bòn bọt có thể do cây được nhân dân dùng chữa bệnh trẻ em đi ỉa có bọt. Cũng có thể do cây lắc với nước cho nhiều bọt.
 
-()(*)()Bòn bọt là một loại cây nhỏ, lá mọc so le, cành non có màu đỏ tím, rất nhiều lổng ngắn, trắng, cành già có màu xanh nhạt. Phiến lá nguyên, hình trứng, thuôn, đáy lá tròn, đâu lá thuôn nhọn, dài 6-8cm, rộng 2-3cin» hai mặt phiến có nhiều lông ngán, màu trắng, mặt dưói nhiểu lông hơn, thoạt trông giống như lá mơ lông, cuống lá ngắn 1-1,5mm, có 2 lá kèm nhỏ hình như 2 gai nhọn, mềm. Hoa rất nhỏ, đơn tính, mọc ở kẽ lá, thành cụm 3 hay 4 hoa một, 1 hoa đực, 2 hay 3 hoa cái. Hoa đực có cuống ngắn, màu trắng, dài 5mm; với 6 lá đài màu vàng nhạt. Đường kính của lá đài chỉ chừng 5mm, trên lá đài cũng có nhiều lông nhỏ màu trấng. Hoa cáì không có cuống, nhỏ hơn. Quả hình bánh xe, khi chín có màu đỏ, 4 đến 5 lá noãn. Mùa hoa vào các tháng 3-4 ( Hình 169 ).
+()(\*)()Bòn bọt là một loại cây nhỏ, lá mọc so le, cành non có màu đỏ tím, rất nhiều lổng ngắn, trắng, cành già có màu xanh nhạt. Phiến lá nguyên, hình trứng, thuôn, đáy lá tròn, đâu lá thuôn nhọn, dài 6-8cm, rộng 2-3cin» hai mặt phiến có nhiều lông ngán, màu trắng, mặt dưói nhiểu lông hơn, thoạt trông giống như lá mơ lông, cuống lá ngắn 1-1,5mm, có 2 lá kèm nhỏ hình như 2 gai nhọn, mềm. Hoa rất nhỏ, đơn tính, mọc ở kẽ lá, thành cụm 3 hay 4 hoa một, 1 hoa đực, 2 hay 3 hoa cái. Hoa đực có cuống ngắn, màu trắng, dài 5mm; với 6 lá đài màu vàng nhạt. Đường kính của lá đài chỉ chừng 5mm, trên lá đài cũng có nhiều lông nhỏ màu trấng. Hoa cáì không có cuống, nhỏ hơn. Quả hình bánh xe, khi chín có màu đỏ, 4 đến 5 lá noãn. Mùa hoa vào các tháng 3-4 ( Hình 169 ).
 
 ##### TODO: thêm hình ảnh
 
 Hình 169. Bòn bọt - Gỉochidìon eriocarpum
 
-()(*)()Mọc hoang ở khắp nơi, nhưng hiện nay mới thấy khai thác ở Bắc Giang. Hái cành và lá về phơi khô, để dành khi cần dùng đến. Không cần chế biến gì đặc biệt.
+()(\*)()Mọc hoang ở khắp nơi, nhưng hiện nay mới thấy khai thác ở Bắc Giang. Hái cành và lá về phơi khô, để dành khi cần dùng đến. Không cần chế biến gì đặc biệt.
 
-()(*)()Chưa thấy tài liệu nghiên cứu. Sơ bộ nghiên cứu, chúng tôi thấy có saponin, loại sterolic tanin. Những chất khác chưa rõ (Đỗ Tất Lợi, 4-1964).
+()(\*)()Chưa thấy tài liệu nghiên cứu. Sơ bộ nghiên cứu, chúng tôi thấy có saponin, loại sterolic tanin. Những chất khác chưa rõ (Đỗ Tất Lợi, 4-1964).
 
 Trong một loài bòn bọt Glochidion macrophyỉlum Benth. người ta chiết được ữiedelan 3-ol, glochidon C30H48O, glochidonol CtoH4S0,, glochidion C30H50O2, Ị3 sisosterol. Lá chứa 3 |3 friedelan, p sitosterol (/, Chem. Soc. (C), 1971, 1004 và Phytochemistry 1970, 9, 1099).
 
@@ -1786,7 +1786,7 @@ Glochidon 11-0 H23-CH3
 
 R^a-OH K2.7 = CH2OH
 
-()(*)()Có nơi dùng lá giã vắt láy nước uống, bã đắp lên vết rắn độc cắn. Nếu chưa cứng hàm có thể nhai nuốt nước. Chỉ mới thấy dùng trong phạm vi nhân dân. Bệnh viện quân y 108 và Bệnh viện Bác Giang dùng chữa một số trường hợp phù thận do thiếu đinh dưỡng và phù suy tim có kết quả. Tuy những trường hợp theo dõi chưa nhiều, nhưng cách dùng đơn giản, kết quả rất khả quan.
+()(\*)()Có nơi dùng lá giã vắt láy nước uống, bã đắp lên vết rắn độc cắn. Nếu chưa cứng hàm có thể nhai nuốt nước. Chỉ mới thấy dùng trong phạm vi nhân dân. Bệnh viện quân y 108 và Bệnh viện Bác Giang dùng chữa một số trường hợp phù thận do thiếu đinh dưỡng và phù suy tim có kết quả. Tuy những trường hợp theo dõi chưa nhiều, nhưng cách dùng đơn giản, kết quả rất khả quan.
 
 Cách dùng như sau: lOOg lá bòn bọt khô, sắc với 900ml nước, cô còn lại 300ml. Ngày đùng trung bình lOOml nước sắc tương đương với hơn 30g lá khô. Đã dùng điều trị 11 trường hợp phù thận kinh, khỏi phù 9 ca, còn 2 ca chết do phù toàn thân có cổ trướng bị phù đi, phù lại nhiều lần, lâu ngày urê huyết đã lên tới trên lg/lít: chữa 8 ca phù suy tim khỏi 3, không khỏi 4, 1 ca chết do bệnh van tăng mạo vào viện đã nặng lúc chưa điểu trị. Phù suy tim cho kết quả thất thường: Đối với trường hợp suy tim mới, còn bù trừ được thì có kết quả, còn trong phù do suy tim lâu do các bệnh van tim thì không thấy có kết quả. Thời gian rút phù trung bình là 15 ngày với những ca phù toàn thân, là 7 ngày với những ca phù nhẹ ở chân và mặt. Các tác giả nhận xét không thấy biến chứng gì khác vể lâm sàng trong khi sử dụng bòn bọt {Lê Quang Mỹ và Huệ Liên, Bênh viện Bắc Giang, Y học thực hành 8- 1963).
 
@@ -1798,21 +1798,21 @@ Có tác giả xác định cây này là Gỉochidion veỉutinum Wight. cần 
 
 Trung Quốc còn dùng cây Glochidion puberum (L.) Hutch, cùng họ, cùng công dụng.
 
-Asíerocephalus cochinchinensis ()(*)()
+Asíerocephalus cochinchinensis ()(\*)()
 
 Thuộc họ Cúc Asteraceae ịCompositae).
 
 Tên thông thường của cây này là chỉ thiên, tuy nhiên tai một số vùng Nam Bộ và Trung Bộ người ta gọi là cây lưỡi mèo. Mội số người ở miền Nam dùng với tên bồ công anh. Tại một sô' tỉnh miền Nam Trung Quốc (Quảng Tây), người ta cũng dùng cây này với tên bồ công anh (xem vị này), cần chú ý tránh nhầm lẫn.
 
-()(*)()Chì chiên là một loại cỏ cứng, cao 20-40cm. Thân mang nhiều cành ngay từ gốc; gần như không có lá, cànli nhỏ mọc lan ra mặt đất, có lông. Lá gổc mọc vòng, hoa thị ở sát đất; phiến lá dài 6-12cm, rộng 3“5cm, phía dirớí hẹp lại thành cuống rộng và ôm vào thân, mặt trên và mặt dưới đểu có lòng cúng màu tráng nhạt, lá mọc ở thân hẹp, nhỏ, tất cả các lá đều có răng cưa ở mép. Cụm hoa hình đầu gồm 4 hoa màu tím nhạt mọc dạng ra, thành nhánh dài 5-10cm, tận cùng bời một xim đơn. Quả hình thoi có 10 cạnh lồi. Chùm lông có sợi cứng, xếp thành một hàng, đểu, phình rộng ở phía dưới (Hình 170).
+()(\*)()Chì chiên là một loại cỏ cứng, cao 20-40cm. Thân mang nhiều cành ngay từ gốc; gần như không có lá, cànli nhỏ mọc lan ra mặt đất, có lông. Lá gổc mọc vòng, hoa thị ở sát đất; phiến lá dài 6-12cm, rộng 3“5cm, phía dirớí hẹp lại thành cuống rộng và ôm vào thân, mặt trên và mặt dưới đểu có lòng cúng màu tráng nhạt, lá mọc ở thân hẹp, nhỏ, tất cả các lá đều có răng cưa ở mép. Cụm hoa hình đầu gồm 4 hoa màu tím nhạt mọc dạng ra, thành nhánh dài 5-10cm, tận cùng bời một xim đơn. Quả hình thoi có 10 cạnh lồi. Chùm lông có sợi cứng, xếp thành một hàng, đểu, phình rộng ở phía dưới (Hình 170).
 
-()(*)()Cây chỉ thiên rất phổ biến ở Việt Nam, từ Nam đến Bắc. Thường mọc hoang ờ ven đường cái hay ờ những bãi cò khô. Còn mọc ô nhiều nước châu Á-miền Níim Trung Quốc, Malaixia, Philipin, Ân Độ, Inđônêxya, Miến Điện, Thái Lan v.v...
+()(\*)()Cây chỉ thiên rất phổ biến ở Việt Nam, từ Nam đến Bắc. Thường mọc hoang ờ ven đường cái hay ờ những bãi cò khô. Còn mọc ô nhiều nước châu Á-miền Níim Trung Quốc, Malaixia, Philipin, Ân Độ, Inđônêxya, Miến Điện, Thái Lan v.v...
 
 Thường người ta hái toàn cây vào lúc đang có hoa. Hái về thái nhò, sao vàng cho hơi khô vàng mà dùng. Có khi người ta chỉ hái về phơi khô dùng dẩn.
 
-()(*)()ít thấy tài liệu nghiên cứu. Từ rẻ chỉ thiên, người la đã chiết được một tinh thể không màu có tính chất glucozit. Không có ancaloit. Hoạt chất chưa rõ.
+()(\*)()ít thấy tài liệu nghiên cứu. Từ rẻ chỉ thiên, người la đã chiết được một tinh thể không màu có tính chất glucozit. Không có ancaloit. Hoạt chất chưa rõ.
 
-()(*)()Chỉ thiên mới được dùng trong phạm vi nhân dân.
+()(\*)()Chỉ thiên mới được dùng trong phạm vi nhân dân.
 
 Theo đông y, chỉ thiên có vị đắng, tính lạnh không có độc. Có tác dụng giảm sốt, giải độc, đùng uống hay giã nát đắp lên mụn nhọt.
 
@@ -1842,11 +1842,11 @@ Tên khoa học _*Cucumis sativus L.*_
 
 Thuộc họ Bí Cucurbitaceae.
 
-()(*)()Cây mọc bò, toàn thân có lông. Thân có nhiều cành, có góc. Lá mang cuống, phiến có từ 3-5 thùy hình hơi ba cạnh, mép có lông đứng. Hoa đơn tính, màu vàng, mọc 2-3 ở nách lá. Quả hình (huôn dài, hình trụ hay hơi ba cạnh, nhẵn hoặc hơi có bướu nhỏ, có thể dài 10-36cm. Màu lục hay lục vàng nhạt, vàng hay vàng nâu. Hạt nhiều, hình trúng, trắng, dai, bóng { Hình 171).
+()(\*)()Cây mọc bò, toàn thân có lông. Thân có nhiều cành, có góc. Lá mang cuống, phiến có từ 3-5 thùy hình hơi ba cạnh, mép có lông đứng. Hoa đơn tính, màu vàng, mọc 2-3 ở nách lá. Quả hình (huôn dài, hình trụ hay hơi ba cạnh, nhẵn hoặc hơi có bướu nhỏ, có thể dài 10-36cm. Màu lục hay lục vàng nhạt, vàng hay vàng nâu. Hạt nhiều, hình trúng, trắng, dai, bóng { Hình 171).
 
-()(*)()Tróng ở khắp các tỉnh trong nước ta. Còn thấy trồng ở nhicu nước nhiệt đới cũng như ôn đới. Lấy quả dùng làm rau ãn hay chế mỹ phẩm. Có thể hái quả ngay từ lúc quả còn xanh non (comichon) dùng ngâm dấm hay đợi thật lớn và chín vàng.
+()(\*)()Tróng ở khắp các tỉnh trong nước ta. Còn thấy trồng ở nhicu nước nhiệt đới cũng như ôn đới. Lấy quả dùng làm rau ãn hay chế mỹ phẩm. Có thể hái quả ngay từ lúc quả còn xanh non (comichon) dùng ngâm dấm hay đợi thật lớn và chín vàng.
 
-()(*)()Dưa chuột chứa tới 95-97% nước, 0,8% protit, 3% gluxit, 0,7% xenluloz, 0,50% tro, trong đó 23mg% can xi, 27mg% p, lmg% Fe. Dưa chuột còn chứa vitamin A (caroten) với tỷ lệ 0,30mg%, vitamin BI 0,03mg%, B2 với tỷ lệ 0,04mg%, vitamin pp 0,1 mg% và vitamin c 5mg%, italic1[Bảng ihành phẩn hóa học thức ăn Việt ()(*)()học, 1972).
+()(_)()Dưa chuột chứa tới 95-97% nước, 0,8% protit, 3% gluxit, 0,7% xenluloz, 0,50% tro, trong đó 23mg% can xi, 27mg% p, lmg% Fe. Dưa chuột còn chứa vitamin A (caroten) với tỷ lệ 0,30mg%, vitamin BI 0,03mg%, B2 với tỷ lệ 0,04mg%, vitamin pp 0,1 mg% và vitamin c 5mg%, italic1[Bảng ihành phẩn hóa học thức ăn Việt ()(_)()học, 1972).
 
 Sách “Bí mật và đức tính cùa cây thuốc” (Se- crets et vertus des pỉantes médicinaỉes-Seỉection du Readerưs Digest, 1977) còn ghi thêm: “ngoài vitamin A và c, trong dưa chuột còn chứa một lượng quan trọng sắt, mangan, iot và thiamin”.
 
@@ -1854,7 +1854,7 @@ Vỏ dưa chuột có vị đắng do chứa colocynthine.
 
 Hạt dưa chuột chứa một ancaloit gọi là hy- poxanthine có tác đụng trừ giun.
 
-()(*)()Theo tài liệu cổ (Bản thảo cương mục-Nam dược thần hiệu ) Dưa chuột có tên hổ qua hay hoàng qua với những tính chất sau đây:
+()(\*)()Theo tài liệu cổ (Bản thảo cương mục-Nam dược thần hiệu ) Dưa chuột có tên hổ qua hay hoàng qua với những tính chất sau đây:
 
 Quả dưa chuột có vị ngọt, tính hàn (lạnh) hơi có độc không nên dùng nhiều có tác dụng thanh
 
@@ -1870,7 +1870,6 @@ Về mặt thức ăn, những thầy thuốc dinh dưỡng cho ràng dưa chu�
 
 Đặc biệt người ta dùng dưa chuột trong mỹ phẩm và chữa bệnh ngoài da từ rất lâu đời: cát dưa chuột thành từng lát mỏng đắt lên da mặt chữa những vết nhãn, da xù xì, những vết tàn nhang, một số vùng ở nước ta nhân dân dùng những quả dưa chuột non có thêm đưổmg chữa lỵ, nhiệt và ỉa chảy (kinh nghiệm này có ghi trong Bản tháo cương mục từ thê' kỷ 16).
 
-1. ()(*)()Cổ họng sưng đau:italic2 Chọn một quả dưa chuột già, bỏ hết hột. Thêm mang tiêu vào cho đầy ruột quả, trộn đều phơi trong mát cho khô. Ngậm từng ít một (theo Y ỉấm tập vểu).
+1. ()(\*)()Cổ họng sưng đau:italic2 Chọn một quả dưa chuột già, bỏ hết hột. Thêm mang tiêu vào cho đầy ruột quả, trộn đều phơi trong mát cho khô. Ngậm từng ít một (theo Y ỉấm tập vểu).
 
 2. Bụng chướng, chân tay phù nề: Lấy một quả dưa chuột già chín, loại bỏ hạt, thêm một ít dấm chua, nắu chín nhừ. Cho ăn Lúc bụng đói. Bệnh nhân sẽ đái nhiều và hết phù nề (Thiên
-

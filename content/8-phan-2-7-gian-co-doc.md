@@ -1280,7 +1280,7 @@ Trong đó:
 
 - Zingerola
 
-R = -CH (OH) (CH₂)_(n)CH₃
+R = -CH (OH) (CH₂)\_(n)CH₃
 
 n = 3, 4, 5
 
@@ -1852,7 +1852,7 @@ Loại ngũ gia bì của ta chưa thấy có tài liệu nghiên cứu.
 
 Loại ngũ gia bì của Trung Quốc hái ở cây nam ngũ gia bì hay thích ngũ gia bì, hoặc xuyên gia bì- Ancanthopanax gracistylus W. W. Smith, cùng họ, có chứa một chất thơm là 4 métoxysalixylandehyt và một số axit hữu cơ.
 
-Trong rễ và thân cây Eleutherococcus senticosus Maxim., Acanthopanax senlicosus (Rupr. et Maxim.) Harms có chứa nhiều heterozit: Rễ chứa 0,6-0,9%, thân chứa 0,6-1,5%. Trong những heterozit có eleutherozit α hay β sitosterol glucozit C₃₅H₆₀O₆, eleutherozit B hay syringin C₁₇H₂₄O₉.H₂O, eleutherozit B₁ C₁₇H₂₀O_(10,) eleutherozit C C₈H₁₆O₆, ngoài ra còn eleutherozit D và E, cả hai đều là glucozit của syringaresinol hay dilirioresinol B C₂₃H₂₆O₈ với vị trí sắp xếp khác nhau, eleutherozit F và G (C. A., 1965, 62, 16630a và C. A., 1969, 71, 1693n). Tỷ lệ những heterozit có trong rễ đã xác định được như sau: A, B, C, D, E, F và G là 8: 30: 10: 12: 4: 2: 1 (C. A., 1965, 62, 16630a). Trong vỏ rễ và thân eleutherozit B có nhiều hơn, trong vỏ thân và thịt quả thì heterozit A, C, E và B nhiều hơn (C. A. , 1971, 74, 1080r). Tác dụng của những heterozit ấy so với một số heterozit trong nhân sâm có những điểm giống nhau.
+Trong rễ và thân cây Eleutherococcus senticosus Maxim., Acanthopanax senlicosus (Rupr. et Maxim.) Harms có chứa nhiều heterozit: Rễ chứa 0,6-0,9%, thân chứa 0,6-1,5%. Trong những heterozit có eleutherozit α hay β sitosterol glucozit C₃₅H₆₀O₆, eleutherozit B hay syringin C₁₇H₂₄O₉.H₂O, eleutherozit B₁ C₁₇H₂₀O\_(10,) eleutherozit C C₈H₁₆O₆, ngoài ra còn eleutherozit D và E, cả hai đều là glucozit của syringaresinol hay dilirioresinol B C₂₃H₂₆O₈ với vị trí sắp xếp khác nhau, eleutherozit F và G (C. A., 1965, 62, 16630a và C. A., 1969, 71, 1693n). Tỷ lệ những heterozit có trong rễ đã xác định được như sau: A, B, C, D, E, F và G là 8: 30: 10: 12: 4: 2: 1 (C. A., 1965, 62, 16630a). Trong vỏ rễ và thân eleutherozit B có nhiều hơn, trong vỏ thân và thịt quả thì heterozit A, C, E và B nhiều hơn (C. A. , 1971, 74, 1080r). Tác dụng của những heterozit ấy so với một số heterozit trong nhân sâm có những điểm giống nhau.
 
 Rễ còn chứa 1-sesamin C₂₀H₁₈O₆ (C. A., 1972,76, 32224m) và các đa đường.
 
@@ -1860,7 +1860,7 @@ Lá chứa eleutherozit I, K, L và M (C. A., 1972, 76, 59965r và Index Chemicu
 
 [C:\Users\User\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\0395.jpg]
 
-Trong rễ loài ngũ gia bì Acanthopanax sessiliflorus (Rupr. et Macxim.) Seem. Người ta thấy có những lignan glucozit như: Acanthozit A (độ chảy 100°C, (α)²⁰_(D)-42°, acanthozit B C₂₈H₃₆O₁₃ acanthozit C độ chảy 125-128°C, (α)²⁰_(D)-51°5, acanthozit D C₃₄H₄₆O₁₆ (C. A., 1965, 63, 843g và C. A. 1966, 64; 8290a).
+Trong rễ loài ngũ gia bì Acanthopanax sessiliflorus (Rupr. et Macxim.) Seem. Người ta thấy có những lignan glucozit như: Acanthozit A (độ chảy 100°C, (α)²⁰*(D)-42°, acanthozit B C₂₈H₃₆O₁₃ acanthozit C độ chảy 125-128°C, (α)²⁰*(D)-51°5, acanthozit D C₃₄H₄₆O₁₆ (C. A., 1965, 63, 843g và C. A. 1966, 64; 8290a).
 
 Ngoài ra còn daucocosterin (hay β sitoterolglucozit) C₃₅H₆₀O₆ (C. A., 1966, 65, 2626h), 1-sesamin C₂₀H₁₈O₆, 1-savinin C₁₀H₁₆O₆ (C. A., 1966, 65, 15790d) glucozit tim, tinh dầu, (C. A., 1955, 49, 5603b).
 
@@ -2091,4 +2091,3 @@ Vì đây là một loại “gừng” mọc ở quận Cao Lương, do đó c�
 #### A. Mô tả cây
 
 Riềng là một loại cỏ nhỏ, cao chừng 0,70-1,2m. Thân rễ mọc bò ngang, dài, hình trụ, đường kính
-

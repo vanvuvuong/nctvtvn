@@ -1,5 +1,5 @@
 ---
-title: Phần II.XVI - THUỐC BỔ 1
+title: Phần II.XVI - THUỐC BỔ 2
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC BỔ VÀ VỊ THUỐC ĐỘNG VẬT (PHẦN 2)
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
@@ -50,7 +50,7 @@ Theo tài liệu cổ, đông trùng hạ thảo có vị ngọt, tính ôn, và
 
 Đông trùng hạ thảo 15 con. Vịt già một con, bỏ lông ruột cho sạch. Bổ đôi đầu vịt, cho đông trùng hạ thảo vào. Lấy dây gai buộc kín lại. Cài đầu vào bụng vịt rồi thêm mắm muối hầm như thường lệ, đem cho người ốm mới khỏi thân thể có hư yếu ăn. Người ta cho rằng ăn một con vịt như vậy cũng như uống 40g nhân sâm.
 
-HẠT GẤC 木鱉子
+### HẠT GẤC 木鱉子
 
 _Còn gọi là mộc tất tử, thổ mộc miết, mộc biệt tử, mắc cao (Viêntian), Mákhâu (Thái), Mắc khấu (Thổ)._
 
@@ -148,7 +148,7 @@ Chữa trĩ lòi dom: Hạt gấc giã nát thêm một ít dấm thanh gói b�
 
 Chữa sưng vú: Giã nhân hạt gấc với một ít rượu (30-40°) đắp lên nơi sưng đau.
 
-HOÀNG KỲ 黄芪
+### HOÀNG KỲ 黄芪
 
 Hoàng kỳ (Radix Astragali) là rễ phơi hay sấy khô của cây hoàng kỳ-[Astragalus menbranaceus (Fisch) Bunge]-hay cây hoàng kỳ Mông cổ (Astragalus mongholicus Bunge) hoặc của những cây củng chi đều thuộc họ Đậu Fabaceae.
 
@@ -230,7 +230,7 @@ Chú thích:
 
 Ngoài hai cây hoàng kỳ nói trên, một số tài liệu trước xác định cây hoàng kỳ là Astragalus hoantchi. Nhưng theo sự điều tra mới đây của các nhà thực vật và dược liệu Trung Quốc thì không thấy cây này. Một số địa phương của Trung Quốc còn dùng nhiều cây khác làm hoàng kỳ như Astragalus tongolensis Ulbr., Melitotis, Heydysarum polybotrys Hand. -Mazz.v.v...
 
-HỒNG ĐẰNG 大血藤
+### HỒNG ĐẰNG 大血藤
 
 _Còn gọi là thuyết đằng, đại hoạt đằng, hoạt huyết đằng, kê huyết đằng, đại huyết đằng, dây máu người._
 
@@ -318,7 +318,7 @@ Ngày dùng 4 đến 40g.
 
 Còn dùng cho thêm vào thuốc cho dễ uống. Ngoài những công dụng trên, hiện nay người ta thấy kẹo mạ có tác dụng nhũ hóa rất mạnh (có thể thêm tới 50% trọng lượng dầu như dầu cá, dầu gấc vào mà để mấy ngày dầu và kẹo không bị phân ly). Có tác giả cho rằng tác dụng nhũ hóa đó do các men trong kẹo, nhưng gần đây Adrian đã chứng minh là do tỉ lệ dextrin mà có tác dụng đó.
 
-KIM ANH 金樱子
+### KIM ANH 金樱子
 
 _Còn gọi là thích lê tử, đường quân tử._
 
@@ -390,7 +390,7 @@ Chú thích:
 
 Tại các nước, người ta dùng quả giả của một số cây khác củng chi, ví dụ như Roasa canina L., Rosa cinnamomea L., Rosa acicularis Lindb. v.v... đều củng một họ. Ở Việt Nam mới chỉ thấy dùng có cây kim anh, ta có thể nghiên cứu dùng quả của một vị cây khác như cây tầm xuân, cây hoa hồng v.v...
 
-TẦM XUÂN 蔷薇
+### TẦM XUÂN 蔷薇
 
 Tên khoa học _*Rosa multiflora Thunb.*_
 
@@ -424,7 +424,7 @@ Chú thích
 
 Ngoài cây tầm xuân, trong nhân dân ta còn thấy dùng hoa hồng mang tên mai quỷ, tên khoa học Rosa rugosa Thunb. Hoa và rễ được dùng làm thuốc lý khí, hoạt huyết. Một loại rượu nổi tiếng của Trung Quốc mang tên Mai quế lộ do chúng ta đọc chệch Mai quý lộ, chế từ một loại cao lương cho lên men và cất qua hoa hồng Mai quỷ.
 
-HỒ ĐÀO 胡桃
+### HỒ ĐÀO 胡桃
 
 _Còn gọi là hạnh đào, hoàng đào, óc chó, cát tuế tử, phan la tư._
 

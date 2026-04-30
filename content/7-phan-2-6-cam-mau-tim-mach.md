@@ -24,13 +24,13 @@ Nhiều người nghiên cứu, nhưng báo cáo chưa thống nhất.
 
 3.Năm 1958, theo báo Hóa học thế giới (1-7-1958), các tác giả Hứa Thực Phương và Lưu Tinh Giai đã chiết xuất từ long nha thảo được các chất sau đây:
 
-a)  Chất agrimonin A có tinh thể màu trắng, độ chảy 288°-290°, công thức thô tạm định là C₂₉H₄₉O₅, có tính chất một sterol;
+a) Chất agrimonin A có tinh thể màu trắng, độ chảy 288°-290°, công thức thô tạm định là C₂₉H₄₉O₅, có tính chất một sterol;
 
-b)  Chất agrimonin B tinh thể màu trắng, độ chảy 235º, công thức thô tạm định là C₁₄H₁₉O₁₀ có tính chất một axit nhân vòng;
+b) Chất agrimonin B tinh thể màu trắng, độ chảy 235º, công thức thô tạm định là C₁₄H₁₉O₁₀ có tính chất một axit nhân vòng;
 
-c)  Chất agrimonin C đun tới 340º thì bị phân giải, có tính chất phenol;
+c) Chất agrimonin C đun tới 340º thì bị phân giải, có tính chất phenol;
 
-d)  Một chất axit là một chất bột, vô định hình, màu nâu hòa tan trong dung dịch kiềm rồi sấy khô tức là chất lưu hành trên thị trường với tên long nha thảo tố. Cả 4 chất trên thử dược lý đều không thấy tác dụng cầm máu.
+d) Một chất axit là một chất bột, vô định hình, màu nâu hòa tan trong dung dịch kiềm rồi sấy khô tức là chất lưu hành trên thị trường với tên long nha thảo tố. Cả 4 chất trên thử dược lý đều không thấy tác dụng cầm máu.
 
 #### D. Tác dụng dược lý
 
@@ -1008,7 +1008,7 @@ Trong hoàng cầm có tinh dầu, các dẫn xuất flavon: Scutelarin (hay woo
 
 Chất scutelarin có cả trong lá, rễ và thân 8,4- 10,3%. chất baicalin chỉ có trong rễ. Ngoài ra còn có tanin và chất nhựa. Không thấy có ancaloit, gIucozit chữa tim, saponin và vitamin C.
 
-Chất baicalin có tinh thể màu vàng tươi, độ chảy 223°C có thể chiết xuất từ rễ hoàng cầm bằng cồn 50°C sôi, dùng axit sunfuric đặc thủy phân sẽ được axit glycuronic và baicalein C₁₅H₁₀O₅ (5-6-7 trioxyflavon) có tinh thể màu vàng không tan trong nước, tan trong cồn, độ chảy 264-265°C. Dung dịch rượu baicalin thêm FeCl₃ sẽ cho màu xanh đen, với axetat chì sẽ cho kết tủa màu vàng cam, hòa tan trong kiềm sẽ cho màu vàng, có thể khử bạc nitrat, α_(D)^(20º)= - 144°9.
+Chất baicalin có tinh thể màu vàng tươi, độ chảy 223°C có thể chiết xuất từ rễ hoàng cầm bằng cồn 50°C sôi, dùng axit sunfuric đặc thủy phân sẽ được axit glycuronic và baicalein C₁₅H₁₀O₅ (5-6-7 trioxyflavon) có tinh thể màu vàng không tan trong nước, tan trong cồn, độ chảy 264-265°C. Dung dịch rượu baicalin thêm FeCl₃ sẽ cho màu xanh đen, với axetat chì sẽ cho kết tủa màu vàng cam, hòa tan trong kiềm sẽ cho màu vàng, có thể khử bạc nitrat, α\_(D)^(20º)= - 144°9.
 
 Scutelarin hay woogonin là một chất có tinh thể màu vàng, chảy ở trên 300°Cthủy phân bằng dung dịch 30-40% axit sunfuric sẽ cho scutelarein C₁₅H₁₀O₆ (5-6-7-4, tetraoxyflavon). Scutelarein có tinh thể màu vàng, độ chảy ước vào 330-350°C đun 200°C với KOH sẽ cho p. HOC₆H₄COOH và một chất phenol cho phản ứng phlogluxinola.
 
@@ -1038,7 +1038,7 @@ d) Vương Nhĩ Đạt và Khâu Bồi Luân (1956) trong Trung Quốc sinh lý 
 
 - Dung dịch 1/10.000 cồn hoàng cầm đối với mạch máu bình thường, mạch máu đã xơ cứng và tai thỏ cô lập còn dây thần kinh đều thấy huyết áp toàn thân hơi hạ xuống.
 
-2.Độ độc của hoàng cầm: Dù với liều rất cao, hoàng cầm cũng tỏ ra ít độc.
+  2.Độ độc của hoàng cầm: Dù với liều rất cao, hoàng cầm cũng tỏ ra ít độc.
 
 3. Tác dụng kháng sinh: Từ Trấn (1947), Lưu Quốc Thanh (1950) và Khồng Khản (1955) đã nghiên cứu tác dụng kháng sinh của nhiều vị thuốc bắc, thấy nước sắc hoàng cầm 100% có khả năng ức chế vi trùng bạch hầu (21-30mm) Streptococcus hemolytic A. Staphylococcus aureus, vi trùng tả, vi trùng phó thương hàn, colibacile, Streptococcus hemolytic B, vi trùng lao và dịch tả.
 
@@ -1342,7 +1342,7 @@ Thuốc thử kiliani (axit sunfuric có pha sắt ba sunfat) hòa tan antiarin 
 
 HCl pha loãng trong môi trưòng rượu đun sôi, thủy phân antiarin để cho một đường tương tự như ramnoza gọi antiaroza hay đ gulometyloza C₆H₁₂O₅ và một chất không đường có tinh thể gọi là antiarigenin có độ chảy 180°c.
 
-α-antiarin chảy ở 242°C(có tài liệu nói độ chảy của antiarin.4H₂O là 220-225ºC) độ quay cực α_(D) =- 4°.
+α-antiarin chảy ở 242°C(có tài liệu nói độ chảy của antiarin.4H₂O là 220-225ºC) độ quay cực α\_(D) =- 4°.
 
 β-antiarin C₂₉H₄₂O₁₁.3H₂O có cùng một công thức như α-antiarin, nhưng ngậm có 3 phân tử nước. Thủy phân β-antiarin cho 1. ramnoza và antiarigenin. β-antiarin có tinh thể hình kim hay hình trụ. Độ chảy 225°C(có tài liệu nói 206-207°C).
 
@@ -1630,12 +1630,15 @@ Chuyển dịch ête vào một bình có đáy bằng, thể tích 11, thêm 20
 
 Tỷ lệ pyrethrin I trong nguyên liệu khô, kiệt tính theo phương thức sau:
 
------------------------------------------------------------------------
-X ( tỷ lệ phần trăm ) =                 0,0066 x V x 100
---------------------------------------- -------------------------------
+---
+
+X ( tỷ lệ phần trăm ) = 0,0066 x V x 100
+
+---
+
 a
 
------------------------------------------------------------------------
+---
 
 Trong đó V là thể tích dung dịch NaOH 0,02N biểu thị bằng ml đã dùng để định lượng.
 
@@ -1850,4 +1853,3 @@ Theq các tài liệu cũ (Pételot, 1953) ở nước ta có khai thác vỏ c�
 Đây là một cây nhỡ, cao chừng 5-6m, lá kép lông chim nhẵn gồm 3 đến 6 đôi lá chét mọc đối hay gần như đối, không cuống, phía cuống hơi không đều, mép lá răng cưa, nhưng lá chét phía trên to rộng hơn, bóng nhẵn, nhưng lá chét phía dưới có mặt trên nhẵn, mặt dưới hơi có lông. Hoa cái mọc thành bông nhiều hoa mọc sít nhau, hơi có lông. Quả mọc thành bông thõng xuống, dài tới 45cm hay hơn. Hạt nhỏ dài 15-17mm, rộng 2-3mm hơi có lông, có 2 cánh hẹp.
 
 Cây này mọc hoang khắp nơi ở miền Bắc nước ta, nhiều nhất vùng rừng núi, có cả ở miền Trung và ở Lào. Nhân dân thường dùng lá giã nát lấy nước để duốc cá, có khi người ta dùng lá nấu nước nhuộm màu kaki. Chưa thấy tài liệu nghiên cứu
-
