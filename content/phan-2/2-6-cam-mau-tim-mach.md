@@ -1,5 +1,5 @@
 ---
-title: Phần II.VI - CẦM MÁU VÀ CHỮA BỆNH TIM MẠCH
+title: II.VI - CẦM MÁU VÀ CHỮA BỆNH TIM MẠCH
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CẦM MÁU VÀ CHỮA BỆNH TIM MẠCH
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

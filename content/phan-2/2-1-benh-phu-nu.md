@@ -1,5 +1,5 @@
 ---
-title: Phần II.I - BỆNH PHỤ NỮ
+title: II.I - BỆNH PHỤ NỮ
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH PHỤ NỮ
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

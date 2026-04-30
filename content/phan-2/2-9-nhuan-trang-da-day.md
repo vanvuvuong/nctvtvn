@@ -1,5 +1,5 @@
 ---
-title: Phần II.IX - NHUẬN TRÀNG VÀ BỆNH DẠ DÀY
+title: II.IX - NHUẬN TRÀNG VÀ BỆNH DẠ DÀY
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC NHUẬN TRÀNG VÀ CHỮA BỆNH DẠ DÀY
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

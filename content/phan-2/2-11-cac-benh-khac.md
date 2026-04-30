@@ -1,5 +1,5 @@
 ---
-title: Phần II.XI - RẮN CẮN, GIẢI ĐỘC VÀ CÁC BỆNH KHÁC
+title: II.XI - RẮN CẮN, GIẢI ĐỘC VÀ CÁC BỆNH KHÁC
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA RẮN CẮN, GIẢI ĐỘC VÀ CÁC BỆNH KHÁC
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

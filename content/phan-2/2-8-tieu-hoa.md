@@ -1,5 +1,5 @@
 ---
-title: Phần II.VIII - ĐƯỜNG TIÊU HÓA
+title: II.VIII - ĐƯỜNG TIÊU HÓA
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH ĐƯỜNG TIÊU HÓA
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

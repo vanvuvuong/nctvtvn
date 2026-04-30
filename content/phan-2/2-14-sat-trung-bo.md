@@ -1,5 +1,5 @@
 ---
-title: Phần II.XIV - SÁT TRÙNG VÀ THUỐC BỔ
+title: II.XIV - SÁT TRÙNG VÀ THUỐC BỔ
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC SÁT TRÙNG VÀ THUỐC BỔ
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

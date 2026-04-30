@@ -1,5 +1,5 @@
 ---
-title: Phần II.IV - LỴ VÀ TIÊU CHẢY
+title: II.IV - LỴ VÀ TIÊU CHẢY
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA LỴ VÀ TIÊU CHẢY
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

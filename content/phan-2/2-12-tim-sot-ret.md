@@ -1,5 +1,5 @@
 ---
-title: Phần II.XII - TIM VÀ SỐT RÉT
+title: II.XII - TIM VÀ SỐT RÉT
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH TIM VÀ SỐT RÉT
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

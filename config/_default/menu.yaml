@@ -1,0 +1,13 @@
+main:
+  - identifier: home
+    name: Home
+    weight: 1
+    url: https://nctvtvn.fyi
+    params:
+      icon: <i class="fas fa-home"></i>
+  - identifier: benh
+    name: Tra cứu theo bệnh
+    weight: 2
+    url: /benh
+    params:
+      icon: <i class="fas fa-blog"></i>

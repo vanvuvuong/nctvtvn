@@ -1,5 +1,5 @@
 ---
-title: Phần II.III - GIUN SÁN VÀ KÝ SINH TRÙNG
+title: II.III - GIUN SÁN VÀ KÝ SINH TRÙNG
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA GIUN SÁN VÀ KÝ SINH TRÙNG
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

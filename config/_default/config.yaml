@@ -7,5 +7,5 @@ build:
 taxonomies:
   author: authors
   category: categories
-  series: series
+  benh: benh
   tag: tags

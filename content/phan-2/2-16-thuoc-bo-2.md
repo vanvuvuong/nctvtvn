@@ -1,5 +1,5 @@
 ---
-title: Phần II.XVI - THUỐC BỔ 2
+title: II.XVI - THUỐC BỔ 2
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC BỔ VÀ VỊ THUỐC ĐỘNG VẬT (PHẦN 2)
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

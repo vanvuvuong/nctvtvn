@@ -1,5 +1,5 @@
 ---
-title: Phần II.V - ĐƯỜNG TIẾT NIỆU
+title: II.V - ĐƯỜNG TIẾT NIỆU
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH ĐƯỜNG TIẾT NIỆU
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

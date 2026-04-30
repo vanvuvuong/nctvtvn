@@ -1,5 +1,5 @@
 ---
-title: Phần II.X - XƯƠNG KHỚP VÀ TÊ THẤP
+title: II.X - XƯƠNG KHỚP VÀ TÊ THẤP
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH XƯƠNG KHỚP VÀ TÊ THẤP
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---

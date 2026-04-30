@@ -2,6 +2,6 @@ goldmark:
   renderer:
     unsafe: true
 tableOfContents:
-  startLevel: 3
+  startLevel: 2
   endLevel: 5
   ordered: false
