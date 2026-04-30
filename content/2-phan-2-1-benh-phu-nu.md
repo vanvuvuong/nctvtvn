@@ -1,5 +1,5 @@
 ---
-title: Phần II.I - NHỮNG CÂY THUỐC VÀ VỊ THUỐC
+title: Phần II.I - BỆNH PHỤ NỮ
 description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH PHỤ NỮ
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
@@ -32,11 +32,11 @@ Ngoài cây ích mẫu mô tả trên, cần chú ý phát hiện và phân bi�
 1. Lá trên cùng không chia thùy, tràng hoa đài 9-12mm, môi trên, môi dưới gần bằng nhau... Leonurus heterophyllus
 2. Lá trên cùng xẻ 3 thùy, tràng hoa dài 15- 20mm, môi dưới ngắn hơn môi trên... _Leonurus_
 
-##### TODO: thêm hình ảnh
+![ich-mau-1](images/ich-mau-1.png)
 
 Hình 4. ích mẫu - Leonurus heterophyllus
 
-##### TODO: thêm hình ảnh
+![ich-mau-2](images/ich-mau-2.png)
 
 Hình 5. ích mẫu - Leonurus sibiricus
 
@@ -56,7 +56,7 @@ Từ cây ích mẫu _Leonurus sibiricus_, các nhà nghiên cứu Nhật Bản 
 
 ##### TODO: hiển thị công thức hóa học cho chuẩn
 
-##### TODO: Thêm hình ảnh hợp chất
+![leonurin](images/leonurin.png)
 
 Leonurin
 
@@ -97,10 +97,9 @@ Gần đây người ta thấy trong ích mẫu có 3 flayonozit, một trong s�
 
 Từ lâu vị ích mẫu được nhân dân ta dùng chữa bệnh phụ nữ, nhất là đối với phụ nữ sau khi sinh nở, do đó có câu ca dao:
 
-```
-      Nhân trần, ích mẫu đi đâu
-   Để cho gái đẻ đớn đau thế này?
-```
+_Nhân trần, ích mẫu đi đâu_
+
+_Để cho gái đẻ đớn đau thế này?_
 
 Thường ích mẫu dùng trong trường hợp đẻ xong bị rong huyết (cầm máu tử cung), chữa viêm niêm mạc dạ con, kinh nguyệt quá nhiều.
 
@@ -152,7 +151,7 @@ Vào tháng 6, trên ngọn cây có 3 đến 8 cụm hoa hình tán màu xám n
 
 Cỏ gấu mọc hoang ở khắp nơi trên đồng ruộng, ven đường. Tại ven biển, đất cát xốp củ to hơn, dễ đào hơn. Đối với nhà nông, đây là một loại cỏ rất khó tiêu diệt. Chỉ cần sót lại một mẩu thân rễ nhỏ cũng đủ phát triển. Còn thấy mọc những ở nước khác vùng châu Á như Trung Quốc, Triều Tiên, Nhật Bản, Inđônêxia.
 
-##### TODO: thêm ảnh cây
+![huong-phu](images/huong-phu.png)
 
 Hình 6. Hương phụ - Cyperus rotundus
 
@@ -179,6 +178,10 @@ Hoạt chất của hương phụ hiện chưa rõ. Chỉ mới biết trong hư
 Thành phần tinh dầu gồm 32% cyperen C15H24, 49% rượu cyperola C15H24O. Ngoài ra còn có các axit béo, phenol, Trong tinh dầu hương phụ Ấn Độ còn chứa cyperon C15H22O. Ngoài ra trong hương phụ còn chứa rất nhiều tinh bột.
 
 Do nguồn gốc hương phụ khác nhau, thành phần tinh dầu của hương phụ cũng không hoàn loàn giống nhau. Trong tinh dầu hương phụ Trung quốc có thành phần chủ yếu là cyperen (độ sôi 104oC/5mm thủy ngân) và izocyperotundone, còn trong tinh dầu hương phụ Nhật bản có thành phần chủ yếu là cyperol, cyperenol (độ chảy 94oC) chiếm 49%, cyperen 32% và a-cyperon (độ sôi 177oC/20mm thủy ngân), cyperotundon và cyperolon (độ chảy 41- 42°C) (Lâm Khải Thọ, 1977, 580):
+
+![cyperon](images/cyperon.png)
+
+![huong-phu-tphh](images/huong-phu-tphh.png)
 
 #### D. Tác dụng dược lý
 
@@ -236,7 +239,7 @@ Thường hái cành và lá vào tháng 6 (gần tương ứng với tết mồ
 
 Trong phương pháp chữa bệnh bằng châm cứu, người ta có thể kích thích những huyệt hoặc bằng kim châm sâu vào da thịt, hoặc bằng cách đặt lên những huyệt một miếng gừng tươi mỏng có châm vài lỗ để tránh cho da thịt khỏi bị cháy bỏng nhưng hơi nóng vẫn ngấm tới da thịt rồi vê một nắm ngải nhung bằng một mồi thuốc lào đặt trên miếng gừng mà đốt; sức nóng kích thích huyệt (gọi là cứu). Sở dĩ người ta dùng lông ngải cứu vì nó có nhiều tinh dầu, cháy lâu không tắt.
 
-##### TODO: thêm ảnh minh họa
+![ngai-cuu](images/ngai-cuu.png)
 
 Hình 7. Ngải cứu - Artemisia vulgaris
 
@@ -296,9 +299,9 @@ Cây nhỏ cao chừng 1m đến 1,5m. Lá rộng hình trứng, dài 10-20cm, r
 
 Vòi nhuỵ thường ngắn hơn chỉ nhị. Bầu thượng hình trứng. Quả hạch gần hình cầu, còn đài tồn tại bao ở ngoài ( Hình 8 ).
 
-_Hình 8. Bạch đồng nữ - Clerodendron ƒragrans_
+![bach-dong-nu-1](images/bach-dong-nu-1.png)
 
-##### TODO: thêm hình ảnh
+_Hình 8. Bạch đồng nữ - Clerodendron ƒragrans_
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -318,9 +321,9 @@ Cây bạch đồng nữ chưa thấy tài liệu nghiên cứu.
 
 Năm 1968, bộ môn dược liệu phối hợp với phòng đông y thực nghiệm Viện đông y nghiên cứu thấy bạch đồng nữ của ta có tác dụng hạ huyết áp do dãn mạch ngoại vi; ngoài ra có tác dụng lợi tiểu, có khả năng ngăn chặn phản ứng viêm do phenol gây ra trên tai thỏ.
 
-_Hình 9. Bạch đồng nữ - Clerodendron squamatum_
+![bach-dong-nu-2](images/bach-dong-nu-2.png)
 
-##### TODO: thêm hình ảnh
+_Hình 9. Bạch đồng nữ - Clerodendron squamatum_
 
 Cây xú ngô đồng (Trung Quốc) gần đây được nghiền cứu nhiều:
 
@@ -344,7 +347,7 @@ Các lương y khác thường chỉ dùng rễ cây bạch đồng nữ.
 
 Ngoài những công dụng kể trên, mới đây dựa trên kinh nghiệm nhân dân địa phương, bệnh viện Lạng Sơn đã dùng rễ cây bạch đồng nữ và xích đồng nam (hoa đỏ- xem phần chú thích ở dưới) chữa bệnh vàng da và niêm mạc, nhất là niêm mạc mắt bị vàng thẫm, kiểm nghiệm nước tiểu có sắc tố mật. Dùng dưới dạng thuốc sắc hay thuốc viên. Sắc: Rễ bạch đồng nữ 10g, nước 400ml, sắc còn một bát (200ml), chia 2 lần uống trong ngày, có thể dùng cả rễ và thân cây thái nhỏ 600g sắc với 5lít nước và cô đặc còn 90g, thêm tá dược vào làm thành viên (120viên), mỗi viên nặng 1g; ngày uống 8 viên chia làm hai lần (Y học thực hành 2-1962).
 
-##### TODO: thêm hình ảnh
+![xich-dong-nam](images/xich-dong-nam.png)
 
 _Hình 10. Xích đồng nam - Clerodendron infortunatum_
 
@@ -368,11 +371,11 @@ Thuộc họ Lá giấp _Saururaceae_.
 
 Cây diếp cá là một loại cỏ nhỏ, mọc lâu năm, ưa chỗ ẩm ướt có thân rễ mọc ngầm dưới đất. Rễ nhỏ mọc ở các đốt, thân mọc đứng cao 40cm, có lông hoặc ít lông. Lá mọc cách, hình tim, đầu lá, hơi nhọn hay nhọn hẳn. Hoa nhỏ màu vàng nhạt, không có bao hoa, mọc thành bông, có 4 lá bắc màu trắng; trông toàn bộ bề ngoài của cụm hoa và lá bác giống như một cây hoa đơn độc, toàn cây vò có mùi tanh như cá. Hoa nở về mùa hạ vào các tháng 5-8. (Hình 11, Hm 1,4).
 
+![diep-ca](images/diep-ca.png)
+
 _Hình 11. Diếp cá - Houtfuynid cordata_
 
-##### TODO: thêm hình ảnh
-
-##### TODO: CTHH
+![diep-ca-cthh](images/diep-ca-cthh.png)
 
 #### B. Phân bố thu hái và chế biến
 
@@ -421,9 +424,9 @@ Người ta thường dùng hồng hoa (_Flos Casthami_) là hoa phơi hay sấy
 
 Cây thuộc thảo, cao 0.60-1m hay hơn, không có lông, thân trắng có vạch dọc. Lá mọc so le không có cuống, mép có răng cưa nhọn. Cụm hoa gồm những đầu họp lại thành ngù. Hoa màu đỏ cam đẹp, lá bắc có gai. Quả bế có bốn cạnh lồi nhỏ dài 6-7mm, rộng 4-5mm ( Hình 12, Hm 6,2).
 
-_Hình 12. Hồng hoa - Carthamus tinctorius_
+![hong-hoa](images/hong-hoa.png)
 
-##### TODO: thêm hình ảnh
+_Hình 12. Hồng hoa - Carthamus tinctorius_
 
 #### B. Phân bố thu hái và chế biến
 
@@ -435,7 +438,7 @@ Trong hồng hoa có chừng 0,3-0,6% chất gluxit gọi là cactamin (carthami
 
 Cactamin là một chất có tinh thể màu đỏ khi tác dụng HCl lạnh sẽ cho isocactamin, thuỷ phân sẽ cho glucoza và cactamidin.
 
-##### TODO: CTHH
+![cactamin](images/cactamin.png)
 
 #### D. Tác dụng dược lý
 
@@ -476,9 +479,9 @@ Cây gai nói đây là cây mà lá ta vẫn dùng làm bánh gai ăn và sợi
 
 Cây sống lâu năm, có thể cao tới 1,5-2m. Lá lớn, mọc so le, hình tim, dài 7-15cm, rộng 4- 8cm mép có răng cưa, đáy lá hình tim hay hơi tròn, mặt dưới trắng vì có nhiều lông trắng, mặt trên có màu lục sẫm, dáp, có 3 gân từ cuống phát ra. Hoa đơn tính cùng gốc. Hoa đực có 4 lá đài và 4 nhị. Hoa cái có đài hợp chia làm 3 răng. Quả bế mang đài tồn tại (Hình 13, Hm 5,3).
 
-_Hình 13. Cây gai – Boehmeria nivea_
+![cay-gai](images/cay-gai.png)
 
-##### TODO: thêm hình ảnh
+_Hình 13. Cây gai – Boehmeria nivea_
 
 Rễ hái vào bất cứ mùa nào, nhưng tốt nhất vào thu đông. Hái về rửa sạch đất phơi hay sấy khô.
 
@@ -490,9 +493,9 @@ Cây này được trồng ở khắp nơi trong nước để lấy sợi hay l
 
 Hoạt chất hiện chưa xác định được. Mới thấy có axit clorogenic là một loại tanin, do sự kết hợp của axit cafeitanic và axit quinic.
 
-_Axit clorogenic_
+![axit-clorogenic](images/axit-clorogenic.png)
 
-##### TODO: CTHH
+_Axit clorogenic_
 
 #### D. Tác dụng dược lý
 
@@ -526,9 +529,9 @@ Thuộc họ Cúc _Asteraceae(Compositae)_.
 
 Cây hoa cứt lợn là một cây nhỏ, mọc hàng năm, thân có nhiều lông nhỏ mềm, cao chừng 25-50cm, mọc hoang ở khắp nơi trong nước ta. Lá mọc đối hình trứng hay 3 cạnh, dài 2-6cm, rộng 1-3cm, mép có răng cưa tròn, hai mặt đều có lông, mặt dưới của lá nhạt hơn. Hoa nhỏ, màu tím, xanh. Quả bế màu đen, có 5 sống dọc ( Hình 14, Hm 45,1).
 
-_Hình 14. Cây cứt lợn - Ageratum conyzoides_
+![cay-cut-lon](images/cay-cut-lon.png)
 
-##### TODO: thêm hình ảnh
+_Hình 14. Cây cứt lợn - Ageratum conyzoides_
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -582,15 +585,15 @@ Ngoài ra còn một số cây khác nữa, cần chú ý khi dùng và nghiên 
 
 Cây bán hạ Việt Nam (_Typhonium trilobatum_ Schott) (Hình 15) còn gọi là _củ chóc, lá ba chia, cây chóc chuột_, là một loại cỏ không có thân, có củ hình cầu đường kính tới 2cm. Lá hình tim, hay hình mác, hoặc chia 3 thuỳ dài 4-15cm rộng 3,5-9cm. Bông mo với phần hoa đực dài 5- 9mm, phần trần dài 17-27mm. Quả mọng, hình trứng dài 6mm .
 
-_Hình 15. Bán hạ Việt nam - Typhonium divaricatum_
+![ban-ha-vn](images/ban-ha-vn.png)
 
-##### TODO: thêm hình ảnh
+_Hình 15. Bán hạ Việt nam - Typhonium divaricatum_
 
 Cây bán hạ Trung Quốc (_Pinellia ternata_ Thunb.) Breiter (Hình 16) khác cây bán hạ Việt Nam ở chỗ thuỳ xẻ sâu rõ rệt hơn. Mặc dầu gọi là bán hạ Trung Quốc để phân biệt với bán hạ _"Việt Nam"_, nhưng có người nói đã thấy cây này mọc ở Lào Cai nhưng chưa được khai thác ( Hm 5,4 ).
 
-_Hình 16. Bán hạ Trung quốc - Pinellia ternata_
+![ban-ha-tq](images/ban-ha-tq.png)
 
-##### TODO: thêm hình ảnh
+_Hình 16. Bán hạ Trung quốc - Pinellia ternata_
 
 Cây chưởng diệp bán hạ (_Pinellia pedatisecta_ Schott) khác những cây trên ở lá chia thành chín thuỳ khía sâu.
 
@@ -674,11 +677,11 @@ Theo sự nghiên cứu ghi trong tài liệu của Liên Xô cũ trong vỏ r�
 
 1. Liên Xô cũ công nhận vỏ rễ cây bông là một vị thuốc chính thức dùng dưới dạng cao lỏng làm thuốc cầm máu tử cung.
 
-##### TODO: thêm ảnh minh họa
+![cay-bong](images/cay-bong.png)
 
 Hình 17. Cây bông - Gossypium sp.
 
-##### TODO: thêm ảnh CTHH
+![gosypola](images/gosypola.png)
 
 Gosypola
 
@@ -738,7 +741,7 @@ Sách cổ nói: vị thuốc giống đầu gối con trâu nên gọi là ngư
 
 Cây ngưu tất là một loại cỏ xước cho nên người ta nhầm với cây cỏ xước _Achyranthes aspera L_. Cỏ có thân mảnh, hơi vuông, thường chỉ cao 1m, cũng có khi tới 2m. Lá mọc đối có cuống, dài 5-12cm, rộng 2-4cm, phiến lá hình trứng, đầu nhọn, mép nguyên. Cụm hoa mọc thành bông ở đầu cành hoặc kẽ lá (Hình 18, Hm 2,1).
 
-##### TODO: thêm ảnh minh họa
+![nguu-tat](images/nguu-tat.png)
 
 Hình 18. Cây ngưu tất - Achyranthes bidenlata
 
@@ -1544,4 +1547,26 @@ B. Thành phần hóa học
 Theo các nhà nghiên cứu Nhật Bản, trong con rết có hai chất độc gần giống chất độc ở nọc ong, có tính chất phá huyết. Ngoài ra còn có các loại amin. Ở Trung Quốc có người đã nghiên cứu, nhưng cũng chỉ mới nghiên cứu thấy có 4,45% tro và 70,20% chất protit.
 Như vậy hoạt chất hiện nay chưa rõ.
 C. Tác dụng dược lý
-Bộ môn dược liệu Trưòng đại học dược khoa có phối hợp cùng các đồng chí Rumani công tác ở bộ môn năm 1959 và các đồng chí Rumani ớ
+Bộ môn dược liệu Trường đại học dược khoa có phối hợp cùng các đồng chí Rumani công tác ở bộ môn năm 1959 và các đồng chí Rumani ở Viện vi trùng hồi đó, để thử tác dụng diệt trùng nhưng chưa đi đến kết quả gì trong phòng thí nghiệm.
+
+##### TODO: thêm hình ảnh
+
+Hình 45. Con rết – Scolopendra morsitans
+
+#### D. Công dụng và liều dùng
+
+Tính vị theo đông y: Vị cay, tính ôn, có độc, vào kinh can. Tác dụng khử phong, trấn kinh giản, giải độc của rắn. Dùng chữa hàn nhiệt tích tụ trọng bụng, trụy thai, trừ ác huyết, trị sang nhọt. Còn dùng ở phạm vi nhân dân. Tại một đơn vị quân y (1959) có báo cáo dùng rượu rết bôi lên các mụn nhọt đau nhức rất chóng khỏi (Hội nghị dược chính quân y năm 1960).
+
+Theo các tài liệu cổ và thực tế sử dụng trong nhân dân con rết dùng chữa các bệnh sau đây:
+
+1. Chữa sang trĩ đau nhức: Ngô công bỏ đầu, chân, sấy khô, tán nhỏ, hòa ít long não, thêm ít nước hay rượu bôi lên.
+
+2. Kinh nghiệm của đơn vị quân y: Rượu rết (cả con cho vào rượu 90°) bôi lên nhọt.
+
+3. Bắt 6 con rết cho vào lọ, đổ dầu vừng vào ngâm vài tháng. Lấy bông thấm thuốc này bôi lên các mụn nhọt, chỗ bị sâu trùng độc cắn sẽ hết đau.
+
+4. Ngô công sấy khô, bỏ đầu chân, tán nhỏ, trộn với lượng tương đương bột cam thảo và thêm nước hồ làm thành viên.
+
+Ngày uống 0,5g viên chia làm 3 lần uống, dùng chữa tê liệt thần kinh mặt, đau nhức, tê thấp, trẻ con cấm khẩu không bú được.
+
+- Chú ý nghiên cứu thêm.

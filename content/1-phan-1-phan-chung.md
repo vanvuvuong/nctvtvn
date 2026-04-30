@@ -67,8 +67,7 @@ Mọi ý kiến đóng góp xin gửi về địa chỉ: [binhdothanhhn@yahoo.co
 Tháng 05 năm 2004
 
 Tác giả ký tên
-
-### TODO: thêm chữ ký của tác giả
+![chuky](images/chuky.png)
 
 # Phần I: PHẦN CHUNG
 
@@ -277,6 +276,8 @@ Về _bệnh tật_ thuộc dương thường khô khan, táo, ôn nhiệt, ti�
 
 Người xưa thường nói âm ở trong để giữ gìn cho dương, dương ở ngoài để giúp đỡ cho âm. Hoặc có âm mà không có dương, hay có dương mà không có âm thì tất nhiên một mình âm không thể phát sinh được, một mình dương không thể trưởng thành được.
 
+![amduong](images/amduong.png)
+
 Lại có người nói: trong âm có âm dương, trong dương cũng có âm dương, âm đến cực độ sinh ra dương, dương đến cực độ sinh ra âm tức là hàn đến cực độ sinh ra nhiệt, nhiệt đến cực độ sinh ra hàn.
 
 ### H. Vận dụng thuyết âm dương trong y dược
@@ -353,7 +354,7 @@ Trong luật tương sinh của ngũ hành còn bao hàm ý nữa là hành nào
 
 Trong quan hệ tương sinh lại có quan hệ tương khắc để biểu hiện cái ý thăng bằng, giữ gìn lẫn nhau.
 
-#### TODO: thêm ảnh ngũ hành
+![ngu-hanh](images/ngu-hanh.png)
 
 _Luật tương khắc_. Tương khắc có nghĩa là ức chế và thắng nhau. Trong quy luật tương khác thì mộc khắc thổ, thổ khắc thủy, thủy khắc hỏa, hỏa khắc kim, kim khắc mộc và mộc lại khắc thổ, và cứ như vậy tiếp diễn mãi.
 
@@ -397,7 +398,7 @@ Ví dụ hành mộc là cây cỏ, thì màu xanh tươi, vậy, màu xanh thu�
 
 Coi bảng hệ thống quy loại ngũ hành của một số hiện tượng sau:
 
-#### TODO: thêm bảng quy loại ngũ hành
+![quy-loai-ngu-hanh](images/quy-loai-ngu-hanh.png)
 
 Trong bảng này chúng tôi chỉ trích giới thiệu một số hiện tượng và tính chất chính đã được quy nạp vào các hành. Trong các tài liệu cũ người ta quy nạp cả tiếng cười, tiếng khóc hay tình cảm như mừng lo, giận sợ vào ngũ hành.
 
@@ -469,7 +470,7 @@ Trên cơ sở lý luận đó, ta có thể thấy.
 
 Chúng ta có thể tóm tắt sự phối hợp giữa màu sắc, mùi vị và tạng phủ với kinh lạc theo sơ đồ sau đây.
 
-#### TODO: thêm ảnh ctú thích
+![kinhmach](images/kinhmach.png)
 
 ## III. BÀO CHẾ THUỐC THEO ĐÔNG Y
 
@@ -545,7 +546,6 @@ Ta có thể phân phương pháp bào chế đông y theo ba loại: dùng lử
     Một người có trình độ nghiệp vụ vừa phải, trong một ngày có thể viên tới 5-10kg bột thuốc, dụng cụ lại rất đơn giản, cho nên rất thích hợp với các phòng thuốc ở xã, huyện.
 
     a. **Dụng cụ cần thiết cho phương pháp lắc thúng**
-
     - Thuyền tán hay cối giã. Thuyền tán tốt nhất, có thể dùng máy xay.
     - Rây cỡ nhỏ mắt. Có thể dùng rây bột bán tại các chợ, nhân dân vẫn dùng rây bột.
     - Sàng đan bằng tre với các cỡ mắt sàng: 1mm, 2mm, 3mm, 5mm.
@@ -557,7 +557,6 @@ Ta có thể phân phương pháp bào chế đông y theo ba loại: dùng lử
     - Dàn phơi hay tủ sấy.
 
     b. **Nguyên liệu để tàm viên tròn lắc thúng**
-
     - Những vị thuốc nào có thể nấu thành cao lỏng thì nấu để làm chất dính.
     - Vị thuốc nào có thể nấu thành cao khô hay cao mềm thì cho nấu để tăng chất giảm lượng viên.
     - Vị thuốc nào tán thành bột thì cho tán thành bột, rây nhỏ. Chú ý phơi hay sấy khô trước khi tán.
@@ -729,7 +728,6 @@ Những hoạt chất thường gặp trong các vị thuốc động vật và 
    _Xơ thực vật chống táo bón._ Xơ thực vật ăn vào giữ nước làm tăng khối lượng phân trong ruột, do đó kích thích sự co bóp của ruột và thải phân ra dễ dàng. Tính nhuần hoạt, làm dịu niêm mạc còn dùng chữa ho, cầm máu.
 
    _Xơ thực vật và béo phì._ Những chất đông do xơ thực vật tạo thành giữ những thức ăn trong các mắt lưới và giúp cho những thức ăn đó được tiêu thụ từ từ và bổ sung từ từ vào máu, bảo đảm sự hấp thụ có chừng mực. Do đó dẫn đến hai kết quả:
-
    - Hàm lượng đường trong máu khỏi tăng lên đột ngột. Chất insulin vì vậy khỏi bị tiết ra một cách đột xuất với lượng lớn, và vì vậy, không làm cho lượng đường được tích trữ dưới dạng mỡ trong tế bào mỡ (hiện tượng chỉ xảy ra khi lượng đường được chuyển tới quá lớn).
    - Hàm lượng cholesterol trong máu hạ xuống. Vì xơ thực vật giữ những muối mật lại, và không cho số muối mật này trở lui vào máu. Cơ thể do đó phải tiếp tục sản xuất ra muối mật để bù lại số muối mật đã tiêu thụ hàng ngày. Mà nguyên liệu ban đầu để chế muối mật là cholesterol. Do đó xơ thực vật gián tiếp làm hạ cholesterol trong máu. Xơ thực vật trở thành một thứ thuốc cần thiết hàng ngày.
 
