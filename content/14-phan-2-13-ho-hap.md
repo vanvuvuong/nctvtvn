@@ -1372,7 +1372,7 @@ Năm 1974 (Thông báo dược liệu 21, 1974), Lê Hà Lệ Xuân nghiên cứ
 
 1. Chế phẩm của bồng bồng có những tác dụng điển hình của một glucozit chữa tim: Hoạt tính sinh vật trên mèo (theo Dược điển Liên Xô IX 1961 và Dược điển Việt Nam 1971) là 0,113; hoạt tính sinh vật so sánh với bột lá Digitalis chuẩn Trung Quốc lá 73,44%; với liều tiêm trước bằng 50% đơn vị mèo, lượng thuốc tích luỹ sau 24 giờ là 7,88% đơn vị mèo (bằng 16% của liều tiêm trước); với liều tiêm trước bằng 75% đơn vị mèo, lượng thuốc tích luỹ sau 24 giờ là 20% đơn vị mèo (bằng 27% của liều tiêm trước). Như vậy, bồng bồng thuộc nhóm glucozit chữa tim sau 24 giờ tích luỹ ít, ít hơn strophantin G 2 lần, ít hơn Strophantin K và D 3 lần, ít hơn digitoxin 5,3 lần.
 
-2. Chế phẩm bồng bồng ít độc: Liều chết LD50 đối với chuột nhắt trắng tính theo Perchin là 3,95g. So với những glucozit chữa tim đã biết, khoảng cách an toàn tương đối rộng.
+2. Chế phẩm bồng bồng ít độc: Liều chết LD₅₀ đối với chuột nhắt trắng tính theo Perchin là 3,95g. So với những glucozit chữa tim đã biết, khoảng cách an toàn tương đối rộng.
 
 3. Trên tim ếch cô lập, với nồng độ 1:1 triệu, 1:10 triệu và 1:100 triệu đều có tác dụng tăng trương lực tâm thu và làm giảm nhịp tim rõ rệt. Với liều độc: 1:100.000 tim chết ở thì tâm thu.
 

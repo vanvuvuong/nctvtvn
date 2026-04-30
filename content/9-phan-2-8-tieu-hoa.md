@@ -32,7 +32,7 @@ Ngoài tinh dầu, trong riềng còn có các chất sau đây :
 
 Ba chất có tinh thể, không có vị gì, đều là dẫn xuất của ílavon. Sớ lượng ước chừng
 
-0, 1%. Ba chất đó là galangin C15Hl0O5, alpinín C]7H]606 và kaempíerit C]6H|206 (1-3 dioxy- 4-metoxyflavonon).
+0, 1%. Ba chất đó là galangin C₁₅Hl₀O₅, alpinín C]7H]606 và kaempíerit C]6H|206 (1-3 dioxy- 4-metoxyflavonon).
 
 #### D. Cống dụng và liều dùng
 
@@ -92,13 +92,13 @@ Có thể thu hái quanh năm, nhưng tốt nhãt vào mùa thu ở các tháng 
 
 c. Thành phẩn hoá học
 
-Trong thạch xương bồ có chừng 0,5-0,8% tinh dầu, trong tinh dầu có chừng 86% asaron C13H1603. Ngoài ra còn có một chất phenol và axit béo.
+Trong thạch xương bồ có chừng 0,5-0,8% tinh dầu, trong tinh dầu có chừng 86% asaron C₁₃H₁₆₀₃. Ngoài ra còn có một chất phenol và axit béo.
 
 Tinh dđu có tỷ trọng 1,05 8 ở 15°, chỉ số xà phòng 1,3 chỉ số este 5,79 độ sôi 140- 160“ ở 6mm thuỷ ngàn.
 
-Trong thuỷ xương bồ có 1,5-3,5% tinh dẩu, trong đó thành phần chủ yếu cũng là asaron C|2H|(.OS (4 propenyl 1-3-5 trimetoxybenzol), rồi đến asarylandehyt C10H]2O4. Ngoài ra còn một glucozit đắng gọi là acorin và chắt tanin.
+Trong thuỷ xương bồ có 1,5-3,5% tinh dẩu, trong đó thành phần chủ yếu cũng là asaron C|2H|(.OS (4 propenyl 1-3-5 trimetoxybenzol), rồi đến asarylandehyt C₁₀H]2O4. Ngoài ra còn một glucozit đắng gọi là acorin và chắt tanin.
 
-CH = CH - CH3
+CH = CH - CH₃
 
 och3
 
@@ -268,7 +268,7 @@ Gần đây đă di thưc đuợc bạch truật. Nhưng mới bắt dầu đua 
 
 #### C. Thành phần hóa học
 
-Trong bạch truật có tinh dầu (1,4%), nhưng thành phSn hoạt chất chưa rõ. Có tác giả nói rằng trong bạch truât có atractylola C15H]60 và atractylon C14H)80, vitamin A.
+Trong bạch truật có tinh dầu (1,4%), nhưng thành phSn hoạt chất chưa rõ. Có tác giả nói rằng trong bạch truât có atractylola C₁₅H]60 và atractylon C₁₄H)80, vitamin A.
 
 #### D. Tác dụng dược lý
 
@@ -308,7 +308,7 @@ Có thể mùa thu hoạch vào mùa xuân hay mùa thu, loại thu hoạch vào
 
 c. Thành phắn hóa học
 
-Trong thương truật có tinh dầu, trong tinh dầu thành phán chủ yếu là atractylola CJ5H260 và atractylon C]4H1&0. Theo sự nghiên cứu của hệ dược thuộc Viên nghiên cứu y học Trung Quốc thì trong thương truật Hồ Bắc, Giang Tô, An Huy và Hà Nam (Trung Quốc) tỳ lệ tinh dầu lên tới 5-9%, trong khi đó thương truật ở một bộ phân của Hà Nam, Thìểm Tây tỷ lệ tinh dầu là
+Trong thương truật có tinh dầu, trong tinh dầu thành phán chủ yếu là atractylola CJ₅H₂₆₀ và atractylon C]4H1&0. Theo sự nghiên cứu của hệ dược thuộc Viên nghiên cứu y học Trung Quốc thì trong thương truật Hồ Bắc, Giang Tô, An Huy và Hà Nam (Trung Quốc) tỳ lệ tinh dầu lên tới 5-9%, trong khi đó thương truật ở một bộ phân của Hà Nam, Thìểm Tây tỷ lệ tinh dầu là
 
 3- 5%, các tỉnh khác như Liêu Ninh, Hắc Long Giang, Cát Lâm, Hà Bấc, Sơn đông, Sơn Tây thì tỷ ]ệ chỉ có 1-3%.
 
@@ -492,11 +492,11 @@ c. Thành phán hóa học
 
 Trong vân mộc hương hay quảng mộc hương có chừng 1-2,8% tinh dầu, 6% chất nhựa sausurìn (ancaloit) và chìmg 18% chất inulin.
 
-Thành phần chủ yếu trong tinh dầu là aplolaxen C17H,g và p costen C|?H,4. chất costus lacton C]5HỈ0O2, chất dihydrocostus lacton C[5H2302, axit đặc biệt của vân mộc hương {coslus axit) C15H2205, rượu costola C]5Hỉ40,
+Thành phần chủ yếu trong tinh dầu là aplolaxen C₁₇H,g và p costen C|?H,4. chất costus lacton C]5HỈ0O2, chất dihydrocostus lacton C[5H2302, axit đặc biệt của vân mộc hương {coslus axit) C₁₅H₂₂₀₅, rượu costola C]5Hỉ40,
 
 một ít camphen và phelandren.
 
-Trong thổ mộc hương có tới 40% inulin, do đó tên khoa học của nó là ỉnuia heỉenium. Tuy nhiên tỷ lệ inulin thay đổi theo mùa. Tỷ lệ inulin cao nhất vào mùa thu. Nếu ta cất hơi nước các chất bay hơi của thổ mộc hương, ta sẽ được một chất sánh, gồm một hỗn hợp anantol (một chất tecpenic) C10H|6O, chất helenin hay long não mộc hương (camphre cTaunée). Helenin là một lactonisoalantic. Nếu ép chất sánh đó vào giữa 2 tờ giấy thấm, chất alantol bị hút đi, còn lại chất helenin thô. Có thể tinh chế helenin bằng kết tinh trong cồn loãng. Helenìn tinh chế có tinh thể khõng màu, mùi vị nhẹ, tan trong nước, dễ tan hơn trong rượu, ête và dầu. Đồng phân của helenin có tinh thể và chảy ờ 112°.
+Trong thổ mộc hương có tới 40% inulin, do đó tên khoa học của nó là ỉnuia heỉenium. Tuy nhiên tỷ lệ inulin thay đổi theo mùa. Tỷ lệ inulin cao nhất vào mùa thu. Nếu ta cất hơi nước các chất bay hơi của thổ mộc hương, ta sẽ được một chất sánh, gồm một hỗn hợp anantol (một chất tecpenic) C₁₀H|6O, chất helenin hay long não mộc hương (camphre cTaunée). Helenin là một lactonisoalantic. Nếu ép chất sánh đó vào giữa 2 tờ giấy thấm, chất alantol bị hút đi, còn lại chất helenin thô. Có thể tinh chế helenin bằng kết tinh trong cồn loãng. Helenìn tinh chế có tinh thể khõng màu, mùi vị nhẹ, tan trong nước, dễ tan hơn trong rượu, ête và dầu. Đồng phân của helenin có tinh thể và chảy ờ 112°.
 
 D. cỏng dụng và liều dùng
 
@@ -554,7 +554,7 @@ corchsularoza. Trước đây Kundu A. K. và Sen N. K. (1951) có chiết đư�
 
 Những năm tiếp theo (từ năm 1956), hạt rau đay (sau khi mất hết khả nãng mọc, trước đây chỉ dùng làm phãn) đã được một số nước như Liên Xô cũ dùng chiết heterozit chữa tim với tên là olitorizÌt và corchorozit.
 
-Oỉitorizit C35H52014 có độ chảy 202-207°C (khan). Khi thủy phân cho một đường đôi gồm boivinoza và glucoza: Phẩn genin có tinh thể, độ chảy 178°c, aD +40,3° (trong metanol), có cấu trúc giống strophantidin là phần genin của nhiều heteroát chữa tim khác như strophantin, xímarín, convalotoxin v.v... Theo Turova A. D. (Liên Xô cũ) lg olitorozit tính thể chứa 63.750 đơn vị ếch hoặc 7.104 đơn vị mèo.
+Oỉitorizit C₃₅H₅₂₀₁₄ có độ chảy 202-207°C (khan). Khi thủy phân cho một đường đôi gồm boivinoza và glucoza: Phẩn genin có tinh thể, độ chảy 178°c, aD +40,3° (trong metanol), có cấu trúc giống strophantidin là phần genin của nhiều heteroát chữa tim khác như strophantin, xímarín, convalotoxin v.v... Theo Turova A. D. (Liên Xô cũ) lg olitorozit tính thể chứa 63.750 đơn vị ếch hoặc 7.104 đơn vị mèo.
 
 Corchoroĩit là một bột trắng có tinh thể, độ chảy 180“C, OCp + 11° rất tan trong etanola, metanola, khó tan trong nước và cloroíoc, rất ít tan trong ête etylic, benzola và hầu như không tan trong ête dầu hỏa.
 
@@ -570,7 +570,7 @@ H — ÒOH o HO-ỈH ?
 
 L
 
-CH3OH
+CH₃OH
 
 Oỉitorixit
 
@@ -894,7 +894,7 @@ Vì vị thuốc giúp ích tỳ vị cho nên có tên như thế.
 
 Chưa rõ ta có không. Hiện còn phải nhập. Tại Trung Quốc khai thác ở Quảng Đông, đảo Hải Nam. Vào tháng 7-8 hái quả vể khi màu quả từ xanh chuyển sang hồng, phơi hay sấy
 
-Trong ích trí nhân có chừng 0,7% tinh dầu. Thành phần chủ yếu của tinh dầu là tecpen c,0H!6’ sesquitecpen C10H24 và sesquitecpenancola.
+Trong ích trí nhân có chừng 0,7% tinh dầu. Thành phần chủ yếu của tinh dầu là tecpen c,0H!6’ sesquitecpen C₁₀H₂₄ và sesquitecpenancola.
 
 Năm 1958, hệ dược thuộc Viện y học Bắc Kinh đã thấy trong ích trí nhân có chừng 1,71% chất ‘saponin.
 
@@ -954,7 +954,7 @@ Tỷ trọng 0,870-0,925; năng suất quay cực phải (a)D+l6° đến +30°.
 
 o—CHa CHaO ..^Wr-0
 
-CH2—CH\*CH2
+CH₂—CH\*CH₂
 
 Myristixin
 
@@ -1144,7 +1144,7 @@ khi người ta đốt vỏ quả thị thành than, trộn với than của cu�
 
 Chú thích:
 
-Năm 1953, Nguyễn Bá Tước có nghiên cứu quả maklua hay mạc nưa hay mạc luua (Campuchia) (Diospyros mollis Griff.), mọc ở Lào, Cãmpuchía, Thái Lan, Miến Điện. Nhân dân Cămpuchia dùng hạt tẩy giun. Nguyễn Bá Tước đã chiết được từ quả này một hoạt chất hydro quinonic bằng ête axit. Kết tinh trong cd 30° thành tinh thể hình kim, độ chảy 250-251 không tan trong nước, có huỳnh quang, xan tím rõ mạnh ở tia cực tím. Tính chi paranaphtoquinon, công thức thô là Cl2Hl20 Tác giả đề nghị gọi là diospyroquinon. Ngo; diospyroquinon ra, còn tanin (1% tanin catechic sterol, axit hữu cơ, men (invectin và emunsin không có oxydaza, peroxydaza, không c ancaloit và ílavon. Ngoài tác dụng trên giun cò có tác dụng kháng sinh nhẹ.
+Năm 1953, Nguyễn Bá Tước có nghiên cứu quả maklua hay mạc nưa hay mạc luua (Campuchia) (Diospyros mollis Griff.), mọc ở Lào, Cãmpuchía, Thái Lan, Miến Điện. Nhân dân Cămpuchia dùng hạt tẩy giun. Nguyễn Bá Tước đã chiết được từ quả này một hoạt chất hydro quinonic bằng ête axit. Kết tinh trong cd 30° thành tinh thể hình kim, độ chảy 250-251 không tan trong nước, có huỳnh quang, xan tím rõ mạnh ở tia cực tím. Tính chi paranaphtoquinon, công thức thô là Cl₂Hl₂₀ Tác giả đề nghị gọi là diospyroquinon. Ngo; diospyroquinon ra, còn tanin (1% tanin catechic sterol, axit hữu cơ, men (invectin và emunsin không có oxydaza, peroxydaza, không c ancaloit và ílavon. Ngoài tác dụng trên giun cò có tác dụng kháng sinh nhẹ.
 
 BÁCH BỆNH sm
 
@@ -1166,13 +1166,13 @@ Cây mọc phổ biến ở khắp nước ta nhung phổ biến nhất ở mi�
 
 Trong vỏ chứa một chất đấng gọi là quasin. Ta có thể chiết quasin như sau: sắc vỏ bằng nước nhiều lần, cô cho hơi đặc. Dùng tanin để kết tủa quasin, sau đó gạn lấy cặn, rửa cặn và loại tanin bằng chì cacbonat, quasin được giải phóng. Cổ đặc trên nổi cách thùy. Dùng cồn 80" để chiết (cổn đun sôi), cất thu hồi cồn, ta được quasin thô. Muốn tinh chế, rửa quasin thô bằng hõn hợp cồn và ête. Ngưòi ta cho quasin là hỗn hợp của hai chất đồng phân quasin và neoquasin có
 
-công thức chung C22H30O6. Quasin có hai nhóm metoxyl và một OH tự do. Dùng axit clohydric đun sôi để khử metyl ta sẽ được một hợp chất trìhydroxyl gọi là quasinol. Hạt chứa dầu béo, màu vàng nhạt.
+công thức chung C₂₂H₃₀O₆. Quasin có hai nhóm metoxyl và một OH tự do. Dùng axit clohydric đun sôi để khử metyl ta sẽ được một hợp chất trìhydroxyl gọi là quasinol. Hạt chứa dầu béo, màu vàng nhạt.
 
 Từ vỏ cây bách bệnh mọc ở Biên Hòa, Trảng Bom, Định Quán, Lê Văn Thới và Nguyễn Ngọc Sương Ợnternationaỉ Symposium on the Chem- ỉstry of Naturaỉ Products, Kyoto, 1964, Ab- stracts of Papers, 51) đã chiết được một hydroxyxeton, psitosterol, campesterol, hai chất đắng là eurycomalacton (chiếm tỷ lệ cao nhất) và 2,6 dimetoxybenzoquinon (một sắc tố màu vàng).
 
 Eurycomalacton có tính thể lãng trụ không mầu, độ chảy 268-270"C, (ct)u=100° (cloroíòc), rất tan trong pyridín, tan trong axeton, cloroíoc.
 
-ít tan trong benzen, metanol, etanol. Vị rất đắng, tan trong axit sunfuric đăc cho màu đỏ sẫm, tan dễ dàng trong dung dịch natrì hydroxyt loãng. Công thức thồ C19H2406 và công thức khai triển đã được xác định như sau:
+ít tan trong benzen, metanol, etanol. Vị rất đắng, tan trong axit sunfuric đăc cho màu đỏ sẫm, tan dễ dàng trong dung dịch natrì hydroxyt loãng. Công thức thồ C₁₉H₂₄₀₆ và công thức khai triển đã được xác định như sau:
 
 Đ. Công dụng và liều dùng
 
@@ -1224,7 +1224,7 @@ Hoa nở vào tháng 7-8. Cây mọc hoang dại ỏ' khắp
 
 Hình 315. Sàn sạt - Hưmulus japonicus
 
-nơi. Trâu bò rất thích ăn. Hoa cái không thấy có lông tiết cho nên không thấy thơm và không dùng chế bia được. Lá sàn sạt có 0,05% luteolin-7D-glucozit C3)HMOn.l/2 H20; 0,015% cosmosiin C21HJ0Ol0; 0,005% vitexin Q|H20Ol0. (Dược học tạp chí-Nhật, 1962, 82, 1331), ngoài ra còn ít tinh dầu, tanin. Hạt chứa 27,9% chất béo cTrung dược chi, 1961, 719, 1647). Nhàn dân dùng lá khô sắc uống chữa lỵ, sốt, khát nuớc. Có thể dùng lá tuơi. Ngày dùng 10-16g lá khô ( Hình 315 ).
+nơi. Trâu bò rất thích ăn. Hoa cái không thấy có lông tiết cho nên không thấy thơm và không dùng chế bia được. Lá sàn sạt có 0,05% luteolin-7D-glucozit C3)HMOn.l/2 H20; 0,015% cosmosiin C₂₁HJ₀Ol₀; 0,005% vitexin Q|H₂₀Ol₀. (Dược học tạp chí-Nhật, 1962, 82, 1331), ngoài ra còn ít tinh dầu, tanin. Hạt chứa 27,9% chất béo cTrung dược chi, 1961, 719, 1647). Nhàn dân dùng lá khô sắc uống chữa lỵ, sốt, khát nuớc. Có thể dùng lá tuơi. Ngày dùng 10-16g lá khô ( Hình 315 ).
 
 ### CÂY DUNG âíÈÃ-
 
@@ -1746,7 +1746,7 @@ c. Thành phẩn hóa học
 
 Trong kha tủ có tới 20-40% tanin bao gồm axit elagic, axit galic, và axit luteolic. L-ợng tanin có khi lên tới 51,3% nếu quả thật khô.
 
-Ngoài ra còn có axit chebulinic C41H34027 vói tỷ lệ 3-4%. Thủy phân axit chebulinic sẽ cho một phân tử glucoza 3 phân tử axit galic và một phân tư axit có công thức C|4H12Oir
+Ngoài ra còn có axit chebulinic C₄₁H₃₄₀₂₇ vói tỷ lệ 3-4%. Thủy phân axit chebulinic sẽ cho một phân tử glucoza 3 phân tử axit galic và một phân tư axit có công thức C|4H12Oir
 
 Trong nhân còn có 36,7% dầu vàng nhạt, trong, nừa khô.
 
@@ -1816,7 +1816,7 @@ Người ta trổng chủ yêu để lấy áo hạt mà ăn; vỏ quả phơi k
 
 Vỏ quả được nhiểu người nghiên cứu hơn vì người ta hy vọng dùng nó để thuộc da. Trong vò quả có chứa từ 7-13% tanin. Tuy nhiên khởng được dùng thuộc da vì theo yêu cầu của những nhà thuộc da, nguyên liệu dùng để thuộc không được chứa quá một phần không phải tanin (tối đa) so với 2 phần tanin. Trong khi đó vỏ mãng cụt chứa trong phần tan trong nưóe khoảng 13,61 % tanin và 14,59% không phải tarún (theo Buìl. Office Coỉoniaỉ, số 136, tháng 4-1919).
 
-Ngoài tanin ra, trong vỏ quả măng cụt, theo w. Schmidt còn có chất nhựa và chất mangostin (C20H22O5), CÓ tinh thể hình phiến nhỏ, màu vàng tươi, không vị, tan trong rượu, ête và chất kiềm, không tan trong nước. Độ chảy 175°c. Chất mangostin có thể chiết suất như sau: Lấy kiệt vỏ măng cụt bằng nước lạnh, sau bằng nước sôi. Hợp cả hai nuớc đó lại. Cô đặc và bốc hoi cho khô. Rửa cặn bằng nước rồi hòa tan bằng rượu. Thèm nước và axit axetic vào dung dịch. Để một thời gian sẽ xuất hiện một đám tinh thể. Gạn và ép. Khi thêm vào chất mangostin dung dịch clorua feric, sẽ có màu lục đen nhạt. Nếu thêm axit sunfuaric sẽ có màu đỏ.
+Ngoài tanin ra, trong vỏ quả măng cụt, theo w. Schmidt còn có chất nhựa và chất mangostin (C₂₀H₂₂O₅), CÓ tinh thể hình phiến nhỏ, màu vàng tươi, không vị, tan trong rượu, ête và chất kiềm, không tan trong nước. Độ chảy 175°c. Chất mangostin có thể chiết suất như sau: Lấy kiệt vỏ măng cụt bằng nước lạnh, sau bằng nước sôi. Hợp cả hai nuớc đó lại. Cô đặc và bốc hoi cho khô. Rửa cặn bằng nước rồi hòa tan bằng rượu. Thèm nước và axit axetic vào dung dịch. Để một thời gian sẽ xuất hiện một đám tinh thể. Gạn và ép. Khi thêm vào chất mangostin dung dịch clorua feric, sẽ có màu lục đen nhạt. Nếu thêm axit sunfuaric sẽ có màu đỏ.
 
 Đ. Công đụng và liều dùng
 
@@ -1972,9 +1972,9 @@ Toàn cây có mùi thơm, vị đắng ( Hình 334 ).
 
 2. Vệ châu ô dược là rễ cày Cocculus ìaurifoỉius DC. thuộc họ Tiết dê (Menisperniaceae).
 
-Trong thiên thai ồ dược, người ta đã xác định được các chất ancaloit như: linderan C8H|(102, lindêren CsHI4Or rượu linderola CtlH2:0 và axit líndcric và este của rượu linderola. Ngoài
+Trong thiên thai ồ dược, người ta đã xác định được các chất ancaloit như: linderan C₈H|(102, lindêren CsHI₄Or rượu linderola CtlH2:0 và axit líndcric và este của rượu linderola. Ngoài
 
-ra, ngựời la còn xác định được một xeton với công thức C(5H|S0: và một chất iinderazulen với công thức Cl4H]r,
+ra, ngựời la còn xác định được một xeton với công thức C(5H|S0: và một chất iinderazulen với công thức Cl₄H]r,
 
 Trong vệ châu ô dược, người (a xác định được một ancaloit gọi là codorin C|7H1()OgN. Công thức của coclorin đã xác đính như sau:
 

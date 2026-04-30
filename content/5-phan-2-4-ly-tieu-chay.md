@@ -180,7 +180,7 @@ Sau 5 năm bắt đầu có thể thu hoạch, cần thu hoạch vào thu đông
 
 c. ()(\*)()Trong hoàng liên có chừng 7% ancaloit toàn phẩn trong đó chủ yếu là chất becbérin
 
-()(\*)()Ngoài ra còn có chất panmatin C2|H23N05. coptisin C[5H)5N05, worenin C2|H1SN04, columbamin C20H20NO4 (OH).
+()(\*)()Ngoài ra còn có chất panmatin C2|H₂₃N₀₅. coptisin C[5H)5N05, worenin C2|H₁SN₀₄, columbamin C₂₀H₂₀NO₄ (OH).
 
 hoàng liên có tác dụng đối với trùng Staphỵloccus aureus với Streptococ hemolytique, trực trùng ho gà, thương hàn, phó thương hàn, lỵ, lao v.v...
 
@@ -490,7 +490,7 @@ Vỏ thân thường hái vào mùa hạ, cạo sạch vỏ ngoài, chỉ còn l
 
 ()(\*)()Trong hoàng bá có chứng 1,6% becberin
 
-C, 0H1,OJN, một ít panmatin C21H2305N.
+C, 0H1,OJN, một ít panmatin C₂₁H₂₃₀₅N.
 
 Ngoài ra trong hoàng bá còn những chất có tinh thể, không chứa nitơ như obakunon và obakulacton C,6H30Os, chất béo, hợp chất sterolic.
 
@@ -540,7 +540,7 @@ Toàn thân bấm đều chảy một chất nhựa mủ trắng.
 
 Hái vào mùa hè. Hái về rửa sạch, sao vàng phơi khô mà dùng. Có mọc ờ Ấn Độ, Inđônêxia, Trung Quốc, Philipin.
 
-()(\*)()Toàn cây có ancaloit (theo c. A. 1966, 64, 1013a), thàn và lá có cosmosiin C2|H20O10 chừng
+()(\*)()Toàn cây có ancaloit (theo c. A. 1966, 64, 1013a), thàn và lá có cosmosiin C2|H₂₀O₁₀ chừng
 
 0, 037%, rễ có taraxerol, và tirucallol và
 
@@ -570,7 +570,7 @@ Cây cò sữa lớn lá ]à một cây sống hằng năm hoặc sống dai, th
 
 Mọc hoang khấp nơi ỡ Việt Nam. Cũng ưa những đất sỏi, đá như cỏ sữa nhỏ lá.
 
-Theo Povver và Browning (1913 Pharm. 506) trong có sữa lớn lá có axit galic, một glucozit độc chưa xác định được và một châ't nhựa. Toàn cây chứa taraxerol, b sitosterol (Phy- tochemistry 1972, II, 1860). Theo Wehmer c. trong Die Pfỉanzenstoffe II, 1931, 699, thi ưong cỏ sữa lớn lá có jambulol, axit melissic, một ít tinh dầu, một ít ancaloìt, quexetin. Theo Kaưer w. {Konstií, und Vorkom, der Org. Pflanzenst, 1958, 1538) có xanthorhamnin C34H4,O20 ước
+Theo Povver và Browning (1913 Pharm. 506) trong có sữa lớn lá có axit galic, một glucozit độc chưa xác định được và một châ't nhựa. Toàn cây chứa taraxerol, b sitosterol (Phy- tochemistry 1972, II, 1860). Theo Wehmer c. trong Die Pfỉanzenstoffe II, 1931, 699, thi ưong cỏ sữa lớn lá có jambulol, axit melissic, một ít tinh dầu, một ít ancaloìt, quexetin. Theo Kaưer w. {Konstií, und Vorkom, der Org. Pflanzenst, 1958, 1538) có xanthorhamnin C₃₄H₄,O20 ước
 
 0, 2%. Thân chứa ữiedelin, myrixyl alcohol hentriacontan (C. A., 1967, 66, 26559b). Hoa tươi chứa axit ellagic.
 
@@ -962,7 +962,7 @@ Vỏ quả cũng được dùng làm thuốc (đạo đậu xác). Trong tài li
 
 Chú thích:
 
-Ngoài hạc đậu kiềm nói trên, nhân dân còn dùng hạt đậu tăc, còn gọi là đậu rựa, đại dao đậu có tẽn khoa học Canavalia ensiỷormis (Linn.) DC. Hạt màu trắng, tc chiếm nửa chiều dài của hạt. Trong hạt có concanavalin A và B (C. A. 1962, 56, 9175C, 1967, 66, 101856d), protit, canavanin, canalin C4H10O3N,. (Dược học tạp chí 1962, 82, 1671, c. A. 1967, 67, 8703k, 1964, 60, ll052d) ureaza và một sô men khác (C. A.
+Ngoài hạc đậu kiềm nói trên, nhân dân còn dùng hạt đậu tăc, còn gọi là đậu rựa, đại dao đậu có tẽn khoa học Canavalia ensiỷormis (Linn.) DC. Hạt màu trắng, tc chiếm nửa chiều dài của hạt. Trong hạt có concanavalin A và B (C. A. 1962, 56, 9175C, 1967, 66, 101856d), protit, canavanin, canalin C₄H₁₀O₃N,. (Dược học tạp chí 1962, 82, 1671, c. A. 1967, 67, 8703k, 1964, 60, ll052d) ureaza và một sô men khác (C. A.
 
 1969, 71, 56958b), hạt còn chứa canavanin giberellin I CiyH2ĩ07 và canavalia gibereỉlin II C„H2206 (Kaỉo et al. Teỉrahedron Letters 1967", 4861).
 
@@ -1002,13 +1002,13 @@ Nhân dân thu hái thân rễ, đem về rửa sạch, thái mỏng phơi hay s
 
 nồng, vị nhạt, không tan trong nước lạnh, tan trong nước ấm rồi nổi lỗn mặt nước, đổ iạnh sẽ kết tinh trở lại, tan hoàn toàn trong dung môi hữu CƯ.
 
-Theo M.Lawrcnce, J. w . Hogg và St. J. Terhune (Riechstoffe, Aromcn, Korper- /legemittel 20, 261. I910-Mi!íilzer Beiichte, 1971, 48) tinh dầu cất từ thân rễ gừng dại ở Thái Lan có tỷ trọng D2U 0,894, CCD2U 33"36', r|D30 1,489. Bằng sắc ký khí và phổ hồng ngoại đã xác định dược 2,5% ocpinen, 0,1% camphen, 2,1% Ppinen, 33,4% sabinen, 1,6% mỵrxen, 4,8% CCtecpincn, 0,7% limonen, 1,1% 1-8 xineol, 9% Ỵtecpinen, 2,1% p-cymol, 2,1% tecpinolcn,
+Theo M.Lawrcnce, J. w . Hogg và St. J. Terhune (Riechstoffe, Aromcn, Korper- /legemittel 20, 261. I910-Mi!íilzer Beiichte, 1971, 48) tinh dầu cất từ thân rễ gừng dại ở Thái Lan có tỷ trọng D₂U 0,894, CCD₂U 33"36', r|D30 1,489. Bằng sắc ký khí và phổ hồng ngoại đã xác định dược 2,5% ocpinen, 0,1% camphen, 2,1% Ppinen, 33,4% sabinen, 1,6% mỵrxen, 4,8% CCtecpincn, 0,7% limonen, 1,1% 1-8 xineol, 9% Ỵtecpinen, 2,1% p-cymol, 2,1% tecpinolcn,
 
 0, 6% trans -sabinenhydrat, 0,5% cis- sabinenhydrat, 0,7% cis-p-menthen-2-ol (1), 33,3% tepinenol (4), 0,5% trans-p-menthen-2- ol(l )+tecpinenl-yl-4-axetat, 0,4% atecpineol + atecinylaxetat, 0,2% cis-piperĩtol, 4,3% rnột thành phần chưa xác định được.
 
 Năm 1971, T. E. Casey, J . Dougan, w. s.
 
-Matthews và J. Nabney (Tropical Sc. 13, 199- Milti!zer Berichte 1972, 60) nghiên cứu tinh dầu cất từ thân rễ gừng dại Thái Lan thu được 0,55 tinh dầu màu vàng nhạt, mùi thơm hơi cay, với tỷ trọng d:u 0,895, aD20 33"2, T|D20 1,489, tan trong 4,6 phẩn cồn 80°, với 36,5% ancol toàn phần, (Cl0H)SO) trong đó có khoảng 35% tecpirienol-(4). Ngoài ra còn xác định một sô thành phần khác như ocpinen, ppinen, sabinen, myrxen, cctecpinen, ìimonen, tecpinen, P-cymol và tecpinolen và một số thành phẩn chưa x.ác định khác.
+Matthews và J. Nabney (Tropical Sc. 13, 199- Milti!zer Berichte 1972, 60) nghiên cứu tinh dầu cất từ thân rễ gừng dại Thái Lan thu được 0,55 tinh dầu màu vàng nhạt, mùi thơm hơi cay, với tỷ trọng d:u 0,895, aD20 33"2, T|D20 1,489, tan trong 4,6 phẩn cồn 80°, với 36,5% ancol toàn phần, (Cl₀H)SO) trong đó có khoảng 35% tecpirienol-(4). Ngoài ra còn xác định một sô thành phần khác như ocpinen, ppinen, sabinen, myrxen, cctecpinen, ìimonen, tecpinen, P-cymol và tecpinolen và một số thành phẩn chưa x.ác định khác.
 
 Năm 1975, (Íníerna!. Fỉavours 6, 136 1936- Miltiier Berichte 1975, 70) D. M. Baker và J . Nabney đã tách được từ linh dầu gừng dai Thái Lan chất l-(3,4-dimetoxyphenyl) butadicn (2,4). Chánàyđã &ọ:TEGjsey,J.Dougm,W.S. Matthews và J. Nabney xác định một số năm nhưng vãn chưa tách ra được (Vạ!. Tropical Sc. 13, 199. ] 97 1).
 
@@ -1056,7 +1056,7 @@ Sãng lẻ còn có (ác dụng đối với một sô' nấm gây bệnh ngoài
 
 Những thí nghiệm còn cho kết luận rằng những hoạt chất kháng khuẩn của săng lẻ hòa tan trong nước và chịu được nhiệt đun sôi trong 2-3 giờ.
 
-Cao ỉỏng sãng lẻ 2:1 có tác dụng ức chế phản ứng viêm do kaolin trên chan chuột, LD50 của vỏ sãng lẻ là 60g/kg.
+Cao ỉỏng sãng lẻ 2:1 có tác dụng ức chế phản ứng viêm do kaolin trên chan chuột, LD₅₀ của vỏ sãng lẻ là 60g/kg.
 
 Thí nghiệm thử độc tính bán cấp và trường diễn không thấy cỏ ảnh hưởng gì đặc biệt.
 
@@ -1118,7 +1118,7 @@ Trạch tả (Rhiioma Alismatis ) là thân củ. chế biến, phơi hay sấy 
 
 ()(\*)()Trong trạch tả, người ía mới phàn tích thấy được tinh dầu, chất nhựa 7%, chất prôtit và 23% chất bột. Thành phần hoạt chất chưa rõ.
 
-Dược diển Triểu Tiên quy định: Độ ẩm dưới 15%, tro dưới 7%, tro không tan trong HC1 dưới 2% , cao rượu trên 1%.
+Dược diển Triểu Tiên quy định: Độ ẩm dưới 15%, tro dưới 7%, tro không tan trong HC₁ dưới 2% , cao rượu trên 1%.
 
 ()(\*)()Trong chuyên san của Viện nghiên cứu tiền Bắc Bình có báo cáo: Bắt đầu, tiêm kali nitrat cho thỏ để gây viêm thận đưa đến hiện tượng ứ đọng urê và cholesterin trong máu, sau đó tiêm thuốc trạch tả. Kết quả là lượng urê và cholesterin trong máu giảm xuống.
 
@@ -1344,7 +1344,7 @@ Thứ ớ Quàng Đồng có thể không tổt bằng thứ ở Vàn Nam. Năm 
 
 Mới đây người ta nghiên cứu thấy thành phần phục linh gổm 3 loại:
 
-1. Các axit có thành phần hợp chất tritecpen: Axit pachimic C33H5205, axit tumolosic C51H50O4, axit eburicoic C55H50O3, axit pinicolic C30H46O3, axit 3p- hydroxylanosta-7,9 (II), 24 trien, 21- oic (Dược học tạp chí ,1970, 90, 475, tiếng Nhật).
+1. Các axit có thành phần hợp chất tritecpen: Axit pachimic C₃₃H₅₂₀₅, axit tumolosic C₅₁H₅₀O₄, axit eburicoic C₅₅H₅₀O₃, axit pinicolic C₃₀H₄₆O₃, axit 3p- hydroxylanosta-7,9 (II), 24 trien, 21- oic (Dược học tạp chí ,1970, 90, 475, tiếng Nhật).
 
 2. Đường đặc biệt của phục lính: Pachyman có trong phục linh tới 75%.
 
@@ -1618,7 +1618,7 @@ Toàn tinh dấu dù pha loãng cũng có tác dụng diệt nấm và sát trù
 
 2. Robbers (1936) nói đã dùng chất lấy ra ở nghệ bằng ête etylic thấy có tác dụng tăng sự bài tiết mật và chất curcumin có tính chất co bóp túi mật.
 
-3. Trương Ngôn Chí (1955 Trung Hoa y dược tạp chí, 5) đă báo cáo: Ông đã chế nghệ dưới hai hình thức dung dịch 50% và dùng dung dịch 2% HC1 để chiết xuất và chế thành dung dịch 50% (sau khi đã trung tính hóa mới dùng thí nghiệm).
+3. Trương Ngôn Chí (1955 Trung Hoa y dược tạp chí, 5) đă báo cáo: Ông đã chế nghệ dưới hai hình thức dung dịch 50% và dùng dung dịch 2% HC₁ để chiết xuất và chế thành dung dịch 50% (sau khi đã trung tính hóa mới dùng thí nghiệm).
 
 Thí nghiệm trên tử cung cô lập của chuột bạch và chuột nhắt thấy có tác dụng hưng phấn, thí nghiệm trên tử cung của thò (theo phương pháp Reynolds) thì khi tiêm dung dịch clohydrat cao nghệ vào tĩnh mạch hoặc thụt dung dịch nghệ, đều thấy tử cung co bóp đều đặn, mỗi lần cho thuốc, thời gian tác dụng kéo dài 5-7 giờ.
 
@@ -1646,9 +1646,9 @@ Nếu như đang cho nước nghệ vào tá tràng làm cho lượng nước m�
 
 Theo Taniyama H. và cộng sự ự. Pharm. Soc. Japan 1956, 76, 154-157) các xeton a-p etylenic trong hệ thống vòng có khả năng khóa nhóm 'SH của men, làm rối loạn chuyển hóa của men trong cơ thể vi trùng nói chung và vi trùng lao Mycobacterìum tubercuỉosis nói riêng. Các xeton loại này có nhiều trong nghệ.
 
-Năm 1977, phòng vi trùng Viện chống lao và Viện đông y Hà Nội đã thí nghiệm thấy tinh dầu nghệ ức chế được sự phát triển của vi trùng lao Mycobacterium tuberculosỉs H37RV ở nồng độ 1 Y/ml; nồng độ tối thiểu ức chế đối vói Ba- ciỉíus subtilis ()(\*)()Candida albicans là 1/160. Tinh dầu nghệ không có tác dụng đối với Bacterium pyocyaneum và Streptococcus hemoỉyticus.
+Năm 1977, phòng vi trùng Viện chống lao và Viện đông y Hà Nội đã thí nghiệm thấy tinh dầu nghệ ức chế được sự phát triển của vi trùng lao Mycobacterium tuberculosỉs H₃₇RV ở nồng độ 1 Y/ml; nồng độ tối thiểu ức chế đối vói Ba- ciỉíus subtilis ()(\*)()Candida albicans là 1/160. Tinh dầu nghệ không có tác dụng đối với Bacterium pyocyaneum và Streptococcus hemoỉyticus.
 
-6. Độc tính của tinh dầu nghệ DLJ0 của tinh dẩu nghệ trên chuột nhắt trắng là 9,2ml/kg thể trọng (Bộ môn dược lý-Đại học Quân y Hà Nội, 1977).
+6. Độc tính của tinh dầu nghệ DLJ₀ của tinh dẩu nghệ trên chuột nhắt trắng là 9,2ml/kg thể trọng (Bộ môn dược lý-Đại học Quân y Hà Nội, 1977).
 
 7. Tác dụng khác: Võ văn Lan đã phát hiện tiêm tinh nghệ có khả năng thấm qua các màng tế bào đặc biệt là vỏ sáp khuẩn lao và hủi, nó giúp cho chất màu xâm nhập vào trong các tế báo này (Bộ môn sinh lý, dược lý-Đại học y khoa thành phô' Hổ Chí Minh-Các hội nghị y dược học quốc tế và quốc gia quý I-1977-Thư viện y học trung ương, 3).
 
@@ -1776,15 +1776,15 @@ Hình 169. Bòn bọt - Gỉochidìon eriocarpum
 
 ()(\*)()Chưa thấy tài liệu nghiên cứu. Sơ bộ nghiên cứu, chúng tôi thấy có saponin, loại sterolic tanin. Những chất khác chưa rõ (Đỗ Tất Lợi, 4-1964).
 
-Trong một loài bòn bọt Glochidion macrophyỉlum Benth. người ta chiết được ữiedelan 3-ol, glochidon C30H48O, glochidonol CtoH4S0,, glochidion C30H50O2, Ị3 sisosterol. Lá chứa 3 |3 friedelan, p sitosterol (/, Chem. Soc. (C), 1971, 1004 và Phytochemistry 1970, 9, 1099).
+Trong một loài bòn bọt Glochidion macrophyỉlum Benth. người ta chiết được ữiedelan 3-ol, glochidon C₃₀H₄₈O, glochidonol CtoH4S0,, glochidion C₃₀H₅₀O₂, Ị3 sisosterol. Lá chứa 3 |3 friedelan, p sitosterol (/, Chem. Soc. (C), 1971, 1004 và Phytochemistry 1970, 9, 1099).
 
 và chết sau 2 ngày vào viện. Điều trị 3 ca do phù thiếu dinh dưỡng, khỏi cả ba. Các tác giả đã đi tới kết luân rằng bòn bọt' có tác dụng lợi tiểu rõ rệt, đặc biệt trên phù thận kinh và phù do thiếu dinh dưỡng, làm phù rút nhanh chóng (thường có tác dụng từ ngày thứ 2 thứ 3 trở đi), sau khi rút hết phù, số lượng nước tiểu có rút xuống, nhưng khqng phù ưở lại; trên phù thận sau khi khòi phù, trong nước tiểu vẫn còn những chất bất thường, tuy định lượng có giảm hơn so vói
 
-Glochidon 11-0 H23-CH3
+Glochidon 11-0 H23-CH₃
 
 20(29) 3a23
 
-R^a-OH K2.7 = CH2OH
+R^a-OH K2.7 = CH₂OH
 
 ()(\*)()Có nơi dùng lá giã vắt láy nước uống, bã đắp lên vết rắn độc cắn. Nếu chưa cứng hàm có thể nhai nuốt nước. Chỉ mới thấy dùng trong phạm vi nhân dân. Bệnh viện quân y 108 và Bệnh viện Bác Giang dùng chữa một số trường hợp phù thận do thiếu đinh dưỡng và phù suy tim có kết quả. Tuy những trường hợp theo dõi chưa nhiều, nhưng cách dùng đơn giản, kết quả rất khả quan.
 

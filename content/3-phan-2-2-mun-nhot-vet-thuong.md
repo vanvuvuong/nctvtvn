@@ -4,7 +4,416 @@ description: CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA MỤN NHỌT, VẾT THƯ�
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-## II. CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA MỤN NHỌT, VẾT THƯƠNG VÀ MỘT SỐ BỆNH NGOÀI DA
+## II. CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA MỤN NHỌT MẨN NGỨA
+
+### BỒ CÔNG ANH
+
+Tên bồ công anh được dùng để chỉ ít nhất 3 cây khác nhau đều có mọc ở nước ta, cần chú ý tránh nhầm lẫn:
+
+1. Cây bồ công anh Việt Nam Lactuca indica L. họ Cúc (Asteraceae). Chữ _"Việt Nam"_ là chúng tôi mới thêm để tránh nhầm lẫn. Cây này được dùng phổ biến, nhất là tại phía Bắc và phía bắc Trung Bộ.
+2. Cây bồ công anh Trung Quốc Taraxacum officinale Wigg. cũng họ Cúc (Asteraceae). Chữ _"Trung Quốc"_ chúng tôi cũng mới thêm vào để chỉ rõ rằng tên bồ công anh ghi trong các sách Trung Quốc là cây này. Cây này có mọc hoang và được trồng ở một vài nơi trong nước ta, nhất là tại các miền núi cao như Tam Đảo, Sapa. Tuy nhiên ta hầu như không dùng loại này.
+3. Cây Chỉ thiên Elephantopus scaber L. cũng thuộc họ Cúc (Asteraceae). Cây này được một số anh em miền Nam nước ta dùng với tên bồ công anh. Điều đáng chú ý là tại một vài nơi ở miền nam Trung Quốc (tỉnh Quảng Tây) người ta cũng gọi cây chỉ thiên này là bồ công anh và dùng như cây bồ công anh Trung Quớc (xem vị chỉ thiên).
+
+#### BỒ CÔNG ANH VIỆT NAM
+
+_Còn gọi là_ bồ công anh, rau bồ cóc, diếp hoang, diếp dại, mót mét, mũi mác, diếp trời, rau mũi cây.
+Tên khoa học _Lactuca indica L_.
+Thuộc họ Cúc Asteraceae.
+
+##### A. Mô tả cây
+
+Bồ công anh là một cây nhỏ, cao 0,60m đến 1m, có thể cao tới 3m. Thân mọc thẳng, nhẵn, không cành hoặc rất ít cành. Lá có nhiều hình dạng; lá phía dưới dài 30cm, rộng 5-6cm, gần như không cuống, chia thành nhiều thùy hay răng cưa to thô, lá phía trên ngắn hơn, nguyên chứ không chia thùy, mép có răng cưa thưa. Bấm lá và thân đều thấy tiết ra nhũ dịch màu trắng đục như sữa, vị hơi đấng. Cụm hoa hình đầu, màu vàng, có loại tím.
+Có người gọi cây hoa vàng là hoàng hoa địa đinh và loại hoa tím là tử hoa địa đinh (tử là màu tím). Cả hai loại đều được dùng làm thuốc (Hình 35,Hm 4,1 ).
+
+##### B. Phân bố, thu hái và chế biến
+
+Bồ công anh mọc hoang tại nhiều tỉnh miền bắc nước ta; ít thấy trồng. Việc trồng rất dễ dàng bằng hạt. Mùa trồng vào các tháng 3-4 hoặc 9- 10. Có thể trồng bằng mẩu gốc, sau 4 tháng có thể bắt đầu thu hoạch.
+Thường nhân dân ta dùng lá, lá hái về dùng tươi hay phơi hoặc sấy khô dùng dần. Thường hay dùng tươi. Không phải chế biến gì đặc biệt.
+Một số người hái cả cây, cả rễ cắt nhỏ phơi khô để dùng.
+
+##### C. Thành phần hóa học
+
+Chưa thấy tài liệu nghiên cứu về cây Lactuca indica L. của ta. Theo những tài liệu nước ngoài, tại một số nước người ta có sử dụng và nghiên cứu một số loài Lactuca khác như Lactuca virosa, Lactuca sativa L. (rau diếp của ta ăn) thấy trong có lactuxerin là một ête axetic của hai thứ rượu nhị no lactuxerola αvà lactuxerola β ngoài ra còn 3 chất đắng có tên axit lacturic, lactucopicrin và lactuxin. Lactucopicrin, là este p. hydroxy phenylaxetic của lactuxin.
+
+##### D. Tác dụng dược lý
+
+Theo sự nghiên cứu của nước ngoài, những loại Lactuca nói trên không có độc, có tính chất gây ngủ nhẹ. Nhưng tại những nước này người ta không dùng lá như ở ta, mà dùng chất nhựa mủ phơi khô đen lại như nhựa thuốc phiện để dùng làm thuốc chữa ho trẻ con và dùng chữa cho trẻ con mất ngủ.
+Cây Lactuca indica L. của ta chưa thấy tài liệu nghiên cứu.
+
+##### E. Công dụng và liều dùng
+
+Bồ công anh Việt Nam là một vị thuốc kinh nghiệm trong nhân dân để chữa bệnh sưng vú, tắc tia sữa, mụn nhọt đang sưng mủ, hay bị mụn nhọt, đinh râu.
+Còn dùng uống trong chữa bệnh đau dạ dày, ăn uống kém tiêu.
+Liều dùng hàng ngày: 20 đến 40g lá tươi hoặc 10 dến 15g lá khô hay cành và lá khô. Dùng riêng hoặc phối hợp với các vị thuốc khác, thường dùng dưới dạng thuốc sắc có thêm đường cho dễ uống. Còn dùng giã nát đắp ngoài, không kể liều lượng.
+Đơn thuốc trong nhân dân có vị bồ công anh
+Chữa sưng vú, tắc tia sữa: Hái 20 đến 40g lá bồ công anh tươi, rửa sạch, thêm ít muối giã nát, vắt lấy nước uống, bã dùng đắp lên nơi vú sưng đau. Thường chỉ dùng 2-3 lần là đỡ (kinh nghiệm dân gian).
+Chữa ăn uống kém tiêu, hay bị mụn nhọt: Lá bồ công anh khô 10 đến 15g; nước 600ml (3 bát), sắc còn 200ml (1 bát) (có thể đun sôi kỹ và giữ sôi trong vòng 15 phút). Uống liên tục uống 3-5 ngày, có thể kéo dài hơn.
+Đơn thuốc chữa đau dạ dày: Lá bồ công anh khô 20g, lá khôi 15g, lá khổ sâm 10g. Thêm 300ml nước, sắc đun sôi trong vòng 15 phút, thêm ít đường vào mà uống (chia 3 lần uống trong ngày). Uống liên tục trong vòng 10 ngày, nghỉ 3 ngày rồi lại tiếp tục cho đến khi khỏi.
+Hình 35. Bồ công anh Việt nam - Lactuca indica
+
+#### BỒ CÔNG ANH TRUNG QUỐC
+
+_Còn gọi là_ hoàng hoa địa đinh, nãi chấp thảo.
+Tên khoa học _Taraxacum officinale Wigg_.
+Thuộc họ Cúc Asteraceae. Cây này ít thấy dùng ở Việt Nam. Nhưng lại rất phổ biến và được dùng tại các nước.
+Ở Trung Quốc, dùng với tên bồ công anh hoặc là toàn cây cả rễ, hoặc là rễ tươi hay phơi hoặc sấy khô của nhiều loài bồ công anh như Taraxacum mongolicum Hand-Mazz., Tarax- acum sinicum Kitag., Taraxacum heterolepis Nakai et H. Koidz. hoặc một số loài khác giống, cùng họ.
+Hình 36. Bồ công anh Trung quốc - Taraxacum officinale
+Tại các nước Châu Âu, người ta dùng rễ Ra- dix Taraxaci hay Taraxacum hoặc lá tươi hay khô của cây Pitsăngli (Pissenlit)-Taraxacum offcinale Wigg. hay Taraxacum densleonis Desf. cùng họ Cúc (Asteraceae).
+
+##### A. Mô tả cây
+
+Cỏ sống dai, có rễ trụ. Lá mọc thành hoa thị ở gốc, phiến lá cắt thành nhiều thùy nhỏ như răng nhọn, mềm trông giống như hàm răng sư tử do đó có tên dens leonis (có nghĩa là răng con sư tử), từ giữa vòng lá mọc lên cuống cụm hoa màu vàng, khi già ra quả có lông màu trắng xếp thành hình cầu. Căn cứ vào màu sắc hoa, dáng lá, hình quả người ta chia ra nhiều loại khác nhau ( Hình 36, Hm 4,2 ).
+
+##### B. Phân bố, thu hái và chế biến
+
+Cây này mọc hoang tại những vùng núi cao ở nước ta như Tam Đảo, Sapa, Đà Lạt không rõ mọc tự nhiên hay do Pháp trước kia đưa giống vào trồng để lấy lá ăn làm rau xà lách rồi còn sót giống lại. Tại Hà Nội trước đây cũng thấy có trồng và lấy lá bán cho người Pháp, nhưng từ Cách mạng tháng tám 1945 hầu như không thấy trồng. Gần đây chúng tôi lấy giống ở Tam Đảo và Sapa về trồng lại nhưng chưa phổ biến. Cây mọc ở đồng bằng cũng như miền núi rất tốt, có ra hoa kết quả.
+Được trồng tại Châu Âu (làm thuốc và lấy lá làm rau ăn) tại Trung Quốc mọc hoang, không ai trồng, chỉ dùng với tính chất tự cung tự cấp.
+Riêng Pháp hằng năm tiêu thụ và xuất hàng chục tấn rễ khô, lá cũng được dùng nấu cao có vị đắng dùng làm thuốc. Mặc dầu Pháp xuất bồ công anh nhưng năm 1921 còn nhập 7 tấn lá và 6 tấn rễ của nước ngoài.
+Rễ hái vào giữa mùa hè là thời kỳ có nhiều vị đắng nhất, người ta cho tác dụng của rễ và cây là ở chất đắng này. Nếu hái vào thu đông, vị đắng kém và rễ chứa nhiều inulin ít tác dụng.
+Rễ hái về dùng tươi hay phơi hoặc sấy khô.
+Có thể hái toàn cây cả rễ phơi khô mà dùng.
+
+##### C. Thành phần hóa học
+
+Theo Wehmer (1931, Die Pflanzen stoffe Bd. II) trong toàn cây bồ công anh Taraxacum officinale Wigg. có chứa inozitola, 0,5% asparagin, đường khử, chất nhựa, chất đắng, saponozit, men tyrosinaza. Trong hoa có xanthophyl, trong rễ có inulin (tới 40% đối với rễ khô), saccaroza, glucoza, chất đắng có tinh thể gọi là taraxaxin C₄₀H₄₀O₅, inozitola, lactat canxi, một ít tinh dầu, chất nhựa, một chất đắng chưa xác định, có thể là hỗn hợp taraxaxin và taraxaxerin. Trong nhũ dịch có chất đắng taraxerola C₃₀H₅₀O, inozitola, taraxaxterola, chất prôtit và cao su, đường khử.
+Trong lá có luteolin 7 glucozit và apigenin 7 glucozit hay cosmoziozit. Ngoài ra rất nhiều vitamin B và c.
+
+##### D. Công dụng và liều dùng
+
+Các nước Châu Âu dùng rễ bồ công anh làm vị thuốc bổ đắng, tẩy máu, lọc máu; lá ăn như rau xà lách và làm thuốc cùng một công dụng như rễ.
+Sách Trung Quốc cổ coi bồ công anh có vị ngọt, đắng, tính hàn, vào hai kinh tỳ và vị có tác dụng giải độc, thanh nhiệt, lương huyết tán kết, thông sữa, lợi tiểu tiện dùng trong các bệnh sưng vú, mụn nhọt, tiểu tiện khó khăn, ít sữa. Ngày dùng 4 đến 12g dưới dạng thuốc sắc.
+Nên chú ý nghiên cứu sử dụng những loài này hầu như chưa được dùng ở nước ta. 
+
+### CHỈ THIÊN
+
+( Xem vị này)
+Phân biệt ba cây bồ công anh: Để phân biệt 3 cây mang tên bồ công anh, chúng tôi tóm tắt sau đây sự khác nhau giữa 3 cây:
+Tên khoa học *Tên khác Chiều cao Lá Ho*a
+Lactuca indica Diếp dại
+Bồ công anh 0,6 – 3m Mọc so le Hình đầu màu vàng
+Taraxacum officinale Bồ công anh Trung Quốc 0,2 – 0,4m Mọc sát đất hình hoa thị Hoa màu vàng quả xếp hình cầu có long mầu trắng
+Elepphantopuss scaber Chỉ thiên 0,2 – 0,4m Mọc sát đất Hoa màu tím nhạt hình hoa thị
+
+### KIM NGÂN
+
+_Còn gọi là_ Nhẫn đông
+Tên khoa học _Lonicera japonica Thunb_.
+Thuộc họ Cơm cháy Caprifoliaceae. Cây kim ngân cho ta các vị thuốc:
+
+1. Hoa kim ngân hay kim ngân hoa-Flos Lonicerae là hoa phơi hay sấy khô của cây kim ngân.
+2. Cành và lá kim ngân-Caulis cum folium Lonicerae-là cành và lá phơi hay sấy khô của cây kim ngân.
+
+#### A. Mô tả cây
+
+Kim ngân11 là một loại dây mọc leo, thân có thể vươn dài tới 10m hay hơn. Cành lúc còn non màu lục nhạt, có phủ lông mịn, khi cành già chuyển màu nâu đỏ nhạt, nhẵn. Lá mọc đối, đôi khi mọc vòng 3 lá một, hình trứng dài, đầu hơi tù, phía cuống tròn, cuống ngắn 2-3mm, cả hai mặt đều phủ lông mịn. Vào các tháng 5-8, hoa mọc từng đôi ở kẽ lá, mỗi kẽ lá có 1 cuống mang 2 hoa, hai bên lá mọc đối mang 4 hoa, lá bắc giống lá nhưng nhỏ hơn. Hoa hình ống xẻ hai môi, môi lớn lại xẻ thành 3 hay 4 thùy nhỏ, phiến của tràng dài gần bằng ống tràng, lúc đầu màu trắng, sau khi nở một thời gian chuyển màu vàng, cùng một lúc trên cây có hoa mới nở màu trắng như bạc, lại có hoa nở đã lâu màu vàng như vàng cho nên có tên là kim ngân (kim là vàng, ngân là bạc); cây kim ngân xanh tốt vào mùa đông cho nên _còn có tên là_ nhẫn đông nghĩa là chịu đựng mùa đông, 4 nhị thòi dài cao hơn tràng; vòi nhụy lại thòi dài cao hơn nhị, mùi thơm dễ chịu. Quả hình trứng dài chừng 5 mm (Hình 37, Hm 4,3).
+Hình 37. Kim ngân - Lonicera japonica
+
+#### B. Phân bố, thu hái và chế biến
+
+Kim ngân là một cây loại mọc hoang tại nhiều tỉnh vùng núi nước ta, nhiều nhất ở Cao Bằng, Lạng Sơn, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Bắc Giang, Thái Nguyên, Quảng Ninh, Vĩnh Phúc, Phú Thọ. Một số nơi người ta bắt đầu trồng lấy hoa và cành lá làm thuốc. 
+Do cây kim ngân có lá xanh tốt quanh năm, đến tháng 4-5 lại cho hoa đẹp và thơm cho nên có thể trồng làm cảnh và lấy bóng mát.
+Kim ngân có thể trồng ở miền núi cũng như ở đồng bằng. Đất đai và khí hậu Hà Nội cũng rất thích hợp. Ta có thể trồng bằng dâm cành: cắt những cành bánh tẻ dài chừng 20-60cm, khoanh thành khoanh, chôn xuống dưới đất, để chừa đoạn sau cùng; vào thời kỳ đầu cần tưới đều. Có thể trồng quanh năm nhưng tốt nhất vào tháng 9-10 hoặc tháng 2-3.
+Sau một năm có thể bắt đầu thu hoạch; thu hoạch lâu năm, càng về những năm sau càng nhiều hoa.
+Nếu hái hoa cần hái vào lúc hoa sắp nở hay khi hoa mới nở, màu còn trắng chưa chuyển vàng. Có thể hái hoa riêng, cành lá riêng nhưng có thể hái hoa kèm theo một ít cành lá, về nhà mới phân, chia cành lá riêng, hoa riêng.
+Hoa hay cành lá hái về phơi hay sấy khô là dùng được. Không phải chế biến gì khác. Việc bảo quản hoa và cành lá kim ngân tương đối dễ vì ít bị mốc mọt.
+
+#### C. Thành phần hóa học
+
+Hiện nay hoạt chất của kim ngân chưa được xác định chính xác.
+Theo Tăng Quảng Phương, trong hoa kim ngân có inozit (hay inozitol) chừng 1%.
+Theo Thang Đằng Hán, hoạt chất của kim ngân là một chất có trạng thái dầu, không bay hơi, có thể tan trong nước và trong các dung môi hữu cơ. Tuy nhiên cần chú ý là trong nhân dân Trung Quốc dùng kim ngân dưới dạng nước cất hoa kim ngân mà vẫn thấy tác dụng, chứng tỏ phần cất theo hơi nước, cũng có tác dụng.
+Năm 1961, một số nhà nghiên cứu Nhật Bản cho biết trong kim ngân có một glucozit gọi là lonixerin có cấu tạo luteolin-7-rhamnoza.
+Qua thực nghiệm chúng tôi thấy trong kim ngân có nhiều saponozit (Đỗ Tất Lợi).
+Luteolin
+
+#### D. Tác dụng dược lý
+
+Tác dụng kháng sinh-Tác dụng kháng sinh đuợc nhiều nhà nghiên cứu chú ý và chứng minh trong thực nghiệm.
+Người ta thấy nước hoa kim ngân có tác dụng ức chế rất mạnh đới với tụ cầu khuẩn vi khuẩn thương hàn, trùng lỵ Shiga. Nước sắc có tác dụng mạnh hơn các dạng bào chế khác.
+Năm 1950, Lưu Quốc Thanh (Trung Hoa tân y học báo) đã báo cáo dùng nước sắc cô đặc 100% của hoa kim ngân thấy có tác dụng kháng sinh rất mạnh đối với vi trùng thương hàn, tả, liên cầu khuẩn tiêu máu (vòng vô khuẩn tới 11- 20mm), vi trùng lỵ, trực khuẩn coli, tụ cầu khuẩn, phế cầu khuẩn, đối với bạch hầu cũng có tác dụng nhưng kém hơn (2-10 mm).
+Bảng sau đây cho biết nồng độ loãng nhất có tác dụng ức chế đối với sự phát triển của vi trùng:
+Vi trùng lỵ Shiga 1/640
+Schmith 1/2560
+Vi trùng lỵ Flexner 1/1280 - Sonnei 1/320 - Thương hàn 1/300
+Vi trùng phó thương hàn A 1/300 - phó thương hàn B 1/300 - tả 1/160 - trực khuẩn coli 1/160 - dịch hạch 1/1280
+Tụ cầu khuẩn vàng (aureus) 1/40
+Liên cầu khuẩn tiêu máu A 1/320
+Liên cầu khuẩn tiêu máu B 1/160
+Bạch hầu 1/80
+Phế cầu khuẩn 1/60
+Năm 1960, Sở nghiên cứu Trung y dược tỉnh Giang Tây Trung Quốc có nghiên cứu so sánh tác dụng kháng sinh của nước sắc hoa kim ngân và nước sắc lá kim ngân thì đã đi tới kết luận là nước sắc lá kim ngân với nổng độ 20-1,2% có tác dụng ức chế vi trùng lỵ Shiga, nước sắc lá kim ngân với nồng độ 20-5% có tác dụng ức chế đối với vi trùng phó thương hàn A, nồng độ 100% có tác dụng đối với tụ cầu khuẩn, nhưng đặc biệt các tác giả nhận thấy nước sắc hoa kim ngân lại hoàn toàn không có tác dụng kháng sinh. Các tác giả cho rằng tác dụng kháng sinh còn lệ thuộc vào thời kỳ thu hái hoa, và còn tiếp tục nghiên cứu.
+Tác dụng trên đường huyết-Năm 1930, Mẫn Bính Kỳ (Dược lý đích sinh dược học, 1933) đã thông báo sau khi cho thỏ uống nước sắc hoa kim ngân thì lượng huyết đường tăng; hiện tượng này kéo dài 5-6 giờ mới trở lại bình thường.
+Tác dụng ngăn chặn choáng phản vệ-Năm 1966, Đỗ Tất Lợi, Nguyễn Năng An và Bùi Chí Hiếu (Hội nghị thuốc nam lần thứ 4, Hà Nội) đã báo cáo nước sắc kim ngân có khả năng ngăn chặn choáng phản vệ trên chuột lang: Trên chuột lang được uống kim ngân, số lượng và chất lượng tế bào hạt (mastocytes) ở mạng treo ruột ít thay đổi, lượng histamin ở phổi chuột lang bị choáng phản vệ cao gấp rưỡi so với chuột lang bình thường hay đã được uống kim ngân trước khi gây choáng phản vệ.
+Độ độc-Các tác giả trên (Đỗ Tất Lợi, Nguyễn Nãng An và Bùi Chí Hiếu) còn cho biết chuột nhắt trắng uống liên tục 7 ngày với liều gấp 150 lần điều trị cho người, chuột vẫn sống bình thường, giải phẫu các bộ phận không thay đổi gì đặc biệt.
+
+#### E. Công dụng và liều dùng
+
+Kim ngân là một vị thuốc kinh nghiệm trong nhân dân, dùng chữa mụn nhọt, rôm sảy, lên đậu, lên sởi, tả lỵ, giang mai. Một số nơi nhân dân dùng pha nước uống thay nước chè.
+Theo các tài liệu cổ: Kim ngân vị ngọt, tính hàn (lạnh), không độc, vào 4 kinh phế, vị, tâm và tỳ. Có năng lực thanh nhiệt giải độc, dùng chữa sốt, mụn nhọt, tả lỵ, giang mai. Uống lâu nhẹ người tăng tuổi thọ. Nhưng những người tỳ vị hư hàn không có nhiệt độc không nên dùng.
+Trên thực tế lâm sàng, kim ngân thường được dùng riêng hay phối hợp với nhiều vị thuốc khác chữa mụn nhọt, mẩn ngứa, sốt nóng, sốt rét, tả lỵ. Gần đây trên cơ sở thực nghiệm, kim ngân được mở rộng chữa có kết qủa một số trường hợp viêm mũi dị ứng, thấp khớp và một số trường hợp dị ứng khác (Đỗ Tất Lợi và Nguyễn Năng An, 1966).
+Ngày dùng 4 đến 6g hoa hay 10 đến 12g cành lá dưới dạng thuốc sắc, hay thuốc cao hoặc rượu thuốc. Có thể dùng riêng vị kim ngân hay phối hợp với nhiều vị thuốc khác.
+Một số người uống kim ngân đi ỉa lỏng, chỉ cần giảm liều xuống hoặc nghỉ uống là hết.
+Đơn thuốc có kim ngân
+Thuốc K1 (Đỗ Tất Lợi, 1960) chữa mụn nhọt, mẩn ngứa, một số trường hợp dị ứng: Kim ngân 6g (nếu là hoa) hoặc 12g (nếu là cành và lá), nước 100ml, sắc còn 10ml, thêm đường vào cho đủ ngọt (chừng 4g). Đóng vào ống hàn kín, hấp tiệt trùng để bảo quản. Nếu dùng ngay thì không cần đóng ống và chỉ cần đun sôi rồi giữ sôi trong 15 phút đến nửa giờ là uống được. Nguời lớn: ngày uống 2 đến 4 liều trên (2 đến 4 ống); trẻ em từ 1 đến 2 liều (1 đến 2 ống).
+Thuốc K2 (Đỗ Tất Lợi, 1960) là đơn thuốc trên thêm 3g ké đầu ngựa vào. Cùng một công dụng và liều dùng
+Thuốc chữa mụn nhọt, mẩn ngứa, thông tiểu: Hoa kim ngân 6g, cam thảo 3g, nước 200ml, sắc còn 100ml, chia 2 hay 3 lần uống trong ngày.
+Ngân kiều tán (bài thuốc kinh nghiệm từ cổ) thường dùng chữa mụn nhọt, sốt, cảm: Hoa kim ngân 40g, liên kiều 40g, kinh giới tuệ 16g, cát cánh 24g, đạm đậu sị 20g, bạc hà 24g, ngưu bàng tử 24g, đạm trúc diệp 16g. Tất cả sấy khô tán bột. Có thể làm thành viên. Ngày uống 1-2 lần, mỗi lần uống 12g bột.
+
+### CÂY KÉ ĐẦU NGỰA
+
+_Còn gọi là_ thương nhĩ (te6n Trung Quốc), phắt ma (Thổ).
+Tên khoa học _Xanthium strumarium L_.
+Thuộc họ Cúc Asteraceae. Ta dùng quả ké đầu ngựa, hay toàn bộ phận trên mặt đất của cây ké đầu ngựa, phơi hay sấy khô.
+Ở Trung Quốc, gọi quả ké là thương nhĩ tử (Fructus Xanthii).
+
+#### A. Mô tả cây
+
+Cây ké đầu ngựa là một cây nhỏ, cao độ 2m thân có khía rãnh. Lá mọc so le, phiến lá hơi 3 cạnh, mép có răng cưa có chỗ khía hơi sâu thành 3-5 thùy, có lông ngắn cứng. Cụm hoa hình đầu có thứ lưỡng tính ở phía trên, có thứ chỉ gồm có hai hoa cái nằm trong hai lá bắc dày và có gai. Quả giả hình thoi, có móc, có thể móc vào lông động vật. Trẻ con vẫn nghịch bỏ vào tóc nhau rất khó gỡ ra (cắt đôi thấy ở trong có hai quả thực). ( Hình 38, Hm 5,1).
+
+#### B. Phân bố, thu hái và chế biến
+
+Cây ké này mọc hoang ở khắp nơi trong nước ta (đất hoang, bờ ruộng, bờ đường). Hái cả cây trừ bỏ rễ phơi hay sấy khô. Hoặc chỉ hái quả chín rồi phơi hay sấy khô.
+
+#### C. Thành phần hóa học
+
+Hiện nay chưa rõ hoạt chất của quả ké là gì. Mới biết rằng trong quả ké có chừng 30% chất béo, 1,27% một chất glucozit gọi là xanthostrumarin tương ứng với chất đatixin, chưa rõ tính chất, 3,3% nhựa và vitamin C (Wehmer, 1931).
+Theo Xốcôlôv (1952) trong quả và cây ké ở Liên Xô đều chứa ancaloit nhưng theo sự phân tích của hệ dược viện y học Bắc Kinh (1958) thì trong quả ké có một chất saponin (glucozit), không có ancaloit.
+Năm 1974, Khfagy (1974, Planta medica 8,75) đã tách từ trong ké một nhóm sesquitecpen chưa no, lacton có khung xanthonolit: xanthinin (độ chảy 123-124o), xanthanola và izoxanthanola.
+Hình 38. Ké đầu ngựa - Xanthium strumarium
+1-Cành và lá 2- Quả
+Quả Ké chứa:
+
+1. Carboxy atractylozit ở dạng muối có tác dụng hạ đường huyết rất mạnh, có độc tính.
+2. Xanthetin và xanthamin là những chất có tác dụng kháng khuẩn.
+   Toàn cây chứa nhiều iốt. Trong hai năm 1969 và 1970, Đỗ Tất Lợi, Phạm Kim Loan và Nguyên Văn Cát (Trường đại học dược khoa Hà Nội) đã định tính và định lượng iốt trong cây ké Việt Nam thấy rằng dù cây ké mọc ở miền núi, hay đồng bằng, gần biển hay xa biển đều có chứa iốt với hàm lượng khá cao, 1g lá hoặc thân chứa trung bình 200 microgam, 1g qủa chứa 220-230 microgam, nước sắc 15 phút cô thành cao chứa 300 microgam trong 1 g cao: Nếu nấu lâu 5 giờ có thể chứa tới 420-430 microgam trong 1g cao. Trên cơ sở phân tích ấy đã đề nghị dùng ké trong điều trị bướu cổ.
+   Tiêu chuẩn quy cách của Triều Tiên
+   Độ ẩm dưới 12%, độ tro 8%, tro không tan trong axit clohydric dưới 3%. Độ cao rượu ít nhất trên 8%.
+
+#### D. Tác dụng dược lý
+
+Chưa thấy có tài liệu. Nhưng kinh nghiệm lâm sàng ở Sở da liễu Nam Xương-Giang Tây, 1959 đã sử dụng cao quả ké chữa 22 trường hợp bệnh ngoài da, kết qủa khỏi hẳn 11, đỡ rõ rệt 8, có tiến bộ 3, không có trường hợp nào không có kết quả rõ rệt.
+Trong hai năm 1969, 1970 Tổng cục lâm nghiệp Việt Nam đã dùng cao ké chế thành viên chữa bướu cổ tại một số lâm trường miền núi. Kết qủa đạt trên 80%.
+Qua những tài liệu cũ, quả ké dùng chữa những trường hợp da xù xì màu đỏ như bị hủi. Tại nhiều vùng ở Việt Nam, Liên Xô cũ và Trung Quốc nhân dân vẫn dùng ké uống chữa mẩn ngứa, mụn nhọt và bướu cổ.
+
+#### E. Công dụng liều dùng
+
+Theo tài liệu cổ ké có vị ngọt, tính ôn, hơi có độc. Vào phế kinh, có tác dụng làm ra mồ hôi, tán phong, dùng trong các chứng phong hàn, đau nhức, phong thấp, tê dại, mờ mắt, chân tay co dật, uống lâu ích khí. Phàm không phải phong nhiệt chớ dùng. Trong sách cổ nói dùng ké phải kiêng thịt lợn. Nếu dùng thịt lợn cùng khi uống ké thì khắp mình sẽ nổi quầng đỏ.
+Hiện nay ké là một vị thuốc thường dùng trong nhân dân Việt Nam, Trung Quốc chữa mụn nhọt, lở loét, bướu cổ, ung thư phát bối (đằng sau lưng), mụn nhọt không đầu, đau răng, đau cổ họng, viêm mũi.
+Nhân dân Liên Xô cũ dùng ké đầu ngựa để chữa bướu cổ, các bệnh mụn nhọt, nấm tóc, hắc lào, lỵ và đau răng.
+Nhân dân ta và Trung Quốc thường chế thành cao thương nhĩ _Còn gọi là_ vạn ứng cao. Cách làm như sau: Từ tháng 5 đến tháng 9, hái toàn cây về phơi khô, cắt nhỏ nấu với nước, lọc và cô thành cao mềm. Cao dễ lên men, đóng chai thường phụt bật nút lên. Khi uống hòa với nước âm ấm, mỗi ngày từ 6 đến 8g cao. Uống luôn từ nửa tháng đến hai tháng.
+Có thể chế thành thuốc viên thương nhĩ hoàn như sau: Bỏ rễ, rửa sạch, cắt ngắn cho vào nồi nấu với nước sôi trong một giờ, lọc lấy nước, bã còn lại thêm nước, nấu sôi một giờ nữa, lọc và ép lấy hết nước. Hợp cả 2 nước lại, cô thành cao mềm. Khi nào lấy que thủy tinh nhúng vào cao, nhỏ lên giấy, giọt cao không loang ra nữa là được. Sau đó thêm vừa đủ bột vào (chừng 1/3 lượng cao) trộn đều chế thành viên.
+Trước khi ăn cơm thì uống. Ngày uống 3 lần, mỗi lần uống 16-20g. Theo sách cổ, uống cao thương nhĩ phải kiêng thịt lợn, thịt ngựa sợ độc. Thực tế tại bệnh viện Giang Tây (Trung Quốc) bệnh nhân uống thuốc không kiêng thịt vẫn không xảy ra hiện tượng độc nào mà thuốc vẫn có tác dụng tốt.
+Thuốc cao và thuốc viên nói trên chuyên chữa lở loét, mụn nhọt.
+Đơn thuốc có ké dùng trong nhân dân
+Chữa đau răng: Sắc nước quả ké, ngậm lâu lại nhổ. Ngậm nhiều lần.
+Mũi chảy nước trong, đặc: Quả ké sao vàng tán bột. Ngày uống 4-8g.
+Chữa thủy thũng, bí tiểu tiện: Thương nhĩ tử, thiêu tồn tính, đình lịch. Hai vị bằng nhau, tán nhỏ. Uống với nước mỗi lần 8g, ngày hai lẩn.
+Chữa bướu cổ:. Ngày uống 4-5g quả hay cây ké dưới dạng thuốc sắc (đun sôi, giữ sôi 15 phút) (Đỗ Tất Lợi).
+Trồng cây ké
+Trồng vào mùa xuân, làm đất bón phân cho tốt (tro, đất sông, phôtphat đều được). Đào lỗ nhỏ cho vào 3-4 hạt mỗi hố cách nhau chừng 50-60 cm. Phủ ít đất lên và tưới ẩm, độ 10 ngày sau cây mọc. Khi cây cao độ 6-7cm có thể đánh trồng chỗ khác. Vào cuối hạ hay sang thu quả chín thì hái cả cây hay chỉ hái quả thôi, phơi hoặc sấy khô mà dùng hoặc nấu cao như trên đã giới thiệu.
+
+### HẠ KHÔ THẢO 夏枯草
+
+Tên khoa học _Brunella (Prunella) vulgaris L_.
+Thuộc họ Hoa môi Lamiaceae.
+Ta dùng cụm hoa và quả phơi hay sấy khô (Flos Brunellae cum Fructu) của cây hạ khô thảo.
+Theo người xưa cây này sau ngày hạ chí (mùa hạ) thì khô héo nên gọi là hạ khô thảo (trên thực tế ở nước ta, mùa hạ cây vẫn tươi tốt).
+
+#### A. Mô tả cây
+
+Hạ khô thảo12 là một cây sống dai có thân vuông màu hơi tím đỏ, lá mọc đối, hình trứng hay hình mác đài, mép nguyên hoặc hơi có răng cưa, có ít lông ở thân và lá. Cụm hoa mọc ở đầu cành giống như bông do nhiều hoa có cuống ngắn mọc vòng, mỗi vòng có 5 - 6 hoa. Đài hoa có 2 môi, môi trên có 3 răng, môi dưới có 2 răng, hình 3 cạnh. Cánh hoa màu tím nhạt hình môi, môi trên như cái mũ, môi dưới xẻ ba, thùy giữa rộng hơn. Nhị 2 dài, 2 ngắn, đều thò ra khỏi tràng. Bầu có bốn ngăn. Vòi nhỏ dài. Quả nhỏ cứng (Hình 39, Hm 11,3).
+Hình 39. Hạ khô thảo - Brunella vulgaris
+
+#### B. Phân bố, thu hái và chế biến
+
+Cây này hiện nay mới phát hiện được ở Sapa (Lào Cai), Tam Đảo (Vĩnh Phúc), Hà Giang vào các tháng 4, 5, 6 rất nhiều, sang đến tháng 8 một số đã lụi đi. Đã được khai thác. Trước đây phải nhập của Trung Quốc.
+Hiện nay nhiều nơi như Thanh Hóa, Nghệ An, Hà Tĩnh nói có hạ khô thảo nhưng chưa được xác minh.
+Vào mùa hạ, khi một số quả đã chín thì hái cành mang hoa và quả phơi hay sấy khô. Có người dùng cả bộ phận trên mặt đất (tháo) hái về phơi hay sấy khô để dùng.
+
+#### C. Thành phần hóa học
+
+Hiện nay hãy còn ít tài liệu nghiên cứu về cây này. Mới chỉ biết rằng cành mang hoa và quả chứa chừng 3.5% muối vô cơ tan trong nước. Trong số muối vô cơ này, 68% là kali clorua, ngoài ra còn thấy một chất có tính chất ancaloit.
+Hoạt chất khác chưa rõ, gần đây có tác giả lấy được từ cây Brunella vulgaris L. var. lilacina Nakai (Nhật Bản dược học tạp chí, 1956, 76, 974) hái vào tháng 6 khi ra hoa, chừng 0,56% chất axit ursolic C₃₀H₄₈O₃.
+Axit ursolic
+
+#### D. Tác dụng dược lý
+
+1. Cửu Bảo, Điền Tinh Quang và Đảo Thanh Cát (1940, Hòa hán dược dụng thực vật) đã thí nghiệm lấy các muối vô cơ trong nước sắc hạ khô thảo, chế thành thuốc tiêm, tiêm tĩnh mạch thỏ, lập tức thấy huyết áp hạ xuống, vận động hô hấp tăng lên, tác dụng lợi tiểu rõ rệt như các muối kali khác. Do đó suy ra rằng sở dĩ hạ khô thảo có tác dụng là do lượng muối kali khá cao.
+2. Theo báo Y học Liên Xô, 1951 (kỳ 6 năm thứ bảy) và Y dược học (quyển 4 kỳ 6, 1951) các chất tan uống nước của hạ khô thảo có tác dụng hạ huyết áp lâu dài trên bệnh nhân và làm hết các triệu chứng khó chịu của bệnh cao huyết áp.
+3. Có nơi nhân dân Trung Quốc dùng nấu nước uống thay nước trà.
+4. Tài liệu cổ nói vị hạ khô thảo có tác dụng chữa loa lịch (lở loét, tràng nhạc, mụn nhọt, dò ở trên đầu) rất có công hiệu.
+5. Bản thảo cương mục của Lý Thời Trân (thế kỷ 16) có kể một trường hợp ông dùng chữa bệnh nhức mắt rất công hiệu như sau:
+   _"Có một người con trai đau ở trong con ngươi, nhức cả bên quãng xương đầu lông mày và sưng đau thêm nửa đầu, dùng hoàng liên nhỏ vào lại càng đau thêm, uống các thứ thuốc khác cũng đều không công hiệu, liền dùng ngải cứu ở các huyệt quyết âm, thiếu dương tức thời khỏi đau ngay, nhưng cách đó chỉ nửa ngày lại đau, cứ nhùng nhằng như thế tới hơn một tháng, liền dùng hạ khô thảo 2 lạng (80g), hương phụ (củ gấu) 2 lạng (80g), cam thảo 4 đồng cân (16g). Các vị cùng tán bột, mỗi lần uống 1 đồng rưỡi (6g) hòa với nước chè, uống khỏi miệng, đau nhức bớt ngay. Tiếp đó chỉ uống 4-5 lần nữa bệnh khỏi hẳn"_.
+   Cùng trong tài liệu đó, Lý Thời Trân có kể một tác giả khác là Lê Sĩ Cư trong bộ sách Giản dị phương nói hạ khô thảo chữa chứng đau mắt.
+   Lâu Toàn Thiện (một tác giả cổ khác) nói: _"Hạ khô thảo chữa chứng đau nhức con ngươi, càng về đêm càng đau kịch rất hay"_. Chứng đau mắt này nếu dùng vị khổ hàn đắng và lạnh (như hoàng liên) mà nhỏ vào lại càng đau thêm, nhưng dùng hạ khô thảo rất hay.
+   E. Công dụng và liều dùng
+   Tính vị theo đông y: Vị đắng, cay, tính hàn, không độc, vào hai kinh can và đởm. Có tác dụng thanh can hòa, tán uất kết, tiêu ứ sáng mắt, làm thuốc chữa loa lịch, giải trừ nhiệt độc ở tử cung và âm hộ.
+   Những bài thuốc dùng hạ khô thảo trong nhân dân
+6. Chữa tràng nhạc, mã đao: Hạ khô thảo 5 lạng (200g) đun lấy nước đặc uống, uống trước khi ăn cơm 2 giờ. (Bài thuốc trích trong sách _"Tiết thị ngoại khoa-Bản thảo cương mục"_).
+   Cũng bệnh trên, có thể dùng hạ khô thảo, hương phụ, bối mẫu, viễn chí cùng đun lấy nước đặc uống rất hay, không nên coi thuờng (sách "Kinh nghiệm phương-Bản thảo cương mục’’).
+7. Chữa xích bạch đới: Hạ khô thảo tán nhỏ, mỗi lần uống 8g với nước cơm (sách _"Từ thị phương"_).
+8. Chữa tràng nhạc (loa lịch) hạ khô thảo 8g, cam thảo 2g, nước 3 bát (600ml) sắc còn 200ml chia 3 lần uống trong ngày.
+9. Thông tiểu tiện: Hạ khô thảo 8g, hương phụ tử 2g, cam thảo 1g, nước 600ml, sắc còn 200ml chia ra 3 lần uống trong ngày.
+10. Bị đánh hay bị thương dùng hạ khô thảo tươi tán nhỏ đắp vào vết thương.
+    Có thể dùng chữa bệnh cao huyết áp với liều 6- 15g dưới dạng thuốc sắc.
+    .
+
+### CÂY XÀ SÀNG 蛇床子
+
+_Còn có tên là_ cây giần sàng
+Tên khoa học _Cnidium monnieri (L.) Cuss. (Selinum monnieri L._)
+Thuộc họ Hoa tán Umbelliferae.
+Tên giần sàng vì cụm hoa trông từ trên xuống giống cái giần hay cái sàng gạo. Người xưa nói vì rắn hay nằm lên trên và ăn hạt cây này do đó gọi tên là xà=rắn, sàng=gìường.
+Người ta dùng xà sàng tử (Fructus Cnidii) là quả phơi hay sấy khô của cây xà sàng.
+
+#### A. Mô tả cây
+
+Cây xà sàng là một loại cỏ cao từ 0,4-1m. Thân có vạch dọc. Lá hai lần xẻ lông chim, chiều rộng của thùy 1-1,5mm. Cuống lá dài 4-8cm. Có bẹ lá ngắn. Hoa mọc thành tán kép. Tổng bao có ít lá bắc hẹp. Cuống hoa dài 7-12cm, dài hơn lá. Quả dài 2-5mm, có dìa mỏng (Hình 41).
+
+#### B. Phân bố, thu hái và chế biến
+
+Mọc hoang ở những nơi đất trống trong nước ta. Thu hái vào tháng 6 đến tháng 8 là thời gian quả chín. Nhổ hay cắt cả cây về phơi khô. Đập lấy quả. Loại bỏ tạp chất. Phơi lần nữa cho thật khô là được.
+
+#### C. Thành phần hóa học
+
+11. Tinh dầu: Với tỷ lệ 1.3% có mùi hắc đặc biệt. Thành phần chủ yếu của tinh dầu là chất L. pinen, camphen và bocnylisovalerianat.
+12. Chất ostola tinh thể không màu có công thức C₁₅H₁₆O₃, độ chảy 82°5-83°5.
+13. Chất dầu màu đen xanh có thành phần chủ yếu là 92,66% axit béo không no, 4,56% axit béo no và 0,38% chất không xà phòng hóa dược, 3,27% glyxerin.
+    Ostola
+    Hình 41. Cây xà sàng - Cnidium monnieri
+
+#### D. Công dụng và liều dùng
+
+Tính vị theo đông y: Vị cay đắng, tính bình, hơi có độc, vào 2 kinh thận và tam tiêu. Tác dụng cường dương, ích thận khử phong táo thấp, dùng chữa liệt dương, bộ phận sinh dục ẩm ngứa, phụ nữ lạnh tử cung, không có con, khí hư, xích bạch đới.
+Liều dùng 4 - 12g dưới dạng thuốc sắc uống riêng hoặc phối hợp với các vị thuốc khác.
+Đơn thuốc có xà sàng tử
+1- Chữa tai ướt, ngứa: Xà sàng tử, hoàng liên (hoặc hoàng đằng) mỗi vị 4g, khinh phấn (calômel) 1g. Tán nhỏ trộn đều, thổi vào tai.
+2- Bạch đới khí hư: Xà sàng tử, phèn chua, hai vị bằng nhau, tán nhỏ. Nấu hồ trộn vào làm thành viên bằng qủa táo, bọc lụa hay gạc cho vào âm hộ.
+Thấy nóng bỏ ra. Có thể sắc để thụt rửa.
+3- Lòi dom: Xà sàng tử 40g, cam thảo 40g, tán nhỏ, trộn đều. Ngày uống 9g, chia ra làm 3 lần uống (mỗi lần 3g).
+Đồng thời nấu nước xà sàng tử xông và rửa chỗ đau.
+
+### BƯỞI BUNG
+
+_Còn có tên là_ cây cơm rượu, cát bối, co dọng dạnh (Thái).
+Tên khoa học _Glycosmis pentaphylla Corr. (Glycosmis cochinchinensis (Lour.) Pierre )_.
+Thuộc họ Cam Rutaceae.
+Trong nhân dân thường dùng tên bưởi bung để chỉ hai cây: Cây có tên khoa học _và mô tả_ sau đây, một cây nữa có lá đơn nguyên sẽ giới thiệu trong phần chú thích13 và có tên khoa học _là Acronychia laurifolia Bl. thuộc cùng họ_.
+
+#### A. Mô tả cây
+
+Cây nhỏ, cao 1-3m, có thể cao tới 6m, cành đỏ nhạt, nứt nẻ. Lá kép gồm từ 3 đến 7 lá chét, ít khi có một, dài từ 6-6 cm, rộng từ 2 đến 5cm, mép nguyên, hoặc hơi răng cưa. Hoa trắng hay trắng xanh nhạt, mọc thành chùm tán ở đầu cành hay kẽ lá phía ngọn cây. Quả hình cầu, như quả quất, khi chín có màu hồng (Hình 42). Mùa hoa quả: Tháng 11-3.
+
+#### B. Phân bố, thu hái và chế biến
+
+Cây bưởi bung mọc hoang dại ở khắp nơi trong nước ta, ở những nơi bờ rào, đất hoang hay rừng núi.
+Người ta dùng rễ và lá, thu hái gần như quanh năm. Thường dùng tươi, có thể phơi khô dùng dần. Một số nơi hái cành mang lá phơi khô.
+Hình 42. Bưởi bung - Glycosmis pentaphylla
+
+#### C. Thành phần hóa học
+
+Trong cành và lá có chứa tinh dầu, mùi thơm dễ chịu. Gần đây người ta đã phân tích thấy trong bưởi bung có các ancaloit mang tên dictamin C₁₂H₉O₂N độ chảy 132°, skimmiamin C₁₄H₁₃O₄N độ chảy 175°, kokusaginin C₁₄H₁₃O₄N độ chảy 168°, noracromyxin C₁₉H₁₇O₃N độ chảy 198-200o, arborin C₁₆H₁₄O₂N độ chảy 150-152°, arborinin độ chảy 175°, glycorin C₉H₈ON độ chảy 145-147°, glycosminin C₁₅H₁₂ON độ chảy 249°.
+Dictamin
+Skimmiamin
+Kokusaginin
+Noracromyxin
+Glycorin
+Ngoài ra còn chất glycosmin là chất veratroylsalixin C₂₂H₂₈O₁₂ có trong lá non và nụ hoa với hàm lượng 0,2%.
+Cấu trúc của những chất đó rất gần nhau và đã được xác định như sau:
+Mới đây từ bưởi bung người ta còn chiết được một chất glycozolin, dẫn chất từ carbazol.
+
+#### D. Tác dụng dược lý
+
+Trong ống nghiệm, bưởi bung tỏ ra có tính chất kháng sinh mạnh đối với vi khuẩn Streptococcus, Staphyllococcus 209P và Bacillus subtilis.
+
+#### E. Công dụng và liều dùng
+
+Bưởi bung là một vị thuốc được dùng trong nhân dân làm thuốc giúp sự tiêu hóa, phục hồi sức khỏe của phụ nữ sau khi sinh nở, dùng ngoài phối hợp với một số vị thuốc khác làm thuốc sát trùng lèn da.
+Uống trong ngày, dùng 6 đến 16g lá khô, dưới dạng thuốc sắc.
+Đơn thuốc có vị bưởi bung
+Phụ nữ kém ăn, da vàng sau khi sinh nở.
+Lá bưởi bung sao vàng 10g. Thêm 400ml nước vào, sắc còn 200ml, chia 2 lần uống trong ngày.
+Mụn ổ gà mọc ở bẹn, nách, thối loét lâu ngày, ăn vào tới xương:
+Lá bưởi bung ( Glycosmis pentaphylla )một nắm chặt, lá ổi một nắm chặt, lá thổ phục linh một nắm. Cả ba vị rửa sạch, thái nhỏ, lấy lá chuối non hơ nóng cho mềm, gói thuốc lại, to nhỏ tùy theo mụn nhọt. Mặt nào định đặt lên mụn thì châm nhiều lỗ cho nước dễ thấm vào mụn. (Revue medico chirurgicale 12. 1939).
+
+### CÂY MÃ TIÊN THẢO 馬鞭草
+
+_Còn có tên là_ cỏ roi ngựa, Verveine (Pháp).
+Tên khoa học _Verbena officinalis L_.
+Thuộc họ Cỏ roi ngựa Verbenaceae.
+Người ta dùng toàn cây mã tiên thảo (Herba Verbenae) tươi hay phơi hoặc sấy khô.
+Tên mã tiên do chữ mã = ngựa, tiên = roi, vì cỏ dài, thẳng, có đốt như roi ngựa, do đó mà đặt tên như vậy.
+Châu Âu (Pháp) dùng với tên Verveine.
+
+#### A. Mô tả cây
+
+Cây loại cỏ nhỏ, sống dai, cao từ 10cm đến 1m, thân có 4 cạnh. Lá mọc đối, xẻ thùy lông chim. Hoa mọc thành bông ở ngọn, hoa nhỏ màu xanh, lưỡng tính, không đều (Hình 44).
+
+#### B. Phân bố, thu hái và chế biến
+
+Cây này mọc hoang ở khắp nơi trong nước ta. Hái vào mùa thu khi cây đã ra hoa và một số hoa đã bắt đầu kết quả. Dùng tươi hay phơi hoặc sấy khô. 
+Hình 44. Mã tiên thảo (Cỏ roi ngựa) - Verbena officinalis
+
+#### C. Thành phần hóa học
+
+Toàn cây chứa một glucozit gọi là verbenalin hay verbenalozit C₁₇H₂₄O₁₀ kết tinh không màu, không mùi, vị đắng, thủy phân sẽ cho glucoza và verbenalola C₁₁H₁₄O₅.
+Verbenalin + H20 = verbenalola + glucoza
+Ngoài ra còn có các men invectin và men emunxin. Do đó khi phơi sấy, tỷ lệ glucozit có thể giảm tới hơn 25%.
+Verbenalin
+Verbenalola
+
+#### D. Tác dụng dược lý
+
+Mã tiên thảo ít độc. Theo Holste, mã tiên thảo có thể làm máu chóng đông.
+
+#### E. Công dụng và liều dùng
+
+Tính chất theo đông y: Vị đắng, hơi hàn, vào 2 kinh can và tỳ. Tác dụng phá huyết, sát trùng, thông kinh. Dùng chữa bệnh lở ngứa hạ bộ, tiêu chướng. Trước đây nhân dân châu Âu rất hay dùng vị thuốc này, coi như có khả năng chữa bách bệnh. Hiện nay chỉ còn dùng làm thuốc xoa bóp.
+Nhân dân ta hay dùng cỏ roi ngựa tươi giã lấy nước uống, bã đắp lên mụn nhọt như sưng vú, hậu bối.
+Còn dùng uống và rửa chữa bệnh ngứa ở hạ bộ. Ngày dùng 6-12g khô tương ứng với 25-50g tươi.
+
+### CON RẾT
+
+_Còn có tên là_ ngô công, thiên long, bách túc trùng, bách cước.
+Tên khoa học _Scolopendra morsitans L_.
+Thuộc họ Ngô công Scolopendridae.
+Ngô công là toàn con rết phơi hay sấy khô.
+
+#### A. Nguồn gốc
+
+Ta dùng con rết lớn, nhiều chân, thân dẹt, dài 7- 13cm, thường gồm chừng 20 đốt, mỗi đốt có một đôi chân. Đốt cuối cùng 2 chân biến thành như hai đuôi. Đầu rết có hai râu dài, răng nhọn sắc cắn đau và có chất độc, khi bắt cần chú ý. Vào các tháng 4-5 đẻ trứng, mỗi con đẻ chừng 20-30 trứng sau ít lâu nở thành rết con, lúc đầu có màu trắng, sau lột xác thành rết lớn màu nâu đỏ (Hình 45).
+Con rết sống hoang ở dưới những khúc gỗ mục, các hòn đá, mái nhà mục nát. Hiện nay nhân dân ta chỉ bắt những con sống hoang. Tại Trung Quốc, do nhu cầu lớn, đã đặt vấn đề nuôi rết dùng trong nước và xuất khẩu. Triều Tiên cũng nuôi dùng và xuất khẩu rết. Chọn những con to béo là tốt.
+
+#### B. Thành phần hóa học
+
+Theo các nhà nghiên cứu Nhật Bản, trong con rết có hai chất độc gần giống chất độc ở nọc ong, có tính chất phá huyết. Ngoài ra còn có các loại amin. Ở Trung Quốc có người đã nghiên cứu, nhưng cũng chỉ mới nghiên cứu thấy có 4,45% tro và 70,20% chất protit.
+Như vậy hoạt chất hiện nay chưa rõ.
+
+#### C. Tác dụng dược lý
+
+Bộ môn dược liệu Trường đại học dược khoa có phối hợp cùng các đồng chí Rumani công tác ở bộ môn năm 1959 và các đồng chí Rumani ở Viện vi trùng hồi đó, để thử tác dụng diệt trùng nhưng chưa đi đến kết quả gì trong phòng thí nghiệm.
+
+##### TODO: thêm hình ảnh
+
+Hình 45. Con rết – Scolopendra morsitans
+
+#### D. Công dụng và liều dùng
+
+Tính vị theo đông y: Vị cay, tính ôn, có độc, vào kinh can. Tác dụng khử phong, trấn kinh giản, giải độc của rắn. Dùng chữa hàn nhiệt tích tụ trọng bụng, trụy thai, trừ ác huyết, trị sang nhọt. Còn dùng ở phạm vi nhân dân. Tại một đơn vị quân y (1959) có báo cáo dùng rượu rết bôi lên các mụn nhọt đau nhức rất chóng khỏi (Hội nghị dược chính quân y năm 1960).
+
+Theo các tài liệu cổ và thực tế sử dụng trong nhân dân con rết dùng chữa các bệnh sau đây:
+
+1. Chữa sang trĩ đau nhức: Ngô công bỏ đầu, chân, sấy khô, tán nhỏ, hòa ít long não, thêm ít nước hay rượu bôi lên.
+
+2. Kinh nghiệm của đơn vị quân y: Rượu rết (cả con cho vào rượu 90°) bôi lên nhọt.
+
+3. Bắt 6 con rết cho vào lọ, đổ dầu vừng vào ngâm vài tháng. Lấy bông thấm thuốc này bôi lên các mụn nhọt, chỗ bị sâu trùng độc cắn sẽ hết đau.
+
+4. Ngô công sấy khô, bỏ đầu chân, tán nhỏ, trộn với lượng tương đương bột cam thảo và thêm nước hồ làm thành viên.
+
+Ngày uống 0,5g viên chia làm 3 lần uống, dùng chữa tê liệt thần kinh mặt, đau nhức, tê thấp, trẻ con cấm khẩu không bú được.
+
+- Chú ý nghiên cứu thêm.
 
 ### SÀI ĐẤT
 
@@ -430,7 +839,7 @@ Người ta dùng toàn cây hái về làm thuốc. Mùa hái quanh năm nhưng
 
 #### C. Thành phần hoá học
 
-Trong loài Phyllanthusdiscoides Muell-Arg. Có Phyllanthin C₁₄H_(I7)O₂N, Phyllantin C₁₃H_(I5)O₃N (Manske R.H.F :The Alkaloids Chemistry and Physiology XIV-1973, 428) và phyllatidin CHON (Horii z. et al. Tetrahedron Letters 1972,1877)
+Trong loài Phyllanthusdiscoides Muell-Arg. Có Phyllanthin C₁₄H*(I7)O₂N, Phyllantin C₁₃H*(I5)O₃N (Manske R.H.F :The Alkaloids Chemistry and Physiology XIV-1973, 428) và phyllatidin CHON (Horii z. et al. Tetrahedron Letters 1972,1877)
 
 Trong loài Phyllanthus niruri L. có phyllathin C₂₄H₃₄O₆, hypophyllanthin C₂₄H₃₀O₇, niranthin C₂₄H₃₂O₇, nirtetralin C₃₄H₃₀O₇ và phylteralin C₂₄H₃₄O₆ (Anjaneyulu. A.s. R. etaỉ. Tetrahedron, 1973,29, 129).
 
@@ -734,7 +1143,7 @@ Thuộc họ Nhục đậu khấu Myristicaceae.
 
 Tên là máu chó vì khi chặt cây, chất nhựa chảy ra có màu đỏ giống như máu.
 
-#### A.  Mô tả cây
+#### A. Mô tả cây
 
 Cây to, cao, có thể tới hơn 10m. Cành non có lông tơ màu hung đỏ. Lá mọc so le, có cuống, nguyên và nhẵn, mặt trên bóng. Hoa khác gốc, có lông mịn màu nâu nhạt. Quả hình trứng hay hình cầu, khi chín thì nhẵn, vỏ quả mỏng; áo hạt nguyên vẹn hay bị tước cả đầu. Hạt có vỏ mỏng và nhẵn (Hình 63).
 

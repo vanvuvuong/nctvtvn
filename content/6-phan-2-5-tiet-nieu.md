@@ -328,7 +328,7 @@ Trong nước ta có mọc ở nhiều nơi, nhưng ít chú ý dùng làm thu�
 
 Trong mộc tặc có các axit silixic, chất béo, phytosterol, axit equísetíc, chất saponin, gọi là equisetonin, các chất ancaloit equiselin và nicotin.
 
-Ngoài ra còn có equisetrin (glucozit) C:7H3(10|(, và isoquexúrin C2|H2U012.
+Ngoài ra còn có equisetrin (glucozit) C:7H3(10|(, và isoquexúrin C2|H₂U₀₁₂.
 
 Trong mộc (ặc Equisetum ơrvense L. có các hợp chất flavon, saponin, và một ít ancaloit:
 
@@ -336,15 +336,15 @@ Trong mộc (ặc Equisetum ơrvense L. có các hợp chất flavon, saponin, v
 
 ### II, 1095).
 
-2. Các saponin: Equisetonin 1-5% thủy phân cho arabinoza, fructoza và equisetonigenin C27HJSOb, ngoài ra còn có một chất phá huyết khác (Hegnauer R.).
+2. Các saponin: Equisetonin 1-5% thủy phân cho arabinoza, fructoza và equisetonigenin C₂₇HJSOb, ngoài ra còn có một chất phá huyết khác (Hegnauer R.).
 
-3. Các ancalữit: 0,00004-0,002% nicotin, palustrin, equisetin C17H3]02NJt nhưng cũng có tác giả không xác nhận có palustrin.
+3. Các ancalữit: 0,00004-0,002% nicotin, palustrin, equisetin C₁₇H₃]02NJt nhưng cũng có tác giả không xác nhận có palustrin.
 
 Trong bào tử mộc tặc người ta chiết được articulaún CpH,20|3 và một lượng nhỏ izoarticulatin. Thủy phân arúculatin ta sẽ được glucoza và một genin có công thức C^H^Oịị. Ngoài ra trong bào tử còn một axit gọi là axit equisetolic (Bonnett R. et al. Phytochcmistry,
 
 ### 1972, II, 2801).
 
-Trong mộc tặc Equisetum hiemaỉe L. người ta cũng c.hiết được một lượng nhỏ nicotin, dimetylsulfon (CH3)2S02, axit cafeic, độ (ro 18,2% (Hegnauer R. Chemoiaxonomie der PỊỈamen III, 1964, 251), một ít tanin và saponin (Trung Quốc kinh tế thực vật chi ,1961, 1630). Ngoài ra còn 3 loại Aavon là kacmpfcrot 3,7- ldiglucozit, kaempferol 3-glucozit, 7-diglucozit (Saleh N. A. M. et ai. Phytochemistry, 1972, II, 1095).
+Trong mộc tặc Equisetum hiemaỉe L. người ta cũng c.hiết được một lượng nhỏ nicotin, dimetylsulfon (CH₃)2S02, axit cafeic, độ (ro 18,2% (Hegnauer R. Chemoiaxonomie der PỊỈamen III, 1964, 251), một ít tanin và saponin (Trung Quốc kinh tế thực vật chi ,1961, 1630). Ngoài ra còn 3 loại Aavon là kacmpfcrot 3,7- ldiglucozit, kaempferol 3-glucozit, 7-diglucozit (Saleh N. A. M. et ai. Phytochemistry, 1972, II, 1095).
 
 #### D. Công dụng và liều dùng
 
@@ -404,7 +404,7 @@ Hoài mộc thông (Caulis Clematidis armandi) thu hoạch vào tháng 9, cắt 
 
 Trong mộc thòny mã dậu linh hay quan mộc thông (Hocquơrtia mashuriensis) ngưòi ta chiết ra được 0,091% chất có tinh thc màu vàng, độ chảy 281-283", công thức thô C|2Hn04 (Hóa học học báo, 22: 1144-1956).
 
-Trong mộc thông Nhật Bản (Akebia qui na la Decne) người ta đã lấy được một loại glucozit gọi là akebin (C3íH56Oia):i khi thủy phân sẽ được akebigenin C3 H50O4, glucoza và rhamnoza (Tạp chí hóa học Nhật Bán 48, 49, 1927-1928). Ngoài ra còn có hederagenin C,0H4gO4 và axit oleanolic hay caryophylin C10H4RO3 (Dược học tạp chí 60, 1940).
+Trong mộc thông Nhật Bản (Akebia qui na la Decne) người ta đã lấy được một loại glucozit gọi là akebin (C3íH56Oia):i khi thủy phân sẽ được akebigenin C3 H₅₀O₄, glucoza và rhamnoza (Tạp chí hóa học Nhật Bán 48, 49, 1927-1928). Ngoài ra còn có hederagenin C,0H4gO4 và axit oleanolic hay caryophylin C₁₀H₄RO₃ (Dược học tạp chí 60, 1940).
 
 #### D. Tác dụng dược lý
 
@@ -482,7 +482,7 @@ A. Mò tá cây
 
 Sòi là một cây nhỡ, cao chừng 4-6m sống lâu nãm. Thân màu xám, lá mọc so le, sớm rụng, cuống dài 3-7cm, phiến lá hơi hình quả trám dài, rộng 3-9cm, đầu lá nhọn dài, hai mặt đều màu xanh, bóng không có lông, mép nguyên, khi còn non thì mểm và mỏng. Hoa mọc thành bông dài 5-1 Ocm ở kẽ lá hay đẩu cành, đơn tính, hoa đực chiếm phẩn trên của bông, về sau
 
-Hình JS3. Sòi - Sapium sebiferum
+Hình JS₃. Sòi - Sapium sebiferum
 
 ở phía dưới bông mới thấy xuất hiện 1-4 hoa cái. Cánh màu trắng vàng hay vàng. Quả hình cầu, đường kính chừng 12mm, khi chín có màu đen tía, 3 ngăn, mỗi ngăn có một hạt hình trứng, trên mạt có đường rãnh dọc; trong hạt có dâu, ngoài hạt có một lớp sáp tráng gọi là bơ sòi hay mỡ thảo mộc. Mùa hoa: tháng 3-4, mùa quả: tháng 9 ( Hình 183 ).
 
@@ -504,13 +504,13 @@ Trong vỏ rẽ sòi người ta còn chiết được
 
 Áxit sebiịeric
 
-xanthoxylÍTi Cl0H[2O4 và một tinh thể có độ chảy 200"C (Dược học học báo 1958, 6, 51 và Hoá học học báo, 1957, 23, 259), trong lá sòi có chất béo, vitamin E (C. A. 1965, 63, 4663g), tanin 8,7%, từ lá tươi chiết được corilagin C27H,20|g, axit ellagic, axit galic và izoquexitro- zit (Arthur H. R. Symposium on Phviochemistry 1964, 164).
+xanthoxylÍTi Cl₀H[2O4 và một tinh thể có độ chảy 200"C (Dược học học báo 1958, 6, 51 và Hoá học học báo, 1957, 23, 259), trong lá sòi có chất béo, vitamin E (C. A. 1965, 63, 4663g), tanin 8,7%, từ lá tươi chiết được corilagin C₂₇H,20|g, axit ellagic, axit galic và izoquexitro- zit (Arthur H. R. Symposium on Phviochemistry 1964, 164).
 
 Theo Pradhan B. p. et al. (ỉndian J.Chem,
 
 1973, II, 1217-1220) trong vỏ thân sòi có 3-4 di-O-methylellagic axit và axit sebiferic
 
-C30H«O2-
+C₃₀H«O2-
 
 COCHH
 
@@ -1564,7 +1564,7 @@ ven biển Nha Trang, Phan Rang, Đà Nẵng, Công Tum.
 
 Thu hái toàn cày, cắt bỏ rẻ con, dùng tươi hay phơi hoặc sấy khô, có khi sao toàn tính (thành than nhung không thành tro) mà dùng, c. Thành phần hóa học
 
-Trong lá móng lưng rồng có những hợp chất flavon như apigenin C|5H|0O5, sosetsuílavon C^H^O^, amentoílavon C30H|8O10 (Arthur H. R.-Symposìum on Phytochemistry, 1964, 236). Dung dịch móng lưng rồng 100% có tác dụng ức chế đối với ví trùng Staphylococcus aureus (Y viện 175: Tán y dựoc khoa, Giang Táy dược khoa học hiệu, 1970 (3) 35).
+Trong lá móng lưng rồng có những hợp chất flavon như apigenin C|5H|0O5, sosetsuílavon C^H^O^, amentoílavon C₃₀H|8O10 (Arthur H. R.-Symposìum on Phytochemistry, 1964, 236). Dung dịch móng lưng rồng 100% có tác dụng ức chế đối với ví trùng Staphylococcus aureus (Y viện 175: Tán y dựoc khoa, Giang Táy dược khoa học hiệu, 1970 (3) 35).
 
 D. Còng dụng và liều dùng
 
@@ -1838,7 +1838,7 @@ Ngoài những thành phẩn chủ yếu trên đây, chiếm khoảng ‘80% ti
 
 Lá mùi tày chứa chừng 0,08% tinh dầu. caro- tin, vitamin c, luteolin và apigenin.
 
-.CH2
+.CH₂
 
 i
 
@@ -1846,7 +1846,7 @@ i
 
 CH \* CHa
 
-(60-80%) là một ete của phenol với một dãy alylic, 2 nhóm OCH3, một nhóm metylen dioxy có tinh thể hình kim (còn gọi là Camphre của persil). Nòi này chủ yếu gốc ở Đức. Nòi với thành phần chủ yếu là myristin (đemetoxy 2 apiol) từ
+(60-80%) là một ete của phenol với một dãy alylic, 2 nhóm OCH₃, một nhóm metylen dioxy có tinh thể hình kim (còn gọi là Camphre của persil). Nòi này chủ yếu gốc ở Đức. Nòi với thành phần chủ yếu là myristin (đemetoxy 2 apiol) từ
 
 Rễ chứa apigenin.
 
@@ -1884,7 +1884,7 @@ Ngay cây thương lục tuy được di thực từ lâu nhưng cũng ít ngư�
 
 c. Thành phẩn hóa học
 
-Trong rễ thương lục có chất độc phytolaccatoxin C24HM09 rất nhiều muối kali nitrat, axít oxymiristinic và chất saponozit.
+Trong rễ thương lục có chất độc phytolaccatoxin C₂₄HM₀₉ rất nhiều muối kali nitrat, axít oxymiristinic và chất saponozit.
 
 Trong rề cây Phytolacca decandra vốn sẵn có ở nước ta có tinh bột, đường, một glucozit, tanin, một chất saponozit, gôm, chất sáp. Có tác giả còn chiết được một ancaloit gọi là phytolacxin. Trong quả có chất màu anthoxyanozit, axit phytolacxic.
 
@@ -2042,7 +2042,7 @@ Làm thuốc người ta dùng hạt: Vào mùa thu, hái quả chín, phen khô
 
 #### C. Thành phần hóa học
 
-Trong hạt có mucronatin C^HyC^N (Dược học học báo, 1964, II, 207), usaramm (C. A. 1968, 69, 36312s), mucronatinin C|SH2506N Ợetrahedron, 1968, 24 6319), relrorsin C18H2306N và nilgirin Ci7H3305N (Teírahedron Letters, 1968, 5605).
+Trong hạt có mucronatin C^HyC^N (Dược học học báo, 1964, II, 207), usaramm (C. A. 1968, 69, 36312s), mucronatinin C|SH₂₅₀₆N Ợetrahedron, 1968, 24 6319), relrorsin C₁₈H₂₃₀₆N và nilgirin Ci₇H₃₃₀₅N (Teírahedron Letters, 1968, 5605).
 
 Lá chứa vitexin c H O|0, vitexin 4’-0-xylozit
 
@@ -2180,13 +2180,13 @@ Khi cây đang ra hoa, hái toàn cây về phơi trong mát.
 
 #### C. Thành phần hóa học
 
-Trong cây nghể có chứa các chất oxymetylanthraquinon và 2-2,5% dẫn xuất flavon: ramnazin, isoramnetin và rutin, axit polygonic, hyperin C21H20O|2, chất pecsicarin
+Trong cây nghể có chứa các chất oxymetylanthraquinon và 2-2,5% dẫn xuất flavon: ramnazin, isoramnetin và rutin, axit polygonic, hyperin C₂₁H₂₀O|2, chất pecsicarin
 
 ##### TODO: thêm hình ảnh
 
-Hình 220. Nghể - Polygonum hydropiper C16H(107S03K, chất pecsicarin-7-metyleste
+Hình 220. Nghể - Polygonum hydropiper C₁₆H(107S03K, chất pecsicarin-7-metyleste
 
-### C„H“O7SO3K.
+### C„H“O₇SO₃K.
 
 Chất hyperin tan trong nước, độ chảy 236- 238u.
 
@@ -2206,7 +2206,7 @@ c—0—galactoia
 
 Ramnaxirt Hyperin
 
-o /j s OCH3 « Q ‘ ■ -0CH3
+o /j s OCH₃ « Q ‘ ■ -0CH3
 
 H0_f^NỊ^ 1 ỵ>-°H X°ỴỴ w ^-OH
 
@@ -2220,7 +2220,7 @@ chính thức, dùng dưới hình thức cao lỏng, thuốc pha làm thuốc s
 
 Gđn đây nhân dân Trung Quốc và Việt Nam phát hiện thày nghể có tác dụng diệt dòi và bọ gậy: Nước ngâm 5% diệt 80% bọ gây hoặc diệt 50% dòi sau 3 ngày (72 giờ). Bọ gậy sẽ sinh ra
 
-Tco CO-SO3K ÒH
+Tco CO-SO₃K ÒH
 
 Pecsĩcarìn
 

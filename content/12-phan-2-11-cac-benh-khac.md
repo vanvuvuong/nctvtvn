@@ -458,9 +458,9 @@ Cây bát giác liên mọc phổ biến ở những rừng ẩm thấp vùng n�
 
 #### C. Thành phần hoá học
 
-Trong loài bất giác liên Dysosma pìeìantha (Hance) Woodson người ta chiết được podophyl- lotoxin C,:H22Os, desoxypodophyllin C22H2207, astragalin, hyperin, quexetin, kaempíeritrin
+Trong loài bất giác liên Dysosma pìeìantha (Hance) Woodson người ta chiết được podophyl- lotoxin C,:H₂₂Os, desoxypodophyllin C₂₂H₂₂₀₇, astragalin, hyperin, quexetin, kaempíeritrin
 
-C27H30O14 và (3 sitosterol (Dược học học báo, 1962,82,777):
+C₂₇H₃₀O₁₄ và (3 sitosterol (Dược học học báo, 1962,82,777):
 
 #### D. Công dụng và liều dùng Hiện nay ở nước ta ít sử dụng, nhưng nơi nào đùng thường chỉ đề chữa rắn cắn sưng tấy, áp
 
@@ -928,7 +928,7 @@ Còn dùng lá tươi làm thuốc.
 
 #### C. Thành phần hoá học
 
-Trong toàn thân cây bóng nước có axit p- hydroxybenzoic có tính chất kháng sinh, axit gentisic C7H604, axìt ferulìc C10HlữO4, axit p~ cumaric C,,H803, axit sinapic CnHJ205, axit caíeic CsH804, ngoài ra còn scopoletin C10HgO4 (Hegnauer R Chemỡtaxonomie der Pflanzen (III), 1964, 230).
+Trong toàn thân cây bóng nước có axit p- hydroxybenzoic có tính chất kháng sinh, axit gentisic C₇H₆₀₄, axìt ferulìc C10HlữO4, axit p~ cumaric C,,H803, axit sinapic CnHJ₂₀₅, axit caíeic CsH₈₀₄, ngoài ra còn scopoletin C₁₀HgO₄ (Hegnauer R Chemỡtaxonomie der Pflanzen (III), 1964, 230).
 
 Lá chứa axit xìnnamic (nhục quế toan) kaempíerol- 3 arabinozit và kaempíerol) (C. Ấ., 1971, 75, 31277y)
 
@@ -940,7 +940,7 @@ Hạỉ chứa 17,9% chất béo. Trong chất béo có
 
 Hình 437. Bóng nước - ỉmpatiens baỉsamina
 
-thành phần chủ yếu ìà axit parinaric hay axit A9, 10, 13, 15, -octadecatetraenoic Cl8H2gO? (khoảng 27%) balsaminasterol C17H4Q0 (Hegnauer R., 1964). Ngoài ra còn có oc sipínaterol C29H4eO (khoảng 0,015%) (C. A,, 1973, 79, 2744a và c. A. ,1954, 48, 13835a), saponin, các đa đường (khi thủy phân cho glucoza và fructoza) ( c. A.t 1971, 74, 72872m).
+thành phần chủ yếu ìà axit parinaric hay axit A9, 10, 13, 15, -octadecatetraenoic Cl8H2gO? (khoảng 27%) balsaminasterol C₁₇H₄Q₀ (Hegnauer R., 1964). Ngoài ra còn có oc sipínaterol C29H4eO (khoảng 0,015%) (C. A,, 1973, 79, 2744a và c. A. ,1954, 48, 13835a), saponin, các đa đường (khi thủy phân cho glucoza và fructoza) ( c. A.t 1971, 74, 72872m).
 
 Hoa chứa lawsone C)0H6O3, lawsonemetylete CnHfi03. Ngoài ra còn tùy theo màu sắc của hoa mà thành phần thay đổi: Hoa trắng chứa Ieucocyanidin, leucodelphinidin, hoa tím chứa malvidin glucozit, hoa đỏ chứa pelargonidin, paeonidin và delphinidin dưói dạng clucozit. Dịch ép của hoa bóng nước có tác dụng kháng sinh mạnh.
 
@@ -1186,7 +1186,7 @@ Chú thích:
 
 Buddỉein
 
-bàng axit suníuric, sẽ được ramnoza, glucoza và buddleoílavonola C15H|406, nếu thuỷ phân kiểm sẽ được phlorogluxinola ,axit anisic và axeton (theo Wehmer, 1935, Die Pflanzenstoffe, Ergatìĩungsbanả).
+bàng axit suníuric, sẽ được ramnoza, glucoza và buddleoílavonola C₁₅H|406, nếu thuỷ phân kiểm sẽ được phlorogluxinola ,axit anisic và axeton (theo Wehmer, 1935, Die Pflanzenstoffe, Ergatìĩungsbanả).
 
 D. Còng dụng và liều dùng
 
@@ -1224,11 +1224,11 @@ Thường người ta dùng hoa tự hái vào mùa hè và thu. Có nơi dùng 
 
 #### C. Thành phần hoá học
 
-Trong cụm hoa cũng như trong toàn cây có chứa một tinh dầu mùi cay hăng. Thành phấn chủ yếu của tinh dầu lạ chất spilanten C1?HJ0 (một chất tecpen đặc biệt) và một chất rượu gọi là spilantola C37HMN20. Từ 5kg cụm hoa, các tác giả Nhật Bản, Ý Asahina và M. Asens (Năm 1920), đã lấy ra được 50g spilantola thô. Chất này tác dụng với axit clohydric cho một bazơ gọi là ísobutylamin có cống thức C4HMN.
+Trong cụm hoa cũng như trong toàn cây có chứa một tinh dầu mùi cay hăng. Thành phấn chủ yếu của tinh dầu lạ chất spilanten C1?HJ₀ (một chất tecpen đặc biệt) và một chất rượu gọi là spilantola C₃₇HMN₂₀. Từ 5kg cụm hoa, các tác giả Nhật Bản, Ý Asahina và M. Asens (Năm 1920), đã lấy ra được 50g spilantola thô. Chất này tác dụng với axit clohydric cho một bazơ gọi là ísobutylamin có cống thức C₄HMN.
 
-Hydrô hoá, spilantola sẽ cho hydrospilantola. Dưới tác dụng của hơi axit clohydric ép, hydrospilantola cho isobutylamin và một hồn hợp axit béo: axit dexylic C10H2(]O2 và axit nonylic
+Hydrô hoá, spilantola sẽ cho hydrospilantola. Dưới tác dụng của hơi axit clohydric ép, hydrospilantola cho isobutylamin và một hồn hợp axit béo: axit dexylic C₁₀H₂(]O2 và axit nonylic
 
-C9H18O2.
+C₉H₁₈O₂.
 
 #### D. Công dụng và liều dùng
 
@@ -1318,15 +1318,15 @@ Người ta dùng nhựa cây xương rồng cành xương rồng bóc bỏ vò,
 
 c. Thành phán hoá học
 
-Thân xương rồng chứa Medelan 3aol CMH520, epi-fredelinol, friedelan 3fk>l CMH520, a taraxerol CmH50O và p taraxerol (C.A, 1967, 67, 73702y).
+Thân xương rồng chứa Medelan 3aol CMH₅₂₀, epi-fredelinol, friedelan 3fk>l CMH₅₂₀, a taraxerol CmH₅₀O và p taraxerol (C.A, 1967, 67, 73702y).
 
-Nhựa xương rồng chứa 3 amyrin C30H5CO,
+Nhựa xương rồng chứa 3 amyrin C₃₀H₅CO,
 
 ##### TODO: thêm hình ảnh
 
 Hình 445. Xương róng - Euphorbia antiquorum
 
-xycloartenol CMH50O, euphol Ỵ-euphorbol và a eúphorbol C31H520 (CA, 1971, 74, 108L06f)
+xycloartenol CMH₅₀O, euphol Ỵ-euphorbol và a eúphorbol C₃₁H₅₂₀ (CA, 1971, 74, 108L06f)
 
 Toàn thân cây chứa axit xitric, axit tactric và axit íumaric
 
@@ -1684,7 +1684,7 @@ Trong quả chứa 0,001% ancaloit, 3,5% chất béo, một ít tình dầu, ch�
 
 Tribuìozit
 
-Quả và lá còn chứa tribulozít C30H26Ol3, độ chảy 224-226"C, aD30-81"3 (CH3OH) astragalin, kaempferol-3-rutinozit, (Bhutani s. p. et ah, Phy- tochemisíry, ] 969, 8, 299). Còn chứa các ancaloit harman CI3H1UN2 (0,008%) và harmìn C13H12ON3 (0,002%) (C. v4.,1969, 71, 57567k), một ít tinh dầu. Theo Tomowa M. et al (Pỉanta Medica, 1974, 25, 231) thì bộ phận trên mặt đất có teưestoziy F. (hay saponin F) là tigogenin-3- diglucorhamnozit, ngoài ra còn saponin c và G khi thủy phan được diosgenin, glucoza và rhamnoza. Toàn càv chứa gitogenin, chlorogenin, ruscogenin, 25-D-spirosta-3,5- dien.
+Quả và lá còn chứa tribulozít C₃₀H₂₆Ol₃, độ chảy 224-226"C, aD30-81"3 (CH₃OH) astragalin, kaempferol-3-rutinozit, (Bhutani s. p. et ah, Phy- tochemisíry, ] 969, 8, 299). Còn chứa các ancaloit harman CI₃H₁UN₂ (0,008%) và harmìn C₁₃H₁₂ON₃ (0,002%) (C. v4.,1969, 71, 57567k), một ít tinh dầu. Theo Tomowa M. et al (Pỉanta Medica, 1974, 25, 231) thì bộ phận trên mặt đất có teưestoziy F. (hay saponin F) là tigogenin-3- diglucorhamnozit, ngoài ra còn saponin c và G khi thủy phan được diosgenin, glucoza và rhamnoza. Toàn càv chứa gitogenin, chlorogenin, ruscogenin, 25-D-spirosta-3,5- dien.
 
 ### RUỐI
 
@@ -1856,7 +1856,7 @@ Trong tất bạt có piperin C]7H|905N, n- izobutyldeca-trans 2-trans4-dienamid
 
 Trong thân tất bạt có 0,15-0,18% piperin,
 
-0, 13-0,2% piplartin C17H1905N
+0, 13-0,2% piplartin C₁₇H₁₉₀₅N
 
 ##### TODO: thêm hình ảnh
 
@@ -1974,7 +1974,7 @@ Cây này còn thấy mọc ở miền nam Trung Quốc tại các tỉnh Quản
 
 Hạt cây sừng đê mọc ở Trung Quốc đã được một tác giả Trung Quốc Chu Nhiệm Hoàng nghiên cứu từ năm 1940 (Sapogenins oỷchinese Drug Yang Chiaoou, Trung hoa sình lý học tạp chí, 15: 309) đã thấy ngoài 37% chất dầu còn có chừng 1,8% một chất saponoát không có tinh thể, sau khi dùng axit để thủy phân thì thu được 3 loại sapogenìn có tinh thể là strophantilin A có công thức độ
 
-chảy 205-206"C, strophantilin B có công thức CM HM04 với độ chày 289-29 l°c và strophantilin c vói công thức C]gR,604 độ chảy 305-307°C.
+chảy 205-206"C, strophantilin B có công thức CM HM₀₄ với độ chày 289-29 l°c và strophantilin c vói công thức C]gR,604 độ chảy 305-307°C.
 
 Nhưng đến năm 1953 (Trung Hoa y học tạp chí, 43:1), hai tác giả khác là Schindler và Reichstein đã chiết từ hạt cây sừng dê mọc ở Trung Quốc hai chất glucoãt và đặt tên là divaricoát và caudoát.
 

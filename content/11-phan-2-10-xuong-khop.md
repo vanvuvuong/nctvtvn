@@ -218,7 +218,7 @@ c. Thành phẩn hoá học
 
 Trong bắp cải có 90% nước, 1,8% protit, 5,4% gluxit, 1,6% xenluloza, 1,2% tro. Hàm lượng
 
-(CHa - s - CH - CH2 - Cih - CH - COOH
+(CHa - s - CH - CH₂ - Cih - CH - COOH
 
 CHa
 
@@ -436,7 +436,7 @@ Dùng toàn cây hay chỉ hái lá. Thường dùng tươi; Hái vào lúc cây
 
 #### C. Thành phần hoá học
 
-Toàn cây chứa tinh dầu. Trong tinh dáu có thành phần chủ yếu là metyl-n-nonylxeton. Lá còn chứa quexitrin, và hyperin C2|H20O12 và izoquexitrozit.
+Toàn cây chứa tinh dầu. Trong tinh dáu có thành phần chủ yếu là metyl-n-nonylxeton. Lá còn chứa quexitrin, và hyperin C2|H₂₀O₁₂ và izoquexitrozit.
 
 #### D. Tác dụng dược lý
 
@@ -780,7 +780,7 @@ Hình 384. Tỳ gĩdĩ - Dioscorea tokoro
 
 axetic, có thể cho tủa như digitalin.
 
-Ngoài ra, diosgenin kết hợp với một phân tử glucoza thì sẽ cho trilin C33H52Os, khi kết hợp với 2 phân tử glucoza thì sẽ cho trilarin C„HwO|3 vốn có trong cây Trillium erecíum.
+Ngoài ra, diosgenin kết hợp với một phân tử glucoza thì sẽ cho trilin C₃₃H₅₂Os, khi kết hợp với 2 phân tử glucoza thì sẽ cho trilarin C„HwO|3 vốn có trong cây Trillium erecíum.
 
 Diosgenin là một saponin stcrolic.
 
@@ -844,7 +844,7 @@ Hình 385. Vòi voi - Heliotropium indicum
 
 inđixin C[5H250,N {theo J. Chem. Soc., 12: 5.400 - 5.463, 1961)
 
-Nâm 1969, người ta phát hiện trong một sô' loài Heliotropium như H. lasiocarpum Fish et Mey, một số ancaloit có nhân pyrolizidinn (như héliotrin, độ chảy 125-126°c, ữD-75° (CHC1?) và lasiocarpine, độ chảy 95°-97°C, 0^-4“) ụ. M. Gourley et. Chem. Cõmmum, 1969) có độc tính cao đối với gan và gây huỷ hoại tổ chức gan, đau bụng, ỉa chảy, xuất huyết lan tỏa và có thể gây ung thư.
+Nâm 1969, người ta phát hiện trong một sô' loài Heliotropium như H. lasiocarpum Fish et Mey, một số ancaloit có nhân pyrolizidinn (như héliotrin, độ chảy 125-126°c, ữD-75° (CHC₁?) và lasiocarpine, độ chảy 95°-97°C, 0^-4“) ụ. M. Gourley et. Chem. Cõmmum, 1969) có độc tính cao đối với gan và gây huỷ hoại tổ chức gan, đau bụng, ỉa chảy, xuất huyết lan tỏa và có thể gây ung thư.
 
 Tính chất độc này thường không thể hiện ngay khi dùng, mà thường xuất hiện một cách âm ỉ, kéo dài, khó phát hiện. Trên cơ sở đó, Tổ chức y tế thế giới có khuyến cáo khỏng nên dùng vòi voi làm thuốc và Bộ y tế Việt Nam (1985) cũng đã có chỉ thị cần thận trọng khi dùng vòi
 
@@ -1000,7 +1000,7 @@ vào mùa thu (tháng 8-9), có nơi thu hái vào các tháng 2-3. Đào về, 
 
 #### C. Thành phần hoá học
 
-Trong rẻ cày này có antraglucozit chủ yếu là émodin hay rheum emodin C)5H10O5, emodin monometyl ète C]fiH1205 dưới dạng tự do và kết hợp. Ngoài ra còn có chất polygonin C21H20OIO và tanin.
+Trong rẻ cày này có antraglucozit chủ yếu là émodin hay rheum emodin C)5H10O5, emodin monometyl ète C]fiH1205 dưới dạng tự do và kết hợp. Ngoài ra còn có chất polygonin C₂₁H₂₀OIO và tanin.
 
 #### D. Công dụng và liều dùng
 
@@ -1264,7 +1264,7 @@ Vào các tháng 9-10, người ta đi đào rễ về, cắt bỏ rễ con, có
 
 #### C. Thành phần hoá học
 
-Từ vị phòng kỷ này người ta đã chiết xuất được nhiều ancaloit khác nhau, trong đó chủ yếu là tetrandrin C3KH42N206, demetyl tetrandrin và một ancaloit có tính chất phenol với công thức C32H4206N2.
+Từ vị phòng kỷ này người ta đã chiết xuất được nhiều ancaloit khác nhau, trong đó chủ yếu là tetrandrin C₃KH₄₂N₂₀₆, demetyl tetrandrin và một ancaloit có tính chất phenol với công thức C₃₂H₄₂₀₆N₂.
 
 #### D. Tác dụng dược lý
 
@@ -1298,7 +1298,7 @@ Mùa thu, đào rễ về, cạo vỏ ngoài hay không, cắt thành từng đo
 
 #### C. Thành phần hoá học
 
-Trong quảng phòng kỳ, người ta cũng đã tìm thấy một số ancaloit, chủ yếu là muíongchin A: C32H24OnN.,, mufongchin B: C14H22OnN14 và muíongchin C: ClsH2|O|0-
+Trong quảng phòng kỳ, người ta cũng đã tìm thấy một số ancaloit, chủ yếu là muíongchin A: C₃₂H₂₄OnN.,, mufongchin B: C₁₄H₂₂OnN₁₄ và muíongchin C: ClsH2|O|0-
 
 #### D. Công dụng và liều dùng
 
@@ -1506,7 +1506,7 @@ Cây mọc phổ biến ở những vùng núi cao miền Bắc nước ta, như
 
 #### C. Thành phần hoá học
 
-Trong ỉá có tanin, acbutin và gauntherĩn. Acbutin (còn có tên acbutozit) C12H)6070H, có tinh thể hình kim dài không màu, vị đắng, chảy ở l96nC, dễ tan trong nước sôi, trong cồn, ít tan trong ète, khi bị thủy phân bằng men emunsìn hay bằng axit sunfuric sẽ cho glucoza và hydroquinon:
+Trong ỉá có tanin, acbutin và gauntherĩn. Acbutin (còn có tên acbutozit) C₁₂H)6070H, có tinh thể hình kim dài không màu, vị đắng, chảy ở l96nC, dễ tan trong nước sôi, trong cồn, ít tan trong ète, khi bị thủy phân bằng men emunsìn hay bằng axit sunfuric sẽ cho glucoza và hydroquinon:
 
 Dung dịch trong nước thêm clorua sắt 3 sẽ cho màu xanh.
 

@@ -802,7 +802,7 @@ Năm 1937, hai tác giả là Hutchins và Swith đã dùng nhũ dịch 15% men 
 
 Năm 1956, Chu Hàng Bích và một sổ tác giả khác (Trung Quốc sinh lý khoa học hội, 1956) dùng dung dịch trực trùng côli tiêm dưới da gây sốt cho mèo và thỏ rồi thí nghiệm tác dụng chữa sốt của đạm trúc diệp thì thấy với liều 2g trên 1kg thể trọng, đạm trúc diệp có tác dụng chữa sốt ngang với liều 33mg phenaxetin cho 1kg thể trọng. Ngoài ra lại còn có tác dụng lợi tiểu và tăng lượng đường trong máu.
 
-Đối với chuột nhắt, liều độc LD50 là 0,645g trên 10g thể trọng.
+Đối với chuột nhắt, liều độc LD₅₀ là 0,645g trên 10g thể trọng.
 
 #### E. Công dụng và liều dùng
 

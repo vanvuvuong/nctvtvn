@@ -150,7 +150,7 @@ D. Còng dụng và liều dùng
 
 Hiện nay có thể dùng làm nguyên liệu chiết solasodin.
 
-Tơ UYN
+### Tơ UYN
 
 (Kontum).
 
@@ -210,7 +210,7 @@ thương (Cứu quốc, 27-8-1967).
 
 Cách dùng như sau: Dùng lkg dây lân tơ uyn bỏ lá, cạo hết rễ, rửa sạch, bàm nhỏ, cho vào 3 lít nước đun sói trong ba giờ. Lọc qua khăn vải và cô lại còn 700ml dung dịch. Nước lân tơ uyn ở độ đậm này khi đắp vào vết thương, thương binh chỉ có cảm giác xót thoảng qua như rửa nước muối ưu trương trong lần thay băng đầu. Những ngày sau thì hết xót. Không nên dùng nước lân tơ uyn quá đặc, càng không nên dùng cao lân tơ uyn vì khi đắp Lên vết thương rất xót và gây phản ứng xấu tại chõ (xót, sưng, đỏ). Nước lân tơ uyn lẽn mốc, đổi màu, có vị chua. Khi dùng như sau: rửa vết thuơng bằng nước muối (nếu có nhiều lân tơ uyn thì dùng nước lân tơ uyn rửa càng tốt). Dùng miếng gạc tẩm nước lân tơ uyn đắp lên vết thương xong bàng lại và cách 2-3 ngày lại thay báng một lần, tùy mức độ mủ nhầy ở vết thương.
 
-LU LU ĐỰC >ỷ &ti,&
+### LU LU ĐỰC >ỷ &ti,&
 
 _Còn gọi là thù lù đực, gia cầu, nút áo, hiên già nhi miêu, morelle noire, raisin de oup, herbe au magicien._
 
@@ -302,7 +302,7 @@ D. Còng dụng và liều dùng
 
 Muồng truổng là một vị thuốc còn nằm trong phạm vi kinh nghiệm nhân dân. Người ta thường lấy rễ về sao vàng sắc đặc mà uống để chữa mẩn ngứa, lở loét, chảy nước. Mỗi ngày uổng 6 đến 12g rễ khô. Dùng ngoài không kể liều lượng để nước tắm khi bị mẩn ngứa, lở loét, ghẻ. Một số nơi dùng lá nấu ăn.
 
-RONG Mơ ỉệ%
+### RONG Mơ ỉệ%
 
 _Còn gọi là loại rau ma vĩ, rau ngoai, rau mơ - hải tảo, rong biển._
 
@@ -458,13 +458,13 @@ OCHa o CHa OCHa o CHa
 
 Eỉeutherin hoeíeutherin
 
-CH3O OH CHa
+CH₃O OH CHa
 
 CO
 
 Eleuíherola
 
-C16H|e04 độ chẩy 177°, eleutherola C14Hl204 độ chảy 202-203“ và một chất chưa xác định được đặt tên là Ex. sác ký lớp mỏng của dịch chiết còn cho biết có 16 vết trong đó 9 vết màu vàng đậm nhạt khác nhau, 6 vết phát quang lơ và một vết màu hồng nhạt. Cả 3 hoạt chất đều có tác dụng kháng sinh đối với chủng Staphyỉlococ-cus aureus.
+C₁₆H|e04 độ chẩy 177°, eleutherola C₁₄Hl₂₀₄ độ chảy 202-203“ và một chất chưa xác định được đặt tên là Ex. sác ký lớp mỏng của dịch chiết còn cho biết có 16 vết trong đó 9 vết màu vàng đậm nhạt khác nhau, 6 vết phát quang lơ và một vết màu hồng nhạt. Cả 3 hoạt chất đều có tác dụng kháng sinh đối với chủng Staphyỉlococ-cus aureus.
 
 #### D. Tác dụng dược lý
 
@@ -576,7 +576,7 @@ hay dùng các vị sau đây:
 
 Đông y dùng một dược để chế một số cao dán nhọt có tính chất hoại huyết, giảm đau, tiôu thũng. Có khi dùng làm thuốc điều kinh. Tây y dùng ưong công nghiệp nước hoa, thuốc bổ, trấn kinh. Uống trong với liều 0,20 đến 2g.
 
-2. Nhũ hương (Mastic hay Olibanum) là chất nhựa dầu lấy ở cây nhũ hương (Pistacia lenticus L) thuộc bọ Đào lộn hột (Anacardiaceae). Vì chất nhựa cây này chảy xuống đông thành hình giọt như đầu vú lại có mùi thơm do đó có tên (nhũ: vú, hương: mùi thơm). Cây này cũng chưa có ở nước ta. Trước đây ta phải nhập của Trung Quốc, nhưng Trung Quốc cũng nhập từ một số nước ven Địa trung hải. Trong nhũ hương có 90% hỗn hợp axit mastixic C20H32O2, axit masticolic, và một ít masticaresen. Ngoài ra có khoảng 2% tinh dầu mùi long não ưong đó chủ yếu là d.pinen. Nhũ hương thường dùng chế thuốc cao dán nhọt chữa đau sưng tiêu độc. Còn dùng trong công nghiệp chế vecni.
+2. Nhũ hương (Mastic hay Olibanum) là chất nhựa dầu lấy ở cây nhũ hương (Pistacia lenticus L) thuộc bọ Đào lộn hột (Anacardiaceae). Vì chất nhựa cây này chảy xuống đông thành hình giọt như đầu vú lại có mùi thơm do đó có tên (nhũ: vú, hương: mùi thơm). Cây này cũng chưa có ở nước ta. Trước đây ta phải nhập của Trung Quốc, nhưng Trung Quốc cũng nhập từ một số nước ven Địa trung hải. Trong nhũ hương có 90% hỗn hợp axit mastixic C₂₀H₃₂O₂, axit masticolic, và một ít masticaresen. Ngoài ra có khoảng 2% tinh dầu mùi long não ưong đó chủ yếu là d.pinen. Nhũ hương thường dùng chế thuốc cao dán nhọt chữa đau sưng tiêu độc. Còn dùng trong công nghiệp chế vecni.
 
 VẠN NIÊN THANH -£
 
@@ -824,7 +824,7 @@ Theo v/allach Theo Thomas
 
 Định lượng atcaridoỉ: Muốn định lượng atcaridol, ta dựa trên tính chất oxy hóa của nó. Trong tinh dầu hòa tan vào axit axêtic ở mồi trường axit clohydric, chất atcarídol giải phóng iốt của kali iođua theo tỷ lệ thuận. Định lượng iốt giải phóng ta có thể tính được lượng atcaridol.
 
-Cách tiến hành: Loại hết nước trong tinh dầu bằng cách ngâm với Na2S04 khan, lấy một trọng lượng Pg chừng 2,5g tinh dầu cân thật đúng, hòa lan vào ưong một lượng axit axêtic kết tình được để có thể đủ một thể tích tổng số là 50ml.
+Cách tiến hành: Loại hết nước trong tinh dầu bằng cách ngâm với Na₂S₀₄ khan, lấy một trọng lượng Pg chừng 2,5g tinh dầu cân thật đúng, hòa lan vào ưong một lượng axit axêtic kết tình được để có thể đủ một thể tích tổng số là 50ml.
 
 Trộn 3ml dung dịch KI (có 83g KI trong lOOml) với 5ml HO đặc (TO và lOml axìt axêtic kết tinh được (Tt).
 
@@ -918,11 +918,11 @@ Ngoài ra còn chất gòm, các chất hữu cơ, chất đường 19-20% axit 
 
 Năm 1952, Trần Tử Nghĩa và Lý Chính Hoa (1952. Trung hoa y học tạp chí, 38. 4. 319- 321) đã báo cáo chiết từ nhân sử quân tử muôi
 
-kali cùa axit quisqualic CJ0H O10N K3 có tác dụng diệt giun. Axit quisqualic có phản ứng axit mạnh, nhưng muối natri của axit quisqualic (dùng cacbonat axit để trung hòa) thì không có tác dụng mạnh trên giun.
+kali cùa axit quisqualic CJ₀H O₁₀N K3 có tác dụng diệt giun. Axit quisqualic có phản ứng axit mạnh, nhưng muối natri của axit quisqualic (dùng cacbonat axit để trung hòa) thì không có tác dụng mạnh trên giun.
 
 Năm 1958, Hoàng Trung Nghi (Giang lây Trung y dược, 2: 52-56) đã báo cáo dựa trên độ kiểm của tro sử quân tử để định lượng tác dụng mạnh yếu trừ giun của sử quân tử, đã đi tới kết luận là dung môi tốt nhất để chiết hoạt chất của sử quân tử là nước, cổn 45n kém hơn, cồn 95° hầu như không chiết được chút nào.
 
-N-CH2—CH—COOH ọ^co
+N-CH₂—CH—COOH ọ^co
 
 l
 
@@ -1022,7 +1022,7 @@ O
 
 ÓT
 
-N—CH\*--C!H—COOH NH2
+N—CH\*--C!H—COOH NH₂
 
 Leuxenin = leuxenola — mimosin
 
@@ -1084,13 +1084,13 @@ Mùa thu đông đào củ về rửa sạch phơi hay sấy khô.
 
 c. Thành phán hóa học
 
-Ngoài các chất như gluxit (2,3%), lipit (0,83%), protit (9%), các a xít hữu cơ v.v... ưong rễ bách bộ người ta đã lấy ra được nhiều ancalôit. Chủ yếu là stemonin (0,18%) C22H33N04, có tinh thể hình kim, mềm rất nhẹ, không mùi, vị đắng, độ
+Ngoài các chất như gluxit (2,3%), lipit (0,83%), protit (9%), các a xít hữu cơ v.v... ưong rễ bách bộ người ta đã lấy ra được nhiều ancalôit. Chủ yếu là stemonin (0,18%) C₂₂H₃₃N₀₄, có tinh thể hình kim, mềm rất nhẹ, không mùi, vị đắng, độ
 
 ##### TODO: thêm hình ảnh
 
 Hình 114. Bách bộ - Stemona tuberosa chảy 160°.
 
-Ngoài ra, còn có các ancalôit khác như tuberstemonin Cl9H29N04, stemonidin CnH27N05, paipunin và sinostemonin.
+Ngoài ra, còn có các ancalôit khác như tuberstemonin Cl₉H₂₉N₀₄, stemonidin CnH₂₇N₀₅, paipunin và sinostemonin.
 
 #### D. Tác dụng dược lý
 
@@ -1182,13 +1182,13 @@ Kulinon
 
 Theo một tác giả Nhật Bản (Trung Lâm Lợi
 
-Bình Dược học tạp chí 1952, 72 (5): 717-718) thì thành phần diệt giun trong vỏ xoan là một chất có tinh thể hình kim không màu, có cổng thức thò là C9H304, độ chảy 154"C. Trong vỏ xoan công thức C30H3gOu, aD29M3°l (axeton), phổ hồng ngoại u max cm 1 3472 (OH), 1712, 1656 (>c=0), 1742, 1242 (CH^COO ), 1932 (vòng oxy) và 1515, 833 (vòng furan). Phổ hấp thụ tử
+Bình Dược học tạp chí 1952, 72 (5): 717-718) thì thành phần diệt giun trong vỏ xoan là một chất có tinh thể hình kim không màu, có cổng thức thò là C₉H₃₀₄, độ chảy 154"C. Trong vỏ xoan công thức C30H3gOu, aD29M3°l (axeton), phổ hồng ngoại u max cm 1 3472 (OH), 1712, 1656 (>c=0), 1742, 1242 (CH^COO ), 1932 (vòng oxy) và 1515, 833 (vòng furan). Phổ hấp thụ tử
 
 Meỉia azedarach L., có chất kulinon độ chảy 138°c, (a)D-20°, kulacton độ chảy 163-164°5C, (a)D-58c và kulolacton (CX)D-42“, tất cả đều là dẫn xuất của euphan:
 
 Trong quá xoan có các thành phần thuộc loại tetraxyclotritecpen, trong khi đó trong vỏ có những thành phần hơi khác và thuộc loại kanzÌol (hay tirucallol) như melianol, độ chảy 194-5°c, (a)D-38° (trong cloroíòc), melianon độ chảy 223- 4°c (kết tinh trong axeton-pentan) hoặc độ chảy 232-3°C (nếu kết tinh trong clorofoc - pentan), melianodiol, độ chảy 230-2°C, (a)D-60° (trong clorofoc) và melianotriol độ chảy 176-8°c, (C()D- 23° (trong clorofoc) (theo D. Levie và cộng sự J. Chem. Soc. Org. 1967, 1347 và Chem. Commun. 1967, 910).
 
-Ngoài những chất thuộc loại tetraxyclotecpen đã nói ở trên, còn có những chất đấng (khổ vi tổ) gọi chưng là ‘"luyện khổ vị tô' “ đều là những chất giáng hóa từ những thành phần thuộc loại tritecpen. Ví dụ từ vỏ thân cây xoan Melia azedarach mọc ở Quảng Tây (Trung Quốc) đã chiết được hai loại tinh thể, một loại chủ yếu gọi là "khổ vị lỡ" có độ chảy 244-245°C, (phân hủy) ngoại x°'annl 2J3nm (log£ 3,56) chứng minh rằng chất này cũng là một chất với toosendanin chiết từ vỏ cây xoan Tứ Xuyên Me lia toosendan Sieb. et Zucc (xuyên luyện), và Là hoạt chất chủ yếu có tác dụng trừ giun. Một chất “khổ vị tố “ tinh thể nữa có công thóc C31H40O12, độ chảy 264-5°C (phân hủy), CCD30-17°, phổ hấp thụ tử ngoại X c“no1 213 nm (loge, 3,96) chứng tỏ có khả năng có công thức cấu tạo gần như toosendanin hoặc dẫn xuất của nó. Cả hai loại tinh thể này đều có tác dụng trên giun nhưng tác dụng của toosendanin tốt hơn. Trong vỏ rẽ của xuyên luyện (Melia toosendan) cũng có toosendanin, nhưng hàm lượng trong vỏ rễ cao hơn vỏ thân.
+Ngoài những chất thuộc loại tetraxyclotecpen đã nói ở trên, còn có những chất đấng (khổ vi tổ) gọi chưng là ‘"luyện khổ vị tô' “ đều là những chất giáng hóa từ những thành phần thuộc loại tritecpen. Ví dụ từ vỏ thân cây xoan Melia azedarach mọc ở Quảng Tây (Trung Quốc) đã chiết được hai loại tinh thể, một loại chủ yếu gọi là "khổ vị lỡ" có độ chảy 244-245°C, (phân hủy) ngoại x°'annl 2J3nm (log£ 3,56) chứng minh rằng chất này cũng là một chất với toosendanin chiết từ vỏ cây xoan Tứ Xuyên Me lia toosendan Sieb. et Zucc (xuyên luyện), và Là hoạt chất chủ yếu có tác dụng trừ giun. Một chất “khổ vị tố “ tinh thể nữa có công thóc C₃₁H₄₀O₁₂, độ chảy 264-5°C (phân hủy), CCD₃₀-17°, phổ hấp thụ tử ngoại X c“no1 213 nm (loge, 3,96) chứng tỏ có khả năng có công thức cấu tạo gần như toosendanin hoặc dẫn xuất của nó. Cả hai loại tinh thể này đều có tác dụng trên giun nhưng tác dụng của toosendanin tốt hơn. Trong vỏ rẽ của xuyên luyện (Melia toosendan) cũng có toosendanin, nhưng hàm lượng trong vỏ rễ cao hơn vỏ thân.
 
 Trong quả xoan Tứ Xuyên (xuyên luyện) (Melia toosendan) còn có Ân khổ luyện tử tố (Azadừachtin), chất này cũng thấy trong quả của cây xoan Ân Độ (Melia azedarachta L.) và có công thức C29Hw01ế độ chảy 155-8°c, (a)D-53° (trong clorofoc) cũng có tác dụng trừ giun. Phương pháp chiết hai loại tinh thể khổ vị tố ưong vỏ xoan có thể trình bày ờ sơ đồ sau.
 
@@ -1466,15 +1466,15 @@ Ngoài ra còn chứa các chất ancaloit:
 
 Peletierin CgH|5ON
 
-Ịsopeletierin CaHl5ON
+Ịsopeletierin CaHl₅ON
 
 Cả hai khồng bị NaHCOj đẩy là vì ancaloit có
 
 N bậc 2.
 
-Metylpeletierin C8HM(CH3)ON
+Metylpeletierin C₈HM(CH₃)ON
 
-Pseudopeletierin C9H15ON
+Pseudopeletierin C₉H₁₅ON
 
 (bị NaHCO, đẩy là vì ancaloit có N bậc 3).
 
@@ -1512,7 +1512,7 @@ Peletierin kích thích cả cơ trcm và cơ vân.
 
 Ũ Clĩa
 
-CH2
+CH₂
 
 co
 
@@ -1594,7 +1594,7 @@ Trong hạt có tanin. Tỷ lệ tanin trong hạt non chừng 70% nhưng khi ch
 
 Ngoài ra còn chất mỡ (14%) với thành phần chủ yếu gồm: myristin 1/5, olein 1/4, laurin 1/2, các chất đường: sacaroza, mannan, galactan 2% và muối vò cơ.
 
-Hoạt chất chính là 4 ancaloit: Arecolin, arecaidin C7HnN02, guvaxin C^HyNO., và guvacolin C7HnN03, Arecolin (hay CH3 arecaidin) C8H13N02 chiếm chừng 0,1- 5,0%.
+Hoạt chất chính là 4 ancaloit: Arecolin, arecaidin C₇HnN₀₂, guvaxin C^HyNO., và guvacolin C₇HnN₀₃, Arecolin (hay CH₃ arecaidin) C₈H₁₃N₀₂ chiếm chừng 0,1- 5,0%.
 
 #### D. Tác dụng dược lý
 
@@ -1782,7 +1782,7 @@ Tại nước ta, chưa tiến hành một cuộc điều tra nào về vị qu�
 
 Do nguồn gốc hồn loạn cho nên thành phần
 
-hóa học cần xác minh lại. Theo Dược học tạp chí (Nhật 39: 905, 1920) trong Đông bắc quán chúng có íìlixin, nimaron C47HJ(.Ol6, albaspidin Cỉ5H3808. Fiỉixin thủy phân sẽ cho axit filixic và aspidinola C)2Hlfi04, ngoài ra còn axit íĩlmaric, chất béo.
+hóa học cần xác minh lại. Theo Dược học tạp chí (Nhật 39: 905, 1920) trong Đông bắc quán chúng có íìlixin, nimaron C₄₇HJ(.Ol6, albaspidin Cỉ5H3808. Fiỉixin thủy phân sẽ cho axit filixic và aspidinola C)2Hlfi04, ngoài ra còn axit íĩlmaric, chất béo.
 
 #### D. Công dụng và liều dùng
 
@@ -1844,7 +1844,7 @@ Mắc nưa cũng như cây mun chủ yếu được trồng để lấy gỗ và
 
 Trong quả mặc nưa có hợp chất hydroquinon, tanin (khoảng 10% tanin catechic), hợp chất sterolic, axit hữu cơ, men invectín và men emunsin, không có men oxydaza, cũng không có ancaloit và ílavon.
 
-Trong mòi trường axìt, Nguyễn Bá Tước đã dùng ête chiết được từ quả mặc nưa một chất hydroquinon, kết tình hình kim trắng nhạt trong cồn 30°, độ chảy 250-251“C, không tan trong nước, tan trong các dung môi hữu cơ (trừ trong ête dầu hỏa). Dưới tia ngoại tím cho huỳnh quang màu xanh tím. Công thức thô được xác định là CJ2H1202. Nguyễn Bá Tước đã đề nghị gọi chất này là diospyroquinon có những hằng sổ và tính chất khác với những dẫn suất diraetyl paranaphtoquinon đã biết. Dẫn xuất axetyl cùa diospyron kết tinh trong cồn 80° dửới dạng khối trắng nhạt, độ chảy 218°c.
+Trong mòi trường axìt, Nguyễn Bá Tước đã dùng ête chiết được từ quả mặc nưa một chất hydroquinon, kết tình hình kim trắng nhạt trong cồn 30°, độ chảy 250-251“C, không tan trong nước, tan trong các dung môi hữu cơ (trừ trong ête dầu hỏa). Dưới tia ngoại tím cho huỳnh quang màu xanh tím. Công thức thô được xác định là CJ₂H₁₂₀₂. Nguyễn Bá Tước đã đề nghị gọi chất này là diospyroquinon có những hằng sổ và tính chất khác với những dẫn suất diraetyl paranaphtoquinon đã biết. Dẫn xuất axetyl cùa diospyron kết tinh trong cồn 80° dửới dạng khối trắng nhạt, độ chảy 218°c.
 
 #### D. Tác dụng dược lý
 
@@ -1902,7 +1902,7 @@ Bruxein
 
 Năm 1967, Viện các hợp chất thiên nhiên ở Pháp (Judith Polansky- Zoia Baskeviih- Experienỉia 23 (6) 1967-C. A.1968 Nb5- 21869), nãm 1968 Trường đại học tổng hựp Caliíbmia Mỹ (Keng Y. Sim James J. Simes J. Org. Chem. 33 (1) 1968-C. A 68, 39849n) đẩ chiết và xác định công thức hóa học của một số chất đắng như bruxein A, B, c và brusatola.
 
-Brusatola có độ chảy 276-278", công thức thỏ C27H32On.
+Brusatola có độ chảy 276-278", công thức thỏ C₂₇H₃₂On.
 
 #### D. Tác dụng dược lý
 
@@ -1946,7 +1946,7 @@ Ta dùng củ tỏi (Bulbus Allii) là dò của cay tỏi mà ta vẫn dùng l�
 
 #### A. Thành phần hóa học và tác dụng
 
-Trong tỏi có một ít iốt và tinh dầu (lOOkg tỏi chứa chừng 60g đến 200g tinh dầu). Thành phần chủ yếu của tỏi là một chất kháng sinh alixìn C6H(0OS2, một hợp chất suníua có tác dụng diệt vi khuẩn rất mạnh đối với vi trung Staphxllữcoccus, thương hàn, phó thương hàn, lỵ, vi trùng tả, trực khuẩn sinh bệnh bạch hầu, vi khuẩn thối.
+Trong tỏi có một ít iốt và tinh dầu (lOOkg tỏi chứa chừng 60g đến 200g tinh dầu). Thành phần chủ yếu của tỏi là một chất kháng sinh alixìn C₆H(0OS2, một hợp chất suníua có tác dụng diệt vi khuẩn rất mạnh đối với vi trung Staphxllữcoccus, thương hàn, phó thương hàn, lỵ, vi trùng tả, trực khuẩn sinh bệnh bạch hầu, vi khuẩn thối.
 
 Trong tỏi không có chất alixin ngay mà có chất aliin, một thứ axit ainin; chất aliin chịu tác dụng của men alinaza cũng có trong tỏi mới cho chất alixin.
 
@@ -1968,19 +1968,19 @@ Thí nghiệm trong ống nghiệm, tác dụng diệt khuẩn của alix.in r�
 
 Dung dịch 1/85.000-1/125.000 đủ ức chế sinh trưởng các trùng Staphyỉococccus, Streptococ- cus, trùng thương hàn, phó thương hàn, trực
 
-2 CH2 = CH — CHa — SO — cn2 — CH — COOH + mcn alinaza
+2 CH₂ = CH — CHa — SO — cn2 — CH — COOH + mcn alinaza
 
 Aliin I ►
 
-NH2 H20
+NH₂ H20
 
 CHS — CO — COOH + 2 NHs
 
 axit pyruvic amoniac
 
-- CH2 = CH — CHa — s — s — CH2 — CH = CHa 0 alixin
+- CH₂ = CH — CHa — s — s — CH₂ — CH = CHa 0 alixin
 
-C:>H5 — s — s — C;iHr, + 2 HS — CH2 — CH — COOH 11 l 0 nh2
+C:>H5 — s — s — C;iHr, + 2 HS — CH₂ — CH — COOH 11 l 0 nh2
 
 aỉixin xystcin
 
@@ -1988,7 +1988,7 @@ aỉixin xystcin
 
 I
 
-NH2
+NH₂
 
 trùng lỵ (cloromyxétin ờ nổng độ 1/5.000 trong cùng điều kiện đối với trùng thương hàn chưa có lác dụng) không bị ảnh huởng của axit paraaminô benzôic (vitamin H’) là sản vật của cơ thể thường ảnh hưởng đến tác dụng của sunfamit.
 
@@ -2070,7 +2070,7 @@ Còn mọc ở Ân Độ, Miến Điện, Thái Lan, Malaixia.
 
 Chất conesin có tinh thể hình lãng trụ (kết tinh trong axêtôn) độ chảy 125°, aD=
 
--1,9° (CHCụ hoặc + 21°6 (C2HSOH).
+-1,9° (CHCụ hoặc + 21°6 (C₂HSOH).
 
 Cho muối clohydrat, bromhydrat và oxalat có tinh thể.
 
@@ -2124,7 +2124,7 @@ cây, có khi cắt bỏ rễ rổi rửa sạch, dùng tươi hay phơi hoặc 
 
 c. Thành phán hóa học Hoạt chất của rau sam hiện nay chưa rõ. Chỉ mới biết trong rau sam có 6,49% hydrat cacbon, 0,5% chất béo, 1,8% chất protit, 2,23% tro. Một tài liệu khác (Trung Quốc khoa học xã hội Trung dược tân biên trích dẫn) thì có vitamin c, men
 
-CĨỈ2—CHỉ—NH2
+CĨỈ2—CHỉ—NH₂
 
 Dopamin
 
@@ -2142,9 +2142,9 @@ Theo Viện vệ sinh Hà Nội (1972) rau sam Việt Nam có 1,4% protit, 3% gl
 
 Nghiên cứu rau sam ờ Đài Loan, người ta thấy có axit hữu cơ, kali nitrat, kali suníat và muối kali khác, cây tươi chứa chừng 1% muối kali, cây khô chứa 10% muối kali (theo Dược học tạp chí của Nhật Bản, 1944, quyển 64. (3): 177-178). Trong tài liệu này còn nói nhân dân Đài Loan dùng rau sam chữa bệnh cước khí thủy thủng, tiểu tiện khó khăn, giải độc; tác giả kết luân là vì trong rau sam có muối kali oxalat, axit làm thông tiểu cho nên có tác dụng giải độc.
 
-Năm 1961 (Nature, 191, 1108) p. c. Feng và cộng sự tìm thấy trong rau sam tươi có 0,25%I- noradrenalin CeHn03N, dopamìn - 4 - (2- aminoetyl) pyrocatechol C8Hn02N và một lượng dopa 3 - ( 3,4-dihydroxyphenyl ) - I-alanin
+Năm 1961 (Nature, 191, 1108) p. c. Feng và cộng sự tìm thấy trong rau sam tươi có 0,25%I- noradrenalin CeHn₀₃N, dopamìn - 4 - (2- aminoetyl) pyrocatechol C₈Hn₀₂N và một lượng dopa 3 - ( 3,4-dihydroxyphenyl ) - I-alanin
 
-### C,HMO4N.
+### C,HMO₄N.
 
 #### D. Tác dụng dược lý
 

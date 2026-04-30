@@ -442,7 +442,7 @@ Chú thích:
 
 Ngoài tinh dầu và lá làm thuốc ra, một số cây bạch đàn cho chất gôm màu đỏ gọi là Red-gum hay Kino do chứa tanin nên được dùng trong cây nghệ thuộc da trắng.
 
-CÂY MỘT LÁ 青天葵
+### CÂY MỘT LÁ 青天葵
 
 _Còn gọi là chân châu diệp, thanh thiên quỳ, Slam lài, bâu thoọc, kíp lầu (Quảng Hoa-Cao Bằng)._
 
@@ -508,7 +508,7 @@ Chú thích:
 
 3. Có tác giả đã xác định tên khoa học của cây một lá là Pogonium flabellifolium cùng họ Lan (Orchidaceae). Cần kiểm tra lại.
 
-HỒNG BÌ 黄皮
+### HỒNG BÌ 黄皮
 
 _Còn gọi là hoàng bì._
 
@@ -550,7 +550,7 @@ Lá hồng bì thường được dùng nấu nước gội đầu cho sạch g�
 
 Hạt hồng bì dùng chữa rắn cắn: Nhai nát hạt hồng bì, nuốt nước, bã đắp lên nơi rắn cắn.
 
-CÓC MẲN 石胡菜
+### CÓC MẲN 石胡菜
 
 _Còn gọi là cúc mẳn, cỏ the, thạch hồ tuy, nga bất thực thảo, địa hồ tiêu, cầu tử thảo._
 
@@ -612,7 +612,7 @@ Theo Dujardin Beaumetz thì tại châu Úc, bác sĩ D. C. Jockil đã dùng n�
 
 Muller còn cho rằng cóc mẳn có thể dùng làm thuốc kích thích thần kinh và cơ.
 
-PHẬT THỦ 佛手
+### PHẬT THỦ 佛手
 
 _Còn gọi là phật thủ phiến, phật thủ cam._
 
@@ -652,7 +652,7 @@ Phật thủ là một vị thuốc dùng trong phạm vi nhân dân. Theo tài 
 
 Ngày dùng 3 đến 6g dưới dạng thuốc sắc hay thuốc bột. Trong sách cổ nói “phàm âm hư không dùng được”.
 
-GAI TẦM XOỌNG 酒饼簕
+### GAI TẦM XOỌNG 酒饼簕
 
 _Còn gọi là cúc keo, quít gai, quít hôi, độc lực, cây gai xanh, mền tên, tửu bính lặc._
 
@@ -688,7 +688,7 @@ Ngày dùng 30-40g tươi.
 
 Trẻ con thuờng hái quả tươi để ăn.
 
-BẠCH CẬP 白芨
+### BẠCH CẬP 白芨
 
 Tên khoa học _*Bletilla striata (Thunb.) Reichb.*_
 
@@ -776,7 +776,7 @@ Chú thích:
 
 Có tác giả xác định tên cây biến hoá là Asarum blumei Duch. Cần xác định lại.
 
-BỒ HÒN 無患子
+### BỒ HÒN 無患子
 
 _Còn gọi là bòn hòn, vô hoạn, thụ, lai patt (dân tộc núi Bà Rá-Biên Hoà), savonnier (Pháp)._
 
@@ -814,7 +814,7 @@ Theo tài liệu cổ bồ hòn có tác dụng chữa ho trừ đờm, nhân h�
 
 Một số vùng ở Việt Nam và Trung Quốc dùng vỏ cây bồ hòn giã nát ngâm nước tắm cho súc vật bị bọ, rận, chấy.
 
-BỐI MẪU 貝母
+### BỐI MẪU 貝母
 
 Fritillaria-Bulbus Fritillariae
 
@@ -932,7 +932,7 @@ Bối mẫu bỏ lõi sao vàng, tán nhỏ luyện với đường phèn, viên
 
 Bối mẫu bỏ lõi 2g, nước lã 2ml, mật ong 2g, bôi lên lưỡi. Thuốc nuốt được. Ngày 4-5 lần.
 
-CÀ DẠI HOA TÍM 紫花茄
+### CÀ DẠI HOA TÍM 紫花茄
 
 _Còn gọi là cà hoang, cà gai, cà hoang gai hoa tím._
 
@@ -2030,7 +2030,7 @@ Tác dụng dược lý của rotundin đã được nghiên cứu trong nước
 
 2. Ancaloit A làm giảm biên độ và tần số co bóp của tim ếch cô lập, nhưng với liều mạnh hơn, tim ếch ngừng ở thời kỳ tâm trương. Điều này chứng tỏ dung dịch ancaloit A có ảnh hưởng trực tiếp trên tâm cơ và làm ngừng co bóp. Dung dịch ancaloit A có tác dụng đối lập với tác dụng gây tăng trương lực và nhu động co bóp ruột của dung dịch axetylcholin. Dung dịch ancaloit A có tác dụng an thần gây ngủ với liều lượng nhẹ nhưng với liều cao kích thích thần kinh hệ trung ương, gây co giật và chết. Ở điểm này, dung dịch ancaloit A hoàn toàn khác hẳn với dung dịch rotundin. Ngoài ra, ancaloit A có tác dụng giãn mạch hạ huyết áp, giảm cả huyết áp tối đa và tối thiểu.
 
-3. Dung dịch ancaloit A có độc tính DL50: 0,125g/kg thể trọng chuột, như vậy liều độc tương đương với clohydrat cocain, đồng thời dung dịch ancaloit A cũng có những biểu hiện độc như cocain (kích thích thần kinh hệ trung ương, biểu hiện co giật...).
+3. Dung dịch ancaloit A có độc tính DL₅₀: 0,125g/kg thể trọng chuột, như vậy liều độc tương đương với clohydrat cocain, đồng thời dung dịch ancaloit A cũng có những biểu hiện độc như cocain (kích thích thần kinh hệ trung ương, biểu hiện co giật...).
 
 Trên lâm sàng rotundin được áp dụng rộng rãi từ năm 1944 và trong suốt kháng chiến chống Pháp để điều trị có kết quả một số trường hợp đau tim, mất ngủ, hen, đau bụng, lỵ amíp. Tác dụng rõ rệt nhất là ngủ và an thần.
 
@@ -3862,7 +3862,7 @@ Năm 1990 (Chim. Pharm. Bull., 38(3), 714- 716) vẫn tác giả trên còn phá
 
 Nguyên Văn Đàn, Lê Nguyên Dục và Trần Kim Lạng (Kỷ yếu công trình nghiên cứu dược liệu, 1961-1971, 2,176-181) đã sử dụng dịch chiết vỏ thân cây Nam sâm hay ngũ gia bì chân chim bằng cồn 40° theo tỷ lệ 1:1 thí nghiệm trên súc vật đã đi đến một số kết luận sau đây:
 
-1. Về mặt độc tính, Nam sầm có LD50 là 53,5g/kg thể trọng trong khi nhân sâm có LD50 là 22,0g/kg, tam thất là 9g/kg thể trọng. Vậy theo thực nghiệm Nam sâm ít độc hơn những loại thuốc khác cùng họ.
+1. Về mặt độc tính, Nam sầm có LD₅₀ là 53,5g/kg thể trọng trong khi nhân sâm có LD₅₀ là 22,0g/kg, tam thất là 9g/kg thể trọng. Vậy theo thực nghiệm Nam sâm ít độc hơn những loại thuốc khác cùng họ.
 
 Trên súc vật thực nghiệm, khi dùng Nam sâm dài ngày không thấy có tác dụng độc hại đối với các chức năng gan, thận và hằng số máu.
 
@@ -4132,7 +4132,7 @@ Tam thất và các cây khác cùng họ có tác dụng làm tăng sức dẻo
 
 7. Đinh lăng có tác dụng tăng tiết niệu gấp trên 5 lần so với bình thường với liều uống 2ml dung dịch đinh lăng 100% cho 100g thể trọng (thí nghiệm trên chuột bạch Trung Quốc).
 
-8. Liều độc: Đinh lăng ít độc, so với nhân sâm còn ít độc hơn. Giải phẫu bệnh lý những chuột chết vì liều độc thì thấy gây tổn thương nặng tổ chức cơ sở các tạng nhất là ở gan, thận, tim, não, cuối cùng chết. Liều độc tiêm phúc mạc DL50 của đinh lăng là 32,9g/kg trong khi đó DL50 của nhân sâm là 16,5g/kg, của ngũ gia bì Liên Xô cũ (Eleutherococcus) là 14,5g/ kg, chứng tỏ đinh lăng ít độc hơn 2 vị thuốc nhân sâm và ngũ gia bì Liên Xô cũ. Cho uống với liều 50g/kg thể trọng chuột vẫn sống bình thường.
+8. Liều độc: Đinh lăng ít độc, so với nhân sâm còn ít độc hơn. Giải phẫu bệnh lý những chuột chết vì liều độc thì thấy gây tổn thương nặng tổ chức cơ sở các tạng nhất là ở gan, thận, tim, não, cuối cùng chết. Liều độc tiêm phúc mạc DL₅₀ của đinh lăng là 32,9g/kg trong khi đó DL₅₀ của nhân sâm là 16,5g/kg, của ngũ gia bì Liên Xô cũ (Eleutherococcus) là 14,5g/ kg, chứng tỏ đinh lăng ít độc hơn 2 vị thuốc nhân sâm và ngũ gia bì Liên Xô cũ. Cho uống với liều 50g/kg thể trọng chuột vẫn sống bình thường.
 
 Độc tính trường diễn thấy xung huyết ở gan, tim, phổi, dạ dầy, ruột, biến loạn dinh dưỡng tím, gan, thận. Trước khi chết có hiện tượng ỉa lỏng, xù lông, mệt mỏi, kém ăn, sụt cân.
 

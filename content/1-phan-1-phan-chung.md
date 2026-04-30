@@ -67,7 +67,7 @@ Mọi ý kiến đóng góp xin gửi về địa chỉ: [binhdothanhhn@yahoo.co
 Tháng 05 năm 2004
 
 Tác giả ký tên
-![chuky](images/chuky.png)
+![chuky](images/0-chuky.png)
 
 # Phần I: PHẦN CHUNG
 
@@ -276,7 +276,7 @@ Về _bệnh tật_ thuộc dương thường khô khan, táo, ôn nhiệt, ti�
 
 Người xưa thường nói âm ở trong để giữ gìn cho dương, dương ở ngoài để giúp đỡ cho âm. Hoặc có âm mà không có dương, hay có dương mà không có âm thì tất nhiên một mình âm không thể phát sinh được, một mình dương không thể trưởng thành được.
 
-![amduong](images/amduong.png)
+![amduong](images/1-amduong.png)
 
 Lại có người nói: trong âm có âm dương, trong dương cũng có âm dương, âm đến cực độ sinh ra dương, dương đến cực độ sinh ra âm tức là hàn đến cực độ sinh ra nhiệt, nhiệt đến cực độ sinh ra hàn.
 
@@ -354,7 +354,7 @@ Trong luật tương sinh của ngũ hành còn bao hàm ý nữa là hành nào
 
 Trong quan hệ tương sinh lại có quan hệ tương khắc để biểu hiện cái ý thăng bằng, giữ gìn lẫn nhau.
 
-![ngu-hanh](images/ngu-hanh.png)
+![ngu-hanh](images/2-ngu-hanh.png)
 
 _Luật tương khắc_. Tương khắc có nghĩa là ức chế và thắng nhau. Trong quy luật tương khác thì mộc khắc thổ, thổ khắc thủy, thủy khắc hỏa, hỏa khắc kim, kim khắc mộc và mộc lại khắc thổ, và cứ như vậy tiếp diễn mãi.
 
@@ -398,7 +398,7 @@ Ví dụ hành mộc là cây cỏ, thì màu xanh tươi, vậy, màu xanh thu�
 
 Coi bảng hệ thống quy loại ngũ hành của một số hiện tượng sau:
 
-![quy-loai-ngu-hanh](images/quy-loai-ngu-hanh.png)
+![quy-loai-ngu-hanh](images/2-2-quy-loai-ngu-hanh.png)
 
 Trong bảng này chúng tôi chỉ trích giới thiệu một số hiện tượng và tính chất chính đã được quy nạp vào các hành. Trong các tài liệu cũ người ta quy nạp cả tiếng cười, tiếng khóc hay tình cảm như mừng lo, giận sợ vào ngũ hành.
 
@@ -470,7 +470,7 @@ Trên cơ sở lý luận đó, ta có thể thấy.
 
 Chúng ta có thể tóm tắt sự phối hợp giữa màu sắc, mùi vị và tạng phủ với kinh lạc theo sơ đồ sau đây.
 
-![kinhmach](images/kinhmach.png)
+![kinhmach](images/3-kinhmach.png)
 
 ## III. BÀO CHẾ THUỐC THEO ĐÔNG Y
 

@@ -748,7 +748,7 @@ Theo sự nghiên cứu sơn tra Trung Quốc, các nhà nghiên cứu Trung Qu�
 
 Năm 1957, Viện nghiên cứu thực phẩm của Trung Quốc phân tích sơn tra thấy prôtit 0,7%; chất béo 0,2%; hydrat cacbon 22%; canxi 0,085%; photpho 0,025%; sắt 0,0021%; caroten 0,00082%; vitamin C 0,089%.
 
-Sơ bộ nghiên cứu loại sơn tra Việt Nam (Lào Cai, Hoàng Liên Sơn) thấy có 2,76% tanin, 16,4% chất đường, 2,7% axit hữu cơ (tactric, xitric tính theo H2SO4).
+Sơ bộ nghiên cứu loại sơn tra Việt Nam (Lào Cai, Hoàng Liên Sơn) thấy có 2,76% tanin, 16,4% chất đường, 2,7% axit hữu cơ (tactric, xitric tính theo H₂SO₄).
 
 Các chất tan trong nước (cao khô) là 31%, độ tro 2,25% tan hoàn toàn trong HCl (Lê Ánh, Bộ môn dược liệu, 1961).
 

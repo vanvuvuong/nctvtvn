@@ -1,4 +1,7 @@
+goldmark:
+  renderer:
+    unsafe: true
 tableOfContents:
-  startLevel: 2
+  startLevel: 3
   endLevel: 4
   ordered: false
