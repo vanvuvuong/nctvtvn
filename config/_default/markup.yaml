@@ -3,5 +3,5 @@ goldmark:
     unsafe: true
 tableOfContents:
   startLevel: 3
-  endLevel: 4
+  endLevel: 5
   ordered: false

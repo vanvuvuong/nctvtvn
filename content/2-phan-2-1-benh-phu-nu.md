@@ -943,6 +943,7 @@ Thuộc họ Bí Cucurbitaceae.
 Đài hái là một loại dây leo, mọc khỏe, thân nhẵn, có thể dài hơn 30m, Lá hình tim, phiến chia 3 hay 5 thùy, và rộng chừng 15-25cm, mặt trên màu xanh lục, mật dưới màu nhạt hơn, dai, cứng nhẵn; thùy thuôn dài đầu nhọn. Khi còn non lá có thể dài không chia thùy hay chỉ có 2 thùy. Tua cuốn to khỏe và quăn xoắn. Hoa đực mọc thành chùm với dạng ngù. Hoa cái đơn độc, ở kẽ lá. Quả hình cầu, to bằng đầu người, đường kính có thể đạt tới 20cm, trên có chừng 10-12 khía trông không rõ, cùi trắng. Hạt từ 6 đến 12, rất to, dài tới 8 cm, rộng tới 5cm, hình trứng, dẹt, có lá mầm rất phát triển, một mặt phẳng một mặt khum.
 
 ![dai-hai](images/21-dai-hai.png)
+
 Hình 21. Đài hái - Hodgsonia macrocarpa. Cành, quả, hoa và hạts
 
 #### B. Phân bố, thu hái và chế biến
@@ -983,6 +984,7 @@ Tên là cỏ đuôi lươn vì ngọn và cụm hoa giống đuôi con lươn. 
 Cỏ đuôi lươn là một loại cỏ mọc đứng, cao chừng 0,35-l,30m. Trên thân có rất nhiều lông ngắn màu trắng, trông như len, nhiều nhất là ở phía dưới cụm hoa. Lá hình gươm, dài 8-70 cm, rộng 4-10mm, phía trên có vạch dọc, phía dưới có lông; lá ở gốc phủ lên nhau, có khi 4-5 lá, dài và hẹp; lá trên thân nhỏ hơn, mọc so le. Cụm hoa mọc thành bông dài 2-5cm. Lá bắc tồn tại như lá nhưng nhỏ có lông hoặc không có lông, Hoa mọc so le, không cuống. Đài 2, tràng 2, nhị 1, bầu 3 ngăn không rõ. Quả nang có lá bắc bao bọc, có lông mịn ( Hình 22 ).
 
 ![co-duoi-luon](images/22-co-duoi-luon.png)
+
 Hình 22. Cỏ đuôi lươn Philydrum lanuginosum
 
 #### B. Phân bố, thu hái và chế biến
@@ -1272,14 +1274,18 @@ Xích thược Radix Paeoniae rubrae là rễ phơi hay sấy khô của 3 loài
 3. Xuyên xích thược (Paeonia veitchii Lynch).
    Tất cả xích thược đều do cây mọc hoang cung cấp. Vào các tháng 3-5 hay các tháng 5-10 đào về, trừ bỏ thân rễ và rễ nhỏ, chia thành từng rễ to nhỏ riêng biệt, rửa sạch đất cát; phơi khô là được.
    Hình 30. Thảo thược dược - Paeonia obovata
-   A. Thành phần hóa học
-   Như thược dược: Có tinh bột, tanin, nhựa, chất nhầy, chất đường, sắc tố và axit benzoic. Tỷ lệ axit benzoic trong xích thược thấp hơn bạch thược (0,92%).
-   B. Công dụng và liều dùng
-   Như thược dược, nhưng trong sách cổ người ta cho rằng: Bạch thược thì bổ huyết, đỏ thì hành huyết. Vì vậy bạch thược bổ, xích thược tả, bạch thược thu liễm, còn xích thược thì tán (theo Mậu Hy Ung).
-   Một tác giả khác là Hoàng Cung Tú nói: _"Xích thược và bạch thược chủ trị giống nhau, nhưng bạch thược có sức liễm âm, ích huyết, xích thược có năng lực tán tà hành huyết"_.
-   Đơn thuốc có xích thược
-   Chữa chảy máu cam: Xích thược tán nhỏ. Mỗi lần uống 6-8g.
-   Chữa băng huyết bạch đới: Xích thược, hương phụ hai vị bằng nhau, tán nhỏ. Mỗi lần uống 6- 8g. Ngày uống 2 lần. Uống trong 4-5 ngày.
+
+##### A. Thành phần hóa học
+
+Như thược dược: Có tinh bột, tanin, nhựa, chất nhầy, chất đường, sắc tố và axit benzoic. Tỷ lệ axit benzoic trong xích thược thấp hơn bạch thược (0,92%).
+
+##### B. Công dụng và liều dùng
+
+Như thược dược, nhưng trong sách cổ người ta cho rằng: Bạch thược thì bổ huyết, đỏ thì hành huyết. Vì vậy bạch thược bổ, xích thược tả, bạch thược thu liễm, còn xích thược thì tán (theo Mậu Hy Ung).
+Một tác giả khác là Hoàng Cung Tú nói: _"Xích thược và bạch thược chủ trị giống nhau, nhưng bạch thược có sức liễm âm, ích huyết, xích thược có năng lực tán tà hành huyết"_.
+Đơn thuốc có xích thược
+Chữa chảy máu cam: Xích thược tán nhỏ. Mỗi lần uống 6-8g.
+Chữa băng huyết bạch đới: Xích thược, hương phụ hai vị bằng nhau, tán nhỏ. Mỗi lần uống 6- 8g. Ngày uống 2 lần. Uống trong 4-5 ngày.
 
 ### BO MẨY
 
