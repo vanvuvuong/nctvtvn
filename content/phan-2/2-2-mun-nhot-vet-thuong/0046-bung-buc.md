@@ -1,0 +1,35 @@
+---
+title: "46. BÙNG BỤC"
+weight: 46
+navWeight: 955
+author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+---
+
+
+
+_Còn gọi là bục bục, bông bét, cây lá ngõa kok po hou (Lào)._
+
+Tên khoa học _*Mallotus barbatus Muell. et Arg.*_
+
+Thuộc họ Thầu dầu (Euphorbiaceae).
+
+#### A. Mô tả cây
+
+Bùng bục là một cây nhỡ, cao chừng l,5-2mét. Cành non có nhiều lông màu vàng nhạt. Lá mọc so le, phiến lá hình tim, đầu lá dài nhọn, phía cuống tròn hay thẳng góc với cuống, mép nguyên hay hơi thành 3 thùy cắt không sâu, dài rộng chừng 15-18cm, khi còn non mạt dưới có những lông màu vàng nhạt, khi già có thể nhấn. Cuống dài có phủ lông trắng vàng.
+
+Mùa hoa vào tháng 4-5 ở miền Bắc, mùa quả vào tháng 8-9. Hoa khác gốc, mọc thành bông ở đầu cành hay kẽ lá, hoa đực dài và nhỏ hơn hoa cái. Bông hoa dài tới 20cm. Quả có lông cứng to dài. Hạt màu đen, nhỏ, chỉ lớn hơn đầu đinh ghim một chút.
+
+#### B. Phân bố, thu hái và chế biến
+
+Cây bùng bục mọc hoang ở khắp các miền rừng núi nước ta. Thường ít được dùng. Nhưng dân tộc ít người một vài vùng có dùng hạt của nó để ép lấy dầu đặc như sáp dùng thắp đèn hay làm nến.
+
+#### C. Thành phần hóa học
+
+Chưa thấy có tài liệu nghiên cứu. Sơ bộ ta thấy trong hạt bùng bục có một chất sáp có thể dùng làm nến hay sáp.
+
+#### D. Công dụng và liều dùng
+
+Chưa thấy nhân dân ta dùng làm thuốc, một vài nơi như Nghệ An, Hà Tĩnh, Lào dùng hạt ép dầu để thắp.
+
+Tại Trung Quốc người ta có dùng một loại bùng bục có tên khoa học là Mallotus japonicus Muell, et Arg. với tên địa phương là đã ngô đồng, dã đồng: vỏ thân cây này được dùng chữa nôn mửa, còn có tác dụng sát trùng, nấu cao dán lén mụn nhọt có tác dụng đỡ nung mủ và lên da non. Gần đây người ta còn thấy vỏ cây này có tác dụng giúp sự tiêu hóa, dùng chữa đau dạ dày và loét tá tràng có kết quả.
+
