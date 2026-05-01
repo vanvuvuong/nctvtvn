@@ -9,3 +9,4 @@ taxonomies:
   category: categories
   benh: benh
   tag: tags
+ignoreFiles: ["backup/*.md"]
