@@ -5,8 +5,6 @@ navWeight: 995
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn có tên là_ cây rum.
 
 Tên khoa học _Carthamus tinctorius L_.
@@ -58,4 +56,3 @@ Tính vị theo _đông y_: Vị cay, ấm, vào hai kinh tâm và can. Có tác
    Liều dùng trung bình mỗi ngày 3-8g dưới dạng thuốc sắc hay ngâm rượu.
 
 2. Gia vị, làm thuốc nhuộm màu vàng đỏ, dùng làm nguyên liệu chế màu vàng đỏ không độc để làm thuốc nhuộm hay nhuộm thức ăn.
-

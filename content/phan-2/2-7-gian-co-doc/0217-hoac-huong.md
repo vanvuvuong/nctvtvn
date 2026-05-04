@@ -167,7 +167,7 @@ Trồng bằng thân rễ. Thu hoạch vào mùa đông. Khi thu hái, cắt b�
 
 #### C. Thành phần hoá học
 
-Trong nga truật có chừng l-l,5%tinh dầu; 3,5% chất nhựa và chất nhầy. Trong tinh dầu thành phần chủ yếu gồm có 48% secquitecpen; 35% zingiberen; 9,65 xineol và một chất có tinh thể. Tinh dầu có màu vàng xanh nhạt, sánh, tỷ trọng 0,982 mùi vị gần như mùi long não.
+Trong nga truật có chừng l-1,5%tinh dầu; 3,5% chất nhựa và chất nhầy. Trong tinh dầu thành phần chủ yếu gồm có 48% secquitecpen; 35% zingiberen; 9,65 xineol và một chất có tinh thể. Tinh dầu có màu vàng xanh nhạt, sánh, tỷ trọng 0,982 mùi vị gần như mùi long não.
 
 #### D. Công dụng và liều dùng
 

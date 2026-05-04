@@ -10,3 +10,4 @@ taxonomies:
   benh: benh
   tag: tags
 ignoreFiles: ["backup/*.md"]
+enableRobotsTXT: true

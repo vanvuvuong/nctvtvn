@@ -15,7 +15,7 @@ Thuộc họ Quyển bá Selaginelỉaccae.
 
 #### A. Mô tả cày
 
-Thản mọc thành búi, có khi kết bện với các giá rẽ thành một gốc cao đến lOcm, nom như thân kép. Cành bẽn của thân cũng mọc thành búi dài 5-l2cm, phân nhánh rẽ đôi mở ra trên đất. Lá nhỏ hình giáo hay ba cạnh, thuôn xếp lợp lên nhau, ôm lấy cành có đạng như cây liểu bách (từ đó có tên loài là tamarìscina có nghĩa ià dạng liễu bách Tamarix). Cây chịu được khô hạn. Khi khô ráo cành lá xếp lại cuộn tròn vào trong trông như chân vịt do đó có tên cây chân vịt. Khi gặp ẩm ướt, cằnh lại mọc vươn ra ngoài từ đó có tên hồi sinh thảo (cò sống trở lại) hay kiến thủy hoàn dương (gặp nước sống trờ lại) từ đó gọi chệch ra trưòng sinh thảo (cỏ sống lâu), cải tử hoàn hồn thảo. Và từ đó một số ngưòi
+Thản mọc thành búi, có khi kết bện với các giá rẽ thành một gốc cao đến lOcm, nom như thân kép. Cành bẽn của thân cũng mọc thành búi dài 5-12cm, phân nhánh rẽ đôi mở ra trên đất. Lá nhỏ hình giáo hay ba cạnh, thuôn xếp lợp lên nhau, ôm lấy cành có đạng như cây liểu bách (từ đó có tên loài là tamarìscina có nghĩa ià dạng liễu bách Tamarix). Cây chịu được khô hạn. Khi khô ráo cành lá xếp lại cuộn tròn vào trong trông như chân vịt do đó có tên cây chân vịt. Khi gặp ẩm ướt, cằnh lại mọc vươn ra ngoài từ đó có tên hồi sinh thảo (cò sống trở lại) hay kiến thủy hoàn dương (gặp nước sống trờ lại) từ đó gọi chệch ra trưòng sinh thảo (cỏ sống lâu), cải tử hoàn hồn thảo. Và từ đó một số ngưòi
 
 ##### TODO: thêm hình ảnh
 

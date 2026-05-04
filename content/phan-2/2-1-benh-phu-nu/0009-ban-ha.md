@@ -5,8 +5,6 @@ navWeight: 992
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Thiên Nguyệt lịch sách Lễ ký_ nói: Vị thuốc này sinh vào giữa mùa hạ nên gọi là bán hạ. Bán hạ là thân rễ phơi hay sấy khô và chế biến của nhiều cây khác nhau, đều thuộc họ Ráy _Araceae_.
 
 1. _Bán hạ Việt Nam_ gồm những cây _Typhonium divaricatum Decne_ (_Arum divaricatum_ L., _Arum trilobatum Lour_), _Typhonium trilobatum_ (Schott).
@@ -96,4 +94,3 @@ _Đơn thuốc có vị bán hạ ghi trong Dược điển Trung Quốc_ 1953: 
 _Tiểu bán hạ gia phục linh thang_ (đơn thuốc của Trương Trọng Cảnh): Bán hạ 8g, phục linh 6g, sinh khương 3g, nước 300ml; sắc còn 100ml. Uống dần trong ngày, chữa phụ nữ có thai, nôn mửa.
 
 _Đơn khác dùng chữa hen suyễn, nặng mặt, nằm không được, muốn nôn oẹ, bụng dưới nôn nao, cũng dùng chữa nôn_: Bán hạ chế 40g, sinh khương 20g, nước 600ml, sắc còn 200ml, chia nhiều lần uống trong ngày. Liều dùng bán hạ ở đây so với đơn tiểu bán hạ có cao hơn, nên uống từ từ, vừa uống vừa nghe, thấy chịu thì uống nữa. Trẻ con ngất bất tỉnh: Sinh bán hạ 4g, bồ kết 2g, tất cả tán nhỏ thổi vào mũi.
-

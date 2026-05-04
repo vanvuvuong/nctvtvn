@@ -5,8 +5,6 @@ navWeight: 997
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi là_ bần trắng, vậy trắng, mấn trắng, mò trắng.
 
 Tên khoa học _Clerodendron fragrans Vent_.
@@ -82,4 +80,3 @@ Tên bạch đồng nữ và xích đồng nam còn dùng để chỉ một số
 1. Thứ hoa trắng gọi là _bạch đồng nữ, mò trắng_, tên khoa học là _Clerodendron sguamatum L_. cùng họ. Lá màu nhạt hơn cây trên; mỏng hơn, răng cưa nhỏ thanh hơn; hoa mọc thưa không thành hình mâm xỏi như cây trên, màu hoa hơi giống màu mỡ gà. Nhiều người chỉ dùng cây này uống còn cây trên chỉ dùng tắm ghẻ hoặc rửa ngoài và thường nhân dân chỉ hay dùng rễ. Theo kinh nghiệm gia đình và bản thân, dùng cả hai cây đều được nhưng cây có kiểu hoa mâm xôi phổ biến dễ tìm hơn (Hình 9, Hm 23).
 
 2. Thứ hoa có màu đỏ gọi là _mò đỏ, xích đồng nam Clerodendron infortanatum L_. (cũng có người gọi là xích đồng nữ cùng họ Cỏ roi ngựa _Verbenaceae_). Rấts giống cây _Clerodendron 5quamatum L_. Chì khác là hoa đỏ. Cùng một công dụng, nhưng thường ít dùng hơn loại hoa trắng ( Hình 10, Hm 2,4 ).
-

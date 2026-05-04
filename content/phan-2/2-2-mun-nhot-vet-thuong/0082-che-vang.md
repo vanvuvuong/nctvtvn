@@ -17,7 +17,7 @@ Nhiều người gọi nhầm cây chè vằng là cây lá ngón, nhưng một 
 
 #### A. Mô tả cây
 
-Cây chè vằng là một cây nhỏ, mọc thành bụi ở bờ rào hay bụi tre hoặc bám vào các cây lớn. Thân cây cứng, chia thành từng đốt, đường kính 5-6mm, chia thành nhiều cành, có thể vươn cao 1-l,5m và vươn dài tới 15-20m, thân và cành đều nhẵn. Lá mọc đối, hình mũi mác, phía cuống tù hay hơi tròn, đầu lá nhọn, dài 4-7,5cm, rộng 2-4,5cm,những lá phía trên nhỏ hơn lá phía dưới, mép nguyên, trên có 3 gân rõ rệt. Cuống lá nhẵn, dài 3-12mm. Hoa mọc thành xim nhiều hoa (chừng 7-9 hoa), cánh hoa màu trắng. Quả hình cầu, đường kính 7-8mm (bằng hột ngô). Khi chín có màu vàng, trong quả có một hạt rắn chắc. Mùa quả chín tháng 7-10 (Hình 80, Hm 10,4).
+Cây chè vằng là một cây nhỏ, mọc thành bụi ở bờ rào hay bụi tre hoặc bám vào các cây lớn. Thân cây cứng, chia thành từng đốt, đường kính 5-6mm, chia thành nhiều cành, có thể vươn cao 1-1,5m và vươn dài tới 15-20m, thân và cành đều nhẵn. Lá mọc đối, hình mũi mác, phía cuống tù hay hơi tròn, đầu lá nhọn, dài 4-7,5cm, rộng 2-4,5cm,những lá phía trên nhỏ hơn lá phía dưới, mép nguyên, trên có 3 gân rõ rệt. Cuống lá nhẵn, dài 3-12mm. Hoa mọc thành xim nhiều hoa (chừng 7-9 hoa), cánh hoa màu trắng. Quả hình cầu, đường kính 7-8mm (bằng hột ngô). Khi chín có màu vàng, trong quả có một hạt rắn chắc. Mùa quả chín tháng 7-10 (Hình 80, Hm 10,4).
 
 #### B. Phân bố, thu hái và chế biến
 

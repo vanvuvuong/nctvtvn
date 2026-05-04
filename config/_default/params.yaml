@@ -1,0 +1,8 @@
+pwa:
+  precache:
+    images:
+      - /images/logo.webp
+      - /images/profile.webp
+    pages:
+      - /
+metaRobots: "index, follow"

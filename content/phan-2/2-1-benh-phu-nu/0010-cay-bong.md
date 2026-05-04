@@ -5,8 +5,6 @@ navWeight: 991
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 Tên khoa học _Gossypium sp_.
 
 Thuộc họ Bông _Malvaceae_.
@@ -34,4 +32,3 @@ Gosypola 2. Nhân dân ta và một số nước khác dùng làm thuốc điề
 Vỏ rễ cây bông 3g, nước 300ml, sắc còn 100ml. Uống trong ngày, làm thuốc điều kinh, thông kinh.
 
 Nên chú ý nghiên cứu thêm.
-

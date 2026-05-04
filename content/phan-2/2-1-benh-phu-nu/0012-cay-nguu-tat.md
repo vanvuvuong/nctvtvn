@@ -5,8 +5,6 @@ navWeight: 989
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn có tên là_ cây cỏ xước, hoài ngưu tất.
 
 Tên khoa học _Achyranthes bidentata Blume_.
@@ -76,4 +74,3 @@ Hồng căn thảo là một loại ngưu tất có thân lá và rễ đỏ cù
 Ta còn dùng loại cỏ xước cũng gọi là ngưu tất _Achyranthes aspera L_.. cùng một công dụng ( Hm 2.2 ).
 
 Nên chú ý nghiên cứu thêm.
-

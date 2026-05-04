@@ -81,7 +81,7 @@ Ta dùng toàn cây phơi hay sấy khô (Herba Agrinmonìae) của cây long nh
 
 A. Mò tả cây
 
-Loại cỏ cao 0,5-l,5m, toàn thân có vạch dọc và mang lông trắng, nhiểu cành. Thân rễ mọc ngang, đuờng kính có thể đạt tới lcm. Lá mọc so le, kép, dìa lẻ, lá chét hình trứng dài, mép có rãng cưa to. Cạnh những lá chét to có nhiều lá chét nhỏ. Lá chét to dài chừng 6cm, rộng chừng 2,5cm, lá chéc nhố có khi chỉ dài 5mm. Cả hai mặt lá đều mang nhiều lông. Hoa nhỏ mọc thành chùm mọc b đầu cành hoặc kẽ lá. Cánh hoa màu vàng. Quả gồm 2-3 quả bế bọc xung quanh bởi đế hoa có đài ở mép trên. Toàn bộ có nhiều gai. (Hình 222, Hm 50,4)
+Loại cỏ cao 0,5-1,5m, toàn thân có vạch dọc và mang lông trắng, nhiểu cành. Thân rễ mọc ngang, đuờng kính có thể đạt tới lcm. Lá mọc so le, kép, dìa lẻ, lá chét hình trứng dài, mép có rãng cưa to. Cạnh những lá chét to có nhiều lá chét nhỏ. Lá chét to dài chừng 6cm, rộng chừng 2,5cm, lá chéc nhố có khi chỉ dài 5mm. Cả hai mặt lá đều mang nhiều lông. Hoa nhỏ mọc thành chùm mọc b đầu cành hoặc kẽ lá. Cánh hoa màu vàng. Quả gồm 2-3 quả bế bọc xung quanh bởi đế hoa có đài ở mép trên. Toàn bộ có nhiều gai. (Hình 222, Hm 50,4)
 
 B. Phàn bố, thu hái và chế biến
 

@@ -1548,7 +1548,7 @@ Thuộc họ Quyển bá Selaginelỉaccae.
 
 #### A. Mô tả cày
 
-Thản mọc thành búi, có khi kết bện với các giá rẽ thành một gốc cao đến lOcm, nom như thân kép. Cành bẽn của thân cũng mọc thành búi dài 5-l2cm, phân nhánh rẽ đôi mở ra trên đất. Lá nhỏ hình giáo hay ba cạnh, thuôn xếp lợp lên nhau, ôm lấy cành có đạng như cây liểu bách (từ đó có tên loài là tamarìscina có nghĩa ià dạng liễu bách Tamarix). Cây chịu được khô hạn. Khi khô ráo cành lá xếp lại cuộn tròn vào trong trông như chân vịt do đó có tên cây chân vịt. Khi gặp ẩm ướt, cằnh lại mọc vươn ra ngoài từ đó có tên hồi sinh thảo (cò sống trở lại) hay kiến thủy hoàn dương (gặp nước sống trờ lại) từ đó gọi chệch ra trưòng sinh thảo (cỏ sống lâu), cải tử hoàn hồn thảo. Và từ đó một số ngưòi
+Thản mọc thành búi, có khi kết bện với các giá rẽ thành một gốc cao đến lOcm, nom như thân kép. Cành bẽn của thân cũng mọc thành búi dài 5-12cm, phân nhánh rẽ đôi mở ra trên đất. Lá nhỏ hình giáo hay ba cạnh, thuôn xếp lợp lên nhau, ôm lấy cành có đạng như cây liểu bách (từ đó có tên loài là tamarìscina có nghĩa ià dạng liễu bách Tamarix). Cây chịu được khô hạn. Khi khô ráo cành lá xếp lại cuộn tròn vào trong trông như chân vịt do đó có tên cây chân vịt. Khi gặp ẩm ướt, cằnh lại mọc vươn ra ngoài từ đó có tên hồi sinh thảo (cò sống trở lại) hay kiến thủy hoàn dương (gặp nước sống trờ lại) từ đó gọi chệch ra trưòng sinh thảo (cỏ sống lâu), cải tử hoàn hồn thảo. Và từ đó một số ngưòi
 
 ##### TODO: thêm hình ảnh
 
@@ -2306,7 +2306,7 @@ Ta dùng toàn cây phơi hay sấy khô (Herba Agrinmonìae) của cây long nh
 
 A. Mò tả cây
 
-Loại cỏ cao 0,5-l,5m, toàn thân có vạch dọc và mang lông trắng, nhiểu cành. Thân rễ mọc ngang, đuờng kính có thể đạt tới lcm. Lá mọc so le, kép, dìa lẻ, lá chét hình trứng dài, mép có rãng cưa to. Cạnh những lá chét to có nhiều lá chét nhỏ. Lá chét to dài chừng 6cm, rộng chừng 2,5cm, lá chéc nhố có khi chỉ dài 5mm. Cả hai mặt lá đều mang nhiều lông. Hoa nhỏ mọc thành chùm mọc b đầu cành hoặc kẽ lá. Cánh hoa màu vàng. Quả gồm 2-3 quả bế bọc xung quanh bởi đế hoa có đài ở mép trên. Toàn bộ có nhiều gai. (Hình 222, Hm 50,4)
+Loại cỏ cao 0,5-1,5m, toàn thân có vạch dọc và mang lông trắng, nhiểu cành. Thân rễ mọc ngang, đuờng kính có thể đạt tới lcm. Lá mọc so le, kép, dìa lẻ, lá chét hình trứng dài, mép có rãng cưa to. Cạnh những lá chét to có nhiều lá chét nhỏ. Lá chét to dài chừng 6cm, rộng chừng 2,5cm, lá chéc nhố có khi chỉ dài 5mm. Cả hai mặt lá đều mang nhiều lông. Hoa nhỏ mọc thành chùm mọc b đầu cành hoặc kẽ lá. Cánh hoa màu vàng. Quả gồm 2-3 quả bế bọc xung quanh bởi đế hoa có đài ở mép trên. Toàn bộ có nhiều gai. (Hình 222, Hm 50,4)
 
 B. Phàn bố, thu hái và chế biến
 

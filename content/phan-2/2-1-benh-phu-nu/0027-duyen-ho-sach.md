@@ -5,8 +5,6 @@ navWeight: 974
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi là_ huyỀn hồ sách, nguyên hồ.
 Tên khoa học _Corydalis ambigua Ch. et Schl_.
 Thuộc họ Thuốc phiện Papaveraceae.

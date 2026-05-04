@@ -5,8 +5,6 @@ navWeight: 994
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi là_ trữ ma (Trung Quốc).
 
 Tên khoa học _Boehmeria nivea (L) Gaud. (Urtica nivea L._)
@@ -58,4 +56,3 @@ Tính theo vị _đông y_: Ngọt, hàn, không độc. Có tác dụng tả nh
    Chữa bệnh phụ nữ có thai đau bụng, nước vàng đỏ vẫn chảy rỉ, cùng bài thuốc đó còn chữa được bệnh sa dạ con nhưng uống 3-4 ngày chú ý theo dõi.
 
 2. _Lợi tiểu_: Rễ và lá còn dùng làm thuốc lợi tiểu tiện, chữa tiểu tiện đục, đi tiểu ra máu, viêm tử cung, lòi dom không co lên được. Liều dùng trung bình 10-30g sắc với nước uống.
-

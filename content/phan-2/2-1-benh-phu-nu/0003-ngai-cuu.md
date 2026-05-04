@@ -5,8 +5,6 @@ navWeight: 998
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi_ là cây thuốc cứu, cây thuốc cao, ngải điệp.
 
 Tên khoa học _*Artemisia vulgaris L*_.
@@ -70,4 +68,3 @@ Có thể cân luôn một lần 20g sắc với 400ml nước, cô còn 200ml, 
 Đơn thuốc này còn có thể dùng chữa kinh nguyệt kéo đài, đau bụng, máu ra đen và xấu. Nhưng uống hàng tháng vào 7-10 ngày trước ngày dự kiến có kinh.
 
 _Thuốc an thai_ (chữa đang có thai, đau bụng, chảy máu): Lá ngải cứu 16g, tía tô 16g, nước 600ml, sắc đặc còn 100ml. Thêm ít đường vào cho dễ uống. Chia làm 3-4 lần uống trong ngày.
-

@@ -111,7 +111,7 @@ VỊ thuốc này cho đến nay vẫn còn phải nhập.
 
 A. Mỏ tả cây
 
-Mộc qua là một cây nhỡ cao 2-3m, cành có gai, dài 5-20mm, đường kính phía gốc của gai tới l-3mm, mặt cành có những bì khỏng rõ. Lá có cuống dài 3-]5mm, phiến lá hình mác dài 2,5cm-14cm, rộng l,5cm-4cm mép có răng cưa, mật trên màu xanh, mặt dưới màu tím nhạt, cả hai mạt đều nhẩn. Lá kèm có hình dạng và kích thước thay đổi, dài từ 2-2,5cm, rộng từ l-l,5cm, mép cũng có răng cưa. Hoa mọc thành chùm ở kẽ lá. Cánh hoa màu đỏ của hoa đào, có loại hoa trắng hiiy hồng. Cuống hoa rất ngắn. Quả thịt hình cầu hay hình trứng, dài khoảng 8 cm, mặt ngoài nhẵn bóng, màu vàng hay vàng xanh, mùi thơm. Mùa hoa: tháng 3-4, mùa quả: tháng 9-10 (Hình 411).
+Mộc qua là một cây nhỡ cao 2-3m, cành có gai, dài 5-20mm, đường kính phía gốc của gai tới l-3mm, mặt cành có những bì khỏng rõ. Lá có cuống dài 3-]5mm, phiến lá hình mác dài 2,5cm-14cm, rộng l,5cm-4cm mép có răng cưa, mật trên màu xanh, mặt dưới màu tím nhạt, cả hai mạt đều nhẩn. Lá kèm có hình dạng và kích thước thay đổi, dài từ 2-2,5cm, rộng từ l-1,5cm, mép cũng có răng cưa. Hoa mọc thành chùm ở kẽ lá. Cánh hoa màu đỏ của hoa đào, có loại hoa trắng hiiy hồng. Cuống hoa rất ngắn. Quả thịt hình cầu hay hình trứng, dài khoảng 8 cm, mặt ngoài nhẵn bóng, màu vàng hay vàng xanh, mùi thơm. Mùa hoa: tháng 3-4, mùa quả: tháng 9-10 (Hình 411).
 
 ##### TODO: thêm hình ảnh
 

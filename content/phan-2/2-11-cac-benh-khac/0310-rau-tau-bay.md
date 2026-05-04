@@ -21,7 +21,7 @@ B. Phản bố, thu hái và chẽ biến
 
 #### C. Thành phần hoá học
 
-Trong rau tàu bay non có tới 93,1% nước, 2,3-2,5% protit, l,7-l,9%gluxit, 1,6% xenluloza,
+Trong rau tàu bay non có tới 93,1% nước, 2,3-2,5% protit, l,7-1,9%gluxit, 1,6% xenluloza,
 
 0, 9% tro, 81mg% canxi, 25mg% P( 3,4mg% caroten, 10mg% vitamin c.
 

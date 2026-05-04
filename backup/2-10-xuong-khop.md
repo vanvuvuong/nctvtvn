@@ -1046,7 +1046,7 @@ Vị độc hoạt hiện nay chủ yếu nhập của Trung Quốc, ở nước
 
 Cây hương độc hoạt hay mao đương ạH}>=đương quy có lông (Angeỉica pubescens Maxim) là một cây sống lâu nãm, cao 0,5-lm thân mọc thảng đứng, hơi màu tím, có rãnh dọc, nhẵn không có lòng. Lá kép 2-3 lần lòng chim, lá chét nguyên hoặc lại chia thùy, mép có răng cưa tù không nhọn, cuống lá nhỏ, phía dưới nở rộng thành bẹ có dìa mỏng. Trên gân lá có lông ngắn và thưa. Cụm hoa tán kép, gồm 10-20 cuống tán. Hoa nhỏ màu trắng; quả bế đôi, hình thoi dẹt, trên lưng có sống, hai bên phát triển thành dìa ( Hình 390, Hm 54,1 ).
 
-Cây ngưu vĩ độc hoạt=độc hoạt đuôi trâu {Heracleum hemsỉeyanum Maxim) cũng là loại cây sống lâu năm cao 0,5-l,5m rễ chính to thô, có khi có rẽ con dài, thân mọc thẩng đứng trên mặt có rãnh dọc, hơi có lông ngấn. Lá kép 1 lần lông chim, phiến lá chét dài 5-13cm, rộng 4-20cm mép có răng cưa thô, cuống lá dài 8- 17cm, phía dưới phát triển thành bẹ. Cụm hoa hình tán kép, mọc ở đầu cành, tổng hoa tán có 15-20 cuống dài 3,5-9cm, tán nhỏ gồm chừng 30 hoa nhỏ màu vàng ưắng. Quả bế đôi, hình thoi dẹt, trên lưng sống không rõ, hai bên phát triển thành dìa.
+Cây ngưu vĩ độc hoạt=độc hoạt đuôi trâu {Heracleum hemsỉeyanum Maxim) cũng là loại cây sống lâu năm cao 0,5-1,5m rễ chính to thô, có khi có rẽ con dài, thân mọc thẩng đứng trên mặt có rãnh dọc, hơi có lông ngấn. Lá kép 1 lần lông chim, phiến lá chét dài 5-13cm, rộng 4-20cm mép có răng cưa thô, cuống lá dài 8- 17cm, phía dưới phát triển thành bẹ. Cụm hoa hình tán kép, mọc ở đầu cành, tổng hoa tán có 15-20 cuống dài 3,5-9cm, tán nhỏ gồm chừng 30 hoa nhỏ màu vàng ưắng. Quả bế đôi, hình thoi dẹt, trên lưng sống không rõ, hai bên phát triển thành dìa.
 
 Cây cửu nhỡn độc hoạt=độc hoạt chín mắt (Araỉia cordata Thunb) thuộc họ Ngũ gia bì, là một cây sống lâu nãm, cao l-2m, thân mọc thẳng đứng, có nhiều cành, cành già gần như không có lông thưa ngắn. Lá mọc so le, kép 2-3 lần lông chim có thể dài 30-40cm, lá chét có cuống ngắn dài 4-12cm, rộng 2-9cm mép có răng cưa nhọn. Cụm hoa hình tán kép, cuống tán kép dài 4,5-1 lcm, tán nhỏ gồm 20\*35 hoa nhỏ màu trắng hay vàng nhạt. Quả mọng hình cầu, dài 2-3cm, ưong có 5 hạt ( Hình 391 ).
 
@@ -1548,7 +1548,7 @@ Thuộc họ Cà Sơlanaceae.
 
 A. Mò tả cây
 
-Cây nhỡ, mọc leo, thán nhẵn hay hơi có lông, thân cứng, nhưng cành mềm. Lá mọc so le có lông, lá ỏ gốc thì đơn nguyên, lá ở ngọn thì có 3 thùy không đều, dài 4-8cm, rộng 2-5cm, cuống dài 2-4cm. Cụm hoa xim ờ ngọn, màu tím, hoặc trắng hay hơi tím. Bao phấn mở bằng lỗ ở đỉnh. Quả mọng, hình cầu hay hình trứng đường kính 6-8mm, khi chín có màu đỏ, trong chứa nhiều hạt nhẵn, đường kính l-l,5mm ( Hình 402).
+Cây nhỡ, mọc leo, thán nhẵn hay hơi có lông, thân cứng, nhưng cành mềm. Lá mọc so le có lông, lá ỏ gốc thì đơn nguyên, lá ở ngọn thì có 3 thùy không đều, dài 4-8cm, rộng 2-5cm, cuống dài 2-4cm. Cụm hoa xim ờ ngọn, màu tím, hoặc trắng hay hơi tím. Bao phấn mở bằng lỗ ở đỉnh. Quả mọng, hình cầu hay hình trứng đường kính 6-8mm, khi chín có màu đỏ, trong chứa nhiều hạt nhẵn, đường kính l-1,5mm ( Hình 402).
 
 #### B. Phân bố, thu hái và chê' biến
 
@@ -1988,7 +1988,7 @@ VỊ thuốc này cho đến nay vẫn còn phải nhập.
 
 A. Mỏ tả cây
 
-Mộc qua là một cây nhỡ cao 2-3m, cành có gai, dài 5-20mm, đường kính phía gốc của gai tới l-3mm, mặt cành có những bì khỏng rõ. Lá có cuống dài 3-]5mm, phiến lá hình mác dài 2,5cm-14cm, rộng l,5cm-4cm mép có răng cưa, mật trên màu xanh, mặt dưới màu tím nhạt, cả hai mạt đều nhẩn. Lá kèm có hình dạng và kích thước thay đổi, dài từ 2-2,5cm, rộng từ l-l,5cm, mép cũng có răng cưa. Hoa mọc thành chùm ở kẽ lá. Cánh hoa màu đỏ của hoa đào, có loại hoa trắng hiiy hồng. Cuống hoa rất ngắn. Quả thịt hình cầu hay hình trứng, dài khoảng 8 cm, mặt ngoài nhẵn bóng, màu vàng hay vàng xanh, mùi thơm. Mùa hoa: tháng 3-4, mùa quả: tháng 9-10 (Hình 411).
+Mộc qua là một cây nhỡ cao 2-3m, cành có gai, dài 5-20mm, đường kính phía gốc của gai tới l-3mm, mặt cành có những bì khỏng rõ. Lá có cuống dài 3-]5mm, phiến lá hình mác dài 2,5cm-14cm, rộng l,5cm-4cm mép có răng cưa, mật trên màu xanh, mặt dưới màu tím nhạt, cả hai mạt đều nhẩn. Lá kèm có hình dạng và kích thước thay đổi, dài từ 2-2,5cm, rộng từ l-1,5cm, mép cũng có răng cưa. Hoa mọc thành chùm ở kẽ lá. Cánh hoa màu đỏ của hoa đào, có loại hoa trắng hiiy hồng. Cuống hoa rất ngắn. Quả thịt hình cầu hay hình trứng, dài khoảng 8 cm, mặt ngoài nhẵn bóng, màu vàng hay vàng xanh, mùi thơm. Mùa hoa: tháng 3-4, mùa quả: tháng 9-10 (Hình 411).
 
 ##### TODO: thêm hình ảnh
 

@@ -5,8 +5,6 @@ navWeight: 996
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn có tên là_ cây lá giấp, ngư tinh thảo.
 
 Tên khoa học _Houttuynia cordata Thunb_.
@@ -55,4 +53,3 @@ Liều dùng trung bình: 6-12g một ngày (sắc, bột viên).
 - Nước 600 ml
 
 Sắc còn 200ml, chia 3 lần uống trong ngày, chữa bệnh viêm sưng tai giữa, sưng tắc tia sữa.
-

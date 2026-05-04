@@ -5,8 +5,6 @@ navWeight: 975
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi là_ rue fetide, văn hương.
 Tên khoa học _Ruta graveolens L_.
 Thuộc họ Cam Rutaceae
@@ -34,4 +32,3 @@ Dùng ngoài làm thuốc đắp nơi đau nhức.
 Một tài liệu Trung quốc xác định tên khoa học _là Murraya paniculata (L.) Jack. Nhưng_ không đúng.
 Tính vị: Cay (tân), khí lương, ôn (ấm) không độc. Vào 3 kinh tâm, phế, thận.
 Công dụng: Hành khí, chỉ thống (giảm đau), hoạt huyết tán ứ. Dùng chữa bị đánh, ngã sưng đau, phong thấp, khí thống. Ngày dùng 15g đến 30g dưói dạng thuốc sắc hay thuốc bột. Âm hư hỏa vượng tránh dùng.
-

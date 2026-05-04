@@ -17,7 +17,7 @@ Người ta dùng hạt phơi hay sấy khô của quả sừng dê đã chín g
 
 #### A. Mô tả cây
 
-Cây sừng đê là một cây nhỏ, cao chừng 3 đến 4,5m. Toàn thân cây và lá khi bẻ có nhủ dịch màu trắng sữa. Cành non vuông, gầy, màu nâu lục nhạt, cành già hình trụ nâu đen nhạt có khía dọc, nhiều đóm bì khổng trắng nổi lên. Lá mọc đối, hơi giống hình thìa, trên to dưới nhỏ, đầu nhọn, dài 5-9cm, rộng 2,5-5cm, gân lá gồm 6 đến 8 đôi không nổi rõ ở cả hai mặt, cuống lá dài 3 đến 8mm, gầy, trên có lòng máng. Cụm hoa hình xim ở đẩu cành, mang 1-3 hoa to, cuống hoa dài l-l,5cm gần đài có một đồi lá bắc mọc đối. Đài hoa màu xanh hay vàng
+Cây sừng đê là một cây nhỏ, cao chừng 3 đến 4,5m. Toàn thân cây và lá khi bẻ có nhủ dịch màu trắng sữa. Cành non vuông, gầy, màu nâu lục nhạt, cành già hình trụ nâu đen nhạt có khía dọc, nhiều đóm bì khổng trắng nổi lên. Lá mọc đối, hơi giống hình thìa, trên to dưới nhỏ, đầu nhọn, dài 5-9cm, rộng 2,5-5cm, gân lá gồm 6 đến 8 đôi không nổi rõ ở cả hai mặt, cuống lá dài 3 đến 8mm, gầy, trên có lòng máng. Cụm hoa hình xim ở đẩu cành, mang 1-3 hoa to, cuống hoa dài l-1,5cm gần đài có một đồi lá bắc mọc đối. Đài hoa màu xanh hay vàng
 
 xanh, tràng hoa hình phễu rộng, trẽn xẻ làm 5 cánh màu vàng, đặc biệt phía trên của cánh tràng hẹp lại thành hình sợi, bầu trung, có 2 ngăn. Trồng ở vườn Trường đại học dược khoa Hà Nội. Ra hoa vào tháng 2-3 (nhưng sau 3 năm chưa thấy có quả). Quả khô gồm 2 đại đính vào nhau, đầu đại nhỏ nhưng tù, đại dài chừng lOcm đến 15cm, vò đày cứng. Khi chín mở ra có nhiều hạt có cuống và chùm lông mịn dài ( Hình 457, Hm 26,3).
 

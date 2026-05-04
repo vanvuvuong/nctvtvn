@@ -15,7 +15,7 @@ Thuộc họ Cà Sơlanaceae.
 
 A. Mò tả cây
 
-Cây nhỡ, mọc leo, thán nhẵn hay hơi có lông, thân cứng, nhưng cành mềm. Lá mọc so le có lông, lá ỏ gốc thì đơn nguyên, lá ở ngọn thì có 3 thùy không đều, dài 4-8cm, rộng 2-5cm, cuống dài 2-4cm. Cụm hoa xim ờ ngọn, màu tím, hoặc trắng hay hơi tím. Bao phấn mở bằng lỗ ở đỉnh. Quả mọng, hình cầu hay hình trứng đường kính 6-8mm, khi chín có màu đỏ, trong chứa nhiều hạt nhẵn, đường kính l-l,5mm ( Hình 402).
+Cây nhỡ, mọc leo, thán nhẵn hay hơi có lông, thân cứng, nhưng cành mềm. Lá mọc so le có lông, lá ỏ gốc thì đơn nguyên, lá ở ngọn thì có 3 thùy không đều, dài 4-8cm, rộng 2-5cm, cuống dài 2-4cm. Cụm hoa xim ờ ngọn, màu tím, hoặc trắng hay hơi tím. Bao phấn mở bằng lỗ ở đỉnh. Quả mọng, hình cầu hay hình trứng đường kính 6-8mm, khi chín có màu đỏ, trong chứa nhiều hạt nhẵn, đường kính l-1,5mm ( Hình 402).
 
 #### B. Phân bố, thu hái và chê' biến
 

@@ -207,7 +207,7 @@ Hậu phác Việt Nam-nam hậu phúc. Chưa có ai xác định chắc chắn.
 
 #### A. Mô tả cây
 
-Cây hậu phác chính thức (Magnolia officinalis Rehd. et Wils.) là một cây to, cao từ 7-15m, vỏ than tím nâu. Lá mọc so le, cuống to, mập dài từ 2,4- 4,4cm, không lông, phiến lá hình trứng thuôn, dài 22-40cm, rộng từ 10-20cm, đầu hơi nhọn, phía cuống hẹp lại. Hoa màu trắng, thơm, đường kính có thể tới 12cm, cuống hoa to thô. Quả kép (gồm nhiều đại rời), hình trứng dài từ 9-l2cm, đường kính từ 5-6,5cm.
+Cây hậu phác chính thức (Magnolia officinalis Rehd. et Wils.) là một cây to, cao từ 7-15m, vỏ than tím nâu. Lá mọc so le, cuống to, mập dài từ 2,4- 4,4cm, không lông, phiến lá hình trứng thuôn, dài 22-40cm, rộng từ 10-20cm, đầu hơi nhọn, phía cuống hẹp lại. Hoa màu trắng, thơm, đường kính có thể tới 12cm, cuống hoa to thô. Quả kép (gồm nhiều đại rời), hình trứng dài từ 9-12cm, đường kính từ 5-6,5cm.
 
 Thứ hậu phác Magnolia officinalis var. biloba Rehd. et Wils, rất giống loài trên, chỉ khác ở đầu lá hõm xuống chia làm hai thùy (Hình 279, Hm 57,4).
 

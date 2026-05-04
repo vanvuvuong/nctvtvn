@@ -400,7 +400,7 @@ Ngọc trúc (Rhizoma Polygonati officinalis) là thân rễ phơi hay sấy kh�
 
 #### A. Mô tả cây
 
-Ngọc trúc là một loại cỏ sống dai cao 40- 60cm, thân rễ mọc ngang màu vàng trắng nhạt, đường kính 0,5-l,5cm, trên thân rễ có nhiều rễ con. Lá mọc so le từ giữa thân trở lên, không có cuống, cứng dai, hình trứng rộng, dài 6-12cm, rộng 3-6cm, mặt dưới màu trắng nhạt. Hoa mọc ở kẽ lá có cuống dài 1-1,4cm, mỗi kẽ mọc 1-2 hoa, màu trắng, hình chuông. Nếu 2 hoa thì có một cuống chung và 2 cuống con riêng. Quả mọng, hình cầu, đường kính l-7mm, khi chín có màu tím đen (Hình 644).
+Ngọc trúc là một loại cỏ sống dai cao 40- 60cm, thân rễ mọc ngang màu vàng trắng nhạt, đường kính 0,5-1,5cm, trên thân rễ có nhiều rễ con. Lá mọc so le từ giữa thân trở lên, không có cuống, cứng dai, hình trứng rộng, dài 6-12cm, rộng 3-6cm, mặt dưới màu trắng nhạt. Hoa mọc ở kẽ lá có cuống dài 1-1,4cm, mỗi kẽ mọc 1-2 hoa, màu trắng, hình chuông. Nếu 2 hoa thì có một cuống chung và 2 cuống con riêng. Quả mọng, hình cầu, đường kính l-7mm, khi chín có màu tím đen (Hình 644).
 
 #### B. Phân bố thu hái và chế biến
 

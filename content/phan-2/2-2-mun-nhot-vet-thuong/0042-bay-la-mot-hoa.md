@@ -53,7 +53,7 @@ Paris hainanensis Merr. Cây này có thân to, cao chừng 0,80m, vành lá g�
 
 Còn thấy ở Trung Quốc, đảo Hải Nam.
 
-Paris fargesii Franch. Thân cao chừng l-l,3m vành lá gồm 5 lá ở khoảng 2/3 phía trên thân, cuống lá dài 5-5,5cm, phiến lá hình bầu dục, phía cuống hình tim, đầu nhọn, 5 gân. Lá đài hình mác, dài 6cm, rộng l,2cm. Cánh tràng hình sợi, ngắn hơn lá đài. Ra hoa vào tháng 4, kết quả vào tháng 6. So với các loài trên thì hiếm hơn. Cũng thấy ở quanh vùng Sapa, vào độ cao 1.500m có thấy ở Trung Quốc.
+Paris fargesii Franch. Thân cao chừng l-1,3m vành lá gồm 5 lá ở khoảng 2/3 phía trên thân, cuống lá dài 5-5,5cm, phiến lá hình bầu dục, phía cuống hình tim, đầu nhọn, 5 gân. Lá đài hình mác, dài 6cm, rộng l,2cm. Cánh tràng hình sợi, ngắn hơn lá đài. Ra hoa vào tháng 4, kết quả vào tháng 6. So với các loài trên thì hiếm hơn. Cũng thấy ở quanh vùng Sapa, vào độ cao 1.500m có thấy ở Trung Quốc.
 
 Trong số 2 loài chưa xác định được tên, có một loài cao tới 2,5m. Pételot phát hiện thấy 2 cây ở gần một khe nhỏ giữa đường Sapa - Bình Lư. Loại thứ hai được phát hiện ở dốc 400m vùng núi Ba Vì (Hoà Bình) và trên bờ suối có nhiều bóng rợp giữa đường Hà Nội-Hòa Bình, độ cao không quá 50m so với mặt biển.
 

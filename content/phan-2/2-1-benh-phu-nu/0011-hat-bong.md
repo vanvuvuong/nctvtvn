@@ -5,8 +5,6 @@ navWeight: 990
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 Hạt bông nói đây là hạt của cây bông cho ta sợi để dệt vải. Hạt bông sau khi đã lấy sợi đi rồi, trước khi người ta đổ bỏ đi, gần đây người ta đă dùng ép lấy dầu để thắp và nấu xà phòng hoặc để ăn sau khi đã loại chất gossypola đi rồi.
 
 #### A. Thành phần hoá học của hạt bông
@@ -36,4 +34,3 @@ Người ta thấy hạt bông sau khi đã loại chất gossypola có tác d�
 _*Đơn thuốc*_
 
 Hạt bông sao vàng 5g, cam thảo 2g, nước 600ml, sắc còn 200ml. Chia ba lần uống trong ngày (đơn ghi trong _Hoà hán dược ứng dụng phương_). Xưa kia Nhật Bản có ra một số biệt dược lợi sữa chế từ hạt bông với tên lactaogon (lactaogol), mamain, lactomin (lactomil) v.v ....
-

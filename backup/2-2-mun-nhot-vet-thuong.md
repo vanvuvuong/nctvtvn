@@ -629,7 +629,7 @@ Paris hainanensis Merr. Cây này có thân to, cao chừng 0,80m, vành lá g�
 
 Còn thấy ở Trung Quốc, đảo Hải Nam.
 
-Paris fargesii Franch. Thân cao chừng l-l,3m vành lá gồm 5 lá ở khoảng 2/3 phía trên thân, cuống lá dài 5-5,5cm, phiến lá hình bầu dục, phía cuống hình tim, đầu nhọn, 5 gân. Lá đài hình mác, dài 6cm, rộng l,2cm. Cánh tràng hình sợi, ngắn hơn lá đài. Ra hoa vào tháng 4, kết quả vào tháng 6. So với các loài trên thì hiếm hơn. Cũng thấy ở quanh vùng Sapa, vào độ cao 1.500m có thấy ở Trung Quốc.
+Paris fargesii Franch. Thân cao chừng l-1,3m vành lá gồm 5 lá ở khoảng 2/3 phía trên thân, cuống lá dài 5-5,5cm, phiến lá hình bầu dục, phía cuống hình tim, đầu nhọn, 5 gân. Lá đài hình mác, dài 6cm, rộng l,2cm. Cánh tràng hình sợi, ngắn hơn lá đài. Ra hoa vào tháng 4, kết quả vào tháng 6. So với các loài trên thì hiếm hơn. Cũng thấy ở quanh vùng Sapa, vào độ cao 1.500m có thấy ở Trung Quốc.
 
 Trong số 2 loài chưa xác định được tên, có một loài cao tới 2,5m. Pételot phát hiện thấy 2 cây ở gần một khe nhỏ giữa đường Sapa - Bình Lư. Loại thứ hai được phát hiện ở dốc 400m vùng núi Ba Vì (Hoà Bình) và trên bờ suối có nhiều bóng rợp giữa đường Hà Nội-Hòa Bình, độ cao không quá 50m so với mặt biển.
 
@@ -1529,7 +1529,7 @@ Thanh đại (Indigo pulverata levis) là màu xanh chế từ nhiều cây khá
 
 #### A. Mô tả cây
 
-Cây chàm (Indigofera tinctoria L.) là một loại cây nhỏ, sống hàng năm, cao 50-70cm, cành non có lông ngắn trắng. Lá mọc so le, kép, dìa lẻ gồm 7-15 lá chét. Toàn lá dài 3-5cm, lá chét dài l,5-l,8cm, khi lá khô có màu xanh lam.
+Cây chàm (Indigofera tinctoria L.) là một loại cây nhỏ, sống hàng năm, cao 50-70cm, cành non có lông ngắn trắng. Lá mọc so le, kép, dìa lẻ gồm 7-15 lá chét. Toàn lá dài 3-5cm, lá chét dài l,5-1,8cm, khi lá khô có màu xanh lam.
 
 Cụm hoa mọc thành chùm ở kẽ lá. Cánh hoa hình bướm, màu đỏ vàng. Quả dài chừng 2,5cm, trong chứa 5-12 hạt, hơi có hình lập phương (Hình 72).
 
@@ -1791,7 +1791,7 @@ Nhiều người gọi nhầm cây chè vằng là cây lá ngón, nhưng một 
 
 #### A. Mô tả cây
 
-Cây chè vằng là một cây nhỏ, mọc thành bụi ở bờ rào hay bụi tre hoặc bám vào các cây lớn. Thân cây cứng, chia thành từng đốt, đường kính 5-6mm, chia thành nhiều cành, có thể vươn cao 1-l,5m và vươn dài tới 15-20m, thân và cành đều nhẵn. Lá mọc đối, hình mũi mác, phía cuống tù hay hơi tròn, đầu lá nhọn, dài 4-7,5cm, rộng 2-4,5cm,những lá phía trên nhỏ hơn lá phía dưới, mép nguyên, trên có 3 gân rõ rệt. Cuống lá nhẵn, dài 3-12mm. Hoa mọc thành xim nhiều hoa (chừng 7-9 hoa), cánh hoa màu trắng. Quả hình cầu, đường kính 7-8mm (bằng hột ngô). Khi chín có màu vàng, trong quả có một hạt rắn chắc. Mùa quả chín tháng 7-10 (Hình 80, Hm 10,4).
+Cây chè vằng là một cây nhỏ, mọc thành bụi ở bờ rào hay bụi tre hoặc bám vào các cây lớn. Thân cây cứng, chia thành từng đốt, đường kính 5-6mm, chia thành nhiều cành, có thể vươn cao 1-1,5m và vươn dài tới 15-20m, thân và cành đều nhẵn. Lá mọc đối, hình mũi mác, phía cuống tù hay hơi tròn, đầu lá nhọn, dài 4-7,5cm, rộng 2-4,5cm,những lá phía trên nhỏ hơn lá phía dưới, mép nguyên, trên có 3 gân rõ rệt. Cuống lá nhẵn, dài 3-12mm. Hoa mọc thành xim nhiều hoa (chừng 7-9 hoa), cánh hoa màu trắng. Quả hình cầu, đường kính 7-8mm (bằng hột ngô). Khi chín có màu vàng, trong quả có một hạt rắn chắc. Mùa quả chín tháng 7-10 (Hình 80, Hm 10,4).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -2023,7 +2023,7 @@ Phong là tên đông y của bệnh hủi và giống hủi, đại phong tử 
 
 #### A. Mô tả cây
 
-Cây to, thân mọc thẳng đứng, có thể cao 25- 30m, đường kính thân trung bình 0,4-l,3m, nếu mọc gần nước thường chỉ cao 10-12m, đường kính 0,8m phân rất nhiều cành to, cành lá xanh tốt quanh năm cho nên nhiều thành phố dùng làm cây cho bóng mát, vỏ thân rất nhiều xơ, lá dài hình mác hai đầu hơi nhọn, mép nguyên, dài 10-30cm, rộng 3-7cm, mặt trên mờ, mặt dưới hơi vàng nhạt, 8-10 đôi gân bên, cuống lá dài 12-15mm. Cụm hoa mọc ở nách lá gồm 2 đến 5 chùm mang ít hoa, mọc về một phía. Hoa màu hồng, cùng gốc hay tạp tính. Quả hình cầu giống như quả cam to màu nâu nhạt, trong chứa 30-40 hạt nhiều cạnh, dài 2cm, rộng lcm, vỏ cứng, phôi nhũ nhiều. Mùa hoa: tháng 11-12, mùa quà: tháng 7-8 (Hình 87, Hm 46,2).
+Cây to, thân mọc thẳng đứng, có thể cao 25- 30m, đường kính thân trung bình 0,4-1,3m, nếu mọc gần nước thường chỉ cao 10-12m, đường kính 0,8m phân rất nhiều cành to, cành lá xanh tốt quanh năm cho nên nhiều thành phố dùng làm cây cho bóng mát, vỏ thân rất nhiều xơ, lá dài hình mác hai đầu hơi nhọn, mép nguyên, dài 10-30cm, rộng 3-7cm, mặt trên mờ, mặt dưới hơi vàng nhạt, 8-10 đôi gân bên, cuống lá dài 12-15mm. Cụm hoa mọc ở nách lá gồm 2 đến 5 chùm mang ít hoa, mọc về một phía. Hoa màu hồng, cùng gốc hay tạp tính. Quả hình cầu giống như quả cam to màu nâu nhạt, trong chứa 30-40 hạt nhiều cạnh, dài 2cm, rộng lcm, vỏ cứng, phôi nhũ nhiều. Mùa hoa: tháng 11-12, mùa quà: tháng 7-8 (Hình 87, Hm 46,2).
 
 #### B. Phân bố, thu hái và chế biến
 

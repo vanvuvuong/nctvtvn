@@ -5,8 +5,6 @@ navWeight: 987
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi là_ bồ ngót, bù ngót, hắc diện thần (Trung Quốc).
 
 Tên khoa học _Sauropus androgynus (L) Merr_.
@@ -43,11 +41,10 @@ Thêm ít nước đã đun sôi để nguội vào. Vắt lấy chừng 100 ml 
 
 Có người dùng đơn thuốc này chữa chậm kinh có kết quả (Đỗ Tất Lợi).
 
-Có người chỉ gìă nhỏ đắp vào gan bàn chần (Y học thực hành, tháng 2/1960 và 10/1961).
+Có người chỉ gìă nhỏ đắp vào gan bàn chần (*Y học thực hành*, tháng 2/1960 và 10/1961).
 
 _Chữa tưa lưỡi_: Giã lá rau ngót tươi độ 5-10g. Vắt lấy nước. Thấm vào bông đánh lên lưỡi, lợi và vòm miệng trẻ em, chỉ hai ngày sau là bú được.
 
 _Chữa hóc_: Giã cây tươi, vắt lấy nước ngậm.
 
 Chú ý nghiên cứu thêm.
-

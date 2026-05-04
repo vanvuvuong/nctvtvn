@@ -981,7 +981,7 @@ Tên là cỏ đuôi lươn vì ngọn và cụm hoa giống đuôi con lươn. 
 
 #### A. Mô tả cây
 
-Cỏ đuôi lươn là một loại cỏ mọc đứng, cao chừng 0,35-l,30m. Trên thân có rất nhiều lông ngắn màu trắng, trông như len, nhiều nhất là ở phía dưới cụm hoa. Lá hình gươm, dài 8-70 cm, rộng 4-10mm, phía trên có vạch dọc, phía dưới có lông; lá ở gốc phủ lên nhau, có khi 4-5 lá, dài và hẹp; lá trên thân nhỏ hơn, mọc so le. Cụm hoa mọc thành bông dài 2-5cm. Lá bắc tồn tại như lá nhưng nhỏ có lông hoặc không có lông, Hoa mọc so le, không cuống. Đài 2, tràng 2, nhị 1, bầu 3 ngăn không rõ. Quả nang có lá bắc bao bọc, có lông mịn ( Hình 22 ).
+Cỏ đuôi lươn là một loại cỏ mọc đứng, cao chừng 0,35-1,30m. Trên thân có rất nhiều lông ngắn màu trắng, trông như len, nhiều nhất là ở phía dưới cụm hoa. Lá hình gươm, dài 8-70 cm, rộng 4-10mm, phía trên có vạch dọc, phía dưới có lông; lá ở gốc phủ lên nhau, có khi 4-5 lá, dài và hẹp; lá trên thân nhỏ hơn, mọc so le. Cụm hoa mọc thành bông dài 2-5cm. Lá bắc tồn tại như lá nhưng nhỏ có lông hoặc không có lông, Hoa mọc so le, không cuống. Đài 2, tràng 2, nhị 1, bầu 3 ngăn không rõ. Quả nang có lá bắc bao bọc, có lông mịn ( Hình 22 ).
 
 ![co-duoi-luon](images/22-co-duoi-luon.png)
 
@@ -1011,7 +1011,7 @@ Quy là về, vì vị thuốc này có tác dụng điều khí, nuôi huyết,
 
 #### A. Mô tả cây
 
-Đương quy là một loại cây nhỏ, sống lâu năm, cao chừng 40-80cm, thân màu tím có rãnh dọc. Lá mọc so le, 2-3 lần xẻ lông chim, cuống dài 3-l2cm, 3 đôi lá chét; đôi lá chét phía dưới có cuống đài, đôi lá chét phía trên đỉnh không có cuống; lá chét lại xẻ 1-2 lần nữa, mép có răng cưa, phía dưới cuống phát triển dài gần 1/2 cuống, ôm lấy thân. Hoa rất nhỏ màu xanh trắng họp thành cụm hoa hình tán kép gồm 12-40 hoa. Quả bế có rìa màu tím nhạt. Ra hoa vào tháng 7-8 ( Hình 23, Hm 3,1) .
+Đương quy là một loại cây nhỏ, sống lâu năm, cao chừng 40-80cm, thân màu tím có rãnh dọc. Lá mọc so le, 2-3 lần xẻ lông chim, cuống dài 3-12cm, 3 đôi lá chét; đôi lá chét phía dưới có cuống đài, đôi lá chét phía trên đỉnh không có cuống; lá chét lại xẻ 1-2 lần nữa, mép có răng cưa, phía dưới cuống phát triển dài gần 1/2 cuống, ôm lấy thân. Hoa rất nhỏ màu xanh trắng họp thành cụm hoa hình tán kép gồm 12-40 hoa. Quả bế có rìa màu tím nhạt. Ra hoa vào tháng 7-8 ( Hình 23, Hm 3,1) .
 
 #### B. Phân bố, thu hái và chế biến
 

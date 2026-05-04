@@ -5,8 +5,6 @@ navWeight: 979
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi là_ cây hoa lý, hoa thiên lý, dạ lài hương
 Tên khoa học _Telosma cordata (Burm.f.) Merr. (Asclepias cordata Burm.f., Pergularia_ minor Andr. Pergularia odoratissima Wight, Asclepias odoratissima Roxb.).
 Thuộc họ Thiên lý Asclepiadaceae.
@@ -31,4 +29,3 @@ Gần đây bệnh viện Thái Bình (Y học thực hành, tháng 5-1962) đã
 Chữa lòi dom: Lá thiên lý 100g, muối ăn 5g.
 Hái lá thiên lý non và lá bánh tẻ, rửa sạch, giã nhỏ với muối, thêm chừng 30ml nước cất, lọc qua vải gạc. Dùng nước này tẩm vào bông đắp lên chỗ dom đã rửa sạch bằng thuốc tím. Băng như đóng khố. Ngày làm một hay hai lần. Trong vòng 3-4 ngày thường khỏi. Có thể chế thành thuốc mỡ (vadơlin 50g, lanôlin 40g, dung dịch thiên lý nói trên 10 ml).
 Chữa sa dạ con: Cũng dùng như trên. Thường 3-4 hôm sau khi dùng thuốc đã thấy kết quả. Nhưng trong báo cáo có cho biết đã dùng điều trị 9 trường hợp, thì 8 trường hợp nhẹ khỏi, 1 trường hợp đã sa dạ con trên 6 tháng không khỏi.
-

@@ -5,8 +5,6 @@ navWeight: 999
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi_ là củ gấu, cỏ gấu, cỏ cú.
 
 Tên khoa học _*Cyperus rotundus L*_.
@@ -94,4 +92,3 @@ _Thuốc ống HA1_. Từ 1964, để tránh nhầm lẫn và tiết kiệm ốn
 Theo báo cáo của bệnh viện Việt-Tiệp Hải Phòng (_Y học thực hành_ 5-1965) trên 90% bệnh nhân dùng thuốc đều phát biểu có cảm giác dễ chịu khi uống thuốc. Uống thuốc này bệnh nhân thích hơn các tân dược vì _"không nóng"_. Nhiều bệnh nhân so sánh rằng HAI giảm nhức đầu chậm hơn resecpin nhưng êm dịu hơn, đồng thời lại khoan khoái dễ chịu vì ăn ngủ được và thậm chí, tiếng kêu chim chíp trong đầu mất hẳn.
 
 Tại những nơi không có điều kiện đóng ống, ta có thể sắc mỗi ngày một lần dùng cho cả ngày theo đơn thuốc sau đây: Hương phụ, ngải cứu, ích mẫu, lá bạch đồng nữ mỗi vị 4 hay 6g, thêm 300ml nước, đun sôi và giữ sôi trong nửa giờ. Thêm đường vào cho ngọt mà uống trong ngày.
-

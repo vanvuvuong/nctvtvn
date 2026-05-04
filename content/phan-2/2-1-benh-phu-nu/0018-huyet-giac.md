@@ -5,8 +5,6 @@ navWeight: 983
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi là_ cây xó nhà, cây dứa dại, cây giáng ông.
 Tên khoa học _Pleomele cochinchinensis Merr. (Dracaena loureiri Gagnep._)
 Thuộc họ Hành Alliaceae.
@@ -35,4 +33,3 @@ Sơ bộ nghiên cứu tác dụng giãn mạch trên tai thỏ, thấy chất t
 
 Huyết giác còn là một vị thuốc dùng trong phạm vi nhân dân, chưa thấy được ghi trong một tài liệu nào.
 Nhân dân dùng chữa những trường hợp ứ huyết, bị thương, máu tím bầm không lưu thông. Dùng cho cả nam và nữ. Đối với nữ còn dùng khi kinh nguyệt bế. Liều dùng: ngày 10-20g dưới dạng thuốc sắc, ngâm ruợu uống và xoa.
-

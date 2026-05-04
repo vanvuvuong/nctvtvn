@@ -5,8 +5,6 @@ navWeight: 988
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn có tên là_ cây gỗ vang, cây vang nhuộm, cây tô phượng( do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc).
 
 Tên khoa học _Caesalpinia sappan L_.
@@ -94,4 +92,3 @@ Nước sắc gỗ vang còn dùng để nhuộm đồ gỗ trước khi đánh 
 1. _Bài thuốc chữa kinh nguyệt không đều hoặc đẻ xong đau bụng từng cơn:_
    Tô mộc 10g, huyền hồ sách 6g, sơn tra 10g, hồng hoa 3g, ngũ linh chi 8g, đương quy thân 10g, nước 600ml, sắc còn 200ml. Chia 3 lần uống trong ngày.
 2. _Đẻ xong ra huyết nhiều:_ Tô mộc 12g, sắc với 200ml nước còn 100ml. Chia 2 lần uống trong ngày.
-

@@ -5,8 +5,6 @@ navWeight: 993
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn có tên là_ cây hoa ngũ sắc, cây hoa ngũ vị, cỏ hôi.
 
 Tên khoa học _Ageratum conyzoides L_.
@@ -58,4 +56,3 @@ _Chú thích:_
 Đừng nhầm cây cứt lợn nói đây với cây bông ổi (ngũ sắc) và cây hy thiêm nhiều nơi cũng gọi là cây cứt lợn (xem các vị thuốc này).
 
 Một số người thấy cây cứt lợn này có tác dụng tốt, nhưng tên lại xấu xí cho nên đã gọi cây này là cây ngũ sắc, ngũ vị hay còn gọi là cây bông ổi. Vậy chú ý tránh nhâm lẫn, dùng sẽ không thấy có tác dụng mong muốn.
-

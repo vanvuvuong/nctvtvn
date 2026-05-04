@@ -51,7 +51,7 @@ A. Mô ỉả cây
 
 Cây nhỏ hoặc nhỡ cao 2,5-5m. Toàn cảnh, lá phủ một lớp lông dày hình sao màu vàng nhạt, hoặc vàng xám. Lá mọc cách, hình thuôn, hai đầu nhọn, mép nguyên, cà hai mặt đều có lông mịn, dày hơn ở mặt dưới, cuống lá dài 2-4cm.
 
-Cụm hoa hình xìm lưỡng phân hoặc xim ngù, hoa hình chén, phủ đầy lông mềm, ưàng hoa màu vàng nhạt, đường kính 0,5-l,3cm, với 6 cánh hoa hình mũi mác, đầu nhọn. Quả nhỏ, hình cầu, đường kính 6mm, hạt rất nhiều có vân mạng đường kính 2mm.
+Cụm hoa hình xìm lưỡng phân hoặc xim ngù, hoa hình chén, phủ đầy lông mềm, ưàng hoa màu vàng nhạt, đường kính 0,5-1,3cm, với 6 cánh hoa hình mũi mác, đầu nhọn. Quả nhỏ, hình cầu, đường kính 6mm, hạt rất nhiều có vân mạng đường kính 2mm.
 
 Lá cây khi vò có mùi thơm phảng phất mùi hổng bì ( Hình 95, Hm 52,2 ).
 

@@ -117,7 +117,7 @@ Sơn tra (Fructus Crataegi) là quả chín thái mỏng phơi hay sấy khô c�
 
 #### A. Mô tả cây
 
-Bắc sơn tra (Crataegus pinnatifida) là một cây cao 6m, cành nhỏ thường có gai. Lá dài 5-10cm, rộng 4-7cm, có 3-5 thùy, mép có răng cưa, mặt dưới dọc theo các gân có lông mịn, cuống lá dài 2-6cm. Hoa mẫu 5, họp thành tán. Đài có lông mịn, cánh hoa màu trắng, 20 nhị. Quả hình cầu, đường kính l-l,5cm, khi chín có màu đỏ thắm ( Hình 266 ).
+Bắc sơn tra (Crataegus pinnatifida) là một cây cao 6m, cành nhỏ thường có gai. Lá dài 5-10cm, rộng 4-7cm, có 3-5 thùy, mép có răng cưa, mặt dưới dọc theo các gân có lông mịn, cuống lá dài 2-6cm. Hoa mẫu 5, họp thành tán. Đài có lông mịn, cánh hoa màu trắng, 20 nhị. Quả hình cầu, đường kính l-1,5cm, khi chín có màu đỏ thắm ( Hình 266 ).
 
 []
 

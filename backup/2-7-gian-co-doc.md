@@ -704,7 +704,7 @@ Sơn tra (Fructus Crataegi) là quả chín thái mỏng phơi hay sấy khô c�
 
 #### A. Mô tả cây
 
-Bắc sơn tra (Crataegus pinnatifida) là một cây cao 6m, cành nhỏ thường có gai. Lá dài 5-10cm, rộng 4-7cm, có 3-5 thùy, mép có răng cưa, mặt dưới dọc theo các gân có lông mịn, cuống lá dài 2-6cm. Hoa mẫu 5, họp thành tán. Đài có lông mịn, cánh hoa màu trắng, 20 nhị. Quả hình cầu, đường kính l-l,5cm, khi chín có màu đỏ thắm ( Hình 266 ).
+Bắc sơn tra (Crataegus pinnatifida) là một cây cao 6m, cành nhỏ thường có gai. Lá dài 5-10cm, rộng 4-7cm, có 3-5 thùy, mép có răng cưa, mặt dưới dọc theo các gân có lông mịn, cuống lá dài 2-6cm. Hoa mẫu 5, họp thành tán. Đài có lông mịn, cánh hoa màu trắng, 20 nhị. Quả hình cầu, đường kính l-1,5cm, khi chín có màu đỏ thắm ( Hình 266 ).
 
 []
 
@@ -1520,7 +1520,7 @@ Hậu phác Việt Nam-nam hậu phúc. Chưa có ai xác định chắc chắn.
 
 #### A. Mô tả cây
 
-Cây hậu phác chính thức (Magnolia officinalis Rehd. et Wils.) là một cây to, cao từ 7-15m, vỏ than tím nâu. Lá mọc so le, cuống to, mập dài từ 2,4- 4,4cm, không lông, phiến lá hình trứng thuôn, dài 22-40cm, rộng từ 10-20cm, đầu hơi nhọn, phía cuống hẹp lại. Hoa màu trắng, thơm, đường kính có thể tới 12cm, cuống hoa to thô. Quả kép (gồm nhiều đại rời), hình trứng dài từ 9-l2cm, đường kính từ 5-6,5cm.
+Cây hậu phác chính thức (Magnolia officinalis Rehd. et Wils.) là một cây to, cao từ 7-15m, vỏ than tím nâu. Lá mọc so le, cuống to, mập dài từ 2,4- 4,4cm, không lông, phiến lá hình trứng thuôn, dài 22-40cm, rộng từ 10-20cm, đầu hơi nhọn, phía cuống hẹp lại. Hoa màu trắng, thơm, đường kính có thể tới 12cm, cuống hoa to thô. Quả kép (gồm nhiều đại rời), hình trứng dài từ 9-12cm, đường kính từ 5-6,5cm.
 
 Thứ hậu phác Magnolia officinalis var. biloba Rehd. et Wils, rất giống loài trên, chỉ khác ở đầu lá hõm xuống chia làm hai thùy (Hình 279, Hm 57,4).
 
@@ -1728,7 +1728,7 @@ Trồng bằng thân rễ. Thu hoạch vào mùa đông. Khi thu hái, cắt b�
 
 #### C. Thành phần hoá học
 
-Trong nga truật có chừng l-l,5%tinh dầu; 3,5% chất nhựa và chất nhầy. Trong tinh dầu thành phần chủ yếu gồm có 48% secquitecpen; 35% zingiberen; 9,65 xineol và một chất có tinh thể. Tinh dầu có màu vàng xanh nhạt, sánh, tỷ trọng 0,982 mùi vị gần như mùi long não.
+Trong nga truật có chừng l-1,5%tinh dầu; 3,5% chất nhựa và chất nhầy. Trong tinh dầu thành phần chủ yếu gồm có 48% secquitecpen; 35% zingiberen; 9,65 xineol và một chất có tinh thể. Tinh dầu có màu vàng xanh nhạt, sánh, tỷ trọng 0,982 mùi vị gần như mùi long não.
 
 #### D. Công dụng và liều dùng
 

@@ -5,8 +5,6 @@ navWeight: 977
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi là_ đại thanh, đắng cay, mẩy kỳ cáy, thanh thảo tâm, bọ nẹt.
 Tên khoa học _Clerodendron cyrtophyllum Turcz. (Clerodendron amplius Hance_,
 Clerodendron formosanum Maxim., Cordia venosa Hemsl.).
@@ -27,4 +25,3 @@ Chưa thấy tài liệu nghiên cứu. Sơ bộ chúng tôi thấy có ancaloit
 
 Chỉ mới thấy dùng trong phạm vi nhân dân. 10 Thường dùng cho phụ nữ sau khi sinh nở; sao vàng sắc uống cho ăn ngon com, chóng lại sức. Ngày dùng từ 10 đến 15g.
 Nhân dân tỉnh Hồ Nam Trung Quốc dùng bọ mẩy chữa sốt phát ban, viêm amyđan, cổ họng, lỵ trực trùng.
-

@@ -70,7 +70,7 @@ A. Mô ỉả cây
 
 Cây nhỏ hoặc nhỡ cao 2,5-5m. Toàn cảnh, lá phủ một lớp lông dày hình sao màu vàng nhạt, hoặc vàng xám. Lá mọc cách, hình thuôn, hai đầu nhọn, mép nguyên, cà hai mặt đều có lông mịn, dày hơn ở mặt dưới, cuống lá dài 2-4cm.
 
-Cụm hoa hình xìm lưỡng phân hoặc xim ngù, hoa hình chén, phủ đầy lông mềm, ưàng hoa màu vàng nhạt, đường kính 0,5-l,3cm, với 6 cánh hoa hình mũi mác, đầu nhọn. Quả nhỏ, hình cầu, đường kính 6mm, hạt rất nhiều có vân mạng đường kính 2mm.
+Cụm hoa hình xìm lưỡng phân hoặc xim ngù, hoa hình chén, phủ đầy lông mềm, ưàng hoa màu vàng nhạt, đường kính 0,5-1,3cm, với 6 cánh hoa hình mũi mác, đầu nhọn. Quả nhỏ, hình cầu, đường kính 6mm, hạt rất nhiều có vân mạng đường kính 2mm.
 
 Lá cây khi vò có mùi thơm phảng phất mùi hổng bì ( Hình 95, Hm 52,2 ).
 
@@ -758,7 +758,7 @@ Tên thổ kinh giới là tên Trung Quốc giới thiệu. Cần biết để 
 
 #### A. Mô tả cây
 
-Cây dầu giun là một loại cỏ sống hằng năm, nhưng cũng có khi ở đất tốt và cao ráo mọc 2-3 năm. Cao chừng lm-l,5m hay hơn. vỏ lá, thân và hoa có mùi hăng đặc biệt. Lá có cuống, mọc cách dài thon, một đầu nhọn, màu lục nhại, phiến lá không phảng, chung quanh có răng cưa thưa và khỏng rõ rệt, dài chừng 35-75mm, rộng 13- 25mm. Trên lá có lông, thưcmg ở các gân lá, nhất là ở mặt dưới. Hoa mọc tập trung thành xim đơm (glomerule) ở kẽ lá. Giữa chùm là hoa đực hay hoa lưỡng tính, xung quanh có hoa cái nhỏ và không có cuống. Đường kính hoa độ lmm, bao hoa có cánh hình bầu dục, hoa có 5 nhị, nhưng có khi chỉ có 3 hoặc 2, bầu hình bầu dục. Quả là những bế quả màu lục nhạt hay nâu nhạt, hình cầu, đường kính chừng l,5mm, cùi mỏng, có lá đài không rụng, trong chứa một hạt nhò đen và bóng. VỊ hắc đặc biệt.
+Cây dầu giun là một loại cỏ sống hằng năm, nhưng cũng có khi ở đất tốt và cao ráo mọc 2-3 năm. Cao chừng lm-1,5m hay hơn. vỏ lá, thân và hoa có mùi hăng đặc biệt. Lá có cuống, mọc cách dài thon, một đầu nhọn, màu lục nhại, phiến lá không phảng, chung quanh có răng cưa thưa và khỏng rõ rệt, dài chừng 35-75mm, rộng 13- 25mm. Trên lá có lông, thưcmg ở các gân lá, nhất là ở mặt dưới. Hoa mọc tập trung thành xim đơm (glomerule) ở kẽ lá. Giữa chùm là hoa đực hay hoa lưỡng tính, xung quanh có hoa cái nhỏ và không có cuống. Đường kính hoa độ lmm, bao hoa có cánh hình bầu dục, hoa có 5 nhị, nhưng có khi chỉ có 3 hoặc 2, bầu hình bầu dục. Quả là những bế quả màu lục nhạt hay nâu nhạt, hình cầu, đường kính chừng l,5mm, cùi mỏng, có lá đài không rụng, trong chứa một hạt nhò đen và bóng. VỊ hắc đặc biệt.
 
 Thân cây non, lá, bầu hoa có lông thuộc 3 loại: lông che chở đa tế bào, lông che chờ đa tế bào nhưng tế bào sau cùng lớn hơn, thành góc với các tế bào khác và lông bài tiết, chân ngắn gồm 1 hay 2 tế bào, tận cùng bằng một tế bào phồng to lên. Hái toàn cây và hạt để cất tinh dầu
 
@@ -1158,7 +1158,7 @@ có lỏng hình khiên. Cụm hoa xim hai ngả, 4-5 lá đài, 4-5 cánh hoa m
 
 #### B. Phân bố, thu hái và chê biến
 
-Xoan là một cây mọc hoang và được trông nhiều nơi trong nước ta, miền núi cũng như miền xuôi, ở miền xuôi cây mọc khỏe hơn. Nhân dân ta hay trồng xoan vì dễ trồng, chóng lớn. Chỉ sau 6-7 nãm là đã có thể khai thác lấy gỗ làm cột nhà, làm đồ dùng. Xoan thích hợp với nhiều loại đất: bãi cát, đồng bằng, đồi núi, nương rẫy. Thường trồng bằng hạt; vào khoảng tháng 12 hạt xoan đã chín, hái về ngâm nước, chà sạch lớp thịt bên ngoài, đem phơi khô cất nơi khô ráo. Hạt xoan có thể giữ từ 7-8 tháng. Khi trồng đào hốc sâu 25-30cm, rộng 30-40cm, hố này cách hô' kia l-l,5m mỗi hốc gieo 3-4 hạt.
+Xoan là một cây mọc hoang và được trông nhiều nơi trong nước ta, miền núi cũng như miền xuôi, ở miền xuôi cây mọc khỏe hơn. Nhân dân ta hay trồng xoan vì dễ trồng, chóng lớn. Chỉ sau 6-7 nãm là đã có thể khai thác lấy gỗ làm cột nhà, làm đồ dùng. Xoan thích hợp với nhiều loại đất: bãi cát, đồng bằng, đồi núi, nương rẫy. Thường trồng bằng hạt; vào khoảng tháng 12 hạt xoan đã chín, hái về ngâm nước, chà sạch lớp thịt bên ngoài, đem phơi khô cất nơi khô ráo. Hạt xoan có thể giữ từ 7-8 tháng. Khi trồng đào hốc sâu 25-30cm, rộng 30-40cm, hố này cách hô' kia l-1,5m mỗi hốc gieo 3-4 hạt.
 
 Khi lấy vỏ làm thuốc nên chọn những cây đã đến tuổi khai thác gỗ (6-7 năm), chặt cả cây, cạo bò vỏ đen rối bóc lấy lớp vỏ lụa trắng của vỏ thân, vò cành to; nếu cần đào cả rễ, bóc lấy lớp vỏ bỏ gỗ lại vần dùng làm củi được. Như vậy, trước đây khi khai thác xoan ta thường cạo vỏ bỏ đi hay chỉ đào rễ xoan làm củi thì nay kết hợp Ịây vỏ làm thuốc. Gỗ và rê vẫn dùng như cũ. Ta còn có thể đào rễ ở những cây xoan còn sống, hay bóc lấy lớp vỏ ở thân những cây xoan còn đang phát ưiển. Nhưng chú ý để đủ vỏ cho cây sống.
 
@@ -1386,7 +1386,7 @@ Có khi người ta chế hạt bí ngô thành bột đã loại chất béo đ
 
 uống phối hợp với nước sắc hạt cau: Do nghiên cứu thấy nưdc sắc hạt cau có tác dụng làm tê liệt sán bò và sán lợn nhưng chỉ mạnh đối với đầu con sán và những đốt chưa thành thuộc, ưái lại hạt bí ngô có tác dụng chủ yếu là tê liệt khúc giữa và khúc đuôi con sán, cho nên các nhà y học Trung Quốc dùng như sau:
 
-'Sáng sớm: Lúc đói bụng, ăn 60-l20g hạt bí ngô (cả vỏ) nếu bỏ vỏ đi rổi chỉ ăn 40-100g thôi. Hai giờ sau uống nước sắc hạt cau (trẻ con 10 tuổi trở xuống uống 30g, phụ nữ và đàn ông bé nhỏ uống 50-60g, người lớn 80g) chế như sau: Cho hạt cau với liều nói trên vào đun vớí 500ml nước, sắc cạn còn 150-200ml. Nhỏ dung dịch gelatín 2,5% vao cho đến khi hết kết tủa (để loại hết tanin đi) để lắng gạn và lọc. Đun cho còn 150-200ml. Nửa giờ sau khi uống hạt cau sẽ uống một liêu thuốc tẩy (30g magiê suníat). Nằm nghỉ, đợi thật buồn đi ngoài, ỉa vào một chậu nước âm ấm, nhúng cà mông vào.
+'Sáng sớm: Lúc đói bụng, ăn 60-120g hạt bí ngô (cả vỏ) nếu bỏ vỏ đi rổi chỉ ăn 40-100g thôi. Hai giờ sau uống nước sắc hạt cau (trẻ con 10 tuổi trở xuống uống 30g, phụ nữ và đàn ông bé nhỏ uống 50-60g, người lớn 80g) chế như sau: Cho hạt cau với liều nói trên vào đun vớí 500ml nước, sắc cạn còn 150-200ml. Nhỏ dung dịch gelatín 2,5% vao cho đến khi hết kết tủa (để loại hết tanin đi) để lắng gạn và lọc. Đun cho còn 150-200ml. Nửa giờ sau khi uống hạt cau sẽ uống một liêu thuốc tẩy (30g magiê suníat). Nằm nghỉ, đợi thật buồn đi ngoài, ỉa vào một chậu nước âm ấm, nhúng cà mông vào.
 
 ### CÂY CHÂN BẦU
 
@@ -2042,7 +2042,7 @@ antidysenteria
 
 A. Mô tà cây
 
-Cây nhỏ hoặc cây to, có thể cao tới 12m. Cành non nhẵn hoặc mang lông màu nâu đỏ, trên mặt có nhiều bì khổng trắng rõ. Sẹo lá còn sót lại thường nổi lên. Lá mọc đối gần như không cuống, không có lá kèm, nguyên, hình bầu đục đầu tù hay nhọn, đáy lá tròn hoặc nhọn, dài từ 12-15cm, rộng từ 4-8cm. mặt lá bóng, màu xanh lục nhạt. Hoa trắng, mọc thành xim hình ngù b kẽ lá hay dầu cành. Quả là những đại màu nâu có vân dọc hơi hình cung dài 15-30cm, rộng 5- 7mm. Rất nhiều hạt dài 10-20mm, rộng 2- 2,5mm, dày l-l,5mm màu nâu nhạt, đáy tròn, đầu hơi hẹp lõm một mặt, trên mặt có một đưòng con màu trắng hơi nhạt. Chùm lông của hạt màu hơi hung hung, dài 2-4,5cm (Hình 126, Hm 45,2).
+Cây nhỏ hoặc cây to, có thể cao tới 12m. Cành non nhẵn hoặc mang lông màu nâu đỏ, trên mặt có nhiều bì khổng trắng rõ. Sẹo lá còn sót lại thường nổi lên. Lá mọc đối gần như không cuống, không có lá kèm, nguyên, hình bầu đục đầu tù hay nhọn, đáy lá tròn hoặc nhọn, dài từ 12-15cm, rộng từ 4-8cm. mặt lá bóng, màu xanh lục nhạt. Hoa trắng, mọc thành xim hình ngù b kẽ lá hay dầu cành. Quả là những đại màu nâu có vân dọc hơi hình cung dài 15-30cm, rộng 5- 7mm. Rất nhiều hạt dài 10-20mm, rộng 2- 2,5mm, dày l-1,5mm màu nâu nhạt, đáy tròn, đầu hơi hẹp lõm một mặt, trên mặt có một đưòng con màu trắng hơi nhạt. Chùm lông của hạt màu hơi hung hung, dài 2-4,5cm (Hình 126, Hm 45,2).
 
 Lá mầm gấp nhiều lần. Mùa hoa nỏ: tháng 3 đến tháng 7, mùa quả: tháng 6-12.
 

@@ -21,7 +21,7 @@ Phong là tên đông y của bệnh hủi và giống hủi, đại phong tử 
 
 #### A. Mô tả cây
 
-Cây to, thân mọc thẳng đứng, có thể cao 25- 30m, đường kính thân trung bình 0,4-l,3m, nếu mọc gần nước thường chỉ cao 10-12m, đường kính 0,8m phân rất nhiều cành to, cành lá xanh tốt quanh năm cho nên nhiều thành phố dùng làm cây cho bóng mát, vỏ thân rất nhiều xơ, lá dài hình mác hai đầu hơi nhọn, mép nguyên, dài 10-30cm, rộng 3-7cm, mặt trên mờ, mặt dưới hơi vàng nhạt, 8-10 đôi gân bên, cuống lá dài 12-15mm. Cụm hoa mọc ở nách lá gồm 2 đến 5 chùm mang ít hoa, mọc về một phía. Hoa màu hồng, cùng gốc hay tạp tính. Quả hình cầu giống như quả cam to màu nâu nhạt, trong chứa 30-40 hạt nhiều cạnh, dài 2cm, rộng lcm, vỏ cứng, phôi nhũ nhiều. Mùa hoa: tháng 11-12, mùa quà: tháng 7-8 (Hình 87, Hm 46,2).
+Cây to, thân mọc thẳng đứng, có thể cao 25- 30m, đường kính thân trung bình 0,4-1,3m, nếu mọc gần nước thường chỉ cao 10-12m, đường kính 0,8m phân rất nhiều cành to, cành lá xanh tốt quanh năm cho nên nhiều thành phố dùng làm cây cho bóng mát, vỏ thân rất nhiều xơ, lá dài hình mác hai đầu hơi nhọn, mép nguyên, dài 10-30cm, rộng 3-7cm, mặt trên mờ, mặt dưới hơi vàng nhạt, 8-10 đôi gân bên, cuống lá dài 12-15mm. Cụm hoa mọc ở nách lá gồm 2 đến 5 chùm mang ít hoa, mọc về một phía. Hoa màu hồng, cùng gốc hay tạp tính. Quả hình cầu giống như quả cam to màu nâu nhạt, trong chứa 30-40 hạt nhiều cạnh, dài 2cm, rộng lcm, vỏ cứng, phôi nhũ nhiều. Mùa hoa: tháng 11-12, mùa quà: tháng 7-8 (Hình 87, Hm 46,2).
 
 #### B. Phân bố, thu hái và chế biến
 

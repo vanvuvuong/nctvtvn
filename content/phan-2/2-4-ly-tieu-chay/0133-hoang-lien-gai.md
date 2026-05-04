@@ -13,7 +13,7 @@ Tên khoa học _*Berberis waỉlỉchiana DC.*_
 
 Thuộc họ Hoàng liên gai Berheridaceae.
 
-()(\*)()Cây bụi, cao 2-3m có những cành vươn đài, vỏ thân màu vàng xám nhạt, mỗi đốt, dưới chùm lá có gai ba nhánh, dài l-l,5cm. Lá mọc thành chùm 3-4 lá, có khi tới 8 lá ờ một đốt. Cuống lá ngắn 0,5-1 cm, phiến lá nguyên, hình mác, mép có răng cưa to, cứng, dài 16-17cm, rộng 4-6cm, mặt trên màu xanh lục nhạt, mặt dưới màu trắng. Hoa màu vàng, mọc thành chùm. Quả mọng hình trái xoan, dài khoảng lcm mọc trên một cuống dài 30-35mm, khi chín có màu tím đen trong chứa 3, 4 hạt đen dài 5-6 mm, rộng 2-3 mm.
+()(\*)()Cây bụi, cao 2-3m có những cành vươn đài, vỏ thân màu vàng xám nhạt, mỗi đốt, dưới chùm lá có gai ba nhánh, dài l-1,5cm. Lá mọc thành chùm 3-4 lá, có khi tới 8 lá ờ một đốt. Cuống lá ngắn 0,5-1 cm, phiến lá nguyên, hình mác, mép có răng cưa to, cứng, dài 16-17cm, rộng 4-6cm, mặt trên màu xanh lục nhạt, mặt dưới màu trắng. Hoa màu vàng, mọc thành chùm. Quả mọng hình trái xoan, dài khoảng lcm mọc trên một cuống dài 30-35mm, khi chín có màu tím đen trong chứa 3, 4 hạt đen dài 5-6 mm, rộng 2-3 mm.
 
 Mùa quả ò Sapa: tháng 5-6 (Hình 132, Hm 8,3).
 

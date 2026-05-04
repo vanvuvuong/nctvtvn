@@ -5,8 +5,6 @@ navWeight: 978
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 Trên thị trường có hai loại thược dược:
 
 1. Bạch thược là rễ phơi khô của cây Paeonia lactiflora Pall., (Paeonia albiflora Pall).
@@ -70,4 +68,3 @@ Một tác giả khác là Hoàng Cung Tú nói: _"Xích thược và bạch th�
 Đơn thuốc có xích thược
 Chữa chảy máu cam: Xích thược tán nhỏ. Mỗi lần uống 6-8g.
 Chữa băng huyết bạch đới: Xích thược, hương phụ hai vị bằng nhau, tán nhỏ. Mỗi lần uống 6- 8g. Ngày uống 2 lần. Uống trong 4-5 ngày.
-

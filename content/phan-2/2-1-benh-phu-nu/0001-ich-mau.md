@@ -5,8 +5,6 @@ navWeight: 1000
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
-
-
 _Còn gọi_ là ích mẫu thảo, sung úy, chói đèn.
 
 Tên khoa học _*Leonurus heterophyllus Sw*_.
@@ -119,4 +117,3 @@ Cao ích mẫu bán trên thị trường hiện nay thường không phải ch�
 Cao ích mẫu hiện nay được thống nhất theo đơn: Ích mẫu 800g, ngải cứu 200g, hương phụ 250g, tá được (xirô, cồn 15°) vừa đủ 1000g.
 
 _Cao hương ngải_. Xem vị hương phụ.
-

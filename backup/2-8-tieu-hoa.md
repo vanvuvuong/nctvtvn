@@ -472,7 +472,7 @@ Ta đã di thực được 2 loài quảng mộc hương và thổ mộc hương
 
 Cày quảng mộc hương hay ván mộc hương là một cây sổng lâu năm, rễ to mẫm, đường kính có thể đạt tới hơn 5cm, vỏ ngoài màu nâu nhạt. Phía gốc có lá hình 3 cạnh tròn, dài 12- 30cm, rộng 6-15cm, cuống dài 20-30cm có dìa, mép lá nguyên và hơi lượn sóng, hai mặt đều có lông, mặt dưới nhiều hơn. Trên thân cũng có lá hình 3 cạnh, nhưng càng lên trên kích thước lá càng nhỏ dần, mép có răng cưa, cuống lá càng lên cao càng ngắn lại, phía trên cùng lá gần như không cuống hay có khi như òm lấy thân cây. Hoa hình đầu, màu lam tím. Quả bế, hơi dẹt và cong queo, màu nâu nhạt, có những đốm màu tím. Mùa hoa vào các tháng 7-9, mùa
 
-quả vào các tháng 8-10. Cây thổ mộc hương cũng là một cây sống lâu năm, cao 0,50-l,50m. Phía gốc có lá to, dài tới 40cm, trên thân có lá mọc so le nhỏ hơn, dài 10-30cm, phía cuống có hai tai ôm lấy thân, mép có răng cưa không đều. Cụm hoa hình đầu, hoa màu vàng. Quả bế, đài 4mm, trên có vân dọc ( Hinhf 298 ).
+quả vào các tháng 8-10. Cây thổ mộc hương cũng là một cây sống lâu năm, cao 0,50-1,50m. Phía gốc có lá to, dài tới 40cm, trên thân có lá mọc so le nhỏ hơn, dài 10-30cm, phía cuống có hai tai ôm lấy thân, mép có răng cưa không đều. Cụm hoa hình đầu, hoa màu vàng. Quả bế, đài 4mm, trên có vân dọc ( Hinhf 298 ).
 
 #### B. Phân bố, thu hái và chê biến
 

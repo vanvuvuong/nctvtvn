@@ -181,7 +181,7 @@ antidysenteria
 
 A. Mô tà cây
 
-Cây nhỏ hoặc cây to, có thể cao tới 12m. Cành non nhẵn hoặc mang lông màu nâu đỏ, trên mặt có nhiều bì khổng trắng rõ. Sẹo lá còn sót lại thường nổi lên. Lá mọc đối gần như không cuống, không có lá kèm, nguyên, hình bầu đục đầu tù hay nhọn, đáy lá tròn hoặc nhọn, dài từ 12-15cm, rộng từ 4-8cm. mặt lá bóng, màu xanh lục nhạt. Hoa trắng, mọc thành xim hình ngù b kẽ lá hay dầu cành. Quả là những đại màu nâu có vân dọc hơi hình cung dài 15-30cm, rộng 5- 7mm. Rất nhiều hạt dài 10-20mm, rộng 2- 2,5mm, dày l-l,5mm màu nâu nhạt, đáy tròn, đầu hơi hẹp lõm một mặt, trên mặt có một đưòng con màu trắng hơi nhạt. Chùm lông của hạt màu hơi hung hung, dài 2-4,5cm (Hình 126, Hm 45,2).
+Cây nhỏ hoặc cây to, có thể cao tới 12m. Cành non nhẵn hoặc mang lông màu nâu đỏ, trên mặt có nhiều bì khổng trắng rõ. Sẹo lá còn sót lại thường nổi lên. Lá mọc đối gần như không cuống, không có lá kèm, nguyên, hình bầu đục đầu tù hay nhọn, đáy lá tròn hoặc nhọn, dài từ 12-15cm, rộng từ 4-8cm. mặt lá bóng, màu xanh lục nhạt. Hoa trắng, mọc thành xim hình ngù b kẽ lá hay dầu cành. Quả là những đại màu nâu có vân dọc hơi hình cung dài 15-30cm, rộng 5- 7mm. Rất nhiều hạt dài 10-20mm, rộng 2- 2,5mm, dày l-1,5mm màu nâu nhạt, đáy tròn, đầu hơi hẹp lõm một mặt, trên mặt có một đưòng con màu trắng hơi nhạt. Chùm lông của hạt màu hơi hung hung, dài 2-4,5cm (Hình 126, Hm 45,2).
 
 Lá mầm gấp nhiều lần. Mùa hoa nỏ: tháng 3 đến tháng 7, mùa quả: tháng 6-12.
 
