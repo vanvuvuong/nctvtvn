@@ -31,14 +31,14 @@ Quả Ké chứa:
 
 1. Carboxy atractylozit ở dạng muối có tác dụng hạ đường huyết rất mạnh, có độc tính.
 2. Xanthetin và xanthamin là những chất có tác dụng kháng khuẩn.
-   Toàn cây chứa nhiều iốt. Trong hai năm 1969 và 1970, Đỗ Tất Lợi, Phạm Kim Loan và Nguyên Văn Cát (Trường đại học dược khoa Hà Nội) đã định tính và định lượng iốt trong cây ké Việt Nam thấy rằng dù cây ké mọc ở miền núi, hay đồng bằng, gần biển hay xa biển đều có chứa iốt với hàm lượng khá cao, 1g lá hoặc thân chứa trung bình 200 microgam, 1g qủa chứa 220-230 microgam, nước sắc 15 phút cô thành cao chứa 300 microgam trong 1 g cao: Nếu nấu lâu 5 giờ có thể chứa tới 420-430 microgam trong 1g cao. Trên cơ sở phân tích ấy đã đề nghị dùng ké trong điều trị bướu cổ.
+   Toàn cây chứa nhiều iốt. Trong hai năm 1969 và 1970, Đỗ Tất Lợi, Phạm Kim Loan và Nguyên Văn Cát (Trường đại học dược khoa Hà Nội) đã định tính và định lượng iốt trong cây ké Việt Nam thấy rằng dù cây ké mọc ở miền núi, hay đồng bằng, gần biển hay xa biển đều có chứa iốt với hàm lượng khá cao, 1g lá hoặc thân chứa trung bình 200 microgam, 1g quả chứa 220-230 microgam, nước sắc 15 phút cô thành cao chứa 300 microgam trong 1 g cao: Nếu nấu lâu 5 giờ có thể chứa tới 420-430 microgam trong 1g cao. Trên cơ sở phân tích ấy đã đề nghị dùng ké trong điều trị bướu cổ.
    Tiêu chuẩn quy cách của Triều Tiên
    Độ ẩm dưới 12%, độ tro 8%, tro không tan trong axit clohydric dưới 3%. Độ cao rượu ít nhất trên 8%.
 
 #### D. Tác dụng dược lý
 
-Chưa thấy có tài liệu. Nhưng kinh nghiệm lâm sàng ở Sở da liễu Nam Xương-Giang Tây, 1959 đã sử dụng cao quả ké chữa 22 trường hợp bệnh ngoài da, kết qủa khỏi hẳn 11, đỡ rõ rệt 8, có tiến bộ 3, không có trường hợp nào không có kết quả rõ rệt.
-Trong hai năm 1969, 1970 Tổng cục lâm nghiệp Việt Nam đã dùng cao ké chế thành viên chữa bướu cổ tại một số lâm trường miền núi. Kết qủa đạt trên 80%.
+Chưa thấy có tài liệu. Nhưng kinh nghiệm lâm sàng ở Sở da liễu Nam Xương-Giang Tây, 1959 đã sử dụng cao quả ké chữa 22 trường hợp bệnh ngoài da, kết quả khỏi hẳn 11, đỡ rõ rệt 8, có tiến bộ 3, không có trường hợp nào không có kết quả rõ rệt.
+Trong hai năm 1969, 1970 Tổng cục lâm nghiệp Việt Nam đã dùng cao ké chế thành viên chữa bướu cổ tại một số lâm trường miền núi. Kết quả đạt trên 80%.
 Qua những tài liệu cũ, quả ké dùng chữa những trường hợp da xù xì màu đỏ như bị hủi. Tại nhiều vùng ở Việt Nam, Liên Xô cũ và Trung Quốc nhân dân vẫn dùng ké uống chữa mẩn ngứa, mụn nhọt và bướu cổ.
 
 #### E. Công dụng liều dùng

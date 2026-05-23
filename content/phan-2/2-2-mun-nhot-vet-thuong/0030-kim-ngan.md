@@ -61,7 +61,7 @@ Tác dụng ngăn chặn choáng phản vệ-Năm 1966, Đỗ Tất Lợi, Nguy�
 
 Kim ngân là một vị thuốc kinh nghiệm trong nhân dân, dùng chữa mụn nhọt, rôm sảy, lên đậu, lên sởi, tả lỵ, giang mai. Một số nơi nhân dân dùng pha nước uống thay nước chè.
 Theo các tài liệu cổ: Kim ngân vị ngọt, tính hàn (lạnh), không độc, vào 4 kinh phế, vị, tâm và tỳ. Có năng lực thanh nhiệt giải độc, dùng chữa sốt, mụn nhọt, tả lỵ, giang mai. Uống lâu nhẹ người tăng tuổi thọ. Nhưng những người tỳ vị hư hàn không có nhiệt độc không nên dùng.
-Trên thực tế lâm sàng, kim ngân thường được dùng riêng hay phối hợp với nhiều vị thuốc khác chữa mụn nhọt, mẩn ngứa, sốt nóng, sốt rét, tả lỵ. Gần đây trên cơ sở thực nghiệm, kim ngân được mở rộng chữa có kết qủa một số trường hợp viêm mũi dị ứng, thấp khớp và một số trường hợp dị ứng khác (Đỗ Tất Lợi và Nguyễn Năng An, 1966).
+Trên thực tế lâm sàng, kim ngân thường được dùng riêng hay phối hợp với nhiều vị thuốc khác chữa mụn nhọt, mẩn ngứa, sốt nóng, sốt rét, tả lỵ. Gần đây trên cơ sở thực nghiệm, kim ngân được mở rộng chữa có kết quả một số trường hợp viêm mũi dị ứng, thấp khớp và một số trường hợp dị ứng khác (Đỗ Tất Lợi và Nguyễn Năng An, 1966).
 Ngày dùng 4 đến 6g hoa hay 10 đến 12g cành lá dưới dạng thuốc sắc, hay thuốc cao hoặc rượu thuốc. Có thể dùng riêng vị kim ngân hay phối hợp với nhiều vị thuốc khác.
 Một số người uống kim ngân đi ỉa lỏng, chỉ cần giảm liều xuống hoặc nghỉ uống là hết.
 Đơn thuốc có kim ngân

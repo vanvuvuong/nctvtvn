@@ -150,7 +150,7 @@ Tác dụng ngăn chặn choáng phản vệ-Năm 1966, Đỗ Tất Lợi, Nguy�
 
 Kim ngân là một vị thuốc kinh nghiệm trong nhân dân, dùng chữa mụn nhọt, rôm sảy, lên đậu, lên sởi, tả lỵ, giang mai. Một số nơi nhân dân dùng pha nước uống thay nước chè.
 Theo các tài liệu cổ: Kim ngân vị ngọt, tính hàn (lạnh), không độc, vào 4 kinh phế, vị, tâm và tỳ. Có năng lực thanh nhiệt giải độc, dùng chữa sốt, mụn nhọt, tả lỵ, giang mai. Uống lâu nhẹ người tăng tuổi thọ. Nhưng những người tỳ vị hư hàn không có nhiệt độc không nên dùng.
-Trên thực tế lâm sàng, kim ngân thường được dùng riêng hay phối hợp với nhiều vị thuốc khác chữa mụn nhọt, mẩn ngứa, sốt nóng, sốt rét, tả lỵ. Gần đây trên cơ sở thực nghiệm, kim ngân được mở rộng chữa có kết qủa một số trường hợp viêm mũi dị ứng, thấp khớp và một số trường hợp dị ứng khác (Đỗ Tất Lợi và Nguyễn Năng An, 1966).
+Trên thực tế lâm sàng, kim ngân thường được dùng riêng hay phối hợp với nhiều vị thuốc khác chữa mụn nhọt, mẩn ngứa, sốt nóng, sốt rét, tả lỵ. Gần đây trên cơ sở thực nghiệm, kim ngân được mở rộng chữa có kết quả một số trường hợp viêm mũi dị ứng, thấp khớp và một số trường hợp dị ứng khác (Đỗ Tất Lợi và Nguyễn Năng An, 1966).
 Ngày dùng 4 đến 6g hoa hay 10 đến 12g cành lá dưới dạng thuốc sắc, hay thuốc cao hoặc rượu thuốc. Có thể dùng riêng vị kim ngân hay phối hợp với nhiều vị thuốc khác.
 Một số người uống kim ngân đi ỉa lỏng, chỉ cần giảm liều xuống hoặc nghỉ uống là hết.
 Đơn thuốc có kim ngân
@@ -185,14 +185,14 @@ Quả Ké chứa:
 
 1. Carboxy atractylozit ở dạng muối có tác dụng hạ đường huyết rất mạnh, có độc tính.
 2. Xanthetin và xanthamin là những chất có tác dụng kháng khuẩn.
-   Toàn cây chứa nhiều iốt. Trong hai năm 1969 và 1970, Đỗ Tất Lợi, Phạm Kim Loan và Nguyên Văn Cát (Trường đại học dược khoa Hà Nội) đã định tính và định lượng iốt trong cây ké Việt Nam thấy rằng dù cây ké mọc ở miền núi, hay đồng bằng, gần biển hay xa biển đều có chứa iốt với hàm lượng khá cao, 1g lá hoặc thân chứa trung bình 200 microgam, 1g qủa chứa 220-230 microgam, nước sắc 15 phút cô thành cao chứa 300 microgam trong 1 g cao: Nếu nấu lâu 5 giờ có thể chứa tới 420-430 microgam trong 1g cao. Trên cơ sở phân tích ấy đã đề nghị dùng ké trong điều trị bướu cổ.
+   Toàn cây chứa nhiều iốt. Trong hai năm 1969 và 1970, Đỗ Tất Lợi, Phạm Kim Loan và Nguyên Văn Cát (Trường đại học dược khoa Hà Nội) đã định tính và định lượng iốt trong cây ké Việt Nam thấy rằng dù cây ké mọc ở miền núi, hay đồng bằng, gần biển hay xa biển đều có chứa iốt với hàm lượng khá cao, 1g lá hoặc thân chứa trung bình 200 microgam, 1g quả chứa 220-230 microgam, nước sắc 15 phút cô thành cao chứa 300 microgam trong 1 g cao: Nếu nấu lâu 5 giờ có thể chứa tới 420-430 microgam trong 1g cao. Trên cơ sở phân tích ấy đã đề nghị dùng ké trong điều trị bướu cổ.
    Tiêu chuẩn quy cách của Triều Tiên
    Độ ẩm dưới 12%, độ tro 8%, tro không tan trong axit clohydric dưới 3%. Độ cao rượu ít nhất trên 8%.
 
 #### D. Tác dụng dược lý
 
-Chưa thấy có tài liệu. Nhưng kinh nghiệm lâm sàng ở Sở da liễu Nam Xương-Giang Tây, 1959 đã sử dụng cao quả ké chữa 22 trường hợp bệnh ngoài da, kết qủa khỏi hẳn 11, đỡ rõ rệt 8, có tiến bộ 3, không có trường hợp nào không có kết quả rõ rệt.
-Trong hai năm 1969, 1970 Tổng cục lâm nghiệp Việt Nam đã dùng cao ké chế thành viên chữa bướu cổ tại một số lâm trường miền núi. Kết qủa đạt trên 80%.
+Chưa thấy có tài liệu. Nhưng kinh nghiệm lâm sàng ở Sở da liễu Nam Xương-Giang Tây, 1959 đã sử dụng cao quả ké chữa 22 trường hợp bệnh ngoài da, kết quả khỏi hẳn 11, đỡ rõ rệt 8, có tiến bộ 3, không có trường hợp nào không có kết quả rõ rệt.
+Trong hai năm 1969, 1970 Tổng cục lâm nghiệp Việt Nam đã dùng cao ké chế thành viên chữa bướu cổ tại một số lâm trường miền núi. Kết quả đạt trên 80%.
 Qua những tài liệu cũ, quả ké dùng chữa những trường hợp da xù xì màu đỏ như bị hủi. Tại nhiều vùng ở Việt Nam, Liên Xô cũ và Trung Quốc nhân dân vẫn dùng ké uống chữa mẩn ngứa, mụn nhọt và bướu cổ.
 
 #### E. Công dụng liều dùng
@@ -288,7 +288,7 @@ Tính vị theo đông y: Vị cay đắng, tính bình, hơi có độc, vào 2
 Liều dùng 4 - 12g dưới dạng thuốc sắc uống riêng hoặc phối hợp với các vị thuốc khác.
 Đơn thuốc có xà sàng tử
 1- Chữa tai ướt, ngứa: Xà sàng tử, hoàng liên (hoặc hoàng đằng) mỗi vị 4g, khinh phấn (calômel) 1g. Tán nhỏ trộn đều, thổi vào tai.
-2- Bạch đới khí hư: Xà sàng tử, phèn chua, hai vị bằng nhau, tán nhỏ. Nấu hồ trộn vào làm thành viên bằng qủa táo, bọc lụa hay gạc cho vào âm hộ.
+2- Bạch đới khí hư: Xà sàng tử, phèn chua, hai vị bằng nhau, tán nhỏ. Nấu hồ trộn vào làm thành viên bằng quả táo, bọc lụa hay gạc cho vào âm hộ.
 Thấy nóng bỏ ra. Có thể sắc để thụt rửa.
 3- Lòi dom: Xà sàng tử 40g, cam thảo 40g, tán nhỏ, trộn đều. Ngày uống 9g, chia ra làm 3 lần uống (mỗi lần 3g).
 Đồng thời nấu nước xà sàng tử xông và rửa chỗ đau.
@@ -623,7 +623,7 @@ Ngày dùng 4 đến 12g dưới dạng thuốc sắc. Dùng ngoài không kể 
 
 2.Tên khoa học của cây bảy lá một hoa tạm xác định là Paris polyphylla Sm., trên thực tế chúng tôi thấy có nhiều loài khác nhau. Theo sự nghiên cứu của A. Pételot trước đây, ở nước ta ít nhất cũng có 5 loài khác nhau đã được mô tả như sau:
 
-Paris delavayi Franch. Cây có thân gầy, cao chừng 1m cành lá ở khoảng 2/3 phía thân trên. Lá có cuống dài chừng 2cm, phiến lá hình mác dài, đầu lá nhọn, phía cuống nhọn hơn, dài chừng 20c, rộng khoảng 3,5cm, 3 gân xuất phát từ cuống lá, gân giữa rõ hơn, gân hai bên chạy cách theo mép chừng 5mm. Lá đài 5, cùng dạng với lá, dài 4-4,5cm rộng 8mm. Cánh tràng hình sợi, ngắn hơn lá đài nhiều. Thường thấy mọc ở giữa khoảng 1.400m đến 1.800m trong những rừng ẩm ở Sapa (Lào Cai). Ra hoa vào tháng 4, kết qủa vào tháng 6-7.
+Paris delavayi Franch. Cây có thân gầy, cao chừng 1m cành lá ở khoảng 2/3 phía thân trên. Lá có cuống dài chừng 2cm, phiến lá hình mác dài, đầu lá nhọn, phía cuống nhọn hơn, dài chừng 20c, rộng khoảng 3,5cm, 3 gân xuất phát từ cuống lá, gân giữa rõ hơn, gân hai bên chạy cách theo mép chừng 5mm. Lá đài 5, cùng dạng với lá, dài 4-4,5cm rộng 8mm. Cánh tràng hình sợi, ngắn hơn lá đài nhiều. Thường thấy mọc ở giữa khoảng 1.400m đến 1.800m trong những rừng ẩm ở Sapa (Lào Cai). Ra hoa vào tháng 4, kết quả vào tháng 6-7.
 
 Paris hainanensis Merr. Cây này có thân to, cao chừng 0,80m, vành lá gồm 6 lá ở vào khoảng 2/3 phía trên thân. Cuống lá dài tới 7cm, phiến lá hình trứng rộng, hơi không đối xứng, dài 20cm, rộng 12cm, đầu phiến tận cùng bởi một mũi nhọn, hình ba cạnh dài lcm. Lá đài 5, hình trứng mác, dài 5cm, rộng 2cm. Cánh tràng hình sợi, sần dài gấp 2 lá đài. Hoa vào tháng 4, quả vào tháng 6. Loài này hay gặp hơn ở những rừng ẩm thấp quanh Sapa, độ cao chừng 1.500m.
 

@@ -952,7 +952,7 @@ Cây đài hái là một cây rất đẹp. Hiện nay mọc hoang leo lên tr�
 Thường được thu hoạch tại các tỉnh Hà Tuyên, Vĩnh Phúc, Phú Thọ, Bắc Thái, Thanh Hóa, Nghệ Tĩnh và các tỉnh miền núi nói chung.
 Có mọc cả ở một số tỉnh miền nam Trung Quốc, Ấn Độ, Indônêxya, MaLaixia, Nhật Bản.
 Do hạt nhẹ, nổi trên mặt nước, cho nên vào mùa mưa hạt cây trôi theo dòng suối và sông ngòi ra tận ngoài bờ biển.
-Mùa thu hái qủa vào các tháng 11-12 đến tháng 1-2 năm sau.
+Mùa thu hái quả vào các tháng 11-12 đến tháng 1-2 năm sau.
 
 #### C. Thành phần hóa học
 
@@ -961,7 +961,7 @@ Hạt sống có vị đắng và có thể chứa một chất đắng, có th�
 
 #### D. Công dụng và liều dùng
 
-Tại Việt Nam, qủa và hạt đài hái ít thấy được dùng làm thuốc. Đồng bào những nơi có cây chỉ lấy hạt để ép làm dầu để ăn thay mỡ lợn, hay để thắp đèn. Có khi nướng chín mà ăn.
+Tại Việt Nam, quả và hạt đài hái ít thấy được dùng làm thuốc. Đồng bào những nơi có cây chỉ lấy hạt để ép làm dầu để ăn thay mỡ lợn, hay để thắp đèn. Có khi nướng chín mà ăn.
 Tại Inđônêxya (đảo Boócnêô), người ta dùng dầu đài hái để xoa bụng những người phụ nữ mới ở cữ, đồng thời cho phụ nữ uống nước sắc gừng. Người ta còn trộn tro lá địa liền với dầu đài hái và dầu dừa để bôi vào vú phụ nữ bị sưng.
 Lá đài hái còn dùng sắc hay đốt lấy khói xông chữa bệnh loét mũi.
 Thân đài hái ép lấy nước cũng dùng nhỏ mũi để chữa bệnh loét mũi.
@@ -1062,7 +1062,7 @@ Trong đương quy Nhật Bản Angclica acutiloba (Sieb. et Zucc). Kitagawa Lig
    Bài đương quy kiện trung thang của Trương Trọng Cảnh dùng chữa bệnh phụ nữ sau khi đẻ thiếu máu, thuốc bổ huyết: Đương quy 7g, quế chi, sinh khương, đại táo mỗi vị 6g, thược dược 10g, đường phèn 50g, nước 600 ml, sắc còn 200 ml, chia 3 lần uống trong ngày.
    Chữa chảy máu cam không ngừng: Đương quy sao khô tán nhỏ, mỗi ngày dùng 2-3 lần, mỗi lần dùng 4g. Dùng nước cháo mà chiêu thuốc.
    Dưỡng não hoàn-viên dưỡng não. Dùng chữa mất ngủ, nhức đầu, ngủ hay mê: Đương quy 100g, viễn chí 40g, xương bồ 40g, táo nhân 60g, ngũ vị 60g, khởi tử 80g, đởm tinh 40g, thiên trúc hoàng 40g, long cốt 40g, ích trí nhân 60g, hổ phách 40g, nhục thung dung 80g, bá tử nhân 60g, chu sa 40g, hổ đào nhục 80g. Tất cả tán thành bột thêm mật ong vào viên thành viên mỗi viên nặng chừng 4g. Ngày uống 2 lần, mỗi lần 1 viên. Uống luôn 15 ngày (bài thuốc kinh nghiệm Trung Quốc).
-   Đã áp đụng thấy kết qủa tốt ỏ bệnh viện Bạch Mai. Mất ngủ khỏi 85%, váng đầu khỏi 78,65%, ngủ mê đạt 77,22%, đau đầu đạt 79,59%.
+   Đã áp đụng thấy kết quả tốt ỏ bệnh viện Bạch Mai. Mất ngủ khỏi 85%, váng đầu khỏi 78,65%, ngủ mê đạt 77,22%, đau đầu đạt 79,59%.
 
 ### HUYẾT GIÁC
 
@@ -1109,7 +1109,7 @@ Mướp là một loại dây leo, thân có góc cạnh, màu lục nhạt. Lá
 
 Cây mướp được trồng ở khắp nơi trong nước ta. Thường chỉ để lấy quả luộc hay xào nấu để ăn. Rất ít ngưòi dùng làm thuốc.
 Còn thấy mọc ở Cămpuchia, Lào, Trung Quốc, Thái Lan, Mianma.
-Một số ít người dùng xơ, quả, rễ, lá, hạt mướp làm thuốc. Lá hái vào lúc cây đương ra hoa, rễ hái khi cây đã già, qủa và hạt khi qủa chin.
+Một số ít người dùng xơ, quả, rễ, lá, hạt mướp làm thuốc. Lá hái vào lúc cây đương ra hoa, rễ hái khi cây đã già, quả và hạt khi quả chin.
 
 #### C. Thành phần hóa học
 
@@ -1127,7 +1127,7 @@ Lá mướp vò nát dùng chữa bệnh zona.
 Ngày dùng 5 đến 10g xơ mướp sắc uống hoặc dùng xơ mướp đốt tồn tính, tán bột cho uống.
 Đơn thuốc có mướp dùng trong nhân dân
 Xơ mướp thiêu tồn tính, tán bột, mỗi lần cho uống 2g, ngày 3 lần dùng chữa các bệnh trĩ ra huyết (lòi dom), trực tràng ra máu, phụ nữ bị tử cung xuất huyết.
-Tại Cămpuchia người ta dùng mướp dưới hình thức sau đây: Chọn một quả mướp khá to, cắt bỏ ngang phía trên, cho vào ruột quả mưứp 37,7g kali nitrat (diêm tiêu), đậy nắp lại. Cho vào lò đun cho nóng (phải giữ quả mướp thẳng đứng).
+Tại Cămpuchia người ta dùng mướp dưới hình thức sau đây: Chọn một quả mướp khá to, cắt bỏ ngang phía trên, cho vào ruột quả mướp 37,7g kali nitrat (diêm tiêu), đậy nắp lại. Cho vào lò đun cho nóng (phải giữ quả mướp thẳng đứng).
 Sau khi diêm tiêu đã tan, quả mướp đã chín (mềm nhũn), lấy ra nghiền nát, lọc qua vải, chia nước này cho uống trong 5-6 ngày để làm thuốc lợi tiểu.
 
 ### NHỘI
@@ -1216,7 +1216,7 @@ Sơ bộ nghiên cứu, chúng tôi thấy trong lá và thân thiên lý đều
 #### D. Công dụng và liều dùng
 
 Trong nhân dân thường chỉ dùng hoa và lá thiên lý non để nấu canh ăn cho mát và bổ.
-Gần đây bệnh viện Thái Bình (Y học thực hành, tháng 5-1962) đã dùng lá thiên lý chữa một số trường hợp lòi dom và sa dạ con có kết qủa.
+Gần đây bệnh viện Thái Bình (Y học thực hành, tháng 5-1962) đã dùng lá thiên lý chữa một số trường hợp lòi dom và sa dạ con có kết quả.
 Chữa lòi dom: Lá thiên lý 100g, muối ăn 5g.
 Hái lá thiên lý non và lá bánh tẻ, rửa sạch, giã nhỏ với muối, thêm chừng 30ml nước cất, lọc qua vải gạc. Dùng nước này tẩm vào bông đắp lên chỗ dom đã rửa sạch bằng thuốc tím. Băng như đóng khố. Ngày làm một hay hai lần. Trong vòng 3-4 ngày thường khỏi. Có thể chế thành thuốc mỡ (vadơlin 50g, lanôlin 40g, dung dịch thiên lý nói trên 10 ml).
 Chữa sa dạ con: Cũng dùng như trên. Thường 3-4 hôm sau khi dùng thuốc đã thấy kết quả. Nhưng trong báo cáo có cho biết đã dùng điều trị 9 trường hợp, thì 8 trường hợp nhẹ khỏi, 1 trường hợp đã sa dạ con trên 6 tháng không khỏi.
@@ -1318,7 +1318,7 @@ Thuộc họ Dâu tằm Moraceae.
 
 #### A. Mô tả cây
 
-Mít là một cây to, cao có thể tới hơn 30m, với cành non rất nhiều lông ở ngọn. Lá đơn, nguyên, dày, dài 9-22cm, rộng 4-9cm, cuống 1-1,5cm. Hoa đơn tính, cùng gốc. Cụm hoa cái mọc ngay trên thân hay trên cành, dài 5-8 cm, dày 2-5 cm. Cụm hoa đực hình chùy. Quả phức to, dài 30-60 cm, mặt tua tủa những gai ngắn. Khi chín vỏ vẫn giữ màu xanh lục hay hơi ngả vàng. Thịt qủa chín màu vàng nhạt, vị ngọt, rất thơm, hạt rất nhiều ( Hình 32 ).
+Mít là một cây to, cao có thể tới hơn 30m, với cành non rất nhiều lông ở ngọn. Lá đơn, nguyên, dày, dài 9-22cm, rộng 4-9cm, cuống 1-1,5cm. Hoa đơn tính, cùng gốc. Cụm hoa cái mọc ngay trên thân hay trên cành, dài 5-8 cm, dày 2-5 cm. Cụm hoa đực hình chùy. Quả phức to, dài 30-60 cm, mặt tua tủa những gai ngắn. Khi chín vỏ vẫn giữ màu xanh lục hay hơi ngả vàng. Thịt quả chín màu vàng nhạt, vị ngọt, rất thơm, hạt rất nhiều ( Hình 32 ).
 
 #### B. Phân bố, thu hái và chế biến
 

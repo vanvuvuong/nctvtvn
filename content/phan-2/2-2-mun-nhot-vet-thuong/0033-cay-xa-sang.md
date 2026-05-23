@@ -35,7 +35,7 @@ Tính vị theo đông y: Vị cay đắng, tính bình, hơi có độc, vào 2
 Liều dùng 4 - 12g dưới dạng thuốc sắc uống riêng hoặc phối hợp với các vị thuốc khác.
 Đơn thuốc có xà sàng tử
 1- Chữa tai ướt, ngứa: Xà sàng tử, hoàng liên (hoặc hoàng đằng) mỗi vị 4g, khinh phấn (calômel) 1g. Tán nhỏ trộn đều, thổi vào tai.
-2- Bạch đới khí hư: Xà sàng tử, phèn chua, hai vị bằng nhau, tán nhỏ. Nấu hồ trộn vào làm thành viên bằng qủa táo, bọc lụa hay gạc cho vào âm hộ.
+2- Bạch đới khí hư: Xà sàng tử, phèn chua, hai vị bằng nhau, tán nhỏ. Nấu hồ trộn vào làm thành viên bằng quả táo, bọc lụa hay gạc cho vào âm hộ.
 Thấy nóng bỏ ra. Có thể sắc để thụt rửa.
 3- Lòi dom: Xà sàng tử 40g, cam thảo 40g, tán nhỏ, trộn đều. Ngày uống 9g, chia ra làm 3 lần uống (mỗi lần 3g).
 Đồng thời nấu nước xà sàng tử xông và rửa chỗ đau.

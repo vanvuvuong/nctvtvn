@@ -110,7 +110,7 @@ _Chữa chảy máu cam không ngừng_: Đương quy sao khô tán nhỏ, mỗi
 
 _Dưỡng não hoàn=viên dưỡng não_. Dùng chữa mất ngủ, nhức đầu, ngủ hay mê: Đương quy 100g, viễn chí 40g, xương bồ 40g, táo nhân 60g, ngũ vị 60g, khởi tử 80g, đởm tinh 40g, thiên trúc hoàng 40g, long cốt 40g, ích trí nhân 60g, hổ phách 40g, nhục thung dung 80g, bá tử nhân 60g, chu sa 40g, hổ đào nhục 80g. Tất cả tán thành bột thêm mật ong vào viên thành viên mỗi viên nặng chừng 4g. Ngày uống 2 lần, mỗi lần 1 viên. Uống luôn 15 ngày (bài thuốc kinh nghiệm Trung Quốc).
 
-Đã áp đụng thấy kết qủa tốt ỏ bệnh viện Bạch Mai. Mất ngủ khỏi 85%, váng đầu khỏi 78,65%, ngủ mê đạt 77,22%, đau đầu đạt 79,59%.
+Đã áp đụng thấy kết quả tốt ỏ bệnh viện Bạch Mai. Mất ngủ khỏi 85%, váng đầu khỏi 78,65%, ngủ mê đạt 77,22%, đau đầu đạt 79,59%.
 
 _Chú thích:_
 

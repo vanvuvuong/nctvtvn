@@ -532,7 +532,7 @@ Khiếm thực chính thức là một loại cây mọc ở đầm ao, sống h
 
 Hiện chưa thấy trồng ở Việt Nam. Tại Trung Quốc được trồng ở ao đầm, nhiều tỉnh, đặc biệt các tỉnh giáp giới Việt Nam như Quảng Đông, Quảng Tây và Vân Nam đều có.
 
-Tháng 9-10 qủa chín hái về, xay vỡ, sảy lấy hạt rồi lại xay bỏ vỏ hạt lấy nhân phơi khô hay sấy khô.
+Tháng 9-10 quả chín hái về, xay vỡ, sảy lấy hạt rồi lại xay bỏ vỏ hạt lấy nhân phơi khô hay sấy khô.
 
 #### C. Thành phần hóa học của khiếm thực
 
