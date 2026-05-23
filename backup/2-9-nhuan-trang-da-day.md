@@ -1188,7 +1188,7 @@ Trong hạt có physcion C₁₆H₁₂O₅ (J. Am. Pharm. Assoc., 1957, 46, 271
 
 Hình 356. Vọng giang nam - Cassia occidentalis
 
-Trong rễ có cassiollin C₁₂H₁₂O₆, chrysophanol C₁₅H₁₀O₄, xanthorin, l,4,5-trithydroxy-2 metoxy - 7methylanthraquinon,C₁₆H₁₂O₆ islandixin -1,4,5 trihydroxy-2- metylanthraquinon C₁₅H₁₀O₅ 1,4,5,- trihydroxy -7 metylanthraquinon helminthosporin C₁₅H₁₀O₅ (Indian J. Chem., 1974, 12, 1042).
+Trong rễ có cassiollin C₁₂H₁₂O₆, chrysophanol C₁₅H₁₀O₄, xanthorin, 1,4,5-trithydroxy-2 metoxy - 7methylanthraquinon,C₁₆H₁₂O₆ islandixin -1,4,5 trihydroxy-2- metylanthraquinon C₁₅H₁₀O₅ 1,4,5,- trihydroxy -7 metylanthraquinon helminthosporin C₁₅H₁₀O₅ (Indian J. Chem., 1974, 12, 1042).
 
 Trong lá có dianthronic heterozit (C. A., 1969, 70, 84918m).
 

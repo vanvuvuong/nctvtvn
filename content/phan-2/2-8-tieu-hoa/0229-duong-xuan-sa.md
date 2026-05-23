@@ -17,7 +17,7 @@ Dương xuân sa (Fructus Amomi villosi) là quả chưa chín phơi hay sấy k
 
 #### A. Mô tả cây
 
-Dương xuân sa là một loại cỏ nhỏ, sống lâu năm, cao tới l,5m, thân rễ phình to và mọc ngang. Lá hình mác rộng, dài 14-40cm, rộng 2-8cm, đầu nhọn, phía gốc tròn, gần như khống cuống, hai mặt nhẩn. Cụm hoa nhiều, nhưng mọc thưa từ gốc thân lên, cán mang hoa gầy, lúc đầu nằm ngang, sau mọc thẳng đúng, dài 6-8cm, có những bẹ mọc như lợp ngói. Hoa màu trắng vàng nhạt, tràng hình ống, thùy hình trứng, dài 13mm. Quả hình trứng, trên cổ những gai nhỏ, quả dài 2cm, rộng 12-15mm. Hạt có đường kính 3mm ( Hình 301 ).
+Dương xuân sa là một loại cỏ nhỏ, sống lâu năm, cao tới 1,5m, thân rễ phình to và mọc ngang. Lá hình mác rộng, dài 14-40cm, rộng 2-8cm, đầu nhọn, phía gốc tròn, gần như khống cuống, hai mặt nhẩn. Cụm hoa nhiều, nhưng mọc thưa từ gốc thân lên, cán mang hoa gầy, lúc đầu nằm ngang, sau mọc thẳng đúng, dài 6-8cm, có những bẹ mọc như lợp ngói. Hoa màu trắng vàng nhạt, tràng hình ống, thùy hình trứng, dài 13mm. Quả hình trứng, trên cổ những gai nhỏ, quả dài 2cm, rộng 12-15mm. Hạt có đường kính 3mm ( Hình 301 ).
 
 B. Phản bố, thu hái và chế biỂh
 
@@ -49,7 +49,7 @@ Hoa màu trắng đốm tía, mọc thành chùm ở gốc; từ rễ nảy ra m
 
 4- 6 hoa. Quả là một nang 3 ngăn, đậu vào tháng
 
-5, chín vào tháng 7-8 (6-7 âm lịch), hình trứng, to nhất bằng đầu ngón tay cáì, trung bình bằng đầu ngón tay giữa, dài 1,5 -2cm, đường kính 1- l,5cm. Mạt ngoài vỏ có gai rất đều, không có cái cao cái thấp, kẽ gaì cũng đều nhau, bóp mạnh sẽ vỡ thành 3 mảnh. Hạt dính theo lối đính phôi trung trụ. Mùa hoa: tháng 4-5 (Hình 302, Hm
+5, chín vào tháng 7-8 (6-7 âm lịch), hình trứng, to nhất bằng đầu ngón tay cáì, trung bình bằng đầu ngón tay giữa, dài 1,5 -2cm, đường kính 1- 1,5cm. Mạt ngoài vỏ có gai rất đều, không có cái cao cái thấp, kẽ gaì cũng đều nhau, bóp mạnh sẽ vỡ thành 3 mảnh. Hạt dính theo lối đính phôi trung trụ. Mùa hoa: tháng 4-5 (Hình 302, Hm
 
 40,1).
 

@@ -350,7 +350,7 @@ Thuộc họ Cà Solanaceae.
 
 A. Mò tả cây
 
-Cây nhỏ, cao 2-3m, thân ít gai, trên phủ nhiều lông hình sao mang nhiều cành mềm, có lông. Lá mọc so le, hình trứng, không đểu và lệch ở phía dưới, phiến lá dài 8-20cm, rộng 6-18cm, chia thùy nông, cuống lá dài l,5-10cm. Hoa tráng, mặt ngoài có lông, mọc thành chùm nhiều nhánh ở kẽ lá. Quả hình cầu, đường kính 12- 15mm, nhẵn khi chín có màu vàng. Hạt hình íĩĩa, có những đường nhăn nhỏ, đường kính 1,5- 2mm. Mùa hoa quả: tháng 4-7 ( Hình 422).
+Cây nhỏ, cao 2-3m, thân ít gai, trên phủ nhiều lông hình sao mang nhiều cành mềm, có lông. Lá mọc so le, hình trứng, không đểu và lệch ở phía dưới, phiến lá dài 8-20cm, rộng 6-18cm, chia thùy nông, cuống lá dài 1,5-10cm. Hoa tráng, mặt ngoài có lông, mọc thành chùm nhiều nhánh ở kẽ lá. Quả hình cầu, đường kính 12- 15mm, nhẵn khi chín có màu vàng. Hạt hình íĩĩa, có những đường nhăn nhỏ, đường kính 1,5- 2mm. Mùa hoa quả: tháng 4-7 ( Hình 422).
 
 #### B. Phân bố, thu hái và chè biến
 
@@ -672,7 +672,7 @@ Thuộc họ Lan Orchidaceae.
 
 #### A. Mô tả cây
 
-Theo những tài liệu ghi chép cũ thì sơn từ cô có tên khoa học là Pleione bulbocodioides, nhưng cho tới nay vị thuớc này chỉ thấy nhập của Trung Quốc, mà theo sự điều tra của một sổ tác giả Trung Quốc đến tại vùng tây nam Trung Quốc là nơi cây này được khai thác thì thấy nó thuộc nhiều loài có hình dáng bên ngoài giống nhau, lại vì chưa thu được mẫu vật có hoa quả nên chỉ tạm xác định là Pleỉone sp. Đó là một cây sống lâu năm với thân rễ hình trứng dài l,5cm, rộng l,3cm mang nhiểu rễ nhỏ, với
+Theo những tài liệu ghi chép cũ thì sơn từ cô có tên khoa học là Pleione bulbocodioides, nhưng cho tới nay vị thuớc này chỉ thấy nhập của Trung Quốc, mà theo sự điều tra của một sổ tác giả Trung Quốc đến tại vùng tây nam Trung Quốc là nơi cây này được khai thác thì thấy nó thuộc nhiều loài có hình dáng bên ngoài giống nhau, lại vì chưa thu được mẫu vật có hoa quả nên chỉ tạm xác định là Pleỉone sp. Đó là một cây sống lâu năm với thân rễ hình trứng dài 1,5cm, rộng 1,3cm mang nhiểu rễ nhỏ, với
 
 ##### TODO: thêm hình ảnh
 
@@ -686,7 +686,7 @@ Như trên đã nói, đây là một vị thuổc hoàn toàn còn phải nhậ
 
 Thu hái vào tháng 4, trừ bỏ thân và vẩy lá, rễ con, rủa sạch đất cát, đổ cho chín tới giữa củ rồi
 
-phơi hay sấy khô. Vị thuốc hình cầu hay hình thay đổi, dài l,5-2,5cm, đường kính I,5-2cm, mật ngoài vàng trắng hay nâu nhạt, trên mặt còn lá vẩy hay đã bóc hết, cứng, khó bè, vết cát màu vàng ưắng, hơi trong trong, không mùi, vị nhạt.
+phơi hay sấy khô. Vị thuốc hình cầu hay hình thay đổi, dài 1,5-2,5cm, đường kính I,5-2cm, mật ngoài vàng trắng hay nâu nhạt, trên mặt còn lá vẩy hay đã bóc hết, cứng, khó bè, vết cát màu vàng ưắng, hơi trong trong, không mùi, vị nhạt.
 
 #### C. Thành phần hoá học
 
@@ -974,7 +974,7 @@ Thuộc họ Cỏ roi ngựa Verbenaceae.
 
 Cay nhỡ hay cây gỗ lớn, thường phân cành nhiều ở gốc, cao 5-25m. Những cành non lúc đầu phủ lông tơ trẵng hay xám sau đó nhẫn bóng, có nhiểu lỗ bì. Rề thở hình dùi, mọc nổi trên bùn. Lá thuôn hình thuỗn-mũi mác dài 4- 12cm, rộng 2-6cm, mặt trên nhẩn bóng, mặt dưới phủ lông, và mờ. Cả hai mặt đều có tuyến muối thừa.
 
-Hoa vàng hay vàng cam, mọc thành thùy ở ngọn cành gổm nhiều xim dài 3-15cm. Quả nang hình trứng dài 3-4cm, rộng l,5-2cm, đỉnh nhọn, màu vàng lục ( Hình 438).
+Hoa vàng hay vàng cam, mọc thành thùy ở ngọn cành gổm nhiều xim dài 3-15cm. Quả nang hình trứng dài 3-4cm, rộng 1,5-2cm, đỉnh nhọn, màu vàng lục ( Hình 438).
 
 Mắm đen-Avicennia marina Vierh var- rumphiana Bakhuìz là cây bụi hoặc cây nhỡ, ít khi là cây to. Các cành khúc khuỷu, lá hình trái xoan ngược, tròn đầu, thuôn dần ỏ gổc, mặt trên nhẵn, hoá đen khi lá rụng, mật dưới có nhiều lông hình đe màu trắng. Hoa giống như hoa loài trên.
 
@@ -1034,7 +1034,7 @@ B. Phản bố, thu hái và chẽ biến
 
 #### C. Thành phần hoá học
 
-Trong rau tàu bay non có tới 93,1% nước, 2,3-2,5% protit, l,7-1,9%gluxit, 1,6% xenluloza,
+Trong rau tàu bay non có tới 93,1% nước, 2,3-2,5% protit, 1,7-1,9%gluxit, 1,6% xenluloza,
 
 0, 9% tro, 81mg% canxi, 25mg% P( 3,4mg% caroten, 10mg% vitamin c.
 
@@ -1198,7 +1198,7 @@ Thường dùng phối hợp với nhiều vị thuốc khác nhu cúc hoa, câu
 
 Maỉỉotus ỷuretianus thuộc họ Thầu dầu (.Euphotbiaceae). Cần chú ý tránh nhầm lẫn.
 
-2. Trong họ Mã tiền cùng chi Buddlela còn có cây bọ chó hay sầu đâu chuột Buddleia asỉatica Lour. (Buddleia neemda Ham.) tên Trung Quốc là tuý ngư thảo. Cây này cao l-2m hay hơn. Cành và hoa có nhiều lồng bài tiết. Lá thon dài, đầu nhọn dài, mép nguyên hay có răng cưa rất nhỏ, dài 7-18cm, rộng l,5-4,5cm. Hoa màu trắng nhạt, cuống ngấn mọc thành chuỳ thưa gồm ĩihiểu xim, mỗi xim có 3 hoa. Quả nang thuôn dài 3-6mm, rộng 2mm. Hạt có cánh, hình thoi dài lmm.
+2. Trong họ Mã tiền cùng chi Buddlela còn có cây bọ chó hay sầu đâu chuột Buddleia asỉatica Lour. (Buddleia neemda Ham.) tên Trung Quốc là tuý ngư thảo. Cây này cao l-2m hay hơn. Cành và hoa có nhiều lồng bài tiết. Lá thon dài, đầu nhọn dài, mép nguyên hay có răng cưa rất nhỏ, dài 7-18cm, rộng 1,5-4,5cm. Hoa màu trắng nhạt, cuống ngấn mọc thành chuỳ thưa gồm ĩihiểu xim, mỗi xim có 3 hoa. Quả nang thuôn dài 3-6mm, rộng 2mm. Hạt có cánh, hình thoi dài lmm.
 
 Mọc hoang ở kháp nơi ở Việt Nam; còn mọc ở Trung Quốc, Philipin.
 
@@ -1598,7 +1598,7 @@ Nhãn hương là mùi thơm của nhãn vì cây khô thoang thoảng có mùi 
 
 #### A. Mô tả cây
 
-Cỏ sống hằng năm, mọc thảng đứng, cao 0,8- lm, thân hơi khúc khuỷu đo các cuống lá men xuống. Cành mọc đứng, mảnh khảnh. Lá kép cấu tạo bởi ba lá chét. Lá chét hình trái xoan dài 1,2- l,5cm, rộng 0,4-0,8cm, khía răng cưa ở nửa trên, 9-11 đôi gân phụ, không rõ rệt, cuống lá dài 1,5- 2cm, hình sợi chỉ, lá kèm hình dùi, dài 8-10mm dính với nhau và với cuống lá trên 2mm. Cụm hoa hình chùm ở kẽ lá, mang nhiều hoa rất nhỏ, màu vàng. Đài hình chuông, có 5 răng nhọn bàng nhau. Cánh hoa rụng sớm, có hình thìa. Cánh thuyền hình lưỡi hái, cánh thìa tù ngắn. Nhi lưỡng thể gồm 10 chiếc, trong đó 9 chiếc dính với nhau bởi chỉ, chiếc thứ muồá tự do, bao phắn giống nhau. Bầu ngắn, vòi dài, đầu nhuỵ nhỏ. Quả loại đậu ngắn, không mở, thoạt tiên nhẵn, vể sau nhãn nheo và có màu đen.
+Cỏ sống hằng năm, mọc thảng đứng, cao 0,8- lm, thân hơi khúc khuỷu đo các cuống lá men xuống. Cành mọc đứng, mảnh khảnh. Lá kép cấu tạo bởi ba lá chét. Lá chét hình trái xoan dài 1,2- 1,5cm, rộng 0,4-0,8cm, khía răng cưa ở nửa trên, 9-11 đôi gân phụ, không rõ rệt, cuống lá dài 1,5- 2cm, hình sợi chỉ, lá kèm hình dùi, dài 8-10mm dính với nhau và với cuống lá trên 2mm. Cụm hoa hình chùm ở kẽ lá, mang nhiều hoa rất nhỏ, màu vàng. Đài hình chuông, có 5 răng nhọn bàng nhau. Cánh hoa rụng sớm, có hình thìa. Cánh thuyền hình lưỡi hái, cánh thìa tù ngắn. Nhi lưỡng thể gồm 10 chiếc, trong đó 9 chiếc dính với nhau bởi chỉ, chiếc thứ muồá tự do, bao phắn giống nhau. Bầu ngắn, vòi dài, đầu nhuỵ nhỏ. Quả loại đậu ngắn, không mở, thoạt tiên nhẵn, vể sau nhãn nheo và có màu đen.
 
 Một hay hai hạt hình bầu dục ( Hình 450).
 
@@ -2020,7 +2020,7 @@ a/ Strophanthus eecaudatus Kurtz var. mơcrophyllus Franch. (Strophanthus pentap
 
 b/ Strophanthus caudaíus Kurtz var. giganteus Pitard (Strophanthus giganteus Pierre, Strophanthus pierrei Heim). Cũng là một loài dây leo, lá dài 12- 22cm, rông 4-7cm, hình mác thuôn hơi dài, gân có
 
-9- 12 đôi, cuống đài 9-llmm.Cụm hoa hình xim ở đầu cành, dài 4-8cm, hoa cũng màu đỏ. Quả khô 2 đại dài 18-22cm phía cuống rộng 2,5cm, đầu tù, vỏ quả cứng đen nhạt trên có khía dọc, nhiều hạt dài l,75cm, rộng 6mm. phía dưới tròn, trên dẹt, cán lông trắng mịn, chiếm 3,5cm, lông dài tới 5cm. Ra hoa vào các tháng 8-12, quả vào tháng 12 ( Hình 459).
+9- 12 đôi, cuống đài 9-llmm.Cụm hoa hình xim ở đầu cành, dài 4-8cm, hoa cũng màu đỏ. Quả khô 2 đại dài 18-22cm phía cuống rộng 2,5cm, đầu tù, vỏ quả cứng đen nhạt trên có khía dọc, nhiều hạt dài 1,75cm, rộng 6mm. phía dưới tròn, trên dẹt, cán lông trắng mịn, chiếm 3,5cm, lông dài tới 5cm. Ra hoa vào các tháng 8-12, quả vào tháng 12 ( Hình 459).
 
 c/ Sírophanthus balansae Franch. Cây nhỏ, có nhiểu cành, cành không có bì khổng. Lá dài 16cm, rộng 5-7cm. Cụm hoa chưa biết. Quả khô, dài 12cm, rộng 2cm, đầu tù, hoi nhọn, hạt dài
 

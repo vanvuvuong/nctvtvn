@@ -185,7 +185,7 @@ Muốn phát hiện có dầu vừng trong một hỗn hợp dầu hay muốn xe
 
 #### C. Thành phần hóa học
 
-Trong hạt vừng có từ 40-55% dầu, có khi lên tới 60%. Ngoài ra còn chừng 5-6% nước, 20- 22% chất protein, 5% tro, trong đó có l,7mg đồng, 1% canxi oxalat, 6,3-8,8% chất không có nitơ, pentozan, lexitin, phytin và cholin.
+Trong hạt vừng có từ 40-55% dầu, có khi lên tới 60%. Ngoài ra còn chừng 5-6% nước, 20- 22% chất protein, 5% tro, trong đó có 1,7mg đồng, 1% canxi oxalat, 6,3-8,8% chất không có nitơ, pentozan, lexitin, phytin và cholin.
 
 Dầu vừng chứa khoảng 12-16% axit đặc (7,7% axit panmitic, 4,6% axit stearic, 0,4% axit arachidic), 75-80% axit lỏng (trong đó có 48% axit oleic, 30% axit linolic và, 0,04% axit lignoxeric). Phần không xà phòng hóa được chiếm 0,9-1,7% và chừng 1% lexitin.
 

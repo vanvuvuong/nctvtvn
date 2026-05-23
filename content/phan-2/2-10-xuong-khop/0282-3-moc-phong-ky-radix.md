@@ -9,7 +9,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 
 Là rế phơi hay sấy khô của cây Coccuỉus triiobus DC. thuộc họ Tiết dê Menispermaceae.
 
-Loại dây leo, sống lâu năm, cho những mẩu rẽ đường kính l,5-3,5cm, cắt thành từng mẩu dài 13cm.
+Loại dây leo, sống lâu năm, cho những mẩu rẽ đường kính 1,5-3,5cm, cắt thành từng mẩu dài 13cm.
 
 khi bị thủy thũng thì dùng phấn phòng kỷ, còn nếu bị phong thấp thì dùng quảng phòng kỷ.
 

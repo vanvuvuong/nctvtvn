@@ -15,7 +15,7 @@ Thuộc họ Cánh bướm Pabaceae (Papiỉionaceae).
 
 A. Mò tả cây
 
-Cây cỏ, cao 30-50cm, mọc bò. Ngọn non dẹt và có phủ lông tơ, màu trắng. Lá mọc so le, gồm một hoặc ba lá chét tròn dài l,8-3,4cm, rộng 2-3,5cm, do đó có tên đồng tiền, mặt dưới có lông trắng bạc, mặt trên có những đường gân
+Cây cỏ, cao 30-50cm, mọc bò. Ngọn non dẹt và có phủ lông tơ, màu trắng. Lá mọc so le, gồm một hoặc ba lá chét tròn dài 1,8-3,4cm, rộng 2-3,5cm, do đó có tên đồng tiền, mặt dưới có lông trắng bạc, mặt trên có những đường gân
 
 ##### TODO: thêm hình ảnh
 

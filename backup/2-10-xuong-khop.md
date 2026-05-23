@@ -1308,7 +1308,7 @@ Cũng như phấn phòng kỷ, quảng phòng kỷ được dùng chữa các ch
 
 Là rế phơi hay sấy khô của cây Coccuỉus triiobus DC. thuộc họ Tiết dê Menispermaceae.
 
-Loại dây leo, sống lâu năm, cho những mẩu rẽ đường kính l,5-3,5cm, cắt thành từng mẩu dài 13cm.
+Loại dây leo, sống lâu năm, cho những mẩu rẽ đường kính 1,5-3,5cm, cắt thành từng mẩu dài 13cm.
 
 khi bị thủy thũng thì dùng phấn phòng kỷ, còn nếu bị phong thấp thì dùng quảng phòng kỷ.
 
@@ -1498,7 +1498,7 @@ Thuộc họ ĐỖ quyên Ericaceae.
 
 A. Mò tả cãy
 
-Cây nhỏ cao l,5-3m, mang rất nhìểu cành, cành nhỏ hình ba cạnh hay tròn, nhẩn, khô có màu nâu. Lá hình mác, hoặc thuôn dài, đầu nhọn, phía cuống hình nêm, mép có răng cưa, phiến lá dai, màu nâu nhạt ờ cả hai mặt, mặt trên nhẵn, mặt dưới có những đốm đen rải rác, dài 4-6cm, rộng l-2cm, gán nổi ở mặt dưới, chìm ở mặt trên. Hoa màu hổng hay trắng, mọc thành chùm ở kẽ lá, thường chùm dài hơn lá. Quả nang hình cầu, trên có vòi tồn tại, bao bọc bởi một đài mẫm. Nhiều hạt ( Hình 401).
+Cây nhỏ cao 1,5-3m, mang rất nhìểu cành, cành nhỏ hình ba cạnh hay tròn, nhẩn, khô có màu nâu. Lá hình mác, hoặc thuôn dài, đầu nhọn, phía cuống hình nêm, mép có răng cưa, phiến lá dai, màu nâu nhạt ờ cả hai mặt, mặt trên nhẵn, mặt dưới có những đốm đen rải rác, dài 4-6cm, rộng l-2cm, gán nổi ở mặt dưới, chìm ở mặt trên. Hoa màu hổng hay trắng, mọc thành chùm ở kẽ lá, thường chùm dài hơn lá. Quả nang hình cầu, trên có vòi tồn tại, bao bọc bởi một đài mẫm. Nhiều hạt ( Hình 401).
 
 B. Phàn bố, thu hái và chế biến
 
@@ -1676,7 +1676,7 @@ người cho hoàng nàn là vỏ cày mã tiền. Thu hái hạt thì gọi là
 
 Theo các tác giả nghiên cứu trước, hoàng nàn chỉ thấy mọc ở một số nơi của miền Bắc Việt Nam: Hà Tây (Ba Vì), Lai Châu, Thanh Hoá, Nghệ An, Hà Tĩnh. Tại Lào cũng khu trú trên cùng một vĩ tuyến. Nhưng như trên đã nói, có thể ở những vùng này chỉ khai thác vò cho nên cho đó là hoàng nàn, còn những vùng khác chỉ khai thác hạt cho nên cho đó là cây mã tìển. Vấn đề còn đang nghiên cứu xác minh thêm.
 
-Thường người ta chặt cả cành, cắt thành từng khúc rồi mang về bóc vỏ. vỏ dài 4-5cm, cuốn vòng, đường kính l-3cm, dày l,5-2mm, mặt ngoài có những nốt sần xám đen hay đỏ nâu, có nốt sần to, mặt trong xám nâu nhạt, có vết kẻ đọc, vết bẻ nhẵn, trông rõ hai lớp. Khi thêm một giọt axit nitric vào mặt trong thấy có màu đỏ máu, mặt ngoài có màu lục đen. VỊ rất đắng.
+Thường người ta chặt cả cành, cắt thành từng khúc rồi mang về bóc vỏ. vỏ dài 4-5cm, cuốn vòng, đường kính l-3cm, dày 1,5-2mm, mặt ngoài có những nốt sần xám đen hay đỏ nâu, có nốt sần to, mặt trong xám nâu nhạt, có vết kẻ đọc, vết bẻ nhẵn, trông rõ hai lớp. Khi thêm một giọt axit nitric vào mặt trong thấy có màu đỏ máu, mặt ngoài có màu lục đen. VỊ rất đắng.
 
 Trước đây vỏ hoàng nàn được bán tự đo khắp nơi, những hàng tạp hoá đều có bán để nhân dân mua về làm thuốc chữa hủi và những bệnh ngoài da khó chữa, chó dại cắn. Hiện nay việc bán phải theo chế độ của thuốc độc.
 
@@ -1988,7 +1988,7 @@ VỊ thuốc này cho đến nay vẫn còn phải nhập.
 
 A. Mỏ tả cây
 
-Mộc qua là một cây nhỡ cao 2-3m, cành có gai, dài 5-20mm, đường kính phía gốc của gai tới l-3mm, mặt cành có những bì khỏng rõ. Lá có cuống dài 3-]5mm, phiến lá hình mác dài 2,5cm-14cm, rộng l,5cm-4cm mép có răng cưa, mật trên màu xanh, mặt dưới màu tím nhạt, cả hai mạt đều nhẩn. Lá kèm có hình dạng và kích thước thay đổi, dài từ 2-2,5cm, rộng từ l-1,5cm, mép cũng có răng cưa. Hoa mọc thành chùm ở kẽ lá. Cánh hoa màu đỏ của hoa đào, có loại hoa trắng hiiy hồng. Cuống hoa rất ngắn. Quả thịt hình cầu hay hình trứng, dài khoảng 8 cm, mặt ngoài nhẵn bóng, màu vàng hay vàng xanh, mùi thơm. Mùa hoa: tháng 3-4, mùa quả: tháng 9-10 (Hình 411).
+Mộc qua là một cây nhỡ cao 2-3m, cành có gai, dài 5-20mm, đường kính phía gốc của gai tới l-3mm, mặt cành có những bì khỏng rõ. Lá có cuống dài 3-]5mm, phiến lá hình mác dài 2,5cm-14cm, rộng 1,5cm-4cm mép có răng cưa, mật trên màu xanh, mặt dưới màu tím nhạt, cả hai mạt đều nhẩn. Lá kèm có hình dạng và kích thước thay đổi, dài từ 2-2,5cm, rộng từ l-1,5cm, mép cũng có răng cưa. Hoa mọc thành chùm ở kẽ lá. Cánh hoa màu đỏ của hoa đào, có loại hoa trắng hiiy hồng. Cuống hoa rất ngắn. Quả thịt hình cầu hay hình trứng, dài khoảng 8 cm, mặt ngoài nhẵn bóng, màu vàng hay vàng xanh, mùi thơm. Mùa hoa: tháng 3-4, mùa quả: tháng 9-10 (Hình 411).
 
 ##### TODO: thêm hình ảnh
 
@@ -1998,7 +1998,7 @@ Hình 4ÌỈ. Mộc qua - Chaenomeìes lagenariơ
 
 Mộc qua hiện nay còn phải nhập của Trung Quốc, ở đây cây được trổng ở Hà Nam, Giang
 
-Tô, An Huy, Sơn Đông, Triết Giang, Phúc Kiến, Quảng Đông, Tứ Xuyên. Xem vậy ta thấy những vùng nước ta giáp giới với tỉnh Quảng Đỏng có thể có khả năng trồng được. Loại mộc qua của Tứ Xuyên nhiều và được xem như tốt nhất. Vào tháng 10-11 quả chín thì hái vể bổ ỉàm 2 hay 4 mảnh, phơi mặt trong quả ngửa lên phía trên, cho đến khi chuyển màu hồng tím là được. Vị thuốc mộc qua là những mảnh quả dài 2,5-9cm, rộng l,5-3,5cm, dày 2-8mm, mặt ngoài nâu đỏ đến tím đỏ, có những nếp nhăn trong quá trình khô, mặt trong quả còn rõ những ô chứa hạt, phần lớn hạt đã rụng, nhưng đối khi còn sót lại một sò hạt hình 3 cạnh, màu nâu đỏ trong chứa một nhân. VỊ chua, chát, mùi hơi thơm.
+Tô, An Huy, Sơn Đông, Triết Giang, Phúc Kiến, Quảng Đông, Tứ Xuyên. Xem vậy ta thấy những vùng nước ta giáp giới với tỉnh Quảng Đỏng có thể có khả năng trồng được. Loại mộc qua của Tứ Xuyên nhiều và được xem như tốt nhất. Vào tháng 10-11 quả chín thì hái vể bổ ỉàm 2 hay 4 mảnh, phơi mặt trong quả ngửa lên phía trên, cho đến khi chuyển màu hồng tím là được. Vị thuốc mộc qua là những mảnh quả dài 2,5-9cm, rộng 1,5-3,5cm, dày 2-8mm, mặt ngoài nâu đỏ đến tím đỏ, có những nếp nhăn trong quá trình khô, mặt trong quả còn rõ những ô chứa hạt, phần lớn hạt đã rụng, nhưng đối khi còn sót lại một sò hạt hình 3 cạnh, màu nâu đỏ trong chứa một nhân. VỊ chua, chát, mùi hơi thơm.
 
 c. Thành phẩn hoá học
 

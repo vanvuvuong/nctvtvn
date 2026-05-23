@@ -15,7 +15,7 @@ Thuộc họ Ô rô Acanthaceae.
 
 #### A. Mô tả cây
 
-Cây tần cửu hay thanh táo là một cây nhỏ cao chừng l,5m, cành có màu tím sẫm hay xanh lục, nhẵn, giữa chỗ lá mọc đối có một dòng lông.
+Cây tần cửu hay thanh táo là một cây nhỏ cao chừng 1,5m, cành có màu tím sẫm hay xanh lục, nhẵn, giữa chỗ lá mọc đối có một dòng lông.
 
 Lá mọc đối, mang cuống ngắn, phiếu là hình mác thuôn, dài 4-14cm, rộng l-2cm, mép nguyên. Lá thường bị loài nấm Puccinia thwaitesii ăn hại. Mặt lá nhẵn có gân xanh hay màu tím tùy theo cây. Hoa màu trắng hay hơi điểm hồng, có những đốm tía, mọc thành bông ở đầu cành hay kẽ lá phía ngọn. Quả nang dài 12mm, trong chứa 4 hạt. Mùa hoa quả vào mùa hạ (Hình 71).
 

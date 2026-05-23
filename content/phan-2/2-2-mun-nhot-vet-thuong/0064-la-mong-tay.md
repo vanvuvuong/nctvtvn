@@ -33,7 +33,7 @@ Lá chứa một thuộc chất quinon gọi là Lawsone có tác dụng kháng 
 
 #### D. Tác dụng dược lý.
 
-Chưa thấy có tài liệu nghiên cứu. Năm 1961 Phòng đông y thực nghiệm Viện vi trùng Việt nam đã thí nghiệm tác dụng kháng sinh của lá móng tay thấy tác dụng kháng sinh của lá rất mạnh. Nước sắc có tác dụng kháng sinh đối với Tụ cầu 209 P (lcm), Typhi (l,2cm), Flexneri (0,8cm), Shiga (l,2cm), Sonnei (0,5cm), Subtilis (0,8), trực trùng Coli gây bệnh (0,5cm), Coli bethesda (0,4cm).
+Chưa thấy có tài liệu nghiên cứu. Năm 1961 Phòng đông y thực nghiệm Viện vi trùng Việt nam đã thí nghiệm tác dụng kháng sinh của lá móng tay thấy tác dụng kháng sinh của lá rất mạnh. Nước sắc có tác dụng kháng sinh đối với Tụ cầu 209 P (lcm), Typhi (1,2cm), Flexneri (0,8cm), Shiga (1,2cm), Sonnei (0,5cm), Subtilis (0,8), trực trùng Coli gây bệnh (0,5cm), Coli bethesda (0,4cm).
 
 #### E. Công dụng và liều dùng
 

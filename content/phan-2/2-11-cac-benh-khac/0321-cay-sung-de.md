@@ -77,7 +77,7 @@ a/ Strophanthus eecaudatus Kurtz var. mơcrophyllus Franch. (Strophanthus pentap
 
 b/ Strophanthus caudaíus Kurtz var. giganteus Pitard (Strophanthus giganteus Pierre, Strophanthus pierrei Heim). Cũng là một loài dây leo, lá dài 12- 22cm, rông 4-7cm, hình mác thuôn hơi dài, gân có
 
-9- 12 đôi, cuống đài 9-llmm.Cụm hoa hình xim ở đầu cành, dài 4-8cm, hoa cũng màu đỏ. Quả khô 2 đại dài 18-22cm phía cuống rộng 2,5cm, đầu tù, vỏ quả cứng đen nhạt trên có khía dọc, nhiều hạt dài l,75cm, rộng 6mm. phía dưới tròn, trên dẹt, cán lông trắng mịn, chiếm 3,5cm, lông dài tới 5cm. Ra hoa vào các tháng 8-12, quả vào tháng 12 ( Hình 459).
+9- 12 đôi, cuống đài 9-llmm.Cụm hoa hình xim ở đầu cành, dài 4-8cm, hoa cũng màu đỏ. Quả khô 2 đại dài 18-22cm phía cuống rộng 2,5cm, đầu tù, vỏ quả cứng đen nhạt trên có khía dọc, nhiều hạt dài 1,75cm, rộng 6mm. phía dưới tròn, trên dẹt, cán lông trắng mịn, chiếm 3,5cm, lông dài tới 5cm. Ra hoa vào các tháng 8-12, quả vào tháng 12 ( Hình 459).
 
 c/ Sírophanthus balansae Franch. Cây nhỏ, có nhiểu cành, cành không có bì khổng. Lá dài 16cm, rộng 5-7cm. Cụm hoa chưa biết. Quả khô, dài 12cm, rộng 2cm, đầu tù, hoi nhọn, hạt dài
 

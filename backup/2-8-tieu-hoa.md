@@ -58,7 +58,7 @@ Chú thích:
 
 Ngoài vị riềng kể trên nước ta còn có một vị ridng nữa gọi là riềng nếp-Alpinia galanga Swanz cùng họ, (hình 287), cũng được dùng làm gia vị và làm thuốc, nhưng thường không quí bằng loại riềng nói trèn. Riềng nếp so với riểng thì to cao hơn, lá cũng hình mác, nhọn, mép lá có đìa trắng, dài 40cm, rộng 7cm, không cuống. Cụm hoa hình chuỳ dài 15-30cm. Hoa trắng, điểm hổng, dài 20-25cm, tràng hình ống ngắn không vượt quá đài. Quả hình cầu hay hình trứng, dài 12mm, rộng 8mm, màu đỏ nâu.
 
-Thản rễ to thô bán tại thị trường với tên đại cao lương khương, dài 8-20cm, đường kính l,5-3cm, màu nâu hổng nhạt, mùi vị không thơm như cao lương khương ( Hình 287 ).
+Thản rễ to thô bán tại thị trường với tên đại cao lương khương, dài 8-20cm, đường kính 1,5-3cm, màu nâu hổng nhạt, mùi vị không thơm như cao lương khương ( Hình 287 ).
 
 Cũng có nơi dùng như cao lương khương chữa đau bụng, đi ỉa, nôn mửa, đi lỵ. Phối hợp với than tóc rối, uống chữa ngộ độc thịt cóc.
 
@@ -352,7 +352,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 #### A. Mô tả cây
 
-Đơn lá đỏ là một loại cây nhỏ, cao 0,70-1,50m, có cành nhỏ, gầy, dài, màu tía. Lá mọc đôì, hình trái xoan thuôn dài, phía cuống nhọn, phía đầu có mũi nhọn ngắn, dài 6-12cm, rộng l,2-4cm, mặt trên lá màu xanh lục sẫm, mặt duới màu tía đỏ, mép có răng cưa, cuống ngắn 5-10mm. Hoa mọc thành bông ở kẽ M hay đầu cành, bông hoa đực dài 2cm, bông hoa cái ngắn hơn. Quả 3 mảnh, đưòng kính chừng lem, hạt hình cầu, màu nâu nhạt, đường kính 4mm. Mùa hoa vào các tháng 4-5-6 ( Hình 295 ).
+Đơn lá đỏ là một loại cây nhỏ, cao 0,70-1,50m, có cành nhỏ, gầy, dài, màu tía. Lá mọc đôì, hình trái xoan thuôn dài, phía cuống nhọn, phía đầu có mũi nhọn ngắn, dài 6-12cm, rộng 1,2-4cm, mặt trên lá màu xanh lục sẫm, mặt duới màu tía đỏ, mép có răng cưa, cuống ngắn 5-10mm. Hoa mọc thành bông ở kẽ M hay đầu cành, bông hoa đực dài 2cm, bông hoa cái ngắn hơn. Quả 3 mảnh, đưòng kính chừng lem, hạt hình cầu, màu nâu nhạt, đường kính 4mm. Mùa hoa vào các tháng 4-5-6 ( Hình 295 ).
 
 #### B. Phân bố, thu hái và chê biến
 
@@ -596,7 +596,7 @@ Corchoroĩiỉ
 
 dân ta ít dùng để ăn hay làm thuốc, nhưng tại các nước khác, người ta dùng như cây rau đay của ta.
 
-Cây này sống hàng năm, cao 1 đến 3m. Lá hình trứng dài và hẹp, đầu rất nhọn, phía gốc Lá tròn, mép có răng cưa, dài 6-I2cm, rộng l,5-3,5cm, hai răng cua cuối cùng có lông dài. Hoa mọc từng cụm 2 hay 3 hoa có cuống ngắn. Đài 4-5, tràng 4-5, nhị 18, bao phái hình vuồng. Quả hình cẩu hay hình lê, dài 12mm, rộng 10-llmm, có sống hơi rõ, trong chúa 2 hàng hạt, mỗi hàng 5 hạt.
+Cây này sống hàng năm, cao 1 đến 3m. Lá hình trứng dài và hẹp, đầu rất nhọn, phía gốc Lá tròn, mép có răng cưa, dài 6-I2cm, rộng 1,5-3,5cm, hai răng cua cuối cùng có lông dài. Hoa mọc từng cụm 2 hay 3 hoa có cuống ngắn. Đài 4-5, tràng 4-5, nhị 18, bao phái hình vuồng. Quả hình cẩu hay hình lê, dài 12mm, rộng 10-llmm, có sống hơi rõ, trong chúa 2 hàng hạt, mỗi hàng 5 hạt.
 
 Nhân dân ta có trồng cây này nhưng chủ yếu để lấy vỏ làm sợi dêt bao tải. Đôi khi cũng hái lấy rau ăn. Nhân dân Ân Độ dùng lá sắc uống làm thuốc bổ, nhân dân Malaixia dùng chữa lỵ, chữa ho ưẻ em.
 
@@ -636,7 +636,7 @@ Dương xuân sa (Fructus Amomi villosi) là quả chưa chín phơi hay sấy k
 
 #### A. Mô tả cây
 
-Dương xuân sa là một loại cỏ nhỏ, sống lâu năm, cao tới l,5m, thân rễ phình to và mọc ngang. Lá hình mác rộng, dài 14-40cm, rộng 2-8cm, đầu nhọn, phía gốc tròn, gần như khống cuống, hai mặt nhẩn. Cụm hoa nhiều, nhưng mọc thưa từ gốc thân lên, cán mang hoa gầy, lúc đầu nằm ngang, sau mọc thẳng đúng, dài 6-8cm, có những bẹ mọc như lợp ngói. Hoa màu trắng vàng nhạt, tràng hình ống, thùy hình trứng, dài 13mm. Quả hình trứng, trên cổ những gai nhỏ, quả dài 2cm, rộng 12-15mm. Hạt có đường kính 3mm ( Hình 301 ).
+Dương xuân sa là một loại cỏ nhỏ, sống lâu năm, cao tới 1,5m, thân rễ phình to và mọc ngang. Lá hình mác rộng, dài 14-40cm, rộng 2-8cm, đầu nhọn, phía gốc tròn, gần như khống cuống, hai mặt nhẩn. Cụm hoa nhiều, nhưng mọc thưa từ gốc thân lên, cán mang hoa gầy, lúc đầu nằm ngang, sau mọc thẳng đúng, dài 6-8cm, có những bẹ mọc như lợp ngói. Hoa màu trắng vàng nhạt, tràng hình ống, thùy hình trứng, dài 13mm. Quả hình trứng, trên cổ những gai nhỏ, quả dài 2cm, rộng 12-15mm. Hạt có đường kính 3mm ( Hình 301 ).
 
 B. Phản bố, thu hái và chế biỂh
 
@@ -668,7 +668,7 @@ Hoa màu trắng đốm tía, mọc thành chùm ở gốc; từ rễ nảy ra m
 
 4- 6 hoa. Quả là một nang 3 ngăn, đậu vào tháng
 
-5, chín vào tháng 7-8 (6-7 âm lịch), hình trứng, to nhất bằng đầu ngón tay cáì, trung bình bằng đầu ngón tay giữa, dài 1,5 -2cm, đường kính 1- l,5cm. Mạt ngoài vỏ có gai rất đều, không có cái cao cái thấp, kẽ gaì cũng đều nhau, bóp mạnh sẽ vỡ thành 3 mảnh. Hạt dính theo lối đính phôi trung trụ. Mùa hoa: tháng 4-5 (Hình 302, Hm
+5, chín vào tháng 7-8 (6-7 âm lịch), hình trứng, to nhất bằng đầu ngón tay cáì, trung bình bằng đầu ngón tay giữa, dài 1,5 -2cm, đường kính 1- 1,5cm. Mạt ngoài vỏ có gai rất đều, không có cái cao cái thấp, kẽ gaì cũng đều nhau, bóp mạnh sẽ vỡ thành 3 mảnh. Hạt dính theo lối đính phôi trung trụ. Mùa hoa: tháng 4-5 (Hình 302, Hm
 
 40,1).
 
@@ -816,7 +816,7 @@ Thảo đậu khấu {Semen Alpiniae katsumadai) là hạt phơi hay sấy khô 
 
 #### A. Mô tả cây
 
-Thảo đậu khấu là một loại cỏ sống lâu năm cao l-2m. Thân rễ màu nâu đỏ. Lá mọc so le, hình mác, dài 30-55cm, rộng 2-9cm. Cụm hoa hình chùm, dài 30cm, ở đầu cành. Hoa màu trắng, hình ống, dài l,2cm, trong có đốm màu tím đỏ nhạt. Quả hình cầu đường kính 3,5cm, còn đài tồn tại, khi chín có màu vàng ( Hình 305 ).
+Thảo đậu khấu là một loại cỏ sống lâu năm cao l-2m. Thân rễ màu nâu đỏ. Lá mọc so le, hình mác, dài 30-55cm, rộng 2-9cm. Cụm hoa hình chùm, dài 30cm, ở đầu cành. Hoa màu trắng, hình ống, dài 1,2cm, trong có đốm màu tím đỏ nhạt. Quả hình cầu đường kính 3,5cm, còn đài tồn tại, khi chín có màu vàng ( Hình 305 ).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -888,7 +888,7 @@ Vì vị thuốc giúp ích tỳ vị cho nên có tên như thế.
 
 #### A. Mô tả cây
 
-ích trí là một loại cỏ sống lâu năm, cao 1,5- 2m, toàn cây có vị cay. Lá hình mác dài 17- 33cm, rộng 3-6cm. Cụm hoa hình chùm mọc ở đầu cành. Hoa màu trắng có đốm tím. Quả hình cầu, đường kính l,5cm, khi chín có màu vàng xanh, hạt nhiều cạnh, màu nâu đen ( Hình 308 ).
+ích trí là một loại cỏ sống lâu năm, cao 1,5- 2m, toàn cây có vị cay. Lá hình mác dài 17- 33cm, rộng 3-6cm. Cụm hoa hình chùm mọc ở đầu cành. Hoa màu trắng có đốm tím. Quả hình cầu, đường kính 1,5cm, khi chín có màu vàng xanh, hạt nhiều cạnh, màu nâu đen ( Hình 308 ).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -1236,7 +1236,7 @@ Thuộc họ Dung Symplocaceae.
 
 #### A. Mô tả câv
 
-Dung là mộc cây nhỏ cao l,50-2m, nhưng có thể cao 4-5m hay K-9m '(nếu để lâu không bị đốn chặt), Lá mọc so lc, đơn, nguyên, cuống ngấn, hình trứng thuôn dài, phía cuống hẹp lại hơi tù, phiến lá dài 9- 15cm, rộng 3-6cm, mép có răng cưa ngắn, thưa, mặt nhắn, khi khô có màu vàng xanh hay vàng nâu. Hoa nhiều, tnàu trắng hay vàng lục nhạt, mọc thành chùm ở nách lá hay ờ đẩu cành, cuống hoa ngán, trên mặt có phủ lông mỊn. Hoa mùi thơm nên ong rất (hích. Quả hạch ăn được, hình thuôn dài, dài 6-10mm, trên đỉnh có phiến đài tốn tại, thụt quả màu tím đỏ. Hạt thuờng đơn độc, màu nâu ( Hình 316 ).
+Dung là mộc cây nhỏ cao 1,50-2m, nhưng có thể cao 4-5m hay K-9m '(nếu để lâu không bị đốn chặt), Lá mọc so lc, đơn, nguyên, cuống ngấn, hình trứng thuôn dài, phía cuống hẹp lại hơi tù, phiến lá dài 9- 15cm, rộng 3-6cm, mép có răng cưa ngắn, thưa, mặt nhắn, khi khô có màu vàng xanh hay vàng nâu. Hoa nhiều, tnàu trắng hay vàng lục nhạt, mọc thành chùm ở nách lá hay ờ đẩu cành, cuống hoa ngán, trên mặt có phủ lông mỊn. Hoa mùi thơm nên ong rất (hích. Quả hạch ăn được, hình thuôn dài, dài 6-10mm, trên đỉnh có phiến đài tốn tại, thụt quả màu tím đỏ. Hạt thuờng đơn độc, màu nâu ( Hình 316 ).
 
 B. Phân bô, thu hái và chê biến
 
@@ -1432,7 +1432,7 @@ Nhưng làm như trên, không phải bao giờ và ở đâu cũng thành công
 
 #### C. Thành phần hóa học
 
-Hiện nay mới chỉ biết trong lOOg năm đã sấy khô trung bình có 12,5g chất đạm; l,6g chất
+Hiện nay mới chỉ biết trong lOOg năm đã sấy khô trung bình có 12,5g chất đạm; 1,6g chất
 
 béo; 60g chất đường; 16mg canxi; 240mg lân và 3,9mg sắt. Những chất khác chưa rõ.
 
@@ -1536,7 +1536,7 @@ Thìa là cho quả dùng làm thuốc.
 
 #### A. Mô tả cây
 
-Cỏ nhỏ mọc hằng năm, ít phân nhánh, thân nhẵn, cao 0,3-1 m, lá xẻ ba thành những phiến nhỏ hình sợi, vò có mùi thơm dễ chịu, nhung có người cho là khó chịu. Hoa màu vàng nhạt, mọc thành tán to thường gồm 10 gọng không tổng bao và tiểu bao. Quả hình trứng, đài 3mm, rộng l,5mm, dẹt ở lưng, phân liệt quả tách nhau dễ dàng, có 3 sống dọc nổi ( Hình 323 ).
+Cỏ nhỏ mọc hằng năm, ít phân nhánh, thân nhẵn, cao 0,3-1 m, lá xẻ ba thành những phiến nhỏ hình sợi, vò có mùi thơm dễ chịu, nhung có người cho là khó chịu. Hoa màu vàng nhạt, mọc thành tán to thường gồm 10 gọng không tổng bao và tiểu bao. Quả hình trứng, đài 3mm, rộng 1,5mm, dẹt ở lưng, phân liệt quả tách nhau dễ dàng, có 3 sống dọc nổi ( Hình 323 ).
 
 B. Phàn bố, thu hái và chê biến
 
@@ -1608,7 +1608,7 @@ Tên khoa học _*Mosla dianthera Maxim. Thuộc họ Hoa Môi Lamiơceae (Labia
 
 #### A. Mô tả cây
 
-Cây cỏ cao 25-50cm, mọc đứng, gầy, nhiều cành, thân vuông. Lá mọc đối, có cuống ngắn, phiến lá dài l,5'2cm, rộng 1-1,5cm, mép cổ răng
+Cây cỏ cao 25-50cm, mọc đứng, gầy, nhiều cành, thân vuông. Lá mọc đối, có cuống ngắn, phiến lá dài 1,5'2cm, rộng 1-1,5cm, mép cổ răng
 
 cưa nhỏ. Hoa nhỏ, trắng hay hổng mọc thành bông ờ đầu cành hay kẽ lá, bông dài 5-10cm, với những vòng gồm 2 hoa, cách nhau. Quả bế (ư, màu nâu nhạt, hình cầu. Toàn cây có lông tơ, mùi thơm đặc biệt ( Hình 325 ).
 

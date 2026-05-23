@@ -15,7 +15,7 @@ Thuộc họ Bông Maivaceae.
 
 #### A. Mô tả cây
 
-Ké hoa đào là một cây nhỡ cao chừng 1m, có cành mang nhiều lông mịn hình sao. Lá gần tròn, đường kính 4-6cm, có khi tới 9cm, gân lá hình chân vịt (gồm 3-7 gân), mép có răng cưa và chia thùy, đầu lá nhọn phía cuối bàng hay hơi bàng, mặt trên màu xanh, mặt dưới màu tro nhạt có nhiều lông, dài hình sao. Hoa có cánh màu hồng, mọc đơn độc hay thành đôi ở kẽ lá, đường kính chừng l,7cm. Quả hình cầu dẹt, có lông, trên có những gai hình móc, đường kính 7-8mm, hạt có vân dọc và có lông gợn ngắn. Mùa hoa suốt hạ và thu (Hình 59).
+Ké hoa đào là một cây nhỡ cao chừng 1m, có cành mang nhiều lông mịn hình sao. Lá gần tròn, đường kính 4-6cm, có khi tới 9cm, gân lá hình chân vịt (gồm 3-7 gân), mép có răng cưa và chia thùy, đầu lá nhọn phía cuối bàng hay hơi bàng, mặt trên màu xanh, mặt dưới màu tro nhạt có nhiều lông, dài hình sao. Hoa có cánh màu hồng, mọc đơn độc hay thành đôi ở kẽ lá, đường kính chừng 1,7cm. Quả hình cầu dẹt, có lông, trên có những gai hình móc, đường kính 7-8mm, hạt có vân dọc và có lông gợn ngắn. Mùa hoa suốt hạ và thu (Hình 59).
 
 #### B. Phân bố,thu hái và chế biến
 

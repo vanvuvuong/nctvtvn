@@ -27,7 +27,7 @@ Nhưng làm như trên, không phải bao giờ và ở đâu cũng thành công
 
 #### C. Thành phần hóa học
 
-Hiện nay mới chỉ biết trong lOOg năm đã sấy khô trung bình có 12,5g chất đạm; l,6g chất
+Hiện nay mới chỉ biết trong lOOg năm đã sấy khô trung bình có 12,5g chất đạm; 1,6g chất
 
 béo; 60g chất đường; 16mg canxi; 240mg lân và 3,9mg sắt. Những chất khác chưa rõ.
 

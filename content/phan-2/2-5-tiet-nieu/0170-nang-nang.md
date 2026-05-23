@@ -55,7 +55,7 @@ Thuộc họ Rau răm Poỉygonaceae.
 
 A. Mô lả cây
 
-Cây cỏ nhỏ, mọc bò, thân và cành mọc tỏa Iròn gần sát mạt đất, màu đỏ tím, đôi khi mọc cao tới ]0-30cm. Lá nhỏ, mọc se le, có bẹ chìa. Phiến lá dài l,5-2cm, rộng 0,4cni. Hoa nhò, màu hồng tím, mọc tụ từ 1 đến 5, thường 3-4 hoa ở kẽ lá. Quả ở cạnh, chứa một hạt đẩu đen. Mùa hoa từ tháng 5-6, kéo dài suốt mùa hè (Hình 209).
+Cây cỏ nhỏ, mọc bò, thân và cành mọc tỏa Iròn gần sát mạt đất, màu đỏ tím, đôi khi mọc cao tới ]0-30cm. Lá nhỏ, mọc se le, có bẹ chìa. Phiến lá dài 1,5-2cm, rộng 0,4cni. Hoa nhò, màu hồng tím, mọc tụ từ 1 đến 5, thường 3-4 hoa ở kẽ lá. Quả ở cạnh, chứa một hạt đẩu đen. Mùa hoa từ tháng 5-6, kéo dài suốt mùa hè (Hình 209).
 
 #### B. Phân bố, thu hái và chế biên
 

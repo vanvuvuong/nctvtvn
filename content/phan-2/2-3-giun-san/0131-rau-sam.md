@@ -45,7 +45,7 @@ Ngoài ra, theo một tác gìả khác, trong rau sam có glucozit, saponin, ch
 
 Theo B. E. Read, (1940, Chín. J. Physioỉo. 15 (]): 9-17) thì mỗi lOOg rau sam tươi có 100 gama vitamin Br mỗi lOOg khô có 40 gama vi- tamin Br
 
-Theo Viện vệ sinh Hà Nội (1972) rau sam Việt Nam có 1,4% protit, 3% gluxit, 1,3% tro, 85mg% canxì, 5,6mg%p, l,5mg% sắt, 26mg% vitamin c, 0,32mg% caroten, 0,03mg% vitamin Br 0,llmg% vitamin B2 và 0,7mg% vitamin pp.
+Theo Viện vệ sinh Hà Nội (1972) rau sam Việt Nam có 1,4% protit, 3% gluxit, 1,3% tro, 85mg% canxì, 5,6mg%p, 1,5mg% sắt, 26mg% vitamin c, 0,32mg% caroten, 0,03mg% vitamin Br 0,llmg% vitamin B2 và 0,7mg% vitamin pp.
 
 Nghiên cứu rau sam ờ Đài Loan, người ta thấy có axit hữu cơ, kali nitrat, kali suníat và muối kali khác, cây tươi chứa chừng 1% muối kali, cây khô chứa 10% muối kali (theo Dược học tạp chí của Nhật Bản, 1944, quyển 64. (3): 177-178). Trong tài liệu này còn nói nhân dân Đài Loan dùng rau sam chữa bệnh cước khí thủy thủng, tiểu tiện khó khăn, giải độc; tác giả kết luân là vì trong rau sam có muối kali oxalat, axit làm thông tiểu cho nên có tác dụng giải độc.
 

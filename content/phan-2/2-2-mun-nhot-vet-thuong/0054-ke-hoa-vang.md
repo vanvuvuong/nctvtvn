@@ -15,7 +15,7 @@ Thuộc họ Bông Malvaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ mọc thẳng đứng, cao 0,5-lm, thân và cành có nhiều lông ngắn hình sao. Lá hình trứng hay gần nhu hình trứng, đầu hơi nhọn ngắn, mép hơi răng cưa, dài l,5-4cm, rộng 1- 2,5cm, cuống dài 3-5mm, rất nhiều lông. Hoa màu vàng, mọc ở kẽ lá hay đầu cành. Đài hình chuông lá đài có lông màu trắng nhạt ở phía ngoài. Cánh trắng màu vàng cũng có lông mịn. Nhị 20. Nhuỵ có 7 vòi. Quả có vỏ mỏng dễ vỡ, ở đỉnh có lông, phía lưng có hai vết nổi. Hạt cũng có lông (Hình 60).
+Cây nhỏ mọc thẳng đứng, cao 0,5-lm, thân và cành có nhiều lông ngắn hình sao. Lá hình trứng hay gần nhu hình trứng, đầu hơi nhọn ngắn, mép hơi răng cưa, dài 1,5-4cm, rộng 1- 2,5cm, cuống dài 3-5mm, rất nhiều lông. Hoa màu vàng, mọc ở kẽ lá hay đầu cành. Đài hình chuông lá đài có lông màu trắng nhạt ở phía ngoài. Cánh trắng màu vàng cũng có lông mịn. Nhị 20. Nhuỵ có 7 vòi. Quả có vỏ mỏng dễ vỡ, ở đỉnh có lông, phía lưng có hai vết nổi. Hạt cũng có lông (Hình 60).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -61,7 +61,7 @@ Thường dùng phối hợp với nhiều vị thuốc khác nhu cúc hoa, câu
 
 Maỉỉotus ỷuretianus thuộc họ Thầu dầu (.Euphotbiaceae). Cần chú ý tránh nhầm lẫn.
 
-2. Trong họ Mã tiền cùng chi Buddlela còn có cây bọ chó hay sầu đâu chuột Buddleia asỉatica Lour. (Buddleia neemda Ham.) tên Trung Quốc là tuý ngư thảo. Cây này cao l-2m hay hơn. Cành và hoa có nhiều lồng bài tiết. Lá thon dài, đầu nhọn dài, mép nguyên hay có răng cưa rất nhỏ, dài 7-18cm, rộng l,5-4,5cm. Hoa màu trắng nhạt, cuống ngấn mọc thành chuỳ thưa gồm ĩihiểu xim, mỗi xim có 3 hoa. Quả nang thuôn dài 3-6mm, rộng 2mm. Hạt có cánh, hình thoi dài lmm.
+2. Trong họ Mã tiền cùng chi Buddlela còn có cây bọ chó hay sầu đâu chuột Buddleia asỉatica Lour. (Buddleia neemda Ham.) tên Trung Quốc là tuý ngư thảo. Cây này cao l-2m hay hơn. Cành và hoa có nhiều lồng bài tiết. Lá thon dài, đầu nhọn dài, mép nguyên hay có răng cưa rất nhỏ, dài 7-18cm, rộng 1,5-4,5cm. Hoa màu trắng nhạt, cuống ngấn mọc thành chuỳ thưa gồm ĩihiểu xim, mỗi xim có 3 hoa. Quả nang thuôn dài 3-6mm, rộng 2mm. Hạt có cánh, hình thoi dài lmm.
 
 Mọc hoang ở kháp nơi ở Việt Nam; còn mọc ở Trung Quốc, Philipin.
 

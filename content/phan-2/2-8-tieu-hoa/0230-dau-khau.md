@@ -99,7 +99,7 @@ Thảo đậu khấu {Semen Alpiniae katsumadai) là hạt phơi hay sấy khô 
 
 #### A. Mô tả cây
 
-Thảo đậu khấu là một loại cỏ sống lâu năm cao l-2m. Thân rễ màu nâu đỏ. Lá mọc so le, hình mác, dài 30-55cm, rộng 2-9cm. Cụm hoa hình chùm, dài 30cm, ở đầu cành. Hoa màu trắng, hình ống, dài l,2cm, trong có đốm màu tím đỏ nhạt. Quả hình cầu đường kính 3,5cm, còn đài tồn tại, khi chín có màu vàng ( Hình 305 ).
+Thảo đậu khấu là một loại cỏ sống lâu năm cao l-2m. Thân rễ màu nâu đỏ. Lá mọc so le, hình mác, dài 30-55cm, rộng 2-9cm. Cụm hoa hình chùm, dài 30cm, ở đầu cành. Hoa màu trắng, hình ống, dài 1,2cm, trong có đốm màu tím đỏ nhạt. Quả hình cầu đường kính 3,5cm, còn đài tồn tại, khi chín có màu vàng ( Hình 305 ).
 
 #### B. Phân bố, thu hái và chế biến
 

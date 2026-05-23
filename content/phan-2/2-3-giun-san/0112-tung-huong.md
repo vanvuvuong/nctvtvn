@@ -41,7 +41,7 @@ Thông ưa đất cát. Trồng thông bằng hạt. Sau
 
 4- 5 năm trồng thì bắt đầu tỉa, phải tỉa sao cho cành đụng nhau nhưng không xen kẽ vào nhau.
 
-Thường trồng thông sau 15-20 năm mới bất đầu khai thác nhụa. Khi ấy cây có đường vòng chừng 60cm. Thường người ta phân biệt hai loại thông: thông để sồng lâu, thì cứ 4 năm lấy nhựa một lần và chỉ lấy nhựa khi nơi thân cây cách mặt đất l,5m có đường vòng Im. Loại thông cần chặt đi cho quang bớt thì lấy nhựa cho đến hết. Sau đó ngả cây. Cầy thông cho nhựa nhiều nhất vào nãm 60 tuổi, sau đó lượng nhựa giảm đần.
+Thường trồng thông sau 15-20 năm mới bất đầu khai thác nhụa. Khi ấy cây có đường vòng chừng 60cm. Thường người ta phân biệt hai loại thông: thông để sồng lâu, thì cứ 4 năm lấy nhựa một lần và chỉ lấy nhựa khi nơi thân cây cách mặt đất 1,5m có đường vòng Im. Loại thông cần chặt đi cho quang bớt thì lấy nhựa cho đến hết. Sau đó ngả cây. Cầy thông cho nhựa nhiều nhất vào nãm 60 tuổi, sau đó lượng nhựa giảm đần.
 
 Thời gian lấy nhựa bắt đầu từ tháng 3 đến tháng 10. Nhưng ngay từ tháng hai, người ta đã cạo cho mỏng bớt vỏ trên một khoang rộng 10- 15cm, dài 60-80cm. Đến tháng ba, người ta dùng một loại cuốc nhỏ riêng đẽo một mảnh vô rộng khoảng 9cm, sâu 1 cm, vào lớp gỗ giác cao 3- 4cm.
 
@@ -99,7 +99,7 @@ Tên khoa học _*Agỉaonema siamense Engl. Thuộc họ Ráy Araceae.*_
 
 #### A. Mô tả cây
 
-Cây thảo cao 35-40cm, đường kính thân 1- l,5cm. Lá hình bầu dục thuôn dài, phía gốc tròn, phía trên hẹp nhọn dần, dài 15-20cm, rộng
+Cây thảo cao 35-40cm, đường kính thân 1- 1,5cm. Lá hình bầu dục thuôn dài, phía gốc tròn, phía trên hẹp nhọn dần, dài 15-20cm, rộng
 
 5-7cm, cuống dài 5-10cm có bẹ ôm lấy thân ở phía dưới. Cụm hoa tận cùng hay mọc ngang, mo dài 3,5-4,5cm trẽn điểm nhiều chấm trắng nhỏ, bóng mo dài 3,5cm, hình trụ, có chân ngắn, phần hoa cái ngăn cách phần hoa đực bởi những hoa trung tính hoặc bời những nhị lép. Quả mọng, thuôn dài, mặt điểm những chấm nhỏ trắng, dài 12-18mm, rộng 7-10mm ( Hình 106 ).
 

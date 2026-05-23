@@ -17,7 +17,7 @@ Hoàng cầm là một vị thuốc thông dụng, hiện nay chưa thấy ở n
 
 #### A. Mô tả cây
 
-Hoàng cầm là một loại cỏ sống dai, cao 20- 50cm, có rễ phình to thành hình chùy, mặt ngoài màu vàng sẫm bẻ ra có màu vàng. Thân mọc đứng, vuông, phân nhánh, nhẵn hoặc có lông ngắn. Lá mọc đối, cuống rất ngắn, hoặc không cuống; phiến lá hình mác hẹp, hơi đầu tù, mép nguyên, dài l,5-4cm, rộng 3-8mm hoặc 1cm, mặt trên màu xanh sẫm, mặt dưới xanh nhạt. Hoa mọc thành bông ở đầu cành, màu lam tím. Cánh hoa gồm 2 môi, 4 nhị (2 nhị lớn dài hơn tràng) màu vàng, bầu có 4 ngăn. (Hình 241, Hm 57,3)
+Hoàng cầm là một loại cỏ sống dai, cao 20- 50cm, có rễ phình to thành hình chùy, mặt ngoài màu vàng sẫm bẻ ra có màu vàng. Thân mọc đứng, vuông, phân nhánh, nhẵn hoặc có lông ngắn. Lá mọc đối, cuống rất ngắn, hoặc không cuống; phiến lá hình mác hẹp, hơi đầu tù, mép nguyên, dài 1,5-4cm, rộng 3-8mm hoặc 1cm, mặt trên màu xanh sẫm, mặt dưới xanh nhạt. Hoa mọc thành bông ở đầu cành, màu lam tím. Cánh hoa gồm 2 môi, 4 nhị (2 nhị lớn dài hơn tràng) màu vàng, bầu có 4 ngăn. (Hình 241, Hm 57,3)
 
 #### B. Phân bố, thu hái và chế biến
 

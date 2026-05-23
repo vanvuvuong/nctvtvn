@@ -2356,7 +2356,7 @@ Cao thường sơn trên lâm sàng có tác dụng rõ rệt chữa sốt rét 
 
 Năm 1956, các tác giả Ngô Vân Dực, Lưu Văn Phú và Kim Âm Xương đã báo cáo trong hội nghị sinh lý học lần thứ nhất của Trung Quốc về tác dụng chữa sổt rét và độc tính của thường sơn cũng công nhận các kết luận nói ở trên.
 
-2. Tác dụng chữa sốt. Năm 1935, Mã Văn Thiên đã báo cáo tiêm vào mạch máu 2ml trên 1kg thể trọng thỏ dung dịch 0,03% trực trùng côli để gây sốt rồi tiêm dưới da dung dịch 5% thường sơn (1ml tương đương với l,67g nguyên liệu) với liều 0,5ml trên 1kg thể trọng thì thấy tác dụng hạ sốt rất rõ: Nhiệt độ đang lên cao hạ xuống nhiệt độ bình thường.
+2. Tác dụng chữa sốt. Năm 1935, Mã Văn Thiên đã báo cáo tiêm vào mạch máu 2ml trên 1kg thể trọng thỏ dung dịch 0,03% trực trùng côli để gây sốt rồi tiêm dưới da dung dịch 5% thường sơn (1ml tương đương với 1,67g nguyên liệu) với liều 0,5ml trên 1kg thể trọng thì thấy tác dụng hạ sốt rất rõ: Nhiệt độ đang lên cao hạ xuống nhiệt độ bình thường.
 
 Cùng năm 1935, Kinh Lợi Bân và Lý Đăng Bảng cũng theo phương pháp trên xác nhận thường sơn có tác dụng giảm sốt, nhưng cả hai nhóm đều không thí nghiệm cho uống thuốc cho nên cũng chưa rõ cho uống thuốc thì tác dụng như thế nào.
 
@@ -2372,7 +2372,7 @@ Năm 1950, (Nội khoa 2,1-8) cũng báo cáo thấy kết quả như trên.
 
 Năm 1947, Trương Xương Thiệu và Hoàng Kỳ Chương (Trung Hoa y học tạp chí 33, 177) báo cáo đã xác định nửa liều gây chết LD-50 của dicroin α, β, γ trên 1kg thể trọng của gà là 20mg, chuột nhắt là 18,5mg, gà nhỏ là 7,5mg, một giống gà nhỏ khác là 10mg.
 
-Năm 1950, Diệm Phượng Cương đã báo cáo dùng chất có tinh thể chiết được từ rễ thường sơn và chất R212 để thí nghiệm tác dụng chữa sốt rét thì thấy trong quá trình nghiên cứu với liều 10mg trên 1kg thể trọng gà hay quá liều đó thì đa số gà thí nghiệm bị chết. Dùng nước Ringer để pha chất R212 thành dung dịch 0,1% rồi thí nghiệm trên chó nhỏ và ếch thì thấy tiêm dưới da cho chó nhỏ với liều l,5ml cho 1kg thể trọng, chó sẽ phát sinh nôn mửa, đi ỉa lỏng, phân tiết dạ dày và ruột tăng cường, nhu động cũng tăng cường, niêm mạc dạ dày và ruột xuất huyết, huyết áp hạ xuống, hô hấp nhanh lên, cuối cùng thì chết.
+Năm 1950, Diệm Phượng Cương đã báo cáo dùng chất có tinh thể chiết được từ rễ thường sơn và chất R212 để thí nghiệm tác dụng chữa sốt rét thì thấy trong quá trình nghiên cứu với liều 10mg trên 1kg thể trọng gà hay quá liều đó thì đa số gà thí nghiệm bị chết. Dùng nước Ringer để pha chất R212 thành dung dịch 0,1% rồi thí nghiệm trên chó nhỏ và ếch thì thấy tiêm dưới da cho chó nhỏ với liều 1,5ml cho 1kg thể trọng, chó sẽ phát sinh nôn mửa, đi ỉa lỏng, phân tiết dạ dày và ruột tăng cường, nhu động cũng tăng cường, niêm mạc dạ dày và ruột xuất huyết, huyết áp hạ xuống, hô hấp nhanh lên, cuối cùng thì chết.
 
 #### E. Công dụng và liều dùng
 

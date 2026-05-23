@@ -15,7 +15,7 @@ Tên địa du vì địa là đất, du là cây du. Cây địa du lúc mới 
 
 #### A. Mô tả cây
 
-Loài cây sống dai, cao 0,30m đến l,5m, có khi đạt 2m. Thân rỗng, mọc thẳng đứng, nhẵn, mang ít lá. Lá dài 30-40cm, kép lông chim lẻ, 5- 15 lá chét, hình trứng, mép răng cưa to, tù. Hoa màu đỏ máu sẫm, lưỡng tính, nhỏ, tụ thành cụm hình trứng, ra hoa suốt mùa hè (từ tháng 7-9), quả nhẵn, màu nâu, hơi bốn cạnh, chứa một hạt. Rễ bò ngầm dưới đất, màu nâu ( Hình 231 ).
+Loài cây sống dai, cao 0,30m đến 1,5m, có khi đạt 2m. Thân rỗng, mọc thẳng đứng, nhẵn, mang ít lá. Lá dài 30-40cm, kép lông chim lẻ, 5- 15 lá chét, hình trứng, mép răng cưa to, tù. Hoa màu đỏ máu sẫm, lưỡng tính, nhỏ, tụ thành cụm hình trứng, ra hoa suốt mùa hè (từ tháng 7-9), quả nhẵn, màu nâu, hơi bốn cạnh, chứa một hạt. Rễ bò ngầm dưới đất, màu nâu ( Hình 231 ).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -21,7 +21,7 @@ Cây mọc hoang ỏ các đồi thành từng bụi cao chừng l-2m. Thân mà
 
 (1) Tên gọi ở tỉnh Phú Thọ.
 
-dọc rất rõ, bì khổng nhỏ như hạt kê. Lá mọc so le, hình lưỡi mác, mặt dưới nhạt hơn, dài 4,5- 5cm, rộng l,5-2cm. Phiến ờ phía cuống hẹp nhọn. Cuống ngắn 5-6mm.
+dọc rất rõ, bì khổng nhỏ như hạt kê. Lá mọc so le, hình lưỡi mác, mặt dưới nhạt hơn, dài 4,5- 5cm, rộng 1,5-2cm. Phiến ờ phía cuống hẹp nhọn. Cuống ngắn 5-6mm.
 
 Khi quả chín hái về xát sạch vỏ, phơi khô; khi dùng tán nhỏ. Vị lúc đầu ngọt sau chua và hơi tê tê. (Hinh 116)
 

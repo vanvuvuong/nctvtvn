@@ -51,7 +51,7 @@ Thuộc họ ĐỖ quyên Ericaceae.
 
 A. Mò tả cãy
 
-Cây nhỏ cao l,5-3m, mang rất nhìểu cành, cành nhỏ hình ba cạnh hay tròn, nhẩn, khô có màu nâu. Lá hình mác, hoặc thuôn dài, đầu nhọn, phía cuống hình nêm, mép có răng cưa, phiến lá dai, màu nâu nhạt ờ cả hai mặt, mặt trên nhẵn, mặt dưới có những đốm đen rải rác, dài 4-6cm, rộng l-2cm, gán nổi ở mặt dưới, chìm ở mặt trên. Hoa màu hổng hay trắng, mọc thành chùm ở kẽ lá, thường chùm dài hơn lá. Quả nang hình cầu, trên có vòi tồn tại, bao bọc bởi một đài mẫm. Nhiều hạt ( Hình 401).
+Cây nhỏ cao 1,5-3m, mang rất nhìểu cành, cành nhỏ hình ba cạnh hay tròn, nhẩn, khô có màu nâu. Lá hình mác, hoặc thuôn dài, đầu nhọn, phía cuống hình nêm, mép có răng cưa, phiến lá dai, màu nâu nhạt ờ cả hai mặt, mặt trên nhẵn, mặt dưới có những đốm đen rải rác, dài 4-6cm, rộng l-2cm, gán nổi ở mặt dưới, chìm ở mặt trên. Hoa màu hổng hay trắng, mọc thành chùm ở kẽ lá, thường chùm dài hơn lá. Quả nang hình cầu, trên có vòi tồn tại, bao bọc bởi một đài mẫm. Nhiều hạt ( Hình 401).
 
 B. Phàn bố, thu hái và chế biến
 

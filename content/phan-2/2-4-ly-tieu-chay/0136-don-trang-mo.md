@@ -81,7 +81,7 @@ Tên khoa học _*Tinospora sagittata (Oliv.) Gagnep.*_
 
 Thuộc họ Tiết dẻ Menỉspermaceae.
 
-()(*)()San sư cô là tên đồng bào Mèo vùng chợ Mường Khương (Lào Cai) thường gọi cây này. Đày là một loại dây leo, sống nhiều năm, luốn xanh tươi, thân dài từ l-4m. Thần rỄ dưới đất có thể mọc dài tới l,5m, thỉnh thoảng phình to lên từng đốt hình củ tròn to bằng ngón tay cái, có khi thành một *đãy gồm 5 đến 9 củ, màu vàng nhạt, khi cất có màu hơi trắng, vị đắng. Thân ưên mặt đất màu xanh lục nhạt, khi non có lông ngắn. Lá đơn, mọc cách, cuống lá dài 2-5cm, phiến lá hình mác nhọn, gốc lá hình chữ V, phiến lá dài 5-15cm, rộng 2-5cm. Hoa đực, cái khác gốc, hoa đực mọc thành chùm nhiều hoa có cuống dài 2-5cm, hoa cái cũng mọc thành chùm gồm 4 đến 10 hoa. Quả ưòn, cuống quả có đầu phình ra, quả chín có màu hồng đỏ. Mùa hoa: Tháng 3 đến tháng 5, mùa quả vào tháng 11-12 ( Hmh 150 ).
+()(*)()San sư cô là tên đồng bào Mèo vùng chợ Mường Khương (Lào Cai) thường gọi cây này. Đày là một loại dây leo, sống nhiều năm, luốn xanh tươi, thân dài từ l-4m. Thần rỄ dưới đất có thể mọc dài tới 1,5m, thỉnh thoảng phình to lên từng đốt hình củ tròn to bằng ngón tay cái, có khi thành một *đãy gồm 5 đến 9 củ, màu vàng nhạt, khi cất có màu hơi trắng, vị đắng. Thân ưên mặt đất màu xanh lục nhạt, khi non có lông ngắn. Lá đơn, mọc cách, cuống lá dài 2-5cm, phiến lá hình mác nhọn, gốc lá hình chữ V, phiến lá dài 5-15cm, rộng 2-5cm. Hoa đực, cái khác gốc, hoa đực mọc thành chùm nhiều hoa có cuống dài 2-5cm, hoa cái cũng mọc thành chùm gồm 4 đến 10 hoa. Quả ưòn, cuống quả có đầu phình ra, quả chín có màu hồng đỏ. Mùa hoa: Tháng 3 đến tháng 5, mùa quả vào tháng 11-12 ( Hmh 150 ).
 
 Mình ỉ50. San sư cô - Tinospora sagittata
 
@@ -187,7 +187,7 @@ Cây thảo, leo cao tới lOm, sống hằng năm. Thân tròn có khía dọc.
 
 ()(\*)()Nguồn sốc ở Ấn Độ. Hiện được trồníỉ ở hầu hết các nước nhiệt đới.
 
-Người tíi dùng hạt làm thuốc: Quả chín thu hái về. phơi khỏ lẩy hạt, phơi hạt cho thật khô. Hat dài 2,5-3cm. rộng l,5-2cm, đày lcm. Mặt ngoài bỏng có những vết nhãn, mép có tễ mÌLU xám đen. dìii 1,5-2mm, rộns 2mm.
+Người tíi dùng hạt làm thuốc: Quả chín thu hái về. phơi khỏ lẩy hạt, phơi hạt cho thật khô. Hat dài 2,5-3cm. rộng 1,5-2cm, đày lcm. Mặt ngoài bỏng có những vết nhãn, mép có tễ mÌLU xám đen. dìii 1,5-2mm, rộns 2mm.
 
 ()(\*)()Hạt chứa khoảng 20% canavalin, một ít canavanin C-HpO^ (axit), men ureaza. Hạt chưa chín chứa giberellin A21 và A,, (Quảng Châu ihực vật đại từ điển, 1963, 255 và c. A.
 

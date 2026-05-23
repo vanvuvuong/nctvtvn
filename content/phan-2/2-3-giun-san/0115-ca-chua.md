@@ -33,7 +33,7 @@ pimpineỉliỹoỉium Mill. Cùng năm đó, Kuhn và Low cũng chiết đượ
 
 Quả cà chua chứa các axit hữu cơ trong đó axit tactric, xitric, siiccinic và malic chiếm chủ yếu. Về giá trị dinh dưỡng, cà chua chứa 77% nước, 0,6% protit, 4% gluxit (sacccaroza, pec- tin), 0,7% xenluloza, 0,4% tro. Muối khoáng gồm
 
-u,4mg% Canxi, 24,7mg% p, l,3mg% Fe, các vitamin gổm l,9mg% caroten, 0,06mg% vítamin Bl, 0,04mg% vitamin B2, 0,5mg% vitamin pp và 38mg% vitamin c (Bảng thành phẩn hóc học thức ăn Việt nam - Nhà xuất bản Y học Hà nội, 1972). Có tác giả còn thấy vitamin p, vitamin K. Ngoài • ra còn lycopen, xanthophyle và quexcitrozit. Hạt cà chua chứa 25% một loại dầu béo thô, có thể ãn được sau khi tinh chế. Khô dầu hạ( cà chua có thể dùng làm thức ăn cho gia súc.
+u,4mg% Canxi, 24,7mg% p, 1,3mg% Fe, các vitamin gổm 1,9mg% caroten, 0,06mg% vítamin Bl, 0,04mg% vitamin B2, 0,5mg% vitamin pp và 38mg% vitamin c (Bảng thành phẩn hóc học thức ăn Việt nam - Nhà xuất bản Y học Hà nội, 1972). Có tác giả còn thấy vitamin p, vitamin K. Ngoài • ra còn lycopen, xanthophyle và quexcitrozit. Hạt cà chua chứa 25% một loại dầu béo thô, có thể ãn được sau khi tinh chế. Khô dầu hạ( cà chua có thể dùng làm thức ăn cho gia súc.
 
 D. Cồng dụng và liều dùng
 

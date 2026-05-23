@@ -15,7 +15,7 @@ Thuộc họ Ô rô Acanthaceae.
 
 #### A. Mô tả cây
 
-Cây nhỡ cao l,5m, thân mọc thẳng đứng, có nhiều cành, lá mọc đối có cuống, phiến lá hình trứng thuôn dài, phía cuống tù, đầu nhọn, dài 2-9cm, rộng l-3cm, mặt trên nhẵn, mặt dưới hơi có lông mịn. Hoa nhỏ, màu trắng hơi điểm hồng mọc thành xim nhiều hoa có cuống, ở đầu cành hay đầu thân. Quả nang, phía dưới dẹt không chứa hạt, phía trên chứa 4 hạt, có khi chỉ có 2 hạt. Hạt hình trứng hai mặt lồi (Hình 48).
+Cây nhỡ cao 1,5m, thân mọc thẳng đứng, có nhiều cành, lá mọc đối có cuống, phiến lá hình trứng thuôn dài, phía cuống tù, đầu nhọn, dài 2-9cm, rộng l-3cm, mặt trên nhẵn, mặt dưới hơi có lông mịn. Hoa nhỏ, màu trắng hơi điểm hồng mọc thành xim nhiều hoa có cuống, ở đầu cành hay đầu thân. Quả nang, phía dưới dẹt không chứa hạt, phía trên chứa 4 hạt, có khi chỉ có 2 hạt. Hạt hình trứng hai mặt lồi (Hình 48).
 
 #### B. Phân bố, thu hái và chế biến
 

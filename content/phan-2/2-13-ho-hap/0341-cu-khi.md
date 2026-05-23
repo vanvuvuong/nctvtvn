@@ -15,7 +15,7 @@ Thuộc họ cam Rutaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ mọc thành bụi, cao l-2m, đặc biệt có thể cao tới 3-4m. Lá kép lông chim lẻ gồm 5- 9 lá chét có cuống dài 5-7mm, màu tía trên cuống lá chét đôi khi có đốt, phiến lá hình trứng dài 4-6,5cm, rộng l,8-3,8cm mặt trên màu xanh xám, mặt dưới xanh nhạt, có 6-8 đôi gân, gân lá lông chim, nổi rõ ở mặt dưới, mép lá có răng cưa giả do túi tiết tinh dầu gợn lên.
+Cây nhỏ mọc thành bụi, cao l-2m, đặc biệt có thể cao tới 3-4m. Lá kép lông chim lẻ gồm 5- 9 lá chét có cuống dài 5-7mm, màu tía trên cuống lá chét đôi khi có đốt, phiến lá hình trứng dài 4-6,5cm, rộng 1,8-3,8cm mặt trên màu xanh xám, mặt dưới xanh nhạt, có 6-8 đôi gân, gân lá lông chim, nổi rõ ở mặt dưới, mép lá có răng cưa giả do túi tiết tinh dầu gợn lên.
 
 Hoa nở vào mùa xuân, mọc thành chùm xim, hoa rất nhỏ. Quả chín già vào tháng 8- 9, to bàng hạt ngô. Vỏ quả chứa rất nhiều túi tinh dầu. Lá, vỏ, quả vò rất thơm, mùi dễ chịu ( Hình 526).
 

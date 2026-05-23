@@ -174,7 +174,7 @@ núi cao 1.200-2.000m. Làm đất thật nhỏ, nhặt sạch cỏ. Luống đ�
 
 Khi cây đã có 5-6 lá thì sẽ nhổ lên trổng cố định tại nơi khác.
 
-Đất trồng cố định cũng phải ở trẽn cao 1.200- 2.000m có cây to che mát, nếu không có phải làm dàn che cao độ l,80m. Mỗi héc ta trồng chừng hơn 8 vạn cây. Hằng nâm làm cỏ. Bón bằng phân chuồng và phân xanh.
+Đất trồng cố định cũng phải ở trẽn cao 1.200- 2.000m có cây to che mát, nếu không có phải làm dàn che cao độ 1,80m. Mỗi héc ta trồng chừng hơn 8 vạn cây. Hằng nâm làm cỏ. Bón bằng phân chuồng và phân xanh.
 
 Sau 5 năm bắt đầu có thể thu hoạch, cần thu hoạch vào thu đông, nếu để sang xuân chất lượng sẽ kém. Hoàng liên hái về, rửa sạch, phơi hay sấy khô là được.
 

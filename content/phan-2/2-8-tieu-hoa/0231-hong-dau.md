@@ -49,7 +49,7 @@ Vì vị thuốc giúp ích tỳ vị cho nên có tên như thế.
 
 #### A. Mô tả cây
 
-ích trí là một loại cỏ sống lâu năm, cao 1,5- 2m, toàn cây có vị cay. Lá hình mác dài 17- 33cm, rộng 3-6cm. Cụm hoa hình chùm mọc ở đầu cành. Hoa màu trắng có đốm tím. Quả hình cầu, đường kính l,5cm, khi chín có màu vàng xanh, hạt nhiều cạnh, màu nâu đen ( Hình 308 ).
+ích trí là một loại cỏ sống lâu năm, cao 1,5- 2m, toàn cây có vị cay. Lá hình mác dài 17- 33cm, rộng 3-6cm. Cụm hoa hình chùm mọc ở đầu cành. Hoa màu trắng có đốm tím. Quả hình cầu, đường kính 1,5cm, khi chín có màu vàng xanh, hạt nhiều cạnh, màu nâu đen ( Hình 308 ).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -15,7 +15,7 @@ Liên kiều (Fructus Forsythiae) là quả phơi hay sấy khô của cây liê
 
 #### A. Mô tả cây
 
-Liên kiều là một cây cao từ 2 đến 4m. Cành non gần như 4 cạnh có nhiều đốt; giữa các đốt thân rỗng, bì không rõ. Lá đơn mọc đối hoặc có khi mọc thành vòng 3 lá, cuống dài 0,80-2cm. Phiến lá hình trứng, dài 3-7cm, rộng 2-4cm, mép có răng cưa không đều, chất lá hơi dài. Hoa màu vàng tươi. Đài và tràng hình ống, trên xẻ thành 4 thuỳ, 2 nhị thấp hơn tràng. Nhuỵ có 2 nuốm. Quả khô, hình trứng dẹt, dài l,5-2cm, rộng 0,5- lcm, hai bên có cạnh lồi, đầu nhọn, khi chín mở ra như mỏ chim, phía dưới có cuống hay chỉ còn sẹo. Vỏ ngoài màu nâu nhạt. Trong quả có nhiều hạt, nhưng phần lớn rơi vãi đi, chỉ còn sót lại một ít. Mùa hoa tại Trung Quốc: tháng 3-5; mùa quả: tháng 7-8 (Hình 62, Hm 5,2).
+Liên kiều là một cây cao từ 2 đến 4m. Cành non gần như 4 cạnh có nhiều đốt; giữa các đốt thân rỗng, bì không rõ. Lá đơn mọc đối hoặc có khi mọc thành vòng 3 lá, cuống dài 0,80-2cm. Phiến lá hình trứng, dài 3-7cm, rộng 2-4cm, mép có răng cưa không đều, chất lá hơi dài. Hoa màu vàng tươi. Đài và tràng hình ống, trên xẻ thành 4 thuỳ, 2 nhị thấp hơn tràng. Nhuỵ có 2 nuốm. Quả khô, hình trứng dẹt, dài 1,5-2cm, rộng 0,5- lcm, hai bên có cạnh lồi, đầu nhọn, khi chín mở ra như mỏ chim, phía dưới có cuống hay chỉ còn sẹo. Vỏ ngoài màu nâu nhạt. Trong quả có nhiều hạt, nhưng phần lớn rơi vãi đi, chỉ còn sót lại một ít. Mùa hoa tại Trung Quốc: tháng 3-5; mùa quả: tháng 7-8 (Hình 62, Hm 5,2).
 
 #### B. Phân bố, thu hái và chế biến
 

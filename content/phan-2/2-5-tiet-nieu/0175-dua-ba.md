@@ -17,7 +17,7 @@ Dứa bà trước đây chủ yếu chỉ được khai thác lấy sợi, mộ
 
 #### A. Mô tả cây
 
-Dứa bà là một loại cây sống dai do thân rẽ, thân trên mặt đất ngán, lá hình kiếm dài 1,2- l,5m, quãng giữa rông 13cm, ngọn lá có gai to, nhọn, rắn, dài khoảng l,5cm. Gai ở mép lá có màu dcn, bóng như sừng. Mỗi cây có khoảng 30-50 lá, mọng nước, mỗi lá có thể cân nặng l,5kg. Sau nhiều năm (10-15 năm) cây ra hoa. Hoa đính Irên một trục lớn, thảng đứng, mọc từ giữa vòng lá. Trục hoa cao 4-6cm, có khi tới lOm, trên có tới hàng nghìn hoa. Sau khi cây ra hoa thì cây lụi đi. Hoa màu xanh, nhị mọc thò ra ngoài ( Hình 216 ).
+Dứa bà là một loại cây sống dai do thân rẽ, thân trên mặt đất ngán, lá hình kiếm dài 1,2- 1,5m, quãng giữa rông 13cm, ngọn lá có gai to, nhọn, rắn, dài khoảng 1,5cm. Gai ở mép lá có màu dcn, bóng như sừng. Mỗi cây có khoảng 30-50 lá, mọng nước, mỗi lá có thể cân nặng 1,5kg. Sau nhiều năm (10-15 năm) cây ra hoa. Hoa đính Irên một trục lớn, thảng đứng, mọc từ giữa vòng lá. Trục hoa cao 4-6cm, có khi tới lOm, trên có tới hàng nghìn hoa. Sau khi cây ra hoa thì cây lụi đi. Hoa màu xanh, nhị mọc thò ra ngoài ( Hình 216 ).
 
 Người ta đã thống kê thấy có khoảng 300 loài Agave, vào khoảng 60% số loài này có chứa hecogenin, nhưng những loài được khai thác vừa để lấy sợi vừa để chiết heocogenin là các loài Agave americana, Agave sisalana Perr., Agave fourecroydes Lem, đểu nguồn gốc Mêhicô (Trung Mỹ).
 
@@ -129,7 +129,7 @@ Trồng ở khắp nơi trong nước ta dùng làm rau ăn. Trong nhân dân c�
 
 c. Thành phân hóa học
 
-Trong rau muống có 92% nước; 3,2% protit; 2,5% gluxit; 1% xenluloza; 1,3% tro. Hàm lượng muối khoáng rất cao trong có có tới 100mg% canxi, 37mg% p, l,4mg% Fe. Các vilamin gồm có 2,9% caroten; 23mg% vita- min C; 0,10mg% vitamin Bl; 0,7% vitamin PP;
+Trong rau muống có 92% nước; 3,2% protit; 2,5% gluxit; 1% xenluloza; 1,3% tro. Hàm lượng muối khoáng rất cao trong có có tới 100mg% canxi, 37mg% p, 1,4mg% Fe. Các vilamin gồm có 2,9% caroten; 23mg% vita- min C; 0,10mg% vitamin Bl; 0,7% vitamin PP;
 
 0, 09 mg% vitamin B2. Ngoài ra còn nhiều chất nhầy.
 
@@ -159,7 +159,7 @@ Ta dùng toàn cây nhọ nồi (Herha Ecliptae) tươi hoặc khô.
 
 #### A. Mô tả cây
 
-Cỏ nhọ nồi là một loài cỏ mọc thẳng đứng có thể cao tới 80cm, thân có lông cứng. Lá mọc đối có lông ở hai mật, dài 2-8cm, rộng 5-15mm. Cụm hoa hình đầu màu trắng ở kẽ lá hoặc đầu cành, lá bắc thon dài 5-6mm, cũng có lông. Quả bế 3 cạnh, hoặc dẹt, có cánh, dài ĩmm, rông l,5mm, đầu cụt. Mọc hoang khắp nơi ở nước ca. (Hình 219, Hm 13,3)
+Cỏ nhọ nồi là một loài cỏ mọc thẳng đứng có thể cao tới 80cm, thân có lông cứng. Lá mọc đối có lông ở hai mật, dài 2-8cm, rộng 5-15mm. Cụm hoa hình đầu màu trắng ở kẽ lá hoặc đầu cành, lá bắc thon dài 5-6mm, cũng có lông. Quả bế 3 cạnh, hoặc dẹt, có cánh, dài ĩmm, rông 1,5mm, đầu cụt. Mọc hoang khắp nơi ở nước ca. (Hình 219, Hm 13,3)
 
 #### B. Thành phần hóa học
 

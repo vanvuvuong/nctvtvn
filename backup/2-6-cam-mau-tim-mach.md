@@ -322,7 +322,7 @@ Thuộc họ Giền Amaranthaceae.
 
 #### A. Mô tả cây
 
-Cây mào gà đỏ là một loại cỏ sống lâu năm, cao từ 30cm đến l,5m hoặc hơn. Thân đứng, có cành nhẵn. Lá có cuống, phiến lá nguyên hình trứng đầu lá nhọn, phía gốc to rộng hơn lá cây mào gà trắng, Hoa đỏ, vàng hoặc trắng, cuống rất ngắn, mọc thành bông gần như không cuống hình vại với mép loe ra nhăn nheo. Quả hình trứng hay hình cầu. Hạt to hơn hạt mào gà trắng ( Hình 227, Hra 51,2 ).
+Cây mào gà đỏ là một loại cỏ sống lâu năm, cao từ 30cm đến 1,5m hoặc hơn. Thân đứng, có cành nhẵn. Lá có cuống, phiến lá nguyên hình trứng đầu lá nhọn, phía gốc to rộng hơn lá cây mào gà trắng, Hoa đỏ, vàng hoặc trắng, cuống rất ngắn, mọc thành bông gần như không cuống hình vại với mép loe ra nhăn nheo. Quả hình trứng hay hình cầu. Hạt to hơn hạt mào gà trắng ( Hình 227, Hra 51,2 ).
 
 #### B. Thành phần hóa học
 
@@ -484,7 +484,7 @@ Tên địa du vì địa là đất, du là cây du. Cây địa du lúc mới 
 
 #### A. Mô tả cây
 
-Loài cây sống dai, cao 0,30m đến l,5m, có khi đạt 2m. Thân rỗng, mọc thẳng đứng, nhẵn, mang ít lá. Lá dài 30-40cm, kép lông chim lẻ, 5- 15 lá chét, hình trứng, mép răng cưa to, tù. Hoa màu đỏ máu sẫm, lưỡng tính, nhỏ, tụ thành cụm hình trứng, ra hoa suốt mùa hè (từ tháng 7-9), quả nhẵn, màu nâu, hơi bốn cạnh, chứa một hạt. Rễ bò ngầm dưới đất, màu nâu ( Hình 231 ).
+Loài cây sống dai, cao 0,30m đến 1,5m, có khi đạt 2m. Thân rỗng, mọc thẳng đứng, nhẵn, mang ít lá. Lá dài 30-40cm, kép lông chim lẻ, 5- 15 lá chét, hình trứng, mép răng cưa to, tù. Hoa màu đỏ máu sẫm, lưỡng tính, nhỏ, tụ thành cụm hình trứng, ra hoa suốt mùa hè (từ tháng 7-9), quả nhẵn, màu nâu, hơi bốn cạnh, chứa một hạt. Rễ bò ngầm dưới đất, màu nâu ( Hình 231 ).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -576,7 +576,7 @@ Ta có thể dùng toàn cây nhưng chủ yếu là lá và hoa của mạch ba
 
 #### A. Mô tả cây
 
-Mạch ba góc là một cây thuộc thảo, có nhiều cành, cao từ 0,40 đến l,70m, trung bình 0,70m thân hình trụ, màu xanh hay đỏ. Lá nguyên đơn, mọc cách, mép nguyên, có bẹ chìa, lá phía dưới hình tim, đầu hơi nhọn, có cuống, lá phía trên giống hình mũi tên, không có cuống. Gân lá hình chân vịt. Hoa mọc thành chùm ở ngọn và nách lá. Hoa lưỡng tính, chỉ có một vòng bao hoa, màu trắng, đỏ hoặc trắng hồng. Bao hoa có 5 bản tổn tại trên quả. Nhị 8. Nhụy có 3 vòi rời nhau. Bầu thượng có tuyến mật ở xung quanh. Quả khô có 3 góc gồm 2 lần vỏ, lớp vỏ ngoài đen xám khi già, lớp vỏ hạt vỏ trong mọng, màu trắng vàng, bao hoa tồn tại. Hạt có nội nhũ bột lớn, phôi thẳng, hình lá xếp nếp ( Hình 233 ).
+Mạch ba góc là một cây thuộc thảo, có nhiều cành, cao từ 0,40 đến 1,70m, trung bình 0,70m thân hình trụ, màu xanh hay đỏ. Lá nguyên đơn, mọc cách, mép nguyên, có bẹ chìa, lá phía dưới hình tim, đầu hơi nhọn, có cuống, lá phía trên giống hình mũi tên, không có cuống. Gân lá hình chân vịt. Hoa mọc thành chùm ở ngọn và nách lá. Hoa lưỡng tính, chỉ có một vòng bao hoa, màu trắng, đỏ hoặc trắng hồng. Bao hoa có 5 bản tổn tại trên quả. Nhị 8. Nhụy có 3 vòi rời nhau. Bầu thượng có tuyến mật ở xung quanh. Quả khô có 3 góc gồm 2 lần vỏ, lớp vỏ ngoài đen xám khi già, lớp vỏ hạt vỏ trong mọng, màu trắng vàng, bao hoa tồn tại. Hạt có nội nhũ bột lớn, phôi thẳng, hình lá xếp nếp ( Hình 233 ).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -990,7 +990,7 @@ Hoàng cầm là một vị thuốc thông dụng, hiện nay chưa thấy ở n
 
 #### A. Mô tả cây
 
-Hoàng cầm là một loại cỏ sống dai, cao 20- 50cm, có rễ phình to thành hình chùy, mặt ngoài màu vàng sẫm bẻ ra có màu vàng. Thân mọc đứng, vuông, phân nhánh, nhẵn hoặc có lông ngắn. Lá mọc đối, cuống rất ngắn, hoặc không cuống; phiến lá hình mác hẹp, hơi đầu tù, mép nguyên, dài l,5-4cm, rộng 3-8mm hoặc 1cm, mặt trên màu xanh sẫm, mặt dưới xanh nhạt. Hoa mọc thành bông ở đầu cành, màu lam tím. Cánh hoa gồm 2 môi, 4 nhị (2 nhị lớn dài hơn tràng) màu vàng, bầu có 4 ngăn. (Hình 241, Hm 57,3)
+Hoàng cầm là một loại cỏ sống dai, cao 20- 50cm, có rễ phình to thành hình chùy, mặt ngoài màu vàng sẫm bẻ ra có màu vàng. Thân mọc đứng, vuông, phân nhánh, nhẵn hoặc có lông ngắn. Lá mọc đối, cuống rất ngắn, hoặc không cuống; phiến lá hình mác hẹp, hơi đầu tù, mép nguyên, dài 1,5-4cm, rộng 3-8mm hoặc 1cm, mặt trên màu xanh sẫm, mặt dưới xanh nhạt. Hoa mọc thành bông ở đầu cành, màu lam tím. Cánh hoa gồm 2 môi, 4 nhị (2 nhị lớn dài hơn tràng) màu vàng, bầu có 4 ngăn. (Hình 241, Hm 57,3)
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -1098,7 +1098,7 @@ Có thể ngâm rượu uống.
 
 Đơn thuốc có vị hồi đầu thảo
 
-Đơn thuốc chữa huyết áp của phụ nữ: Hồi đầu thảo l,2g, hương phụ 18g, nước 300ml. Sắc còn 200ml chia ba lần uống trong ngày.
+Đơn thuốc chữa huyết áp của phụ nữ: Hồi đầu thảo 1,2g, hương phụ 18g, nước 300ml. Sắc còn 200ml chia ba lần uống trong ngày.
 
 ### RAU CẦN TÂY芹菜
 
@@ -1108,7 +1108,7 @@ Thuộc họ Hoa tán Apiaceae (Umbelliferae).
 
 #### A. Mô tả cây
 
-Cây thảo sống dai, thân mọc thẳng đứng, cao tới l,50m, nhẵn, có nhiều rãnh dọc, chia nhiều cành mọc đứng. Lá ở gốc có cuống, hình thuôn hay ba cạnh, hơi có dạng 5 cạnh, xẻ ba hay chia ba thùy cho tới phía giữa phiến, các thùy hình ba cạnh, dạng mắt chim, tù có khía lượn tai bèo. Lá giữa và lá ngọn không cuống, chia 3 hoặc xẻ 3 hoặc không chia thùy. Cụm hoa gồm nhiều tán, các tán ở đầu cành có cuống dài hơn các tán bên. Không có tổng bao. Hoa nhỏ màu trắng nhạt. Cán quả chia đôi, mang 2 quả hình cầu, dạng trứng, nhẵn có cạnh lồi chạy dọc, không nổi rõ lắm ( Hình 243 ).
+Cây thảo sống dai, thân mọc thẳng đứng, cao tới 1,50m, nhẵn, có nhiều rãnh dọc, chia nhiều cành mọc đứng. Lá ở gốc có cuống, hình thuôn hay ba cạnh, hơi có dạng 5 cạnh, xẻ ba hay chia ba thùy cho tới phía giữa phiến, các thùy hình ba cạnh, dạng mắt chim, tù có khía lượn tai bèo. Lá giữa và lá ngọn không cuống, chia 3 hoặc xẻ 3 hoặc không chia thùy. Cụm hoa gồm nhiều tán, các tán ở đầu cành có cuống dài hơn các tán bên. Không có tổng bao. Hoa nhỏ màu trắng nhạt. Cán quả chia đôi, mang 2 quả hình cầu, dạng trứng, nhẵn có cạnh lồi chạy dọc, không nổi rõ lắm ( Hình 243 ).
 
 ##### TODO: thêm hình ảnh
 
@@ -1208,7 +1208,7 @@ Thuộc họ Cánh buớm Fabaceae (Papilionaceae).
 
 #### A. Mô tả cây
 
-Cây hột mát là một cây to, cao từ 8-24m. Lá kép lông chim, gồm 5-7 hoặc 9 lá chét, mọc đối, phiến lá chét dai, nhẵn, dài 7-11cm, rộng 3-4cm. Cuống chung dài 9-12cm, cuống lá chét dài 6-7mm. Cụm hoa mọc thành chùm ở kẽ lá hoặc ở đầu cành. Hoa màu hồng hay tím nhạt. Quả giáp dài 6cm, rộng 3,5cm, không cuống, dày l,5-12mm. Mỗi quả có 1 hạt. Hạt hình trứng dài 16mm, rộng 14mm, dày 8-10mm, màu đỏ nâu, bóng (Hình 247)
+Cây hột mát là một cây to, cao từ 8-24m. Lá kép lông chim, gồm 5-7 hoặc 9 lá chét, mọc đối, phiến lá chét dai, nhẵn, dài 7-11cm, rộng 3-4cm. Cuống chung dài 9-12cm, cuống lá chét dài 6-7mm. Cụm hoa mọc thành chùm ở kẽ lá hoặc ở đầu cành. Hoa màu hồng hay tím nhạt. Quả giáp dài 6cm, rộng 3,5cm, không cuống, dày 1,5-12mm. Mỗi quả có 1 hạt. Hạt hình trứng dài 16mm, rộng 14mm, dày 8-10mm, màu đỏ nâu, bóng (Hình 247)
 
 #### B. Phân bố và thu hái
 
@@ -1462,7 +1462,7 @@ Cần chú ý ngay rằng tên huơng bài dùng để chỉ hai cây khác nhau
 
 Cây hương bài sờ dĩ có tên như vậy là do rễ cây này được dùng làm hương đốt trong những ngày tết, dáng cây trông giống như cỗ bài.
 
-Hương bài là một loại cỏ sống dai, có thân rễ nằm ngang, thân cao chừng 40-50cm, có thể tới 1m. Lá mọc so le, ôm lấy thân theo hai bên thân hình nan quạt giấy trông như chiếc quạt hay quân bài, do đó có tên rẻ quạt hay hương bài. Lá hình mác dài 40-70cm, rộng l,5-3,5cm, không cuống, phía dưới thành bẹ dài ôm lấy thân. Cụm hoa tận cùng, dài 10-20cm (không kể cuống) mọc thành thùy xim ngắn. Hoa màu vàng nhạt hay hơi tím nhạt, khi còn là nụ có hình trứng, 3 lá đài, 3 cánh tràng, 6 nhị, bầu hình cầu, 3 ngăn, quả mọng màu đỏ tía sẫm hay xanh đen, hình cầu đường kính 8- 9mm ngăn có 1-3 hạt hình trứng ( Hình 252 ).
+Hương bài là một loại cỏ sống dai, có thân rễ nằm ngang, thân cao chừng 40-50cm, có thể tới 1m. Lá mọc so le, ôm lấy thân theo hai bên thân hình nan quạt giấy trông như chiếc quạt hay quân bài, do đó có tên rẻ quạt hay hương bài. Lá hình mác dài 40-70cm, rộng 1,5-3,5cm, không cuống, phía dưới thành bẹ dài ôm lấy thân. Cụm hoa tận cùng, dài 10-20cm (không kể cuống) mọc thành thùy xim ngắn. Hoa màu vàng nhạt hay hơi tím nhạt, khi còn là nụ có hình trứng, 3 lá đài, 3 cánh tràng, 6 nhị, bầu hình cầu, 3 ngăn, quả mọng màu đỏ tía sẫm hay xanh đen, hình cầu đường kính 8- 9mm ngăn có 1-3 hạt hình trứng ( Hình 252 ).
 
 #### B. Phân bố, thu hái và chế biến
 

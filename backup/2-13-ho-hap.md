@@ -16,7 +16,7 @@ Thuộc họ cam Rutaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ mọc thành bụi, cao l-2m, đặc biệt có thể cao tới 3-4m. Lá kép lông chim lẻ gồm 5- 9 lá chét có cuống dài 5-7mm, màu tía trên cuống lá chét đôi khi có đốt, phiến lá hình trứng dài 4-6,5cm, rộng l,8-3,8cm mặt trên màu xanh xám, mặt dưới xanh nhạt, có 6-8 đôi gân, gân lá lông chim, nổi rõ ở mặt dưới, mép lá có răng cưa giả do túi tiết tinh dầu gợn lên.
+Cây nhỏ mọc thành bụi, cao l-2m, đặc biệt có thể cao tới 3-4m. Lá kép lông chim lẻ gồm 5- 9 lá chét có cuống dài 5-7mm, màu tía trên cuống lá chét đôi khi có đốt, phiến lá hình trứng dài 4-6,5cm, rộng 1,8-3,8cm mặt trên màu xanh xám, mặt dưới xanh nhạt, có 6-8 đôi gân, gân lá lông chim, nổi rõ ở mặt dưới, mép lá có răng cưa giả do túi tiết tinh dầu gợn lên.
 
 Hoa nở vào mùa xuân, mọc thành chùm xim, hoa rất nhỏ. Quả chín già vào tháng 8- 9, to bàng hạt ngô. Vỏ quả chứa rất nhiều túi tinh dầu. Lá, vỏ, quả vò rất thơm, mùi dễ chịu ( Hình 526).
 
@@ -1174,7 +1174,7 @@ Trồng vào tháng 2-3. Thu hoạch vào tháng 9-10. Rễ củ hái về, tẩ
 
 #### C. Thành phần hoá học
 
-Trong thiên môn đông có asparagin là một axit amin có tinh thể hình trụ, ngậm một phân tử nước, đun tới 100°C thì mất phân tử nước, độ chảy 234°-235°C, tan trong nước nóng, chỉ hơi tan trong nước lạnh, 1g tan trong l,47ml nước 20°. Với nước sôi, asparagin có thể thuỷ phân để cho axit aspartic và amoniac. Ngoài ra còn có chất nhầy. Có tài liệu nói còn có tinh bột, sacaroza. Các hoạt chất khác chưa rõ.
+Trong thiên môn đông có asparagin là một axit amin có tinh thể hình trụ, ngậm một phân tử nước, đun tới 100°C thì mất phân tử nước, độ chảy 234°-235°C, tan trong nước nóng, chỉ hơi tan trong nước lạnh, 1g tan trong 1,47ml nước 20°. Với nước sôi, asparagin có thể thuỷ phân để cho axit aspartic và amoniac. Ngoài ra còn có chất nhầy. Có tài liệu nói còn có tinh bột, sacaroza. Các hoạt chất khác chưa rõ.
 
 #### D. Tác dụng dược lý
 
@@ -1570,7 +1570,7 @@ Thuộc họ Gai Urticaceae.
 
 #### A. Mô tả cây
 
-Loại cỏ có cành mềm, thân có lông. Lá mọc so le, có khi mọc đối có lá kèm, hình mác, hẹp, trên gân và 2 mặt đều có lông nhất là ở mặt dưới, lá dài 4-9cm, rộng l,5-2,5cm. Có 3 gân xuất phát từ cuống. Cuống dài 5mm có lông trắng. Cụm hoa đơn tính mọc thành xim co, ở kẽ lá có các hoa không cuống. Quả hình trứng nhọn, có bao hoa có lông ( Hình 559, Hm 48,2).
+Loại cỏ có cành mềm, thân có lông. Lá mọc so le, có khi mọc đối có lá kèm, hình mác, hẹp, trên gân và 2 mặt đều có lông nhất là ở mặt dưới, lá dài 4-9cm, rộng 1,5-2,5cm. Có 3 gân xuất phát từ cuống. Cuống dài 5mm có lông trắng. Cụm hoa đơn tính mọc thành xim co, ở kẽ lá có các hoa không cuống. Quả hình trứng nhọn, có bao hoa có lông ( Hình 559, Hm 48,2).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -1672,7 +1672,7 @@ Vỏ núc nác có thể thu hoạch gần như quanh năm, tốt nhất vào m�
 
 Vỏ núc nác màu nâu nhạt, trên có rất nhiều sẹo của cuống lá cũ, và rất nhiều những đám nhỏ nổi lên, mặt trong khi còn tươi có màu vàng nhạt, không mùi, vị đắng, hơi hắc.
 
-Hạt núc nác hình bầu dục, rất mỏng, dẹt ba phía vỏ ngoài phát triển thành màng rất mỏng, trong trông như cánh bướm, màu trắng nâu nhạt, có những đường gân từ hạt toả ra. Chiều dài cả hạt và cánh từ 4-7cm, rộng 2,5-4cm. Nếu chỉ kể hạt không thì chỉ dài l,5-2,5cm, rộng l-2cm. Khi bóc màng ngoài thấy rễ phôi và lá mầm rất rõ, mỏng như cánh bướm, dòn. Không mùi, vị hơi đắng. Những hạt khô, màu trắng, nguyên là tốt.
+Hạt núc nác hình bầu dục, rất mỏng, dẹt ba phía vỏ ngoài phát triển thành màng rất mỏng, trong trông như cánh bướm, màu trắng nâu nhạt, có những đường gân từ hạt toả ra. Chiều dài cả hạt và cánh từ 4-7cm, rộng 2,5-4cm. Nếu chỉ kể hạt không thì chỉ dài 1,5-2,5cm, rộng l-2cm. Khi bóc màng ngoài thấy rễ phôi và lá mầm rất rõ, mỏng như cánh bướm, dòn. Không mùi, vị hơi đắng. Những hạt khô, màu trắng, nguyên là tốt.
 
 #### B. Thành phần hoá học
 

@@ -509,7 +509,7 @@ Thuộc họ Ô rô Acanthaceae.
 
 #### A. Mô tả cây
 
-Cây nhỡ cao l,5m, thân mọc thẳng đứng, có nhiều cành, lá mọc đối có cuống, phiến lá hình trứng thuôn dài, phía cuống tù, đầu nhọn, dài 2-9cm, rộng l-3cm, mặt trên nhẵn, mặt dưới hơi có lông mịn. Hoa nhỏ, màu trắng hơi điểm hồng mọc thành xim nhiều hoa có cuống, ở đầu cành hay đầu thân. Quả nang, phía dưới dẹt không chứa hạt, phía trên chứa 4 hạt, có khi chỉ có 2 hạt. Hạt hình trứng hai mặt lồi (Hình 48).
+Cây nhỡ cao 1,5m, thân mọc thẳng đứng, có nhiều cành, lá mọc đối có cuống, phiến lá hình trứng thuôn dài, phía cuống tù, đầu nhọn, dài 2-9cm, rộng l-3cm, mặt trên nhẵn, mặt dưới hơi có lông mịn. Hoa nhỏ, màu trắng hơi điểm hồng mọc thành xim nhiều hoa có cuống, ở đầu cành hay đầu thân. Quả nang, phía dưới dẹt không chứa hạt, phía trên chứa 4 hạt, có khi chỉ có 2 hạt. Hạt hình trứng hai mặt lồi (Hình 48).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -629,7 +629,7 @@ Paris hainanensis Merr. Cây này có thân to, cao chừng 0,80m, vành lá g�
 
 Còn thấy ở Trung Quốc, đảo Hải Nam.
 
-Paris fargesii Franch. Thân cao chừng l-1,3m vành lá gồm 5 lá ở khoảng 2/3 phía trên thân, cuống lá dài 5-5,5cm, phiến lá hình bầu dục, phía cuống hình tim, đầu nhọn, 5 gân. Lá đài hình mác, dài 6cm, rộng l,2cm. Cánh tràng hình sợi, ngắn hơn lá đài. Ra hoa vào tháng 4, kết quả vào tháng 6. So với các loài trên thì hiếm hơn. Cũng thấy ở quanh vùng Sapa, vào độ cao 1.500m có thấy ở Trung Quốc.
+Paris fargesii Franch. Thân cao chừng l-1,3m vành lá gồm 5 lá ở khoảng 2/3 phía trên thân, cuống lá dài 5-5,5cm, phiến lá hình bầu dục, phía cuống hình tim, đầu nhọn, 5 gân. Lá đài hình mác, dài 6cm, rộng 1,2cm. Cánh tràng hình sợi, ngắn hơn lá đài. Ra hoa vào tháng 4, kết quả vào tháng 6. So với các loài trên thì hiếm hơn. Cũng thấy ở quanh vùng Sapa, vào độ cao 1.500m có thấy ở Trung Quốc.
 
 Trong số 2 loài chưa xác định được tên, có một loài cao tới 2,5m. Pételot phát hiện thấy 2 cây ở gần một khe nhỏ giữa đường Sapa - Bình Lư. Loại thứ hai được phát hiện ở dốc 400m vùng núi Ba Vì (Hoà Bình) và trên bờ suối có nhiều bóng rợp giữa đường Hà Nội-Hòa Bình, độ cao không quá 50m so với mặt biển.
 
@@ -717,7 +717,7 @@ Thuộc họ Thầu dầu (Euphorbiaceae).
 
 #### A. Mô tả cây
 
-Bùng bục là một cây nhỡ, cao chừng l,5-2mét. Cành non có nhiều lông màu vàng nhạt. Lá mọc so le, phiến lá hình tim, đầu lá dài nhọn, phía cuống tròn hay thẳng góc với cuống, mép nguyên hay hơi thành 3 thùy cắt không sâu, dài rộng chừng 15-18cm, khi còn non mạt dưới có những lông màu vàng nhạt, khi già có thể nhấn. Cuống dài có phủ lông trắng vàng.
+Bùng bục là một cây nhỡ, cao chừng 1,5-2mét. Cành non có nhiều lông màu vàng nhạt. Lá mọc so le, phiến lá hình tim, đầu lá dài nhọn, phía cuống tròn hay thẳng góc với cuống, mép nguyên hay hơi thành 3 thùy cắt không sâu, dài rộng chừng 15-18cm, khi còn non mạt dưới có những lông màu vàng nhạt, khi già có thể nhấn. Cuống dài có phủ lông trắng vàng.
 
 Mùa hoa vào tháng 4-5 ở miền Bắc, mùa quả vào tháng 8-9. Hoa khác gốc, mọc thành bông ở đầu cành hay kẽ lá, hoa đực dài và nhỏ hơn hoa cái. Bông hoa dài tới 20cm. Quả có lông cứng to dài. Hạt màu đen, nhỏ, chỉ lớn hơn đầu đinh ghim một chút.
 
@@ -939,7 +939,7 @@ Thuộc họ Bông Maivaceae.
 
 #### A. Mô tả cây
 
-Ké hoa đào là một cây nhỡ cao chừng 1m, có cành mang nhiều lông mịn hình sao. Lá gần tròn, đường kính 4-6cm, có khi tới 9cm, gân lá hình chân vịt (gồm 3-7 gân), mép có răng cưa và chia thùy, đầu lá nhọn phía cuối bàng hay hơi bàng, mặt trên màu xanh, mặt dưới màu tro nhạt có nhiều lông, dài hình sao. Hoa có cánh màu hồng, mọc đơn độc hay thành đôi ở kẽ lá, đường kính chừng l,7cm. Quả hình cầu dẹt, có lông, trên có những gai hình móc, đường kính 7-8mm, hạt có vân dọc và có lông gợn ngắn. Mùa hoa suốt hạ và thu (Hình 59).
+Ké hoa đào là một cây nhỡ cao chừng 1m, có cành mang nhiều lông mịn hình sao. Lá gần tròn, đường kính 4-6cm, có khi tới 9cm, gân lá hình chân vịt (gồm 3-7 gân), mép có răng cưa và chia thùy, đầu lá nhọn phía cuối bàng hay hơi bàng, mặt trên màu xanh, mặt dưới màu tro nhạt có nhiều lông, dài hình sao. Hoa có cánh màu hồng, mọc đơn độc hay thành đôi ở kẽ lá, đường kính chừng 1,7cm. Quả hình cầu dẹt, có lông, trên có những gai hình móc, đường kính 7-8mm, hạt có vân dọc và có lông gợn ngắn. Mùa hoa suốt hạ và thu (Hình 59).
 
 #### B. Phân bố,thu hái và chế biến
 
@@ -965,7 +965,7 @@ Thuộc họ Bông Malvaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ mọc thẳng đứng, cao 0,5-lm, thân và cành có nhiều lông ngắn hình sao. Lá hình trứng hay gần nhu hình trứng, đầu hơi nhọn ngắn, mép hơi răng cưa, dài l,5-4cm, rộng 1- 2,5cm, cuống dài 3-5mm, rất nhiều lông. Hoa màu vàng, mọc ở kẽ lá hay đầu cành. Đài hình chuông lá đài có lông màu trắng nhạt ở phía ngoài. Cánh trắng màu vàng cũng có lông mịn. Nhị 20. Nhuỵ có 7 vòi. Quả có vỏ mỏng dễ vỡ, ở đỉnh có lông, phía lưng có hai vết nổi. Hạt cũng có lông (Hình 60).
+Cây nhỏ mọc thẳng đứng, cao 0,5-lm, thân và cành có nhiều lông ngắn hình sao. Lá hình trứng hay gần nhu hình trứng, đầu hơi nhọn ngắn, mép hơi răng cưa, dài 1,5-4cm, rộng 1- 2,5cm, cuống dài 3-5mm, rất nhiều lông. Hoa màu vàng, mọc ở kẽ lá hay đầu cành. Đài hình chuông lá đài có lông màu trắng nhạt ở phía ngoài. Cánh trắng màu vàng cũng có lông mịn. Nhị 20. Nhuỵ có 7 vòi. Quả có vỏ mỏng dễ vỡ, ở đỉnh có lông, phía lưng có hai vết nổi. Hạt cũng có lông (Hình 60).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -1049,7 +1049,7 @@ Liên kiều (Fructus Forsythiae) là quả phơi hay sấy khô của cây liê
 
 #### A. Mô tả cây
 
-Liên kiều là một cây cao từ 2 đến 4m. Cành non gần như 4 cạnh có nhiều đốt; giữa các đốt thân rỗng, bì không rõ. Lá đơn mọc đối hoặc có khi mọc thành vòng 3 lá, cuống dài 0,80-2cm. Phiến lá hình trứng, dài 3-7cm, rộng 2-4cm, mép có răng cưa không đều, chất lá hơi dài. Hoa màu vàng tươi. Đài và tràng hình ống, trên xẻ thành 4 thuỳ, 2 nhị thấp hơn tràng. Nhuỵ có 2 nuốm. Quả khô, hình trứng dẹt, dài l,5-2cm, rộng 0,5- lcm, hai bên có cạnh lồi, đầu nhọn, khi chín mở ra như mỏ chim, phía dưới có cuống hay chỉ còn sẹo. Vỏ ngoài màu nâu nhạt. Trong quả có nhiều hạt, nhưng phần lớn rơi vãi đi, chỉ còn sót lại một ít. Mùa hoa tại Trung Quốc: tháng 3-5; mùa quả: tháng 7-8 (Hình 62, Hm 5,2).
+Liên kiều là một cây cao từ 2 đến 4m. Cành non gần như 4 cạnh có nhiều đốt; giữa các đốt thân rỗng, bì không rõ. Lá đơn mọc đối hoặc có khi mọc thành vòng 3 lá, cuống dài 0,80-2cm. Phiến lá hình trứng, dài 3-7cm, rộng 2-4cm, mép có răng cưa không đều, chất lá hơi dài. Hoa màu vàng tươi. Đài và tràng hình ống, trên xẻ thành 4 thuỳ, 2 nhị thấp hơn tràng. Nhuỵ có 2 nuốm. Quả khô, hình trứng dẹt, dài 1,5-2cm, rộng 0,5- lcm, hai bên có cạnh lồi, đầu nhọn, khi chín mở ra như mỏ chim, phía dưới có cuống hay chỉ còn sẹo. Vỏ ngoài màu nâu nhạt. Trong quả có nhiều hạt, nhưng phần lớn rơi vãi đi, chỉ còn sót lại một ít. Mùa hoa tại Trung Quốc: tháng 3-5; mùa quả: tháng 7-8 (Hình 62, Hm 5,2).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -1201,7 +1201,7 @@ Lá chứa một thuộc chất quinon gọi là Lawsone có tác dụng kháng 
 
 #### D. Tác dụng dược lý.
 
-Chưa thấy có tài liệu nghiên cứu. Năm 1961 Phòng đông y thực nghiệm Viện vi trùng Việt nam đã thí nghiệm tác dụng kháng sinh của lá móng tay thấy tác dụng kháng sinh của lá rất mạnh. Nước sắc có tác dụng kháng sinh đối với Tụ cầu 209 P (lcm), Typhi (l,2cm), Flexneri (0,8cm), Shiga (l,2cm), Sonnei (0,5cm), Subtilis (0,8), trực trùng Coli gây bệnh (0,5cm), Coli bethesda (0,4cm).
+Chưa thấy có tài liệu nghiên cứu. Năm 1961 Phòng đông y thực nghiệm Viện vi trùng Việt nam đã thí nghiệm tác dụng kháng sinh của lá móng tay thấy tác dụng kháng sinh của lá rất mạnh. Nước sắc có tác dụng kháng sinh đối với Tụ cầu 209 P (lcm), Typhi (1,2cm), Flexneri (0,8cm), Shiga (1,2cm), Sonnei (0,5cm), Subtilis (0,8), trực trùng Coli gây bệnh (0,5cm), Coli bethesda (0,4cm).
 
 #### E. Công dụng và liều dùng
 
@@ -1469,7 +1469,7 @@ Thuộc họ Ô rô Acanthaceae.
 
 #### A. Mô tả cây
 
-Cây tần cửu hay thanh táo là một cây nhỏ cao chừng l,5m, cành có màu tím sẫm hay xanh lục, nhẵn, giữa chỗ lá mọc đối có một dòng lông.
+Cây tần cửu hay thanh táo là một cây nhỏ cao chừng 1,5m, cành có màu tím sẫm hay xanh lục, nhẵn, giữa chỗ lá mọc đối có một dòng lông.
 
 Lá mọc đối, mang cuống ngắn, phiếu là hình mác thuôn, dài 4-14cm, rộng l-2cm, mép nguyên. Lá thường bị loài nấm Puccinia thwaitesii ăn hại. Mặt lá nhẵn có gân xanh hay màu tím tùy theo cây. Hoa màu trắng hay hơi điểm hồng, có những đốm tía, mọc thành bông ở đầu cành hay kẽ lá phía ngọn. Quả nang dài 12mm, trong chứa 4 hạt. Mùa hoa quả vào mùa hạ (Hình 71).
 
@@ -1529,7 +1529,7 @@ Thanh đại (Indigo pulverata levis) là màu xanh chế từ nhiều cây khá
 
 #### A. Mô tả cây
 
-Cây chàm (Indigofera tinctoria L.) là một loại cây nhỏ, sống hàng năm, cao 50-70cm, cành non có lông ngắn trắng. Lá mọc so le, kép, dìa lẻ gồm 7-15 lá chét. Toàn lá dài 3-5cm, lá chét dài l,5-1,8cm, khi lá khô có màu xanh lam.
+Cây chàm (Indigofera tinctoria L.) là một loại cây nhỏ, sống hàng năm, cao 50-70cm, cành non có lông ngắn trắng. Lá mọc so le, kép, dìa lẻ gồm 7-15 lá chét. Toàn lá dài 3-5cm, lá chét dài 1,5-1,8cm, khi lá khô có màu xanh lam.
 
 Cụm hoa mọc thành chùm ở kẽ lá. Cánh hoa hình bướm, màu đỏ vàng. Quả dài chừng 2,5cm, trong chứa 5-12 hạt, hơi có hình lập phương (Hình 72).
 
@@ -1659,7 +1659,7 @@ Thuộc họ Hồ tiêu Piperaceae.
 
 #### A. Mô tả cây
 
-Trầu không là một loại cây mọc leo, thân nhẵn. Lá mọc so le, cuống có bẹ, dài l,5-3,5cm, phiến lá hình trái xoan, dài 10-13cm, rộng 4,5- 9cm, phía cuống hình tim (đối với những lá phía gốc) đầu lá nhọn, khi soi lên thấy rất nhiều điểm chứa tinh dầu rất nhỏ, gân lá thường 5. Hoa khác gốc mọc thành bông. Quả mọng không có vòi sót lại (Hình 77, Hm 39,1).
+Trầu không là một loại cây mọc leo, thân nhẵn. Lá mọc so le, cuống có bẹ, dài 1,5-3,5cm, phiến lá hình trái xoan, dài 10-13cm, rộng 4,5- 9cm, phía cuống hình tim (đối với những lá phía gốc) đầu lá nhọn, khi soi lên thấy rất nhiều điểm chứa tinh dầu rất nhỏ, gân lá thường 5. Hoa khác gốc mọc thành bông. Quả mọng không có vòi sót lại (Hình 77, Hm 39,1).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -1837,7 +1837,7 @@ Thuộc họ Ráy Araceae.
 
 #### A. Mô tả cây
 
-Ráy là một loại cây mềm cao 0,30 đến l,40m, có thể đài tới 5m nhưng phía dưới bò, trên đứng; dưới đất có thân rễ hình cầu sau phát triển dần thành củ dài, có nhiều đốt ngắn, trên đốt có vẩy màu nâu. Lá to hình tim dài 10-50cm, rộng 8- 45cm, cuống mẫm dài 15 đến 120cm. Bông mo mang hoa cái ở phía gốc, hoa đực ở phía trên và tận cùng bằng một đoạn bất thụ. Phần dưới của mo tồn tại xung quanh các quả mọng, hình trứng màu đỏ (Hình 81, Hm 43,2).
+Ráy là một loại cây mềm cao 0,30 đến 1,40m, có thể đài tới 5m nhưng phía dưới bò, trên đứng; dưới đất có thân rễ hình cầu sau phát triển dần thành củ dài, có nhiều đốt ngắn, trên đốt có vẩy màu nâu. Lá to hình tim dài 10-50cm, rộng 8- 45cm, cuống mẫm dài 15 đến 120cm. Bông mo mang hoa cái ở phía gốc, hoa đực ở phía trên và tận cùng bằng một đoạn bất thụ. Phần dưới của mo tồn tại xung quanh các quả mọng, hình trứng màu đỏ (Hình 81, Hm 43,2).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -2215,7 +2215,7 @@ Thuộc họ Cà phê Rubiaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ rất nhiều cành, trên cành rất nhiều gai dài 5-15mm, và to mọc ngược hay ngang đối với cành. Lá cứng hình bầu dục ở đầu, dài 2,5-7cm, rộng l,5-3cm. Hoa màu vàng nhạt hay trắng nhạt, thường mọc đơn độc, không cuống. Quả mọng màu vàng nhạt, hình cầu hay hình trứng, đường kính 2,5-5cm, nhẵn, trên đầu có lá đài tồn tại. Trong chứa rất nhiều hạt màu đen lẫn trong cơm nằm đầy trong quả. Mùa hoa: tháng 3 tháng 9. Mùa quả tháng 3 và tháng 11 (Hình 90).
+Cây nhỏ rất nhiều cành, trên cành rất nhiều gai dài 5-15mm, và to mọc ngược hay ngang đối với cành. Lá cứng hình bầu dục ở đầu, dài 2,5-7cm, rộng 1,5-3cm. Hoa màu vàng nhạt hay trắng nhạt, thường mọc đơn độc, không cuống. Quả mọng màu vàng nhạt, hình cầu hay hình trứng, đường kính 2,5-5cm, nhẵn, trên đầu có lá đài tồn tại. Trong chứa rất nhiều hạt màu đen lẫn trong cơm nằm đầy trong quả. Mùa hoa: tháng 3 tháng 9. Mùa quả tháng 3 và tháng 11 (Hình 90).
 
 #### B. Phân bố, thu hái và chế biến
 

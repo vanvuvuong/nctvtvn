@@ -127,7 +127,7 @@ Hồ tiêu là một loại dây leo, thân dài, nhẵn không mang lông, bám
 
 Cây hạt tiêu được trồng ở nhiều tỉnh miền Nam nước ta, nhiều nhất ở Châu Đốc, Hà Tiên, Phú Quốc, Bà Rịa, Quảng Trị. Tại miền Bắc đã bắt đầu trồng ở vùng Vĩnh Linh, hiện đang cố di chuyển dần ra phía bắc miền Bắc nước ta. Tại các nước khác, còn thấy ở Malaixia, Indônêxya, Ấn Độ, Cămpuchia. Trung Quổc trước đây không có, mới thí nghiêm trồng ở Quảng Đông, Hải Nam, Quảng Tây và Vân Nam.
 
-Trồng hồ tiêu bằng cách dâm cành, mỗi gốc cách nhau 2m, mỗi hecta chừng 2.500 gốc. Có thể trồng bằng hạt. Cây trồng bằng hạt khỏe hơn, chịu khô ráo hơn, nhưng ra nhánh chậm hơn. Tại Việt Nam, Malaixia người ta cho cây leo vào những cọc tựa, còn ở Ấn Độ, người ta cho leo vào các cây tươi. Trồng bằng giâm cành cây sẽ bắt đầu ra hoa vào năm thứ 3. Nhưng thường người ta bỏ lớp hoa đầu và chỉ cho quả đậu vào năm thứ 4. Hiệu suất cao nhất vào năm thứ 7-8, rồi giảm dần xuống cho tới năm thứ 20. Trung bình mỗi hecta cho 4.000-4.500kg hồ tiêu khô (mỗi gốc cho chừng l,75kg).
+Trồng hồ tiêu bằng cách dâm cành, mỗi gốc cách nhau 2m, mỗi hecta chừng 2.500 gốc. Có thể trồng bằng hạt. Cây trồng bằng hạt khỏe hơn, chịu khô ráo hơn, nhưng ra nhánh chậm hơn. Tại Việt Nam, Malaixia người ta cho cây leo vào những cọc tựa, còn ở Ấn Độ, người ta cho leo vào các cây tươi. Trồng bằng giâm cành cây sẽ bắt đầu ra hoa vào năm thứ 3. Nhưng thường người ta bỏ lớp hoa đầu và chỉ cho quả đậu vào năm thứ 4. Hiệu suất cao nhất vào năm thứ 7-8, rồi giảm dần xuống cho tới năm thứ 20. Trung bình mỗi hecta cho 4.000-4.500kg hồ tiêu khô (mỗi gốc cho chừng 1,75kg).
 
 Mỗi năm thu hoạch 2 lần, tùy theo người ta muốn có hồ tiêu đen hay hồ tiêu trắng, cách thu hái có khác nhau.
 

@@ -23,7 +23,7 @@ Thanh đại (Indigo pulverata levis) là màu xanh chế từ nhiều cây khá
 
 #### A. Mô tả cây
 
-Cây chàm (Indigofera tinctoria L.) là một loại cây nhỏ, sống hàng năm, cao 50-70cm, cành non có lông ngắn trắng. Lá mọc so le, kép, dìa lẻ gồm 7-15 lá chét. Toàn lá dài 3-5cm, lá chét dài l,5-1,8cm, khi lá khô có màu xanh lam.
+Cây chàm (Indigofera tinctoria L.) là một loại cây nhỏ, sống hàng năm, cao 50-70cm, cành non có lông ngắn trắng. Lá mọc so le, kép, dìa lẻ gồm 7-15 lá chét. Toàn lá dài 3-5cm, lá chét dài 1,5-1,8cm, khi lá khô có màu xanh lam.
 
 Cụm hoa mọc thành chùm ở kẽ lá. Cánh hoa hình bướm, màu đỏ vàng. Quả dài chừng 2,5cm, trong chứa 5-12 hạt, hơi có hình lập phương (Hình 72).
 

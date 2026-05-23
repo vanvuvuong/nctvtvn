@@ -35,7 +35,7 @@ protit, 1,7% chất béo, 53,3% gluxit, 2,8% tro. Hàm lượng muối khoáng l
 
 Hàm lượng các axit amin cần thiết trong đậu đen rất cao: Trong lOOg đậu đen có 0,97g lysin;
 
-0, 3lg metionin; 0,3lg tryptophan; 1,16g phenylalanin; l,09g alanin; 0,97g valin; ],26g lenxin; l,llg izoleuxin; l,72g acginin và 0,75g histidin.
+0, 3lg metionin; 0,3lg tryptophan; 1,16g phenylalanin; 1,09g alanin; 0,97g valin; ],26g lenxin; l,llg izoleuxin; 1,72g acginin và 0,75g histidin.
 
 #### D. Công dụng và liều dùng
 

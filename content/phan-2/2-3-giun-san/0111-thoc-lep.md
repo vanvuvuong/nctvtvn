@@ -15,7 +15,7 @@ Thuộc họ Cánh bướm Fabaceae (Papìỉionaceae).
 
 #### A. Mô tả cây
 
-Cây loại cỏ cao tới l,30m. Cành mọc vươn đài. Lá chỉ gổm một lá chét, mặt trên nhẩn, mật dưới có lông. Cụm hoa thưa dài l2-30cm, gồm nhiều hoa nhỏ.
+Cây loại cỏ cao tới 1,30m. Cành mọc vươn đài. Lá chỉ gổm một lá chét, mặt trên nhẩn, mật dưới có lông. Cụm hoa thưa dài l2-30cm, gồm nhiều hoa nhỏ.
 
 Nhiều quả không cuống chia làm 7-8 đốt, mỗi đốt đựng mộí hạt, đốt có cạnh, một cạnh khum tròn, một cạnh thẳng. Khi ta đi qua quả dính vào quần do trên quả có những lông móc ( Hình 103).
 

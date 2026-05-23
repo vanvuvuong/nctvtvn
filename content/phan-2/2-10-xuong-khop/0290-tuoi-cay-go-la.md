@@ -111,7 +111,7 @@ VỊ thuốc này cho đến nay vẫn còn phải nhập.
 
 A. Mỏ tả cây
 
-Mộc qua là một cây nhỡ cao 2-3m, cành có gai, dài 5-20mm, đường kính phía gốc của gai tới l-3mm, mặt cành có những bì khỏng rõ. Lá có cuống dài 3-]5mm, phiến lá hình mác dài 2,5cm-14cm, rộng l,5cm-4cm mép có răng cưa, mật trên màu xanh, mặt dưới màu tím nhạt, cả hai mạt đều nhẩn. Lá kèm có hình dạng và kích thước thay đổi, dài từ 2-2,5cm, rộng từ l-1,5cm, mép cũng có răng cưa. Hoa mọc thành chùm ở kẽ lá. Cánh hoa màu đỏ của hoa đào, có loại hoa trắng hiiy hồng. Cuống hoa rất ngắn. Quả thịt hình cầu hay hình trứng, dài khoảng 8 cm, mặt ngoài nhẵn bóng, màu vàng hay vàng xanh, mùi thơm. Mùa hoa: tháng 3-4, mùa quả: tháng 9-10 (Hình 411).
+Mộc qua là một cây nhỡ cao 2-3m, cành có gai, dài 5-20mm, đường kính phía gốc của gai tới l-3mm, mặt cành có những bì khỏng rõ. Lá có cuống dài 3-]5mm, phiến lá hình mác dài 2,5cm-14cm, rộng 1,5cm-4cm mép có răng cưa, mật trên màu xanh, mặt dưới màu tím nhạt, cả hai mạt đều nhẩn. Lá kèm có hình dạng và kích thước thay đổi, dài từ 2-2,5cm, rộng từ l-1,5cm, mép cũng có răng cưa. Hoa mọc thành chùm ở kẽ lá. Cánh hoa màu đỏ của hoa đào, có loại hoa trắng hiiy hồng. Cuống hoa rất ngắn. Quả thịt hình cầu hay hình trứng, dài khoảng 8 cm, mặt ngoài nhẵn bóng, màu vàng hay vàng xanh, mùi thơm. Mùa hoa: tháng 3-4, mùa quả: tháng 9-10 (Hình 411).
 
 ##### TODO: thêm hình ảnh
 
@@ -121,7 +121,7 @@ Hình 4ÌỈ. Mộc qua - Chaenomeìes lagenariơ
 
 Mộc qua hiện nay còn phải nhập của Trung Quốc, ở đây cây được trổng ở Hà Nam, Giang
 
-Tô, An Huy, Sơn Đông, Triết Giang, Phúc Kiến, Quảng Đông, Tứ Xuyên. Xem vậy ta thấy những vùng nước ta giáp giới với tỉnh Quảng Đỏng có thể có khả năng trồng được. Loại mộc qua của Tứ Xuyên nhiều và được xem như tốt nhất. Vào tháng 10-11 quả chín thì hái vể bổ ỉàm 2 hay 4 mảnh, phơi mặt trong quả ngửa lên phía trên, cho đến khi chuyển màu hồng tím là được. Vị thuốc mộc qua là những mảnh quả dài 2,5-9cm, rộng l,5-3,5cm, dày 2-8mm, mặt ngoài nâu đỏ đến tím đỏ, có những nếp nhăn trong quá trình khô, mặt trong quả còn rõ những ô chứa hạt, phần lớn hạt đã rụng, nhưng đối khi còn sót lại một sò hạt hình 3 cạnh, màu nâu đỏ trong chứa một nhân. VỊ chua, chát, mùi hơi thơm.
+Tô, An Huy, Sơn Đông, Triết Giang, Phúc Kiến, Quảng Đông, Tứ Xuyên. Xem vậy ta thấy những vùng nước ta giáp giới với tỉnh Quảng Đỏng có thể có khả năng trồng được. Loại mộc qua của Tứ Xuyên nhiều và được xem như tốt nhất. Vào tháng 10-11 quả chín thì hái vể bổ ỉàm 2 hay 4 mảnh, phơi mặt trong quả ngửa lên phía trên, cho đến khi chuyển màu hồng tím là được. Vị thuốc mộc qua là những mảnh quả dài 2,5-9cm, rộng 1,5-3,5cm, dày 2-8mm, mặt ngoài nâu đỏ đến tím đỏ, có những nếp nhăn trong quá trình khô, mặt trong quả còn rõ những ô chứa hạt, phần lớn hạt đã rụng, nhưng đối khi còn sót lại một sò hạt hình 3 cạnh, màu nâu đỏ trong chứa một nhân. VỊ chua, chát, mùi hơi thơm.
 
 c. Thành phẩn hoá học
 

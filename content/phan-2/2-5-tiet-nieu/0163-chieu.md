@@ -39,7 +39,7 @@ Thuộc họ Cánh bướm Fabaceae (Papilionaceae).
 
 A. Mỏ tả cây
 
-Cây loại thảo sống hằng nãm, dài l,5-2m. Lá kép gồm ba lá chét, lá chét đôi khi lại chìa thành ba thùy cát nông, mạt dưới nhiều ỉông trắng dài, Mùa hạ ở nách lá mọc hoa màu vàng hình bướm. Quả nhỏ và dài trên mặt có lông, trong chứa hạt nhỏ. Hạt hình bầu dục, hai đầu hơi dẹt, dài 2mm, đường kính 1,5mm vò màu đỏ nâu, hay tía nâu trơn bóng nơi rốn ở phía bên hạt màu trắng vàng, hơi lồi lên, bóc vỏ đi thì nhân trong màu vàng lục, chất cúng dòn ( Hình 201 ).
+Cây loại thảo sống hằng nãm, dài 1,5-2m. Lá kép gồm ba lá chét, lá chét đôi khi lại chìa thành ba thùy cát nông, mạt dưới nhiều ỉông trắng dài, Mùa hạ ở nách lá mọc hoa màu vàng hình bướm. Quả nhỏ và dài trên mặt có lông, trong chứa hạt nhỏ. Hạt hình bầu dục, hai đầu hơi dẹt, dài 2mm, đường kính 1,5mm vò màu đỏ nâu, hay tía nâu trơn bóng nơi rốn ở phía bên hạt màu trắng vàng, hơi lồi lên, bóc vỏ đi thì nhân trong màu vàng lục, chất cúng dòn ( Hình 201 ).
 
 B. Phàn bố, thu hái và chế biến
 

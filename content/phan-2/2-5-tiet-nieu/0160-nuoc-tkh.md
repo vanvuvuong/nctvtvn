@@ -25,7 +25,7 @@ Có thể thu hái gần như quanh năm. Hái vể rửa sạch, thái ngắn, 
 
 Hoạt chất chưa rõ. Chỉ mới thấy trong thân lá có những hợp chất flavon, tanin, rãt nhiều chất nhầy, rất nhiều muối Na, K.
 
-Phân tích về mật thực phẩm, thấy trong lOOg rau dừa nước có 2,62g protit, 4,5g gluxit, 5,5g xenluloza, l,2g tro, 153mg canxì, 2,5mg p, 0,7mg Fe, 0,26mg caroten, 52mg vitamin c.
+Phân tích về mật thực phẩm, thấy trong lOOg rau dừa nước có 2,62g protit, 4,5g gluxit, 5,5g xenluloza, 1,2g tro, 153mg canxì, 2,5mg p, 0,7mg Fe, 0,26mg caroten, 52mg vitamin c.
 
 #### D. Công dụng và liều dùng
 

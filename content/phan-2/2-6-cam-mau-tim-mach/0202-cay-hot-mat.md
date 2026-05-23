@@ -15,7 +15,7 @@ Thuộc họ Cánh buớm Fabaceae (Papilionaceae).
 
 #### A. Mô tả cây
 
-Cây hột mát là một cây to, cao từ 8-24m. Lá kép lông chim, gồm 5-7 hoặc 9 lá chét, mọc đối, phiến lá chét dai, nhẵn, dài 7-11cm, rộng 3-4cm. Cuống chung dài 9-12cm, cuống lá chét dài 6-7mm. Cụm hoa mọc thành chùm ở kẽ lá hoặc ở đầu cành. Hoa màu hồng hay tím nhạt. Quả giáp dài 6cm, rộng 3,5cm, không cuống, dày l,5-12mm. Mỗi quả có 1 hạt. Hạt hình trứng dài 16mm, rộng 14mm, dày 8-10mm, màu đỏ nâu, bóng (Hình 247)
+Cây hột mát là một cây to, cao từ 8-24m. Lá kép lông chim, gồm 5-7 hoặc 9 lá chét, mọc đối, phiến lá chét dai, nhẵn, dài 7-11cm, rộng 3-4cm. Cuống chung dài 9-12cm, cuống lá chét dài 6-7mm. Cụm hoa mọc thành chùm ở kẽ lá hoặc ở đầu cành. Hoa màu hồng hay tím nhạt. Quả giáp dài 6cm, rộng 3,5cm, không cuống, dày 1,5-12mm. Mỗi quả có 1 hạt. Hạt hình trứng dài 16mm, rộng 14mm, dày 8-10mm, màu đỏ nâu, bóng (Hình 247)
 
 #### B. Phân bố và thu hái
 

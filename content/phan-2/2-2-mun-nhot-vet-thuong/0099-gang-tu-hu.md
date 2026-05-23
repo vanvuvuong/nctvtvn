@@ -15,7 +15,7 @@ Thuộc họ Cà phê Rubiaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ rất nhiều cành, trên cành rất nhiều gai dài 5-15mm, và to mọc ngược hay ngang đối với cành. Lá cứng hình bầu dục ở đầu, dài 2,5-7cm, rộng l,5-3cm. Hoa màu vàng nhạt hay trắng nhạt, thường mọc đơn độc, không cuống. Quả mọng màu vàng nhạt, hình cầu hay hình trứng, đường kính 2,5-5cm, nhẵn, trên đầu có lá đài tồn tại. Trong chứa rất nhiều hạt màu đen lẫn trong cơm nằm đầy trong quả. Mùa hoa: tháng 3 tháng 9. Mùa quả tháng 3 và tháng 11 (Hình 90).
+Cây nhỏ rất nhiều cành, trên cành rất nhiều gai dài 5-15mm, và to mọc ngược hay ngang đối với cành. Lá cứng hình bầu dục ở đầu, dài 2,5-7cm, rộng 1,5-3cm. Hoa màu vàng nhạt hay trắng nhạt, thường mọc đơn độc, không cuống. Quả mọng màu vàng nhạt, hình cầu hay hình trứng, đường kính 2,5-5cm, nhẵn, trên đầu có lá đài tồn tại. Trong chứa rất nhiều hạt màu đen lẫn trong cơm nằm đầy trong quả. Mùa hoa: tháng 3 tháng 9. Mùa quả tháng 3 và tháng 11 (Hình 90).
 
 #### B. Phân bố, thu hái và chế biến
 

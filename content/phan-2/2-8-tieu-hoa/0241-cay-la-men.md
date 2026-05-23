@@ -13,7 +13,7 @@ Tên khoa học _*Mosla dianthera Maxim. Thuộc họ Hoa Môi Lamiơceae (Labia
 
 #### A. Mô tả cây
 
-Cây cỏ cao 25-50cm, mọc đứng, gầy, nhiều cành, thân vuông. Lá mọc đối, có cuống ngắn, phiến lá dài l,5'2cm, rộng 1-1,5cm, mép cổ răng
+Cây cỏ cao 25-50cm, mọc đứng, gầy, nhiều cành, thân vuông. Lá mọc đối, có cuống ngắn, phiến lá dài 1,5'2cm, rộng 1-1,5cm, mép cổ răng
 
 cưa nhỏ. Hoa nhỏ, trắng hay hổng mọc thành bông ờ đầu cành hay kẽ lá, bông dài 5-10cm, với những vòng gồm 2 hoa, cách nhau. Quả bế (ư, màu nâu nhạt, hình cầu. Toàn cây có lông tơ, mùi thơm đặc biệt ( Hình 325 ).
 

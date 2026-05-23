@@ -1,5 +1,5 @@
 ---
-title: "17. ĐƯƠNG QUY"
+title: "17. ĐƯƠNG QUY 當歸"
 weight: 17
 navWeight: 984
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -41,23 +41,23 @@ Trong đương quy có tinh dầu. Có tác giả đã xác định tỷ lệ ti
 
 Trong đương quy Nhật Bản _Angclica acutiloba_ (Sieb. et Zucc). Kitagawa _Ligusticum acutilobum_ (Sieb. et Zucc), người ta thấy có tinh dầu. Trong tinh dầu thành phần chủ yếu là n-butylidenphtalit C₁₂H₁₂O₂ và n-valerophenon O-cacboxy-axit C₁₂H₁₄O₃. Ngoài ra còn có n-butylphtalit C₁₂H₁₄O₂ becgapten C₁₂H₈O₄, sesquitecpen, safrola và một ít vitamin B12.
 
+![n-butyliden phtalit](/images/23-2-n-butyliden-phtalit.png)
+
+n-butyliden phtalit
+
+![n-valerophenon-O-cacboxy-axit](/images/23-3-n-valerophenon-O-cacboxy-axit.png)
+
+n-valerophenon-O-cacboxy-axit
+
 #### D. Tác dụng dược lý
 
 Đương quy đã được nghiên cứu về mặt dược lý từ lâu. Sau đây là một số tác dụng chủ yếu.
 
-1.  _Tác dụng trên tử cung và các cơ trơn._ Trên tử cung. Đương quy có 2 loại tác dung: Một loại gây kích thích và một loại gây ức chế.
+1.  _Tác dụng trên tử cung và các cơ trơn._ Trên tử cung. Đương quy có 2 loại tác dụng: Một loại gây kích thích và một loại gây ức chế.
 
     Theo Schmidt, Y Bác An và Trần Khắc Khôi (1924 _Chinese Med_.J. 38: 362) thì hoạt chất chiết từ toàn bộ vị đương quy (dùng nước đun sắc hoặc rượu nhẹ độ thấm kiệt), tiêm cho chó đã gây mê (tĩnh mạch) thì thấy đối với tử cung 10 con không có chửa có 37,5% hiện tượng co, đối với chó có chửa hoặc đẻ không lâu thì 100% hiện tượng co tử cung. Đối với các cơ quan có cơ trơn khác như ruột, bàng quang cũng có hiện tượng đó, đồng thời huyết áp hạ thấp và có tác dụng lợi tiểu (do tỷ lệ sacaroza cao trong thuốc). Nếu như dùng tinh thể (không có tính chất bay hơi, không có đường và kiềm tính) chiết từ đương quy ra để tiêm vào tĩnh mạch thỏ thì cũng thấy sức co bóp của tử cung tăng mạnh, nhưng huyết áp không hạ thấp mà lại tăng cao; nếu dùng tinh thể nói trên pha với dung dịch Tyrốt thành 1/2.000.000, rồi thí nghiệm trên tử cung cô lập của thỏ thì cũng thấy hiện tượng co bóp kéo dài; dung dịch pha loãng 1/100.000 cũng làm cho mẩu ruột cô lập của thỏ co bóp mạnh. Các tác giả cho rằng tính chất kích thích này do tác dụng trực tiếp trên cơ trơn.
 
-    ![n-butyliden phtalit](/images/23-2-n-butyliden-phtalit.png)
-
-    n-butyliden phtalit
-
-    ![n-valerophenon-O-cacboxy-axit](/images/23-3-n-valerophenon-O-cacboxy-axit.png)
-
-    n-valerophenon-O-cacboxy-axit
-
-    Theo Lưu Thiệu Quang, Trương Phát Sơ và Trương Diệu Đức (_Trung Hoa y học tạp chí_ 21: 611; 1935) thì đã dùng tinh dầu của đương quy tiến hành 88 lần thí nghiệm trên tử cung cô lập của động vật và phát hiện thấy đối với tử cung cô lập của thỏ, chó và chuột bạch (có chửa hay không có chửa) với nồng độ 1/50 có tác dụng giãn nghỉ, nhưng tác dụng nhanh và kéo đài, nếu rửa hết thuốc thì tính chất khẩn trương lại khôi phục lại, như vậy chứng tỏ linh dầu đương quy không làm thương tổn nhiều đối với cơ của tử cung. Với nồng độ 1/25 thì sự co của tử cung lập tức đình chỉ; với nồng độ 1/100 thì hơi có tác dụng giãn nghỉ. Tác dụng trên của đương quy ngược lại với tác dụng của tuyến yên và của histamin, tức là sau khi tác dụng bằng atro-pin sunfat thì có thể xuất hiện, do đó cho rằng tác dụng của đương quy không do tác dụng trên hệ thống thần kinh mà do tác dụng trực tiếp ức chế trên cơ trơn của tử cung và do tác dụng trực tiếp trên cơ của tử cung này mà chữa bệnh thống kinh, so với atropin thì an toàn hơn. Nhưng năm 1949 (_Trung Hoa y học tạp chí_, 35; 353) Trương Xương Thiệu cho rằng xem tính chất trực tiếp ức chế cơ trơn của tử cung là đại diện cho cách tác dụng của đương quy chưa được đúng đắn.
+    Theo Lưu Thiệu Quang, Trương Phát Sơ và Trương Diệu Đức (_Trung Hoa y học tạp chí_ 21: 611; 1935) thì đã dùng tinh dầu của đương quy tiến hành 88 lần thí nghiệm trên tử cung cô lập của động vật và phát hiện thấy đối với tử cung cô lập của thỏ, chó và chuột bạch (có chửa hay không có chửa) với nồng độ 1/50 có tác dụng giãn nghỉ, nhưng tác dụng nhanh và kéo đài, nếu rửa hết thuốc thì tính chất khẩn trương lại khôi phục lại, như vậy chứng tỏ tinh dầu đương quy không làm thương tổn nhiều đối với cơ của tử cung. Với nồng độ 1/25 thì sự co của tử cung lập tức đình chỉ; với nồng độ 1/100 thì hơi có tác dụng giãn nghỉ. Tác dụng trên của đương quy ngược lại với tác dụng của tuyến yên và của histamin, tức là sau khi tác dụng bằng atropin sunfat thì có thể xuất hiện, do đó cho rằng tác dụng của đương quy không do tác dụng trên hệ thống thần kinh mà do tác dụng trực tiếp ức chế trên cơ trơn của tử cung và do tác dụng trực tiếp trên cơ của tử cung này mà chữa bệnh thống kinh, so với atropin thì an toàn hơn. Nhưng năm 1949 (_Trung Hoa y học tạp chí_, 35; 353) Trương Xương Thiệu cho rằng xem tính chất trực tiếp ức chế cơ trơn của tử cung là đại diện cho cách tác dụng của đương quy chưa được đúng đắn.
 
     Kinh nghiệm dùng đương quy trên lâm sàng cho biết đương quy có tác dụng làm dịu tử cung co quắp. Theo báo cáo của Dương Đại Vọng, Triệu Túc Quân (1948 _Trung Hoa y học tạp chí_, 34: 457) đã dùng đương quy chữa cho 129 bệnh nhân thống kinh (kinh nguyệt đau đớn) tất cả đã dùng 257 lần thì thấy kết quả tốt, không có triệu chứng nào không tốt, lại làm tăng sự phát dục của tử cung. Các tác giả đề xuất ra 3 loại tác dụng của đương quy.
 
@@ -73,11 +73,11 @@ Trong đương quy Nhật Bản _Angclica acutiloba_ (Sieb. et Zucc). Kitagawa _
 
     Năm 1954 (_Trung Hoa y học tạp chí_, 9; 670- 682), Lã Phú Hoa, Ngô Hy Đoan và Hồng Sơn Hải báo cáo đã dùng một loại đương quy (có lẽ là _Ligusticum acutilobum_) chế thành thuốc sắc, cất kéo hơi nước và chiết bằng ête thí nghiệm trên tử cung cô lập, tử cung tại chỗ và trên tử cung trường diễn, cũng đi đến kết quả gần như kết quả của Ngô Bảo Sam kể trên và các tác giả đề xuất rằng đương quy có hai loại tác dụng hưng phấn và ức chế. Chất có tác dụng ức chế có trong đương quy chủ yếu nằm trong phần bay hơi được, có độ sôí 189°-210°c ở 5 mm thủy ngân, thành phần này trong quá trình sắc thuốc thông thường vẫn được áp dụng trong nhân dân thưòng không bị bay đi nhiều. Thành phần có tác dụng hưng phấn tan trong nước, trong rượu êtylic, không tan trong ête là chất không bay hơi.
 
-    Năm 1954, Chu Nhan (Trung dược đích dược lý dữ ứng dụng) đã đề xuất rằng đương quy có hai tác dụng: Thành phần tan trong nước, không bay hơi, có tinh thể, có tác dụng hưng phấn cơ tử cung làm cho sự co bóp tăng mạnh; thành phần bốc hơi có tác dụng ức chế cơ tử cung, làm cho tử cung giãn nghỉ, nếu muốn làm cho có tác dụng co bóp tử cung thì cần sắc thuốc có đương quy lâu để trừ bỏ bớt phần bay hơi; trái lại nếu muốn làm cho tử cung giãn nghỉ thì chỉ nên sắc rất chóng để bảo vệ phần bay hơi.
+    Năm 1954, Chu Nhan (_Trung dược đích dược lý dữ ứng dụng_) đã đề xuất rằng đương quy có hai tác dụng: Thành phần tan trong nước, không bay hơi, có tinh thể, có tác dụng hưng phấn cơ tử cung làm cho sự co bóp tăng mạnh; thành phần bốc hơi có tác dụng ức chế cơ tử cung, làm cho tử cung giãn nghỉ, nếu muốn làm cho có tác dụng co bóp tử cung thì cần sắc thuốc có đương quy lâu để trừ bỏ bớt phần bay hơi; trái lại nếu muốn làm cho tử cung giãn nghỉ thì chỉ nên sắc rất chóng để bảo vệ phần bay hơi.
 
 2.  _Tác dụng trên hiện tượng thiếu vitamin E_. Theo Nghê Chương Kỳ (1941. _Chinese J. physiol._ 16; 373) dùng thức ăn thiếu vitamin E nuôi chuột trong 2-5 tháng, 100% chuột bị bệnh thiếu vitamin E với những chứng bệnh ở tinh hoàn; nếu thêm vào thức ăn 5-6% đương quy thì 38% chuột không có những triệu chứng thiếu vitamin E nữa. Các vị thuốc dâm dương hoắc, đan sâm, tục đoạn và xuyên khung cũng có tác dụng tương tự, Nghê Chương Kỳ suy luận rằng nhân dân sở dĩ dùng đương quy làm thuốc an thai phải chăng có quan hệ tới loại tác dụng này.
 
-3.  _Tác dụng trên trung khu thần kinh._ Theo sự nghiên cứu của một tác giả Nhật Bản (Tửu tinh hòa thái lang, 1933) tinh dầu của đương quy có tác dụng trấn tĩnh hoạt động của đại não lúc đầu thì hưng phấn trung khu tủy sống, sau tê liệt, đưa đến huyết áp hạ thấp, nhiệt độ cơ thể hạ thấp, mạch đập chậm lại và có hiện tượng co quắp; nhưng nếu tiêm duới da thỏ thì các hiện tượng trên không rõ rệt, chỉ thấy liệt hô hấp trước, rồi đến liệt tim.
+3.  _Tác dụng trên trung khu thần kinh._ Theo sự nghiên cứu của một tác giả Nhật Bản (_Tửu tinh hòa thái lang_, 1933) tinh dầu của đương quy có tác dụng trấn tĩnh hoạt động của đại não lúc đầu thì hưng phấn trung khu tủy sống, sau tê liệt, đưa đến huyết áp hạ thấp, nhiệt độ cơ thể hạ thấp, mạch đập chậm lại và có hiện tượng co quắp; nhưng nếu tiêm duới da thỏ thì các hiện tượng trên không rõ rệt, chỉ thấy liệt hô hấp trước, rồi đến liệt tim.
 
 4.  _Tác dụng trên huyết áp và hô hấp._ Theo Schmidt. Y Bác An và Trần Khắc Khôi (1924 _Chinese Med._ J. 38; 362) tinh dầu của đương quy có tác dụng hạ huyết áp, nhưng thành phần không bay hơi của đương quy lại có tính chất làm co cơ trơn ở thành mạch máu làm cho huyết áp tăng cao. Lưu Thiệu Quang, Trương Phát Sơ, Trương Diệu Đức (1935 _Trung hoa y học tạp chí_ 21: 611) đã theo dõi tác dụng của tinh dầu đương quy trên thỏ, mèo, chó đối với huyết áp và hô hấp thì thấy tùy theo liều lượng lớn, nhỏ tinh dầu tiêm vào mạch máu mà tác dụng có khác nhau.
     1. Liều nhỏ: Huyết áp hơi hạ thấp, hô hấp hơi bị kích thích hoặc bị ảnh hưỏng rất ít.
@@ -111,3 +111,11 @@ _Chữa chảy máu cam không ngừng_: Đương quy sao khô tán nhỏ, mỗi
 _Dưỡng não hoàn=viên dưỡng não_. Dùng chữa mất ngủ, nhức đầu, ngủ hay mê: Đương quy 100g, viễn chí 40g, xương bồ 40g, táo nhân 60g, ngũ vị 60g, khởi tử 80g, đởm tinh 40g, thiên trúc hoàng 40g, long cốt 40g, ích trí nhân 60g, hổ phách 40g, nhục thung dung 80g, bá tử nhân 60g, chu sa 40g, hổ đào nhục 80g. Tất cả tán thành bột thêm mật ong vào viên thành viên mỗi viên nặng chừng 4g. Ngày uống 2 lần, mỗi lần 1 viên. Uống luôn 15 ngày (bài thuốc kinh nghiệm Trung Quốc).
 
 Đã áp đụng thấy kết qủa tốt ỏ bệnh viện Bạch Mai. Mất ngủ khỏi 85%, váng đầu khỏi 78,65%, ngủ mê đạt 77,22%, đau đầu đạt 79,59%.
+
+_Chú thích:_
+
+Trong đông y phân biệt quy đầu, quy thân, quy vĩ có tác dụng khác nhau. Gần đây người ta chứng mình tỉ lệ tình dầu ở các bộ phận khác nhau của rễ có khác nhau. Vậy kinh nghiệm người xưa không phải hoàn toàn vô lý chăng? Phần trên đã giới thiệu, ở đây chỉ nói quan niệm của một số thầy thuốc xưa: Theo Hoàng Cung Tú thì quy đầu có tác dụng cầm máu đi lên, quy thân thì nuôi huyết ở trung bộ, quy vĩ thì phá huyết đi xuống dưới. Toàn quy thì hoạt huyết. Quy vị cay thì hay tán, người nào hư, hỏa thịnh nên kiêng: vị ngọt thì ủng tắc, người nào tỳ vị hư hàn chớ dùng, thể nhuận tỉnh hoạt, người nào tiết tả nên kiêng.
+
+Một tác giả cổ khác là Chương Sơn Lôi nói: Quy thân chủ thù có công bồi dưỡng, quy vĩ chủ thông có công trục ứ, quy đầu có tính đi lên trên chữa những chứng tiện huyết, niệu huyết (tiểu tiện ra huyết) rất hay nhưng chữa thổ huyết, nục huyết, (chảy máu cam) mà dùng thì có khác gì chấp cánh cho hổ, cho nên làm thuốc phải sành chớ ngộ nhận 2 chữ chỉ huyết (cầm máu) mà hại người (trích trong _bản thảo cương mục_, Lý Thời Trân, thế kỷ thứ 16).
+
+2. Tên khoa học của đương quy mới được các nhà dược học và thực vật học Trung Quốc xác định lại gần đây. Theo tài liệu cũ, tên khoa học của đương quy rất phức tạp như ở huyện Nga My tỉnh Tứ Xuyên dùng vị tiền hồ (_Peucedanum decursivum_ Maxim.) làm đương quy, có nơi lại dùng rễ của cây _Angelica miqueliana_ Maxim, và cây A*ngelica grosserrata* Maxim,v.v... Thực tế đương quy mà ta nhập có thể do các nguồn cây khác nhau. Ngay tại Việt Nam, ở Lạng Sơn ta vẫn thu mua vị tiền hồ với tên nam đương quy để dùng và bán sang Trung Quốc. Cân chú ý nghiên cứu thêm.

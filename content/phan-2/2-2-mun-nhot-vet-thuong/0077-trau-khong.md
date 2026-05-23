@@ -15,7 +15,7 @@ Thuộc họ Hồ tiêu Piperaceae.
 
 #### A. Mô tả cây
 
-Trầu không là một loại cây mọc leo, thân nhẵn. Lá mọc so le, cuống có bẹ, dài l,5-3,5cm, phiến lá hình trái xoan, dài 10-13cm, rộng 4,5- 9cm, phía cuống hình tim (đối với những lá phía gốc) đầu lá nhọn, khi soi lên thấy rất nhiều điểm chứa tinh dầu rất nhỏ, gân lá thường 5. Hoa khác gốc mọc thành bông. Quả mọng không có vòi sót lại (Hình 77, Hm 39,1).
+Trầu không là một loại cây mọc leo, thân nhẵn. Lá mọc so le, cuống có bẹ, dài 1,5-3,5cm, phiến lá hình trái xoan, dài 10-13cm, rộng 4,5- 9cm, phía cuống hình tim (đối với những lá phía gốc) đầu lá nhọn, khi soi lên thấy rất nhiều điểm chứa tinh dầu rất nhỏ, gân lá thường 5. Hoa khác gốc mọc thành bông. Quả mọng không có vòi sót lại (Hình 77, Hm 39,1).
 
 #### B. Phân bố, thu hái và chế biến
 

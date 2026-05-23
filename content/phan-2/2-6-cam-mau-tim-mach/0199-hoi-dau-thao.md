@@ -35,5 +35,5 @@ Có thể ngâm rượu uống.
 
 Đơn thuốc có vị hồi đầu thảo
 
-Đơn thuốc chữa huyết áp của phụ nữ: Hồi đầu thảo l,2g, hương phụ 18g, nước 300ml. Sắc còn 200ml chia ba lần uống trong ngày.
+Đơn thuốc chữa huyết áp của phụ nữ: Hồi đầu thảo 1,2g, hương phụ 18g, nước 300ml. Sắc còn 200ml chia ba lần uống trong ngày.
 

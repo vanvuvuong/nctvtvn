@@ -1,18 +1,21 @@
 ---
-title: "18. HUYẾT GIÁC"
+title: "18. HUYẾT GIÁC 血角"
 weight: 18
 navWeight: 983
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 ---
 
 _Còn gọi là_ cây xó nhà, cây dứa dại, cây giáng ông.
+
 Tên khoa học _Pleomele cochinchinensis Merr. (Dracaena loureiri Gagnep._)
-Thuộc họ Hành Alliaceae.
+
+Thuộc họ Hành _Alliaceae_.
+
 Huyết giác là chất gỗ màu đỏ, do một loại sâu hay nấm gây ra trên gỗ cây huyết giác già cỗi mục nát.
 
 #### A. Mô tả cây
 
-Huyết giác là một loại cây nhỏ, cao chừng 1- 1,5m, có thể tới 2-3m, sống lâu năm. Thân phân thành nhiều nhánh. Cây nhỏ có đường kính chừng l,6-2cm, cây to có đường kính tới 20-25 cm. Lá hình lưỡi kiếm, trung bình dài 25-80cm, rộng 3-4cm tới 6-7cm, cứng, màu xanh tươi, mọc cách, không có cuống. Lá rụng để lại trên thân một sẹo, Thường chỉ còn một bó lá tụ tập trên ngọn. Cụm hoa mọc thành chùm dài tới lm, đường kính phía cuống tới 1,5-2cm trên có lá nhỏ, dài 15 cm, rộng 2cm, phân cành nhỏ dài tới 30cm. Hoa tụ từng 2-4 hoa gần nhau. Hoa nhỏ, đường kính 7-8 mm, màu lục vàng nhạt. Qủa mọng hình cầu, đường kính chừng 1cm. Khi khô có màu đen, hạt hình cầu, đường kính 6-7 cm ( Hình 24, Hm 3,2 ).
+Huyết giác là một loại cây nhỏ, cao chừng 1- 1,5m, có thể tới 2-3m, sống lâu năm. Thân phân thành nhiều nhánh. Cây nhỏ có đường kính chừng 1,6-2cm, cây to có đường kính tới 20-25 cm. Lá hình lưỡi kiếm, trung bình dài 25-80cm, rộng 3-4cm tới 6-7cm, cứng, màu xanh tươi, mọc cách, không có cuống. Lá rụng để lại trên thân một sẹo, Thường chỉ còn một bó lá tụ tập trên ngọn. Cụm hoa mọc thành chùm dài tới lm, đường kính phía cuống tới 1,5-2cm trên có lá nhỏ, dài 15 cm, rộng 2cm, phân cành nhỏ dài tới 30cm. Hoa tụ từng 2-4 hoa gần nhau. Hoa nhỏ, đường kính 7-8 mm, màu lục vàng nhạt. Qủa mọng hình cầu, đường kính chừng 1cm. Khi khô có màu đen, hạt hình cầu, đường kính 6-7 cm ( Hình 24, Hm 3,2 ).
 
 #### B. Phân bổ thu hái và chế biến
 

@@ -561,7 +561,7 @@ Trồng vào tháng 2-3. Thu hoạch vào tháng 9-10. Rễ củ hái về, tẩ
 
 #### C. Thành phần hoá học
 
-Trong thiên môn đông có asparagin là một axit amin có tinh thể hình trụ, ngậm một phân tử nước, đun tới 100°C thì mất phân tử nước, độ chảy 234°-235°C, tan trong nước nóng, chỉ hơi tan trong nước lạnh, 1g tan trong l,47ml nước 20°. Với nước sôi, asparagin có thể thuỷ phân để cho axit aspartic và amoniac. Ngoài ra còn có chất nhầy. Có tài liệu nói còn có tinh bột, sacaroza. Các hoạt chất khác chưa rõ.
+Trong thiên môn đông có asparagin là một axit amin có tinh thể hình trụ, ngậm một phân tử nước, đun tới 100°C thì mất phân tử nước, độ chảy 234°-235°C, tan trong nước nóng, chỉ hơi tan trong nước lạnh, 1g tan trong 1,47ml nước 20°. Với nước sôi, asparagin có thể thuỷ phân để cho axit aspartic và amoniac. Ngoài ra còn có chất nhầy. Có tài liệu nói còn có tinh bột, sacaroza. Các hoạt chất khác chưa rõ.
 
 #### D. Tác dụng dược lý
 

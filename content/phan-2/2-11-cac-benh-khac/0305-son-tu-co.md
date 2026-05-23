@@ -15,7 +15,7 @@ Thuộc họ Lan Orchidaceae.
 
 #### A. Mô tả cây
 
-Theo những tài liệu ghi chép cũ thì sơn từ cô có tên khoa học là Pleione bulbocodioides, nhưng cho tới nay vị thuớc này chỉ thấy nhập của Trung Quốc, mà theo sự điều tra của một sổ tác giả Trung Quốc đến tại vùng tây nam Trung Quốc là nơi cây này được khai thác thì thấy nó thuộc nhiều loài có hình dáng bên ngoài giống nhau, lại vì chưa thu được mẫu vật có hoa quả nên chỉ tạm xác định là Pleỉone sp. Đó là một cây sống lâu năm với thân rễ hình trứng dài l,5cm, rộng l,3cm mang nhiểu rễ nhỏ, với
+Theo những tài liệu ghi chép cũ thì sơn từ cô có tên khoa học là Pleione bulbocodioides, nhưng cho tới nay vị thuớc này chỉ thấy nhập của Trung Quốc, mà theo sự điều tra của một sổ tác giả Trung Quốc đến tại vùng tây nam Trung Quốc là nơi cây này được khai thác thì thấy nó thuộc nhiều loài có hình dáng bên ngoài giống nhau, lại vì chưa thu được mẫu vật có hoa quả nên chỉ tạm xác định là Pleỉone sp. Đó là một cây sống lâu năm với thân rễ hình trứng dài 1,5cm, rộng 1,3cm mang nhiểu rễ nhỏ, với
 
 ##### TODO: thêm hình ảnh
 
@@ -29,7 +29,7 @@ Như trên đã nói, đây là một vị thuổc hoàn toàn còn phải nhậ
 
 Thu hái vào tháng 4, trừ bỏ thân và vẩy lá, rễ con, rủa sạch đất cát, đổ cho chín tới giữa củ rồi
 
-phơi hay sấy khô. Vị thuốc hình cầu hay hình thay đổi, dài l,5-2,5cm, đường kính I,5-2cm, mật ngoài vàng trắng hay nâu nhạt, trên mặt còn lá vẩy hay đã bóc hết, cứng, khó bè, vết cát màu vàng ưắng, hơi trong trong, không mùi, vị nhạt.
+phơi hay sấy khô. Vị thuốc hình cầu hay hình thay đổi, dài 1,5-2,5cm, đường kính I,5-2cm, mật ngoài vàng trắng hay nâu nhạt, trên mặt còn lá vẩy hay đã bóc hết, cứng, khó bè, vết cát màu vàng ưắng, hơi trong trong, không mùi, vị nhạt.
 
 #### C. Thành phần hoá học
 

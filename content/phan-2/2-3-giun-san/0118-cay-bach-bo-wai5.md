@@ -19,7 +19,7 @@ Ta dùng rẽ phơi hay sấy khô (Radix Stemonae) của cây bách bộ.
 
 Bách bộ là một thứ cây leo, dài 6-8m, có khi hơn. Thân nhò nhẵn. Lá thường mọc đối có cuống, hình trái tim. Trên mặt lá, ngoài gân chính có 6-8 gân phụ chạy đọc tù cuống lá đến đầu lá, có những gân ngang nhỏ và rõ. Cụm hoa mọc ò kẽ lá gồm 1-2 hoa, lớn, màu vàng đỏ. Bao hoa gồm bốn phiến, 2 phiến ngoài dài 4cm, rộng 5mm, 2 phiến trong rộng hơn. Nhị 4, có tua ngắn. Quả nang có 4 hạt (Hình 114, Hm 8,2).
 
-Rễ củ gổm 10 đến 20 hoặc 30 củ, có khi tới 100 củ dài 15-20cm, đường kính l,5-2cm. Màu trắng vàng, vị ngọt, sau rất đấng.
+Rễ củ gổm 10 đến 20 hoặc 30 củ, có khi tới 100 củ dài 15-20cm, đường kính 1,5-2cm. Màu trắng vàng, vị ngọt, sau rất đấng.
 
 #### B. Phân bố, thu hái và chế biến
 

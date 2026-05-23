@@ -29,7 +29,7 @@ người cho hoàng nàn là vỏ cày mã tiền. Thu hái hạt thì gọi là
 
 Theo các tác giả nghiên cứu trước, hoàng nàn chỉ thấy mọc ở một số nơi của miền Bắc Việt Nam: Hà Tây (Ba Vì), Lai Châu, Thanh Hoá, Nghệ An, Hà Tĩnh. Tại Lào cũng khu trú trên cùng một vĩ tuyến. Nhưng như trên đã nói, có thể ở những vùng này chỉ khai thác vò cho nên cho đó là hoàng nàn, còn những vùng khác chỉ khai thác hạt cho nên cho đó là cây mã tìển. Vấn đề còn đang nghiên cứu xác minh thêm.
 
-Thường người ta chặt cả cành, cắt thành từng khúc rồi mang về bóc vỏ. vỏ dài 4-5cm, cuốn vòng, đường kính l-3cm, dày l,5-2mm, mặt ngoài có những nốt sần xám đen hay đỏ nâu, có nốt sần to, mặt trong xám nâu nhạt, có vết kẻ đọc, vết bẻ nhẵn, trông rõ hai lớp. Khi thêm một giọt axit nitric vào mặt trong thấy có màu đỏ máu, mặt ngoài có màu lục đen. VỊ rất đắng.
+Thường người ta chặt cả cành, cắt thành từng khúc rồi mang về bóc vỏ. vỏ dài 4-5cm, cuốn vòng, đường kính l-3cm, dày 1,5-2mm, mặt ngoài có những nốt sần xám đen hay đỏ nâu, có nốt sần to, mặt trong xám nâu nhạt, có vết kẻ đọc, vết bẻ nhẵn, trông rõ hai lớp. Khi thêm một giọt axit nitric vào mặt trong thấy có màu đỏ máu, mặt ngoài có màu lục đen. VỊ rất đắng.
 
 Trước đây vỏ hoàng nàn được bán tự đo khắp nơi, những hàng tạp hoá đều có bán để nhân dân mua về làm thuốc chữa hủi và những bệnh ngoài da khó chữa, chó dại cắn. Hiện nay việc bán phải theo chế độ của thuốc độc.
 

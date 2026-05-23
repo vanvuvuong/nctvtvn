@@ -15,7 +15,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 #### A. Mô tả cây
 
-Đơn lá đỏ là một loại cây nhỏ, cao 0,70-1,50m, có cành nhỏ, gầy, dài, màu tía. Lá mọc đôì, hình trái xoan thuôn dài, phía cuống nhọn, phía đầu có mũi nhọn ngắn, dài 6-12cm, rộng l,2-4cm, mặt trên lá màu xanh lục sẫm, mặt duới màu tía đỏ, mép có răng cưa, cuống ngắn 5-10mm. Hoa mọc thành bông ở kẽ M hay đầu cành, bông hoa đực dài 2cm, bông hoa cái ngắn hơn. Quả 3 mảnh, đưòng kính chừng lem, hạt hình cầu, màu nâu nhạt, đường kính 4mm. Mùa hoa vào các tháng 4-5-6 ( Hình 295 ).
+Đơn lá đỏ là một loại cây nhỏ, cao 0,70-1,50m, có cành nhỏ, gầy, dài, màu tía. Lá mọc đôì, hình trái xoan thuôn dài, phía cuống nhọn, phía đầu có mũi nhọn ngắn, dài 6-12cm, rộng 1,2-4cm, mặt trên lá màu xanh lục sẫm, mặt duới màu tía đỏ, mép có răng cưa, cuống ngắn 5-10mm. Hoa mọc thành bông ở kẽ M hay đầu cành, bông hoa đực dài 2cm, bông hoa cái ngắn hơn. Quả 3 mảnh, đưòng kính chừng lem, hạt hình cầu, màu nâu nhạt, đường kính 4mm. Mùa hoa vào các tháng 4-5-6 ( Hình 295 ).
 
 #### B. Phân bố, thu hái và chê biến
 

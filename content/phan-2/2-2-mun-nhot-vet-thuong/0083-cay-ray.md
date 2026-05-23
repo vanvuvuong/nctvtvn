@@ -15,7 +15,7 @@ Thuộc họ Ráy Araceae.
 
 #### A. Mô tả cây
 
-Ráy là một loại cây mềm cao 0,30 đến l,40m, có thể đài tới 5m nhưng phía dưới bò, trên đứng; dưới đất có thân rễ hình cầu sau phát triển dần thành củ dài, có nhiều đốt ngắn, trên đốt có vẩy màu nâu. Lá to hình tim dài 10-50cm, rộng 8- 45cm, cuống mẫm dài 15 đến 120cm. Bông mo mang hoa cái ở phía gốc, hoa đực ở phía trên và tận cùng bằng một đoạn bất thụ. Phần dưới của mo tồn tại xung quanh các quả mọng, hình trứng màu đỏ (Hình 81, Hm 43,2).
+Ráy là một loại cây mềm cao 0,30 đến 1,40m, có thể đài tới 5m nhưng phía dưới bò, trên đứng; dưới đất có thân rễ hình cầu sau phát triển dần thành củ dài, có nhiều đốt ngắn, trên đốt có vẩy màu nâu. Lá to hình tim dài 10-50cm, rộng 8- 45cm, cuống mẫm dài 15 đến 120cm. Bông mo mang hoa cái ở phía gốc, hoa đực ở phía trên và tận cùng bằng một đoạn bất thụ. Phần dưới của mo tồn tại xung quanh các quả mọng, hình trứng màu đỏ (Hình 81, Hm 43,2).
 
 #### B. Phân bố, thu hái và chế biến
 

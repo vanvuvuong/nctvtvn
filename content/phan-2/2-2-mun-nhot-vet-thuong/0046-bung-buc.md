@@ -15,7 +15,7 @@ Thuộc họ Thầu dầu (Euphorbiaceae).
 
 #### A. Mô tả cây
 
-Bùng bục là một cây nhỡ, cao chừng l,5-2mét. Cành non có nhiều lông màu vàng nhạt. Lá mọc so le, phiến lá hình tim, đầu lá dài nhọn, phía cuống tròn hay thẳng góc với cuống, mép nguyên hay hơi thành 3 thùy cắt không sâu, dài rộng chừng 15-18cm, khi còn non mạt dưới có những lông màu vàng nhạt, khi già có thể nhấn. Cuống dài có phủ lông trắng vàng.
+Bùng bục là một cây nhỡ, cao chừng 1,5-2mét. Cành non có nhiều lông màu vàng nhạt. Lá mọc so le, phiến lá hình tim, đầu lá dài nhọn, phía cuống tròn hay thẳng góc với cuống, mép nguyên hay hơi thành 3 thùy cắt không sâu, dài rộng chừng 15-18cm, khi còn non mạt dưới có những lông màu vàng nhạt, khi già có thể nhấn. Cuống dài có phủ lông trắng vàng.
 
 Mùa hoa vào tháng 4-5 ở miền Bắc, mùa quả vào tháng 8-9. Hoa khác gốc, mọc thành bông ở đầu cành hay kẽ lá, hoa đực dài và nhỏ hơn hoa cái. Bông hoa dài tới 20cm. Quả có lông cứng to dài. Hạt màu đen, nhỏ, chỉ lớn hơn đầu đinh ghim một chút.
 

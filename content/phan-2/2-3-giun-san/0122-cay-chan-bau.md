@@ -17,7 +17,7 @@ Người ta dùng quả và vỏ cây Chân bầu.
 
 A. Mò tả cây
 
-Cây nhỏ cao từ 2 đến I2m. Khi còn non có cành hình 4 cạnh, 4 mép có dìa như cánh. Lá thường mọc đối, hình trứng dài, đầu lá tròn hay hơi rộng ra, cả hai mặt nhất là mặt dưới đều có lông. Chiều dài của lá 3-7,5cm, rộng l,5-4cm. Hoa nhỏ mọc thành bông ở kẽ lá và đầu cành. Quả dài 18-20mm, rộng 7-8mm có 4 cánh mỏng. Hạt hình thoi rộng 4mm (Hình 118, Hm
+Cây nhỏ cao từ 2 đến I2m. Khi còn non có cành hình 4 cạnh, 4 mép có dìa như cánh. Lá thường mọc đối, hình trứng dài, đầu lá tròn hay hơi rộng ra, cả hai mặt nhất là mặt dưới đều có lông. Chiều dài của lá 3-7,5cm, rộng 1,5-4cm. Hoa nhỏ mọc thành bông ở kẽ lá và đầu cành. Quả dài 18-20mm, rộng 7-8mm có 4 cánh mỏng. Hạt hình thoi rộng 4mm (Hình 118, Hm
 
 16,1) , có'đìa.
 

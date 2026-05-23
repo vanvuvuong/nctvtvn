@@ -131,7 +131,7 @@ Thuộc họ Gai Urticaceae.
 
 #### A. Mô tả cây
 
-Loại cỏ có cành mềm, thân có lông. Lá mọc so le, có khi mọc đối có lá kèm, hình mác, hẹp, trên gân và 2 mặt đều có lông nhất là ở mặt dưới, lá dài 4-9cm, rộng l,5-2,5cm. Có 3 gân xuất phát từ cuống. Cuống dài 5mm có lông trắng. Cụm hoa đơn tính mọc thành xim co, ở kẽ lá có các hoa không cuống. Quả hình trứng nhọn, có bao hoa có lông ( Hình 559, Hm 48,2).
+Loại cỏ có cành mềm, thân có lông. Lá mọc so le, có khi mọc đối có lá kèm, hình mác, hẹp, trên gân và 2 mặt đều có lông nhất là ở mặt dưới, lá dài 4-9cm, rộng 1,5-2,5cm. Có 3 gân xuất phát từ cuống. Cuống dài 5mm có lông trắng. Cụm hoa đơn tính mọc thành xim co, ở kẽ lá có các hoa không cuống. Quả hình trứng nhọn, có bao hoa có lông ( Hình 559, Hm 48,2).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -233,7 +233,7 @@ Vỏ núc nác có thể thu hoạch gần như quanh năm, tốt nhất vào m�
 
 Vỏ núc nác màu nâu nhạt, trên có rất nhiều sẹo của cuống lá cũ, và rất nhiều những đám nhỏ nổi lên, mặt trong khi còn tươi có màu vàng nhạt, không mùi, vị đắng, hơi hắc.
 
-Hạt núc nác hình bầu dục, rất mỏng, dẹt ba phía vỏ ngoài phát triển thành màng rất mỏng, trong trông như cánh bướm, màu trắng nâu nhạt, có những đường gân từ hạt toả ra. Chiều dài cả hạt và cánh từ 4-7cm, rộng 2,5-4cm. Nếu chỉ kể hạt không thì chỉ dài l,5-2,5cm, rộng l-2cm. Khi bóc màng ngoài thấy rễ phôi và lá mầm rất rõ, mỏng như cánh bướm, dòn. Không mùi, vị hơi đắng. Những hạt khô, màu trắng, nguyên là tốt.
+Hạt núc nác hình bầu dục, rất mỏng, dẹt ba phía vỏ ngoài phát triển thành màng rất mỏng, trong trông như cánh bướm, màu trắng nâu nhạt, có những đường gân từ hạt toả ra. Chiều dài cả hạt và cánh từ 4-7cm, rộng 2,5-4cm. Nếu chỉ kể hạt không thì chỉ dài 1,5-2,5cm, rộng l-2cm. Khi bóc màng ngoài thấy rễ phôi và lá mầm rất rõ, mỏng như cánh bướm, dòn. Không mùi, vị hơi đắng. Những hạt khô, màu trắng, nguyên là tốt.
 
 #### B. Thành phần hoá học
 

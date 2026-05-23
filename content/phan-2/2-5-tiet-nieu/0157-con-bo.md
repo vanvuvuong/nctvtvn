@@ -15,7 +15,7 @@ Côn có nghĩa là cùng, là giống, bố là vải vì vị thuốc này dà
 
 #### A. Mô tả cây
 
-Cỏn bô' Lamìnaria japonica là một loại tảo dẹt, màu nâu, có những móc để bám vào tảng đá ngoài biển, một bộ phận hình trụ nom như thân và một bộ phận dẹt và dài nom như lá. Bộ phận giống như ỉá của côn bô' dài khoảng 60cm, rộng 5-ÓCIĨ1, giữa dày, mép mỏng thành hình lượn sóng, Phần lá dẹt của nga chưởng thái dài rộng khoảng 15-30cm, dày l,5-2mm, hai cánh xẻ như lông chim, thùy hình lưỡi dài, mép có răng cưa nhỏ ( Hình 194 ).
+Cỏn bô' Lamìnaria japonica là một loại tảo dẹt, màu nâu, có những móc để bám vào tảng đá ngoài biển, một bộ phận hình trụ nom như thân và một bộ phận dẹt và dài nom như lá. Bộ phận giống như ỉá của côn bô' dài khoảng 60cm, rộng 5-ÓCIĨ1, giữa dày, mép mỏng thành hình lượn sóng, Phần lá dẹt của nga chưởng thái dài rộng khoảng 15-30cm, dày 1,5-2mm, hai cánh xẻ như lông chim, thùy hình lưỡi dài, mép có răng cưa nhỏ ( Hình 194 ).
 
 #### B. Phân bố thu hái và chế biến
 

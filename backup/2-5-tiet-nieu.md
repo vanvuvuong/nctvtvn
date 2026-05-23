@@ -186,7 +186,7 @@ protit, 1,7% chất béo, 53,3% gluxit, 2,8% tro. Hàm lượng muối khoáng l
 
 Hàm lượng các axit amin cần thiết trong đậu đen rất cao: Trong lOOg đậu đen có 0,97g lysin;
 
-0, 3lg metionin; 0,3lg tryptophan; 1,16g phenylalanin; l,09g alanin; 0,97g valin; ],26g lenxin; l,llg izoleuxin; l,72g acginin và 0,75g histidin.
+0, 3lg metionin; 0,3lg tryptophan; 1,16g phenylalanin; 1,09g alanin; 0,97g valin; ],26g lenxin; l,llg izoleuxin; 1,72g acginin và 0,75g histidin.
 
 #### D. Công dụng và liều dùng
 
@@ -274,7 +274,7 @@ Tại Trung Quoc, ngoài rễ cây hoa hiên Hemerocaỉlis Ịuỉva ra, ngư�
 
 H. minor Mill. ở nước ta tên khoa học chưa được xác định chác chắn, theo kinh nghiêm loại hoa vàng có tác dụng mạnh hơn loại hoa đỏ.
 
-dưới màu nhạt hơn, hay như có phẫn. Cuống lá dài 3-5cm, đính vào khoảng 1/4 phiến lá. Từ cuống tỏa ra 10 gân chính, nổi ở mật dưới. Cụm hoa hình tán. Cuống cụm hoa dài l,5-3cm, mang
+dưới màu nhạt hơn, hay như có phẫn. Cuống lá dài 3-5cm, đính vào khoảng 1/4 phiến lá. Từ cuống tỏa ra 10 gân chính, nổi ở mật dưới. Cụm hoa hình tán. Cuống cụm hoa dài 1,5-3cm, mang
 
 3- 8 hoa nhỏ. Hoa có cuống, rất ngắn. Quả hạch, khi chín có màu đỏ tươi, dài độ 6mm, rộng 4- 5mm. Hạt hình móng ngựa dài. Ra hoa mùa hạ, mùa thu ( Hình 179, Hm 48,4 ).
 
@@ -964,7 +964,7 @@ Côn có nghĩa là cùng, là giống, bố là vải vì vị thuốc này dà
 
 #### A. Mô tả cây
 
-Cỏn bô' Lamìnaria japonica là một loại tảo dẹt, màu nâu, có những móc để bám vào tảng đá ngoài biển, một bộ phận hình trụ nom như thân và một bộ phận dẹt và dài nom như lá. Bộ phận giống như ỉá của côn bô' dài khoảng 60cm, rộng 5-ÓCIĨ1, giữa dày, mép mỏng thành hình lượn sóng, Phần lá dẹt của nga chưởng thái dài rộng khoảng 15-30cm, dày l,5-2mm, hai cánh xẻ như lông chim, thùy hình lưỡi dài, mép có răng cưa nhỏ ( Hình 194 ).
+Cỏn bô' Lamìnaria japonica là một loại tảo dẹt, màu nâu, có những móc để bám vào tảng đá ngoài biển, một bộ phận hình trụ nom như thân và một bộ phận dẹt và dài nom như lá. Bộ phận giống như ỉá của côn bô' dài khoảng 60cm, rộng 5-ÓCIĨ1, giữa dày, mép mỏng thành hình lượn sóng, Phần lá dẹt của nga chưởng thái dài rộng khoảng 15-30cm, dày 1,5-2mm, hai cánh xẻ như lông chim, thùy hình lưỡi dài, mép có răng cưa nhỏ ( Hình 194 ).
 
 #### B. Phân bố thu hái và chế biến
 
@@ -1086,7 +1086,7 @@ Có thể thu hái gần như quanh năm. Hái vể rửa sạch, thái ngắn, 
 
 Hoạt chất chưa rõ. Chỉ mới thấy trong thân lá có những hợp chất flavon, tanin, rãt nhiều chất nhầy, rất nhiều muối Na, K.
 
-Phân tích về mật thực phẩm, thấy trong lOOg rau dừa nước có 2,62g protit, 4,5g gluxit, 5,5g xenluloza, l,2g tro, 153mg canxì, 2,5mg p, 0,7mg Fe, 0,26mg caroten, 52mg vitamin c.
+Phân tích về mật thực phẩm, thấy trong lOOg rau dừa nước có 2,62g protit, 4,5g gluxit, 5,5g xenluloza, 1,2g tro, 153mg canxì, 2,5mg p, 0,7mg Fe, 0,26mg caroten, 52mg vitamin c.
 
 #### D. Công dụng và liều dùng
 
@@ -1262,7 +1262,7 @@ Thuộc họ Cánh bướm Fabaceae (Papilionaceae).
 
 A. Mỏ tả cây
 
-Cây loại thảo sống hằng nãm, dài l,5-2m. Lá kép gồm ba lá chét, lá chét đôi khi lại chìa thành ba thùy cát nông, mạt dưới nhiều ỉông trắng dài, Mùa hạ ở nách lá mọc hoa màu vàng hình bướm. Quả nhỏ và dài trên mặt có lông, trong chứa hạt nhỏ. Hạt hình bầu dục, hai đầu hơi dẹt, dài 2mm, đường kính 1,5mm vò màu đỏ nâu, hay tía nâu trơn bóng nơi rốn ở phía bên hạt màu trắng vàng, hơi lồi lên, bóc vỏ đi thì nhân trong màu vàng lục, chất cúng dòn ( Hình 201 ).
+Cây loại thảo sống hằng nãm, dài 1,5-2m. Lá kép gồm ba lá chét, lá chét đôi khi lại chìa thành ba thùy cát nông, mạt dưới nhiều ỉông trắng dài, Mùa hạ ở nách lá mọc hoa màu vàng hình bướm. Quả nhỏ và dài trên mặt có lông, trong chứa hạt nhỏ. Hạt hình bầu dục, hai đầu hơi dẹt, dài 2mm, đường kính 1,5mm vò màu đỏ nâu, hay tía nâu trơn bóng nơi rốn ở phía bên hạt màu trắng vàng, hơi lồi lên, bóc vỏ đi thì nhân trong màu vàng lục, chất cúng dòn ( Hình 201 ).
 
 B. Phàn bố, thu hái và chế biến
 
@@ -1474,7 +1474,7 @@ Thuộc họ Cánh bướm Pabaceae (Papiỉionaceae).
 
 A. Mò tả cây
 
-Cây cỏ, cao 30-50cm, mọc bò. Ngọn non dẹt và có phủ lông tơ, màu trắng. Lá mọc so le, gồm một hoặc ba lá chét tròn dài l,8-3,4cm, rộng 2-3,5cm, do đó có tên đồng tiền, mặt dưới có lông trắng bạc, mặt trên có những đường gân
+Cây cỏ, cao 30-50cm, mọc bò. Ngọn non dẹt và có phủ lông tơ, màu trắng. Lá mọc so le, gồm một hoặc ba lá chét tròn dài 1,8-3,4cm, rộng 2-3,5cm, do đó có tên đồng tiền, mặt dưới có lông trắng bạc, mặt trên có những đường gân
 
 ##### TODO: thêm hình ảnh
 
@@ -1630,7 +1630,7 @@ Thuộc họ Rau răm Poỉygonaceae.
 
 A. Mô lả cây
 
-Cây cỏ nhỏ, mọc bò, thân và cành mọc tỏa Iròn gần sát mạt đất, màu đỏ tím, đôi khi mọc cao tới ]0-30cm. Lá nhỏ, mọc se le, có bẹ chìa. Phiến lá dài l,5-2cm, rộng 0,4cni. Hoa nhò, màu hồng tím, mọc tụ từ 1 đến 5, thường 3-4 hoa ở kẽ lá. Quả ở cạnh, chứa một hạt đẩu đen. Mùa hoa từ tháng 5-6, kéo dài suốt mùa hè (Hình 209).
+Cây cỏ nhỏ, mọc bò, thân và cành mọc tỏa Iròn gần sát mạt đất, màu đỏ tím, đôi khi mọc cao tới ]0-30cm. Lá nhỏ, mọc se le, có bẹ chìa. Phiến lá dài 1,5-2cm, rộng 0,4cni. Hoa nhò, màu hồng tím, mọc tụ từ 1 đến 5, thường 3-4 hoa ở kẽ lá. Quả ở cạnh, chứa một hạt đẩu đen. Mùa hoa từ tháng 5-6, kéo dài suốt mùa hè (Hình 209).
 
 #### B. Phân bố, thu hái và chế biên
 
@@ -1926,7 +1926,7 @@ Thuộc họ Hoa môi Lamỉaceae (Labiatae).
 
 A. Mò tả cây
 
-Cò thiên thảo cao 0,75 đến l,25mm. Thân vuông, có lông nhất là ở ngọn. Lá mọc đối, có cuống rõ, phiến hình báu dục, có lông ở cả hai mặt, dài 7-15cm, rộng 3-6cm. Hoa màu hồng hay hơi tía mọc thành vòng nhiều hoa sít nhau ở kẽ lá. Hoa không cuống, đài hình chuồng, 5 răng. Ọuả bế tư, nhắn ( Hình 215 ).
+Cò thiên thảo cao 0,75 đến 1,25mm. Thân vuông, có lông nhất là ở ngọn. Lá mọc đối, có cuống rõ, phiến hình báu dục, có lông ở cả hai mặt, dài 7-15cm, rộng 3-6cm. Hoa màu hồng hay hơi tía mọc thành vòng nhiều hoa sít nhau ở kẽ lá. Hoa không cuống, đài hình chuồng, 5 răng. Ọuả bế tư, nhắn ( Hình 215 ).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -1968,7 +1968,7 @@ Dứa bà trước đây chủ yếu chỉ được khai thác lấy sợi, mộ
 
 #### A. Mô tả cây
 
-Dứa bà là một loại cây sống dai do thân rẽ, thân trên mặt đất ngán, lá hình kiếm dài 1,2- l,5m, quãng giữa rông 13cm, ngọn lá có gai to, nhọn, rắn, dài khoảng l,5cm. Gai ở mép lá có màu dcn, bóng như sừng. Mỗi cây có khoảng 30-50 lá, mọng nước, mỗi lá có thể cân nặng l,5kg. Sau nhiều năm (10-15 năm) cây ra hoa. Hoa đính Irên một trục lớn, thảng đứng, mọc từ giữa vòng lá. Trục hoa cao 4-6cm, có khi tới lOm, trên có tới hàng nghìn hoa. Sau khi cây ra hoa thì cây lụi đi. Hoa màu xanh, nhị mọc thò ra ngoài ( Hình 216 ).
+Dứa bà là một loại cây sống dai do thân rẽ, thân trên mặt đất ngán, lá hình kiếm dài 1,2- 1,5m, quãng giữa rông 13cm, ngọn lá có gai to, nhọn, rắn, dài khoảng 1,5cm. Gai ở mép lá có màu dcn, bóng như sừng. Mỗi cây có khoảng 30-50 lá, mọng nước, mỗi lá có thể cân nặng 1,5kg. Sau nhiều năm (10-15 năm) cây ra hoa. Hoa đính Irên một trục lớn, thảng đứng, mọc từ giữa vòng lá. Trục hoa cao 4-6cm, có khi tới lOm, trên có tới hàng nghìn hoa. Sau khi cây ra hoa thì cây lụi đi. Hoa màu xanh, nhị mọc thò ra ngoài ( Hình 216 ).
 
 Người ta đã thống kê thấy có khoảng 300 loài Agave, vào khoảng 60% số loài này có chứa hecogenin, nhưng những loài được khai thác vừa để lấy sợi vừa để chiết heocogenin là các loài Agave americana, Agave sisalana Perr., Agave fourecroydes Lem, đểu nguồn gốc Mêhicô (Trung Mỹ).
 
@@ -2080,7 +2080,7 @@ Trồng ở khắp nơi trong nước ta dùng làm rau ăn. Trong nhân dân c�
 
 c. Thành phân hóa học
 
-Trong rau muống có 92% nước; 3,2% protit; 2,5% gluxit; 1% xenluloza; 1,3% tro. Hàm lượng muối khoáng rất cao trong có có tới 100mg% canxi, 37mg% p, l,4mg% Fe. Các vilamin gồm có 2,9% caroten; 23mg% vita- min C; 0,10mg% vitamin Bl; 0,7% vitamin PP;
+Trong rau muống có 92% nước; 3,2% protit; 2,5% gluxit; 1% xenluloza; 1,3% tro. Hàm lượng muối khoáng rất cao trong có có tới 100mg% canxi, 37mg% p, 1,4mg% Fe. Các vilamin gồm có 2,9% caroten; 23mg% vita- min C; 0,10mg% vitamin Bl; 0,7% vitamin PP;
 
 0, 09 mg% vitamin B2. Ngoài ra còn nhiều chất nhầy.
 
@@ -2110,7 +2110,7 @@ Ta dùng toàn cây nhọ nồi (Herha Ecliptae) tươi hoặc khô.
 
 #### A. Mô tả cây
 
-Cỏ nhọ nồi là một loài cỏ mọc thẳng đứng có thể cao tới 80cm, thân có lông cứng. Lá mọc đối có lông ở hai mật, dài 2-8cm, rộng 5-15mm. Cụm hoa hình đầu màu trắng ở kẽ lá hoặc đầu cành, lá bắc thon dài 5-6mm, cũng có lông. Quả bế 3 cạnh, hoặc dẹt, có cánh, dài ĩmm, rông l,5mm, đầu cụt. Mọc hoang khắp nơi ở nước ca. (Hình 219, Hm 13,3)
+Cỏ nhọ nồi là một loài cỏ mọc thẳng đứng có thể cao tới 80cm, thân có lông cứng. Lá mọc đối có lông ở hai mật, dài 2-8cm, rộng 5-15mm. Cụm hoa hình đầu màu trắng ở kẽ lá hoặc đầu cành, lá bắc thon dài 5-6mm, cũng có lông. Quả bế 3 cạnh, hoặc dẹt, có cánh, dài ĩmm, rông 1,5mm, đầu cụt. Mọc hoang khắp nơi ở nước ca. (Hình 219, Hm 13,3)
 
 #### B. Thành phần hóa học
 

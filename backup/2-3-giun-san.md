@@ -396,7 +396,7 @@ Thuộc họ Cánh bướm Fabaceae (Papìỉionaceae).
 
 #### A. Mô tả cây
 
-Cây loại cỏ cao tới l,30m. Cành mọc vươn đài. Lá chỉ gổm một lá chét, mặt trên nhẩn, mật dưới có lông. Cụm hoa thưa dài l2-30cm, gồm nhiều hoa nhỏ.
+Cây loại cỏ cao tới 1,30m. Cành mọc vươn đài. Lá chỉ gổm một lá chét, mặt trên nhẩn, mật dưới có lông. Cụm hoa thưa dài l2-30cm, gồm nhiều hoa nhỏ.
 
 Nhiều quả không cuống chia làm 7-8 đốt, mỗi đốt đựng mộí hạt, đốt có cạnh, một cạnh khum tròn, một cạnh thẳng. Khi ta đi qua quả dính vào quần do trên quả có những lông móc ( Hình 103).
 
@@ -528,7 +528,7 @@ Thông ưa đất cát. Trồng thông bằng hạt. Sau
 
 4- 5 năm trồng thì bắt đầu tỉa, phải tỉa sao cho cành đụng nhau nhưng không xen kẽ vào nhau.
 
-Thường trồng thông sau 15-20 năm mới bất đầu khai thác nhụa. Khi ấy cây có đường vòng chừng 60cm. Thường người ta phân biệt hai loại thông: thông để sồng lâu, thì cứ 4 năm lấy nhựa một lần và chỉ lấy nhựa khi nơi thân cây cách mặt đất l,5m có đường vòng Im. Loại thông cần chặt đi cho quang bớt thì lấy nhựa cho đến hết. Sau đó ngả cây. Cầy thông cho nhựa nhiều nhất vào nãm 60 tuổi, sau đó lượng nhựa giảm đần.
+Thường trồng thông sau 15-20 năm mới bất đầu khai thác nhụa. Khi ấy cây có đường vòng chừng 60cm. Thường người ta phân biệt hai loại thông: thông để sồng lâu, thì cứ 4 năm lấy nhựa một lần và chỉ lấy nhựa khi nơi thân cây cách mặt đất 1,5m có đường vòng Im. Loại thông cần chặt đi cho quang bớt thì lấy nhựa cho đến hết. Sau đó ngả cây. Cầy thông cho nhựa nhiều nhất vào nãm 60 tuổi, sau đó lượng nhựa giảm đần.
 
 Thời gian lấy nhựa bắt đầu từ tháng 3 đến tháng 10. Nhưng ngay từ tháng hai, người ta đã cạo cho mỏng bớt vỏ trên một khoang rộng 10- 15cm, dài 60-80cm. Đến tháng ba, người ta dùng một loại cuốc nhỏ riêng đẽo một mảnh vô rộng khoảng 9cm, sâu 1 cm, vào lớp gỗ giác cao 3- 4cm.
 
@@ -586,7 +586,7 @@ Tên khoa học _*Agỉaonema siamense Engl. Thuộc họ Ráy Araceae.*_
 
 #### A. Mô tả cây
 
-Cây thảo cao 35-40cm, đường kính thân 1- l,5cm. Lá hình bầu dục thuôn dài, phía gốc tròn, phía trên hẹp nhọn dần, dài 15-20cm, rộng
+Cây thảo cao 35-40cm, đường kính thân 1- 1,5cm. Lá hình bầu dục thuôn dài, phía gốc tròn, phía trên hẹp nhọn dần, dài 15-20cm, rộng
 
 5-7cm, cuống dài 5-10cm có bẹ ôm lấy thân ở phía dưới. Cụm hoa tận cùng hay mọc ngang, mo dài 3,5-4,5cm trẽn điểm nhiều chấm trắng nhỏ, bóng mo dài 3,5cm, hình trụ, có chân ngắn, phần hoa cái ngăn cách phần hoa đực bởi những hoa trung tính hoặc bời những nhị lép. Quả mọng, thuôn dài, mặt điểm những chấm nhỏ trắng, dài 12-18mm, rộng 7-10mm ( Hình 106 ).
 
@@ -730,7 +730,7 @@ pimpineỉliỹoỉium Mill. Cùng năm đó, Kuhn và Low cũng chiết đượ
 
 Quả cà chua chứa các axit hữu cơ trong đó axit tactric, xitric, siiccinic và malic chiếm chủ yếu. Về giá trị dinh dưỡng, cà chua chứa 77% nước, 0,6% protit, 4% gluxit (sacccaroza, pec- tin), 0,7% xenluloza, 0,4% tro. Muối khoáng gồm
 
-u,4mg% Canxi, 24,7mg% p, l,3mg% Fe, các vitamin gổm l,9mg% caroten, 0,06mg% vítamin Bl, 0,04mg% vitamin B2, 0,5mg% vitamin pp và 38mg% vitamin c (Bảng thành phẩn hóc học thức ăn Việt nam - Nhà xuất bản Y học Hà nội, 1972). Có tác giả còn thấy vitamin p, vitamin K. Ngoài • ra còn lycopen, xanthophyle và quexcitrozit. Hạt cà chua chứa 25% một loại dầu béo thô, có thể ãn được sau khi tinh chế. Khô dầu hạ( cà chua có thể dùng làm thức ăn cho gia súc.
+u,4mg% Canxi, 24,7mg% p, 1,3mg% Fe, các vitamin gổm 1,9mg% caroten, 0,06mg% vítamin Bl, 0,04mg% vitamin B2, 0,5mg% vitamin pp và 38mg% vitamin c (Bảng thành phẩn hóc học thức ăn Việt nam - Nhà xuất bản Y học Hà nội, 1972). Có tác giả còn thấy vitamin p, vitamin K. Ngoài • ra còn lycopen, xanthophyle và quexcitrozit. Hạt cà chua chứa 25% một loại dầu béo thô, có thể ãn được sau khi tinh chế. Khô dầu hạ( cà chua có thể dùng làm thức ăn cho gia súc.
 
 D. Cồng dụng và liều dùng
 
@@ -758,7 +758,7 @@ Tên thổ kinh giới là tên Trung Quốc giới thiệu. Cần biết để 
 
 #### A. Mô tả cây
 
-Cây dầu giun là một loại cỏ sống hằng năm, nhưng cũng có khi ở đất tốt và cao ráo mọc 2-3 năm. Cao chừng lm-1,5m hay hơn. vỏ lá, thân và hoa có mùi hăng đặc biệt. Lá có cuống, mọc cách dài thon, một đầu nhọn, màu lục nhại, phiến lá không phảng, chung quanh có răng cưa thưa và khỏng rõ rệt, dài chừng 35-75mm, rộng 13- 25mm. Trên lá có lông, thưcmg ở các gân lá, nhất là ở mặt dưới. Hoa mọc tập trung thành xim đơm (glomerule) ở kẽ lá. Giữa chùm là hoa đực hay hoa lưỡng tính, xung quanh có hoa cái nhỏ và không có cuống. Đường kính hoa độ lmm, bao hoa có cánh hình bầu dục, hoa có 5 nhị, nhưng có khi chỉ có 3 hoặc 2, bầu hình bầu dục. Quả là những bế quả màu lục nhạt hay nâu nhạt, hình cầu, đường kính chừng l,5mm, cùi mỏng, có lá đài không rụng, trong chứa một hạt nhò đen và bóng. VỊ hắc đặc biệt.
+Cây dầu giun là một loại cỏ sống hằng năm, nhưng cũng có khi ở đất tốt và cao ráo mọc 2-3 năm. Cao chừng lm-1,5m hay hơn. vỏ lá, thân và hoa có mùi hăng đặc biệt. Lá có cuống, mọc cách dài thon, một đầu nhọn, màu lục nhại, phiến lá không phảng, chung quanh có răng cưa thưa và khỏng rõ rệt, dài chừng 35-75mm, rộng 13- 25mm. Trên lá có lông, thưcmg ở các gân lá, nhất là ở mặt dưới. Hoa mọc tập trung thành xim đơm (glomerule) ở kẽ lá. Giữa chùm là hoa đực hay hoa lưỡng tính, xung quanh có hoa cái nhỏ và không có cuống. Đường kính hoa độ lmm, bao hoa có cánh hình bầu dục, hoa có 5 nhị, nhưng có khi chỉ có 3 hoặc 2, bầu hình bầu dục. Quả là những bế quả màu lục nhạt hay nâu nhạt, hình cầu, đường kính chừng 1,5mm, cùi mỏng, có lá đài không rụng, trong chứa một hạt nhò đen và bóng. VỊ hắc đặc biệt.
 
 Thân cây non, lá, bầu hoa có lông thuộc 3 loại: lông che chở đa tế bào, lông che chờ đa tế bào nhưng tế bào sau cùng lớn hơn, thành góc với các tế bào khác và lông bài tiết, chân ngắn gồm 1 hay 2 tế bào, tận cùng bằng một tế bào phồng to lên. Hái toàn cây và hạt để cất tinh dầu
 
@@ -1074,7 +1074,7 @@ Ta dùng rẽ phơi hay sấy khô (Radix Stemonae) của cây bách bộ.
 
 Bách bộ là một thứ cây leo, dài 6-8m, có khi hơn. Thân nhò nhẵn. Lá thường mọc đối có cuống, hình trái tim. Trên mặt lá, ngoài gân chính có 6-8 gân phụ chạy đọc tù cuống lá đến đầu lá, có những gân ngang nhỏ và rõ. Cụm hoa mọc ò kẽ lá gồm 1-2 hoa, lớn, màu vàng đỏ. Bao hoa gồm bốn phiến, 2 phiến ngoài dài 4cm, rộng 5mm, 2 phiến trong rộng hơn. Nhị 4, có tua ngắn. Quả nang có 4 hạt (Hình 114, Hm 8,2).
 
-Rễ củ gổm 10 đến 20 hoặc 30 củ, có khi tới 100 củ dài 15-20cm, đường kính l,5-2cm. Màu trắng vàng, vị ngọt, sau rất đấng.
+Rễ củ gổm 10 đến 20 hoặc 30 củ, có khi tới 100 củ dài 15-20cm, đường kính 1,5-2cm. Màu trắng vàng, vị ngọt, sau rất đấng.
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -1234,7 +1234,7 @@ Nước sắc vỏ xoan còn dùng chữa bệnh viêm ầm đạo do tích trù
 
 Năm 1978, Phó Đức Thuần, Lê Đức Thọ và cộng sự (Tạp chí Đông V, 153, 23-30) đã nghiên cứu độc tính hoạt chất của vỏ nước xoan do Đỗ Tất Lợi và cộng sự đã chiết đuợc và đi tới những kết luận sau đây:
 
-a) Liều DL-50 của hoạt chât có phản ứng nhựa (đặt tên là melia 1) trên chuột nhắt sau 40 phút đầu tiên ]à l,491g/kg, sau 24 giờ là l,356g/kg và sau 48 giời là l,277g/kg, của hoạt chất có phản ứng của ancaloit (đặt tên là melia 2) là 4,375g/kg (sau 24 giờ) và 4,077g/kg (sau 48 giờ). Nếu so với DL-50 của santonin trong cùng điều kiện thí nghiệm là 0,485g/kg (sau 24 giờ) và 0,444g/kg (sau 48 giờ) thì melia 1 độc hơn melia 2 từ 3 đến 5 lần, và ít độc hơn satonin từ 2 đến 8 lần. Nếu so sánh liều DL-50 trung bình sau 24 giờ của melia 1 với liều thường dùng trên người để tẩy giun (lg đối với người lớn 50kg tức là 0,02g/kg) thì ta thấy biên độ an toàn của thuốc rất lớn: 1,277/0,02: 63,85 (hơn 60 lần). Điều này thể hiện trong việc sử dụng thăm dò hoạt chất này trong 8 nãm (từ 1970 đến 1978) chưa thấy gây ra tác dụng phụ nào đáng kể, trong khi qua tài liệu công bố của Trung y viên Trùng Khánh (Trung Quốc) có tới 40% bệnh nhân uống thuốc xoan thấy choáng váng, buồn ngù, mặt đỏ nhưng chóng hết.
+a) Liều DL-50 của hoạt chât có phản ứng nhựa (đặt tên là melia 1) trên chuột nhắt sau 40 phút đầu tiên ]à 1,491g/kg, sau 24 giờ là 1,356g/kg và sau 48 giời là 1,277g/kg, của hoạt chất có phản ứng của ancaloit (đặt tên là melia 2) là 4,375g/kg (sau 24 giờ) và 4,077g/kg (sau 48 giờ). Nếu so với DL-50 của santonin trong cùng điều kiện thí nghiệm là 0,485g/kg (sau 24 giờ) và 0,444g/kg (sau 48 giờ) thì melia 1 độc hơn melia 2 từ 3 đến 5 lần, và ít độc hơn satonin từ 2 đến 8 lần. Nếu so sánh liều DL-50 trung bình sau 24 giờ của melia 1 với liều thường dùng trên người để tẩy giun (lg đối với người lớn 50kg tức là 0,02g/kg) thì ta thấy biên độ an toàn của thuốc rất lớn: 1,277/0,02: 63,85 (hơn 60 lần). Điều này thể hiện trong việc sử dụng thăm dò hoạt chất này trong 8 nãm (từ 1970 đến 1978) chưa thấy gây ra tác dụng phụ nào đáng kể, trong khi qua tài liệu công bố của Trung y viên Trùng Khánh (Trung Quốc) có tới 40% bệnh nhân uống thuốc xoan thấy choáng váng, buồn ngù, mặt đỏ nhưng chóng hết.
 
 b) Trên súc vật chết sớm (sau 40 phút) mổ ngay thấy tình trạng xung huyết ờ các phù tạng. Gan thoái hóa mờ nhẹ, có súc vật không thấy có biến đổi gì ngoài tình trạng xung huyết. Trên chuột mổ để xét nghiệm sống sau 72 giờ thấy có tổn thương ở gan, thận, ruột. Gan thoái hóa mỡ, ruột có đoạn quá sản, lốp liên bào trên mặt
 
@@ -1272,7 +1272,7 @@ Trẻ từ 4 tuổi : ngày uống từ 0,35 đến 0,50g.
 
 Trẻ từ 5 tuổi : ngày uống từ 0,70 đến lg.
 
-Trẻ từ 10 tuổi trở xuống: ngày uống từ Ig đến l,5g.
+Trẻ từ 10 tuổi trở xuống: ngày uống từ Ig đến 1,5g.
 
 Trẻ từ 15 tuổi trở xuống: ngày uống từ 1,50 đến 2g.
 
@@ -1314,7 +1314,7 @@ Cây mọc hoang ỏ các đồi thành từng bụi cao chừng l-2m. Thân mà
 
 (1) Tên gọi ở tỉnh Phú Thọ.
 
-dọc rất rõ, bì khổng nhỏ như hạt kê. Lá mọc so le, hình lưỡi mác, mặt dưới nhạt hơn, dài 4,5- 5cm, rộng l,5-2cm. Phiến ờ phía cuống hẹp nhọn. Cuống ngắn 5-6mm.
+dọc rất rõ, bì khổng nhỏ như hạt kê. Lá mọc so le, hình lưỡi mác, mặt dưới nhạt hơn, dài 4,5- 5cm, rộng 1,5-2cm. Phiến ờ phía cuống hẹp nhọn. Cuống ngắn 5-6mm.
 
 Khi quả chín hái về xát sạch vỏ, phơi khô; khi dùng tán nhỏ. Vị lúc đầu ngọt sau chua và hơi tê tê. (Hinh 116)
 
@@ -1400,7 +1400,7 @@ Người ta dùng quả và vỏ cây Chân bầu.
 
 A. Mò tả cây
 
-Cây nhỏ cao từ 2 đến I2m. Khi còn non có cành hình 4 cạnh, 4 mép có dìa như cánh. Lá thường mọc đối, hình trứng dài, đầu lá tròn hay hơi rộng ra, cả hai mặt nhất là mặt dưới đều có lông. Chiều dài của lá 3-7,5cm, rộng l,5-4cm. Hoa nhỏ mọc thành bông ở kẽ lá và đầu cành. Quả dài 18-20mm, rộng 7-8mm có 4 cánh mỏng. Hạt hình thoi rộng 4mm (Hình 118, Hm
+Cây nhỏ cao từ 2 đến I2m. Khi còn non có cành hình 4 cạnh, 4 mép có dìa như cánh. Lá thường mọc đối, hình trứng dài, đầu lá tròn hay hơi rộng ra, cả hai mặt nhất là mặt dưới đều có lông. Chiều dài của lá 3-7,5cm, rộng 1,5-4cm. Hoa nhỏ mọc thành bông ở kẽ lá và đầu cành. Quả dài 18-20mm, rộng 7-8mm có 4 cánh mỏng. Hạt hình thoi rộng 4mm (Hình 118, Hm
 
 16,1) , có'đìa.
 
@@ -2138,7 +2138,7 @@ Ngoài ra, theo một tác gìả khác, trong rau sam có glucozit, saponin, ch
 
 Theo B. E. Read, (1940, Chín. J. Physioỉo. 15 (]): 9-17) thì mỗi lOOg rau sam tươi có 100 gama vitamin Br mỗi lOOg khô có 40 gama vi- tamin Br
 
-Theo Viện vệ sinh Hà Nội (1972) rau sam Việt Nam có 1,4% protit, 3% gluxit, 1,3% tro, 85mg% canxì, 5,6mg%p, l,5mg% sắt, 26mg% vitamin c, 0,32mg% caroten, 0,03mg% vitamin Br 0,llmg% vitamin B2 và 0,7mg% vitamin pp.
+Theo Viện vệ sinh Hà Nội (1972) rau sam Việt Nam có 1,4% protit, 3% gluxit, 1,3% tro, 85mg% canxì, 5,6mg%p, 1,5mg% sắt, 26mg% vitamin c, 0,32mg% caroten, 0,03mg% vitamin Br 0,llmg% vitamin B2 và 0,7mg% vitamin pp.
 
 Nghiên cứu rau sam ờ Đài Loan, người ta thấy có axit hữu cơ, kali nitrat, kali suníat và muối kali khác, cây tươi chứa chừng 1% muối kali, cây khô chứa 10% muối kali (theo Dược học tạp chí của Nhật Bản, 1944, quyển 64. (3): 177-178). Trong tài liệu này còn nói nhân dân Đài Loan dùng rau sam chữa bệnh cước khí thủy thủng, tiểu tiện khó khăn, giải độc; tác giả kết luân là vì trong rau sam có muối kali oxalat, axit làm thông tiểu cho nên có tác dụng giải độc.
 

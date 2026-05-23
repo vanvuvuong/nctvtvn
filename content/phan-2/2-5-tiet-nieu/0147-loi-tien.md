@@ -43,7 +43,7 @@ Tại Trung Quoc, ngoài rễ cây hoa hiên Hemerocaỉlis Ịuỉva ra, ngư�
 
 H. minor Mill. ở nước ta tên khoa học chưa được xác định chác chắn, theo kinh nghiêm loại hoa vàng có tác dụng mạnh hơn loại hoa đỏ.
 
-dưới màu nhạt hơn, hay như có phẫn. Cuống lá dài 3-5cm, đính vào khoảng 1/4 phiến lá. Từ cuống tỏa ra 10 gân chính, nổi ở mật dưới. Cụm hoa hình tán. Cuống cụm hoa dài l,5-3cm, mang
+dưới màu nhạt hơn, hay như có phẫn. Cuống lá dài 3-5cm, đính vào khoảng 1/4 phiến lá. Từ cuống tỏa ra 10 gân chính, nổi ở mật dưới. Cụm hoa hình tán. Cuống cụm hoa dài 1,5-3cm, mang
 
 3- 8 hoa nhỏ. Hoa có cuống, rất ngắn. Quả hạch, khi chín có màu đỏ tươi, dài độ 6mm, rộng 4- 5mm. Hạt hình móng ngựa dài. Ra hoa mùa hạ, mùa thu ( Hình 179, Hm 48,4 ).
 
