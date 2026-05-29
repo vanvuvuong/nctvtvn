@@ -3,6 +3,13 @@ title: "288. KIM SƯƠNG"
 weight: 288
 navWeight: 713
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - kim sương
+  - Micromelum Ịaìcaium
+  - chữa tê thấp
+  - chữa đau nhức
+  - chữa kinh nguyệt không đều
 ---
 
 

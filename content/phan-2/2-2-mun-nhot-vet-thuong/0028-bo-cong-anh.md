@@ -3,6 +3,15 @@ title: "28. BỒ CÔNG ANH"
 weight: 28
 navWeight: 973
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - bồ công anh
+  - Lactuca indica L
+  - chữa sưng vú
+  - chữa đau dạ dày
+  - chữa bệnh sưng vú
+  - chữa bệnh đau dạ dày
+  - chữa ăn uống kém tiêu
 ---
 
 

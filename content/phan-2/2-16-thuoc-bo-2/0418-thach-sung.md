@@ -3,6 +3,16 @@ title: "418. THẠCH SÙNG 宁宮"
 weight: 418
 navWeight: 583
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - thạch sùng
+  - Hemidactylus frenatus Schlegel
+  - 宁宮
+  - trừ phong
+  - chữa mụn nhọt
+  - trị cam lỵ trẻ con
+  - chữa đau các khớp xương
+  - dùng làm thuốc với tên thủ cung
 ---
 
 

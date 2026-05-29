@@ -3,6 +3,15 @@ title: "30. KIM NGÂN"
 weight: 30
 navWeight: 971
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - kim ngân
+  - Lonicera japonica Thunb
+  - giải độc
+  - chữa sốt
+  - thông tiểu
+  - chữa mụn nhọt
+  - chữa có kết quả một số trường hợp viêm mũi dị ứng
 ---
 
 

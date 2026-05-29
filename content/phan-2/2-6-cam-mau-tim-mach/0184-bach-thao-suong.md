@@ -3,6 +3,15 @@ title: "184. BÁCH THẢO SƯƠNG"
 weight: 184
 navWeight: 817
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - bách thảo sương
+  - cầm máu
+  - giải độc
+  - chữa tả lỵ
+  - chữa chốc đầu
+  - chữa chảy máu cam
+  - chữa chảy máu chân răng
 ---
 
 

@@ -3,6 +3,13 @@ title: "210. TỎI ĐỘC"
 weight: 210
 navWeight: 791
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - tỏi độc
+  - Colchicum autumnale L
+  - làm thuốc
+  - chữa bệnh thống phong
+  - kích thích để tạo những giống cây nhiều quả
 ---
 
 

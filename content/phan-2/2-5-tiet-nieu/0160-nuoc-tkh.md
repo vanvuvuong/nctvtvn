@@ -3,6 +3,17 @@ title: "160. NƯỚC TKH"
 weight: 160
 navWeight: 841
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - nước tkh
+  - chữa sốt
+  - chữa mắt
+  - chữa sài đầu
+  - chữa rán cán
+  - chữa 25 người
+  - chữa bệnh ngoài da
+  - trị bệnh nhân kiêng mỡ
+  - trị 37 trường hợp đái ra dưỡng chấp
 ---
 
 

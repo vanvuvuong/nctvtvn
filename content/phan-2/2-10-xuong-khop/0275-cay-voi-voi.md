@@ -3,6 +3,11 @@ title: "275. CÂY VÒI VOI"
 weight: 275
 navWeight: 726
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - cây vòi voi
+  - Heliotropium indicum L
+  - làm thuốc
 ---
 
 

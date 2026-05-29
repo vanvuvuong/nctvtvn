@@ -3,6 +3,10 @@ title: "100. Đơn thuốc có găng tu hú"
 weight: 100
 navWeight: 901
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - đơn thuốc có găng tu hú
+  - chữa mụn nhọt
 ---
 
 

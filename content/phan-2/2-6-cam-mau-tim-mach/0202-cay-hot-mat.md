@@ -3,6 +3,12 @@ title: "202. CÂY HỘT MÁT"
 weight: 202
 navWeight: 799
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây hột mát
+  - Antheroporum pierrei Gagnep
+  - dùng làm thuốc
+  - làm thuốc trừ sâu bọ hại hoa màu
 ---
 
 

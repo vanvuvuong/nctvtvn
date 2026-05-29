@@ -3,6 +3,12 @@ title: "260. ĐẬU CỌC RÀO"
 weight: 260
 navWeight: 741
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - đậu cọc rào
+  - Jatropha curcas L
+  - chữa tê liệt
+  - chữa thấp khớp
 ---
 
 

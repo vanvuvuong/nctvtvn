@@ -3,6 +3,11 @@ title: "231. HỒNG ĐẬU"
 weight: 231
 navWeight: 770
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - hồng đậu
+  - Alpinia ga
+  - chữa nôn mửa
 ---
 
 

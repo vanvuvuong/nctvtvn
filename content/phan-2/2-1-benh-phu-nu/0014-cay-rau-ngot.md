@@ -3,6 +3,15 @@ title: "14. CÂY RAU NGÓT 冬闽菜"
 weight: 14
 navWeight: 987
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cây rau ngót
+  - Sauropus androgynus
+  - 冬闽菜
+  - chữa hóc
+  - chữa tưa lưỡi
+  - chữa sót nhau
+  - chữa chậm kinh có kết quả
 ---
 
 _Còn gọi là_ bồ ngót, bù ngót, hắc diện thần (Trung Quốc).

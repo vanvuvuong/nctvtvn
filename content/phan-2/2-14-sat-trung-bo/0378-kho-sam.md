@@ -3,6 +3,10 @@ title: "378. KHỔ SÂM"
 weight: 378
 navWeight: 623
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - khổ sâm
+  - chữa lỵ
 ---
 
 

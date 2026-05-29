@@ -3,6 +3,17 @@ title: "123. CÂY THẠCH Lựu M"
 weight: 123
 navWeight: 878
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - cây thạch lựu m
+  - Punica granalum L
+  - chữa sốt rét
+  - chữa viêm ruột
+  - chữa sán cho người
+  - chữa ưẻ con chốc đầu
+  - thuốc thông tiểu tiện
+  - làm thuốc giúp sự tiêu hóa
+  - lợi tiểu với tên đại phúc bì
 ---
 
 

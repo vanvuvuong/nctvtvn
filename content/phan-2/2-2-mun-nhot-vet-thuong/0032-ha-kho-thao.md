@@ -3,6 +3,21 @@ title: "32. HẠ KHÔ THẢO 夏枯草"
 weight: 32
 navWeight: 969
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - hạ khô thảo
+  - Brunella
+  - 夏枯草
+  - chữa loa lịch
+  - chữa tràng nhạc
+  - thông tiểu tiện
+  - chữa chứng đau mắt
+  - chữa xích bạch đới
+  - chữa bệnh cao huyết áp
+  - chữa chứng đau nhức con ngươi
+  - hạ huyết áp lâu dài trên bệnh nhân
+  - lợi tiểu rõ rệt như các muối kali khác
+  - chữa bệnh nhức mắt rất công hiệu như sau
 ---
 
 

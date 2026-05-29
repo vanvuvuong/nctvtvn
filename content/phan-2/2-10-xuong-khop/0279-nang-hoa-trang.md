@@ -3,6 +3,10 @@ title: "279. NÁNG HOA TRẮNG"
 weight: 279
 navWeight: 722
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - náng hoa trắng
+  - Crìnum asiatỉcum L
 ---
 
 

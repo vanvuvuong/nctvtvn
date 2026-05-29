@@ -3,6 +3,14 @@ title: "358. BẠCH ĐÀN VÀ TINH DẦU BẠCH ĐÀN 白壇"
 weight: 358
 navWeight: 643
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - bạch đàn và tinh dầu bạch đàn
+  - Eucalyptus globulus Labill
+  - 白壇
+  - chữa ho
+  - làm thuốc ra
+  - làm thuốc nhỏ mũi
 ---
 
 

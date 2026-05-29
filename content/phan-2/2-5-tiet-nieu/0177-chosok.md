@@ -3,6 +3,14 @@ title: "177. C„H“O₇SO₃K."
 weight: 177
 navWeight: 824
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - c„h“o₇so₃k.
+  - cầm máu
+  - chữa giun
+  - thông tiểu
+  - chữa rắn cắn
+  - làm thuốc săn
 ---
 
 

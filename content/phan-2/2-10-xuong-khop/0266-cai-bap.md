@@ -3,6 +3,15 @@ title: "266. CẢI BẮP"
 weight: 266
 navWeight: 735
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - cải bắp
+  - Brơssica oỉeracea L
+  - cầm máu
+  - chữa thong manh
+  - chữa đầu choáng mắt hoa
+  - làm thuốc chửa thong manh
+  - chữa bệnh đau dạ dày thừa nước chua
 ---
 
 

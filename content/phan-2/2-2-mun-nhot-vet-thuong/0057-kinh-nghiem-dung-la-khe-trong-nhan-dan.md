@@ -3,6 +3,10 @@ title: "57. Kinh nghiệm dùng lá khế trong nhân dân"
 weight: 57
 navWeight: 944
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - kinh nghiệm dùng lá khế trong nhân dân
+  - chữa sơn lở
 ---
 
 

@@ -3,6 +3,13 @@ title: "45. BỒ CU VẼ"
 weight: 45
 navWeight: 956
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - bồ cu vẽ
+  - Breynia fruticosa Hool. F
+  - cầm máu
+  - chữa rắn cắn
+  - chữa bệnh giun chỉ
 ---
 
 

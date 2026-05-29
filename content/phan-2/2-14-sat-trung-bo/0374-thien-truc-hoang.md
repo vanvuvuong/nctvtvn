@@ -3,6 +3,18 @@ title: "374. THIÊN TRÚC HOÀNG 天竹黄"
 weight: 374
 navWeight: 627
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - thiên trúc hoàng
+  - Concretio silicea Bambusa hay Tabashir
+  - 天竹黄
+  - an thần
+  - chữa ho
+  - trừ đờm
+  - chữa các bệnh về não
+  - chữa trẻ con bị kinh giật
+  - chữa các trường hợp sốt mê man
+  - chữa người lớn trúng phong cấm khẩu
 ---
 
 

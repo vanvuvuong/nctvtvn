@@ -3,6 +3,13 @@ title: "323. CÂY TRÚC ĐÀO 夹竹桃"
 weight: 323
 navWeight: 678
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - cây trúc đào
+  - Nerium oleander L
+  - 夹竹桃
+  - chữa tim
+  - trị ở bệnh viện việt-tiệp hải phòng
 ---
 
 

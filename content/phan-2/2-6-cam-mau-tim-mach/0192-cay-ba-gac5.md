@@ -3,6 +3,13 @@ title: "192. CÂY BA GẠC[5"
 weight: 192
 navWeight: 809
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây ba gạc[5
+  - Rauvolfia verticillata
+  - an thần
+  - chữa cao huyết áp
+  - trị có thể kéo dài nhưng thường
 ---
 
 

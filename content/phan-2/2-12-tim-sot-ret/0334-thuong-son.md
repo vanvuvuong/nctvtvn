@@ -3,6 +3,19 @@ title: "334. THƯỜNG SƠN 常山"
 weight: 334
 navWeight: 667
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - thường sơn
+  - Dichroa febrifuga Lour
+  - 常山
+  - chữa ho
+  - lợi tiểu
+  - chữa trừ ve
+  - chữa sốt rét
+  - chữa sốt thường
+  - thông tiểu tiện
+  - chữa bệnh sốt rét
+  - chữa các chứng sốt rét
 ---
 
 

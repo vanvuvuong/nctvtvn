@@ -3,6 +3,18 @@ title: "384. HOÀNG TINH黄精"
 weight: 384
 navWeight: 617
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - hoàng tinh
+  - Polygonatum kingianum Coll. et Hemsl
+  - 黄精
+  - bổ âm
+  - bổ huyết
+  - trị lao thương
+  - dùng làm thuốc
+  - chữa tì vị hư nhược
+  - làm thuốc bổ ngũ lao
+  - thuốc bổ dùng cho người yếu
 ---
 
 

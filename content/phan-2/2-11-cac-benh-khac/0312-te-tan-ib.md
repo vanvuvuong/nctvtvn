@@ -3,6 +3,11 @@ title: "312. TẾ TÂN IB¥"
 weight: 312
 navWeight: 689
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - tế tân ib¥
+  - Asarum sieb
+  - chữa cảm lạnh
 ---
 
 

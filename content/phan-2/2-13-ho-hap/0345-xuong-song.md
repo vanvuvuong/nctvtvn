@@ -3,6 +3,12 @@ title: "345. XƯƠNG SÔNG"
 weight: 345
 navWeight: 656
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - xương sông
+  - Blumea myriocephala DC. Conyza lanceolaria
+  - chữa ho
+  - chữa cảm sốt
 ---
 
 

@@ -3,6 +3,14 @@ title: "245. NGŨ BỘI TỬ"
 weight: 245
 navWeight: 756
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - ngũ bội tử
+  - Gaỉỉa sinensis
+  - giải độc
+  - chữa phế hư sinh ho
+  - chữa đau bụng đi ỉa lỏng
+  - dùng làm thuốc thu liễm trang bệnh đi ỉa lỏng
 ---
 
 

@@ -3,6 +3,11 @@ title: "147. LÕI TIỂN"
 weight: 147
 navWeight: 854
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - lõi tiển
+  - Stephania ỉonga Lour
+  - chữa các triệu chúng tiểu tiện khó khăn
 ---
 
 

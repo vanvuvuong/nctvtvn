@@ -3,6 +3,15 @@ title: "222. BẠCH TRUẬT, THƯƠNG TRUẬT"
 weight: 222
 navWeight: 779
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - bạch truật, thương truật
+  - Atractylodes macrocephala Koidz. A
+  - trị hãn
+  - chữa sốt
+  - lợi tiểu
+  - thuốc bổ bổi dưỡng
+  - chữa tỳ hư trướng mãn hung cách phiền muộn
 ---
 
 

@@ -3,6 +3,12 @@ title: "253. KHOAI LANG 番薯"
 weight: 253
 navWeight: 748
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - khoai lang
+  - Ipomoea batatas
+  - 番薯
+  - làm thuốc nhuận tràng
 ---
 
 

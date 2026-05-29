@@ -3,6 +3,14 @@ title: "235. MÀNG TANG o Mí"
 weight: 235
 navWeight: 766
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - màng tang o mí
+  - Lìtsea cubeba
+  - làm thuốc
+  - chữa rắn cắn
+  - chữa đau bụng
+  - chữa nhức đâu
 ---
 
 

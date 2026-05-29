@@ -3,6 +3,15 @@ title: "101. HUYẾT KIỆT"
 weight: 101
 navWeight: 900
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - huyết kiệt
+  - Calamus draco Willd
+  - cầm máu
+  - hoạt huyết
+  - làm thuốc bổ
+  - chữa cháy máu cam
+  - trị bị đánh tổn thương
 ---
 
 

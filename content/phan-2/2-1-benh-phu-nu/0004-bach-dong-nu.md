@@ -3,6 +3,13 @@ title: "4. BẠCH ĐỒNG NỮ 白侗女"
 weight: 4
 navWeight: 997
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - bạch đồng nữ
+  - Clerodendron fragrans Vent
+  - 白侗女
+  - chữa bệnh khí hư
+  - chữa bệnh vàng da
 ---
 
 _Còn gọi là_ bần trắng, vậy trắng, mấn trắng, mò trắng.

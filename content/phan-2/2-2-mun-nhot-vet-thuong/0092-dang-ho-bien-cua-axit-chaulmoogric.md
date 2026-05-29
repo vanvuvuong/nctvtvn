@@ -3,6 +3,9 @@ title: "92. Dạng hỗ biến của axit chaulmoogric"
 weight: 92
 navWeight: 909
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - dạng hỗ biến của axit chaulmoogric
 ---
 
 

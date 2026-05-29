@@ -3,6 +3,11 @@ title: "324. VẠN NIÊN THANH 萬年青"
 weight: 324
 navWeight: 677
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - vạn niên thanh
+  - Rhodea japonica Roth
+  - 萬年青
 ---
 
 

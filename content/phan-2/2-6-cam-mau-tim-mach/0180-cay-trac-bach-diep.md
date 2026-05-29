@@ -3,6 +3,16 @@ title: "180. CÂY TRẮC BÁCH DIỆP"
 weight: 180
 navWeight: 821
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây trắc bách diệp
+  - Thuja orientalis L
+  - bổ tâm
+  - cầm máu
+  - chữa ho
+  - lợi tiểu tiện
+  - chữa thổ huyết
+  - chữa hồi hộp mất ngủ
 ---
 
 

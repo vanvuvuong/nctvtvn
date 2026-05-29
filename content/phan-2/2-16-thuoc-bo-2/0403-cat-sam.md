@@ -3,6 +3,14 @@ title: "403. CÁT SÂM"
 weight: 403
 navWeight: 598
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - cát sâm
+  - Millettia speciosa Champ
+  - chữa sốt
+  - thuốc bổ mát
+  - chữa đau nhức thấp khớp
+  - thuốc bổ dùng cho những người yếu
 ---
 
 

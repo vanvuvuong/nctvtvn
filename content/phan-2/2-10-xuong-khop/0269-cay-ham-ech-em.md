@@ -3,6 +3,11 @@ title: "269. CÂY HÀM ẾCH =ẼM"
 weight: 269
 navWeight: 732
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - cây hàm ếch =ẽm
+  - Saururus sinensis Baill
+  - chữa bệnh thủy thũng
 ---
 
 

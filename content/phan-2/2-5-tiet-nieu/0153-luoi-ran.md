@@ -3,6 +3,14 @@ title: "153. LƯỠI RẮN"
 weight: 153
 navWeight: 848
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - lưỡi rắn
+  - Oldenlandia corymbosa L
+  - chữa ho
+  - chữa sốt
+  - chữa đau nhức xương cổt
+  - chữa sớt quá hóa điên cuồng
 ---
 
 

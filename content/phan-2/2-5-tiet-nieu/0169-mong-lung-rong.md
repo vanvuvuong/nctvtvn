@@ -3,6 +3,16 @@ title: "169. MÓNG LUNG RỔNG"
 weight: 169
 navWeight: 832
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - móng lung rổng
+  - Selaginella tamariscina
+  - cầm máu
+  - phá huyết
+  - chữa bỏng
+  - chữa vàng da
+  - chữa váng đầu
+  - chữa ho ra máu
 ---
 
 

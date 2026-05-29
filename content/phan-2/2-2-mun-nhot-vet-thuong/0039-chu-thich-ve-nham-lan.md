@@ -3,6 +3,17 @@ title: "39. Chú thích về nhầm lẫn"
 weight: 39
 navWeight: 962
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - chú thích về nhầm lẫn
+  - thông tiểu
+  - chữa viêm tấy
+  - chữa viêm phổi
+  - trị viêm amyđan cấp tính
+  - dùng làm thuốc ở nước ta
+  - dùng làm thuốc giúp sự tiêu hóa
+  - chữa mụn nhọt đầu đinh kết quả rất tốt
+  - chữa 120 trường hợp bạch hầu có kết quả đạt 96
 ---
 
 

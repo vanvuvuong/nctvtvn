@@ -3,6 +3,10 @@ title: "356. TRÀM VÀ KHUYNH DIỆP 白千層"
 weight: 356
 navWeight: 645
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - tràm và khuynh diệp
+  - 白千層
 ---
 
 

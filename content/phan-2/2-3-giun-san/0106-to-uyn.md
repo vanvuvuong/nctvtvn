@@ -3,6 +3,17 @@ title: "106. Tơ UYN"
 weight: 106
 navWeight: 895
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - tơ uyn
+  - Raphìdophora decursìva Schott
+  - trị a
+  - làm thuốc
+  - trị tại chỗ
+  - trị bằng lân to uyn
+  - kích thích da non phát triển
+  - trị trên 357 trường hợp đã đi tới những kết luận
+  - kích thích tổ chức hạt non ở vết thương phát triển nhanh
 ---
 
 

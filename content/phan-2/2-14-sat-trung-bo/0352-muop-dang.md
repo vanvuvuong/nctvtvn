@@ -3,6 +3,17 @@ title: "352. MƯỚP ĐẮNG 苦瓜"
 weight: 352
 navWeight: 649
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - mướp đắng
+  - Momordica charantia L
+  - 苦瓜
+  - chữa ho
+  - chữa sốt
+  - làm thuốc
+  - thuốc tẩy
+  - chữa giun
+  - chữa bệnh đái đường
 ---
 
 

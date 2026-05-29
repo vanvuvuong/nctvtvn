@@ -3,6 +3,20 @@ title: "411. XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT"
 weight: 411
 navWeight: 590
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - xxi. các vị thuốc bổ nguồn gốc động vật
+  - Cornu Cervi parvum
+  - bổ can
+  - hoạt huyết
+  - tiêu thũng
+  - chữa mệt mỏi
+  - chữa liệt dương
+  - dùng làm thuốc 1
+  - dùng làm thuốc bổ
+  - chữa hư lao gầy yếu
+  - chữa sang thương thũng độc
+  - bổ thận tráng dương ôn trung
 ---
 
 

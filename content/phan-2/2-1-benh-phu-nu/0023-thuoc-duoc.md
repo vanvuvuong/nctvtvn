@@ -3,6 +3,17 @@ title: "23. THƯỢC DƯỢC"
 weight: 23
 navWeight: 978
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - thược dược
+  - Paeonia lactiflora Pall
+  - lợi tiểu
+  - giảm đau
+  - thông kinh
+  - chữa 2 chân
+  - chữa đau bụng
+  - chữa phụ nữ bế kinh
+  - chữa đầu nhức mắt hoa
 ---
 
 Trên thị trường có hai loại thược dược:

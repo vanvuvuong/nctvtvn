@@ -3,6 +3,17 @@ title: "412. XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT"
 weight: 412
 navWeight: 589
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - xxii. các vị thuốc khác nguồn gốc động vật
+  - Bombyx cum Botryte
+  - chữa kinh giản
+  - chữa mặt đen sạm
+  - chữa thiên đầu thống
+  - chữa viêm amiđan cấp tính
+  - làm thuốc thì gọi là toàn yết
+  - chữa những trường hợp kinh giản
+  - chữa những vết đen sạm trên mặt
 ---
 
 

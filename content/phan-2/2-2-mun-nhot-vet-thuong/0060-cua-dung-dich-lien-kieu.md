@@ -3,6 +3,17 @@ title: "60. của dung dịch liên kiều"
 weight: 60
 navWeight: 941
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - của dung dịch liên kiều
+  - giải độc
+  - sát trùng
+  - tiêu thũng
+  - chữa nôn mửa
+  - chữa mụn nhọt
+  - chữa sang thũng
+  - thông tiểu tiện
+  - thông kinh nguyệt
 ---
 
 

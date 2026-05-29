@@ -3,6 +3,11 @@ title: "389. BẠNG HOA"
 weight: 389
 navWeight: 612
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - bạng hoa
+  - Rhoeo discolor
+  - chữa các chứng ho ra máu
 ---
 
 

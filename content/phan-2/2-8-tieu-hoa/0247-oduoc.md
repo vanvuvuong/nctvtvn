@@ -3,6 +3,12 @@ title: "247. ÔDƯỢC"
 weight: 247
 navWeight: 754
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - ôdược
+  - Lindera myrrha
+  - chữa lỵ
+  - chữa đau bụng
 ---
 
 

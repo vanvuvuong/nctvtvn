@@ -3,6 +3,13 @@ title: "254. CHÚT CHÍT"
 weight: 254
 navWeight: 747
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - chút chít
+  - Rumex wallichii Meisn
+  - thuốc tẩy
+  - chữa bệnh táo bón
+  - làm thuốc nhuận tràng
 ---
 
 

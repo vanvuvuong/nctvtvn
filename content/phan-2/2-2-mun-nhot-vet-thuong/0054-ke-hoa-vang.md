@@ -3,6 +3,12 @@ title: "54. KÉ HOA VÀNG"
 weight: 54
 navWeight: 947
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - ké hoa vàng
+  - Sida rhombifolia L
+  - làm thuốc
+  - chữa mụn nhọt
 ---
 
 

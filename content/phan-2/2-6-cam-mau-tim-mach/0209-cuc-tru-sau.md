@@ -3,6 +3,12 @@ title: "209. CÚC TRỪ SÂU"
 weight: 209
 navWeight: 792
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cúc trừ sâu
+  - Chrysanthemum cinerariaefolium Vis
+  - làm thuốc
+  - kích thích nhưng không bay
 ---
 
 

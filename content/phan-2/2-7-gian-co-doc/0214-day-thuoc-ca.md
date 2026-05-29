@@ -3,6 +3,15 @@ title: "214. DÂY THUỐC CÁ"
 weight: 214
 navWeight: 787
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giãn cơ và thuốc độc
+  - dây thuốc cá
+  - Derris elliptica Benth
+  - cầm máu
+  - chữa lỵ
+  - tẩy giun
+  - chữa ghẻ
+  - chữa bệnh ở bộ máy tiêu hóa sơn tra 山楂 còn gọi là bắc sơn tra
 ---
 
 

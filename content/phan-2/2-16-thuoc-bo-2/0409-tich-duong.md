@@ -3,6 +3,17 @@ title: "409. TÍCH DƯƠNG"
 weight: 409
 navWeight: 592
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - tích dương
+  - Caulis Cynomorli-Herba Cynomorli
+  - lợi sữa
+  - điều kinh
+  - thông mật
+  - làm thuốc bổ
+  - chữa suy yếu
+  - làm thuốc nhuận tẩy nhẹ
+  - chữa những bệnh tương tự
 ---
 
 

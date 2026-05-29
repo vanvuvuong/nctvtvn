@@ -3,6 +3,20 @@ title: "337. KHƯƠNG HOẠT 羌活"
 weight: 337
 navWeight: 664
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - khương hoạt
+  - Rhizoma Notopterygii
+  - 羌活
+  - chữa tê
+  - trừ phong
+  - chữa nhức đầu
+  - chữa cảm nói ngọng
+  - chữa chứng thủy thấp phong
+  - chữa người có thai bị phù thũng
+  - chữa chứng thủng phấp phục phong
+  - chữa các chứng du phong nhức đầu
+  - chữa các chứng phong ẩn náu làm cho nhức đầu
 ---
 
 

@@ -3,6 +3,13 @@ title: "368. CẢI CÚC"
 weight: 368
 navWeight: 633
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - cải cúc
+  - Chrysanthemum coronarium L
+  - chữa ho
+  - làm thuốc
+  - chữa đau mắt
 ---
 
 

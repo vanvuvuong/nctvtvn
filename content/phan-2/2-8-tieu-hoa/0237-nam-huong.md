@@ -3,6 +3,12 @@ title: "237. NẤM HƯƠNG"
 weight: 237
 navWeight: 764
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - nấm hương
+  - Lentinus edodes
+  - chữa lỵ
+  - trị cao trên thị
 ---
 
 

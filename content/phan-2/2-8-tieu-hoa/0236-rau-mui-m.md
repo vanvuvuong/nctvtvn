@@ -3,6 +3,16 @@ title: "236. RAU MỪI m"
 weight: 236
 navWeight: 765
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - rau mừi m
+  - Coriandrum sativum L
+  - chữa ho
+  - long đờm
+  - kích thích
+  - giúp tiêu hóa
+  - làm thuốc trung tiên
+  - dùng làm thuốc mạnh dạ dày
 ---
 
 

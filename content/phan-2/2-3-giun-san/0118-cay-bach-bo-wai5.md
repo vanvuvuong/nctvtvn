@@ -3,6 +3,13 @@ title: "118. CÂY BÁCH BỘ WẵỊ5"
 weight: 118
 navWeight: 883
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - cây bách bộ wẵị5
+  - Stemona tuberosa Lour
+  - chữa giun
+  - chữa 133 người
+  - trị luôn như vậy
 ---
 
 

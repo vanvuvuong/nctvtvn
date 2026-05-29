@@ -3,6 +3,17 @@ title: "287. HOÀNG NÀN"
 weight: 287
 navWeight: 714
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - hoàng nàn
+  - chữa hủi
+  - chữa ghẻ
+  - chữa tê thấp
+  - chữa thấp khớp
+  - chữa nhức xương
+  - chữa chó dại cắn
+  - làm thuốc cường dương
+  - kích thích dục tính của phụ nữ
 ---
 
 

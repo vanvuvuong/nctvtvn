@@ -3,6 +3,11 @@ title: "126. MẮC NƯA"
 weight: 126
 navWeight: 875
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - mắc nưa
+  - Diospyros mo
+  - trừ giun
 ---
 
 

@@ -3,6 +3,13 @@ title: "200. RAU CẦN TÂY芹菜"
 weight: 200
 navWeight: 801
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - rau cần tây
+  - Apium graveolens L
+  - 芹菜
+  - lợi tiểu
+  - chữa bệnh huyết áp
 ---
 
 

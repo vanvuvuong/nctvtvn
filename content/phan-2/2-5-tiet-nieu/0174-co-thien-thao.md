@@ -3,6 +3,14 @@ title: "174. CỎ THIÊN THẢO"
 weight: 174
 navWeight: 827
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cỏ thiên thảo
+  - Anisomeles ova
+  - chữa sốt cơn
+  - chữa đau bụng
+  - chữa thấp khớp
+  - dùng làm thuốc xông cho ra mồ hôi
 ---
 
 

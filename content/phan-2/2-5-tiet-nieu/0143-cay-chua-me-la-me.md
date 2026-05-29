@@ -3,6 +3,12 @@ title: "143. CÂY CHUA ME LÁ ME"
 weight: 143
 navWeight: 858
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cây chua me lá me
+  - Biophytum sensit
+  - dùng làm thuốc
+  - chữa bênh đái đường như ờ philipin
 ---
 
 

@@ -3,6 +3,15 @@ title: "66. NIỆT GIÓ"
 weight: 66
 navWeight: 935
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - niệt gió
+  - Wikstroemiaindica C. A. Mey
+  - sát trùng
+  - chữa chứng sốt cao
+  - kích thích bay hơi
+  - chữa chứng ma phong
+  - dùng làm thuốc diệt trừ sâu bọ
 ---
 
 

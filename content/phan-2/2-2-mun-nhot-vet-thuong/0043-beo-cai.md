@@ -3,6 +3,13 @@ title: "43. BÈO CÁI"
 weight: 43
 navWeight: 958
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - bèo cái
+  - Pistia stratiotes L
+  - chữa mụn nhọt
+  - lợi tiểu tiện
+  - thông kinh nguyệt
 ---
 
 

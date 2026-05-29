@@ -3,6 +3,15 @@ title: "41. BẠCH HOA XÀ"
 weight: 41
 navWeight: 960
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - bạch hoa xà
+  - Plumbago zeylanica L
+  - kích thích
+  - chữa ung thư
+  - chữa đau gân
+  - làm thuốc sẩy thai
+  - chữa những bệnh ngoài da
 ---
 
 

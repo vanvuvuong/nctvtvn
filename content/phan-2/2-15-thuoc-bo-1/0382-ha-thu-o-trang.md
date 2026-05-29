@@ -3,6 +3,12 @@ title: "382. HÀ THỦ Ô TRẮNG白何首烏"
 weight: 382
 navWeight: 619
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - hà thủ ô trắng
+  - Streptocaulon juventas
+  - 白何首烏
+  - chữa cảm sốt
 ---
 
 

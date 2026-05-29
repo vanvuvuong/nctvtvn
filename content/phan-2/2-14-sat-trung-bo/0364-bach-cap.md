@@ -3,6 +3,16 @@ title: "364. BẠCH CẬP 白芨"
 weight: 364
 navWeight: 637
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - bạch cập
+  - Bletilla striata
+  - 白芨
+  - bổ phế
+  - cầm máu
+  - chữa bỏng lửa
+  - chữa thổ huyết
+  - chữa tà khí vào dạ dày
 ---
 
 

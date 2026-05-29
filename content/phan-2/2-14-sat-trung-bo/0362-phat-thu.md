@@ -3,6 +3,12 @@ title: "362. PHẬT THỦ 佛手"
 weight: 362
 navWeight: 639
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - phật thủ
+  - Citrus medica L.var. sarcodactylus Sw
+  - 佛手
+  - chữa ho
 ---
 
 

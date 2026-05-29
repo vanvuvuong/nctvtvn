@@ -3,6 +3,12 @@ title: "95. Đơn thuốc có vị đại phong tử"
 weight: 95
 navWeight: 906
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - đơn thuốc có vị đại phong tử
+  - chữa ghẻ lở
+  - chữa bệnh mũi đỏ
+  - chữa vết loét hủi
 ---
 
 

@@ -3,6 +3,17 @@ title: "396. HẠT GẤC 木鱉子"
 weight: 396
 navWeight: 605
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - hạt gấc
+  - Momordica cochinchinensis
+  - 木鱉子
+  - tiêu thũng
+  - chữa tê thấp
+  - chữa sưng vú
+  - chữa mụn nhọt
+  - chữa trĩ lòi dom
+  - chữa các vết loét
 ---
 
 

@@ -3,6 +3,13 @@ title: "357. TRÀM VÀ TINH DẦU TRÀM"
 weight: 357
 navWeight: 644
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - tràm và tinh dầu tràm
+  - Melaleuca leucadendra L
+  - chữa ho
+  - chữa đau nhức
+  - sát trùng của tinh dầu tràm lại mạnh hơn tinh dầu bạch đàn
 ---
 
 

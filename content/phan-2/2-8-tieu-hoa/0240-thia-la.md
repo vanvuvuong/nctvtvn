@@ -3,6 +3,13 @@ title: "240. THÌA LÀ"
 weight: 240
 navWeight: 761
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - thìa là
+  - Anethum graveo
+  - lợi sữa
+  - kích thích trung tiện
+  - chữa đau bụng của trè em
 ---
 
 

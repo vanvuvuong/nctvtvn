@@ -3,6 +3,16 @@ title: "338. PHÒNG PHONG 防風"
 weight: 338
 navWeight: 663
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - phòng phong
+  - 防風
+  - trừ thấp
+  - trừ phong
+  - chữa thiên đầu thống
+  - chữa nhức đầu choáng váng
+  - chữa cảm mạo biểu chứng ra mồ hôi
+  - chữa triệu chứng khi ngủ ra mồ hôi trộm
 ---
 
 

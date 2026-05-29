@@ -3,6 +3,14 @@ title: "27. DUYÊN HỒ SÁCH"
 weight: 27
 navWeight: 974
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - duyên hồ sách
+  - Corydalis ambigua Ch. et Schl
+  - giảm đau
+  - hoạt huyết
+  - chữa đau bụng
+  - chữa già trẻ bị ho
 ---
 
 _Còn gọi là_ huyỀn hồ sách, nguyên hồ.

@@ -3,6 +3,11 @@ title: "249. PREAH PHNEOU"
 weight: 249
 navWeight: 752
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - preah phneou
+  - Terminalia nigrovenulosa Pierre
+  - chữa đi ỉa lỏng
 ---
 
 

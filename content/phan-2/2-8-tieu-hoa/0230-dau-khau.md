@@ -3,6 +3,15 @@ title: "230. ĐẬU KHẤU"
 weight: 230
 navWeight: 771
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - đậu khấu
+  - Amomum cardamomum L
+  - giải độc rượu
+  - chữa đau dạ dày
+  - chữa các bệnh về phổi
+  - chữa chứng lợm giọng buồn nôn
+  - chữa trẻ con bú vào lại trớ ra
 ---
 
 

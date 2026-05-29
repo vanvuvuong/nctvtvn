@@ -3,6 +3,14 @@ title: "417. TÊ GIÁC"
 weight: 417
 navWeight: 584
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - tê giác
+  - Rhinoceros unicornis L. v
+  - chữa sốt
+  - giải độc
+  - chữa các chứng thổ huyết
+  - chữa bệnh viêm não có kết quả
 ---
 
 

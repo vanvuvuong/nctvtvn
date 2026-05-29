@@ -3,6 +3,14 @@ title: "6. CÂY HỒNG HOA 紅花"
 weight: 6
 navWeight: 995
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cây hồng hoa
+  - Carthamus tinctorius L
+  - 紅花
+  - làm thuốc nhuộm
+  - chữa kinh nguyệt bế tắc
+  - chữa kinh nguyệt không đều
 ---
 
 _Còn có tên là_ cây rum.

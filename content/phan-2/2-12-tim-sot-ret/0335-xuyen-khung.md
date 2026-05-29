@@ -3,6 +3,16 @@ title: "335. XUYÊN KHUNG 川芎"
 weight: 335
 navWeight: 666
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - xuyên khung
+  - Ligusticum wallichii Franch
+  - 川芎
+  - giảm đau
+  - chữa nhức đầu
+  - chữa thiên đầu thống
+  - chữa kinh nguyệt không đều
+  - chữa những triệu chứng nhức đẩu
 ---
 
 

@@ -3,6 +3,14 @@ title: "292. BƯỚM BẠC"
 weight: 292
 navWeight: 709
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - bướm bạc
+  - Mussaenda pubescens Ait. f
+  - chữa ho
+  - lợi tiểu
+  - giảm đau
+  - chữa tê thấp
 ---
 
 

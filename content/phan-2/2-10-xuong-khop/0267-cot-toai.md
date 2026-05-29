@@ -3,6 +3,18 @@ title: "267. CỐT TOÁI"
 weight: 267
 navWeight: 734
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - cốt toái
+  - Drynarìa fiortunei J
+  - bổ thận
+  - phá huyết ứ
+  - trị đau xương
+  - chữa đập xương
+  - sát trùng đờ đau
+  - làm thuốc hoà hoãn
+  - chữa các chứng ù tai
+  - trị có kết quả 4 trường hợp bong gản
 ---
 
 

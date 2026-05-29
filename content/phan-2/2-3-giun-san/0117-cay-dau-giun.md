@@ -3,6 +3,20 @@ title: "117. CÂY DẦU GIUN -±. #■"
 weight: 117
 navWeight: 884
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - "cây dầu giun -±. #■"
+  - Chenopodium ambrosi
+  - sát trùng
+  - thuốc tẩy
+  - chữa giun đũa
+  - chữa đau nhức rảng
+  - chữa đau nhức răng
+  - chữa trẻ em hư thũng
+  - chữa khỏi chứng tả lỵ
+  - chữa hết thảy các bệnh lờ
+  - làm thuốc mới gọi là sử quân tử
+  - chữa 5 chứng cam của trẻ em tiểu tiện đục
 ---
 
 

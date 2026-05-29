@@ -3,6 +3,16 @@ title: "265. MẪU LỆ"
 weight: 265
 navWeight: 736
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - mẫu lệ
+  - Ostrea sp
+  - lợi tiểu
+  - làm thuốc
+  - chữa ỉa chảy
+  - trị gọi là lưu hội
+  - chữa kinh nguyệt không đều
+  - chữa bệnh bướu cổ tên iotamin
 ---
 
 

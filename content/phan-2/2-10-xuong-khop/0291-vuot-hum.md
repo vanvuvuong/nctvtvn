@@ -3,6 +3,11 @@ title: "291. VUỐT HỪM"
 weight: 291
 navWeight: 710
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - vuốt hừm
+  - Caesalpinía minax Hancc
+  - chữa đau
 ---
 
 

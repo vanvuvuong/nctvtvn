@@ -3,6 +3,10 @@ title: "394. CÂY SÓNG RẮN"
 weight: 394
 navWeight: 607
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - cây sóng rắn
+  - Albizzia myriophylla Benth
 ---
 
 

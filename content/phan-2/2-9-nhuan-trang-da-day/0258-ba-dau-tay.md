@@ -3,6 +3,12 @@ title: "258. BA ĐẬU TÂY"
 weight: 258
 navWeight: 743
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - ba đậu tây
+  - Hura crepitans L
+  - chữa hủi
+  - làm thuốc
 ---
 
 

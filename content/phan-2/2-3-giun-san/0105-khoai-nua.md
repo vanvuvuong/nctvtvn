@@ -3,6 +3,11 @@ title: "105. KHOAI NƯA"
 weight: 105
 navWeight: 896
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - khoai nưa
+  - Amorphữphaỉỉus rivieri Dur
+  - chữa lòi dom
 ---
 
 

@@ -3,6 +3,11 @@ title: "407. CỌ DẦU"
 weight: 407
 navWeight: 594
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - cọ dầu
+  - Elaeis guineensis Jacq
+  - làm thuốc
 ---
 
 

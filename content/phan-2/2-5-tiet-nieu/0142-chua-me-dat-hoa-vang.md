@@ -3,6 +3,19 @@ title: "142. CHƯA ME ĐẤT HOA VÀNG"
 weight: 142
 navWeight: 859
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - chưa me đất hoa vàng
+  - Oxalis cornicu
+  - chữa lỵ
+  - chữa sốt
+  - sát trùng
+  - điều kinh
+  - dùng làm thuốc
+  - thông tiểu tiện
+  - chữa bệnh scobut
+  - chữa xích bạch đới
+  - chữa viêm niệu đạo
 ---
 
 

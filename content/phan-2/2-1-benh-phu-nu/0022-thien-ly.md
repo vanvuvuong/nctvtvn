@@ -3,6 +3,14 @@ title: "22. THIÊN LÝ"
 weight: 22
 navWeight: 979
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - thiên lý
+  - Telosma cordata
+  - chữa lòi dom
+  - chữa sa dạ con
+  - trị 9 trường hợp
+  - chữa một số trường hợp lòi dom
 ---
 
 _Còn gọi là_ cây hoa lý, hoa thiên lý, dạ lài hương

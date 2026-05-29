@@ -3,6 +3,12 @@ title: "420. CON QUY"
 weight: 420
 navWeight: 581
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - con quy
+  - Anphitobius diaperinus Panzer
+  - chữa trẻ em gầy còm
+  - chữa những chứng cam tích
 ---
 
 

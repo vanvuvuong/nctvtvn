@@ -3,6 +3,19 @@ title: "397. HOÀNG KỲ 黄芪"
 weight: 397
 navWeight: 604
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - hoàng kỳ
+  - 黄芪
+  - bổ khí
+  - lợi tiểu
+  - làm thuốc ích khí
+  - chữa cơ thể suy nhược
+  - chữa toàn thân suy nhược
+  - chữa mọi bệnh của trẻ con
+  - chữa bệnh đậu không mọc được
+  - chữa biểu hư sinh ra mồ hôi trộm
+  - chữa những trường hợp lở loét mãn tính
 ---
 
 

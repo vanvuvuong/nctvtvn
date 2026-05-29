@@ -3,6 +3,13 @@ title: "15. ĐÀI HÁI 油仄"
 weight: 15
 navWeight: 986
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - đài hái
+  - Hodgsonia macrocarpa
+  - 油仄
+  - dùng làm thuốc
+  - chữa bệnh loét mũi
 ---
 
 _Còn gọi là_ du qua, dây mỡ lợn, dây hái, then hái, mướp rừng, dây sén, mak khing (Lào), Kigarasu-uri (Nhật).

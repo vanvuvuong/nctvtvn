@@ -3,6 +3,15 @@ title: "178. CÂY CỎ NẾN"
 weight: 178
 navWeight: 823
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cây cỏ nến
+  - Typha orienta
+  - cầm máu
+  - lợi tiểu
+  - chữa thổ huyết
+  - chữa bệnh ho ra‘máu
+  - chữa kinh nguyệt bế sinh đau bụng
 ---
 
 

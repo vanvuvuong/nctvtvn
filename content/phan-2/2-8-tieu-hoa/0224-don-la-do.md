@@ -3,6 +3,15 @@ title: "224. ĐƠN LÁ ĐỎ"
 weight: 224
 navWeight: 777
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - đơn lá đỏ
+  - Excoecarìa cochinchinensis Lour
+  - làm thuốc
+  - chữa zona
+  - chữa mụn nhọt mẩn ngứa
+  - chữa đi ỉa lỏng lâu ngày
+  - chữa đi ỉa lòng lâu ngày
 ---
 
 

@@ -3,6 +3,16 @@ title: "232. THẢO QUẢ"
 weight: 232
 navWeight: 769
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - thảo quả
+  - Amomum tsao-ko Cr
+  - trừ đờm
+  - giải độc
+  - chữa sốt
+  - chữa đau bụng
+  - chữa hôi miệng
+  - dùng làm thuốc kiện tỳ
 ---
 
 

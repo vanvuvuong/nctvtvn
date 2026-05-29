@@ -3,6 +3,21 @@ title: "383. SINH ĐỊA 生地黄"
 weight: 383
 navWeight: 618
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - sinh địa
+  - Rehmannia glutinosa
+  - 生地黄
+  - bổ thận
+  - lợi tiểu
+  - trị ho khan
+  - chữa đau đầu
+  - chữa huyết hư
+  - thuốc bổ dương
+  - trị đường niệu
+  - chữa bệnh về huyết
+  - thuốc bổ có sinh địa
+  - chữa thương hàn ôn bệnh
 ---
 
 

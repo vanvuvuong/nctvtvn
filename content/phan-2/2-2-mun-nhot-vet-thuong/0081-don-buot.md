@@ -3,6 +3,14 @@ title: "81. ĐƠN BUỐT"
 weight: 81
 navWeight: 920
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - đơn buốt
+  - Bidens pilosa L
+  - chữa lỵ
+  - giải độc
+  - chữa bọ cạp
+  - chữa viêm ruột thừa có kết quả
 ---
 
 

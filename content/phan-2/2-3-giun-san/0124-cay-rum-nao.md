@@ -3,6 +3,11 @@ title: "124. CÂY RÙM NAO"
 weight: 124
 navWeight: 877
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - cây rùm nao
+  - Malỉotus philippinensis
+  - chữa bệnh dày da bụng
 ---
 
 

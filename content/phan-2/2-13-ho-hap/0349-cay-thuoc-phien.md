@@ -3,6 +3,12 @@ title: "349. CÂY THUỐC PHIỆN 阿片"
 weight: 349
 navWeight: 652
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - cây thuốc phiện
+  - Papaver Somniferum L
+  - 阿片
+  - chữa các bệnh ho lâu ngày không khỏi
 ---
 
 

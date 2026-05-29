@@ -3,6 +3,15 @@ title: "244. MẢNG CỤT"
 weight: 244
 navWeight: 757
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - mảng cụt
+  - Garcìnìa mangostana L
+  - chữa đi ỉa lỏng
+  - chữa hữ lâu ngày
+  - chữa xích bạch ly
+  - chữa bệnh hoàng đản
+  - chữa đau bụng đi ỉa lỏng
 ---
 
 

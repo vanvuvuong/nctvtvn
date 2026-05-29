@@ -3,6 +3,14 @@ title: "168. RÂU OM"
 weight: 168
 navWeight: 833
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - râu om
+  - Limnophiỉa aromaúca
+  - lợi tiểu
+  - làm thuốc
+  - chữa những cơn đau thắt bụng
+  - chữa sỏi thận của lương y lẽ quang tốt {rau om
 ---
 
 

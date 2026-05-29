@@ -3,6 +3,15 @@ title: "155. MẦN TƯỚI >iM"
 weight: 155
 navWeight: 846
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - mần tưới >im
+  - Eupatorìum staechadosmum Mần
+  - lợi tiểu
+  - chữa sốt
+  - làm thuốc
+  - thông tiểu
+  - chữa rắn cấn
 ---
 
 

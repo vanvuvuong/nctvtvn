@@ -3,6 +3,17 @@ title: "331. CÚC HOA 菊"
 weight: 331
 navWeight: 670
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - cúc hoa
+  - Chrysanthemum sinense Sabine
+  - 菊
+  - chữa ho
+  - giải độc
+  - làm thuốc
+  - chữa chóng mặt
+  - chữa các chứng nhức đầu
+  - chữa phong mà sinh hoa mắt
 ---
 
 

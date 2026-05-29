@@ -3,6 +3,13 @@ title: "16. CỎ ĐUÔI LƯƠN 田恝"
 weight: 16
 navWeight: 985
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cỏ đuôi lươn
+  - Philydrum lanuginosum Banks
+  - 田恝
+  - làm thuốc
+  - chữa bệnh hậu sản
 ---
 
 _Còn có tên là_ bồn bồn, điền thông

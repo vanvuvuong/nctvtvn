@@ -3,6 +3,10 @@ title: "205. HỒI NÚI"
 weight: 205
 navWeight: 796
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - hồi núi
+  - Illicium griffithii Hook.f. et Thoms
 ---
 
 

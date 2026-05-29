@@ -3,6 +3,14 @@ title: "256. VỌNG GIANG NAM"
 weight: 256
 navWeight: 745
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - vọng giang nam
+  - Cassia occidentalis L
+  - chữa sốt
+  - làm thuốc
+  - điều kinh
+  - chữa đau bụng đi lỵ
 ---
 
 

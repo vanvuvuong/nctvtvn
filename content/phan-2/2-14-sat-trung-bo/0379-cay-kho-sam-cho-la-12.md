@@ -3,6 +3,11 @@ title: "379. CÂY KHỔ SÂM CHO LÁ (1)[2"
 weight: 379
 navWeight: 622
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - cây khổ sâm cho lá (1)[2
+  - Croton tonkinensis Gagnep
+  - chữa đau dạ dày
 ---
 
 

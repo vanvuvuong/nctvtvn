@@ -3,6 +3,16 @@ title: "26. CỬU LÝ HƯƠNG"
 weight: 26
 navWeight: 975
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cửu lý hương
+  - Ruta graveolens L
+  - giảm đau
+  - điều kinh
+  - chữa bị đánh
+  - chữa bệnh dại
+  - hoạt huyết tán ứ
+  - làm thuốc đắp nơi đau nhức
 ---
 
 _Còn gọi là_ rue fetide, văn hương.

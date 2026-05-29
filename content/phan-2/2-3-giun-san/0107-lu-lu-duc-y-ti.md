@@ -3,6 +3,10 @@ title: "107. LU LU ĐỰC >ỷ &ti,&"
 weight: 107
 navWeight: 894
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - lu lu đực >ỷ &ti,&
+  - Solanum nigrum L
 ---
 
 

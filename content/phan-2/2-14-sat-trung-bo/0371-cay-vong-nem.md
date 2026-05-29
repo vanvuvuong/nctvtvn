@@ -3,6 +3,21 @@ title: "371. CÂY VÔNG NEM 刺桐"
 weight: 371
 navWeight: 630
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - cây vông nem
+  - Erythrina orientalis
+  - 刺桐
+  - chữa trĩ
+  - chữa sốt
+  - sát trùng
+  - thông tiểu
+  - chữa rắn cắn
+  - thuốc an thần
+  - chữa răng sâu
+  - thông kinh lạc
+  - làm thuốc xoa bóp
+  - an thần vì gây ngủ
 ---
 
 

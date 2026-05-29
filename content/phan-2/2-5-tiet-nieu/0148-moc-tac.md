@@ -3,6 +3,11 @@ title: "148. MỘC TẶC"
 weight: 148
 navWeight: 853
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - mộc tặc
+  - Equisetum arx
+  - dùng làm thuốc
 ---
 
 

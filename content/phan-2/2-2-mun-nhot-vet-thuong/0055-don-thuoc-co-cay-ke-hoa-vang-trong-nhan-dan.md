@@ -3,6 +3,15 @@ title: "55. Đơn thuốc có cây ké hoa vàng trong nhân dân"
 weight: 55
 navWeight: 946
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - đơn thuốc có cây ké hoa vàng trong nhân dân
+  - chữa lỵ
+  - chữa sốt
+  - thông tiểu
+  - chữa mụn nhọt
+  - làm thuốc bổ đắng
+  - làm thuốc mát uống
 ---
 
 

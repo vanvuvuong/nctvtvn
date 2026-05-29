@@ -3,6 +3,13 @@ title: "289. LONG NÃO |ậ"
 weight: 289
 navWeight: 712
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - long não |ậ
+  - Cinnamomum camphora L. Nees. et
+  - sát trùng
+  - tiêu viêm
+  - kích thích
 ---
 
 

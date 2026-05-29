@@ -3,6 +3,11 @@ title: "121. HẠT BÍ NGÔ"
 weight: 121
 navWeight: 880
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - hạt bí ngô
+  - thuốc tẩy muối
+  - chữa sán tuy không mạnh bằng dương xỉ đực
 ---
 
 

@@ -3,6 +3,12 @@ title: "98. ĐƠN TƯỚNG QUÂN"
 weight: 98
 navWeight: 903
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - đơn tướng quân
+  - Syzygium formosum var
+  - chữa mẩn ngứa
+  - chữa viêm họng đỏ
 ---
 
 

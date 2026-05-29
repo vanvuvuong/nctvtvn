@@ -3,6 +3,16 @@ title: "194. CÂY BA KÍCH"
 weight: 194
 navWeight: 807
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây ba kích
+  - Morinda offcinalis How
+  - chữa dương ủy
+  - thuốc bổ trí não
+  - chữa bệnh phong thấp
+  - chữa bệnh cao huyết áp có kết quả
+  - chữa những người già yếu chân gối
+  - chữa 360 trường kết quả đạt tới 74%
 ---
 
 

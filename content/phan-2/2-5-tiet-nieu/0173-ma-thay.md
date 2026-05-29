@@ -3,6 +3,10 @@ title: "173. MÃ THẦY"
 weight: 173
 navWeight: 828
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - mã thầy
+  - Heỉeocharis plantaginea R
 ---
 
 

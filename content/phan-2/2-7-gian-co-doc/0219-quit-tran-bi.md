@@ -3,6 +3,16 @@ title: "219. QUÍT-TRẦN BÌ 陈皮"
 weight: 219
 navWeight: 782
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giãn cơ và thuốc độc
+  - quít-trần bì
+  - Citrus deliciosa Tenore
+  - 陈皮
+  - trừ đờm
+  - chữa sa đì
+  - chữa đau bụng
+  - chữa ho mất tiếng
+  - chữa ăn uống không tiêu
 ---
 
 

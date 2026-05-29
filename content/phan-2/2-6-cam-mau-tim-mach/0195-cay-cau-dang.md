@@ -3,6 +3,12 @@ title: "195. CÂY CÂU ĐẰNG"
 weight: 195
 navWeight: 806
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây câu đằng
+  - Uncaria rhynchophylla
+  - dùng làm thuốc trấn kinh
+  - chữa trẻ con hàn nhiệt kinh giản
 ---
 
 

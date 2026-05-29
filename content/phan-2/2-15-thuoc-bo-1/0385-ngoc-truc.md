@@ -3,6 +3,13 @@ title: "385. NGỌC TRÚC玉竹"
 weight: 385
 navWeight: 616
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - ngọc trúc
+  - Polygonatum officinale All
+  - 玉竹
+  - thuốc bổ dùng
+  - chữa táo nhiệt
 ---
 
 

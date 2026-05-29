@@ -3,6 +3,13 @@ title: "336. BẦU ĐẤT"
 weight: 336
 navWeight: 665
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - bầu đất
+  - Gynura sarmentosa DC
+  - chữa sốt
+  - chữa đau mắt
+  - làm thuốc với tên là chử thực
 ---
 
 

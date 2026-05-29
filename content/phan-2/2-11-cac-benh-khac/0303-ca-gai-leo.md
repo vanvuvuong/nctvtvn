@@ -3,6 +3,14 @@ title: "303. CÀ GAI LEO"
 weight: 303
 navWeight: 698
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - cà gai leo
+  - Soỉamim procumbens Lour
+  - chữa rắn cắn
+  - chữa say rượu
+  - chữa bệnh lậu
+  - chữa phong thấp
 ---
 
 

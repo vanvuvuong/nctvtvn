@@ -3,6 +3,15 @@ title: "211. CÂY NGỌT NGHẸO"
 weight: 211
 navWeight: 790
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây ngọt nghẹo
+  - Gloriosa superba L
+  - làm thuốc
+  - chữa bệnh
+  - chữa rắn cắn
+  - chữa mụn nhọt
+  - cầm máu như vị tam thất
 ---
 
 

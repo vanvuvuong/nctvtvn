@@ -3,6 +3,10 @@ title: "316. TẬT LÊ"
 weight: 316
 navWeight: 685
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - tật lê
+  - chữa những bệnh nghẽn mạch
 ---
 
 

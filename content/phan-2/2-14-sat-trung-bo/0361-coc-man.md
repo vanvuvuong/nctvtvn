@@ -3,6 +3,16 @@ title: "361. CÓC MẲN 石胡菜"
 weight: 361
 navWeight: 640
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - cóc mẳn
+  - Centipeda minima
+  - 石胡菜
+  - chữa ho
+  - chữa eczema
+  - chữa mẩn ngứa
+  - kích thích thần kinh
+  - chữa khỏi viêm mắt có mủ
 ---
 
 

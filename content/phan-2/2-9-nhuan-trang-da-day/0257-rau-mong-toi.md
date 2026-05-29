@@ -3,6 +3,16 @@ title: "257. RAU MỒNG TƠI"
 weight: 257
 navWeight: 744
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - rau mồng tơi
+  - Basella rubra L
+  - giải độc
+  - chữa đau mắt
+  - dùng làm thuốc
+  - trị hoạt trung
+  - chữa vú sưng nứt
+  - chữa trẻ con bị táo bón
 ---
 
 

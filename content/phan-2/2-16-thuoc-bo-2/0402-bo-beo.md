@@ -3,6 +3,13 @@ title: "402. BỔ BÉO"
 weight: 402
 navWeight: 599
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - bổ béo
+  - Gomphandra tonkinensis Gagnep
+  - lợi tiểu
+  - thuốc bổ dùng
+  - kích thích ăn ngon
 ---
 
 

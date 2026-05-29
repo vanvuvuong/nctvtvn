@@ -3,6 +3,15 @@ title: "370. CÂY NẮP ẤM"
 weight: 370
 navWeight: 631
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - cây nắp ấm
+  - Nepenthes mirabilis
+  - chữa ho
+  - lợi tiểu
+  - tiêu viêm
+  - chữa vàng da do viêm gan
+  - trị các chứng phù thũng toàn thân
 ---
 
 

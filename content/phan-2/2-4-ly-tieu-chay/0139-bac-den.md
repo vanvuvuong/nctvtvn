@@ -3,6 +3,20 @@ title: "139. BẤC ĐÈN -"
 weight: 139
 navWeight: 862
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - lỵ và tiêu chảy
+  - bấc đèn
+  - Juncus ejfusus L. var. decipiens
+  - an thần
+  - chữa ho
+  - lợi sữa
+  - chữa sốt
+  - lợi tiểu
+  - chữa phù
+  - làm thuốc
+  - thông tiểu tiện
+  - chữa thủy thũng
+  - chữa tiểu tiện khó khăn
 ---
 
 

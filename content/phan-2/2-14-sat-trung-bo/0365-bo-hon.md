@@ -3,6 +3,13 @@ title: "365. BỒ HÒN 無患子"
 weight: 365
 navWeight: 636
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - bồ hòn
+  - Sapindus mukorossi Gaertn
+  - 無患子
+  - trừ đờm
+  - chữa hôi miệng
 ---
 
 

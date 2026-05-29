@@ -3,6 +3,12 @@ title: "165. CÂY XƯƠNG SÁO"
 weight: 165
 navWeight: 836
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cây xương sáo
+  - Mesona chinensis Benth
+  - làm thuốc
+  - chữa cảm mạo
 ---
 
 

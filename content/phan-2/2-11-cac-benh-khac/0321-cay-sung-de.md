@@ -3,6 +3,10 @@ title: "321. CÂY SỪNG DÊ"
 weight: 321
 navWeight: 680
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - cây sừng dê
+  - Strophanthus divar
 ---
 
 

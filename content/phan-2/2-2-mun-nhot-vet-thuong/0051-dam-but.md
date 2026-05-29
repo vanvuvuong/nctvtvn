@@ -3,6 +3,12 @@ title: "51. DÂM BỤT"
 weight: 51
 navWeight: 950
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - dâm bụt
+  - Hibiscusrosa-sinensis L
+  - chữa xích
+  - điều kinh
 ---
 
 

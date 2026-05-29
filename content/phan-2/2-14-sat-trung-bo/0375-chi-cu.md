@@ -3,6 +3,11 @@ title: "375. CHỈ CỤ"
 weight: 375
 navWeight: 626
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - chỉ cụ
+  - Hovenia dulcis Thunb
+  - giải độc
 ---
 
 

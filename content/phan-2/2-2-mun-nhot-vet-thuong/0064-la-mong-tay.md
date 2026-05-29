@@ -3,6 +3,18 @@ title: "64. LÁ MÓNG TAY"
 weight: 64
 navWeight: 937
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - lá móng tay
+  - Lawsonia inermis L
+  - chữa ho
+  - chữa hắc lào
+  - chữa bệnh gan
+  - chữa bệnh ngoài da
+  - làm thuốc lợi niệu
+  - làm thuốc nhuộm tóc
+  - chữa tê bại nhức mỏi
+  - chữa kinh nguyệt không đều
 ---
 
 

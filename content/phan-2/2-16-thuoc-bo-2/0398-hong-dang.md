@@ -3,6 +3,15 @@ title: "398. HỒNG ĐẰNG 大血藤"
 weight: 398
 navWeight: 603
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - hồng đằng
+  - Sargentodoxa cuneata
+  - 大血藤
+  - bổ huyết
+  - thông kinh lạc
+  - bổ tỳ nhuận phổi
+  - chữa đau lưng đau mình
 ---
 
 

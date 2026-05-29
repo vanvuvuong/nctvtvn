@@ -3,6 +3,12 @@ title: "109. RONG Mơ ỉệ%"
 weight: 109
 navWeight: 892
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - rong mơ ỉệ%
+  - Sargassum
+  - tiêu đờm
+  - chữa bướu cổ
 ---
 
 

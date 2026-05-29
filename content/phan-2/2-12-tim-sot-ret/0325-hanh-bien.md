@@ -3,6 +3,14 @@ title: "325. HÀNH BIỂN"
 weight: 325
 navWeight: 676
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - hành biển
+  - Scilla maritima L
+  - long đờm
+  - làm thuốc
+  - thông tiểu nhất là
+  - chữa tim mà là do chất sciliroit đã nói ở trên
 ---
 
 

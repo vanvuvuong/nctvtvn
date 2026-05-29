@@ -3,6 +3,20 @@ title: "328. BẠCH CHỈ 白芷"
 weight: 328
 navWeight: 673
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - bạch chỉ
+  - Angelica dahurica Benth. et Hook
+  - 白芷
+  - cầm máu
+  - giảm đau
+  - chữa sưng vú
+  - chữa nhức đầu
+  - chữa đau bụng
+  - làm thuốc thư gân
+  - thông kinh nguyệt
+  - chữa chứng hôi miệng
+  - hoạt huyết bài nùng sinh cơ
 ---
 
 

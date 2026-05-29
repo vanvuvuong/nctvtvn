@@ -3,6 +3,12 @@ title: "313. MÍA DÒ"
 weight: 313
 navWeight: 688
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - mía dò
+  - Cosíus speciosus Smith
+  - chữa thấp khớp
+  - chữa bệnh ở cổ họng
 ---
 
 

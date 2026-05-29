@@ -3,6 +3,15 @@ title: "152. TAI CHUỘT"
 weight: 152
 navWeight: 849
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - tai chuột
+  - Dischidia acum
+  - lợi tiểu
+  - chữa bệnh than
+  - thông tiểu tiện
+  - dùng làm thuốc bổ
+  - chữa nhũng trường hợp viêm ống tiểu tiện
 ---
 
 

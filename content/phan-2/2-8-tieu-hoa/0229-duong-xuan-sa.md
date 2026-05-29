@@ -3,6 +3,11 @@ title: "229. DƯƠNG XUÂN SA"
 weight: 229
 navWeight: 772
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - dương xuân sa
+  - Amomum vi
+  - trị hơn vì ít tinh dầu
 ---
 
 

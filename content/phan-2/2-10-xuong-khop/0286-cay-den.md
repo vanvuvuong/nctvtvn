@@ -3,6 +3,13 @@ title: "286. CÂY DỂN"
 weight: 286
 navWeight: 715
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - cây dển
+  - Xylopia vielana Pierre
+  - chữa sốt rét
+  - chữa đau nhức tê thấp
+  - chữa kinh nguyệt không đều
 ---
 
 

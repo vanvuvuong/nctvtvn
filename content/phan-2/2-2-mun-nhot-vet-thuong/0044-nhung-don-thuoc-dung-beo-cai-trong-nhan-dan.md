@@ -3,6 +3,15 @@ title: "44. Những đơn thuốc dùng bèo cái trong nhân dân"
 weight: 44
 navWeight: 957
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - những đơn thuốc dùng bèo cái trong nhân dân
+  - chữa to
+  - chữa eczêma
+  - chữa mẩn ngứa
+  - chữa hen xuyễn
+  - chữa mụn rộp hang vòng
+  - thuốc giải độc có hoa kim ngân
 ---
 
 

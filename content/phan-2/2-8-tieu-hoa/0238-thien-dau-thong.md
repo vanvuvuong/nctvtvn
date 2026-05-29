@@ -3,6 +3,13 @@ title: "238. THIÊN ĐẦU THỐNG"
 weight: 238
 navWeight: 763
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - thiên đầu thống
+  - Cordia ob
+  - chữa sốt
+  - làm thuốc
+  - chữa bệnh thiên đầu thổng
 ---
 
 

@@ -3,6 +3,15 @@ title: "154. DÂY CHẶC CHÌU"
 weight: 154
 navWeight: 847
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - dây chặc chìu
+  - Tetracerơ scandens
+  - thuốc bổ
+  - chữa phù thận
+  - chữa hình j87
+  - thuốc tẩy máu
+  - dùng làm thuốc
 ---
 
 

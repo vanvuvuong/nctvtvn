@@ -3,6 +3,17 @@ title: "366. BỐI MẪU 貝母"
 weight: 366
 navWeight: 635
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - bối mẫu
+  - 貝母
+  - chữa ho
+  - trừ đờm
+  - lợi sữa
+  - tiêu đờm
+  - trị mụn nhọt
+  - chữa phụ nữ có thai
+  - chữa những trường hợp đờm ho nhiệt
 ---
 
 

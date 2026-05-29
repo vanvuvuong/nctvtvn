@@ -3,6 +3,12 @@ title: "163. CHIỂU"
 weight: 163
 navWeight: 838
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - chiểu
+  - Phaseolus angularis VVight
+  - giải độc
+  - tiêu thũng
 ---
 
 

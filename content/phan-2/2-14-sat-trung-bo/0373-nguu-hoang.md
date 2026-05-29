@@ -3,6 +3,15 @@ title: "373. NGƯU HOÀNG 牛黄"
 weight: 373
 navWeight: 628
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - ngưu hoàng
+  - 牛黄
+  - giải độc
+  - chữa hồi hộp
+  - chữa sốt nóng
+  - chữa bệnh viêm não
+  - làm thuốc trấn tĩnh
 ---
 
 

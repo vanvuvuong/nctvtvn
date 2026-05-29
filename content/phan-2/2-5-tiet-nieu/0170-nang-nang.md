@@ -3,6 +3,17 @@ title: "170. NÀNG NÀNG"
 weight: 170
 navWeight: 831
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - nàng nàng
+  - Cailicarpa cana L
+  - lợi tiểu
+  - giải độc
+  - sát trùng
+  - chữa rắn cắn
+  - chữa đái buốt
+  - chữa tiểu tiện khó khăn
+  - chữa viêm bàng quang viêm đường tiểu tiện
 ---
 
 

@@ -3,6 +3,16 @@ title: "215. R = - CH = HC - (CH₂)₄CH₃"
 weight: 215
 navWeight: 786
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giãn cơ và thuốc độc
+  - r = - ch = hc - (ch₂)₄ch₃
+  - tiêu đờm
+  - giải độc
+  - làm thuốc
+  - chữa thổ tả
+  - chữa nhức đầu
+  - chữa ngoại cảm
+  - chữa ho mất tiếng
 ---
 
 

@@ -3,6 +3,14 @@ title: "82. CHÈ VẰNG"
 weight: 82
 navWeight: 919
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - chè vằng
+  - Jasminum subtriplinerve Blume
+  - chữa sưng vú
+  - chữa rắn cắn
+  - chữa bằng lá chè vằng sớm
+  - trị bằng chè vằng thường hết sốt
 ---
 
 

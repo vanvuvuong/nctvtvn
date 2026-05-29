@@ -3,6 +3,12 @@ title: "283. 4. CÁC LOẠI PHÒNG KỶ DÙNG Ở VIỆT NAM"
 weight: 283
 navWeight: 718
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - 4. các loại phòng kỷ dùng ở việt nam
+  - Pìper lolot c
+  - chữa đau xương
+  - chữa chân tay đau nhức
 ---
 
 

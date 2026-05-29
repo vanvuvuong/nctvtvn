@@ -3,6 +3,20 @@ title: "290. TUỔI CÂY GÔ LÁ"
 weight: 290
 navWeight: 711
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - tuổi cây gô lá
+  - Strychnos nuxvomica L
+  - chữa tê
+  - chữa chẻ
+  - trừ thấp
+  - kích thích
+  - hoạt huyết
+  - chữa phù nể
+  - chữa trụy tim
+  - chữa đau bụng
+  - chữa đau nhức
+  - chữa bệnh chó dại
 ---
 
 

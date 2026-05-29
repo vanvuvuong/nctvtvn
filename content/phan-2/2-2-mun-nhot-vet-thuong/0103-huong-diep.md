@@ -3,6 +3,11 @@ title: "103. HƯƠNG ĐIỆP"
 weight: 103
 navWeight: 898
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - hương điệp
+  - sát trùng
+  - hạ huyết áp
 ---
 
 

@@ -3,6 +3,13 @@ title: "86. BẠC THAU"
 weight: 86
 navWeight: 915
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - bạc thau
+  - Argyreia acuta Lour
+  - chữa ho
+  - điều kinh
+  - thông tiểu
 ---
 
 

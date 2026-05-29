@@ -3,6 +3,12 @@ title: "346. CÂY GÁO[1"
 weight: 346
 navWeight: 655
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - cây gáo[1
+  - Sarcocephalus cordatus Miq
+  - chữa sốt
+  - chữa xơ gan cổ trướng vỏ gáo
 ---
 
 

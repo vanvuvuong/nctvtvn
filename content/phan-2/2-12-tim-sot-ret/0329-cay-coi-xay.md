@@ -3,6 +3,17 @@ title: "329. CÂY CỐI XAY 磨盘草"
 weight: 329
 navWeight: 672
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - cây cối xay
+  - Abutilon indicum
+  - 磨盘草
+  - chữa sốt
+  - chữa xích
+  - hoạt huyết
+  - chữa mụn nhọt
+  - thông tiểu tiện
+  - chữa tai điếc rất tốt
 ---
 
 

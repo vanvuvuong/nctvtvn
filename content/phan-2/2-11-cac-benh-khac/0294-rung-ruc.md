@@ -3,6 +3,10 @@ title: "294. RUNG RÚC"
 weight: 294
 navWeight: 707
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - rung rúc
+  - Berchemia ỉìneata
 ---
 
 

@@ -3,6 +3,14 @@ title: "212. CÂY CHO CURARƠ"
 weight: 212
 navWeight: 789
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giãn cơ và thuốc độc
+  - cây cho curarơ
+  - Camellia sasanqua Thunb
+  - chữa đau
+  - chữa chốc lở
+  - trị xuất khẩu rất cao
+  - làm thuốc người ta dùng nhân hạt trẩu đốt thành than
 ---
 
 

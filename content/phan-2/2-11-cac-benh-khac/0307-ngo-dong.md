@@ -3,6 +3,12 @@ title: "307. NGÔ ĐỔNG"
 weight: 307
 navWeight: 694
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - ngô đổng
+  - Síerculia pỉatanìfoỉia L
+  - chữa rụng tóc
+  - chữa loét miệng
 ---
 
 

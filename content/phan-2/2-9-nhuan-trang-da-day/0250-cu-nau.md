@@ -3,6 +3,16 @@ title: "250. CỦ NÂU"
 weight: 250
 navWeight: 751
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - củ nâu
+  - Dioscorea cirrhosa Lour
+  - cầm máu
+  - chữa ho
+  - chữa ỉa chảy
+  - dùng làm thuốc
+  - chữa xích bạch đới
+  - làm thuốc hiện nay người ta chỉ
 ---
 
 

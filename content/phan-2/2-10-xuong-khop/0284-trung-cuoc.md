@@ -3,6 +3,10 @@ title: "284. TRỨNG CUỐC"
 weight: 284
 navWeight: 717
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - trứng cuốc
+  - S/ixis elongaĩa Pierre
 ---
 
 

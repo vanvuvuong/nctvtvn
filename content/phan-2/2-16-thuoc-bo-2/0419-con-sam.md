@@ -3,6 +3,13 @@ title: "419. CON SAM 鱟"
 weight: 419
 navWeight: 582
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - con sam
+  - Tachypleus tridentatus Leach
+  - 鱟
+  - chữa những trường hợp máu
+  - trị này không được dùng cho những người già
 ---
 
 

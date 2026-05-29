@@ -3,6 +3,12 @@ title: "131. RAU SAM"
 weight: 131
 navWeight: 870
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - rau sam
+  - Portulaca oleracea L
+  - giải độc
+  - chữa bệnh cước khí thủy thủng
 ---
 
 

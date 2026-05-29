@@ -3,6 +3,13 @@ title: "77. TRẦU KHÔNG"
 weight: 77
 navWeight: 924
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - trầu không
+  - Piper betie L
+  - chữa ho
+  - chữa viêm kết mạc
+  - chữa bệnh chàm mặt của trẻ em
 ---
 
 

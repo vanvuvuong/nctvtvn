@@ -3,6 +3,11 @@ title: "300. BÔNG BÁO"
 weight: 300
 navWeight: 701
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - bông báo
+  - Thunbergia grandi
+  - chữa rắn cắn rất phổ biến
 ---
 
 

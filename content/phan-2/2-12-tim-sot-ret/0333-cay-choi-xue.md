@@ -3,6 +3,11 @@ title: "333. CÂY CHỔI XUỂ"
 weight: 333
 navWeight: 668
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - cây chổi xuể
+  - Baeckea frutescens L
+  - chữa cảm cúm
 ---
 
 

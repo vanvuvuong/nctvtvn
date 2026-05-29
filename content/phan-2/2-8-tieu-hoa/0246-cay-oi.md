@@ -3,6 +3,14 @@ title: "246. CÂY ỔI"
 weight: 246
 navWeight: 755
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - cây ổi
+  - Psùỉium guyjava L
+  - chữa đi ngoài
+  - dùng làm thuốc
+  - chữa đi ỉa lỏng
+  - chữa đau bụng đi ngoài kinh nghiệm lâu đời
 ---
 
 

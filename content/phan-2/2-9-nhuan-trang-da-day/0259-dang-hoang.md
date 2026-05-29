@@ -3,6 +3,14 @@ title: "259. ĐẰNG HOÀNG"
 weight: 259
 navWeight: 742
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - đằng hoàng
+  - Garcinia hanburyi Hook. f
+  - tẩy sán
+  - chữa cảm
+  - tẩy giun
+  - dùng làm thuốc tẩy nhẹ
 ---
 
 

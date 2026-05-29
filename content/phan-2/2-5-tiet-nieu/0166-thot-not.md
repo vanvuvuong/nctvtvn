@@ -3,6 +3,12 @@ title: "166. THỐT NỐT"
 weight: 166
 navWeight: 835
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - thốt nốt
+  - Borassus f
+  - tiêu đờm
+  - chữa ăn vào nỏn ra
 ---
 
 

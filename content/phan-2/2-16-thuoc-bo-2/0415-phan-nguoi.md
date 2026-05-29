@@ -3,6 +3,18 @@ title: "415. PHÂN NGƯỜI"
 weight: 415
 navWeight: 586
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - phân người
+  - Excrementum Hominis
+  - giải độc
+  - chữa ngộ độc sắn
+  - chữa ngộ độc nem
+  - chữa được bệnh dịch
+  - chữa cốt chưng lao phục
+  - chữa rất nhiều bệnh hiểm nghèo
+  - trị sốt dữ dội do thời khí sinh ra
+  - chữa một số bệnh hiểm nghèo từ thế kỷ thứ 6
 ---
 
 

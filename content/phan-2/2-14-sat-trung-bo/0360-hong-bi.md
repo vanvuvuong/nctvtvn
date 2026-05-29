@@ -3,6 +3,14 @@ title: "360. HỒNG BÌ 黄皮"
 weight: 360
 navWeight: 641
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - hồng bì
+  - Clausena lansium
+  - 黄皮
+  - chữa ho
+  - chữa rắn cắn
+  - dùng làm thuốc
 ---
 
 

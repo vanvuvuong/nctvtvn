@@ -3,6 +3,13 @@ title: "38. E- Công dụng và liều dùng"
 weight: 38
 navWeight: 963
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - e- công dụng và liều dùng
+  - chữa báng
+  - trị rôm sảy
+  - chữa viêm bàng quang cũng có kết quả tốt
+  - trị có kết quả mọi trường hợp viêm tây ngoài da
 ---
 
 

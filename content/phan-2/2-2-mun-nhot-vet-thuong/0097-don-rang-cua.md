@@ -3,6 +3,11 @@ title: "97. ĐƠN RĂNG CƯA"
 weight: 97
 navWeight: 904
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - đơn răng cưa
+  - Maesa indica Wall
+  - chữa mẩn ngứa dị ứng
 ---
 
 

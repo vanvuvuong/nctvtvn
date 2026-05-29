@@ -3,6 +3,12 @@ title: "350. CÂY BỒNG BỒNG"
 weight: 350
 navWeight: 651
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - cây bồng bồng
+  - Calotropis gigantea R. Br
+  - chữa hen
+  - làm thuốc súng
 ---
 
 

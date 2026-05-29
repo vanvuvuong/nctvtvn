@@ -3,6 +3,12 @@ title: "273. CẦY XÁ XỊ"
 weight: 273
 navWeight: 728
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - cầy xá xị
+  - Cinnamomum parthenoxyl
+  - làm thuốc
+  - trị trờ vào
 ---
 
 

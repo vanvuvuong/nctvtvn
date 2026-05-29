@@ -3,6 +3,12 @@ title: "157. CÔN BỐ"
 weight: 157
 navWeight: 844
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - côn bố
+  - chữa bệnh tràng nhạc
+  - làm thuốc nhuận tràng do tác động cơ học
+  - chữa những bệnh mà y học khoa học xác định do thiếu iốt
 ---
 
 

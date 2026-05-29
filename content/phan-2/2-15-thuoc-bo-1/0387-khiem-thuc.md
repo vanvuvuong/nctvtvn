@@ -3,6 +3,14 @@ title: "387. KHIẾM THỰC 芡實"
 weight: 387
 navWeight: 614
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - khiếm thực
+  - Euryale ferox Salisb
+  - 芡實
+  - bổ tỳ
+  - chữa di tinh
+  - chữa bệnh thần kinh suy nhược
 ---
 
 

@@ -3,6 +3,19 @@ title: "3. NGẢI CỨU 北艾"
 weight: 3
 navWeight: 998
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - ngải cứu
+  - Artemisia vulgaris L
+  - 北艾
+  - điều kinh
+  - chữa đau bụng
+  - chữa đang có thai
+  - chữa kinh nguyệt kéo dài
+  - chữa kinh nguyệt kéo đài
+  - dùng làm thuốc ôn khí huyết
+  - dùng làm thuốc giúp sự tiêu hóa
+  - kích thích đối với tử cung có thai
 ---
 
 _Còn gọi_ là cây thuốc cứu, cây thuốc cao, ngải điệp.

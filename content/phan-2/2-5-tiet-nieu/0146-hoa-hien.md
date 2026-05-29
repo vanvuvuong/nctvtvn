@@ -3,6 +3,11 @@ title: "146. HOA HIÊN"
 weight: 146
 navWeight: 855
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - hoa hiên
+  - Hemerocaỉlỉs fuỉva. L
+  - chữa đổ máu cam
 ---
 
 

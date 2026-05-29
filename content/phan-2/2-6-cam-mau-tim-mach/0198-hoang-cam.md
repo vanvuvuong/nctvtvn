@@ -3,6 +3,18 @@ title: "198. HOÀNG CẦM"
 weight: 198
 navWeight: 803
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - hoàng cầm
+  - Scutellaria baicalensis Georg
+  - cầm máu
+  - chữa sốt
+  - chữa cảm mạo
+  - chữa bệnh lao
+  - chữa hàn nhiệt vãng
+  - trị bệnh cao huyết áp
+  - chữa các bệnh đổ máu cam
+  - chữa các triệu chứng nhức đầu
 ---
 
 

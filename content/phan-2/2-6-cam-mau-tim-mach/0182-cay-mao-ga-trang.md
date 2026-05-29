@@ -3,6 +3,14 @@ title: "182. CÂY MÀO GÀ TRẮNG"
 weight: 182
 navWeight: 819
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây mào gà trắng
+  - Celosia argentea L
+  - cầm máu
+  - chữa ỉa lỏng
+  - làm thuốc thu liễm
+  - chữa phong nhiệt làm mắt đau
 ---
 
 

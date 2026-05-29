@@ -3,6 +3,19 @@ title: "111. THÓC LÉP"
 weight: 111
 navWeight: 890
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - thóc lép
+  - Eleutherine suhaphy
+  - lợi tiểu
+  - chữa rắn cơn
+  - chữa mệt mỏi
+  - chữa vết loét
+  - chữa phù thũng
+  - dùng làm thuốc bổ máu
+  - chữa những vết loét vết thương
+  - làm thuốc tại nhiều noi như hà tây
+  - làm thuốc với tên khoa học bul- bus eỉeutherinis subaphyllae
 ---
 
 

@@ -3,6 +3,11 @@ title: "52. Chú thích"
 weight: 52
 navWeight: 949
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - chú thích
+  - chữa mẩn ngứa
+  - thông tiểu tiện
 ---
 
 

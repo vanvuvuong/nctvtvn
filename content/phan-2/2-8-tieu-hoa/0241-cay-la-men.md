@@ -3,6 +3,11 @@ title: "241. CÂY LÁ MEN"
 weight: 241
 navWeight: 760
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - cây lá men
+  - Mosla dianthera Maxim. Thu
+  - chữa đau bụng
 ---
 
 

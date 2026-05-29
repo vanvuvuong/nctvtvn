@@ -3,6 +3,12 @@ title: "190. CÂY HOA HÒE"
 weight: 190
 navWeight: 811
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây hoa hòe
+  - Sophora japonica L
+  - cầm máu
+  - chữa xích bạch lỵ
 ---
 
 

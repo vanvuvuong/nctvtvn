@@ -3,6 +3,10 @@ title: "251. KHOAI RIỀNG"
 weight: 251
 navWeight: 750
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - khoai riềng
+  - Canna edulis Ker
 ---
 
 

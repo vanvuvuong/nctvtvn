@@ -3,6 +3,16 @@ title: "36. CON RẾT"
 weight: 36
 navWeight: 965
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - con rết
+  - Scolopendra morsitans L
+  - trị sang nhọt
+  - chữa các bệnh
+  - giải độc của rắn
+  - chữa sang trĩ đau nhức
+  - chữa tê liệt thần kinh mặt
+  - chữa hàn nhiệt tích tụ trọng bụng
 ---
 
 

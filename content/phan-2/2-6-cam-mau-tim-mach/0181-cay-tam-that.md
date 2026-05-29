@@ -3,6 +3,13 @@ title: "181. CÂY TAM THẤT"
 weight: 181
 navWeight: 820
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây tam thất
+  - Panax Pseudo-ginseng
+  - cầm máu
+  - chữa thổ huyết
+  - thuốc bổ không kém nhân sâm
 ---
 
 

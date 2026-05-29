@@ -3,6 +3,11 @@ title: "203. CÂY SUI"
 weight: 203
 navWeight: 798
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây sui
+  - Antiaris toxicaria Lesch
+  - chữa đau bụng
 ---
 
 

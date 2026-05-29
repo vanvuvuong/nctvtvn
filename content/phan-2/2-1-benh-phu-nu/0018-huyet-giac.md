@@ -3,6 +3,12 @@ title: "18. HUYẾT GIÁC 血角"
 weight: 18
 navWeight: 983
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - huyết giác
+  - Pleomele cochinchinensis Merr
+  - 血角
+  - chữa những trường hợp ứ huyết
 ---
 
 _Còn gọi là_ cây xó nhà, cây dứa dại, cây giáng ông.

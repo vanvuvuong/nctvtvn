@@ -3,6 +3,11 @@ title: "225. MÂM XÔI"
 weight: 225
 navWeight: 776
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - mâm xôi
+  - Rubus alceae
+  - chữa chậm tiêu
 ---
 
 

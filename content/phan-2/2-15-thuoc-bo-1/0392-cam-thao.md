@@ -3,6 +3,9 @@ title: "392. CAM THẢO"
 weight: 392
 navWeight: 609
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - cam thảo
 ---
 
 

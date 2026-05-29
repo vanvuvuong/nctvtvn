@@ -3,6 +3,15 @@ title: "187. VẠN TUẾ"
 weight: 187
 navWeight: 814
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - vạn tuế
+  - Cycas revoluta Thunb
+  - cầm máu
+  - chữa lỵ
+  - giảm đau
+  - chữa mọi chứng chảy máu
+  - chữa những trường hợp đau nhức như đau dạ dày
 ---
 
 

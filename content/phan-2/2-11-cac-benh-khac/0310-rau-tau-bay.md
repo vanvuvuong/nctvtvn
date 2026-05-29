@@ -3,6 +3,10 @@ title: "310. RAU TÀU BAY"
 weight: 310
 navWeight: 691
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - rau tàu bay
+  - Cynura crepidioides Benth
 ---
 
 

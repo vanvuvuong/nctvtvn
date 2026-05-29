@@ -3,6 +3,17 @@ title: "112. TÙNG HƯƠNG"
 weight: 112
 navWeight: 889
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - tùng hương
+  - Resỉna Pini-Cờlophonium
+  - giảm đau
+  - thuốc bổ
+  - sát trùng
+  - điều kinh
+  - chữa mụn nhọt
+  - chữa đau sưng tiêu độc
+  - chữa những mụn nhọt lâu ngày không liền miệng
 ---
 
 

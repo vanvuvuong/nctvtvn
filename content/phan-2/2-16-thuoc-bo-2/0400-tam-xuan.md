@@ -3,6 +3,15 @@ title: "400. TẦM XUÂN 蔷薇"
 weight: 400
 navWeight: 601
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - tầm xuân
+  - Rosa multiflora Thunb
+  - 蔷薇
+  - lợi tiểu
+  - hoạt huyết
+  - chữa ỉa chảy
+  - dùng làm thuốc lý khí
 ---
 
 

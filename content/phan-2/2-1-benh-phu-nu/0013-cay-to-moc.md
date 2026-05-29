@@ -3,6 +3,15 @@ title: "13. CÂY TÔ MỘC 蘇木"
 weight: 13
 navWeight: 988
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cây tô mộc
+  - Caesalpinia sappan L
+  - 蘇木
+  - cầm máu dùng
+  - chữa lỵ ra máu
+  - làm thuốc săn da
+  - chữa kinh nguyệt không đều
 ---
 
 _Còn có tên là_ cây gỗ vang, cây vang nhuộm, cây tô phượng( do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc).

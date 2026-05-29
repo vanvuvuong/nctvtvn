@@ -3,6 +3,13 @@ title: "223. THƯƠNG TRUẬT"
 weight: 223
 navWeight: 778
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - thương truật
+  - giúp tiêu hóa
+  - chữa cấp tính
+  - lợi tiểu rõ rệt
+  - chữa đi ỉa lỏng
 ---
 
 

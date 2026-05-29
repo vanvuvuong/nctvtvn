@@ -3,6 +3,15 @@ title: "347. MÓC MÈO NÚI"
 weight: 347
 navWeight: 654
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - móc mèo núi
+  - Caesalpinia bonducella Flem
+  - chữa lỵ
+  - chữa ho
+  - chữa sốt
+  - thuốc bổ
+  - tẩy giun
 ---
 
 

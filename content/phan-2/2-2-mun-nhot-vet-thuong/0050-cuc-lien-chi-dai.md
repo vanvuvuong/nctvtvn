@@ -3,6 +3,12 @@ title: "50. CÚC LIÊN CHI DẠI"
 weight: 50
 navWeight: 951
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - cúc liên chi dại
+  - Parthenium hysteropkorus L
+  - chữa các vết loét
+  - chữa bệnh sang bạch hành
 ---
 
 

@@ -3,6 +3,18 @@ title: "125. QUÁN CHÚNG -jf &"
 weight: 125
 navWeight: 876
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - quán chúng -jf &
+  - cầm máu
+  - chữa lỵ
+  - giải độc
+  - sát trùng
+  - hoạt huyết
+  - chữa bãng đới
+  - chữa băng huyết
+  - trị bạch thốn trùng
+  - tẩy sán như loài dương xỉ đực
 ---
 
 

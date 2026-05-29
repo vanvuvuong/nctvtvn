@@ -3,6 +3,13 @@ title: "217. HOẮC HƯƠNG 藿香"
 weight: 217
 navWeight: 784
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giãn cơ và thuốc độc
+  - hoắc hương
+  - Pogostemon cablin
+  - 藿香
+  - chữa cảm mạo
+  - chữa ăn uống không tiêu
 ---
 
 

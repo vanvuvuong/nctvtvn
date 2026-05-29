@@ -3,6 +3,11 @@ title: "285. DÂY TOÀN"
 weight: 285
 navWeight: 716
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - dây toàn
+  - Solanum du
+  - dùng làm thuốc lọc máu
 ---
 
 

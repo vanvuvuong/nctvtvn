@@ -3,6 +3,21 @@ title: "327. BẠC HÀ 薄荷"
 weight: 327
 navWeight: 674
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - bạc hà
+  - Mentha arvensis L
+  - 薄荷
+  - giảm đau
+  - sát trùng
+  - chữa kém ăn
+  - chữa cảm sốt
+  - chữa cảm mạo
+  - chữa cảm nắng
+  - dùng làm thuốc
+  - chữa loét dạ dày
+  - thông mật giúp sự liêu hóa
+  - trị cũng thay đổi tuỳ theo nơi mọc
 ---
 
 

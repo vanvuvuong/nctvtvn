@@ -3,6 +3,11 @@ title: "167. KIM TIỂN THẢO"
 weight: 167
 navWeight: 834
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - kim tiển thảo
+  - Desmodìum styraciýolium
+  - chữa bệnh sỏi túi mật
 ---
 
 

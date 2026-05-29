@@ -3,6 +3,10 @@ title: "158. CÂY COM CHÁY"
 weight: 158
 navWeight: 843
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cây com cháy
+  - Samhucus javanica Reinw. C
 ---
 
 

@@ -3,6 +3,10 @@ title: "301. CÀ DẠI HOA TRẮNG"
 weight: 301
 navWeight: 700
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - cà dại hoa trắng
+  - Solanum torvum Swartz
 ---
 
 

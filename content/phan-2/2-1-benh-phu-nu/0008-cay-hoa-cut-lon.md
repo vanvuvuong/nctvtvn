@@ -3,6 +3,13 @@ title: "8. CÂY HOA CỨT LỢN 馬缨丹"
 weight: 8
 navWeight: 993
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cây hoa cứt lợn
+  - Ageratum conyzoides L
+  - 馬缨丹
+  - chữa bệnh phụ nữ bị rong huyết
+  - chữa viêm xoang mũi dị ứng mới phát hiện
 ---
 
 _Còn có tên là_ cây hoa ngũ sắc, cây hoa ngũ vị, cỏ hôi.

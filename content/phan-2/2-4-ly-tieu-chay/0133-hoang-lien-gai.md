@@ -3,6 +3,16 @@ title: "133. HOÀNG LIÊN GAI"
 weight: 133
 navWeight: 868
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - lỵ và tiêu chảy
+  - hoàng liên gai
+  - Berberis wa
+  - chữa lỵ
+  - chữa đi lỵ
+  - chữa đì lỵ
+  - chữa đau răng
+  - chữa mẩn ngứa mụn nhọt
+  - chữa những triệu chứng của huyết áp cao như hoa mắt
 ---
 
 

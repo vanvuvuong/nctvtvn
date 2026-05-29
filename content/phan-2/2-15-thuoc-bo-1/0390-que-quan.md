@@ -3,6 +3,12 @@ title: "390. QUẾ QUAN"
 weight: 390
 navWeight: 611
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - quế quan
+  - Cinnamomum zeylanicum Nees
+  - sát trùng mạnh
+  - kích thích sự tiêu hóa
 ---
 
 

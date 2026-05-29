@@ -3,6 +3,12 @@ title: "108. MUỔNG TRUổNG $£"
 weight: 108
 navWeight: 893
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - muổng truổng $£
+  - Zanthoxyỉum avicennae
+  - làm thuốc
+  - chữa mẩn ngứa
 ---
 
 

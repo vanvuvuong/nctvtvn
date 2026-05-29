@@ -3,6 +3,18 @@ title: "196. CÂY DỪA CẠN"
 weight: 196
 navWeight: 805
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây dừa cạn
+  - Catharanthus roseus
+  - tẩy giun
+  - chữa sốt
+  - lợi tiểu
+  - chữa huyết áp
+  - chữa đái đường
+  - chữa một số bệnh ngoài da
+  - chữa các khối u cho nên khi mua dừa cạn
+  - chữa bệnh đái đường được ghi nhận ở ấn độ
 ---
 
 

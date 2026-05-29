@@ -3,6 +3,12 @@ title: "137. V. CÁC CÂY THUỐC VÀ VỊ THUỐC THÔNG TIỂU TIỆN VÀ THÔ
 weight: 137
 navWeight: 864
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - lỵ và tiêu chảy
+  - v. các cây thuốc và vị thuốc thông tiểu tiện và thông mật
+  - Plantago asiatica L
+  - thuốc lợi tiếu
+  - chữa ho tiểu đờm
 ---
 
 

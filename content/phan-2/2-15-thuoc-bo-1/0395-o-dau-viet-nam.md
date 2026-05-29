@@ -3,6 +3,10 @@ title: "395. Ô ĐẦU VIỆT NAM"
 weight: 395
 navWeight: 606
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - ô đầu việt nam
+  - Aconitum fortunei Hemsl
 ---
 
 

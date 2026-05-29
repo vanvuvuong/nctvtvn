@@ -3,6 +3,16 @@ title: "115. CÀ CHƯA"
 weight: 115
 navWeight: 886
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - cà chưa
+  - Lycopersicum escu
+  - chữa sốt
+  - chữa trĩ
+  - dùng làm thuốc
+  - trị dinh dưỡng
+  - làm thuốc nhuận tràng
+  - kích thích sinh trưởng
 ---
 
 

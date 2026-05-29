@@ -3,6 +3,20 @@ title: "220. XƯƠNG"
 weight: 220
 navWeight: 781
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - xương
+  - Acorus gramineus Soland
+  - chữa tai ù
+  - trị liên tục
+  - chữa đau dạ dày
+  - dùng làm thuốc bố
+  - chữa viêm tá tràng
+  - làm thuốc trừ sâu bọ
+  - kích thích đối với da
+  - trị phong hàn tê thấp
+  - chữa thần kinh suy nhược
+  - dùng làm thuốc điểu hòa nhịp tim
 ---
 
 

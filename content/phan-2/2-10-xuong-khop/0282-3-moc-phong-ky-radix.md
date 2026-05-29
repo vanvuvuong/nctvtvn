@@ -3,6 +3,10 @@ title: "282. 3. MỘC PHÒNG KỶ (RADĨX"
 weight: 282
 navWeight: 719
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - 3. mộc phòng kỷ (radĩx
+  - chữa những bệnh như các vị phòng kỷ nói trẽn
 ---
 
 

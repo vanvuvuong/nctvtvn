@@ -3,6 +3,13 @@ title: "264. CÂY DẠ CẨM"
 weight: 264
 navWeight: 737
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - cây dạ cẩm
+  - Oldenlandia eapitellata Kuntze
+  - giảm đau
+  - trị viêm lưỡi
+  - trị bệnh đau đạ dày từ năm 1962
 ---
 
 

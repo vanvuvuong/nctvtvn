@@ -3,6 +3,15 @@ title: "129. CÂY SẤU ĐÂU RỪNG"
 weight: 129
 navWeight: 872
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - cây sấu đâu rừng
+  - Brucea ịavanica
+  - chữa lỵ
+  - sát trùng
+  - kích thích
+  - chữa sốt rét
+  - chữa ỉa lỏng
 ---
 
 

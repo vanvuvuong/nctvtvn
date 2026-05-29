@@ -3,6 +3,20 @@ title: "351. CÂY DÂU"
 weight: 351
 navWeight: 650
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - cây dâu
+  - Morus alba L. Morus acidosa
+  - bổ can
+  - chữa sốt
+  - chữa di tinh
+  - lợi tiểu tiện
+  - chữa đau lưng
+  - chữa ho ra máu
+  - chữa nôn ra máu
+  - chữa tràng nhạc
+  - chữa ho lâu ngày
+  - chữa cao huyết áp
 ---
 
 

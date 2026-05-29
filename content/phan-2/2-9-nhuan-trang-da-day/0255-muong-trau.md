@@ -3,6 +3,15 @@ title: "255. MUỒNG TRÂU"
 weight: 255
 navWeight: 746
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - muồng trâu
+  - Cassia alata L
+  - chữa khỏi
+  - chữa hắc lào
+  - chữa bệnh hắc lào
+  - chữa bệnh ghẻ của súc vật
+  - dùng làm thuốc nhuận tràng
 ---
 
 

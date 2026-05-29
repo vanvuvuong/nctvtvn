@@ -3,6 +3,13 @@ title: "83. CÂY RÁY"
 weight: 83
 navWeight: 918
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - cây ráy
+  - Alocasla odora
+  - chữa sốt rét
+  - chữa mụn nhọt
+  - dùng làm thuốc
 ---
 
 

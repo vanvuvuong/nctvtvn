@@ -3,6 +3,11 @@ title: "248. KIẾN KỲ NAM"
 weight: 248
 navWeight: 753
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - kiến kỳ nam
+  - Hydnophytum formicarum Jack
+  - chữa các bệnh về gan
 ---
 
 

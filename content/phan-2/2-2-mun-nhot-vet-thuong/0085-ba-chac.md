@@ -3,6 +3,12 @@ title: "85. BA CHẠC"
 weight: 85
 navWeight: 916
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - ba chạc
+  - Evodialepta
+  - điều kinh
+  - làm thuốc bổ đắng
 ---
 
 

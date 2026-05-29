@@ -3,6 +3,13 @@ title: "404. CÂY CƠM NẾP"
 weight: 404
 navWeight: 597
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - cây cơm nếp
+  - Strobilanthes acrocephalus T. Anders
+  - lợi sữa
+  - an thần
+  - chữa đau đầu khó ngủ
 ---
 
 

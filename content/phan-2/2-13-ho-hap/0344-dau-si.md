@@ -3,6 +3,14 @@ title: "344. ĐẬU SỊ"
 weight: 344
 navWeight: 657
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - đậu sị
+  - Semen Sojae praeparatum
+  - chữa lỵ
+  - chữa cảm mạo
+  - chữa hen suyễn
+  - dùng làm thuốc thanh nhiệt sơ khởi
 ---
 
 

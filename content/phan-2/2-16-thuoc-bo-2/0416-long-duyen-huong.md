@@ -3,6 +3,14 @@ title: "416. LONG DUYÊN HƯƠNG 龍延香"
 weight: 416
 navWeight: 585
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - long duyên hương
+  - Ambra grisea
+  - 龍延香
+  - giảm đau
+  - dùng làm thuốc
+  - sát trùng giống như xạ hương nhưng tác dụng có hơi kém hơn
 ---
 
 

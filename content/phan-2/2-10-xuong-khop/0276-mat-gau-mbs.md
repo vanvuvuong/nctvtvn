@@ -3,6 +3,19 @@ title: "276. MẬT GẤU MBS"
 weight: 276
 navWeight: 725
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - mật gấu mbs
+  - Fe.ì Ursi
+  - giải độc
+  - sát trùng
+  - chữa đau mắt
+  - chữa mắt sưng đỏ
+  - chữa mắt sưng đò
+  - chữa mắt đỏ có màng
+  - chữa thấp nhiệt da vàng
+  - chữa những bệnh đau dạ dày
+  - chữa những chồ sưng đau do ngã
 ---
 
 

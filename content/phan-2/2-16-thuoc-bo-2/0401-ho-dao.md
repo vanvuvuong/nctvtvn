@@ -3,6 +3,21 @@ title: "401. HỒ ĐÀO 胡桃"
 weight: 401
 navWeight: 600
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - hồ đào
+  - Juglans regia L
+  - 胡桃
+  - bổ khí
+  - chữa ho
+  - trừ đờm
+  - sát trùng
+  - chữa khí hư
+  - chữa hư hàn
+  - làm thuốc bổ
+  - lợi tiểu tiện
+  - chữa đau lưng
+  - chữa 5 chứng trĩ
 ---
 
 

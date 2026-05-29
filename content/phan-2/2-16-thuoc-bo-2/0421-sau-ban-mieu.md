@@ -3,6 +3,12 @@ title: "421. SÂU BAN MIÊU 斑蝥"
 weight: 421
 navWeight: 580
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - sâu ban miêu
+  - Lytta vesicatoria Fabr
+  - 斑蝥
+  - dùng làm thuốc
 ---
 
 

@@ -3,6 +3,19 @@ title: "221. BẠCH BIỂN ĐẬU"
 weight: 221
 navWeight: 780
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - bạch biển đậu
+  - Doỉìchos Lablab L
+  - bổ tỳ vị
+  - giải độc
+  - chữa nôn ọe
+  - trị hòa trung
+  - chữa đau bụng
+  - dùng làm thuốc
+  - chữa trúng độc
+  - chữa xích bạch đới
+  - chữa các chứng đau bụng
 ---
 
 

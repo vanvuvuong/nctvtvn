@@ -3,6 +3,14 @@ title: "46. BÙNG BỤC"
 weight: 46
 navWeight: 955
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - bùng bục
+  - Mallotus barbatus Muell. et Arg
+  - sát trùng
+  - chữa nôn mửa
+  - dùng làm thuốc
+  - chữa đau dạ dày
 ---
 
 

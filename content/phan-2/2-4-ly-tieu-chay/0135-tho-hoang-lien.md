@@ -3,6 +3,15 @@ title: "135. THỔ HOÀNG LIÊN ()(\\*)("
 weight: 135
 navWeight: 866
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - lỵ và tiêu chảy
+  - thổ hoàng liên ()(\\*
+  - Thaỉicírum ỷoỉioỉosum D.c
+  - chữa lỵ
+  - chữa ìỵ
+  - lợi tiểu
+  - chữa cảm sốt
+  - dùng làm thuốc cùng một công đụng với đơn đỏ
 ---
 
 

@@ -3,6 +3,11 @@ title: "369. CHÙA DÙ"
 weight: 369
 navWeight: 632
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - chùa dù
+  - Elsholtzia blanda Benth
+  - chữa cảm cúm
 ---
 
 

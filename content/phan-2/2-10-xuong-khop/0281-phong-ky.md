@@ -3,6 +3,10 @@ title: "281. PHÒNG KỶ"
 weight: 281
 navWeight: 720
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - phòng kỷ
+  - chữa những bệnh như thủy thũng
 ---
 
 

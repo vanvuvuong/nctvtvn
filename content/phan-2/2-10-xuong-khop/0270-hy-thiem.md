@@ -3,6 +3,12 @@ title: "270. HY THIÊM"
 weight: 270
 navWeight: 731
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - hy thiêm
+  - Siegesbeckia orienta
+  - chữa bệnh nhanh”
+  - chữa bệnh phụ nữ) để tránh nhầm lẫn
 ---
 
 

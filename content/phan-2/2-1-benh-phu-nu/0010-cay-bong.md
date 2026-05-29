@@ -3,6 +3,14 @@ title: "10. CÂY BÔNG 棉株"
 weight: 10
 navWeight: 991
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cây bông
+  - Gossypium sp
+  - 棉株
+  - điều kinh
+  - thông kinh
+  - cầm máu tử cung
 ---
 
 Tên khoa học _Gossypium sp_.

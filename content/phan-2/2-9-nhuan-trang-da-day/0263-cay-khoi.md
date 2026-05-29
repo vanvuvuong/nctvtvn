@@ -3,6 +3,14 @@ title: "263. CÂY KHÔI"
 weight: 263
 navWeight: 738
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - cây khôi
+  - Ardisia sylvestris Pitard
+  - chữa đau bụng
+  - giảm đau 80-100%
+  - chữa đau dạ dày dùng
+  - chữa một số trường hợp đau dạ dày
 ---
 
 

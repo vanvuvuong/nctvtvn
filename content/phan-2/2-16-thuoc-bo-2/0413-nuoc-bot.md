@@ -3,6 +3,20 @@ title: "413. NƯỚC BỌT"
 weight: 413
 navWeight: 588
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - nước bọt
+  - Saliva
+  - giải độc
+  - chữa mụn hạt cơm
+  - chữa nhọt sưng đau
+  - chữa bằng tàn giấy
+  - chữa này cho gia đình
+  - chữa mụn nhọt sưng đau
+  - chữa lại không tốn tiền
+  - chữa khỏi bằng cách buộc chỉ
+  - chữa kiểu này phải kiên trì) cháu thấy rất ngứa ở chỗ mụn
+  - trị mụn mọc ở má của một thanh niên 20 xuân xanh thần tình
 ---
 
 

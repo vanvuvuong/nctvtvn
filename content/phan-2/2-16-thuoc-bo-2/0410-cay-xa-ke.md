@@ -3,6 +3,11 @@ title: "410. CÂY XA KÊ"
 weight: 410
 navWeight: 591
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - cây xa kê
+  - Artocarpus incisa L
+  - trị dinh duỡng cao
 ---
 
 

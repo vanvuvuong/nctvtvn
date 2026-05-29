@@ -3,6 +3,19 @@ title: "2. HƯƠNG PHỤ 香附"
 weight: 2
 navWeight: 999
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - hương phụ
+  - Cyperus rotundus L
+  - 香附
+  - điều kinh
+  - chữa khí uất
+  - chữa nôn mửa
+  - thông kinh tốt
+  - giảm đau nhiều
+  - thông kinh rõ rệt
+  - chữa bệnh phụ khoa
+  - chữa kinh nguyệt không đều
 ---
 
 _Còn gọi_ là củ gấu, cỏ gấu, cỏ cú.

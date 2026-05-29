@@ -3,6 +3,20 @@ title: "226. MỘC HƯƠNG"
 weight: 226
 navWeight: 775
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - mộc hương
+  - Corchorus ol
+  - trừ đờm
+  - chữa ho
+  - lợi tiểu
+  - làm thuốc
+  - thông tiểu
+  - chữa táo bón
+  - chữa đau bụng
+  - chữa ngực bụng đầy
+  - kích thích tiết mật trực tiếp
+  - chữa tim khác như strophantin
 ---
 
 

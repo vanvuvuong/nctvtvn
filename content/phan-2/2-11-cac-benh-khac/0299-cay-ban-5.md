@@ -3,6 +3,18 @@ title: "299. CÂY BAN £5«"
 weight: 299
 navWeight: 702
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - cây ban £5«
+  - Hypericum iaponicum Thunb
+  - chữa rắn cắn
+  - chữa cam tích
+  - chữa hoàng đản
+  - chữa rắn độc cắn
+  - tiêu thũng trướng
+  - chữa tiêu hoá kém
+  - chữa hôi miệng sâu răng
+  - chữa những vết do đỉa cắn
 ---
 
 

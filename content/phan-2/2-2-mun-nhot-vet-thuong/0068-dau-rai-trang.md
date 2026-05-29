@@ -3,6 +3,13 @@ title: "68. DẦU RÁI TRẮNG"
 weight: 68
 navWeight: 933
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - dầu rái trắng
+  - Dipterocarpus alatus Roxb
+  - làm thuốc
+  - chữa bệnh lậu
+  - chữa các vết loét
 ---
 
 

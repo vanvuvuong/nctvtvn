@@ -3,6 +3,13 @@ title: "33. CÂY XÀ SÀNG 蛇床子"
 weight: 33
 navWeight: 968
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - cây xà sàng
+  - Cnidium monnieri
+  - 蛇床子
+  - chữa tai ướt
+  - chữa liệt dương
 ---
 
 

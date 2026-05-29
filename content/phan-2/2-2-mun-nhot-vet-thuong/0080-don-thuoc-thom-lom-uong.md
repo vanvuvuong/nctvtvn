@@ -3,6 +3,10 @@ title: "80. Đơn thuốc thồm lồm uống"
 weight: 80
 navWeight: 921
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - đơn thuốc thồm lồm uống
+  - chữa lỵ
 ---
 
 

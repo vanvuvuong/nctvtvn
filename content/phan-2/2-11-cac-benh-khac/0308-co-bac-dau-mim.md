@@ -3,6 +3,13 @@ title: "308. CỎ BẠC ĐẦU MỈM"
 weight: 308
 navWeight: 693
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - cỏ bạc đầu mỉm
+  - Kylỉinga monocephaía Rottb
+  - sát trùng
+  - chữa ỉa chảy
+  - chữa sâu quảng
 ---
 
 

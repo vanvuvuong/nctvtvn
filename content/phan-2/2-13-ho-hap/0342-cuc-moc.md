@@ -3,6 +3,12 @@ title: "342. CÚC MỐC"
 weight: 342
 navWeight: 659
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - cúc mốc
+  - Crossostephium chinense
+  - chữa cảm mạo
+  - chữa kinh nguyệt không đều
 ---
 
 

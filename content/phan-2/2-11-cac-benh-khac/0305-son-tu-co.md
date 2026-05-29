@@ -3,6 +3,15 @@ title: "305. SƠN Từ CÔ"
 weight: 305
 navWeight: 696
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - sơn từ cô
+  - Pleione bulbocodioides
+  - giải độc
+  - tiêu thũng
+  - chữa ung thũng
+  - chữa ngộ độc thức ăn
+  - chữa ngộ độc thức ẫn
 ---
 
 

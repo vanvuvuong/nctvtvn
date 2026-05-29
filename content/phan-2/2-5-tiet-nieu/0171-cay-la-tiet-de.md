@@ -3,6 +3,19 @@ title: "171. CÂY LÁ TIẾT DÊ"
 weight: 171
 navWeight: 830
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cây lá tiết dê
+  - Cissampelos pareira L
+  - chữa sỏi mật
+  - chữa tê thấp
+  - chữa chậm tiêu
+  - thông tiểu tiện
+  - kích thích tình dục
+  - chữa tiểu tiện khó khăn
+  - chữa những trường hợp sỏi thận
+  - chữa những trường hợp “nóng” như sốt
+  - chữa những trường hợp đi tiểu tiện khó khăn
 ---
 
 

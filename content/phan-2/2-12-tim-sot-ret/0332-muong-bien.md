@@ -3,6 +3,14 @@ title: "332. MUỐNG BIỂN"
 weight: 332
 navWeight: 669
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - muống biển
+  - Ipomoea biloba Forsk
+  - chữa cảm mạo
+  - dùng làm thuốc
+  - thông tiểu tiện
+  - chữa thủy thũng
 ---
 
 

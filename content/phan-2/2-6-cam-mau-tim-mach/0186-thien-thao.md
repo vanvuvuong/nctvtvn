@@ -3,6 +3,14 @@ title: "186. THIẾN THẢO"
 weight: 186
 navWeight: 815
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - thiến thảo
+  - Rubia cordifolia L
+  - thuốc bổ
+  - lợi tiểu
+  - điều kinh
+  - chữa thổ huyết
 ---
 
 

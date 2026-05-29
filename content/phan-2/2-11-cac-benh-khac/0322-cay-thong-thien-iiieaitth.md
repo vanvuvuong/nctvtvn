@@ -3,6 +3,10 @@ title: "322. CÂY THÔNG THIÊN IIĨÊaittH"
 weight: 322
 navWeight: 679
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - cây thông thiên iiĩêaitth
+  - Thevelia neriifo
 ---
 
 

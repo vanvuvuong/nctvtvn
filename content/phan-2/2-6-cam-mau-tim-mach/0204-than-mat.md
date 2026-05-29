@@ -3,6 +3,11 @@ title: "204. THÀN MÁT"
 weight: 204
 navWeight: 797
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - thàn mát
+  - Milletia ichthyochtona Drake
+  - dùng làm thuốc trừ sâu bọ hại mùa màng
 ---
 
 

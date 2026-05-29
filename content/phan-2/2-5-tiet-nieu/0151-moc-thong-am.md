@@ -3,6 +3,17 @@ title: "151. MỘC THÔNG ẠM"
 weight: 151
 navWeight: 850
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - mộc thông ạm
+  - Sapium sebi
+  - lợi sữa
+  - thông tiểu
+  - lợi tiểu tiện
+  - chữa phù thũng
+  - chữa khó tiểu tiện
+  - chữa kinh nguyệt bế tắc
+  - chữa thấp nhiệt lâm bệnh
 ---
 
 

@@ -3,6 +3,17 @@ title: "372. THUYỂN THUẾ 蝉蜕"
 weight: 372
 navWeight: 629
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - thuyển thuế
+  - 蝉蜕
+  - chữa lở
+  - chữa sốt
+  - chữa cảm mạo
+  - chữa đậu chẩn
+  - chữa kinh giật
+  - dùng làm thuốc trấn kinh
+  - chữa một số trường hợp uốn ván có kết quả
 ---
 
 

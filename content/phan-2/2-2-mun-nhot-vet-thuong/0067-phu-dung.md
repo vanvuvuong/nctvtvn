@@ -3,6 +3,10 @@ title: "67. PHÙ DUNG"
 weight: 67
 navWeight: 934
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - phù dung
+  - Hibiscus mutabilis L
 ---
 
 

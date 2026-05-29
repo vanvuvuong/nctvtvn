@@ -3,6 +3,11 @@ title: "233. HUBLÔNG"
 weight: 233
 navWeight: 768
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - hublông
+  - giảm đau
+  - làm thuốc giúp sự tiêu hóa
 ---
 
 

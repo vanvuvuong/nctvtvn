@@ -3,6 +3,11 @@ title: "207. HƯƠNG LÂU"
 weight: 207
 navWeight: 794
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - hương lâu
+  - Vetiveria zizanioides
+  - chữa sốt
 ---
 
 

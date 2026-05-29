@@ -3,6 +3,10 @@ title: "176. CÂY NGHỂ"
 weight: 176
 navWeight: 825
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cây nghể
+  - Polygonum hydropiper L. Persicaria h
 ---
 
 

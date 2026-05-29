@@ -3,6 +3,14 @@ title: "63. MÁU CHÓ"
 weight: 63
 navWeight: 938
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - máu chó
+  - Knema corticosa Lour
+  - chữa ghẻ
+  - sát trùng
+  - chữa bệnh hủi
+  - trị ghẻ ruồi rất công hiệu
 ---
 
 

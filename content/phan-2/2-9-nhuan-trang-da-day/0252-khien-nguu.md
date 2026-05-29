@@ -3,6 +3,20 @@ title: "252. KHIÊN NGƯU 牵牛"
 weight: 252
 navWeight: 749
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - khiên ngưu
+  - Ipomoea hederacea Jacq
+  - 牵牛
+  - sát trùng
+  - trị hạ khí
+  - chữa tiện bĩ
+  - chữa phù thũng
+  - chữa cước thũng
+  - thuốc lợi đại tiểu tiện
+  - dùng làm thuốc thông đại
+  - chữa tinh thần phân liệt
+  - thông mật đôi khi có tác dụng ra giun
 ---
 
 

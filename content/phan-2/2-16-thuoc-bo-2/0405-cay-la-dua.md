@@ -3,6 +3,9 @@ title: "405. CÂY LÁ DỨA"
 weight: 405
 navWeight: 596
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - cây lá dứa
 ---
 
 

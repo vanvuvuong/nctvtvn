@@ -3,6 +3,13 @@ title: "268. DÂY ĐAU XƯƠNG"
 weight: 268
 navWeight: 733
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - dây đau xương
+  - Tìnospora sinensis Merr
+  - dùng làm thuốc bổ
+  - chữa bệnh đau xương
+  - chữa những triệu chứng của bệnh tê thấp
 ---
 
 

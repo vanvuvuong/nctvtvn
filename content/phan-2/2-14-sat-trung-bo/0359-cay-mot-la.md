@@ -3,6 +3,14 @@ title: "359. CÂY MỘT LÁ 青天葵"
 weight: 359
 navWeight: 642
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - cây một lá
+  - Nervilia fordii
+  - 青天葵
+  - giải độc
+  - chữa lao phổi
+  - dùng làm thuốc lợi phế
 ---
 
 

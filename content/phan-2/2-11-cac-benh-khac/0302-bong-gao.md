@@ -3,6 +3,14 @@ title: "302. BÔNG GẠO"
 weight: 302
 navWeight: 699
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - bông gạo
+  - Gossampinus ma
+  - chữa lậu
+  - thông tiểu
+  - chữa ỉa chảy
+  - chữa đau răng
 ---
 
 

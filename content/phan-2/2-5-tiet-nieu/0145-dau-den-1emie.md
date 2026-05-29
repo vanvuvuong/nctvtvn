@@ -3,6 +3,10 @@ title: "145. ĐẬU ĐEN 1ẼMIE"
 weight: 145
 navWeight: 856
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - đậu đen 1ẽmie
+  - bổ thận thủy
 ---
 
 

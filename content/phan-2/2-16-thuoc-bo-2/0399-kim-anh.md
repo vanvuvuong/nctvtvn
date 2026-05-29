@@ -3,6 +3,17 @@ title: "399. KIM ANH 金樱子"
 weight: 399
 navWeight: 602
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - kim anh
+  - Rosa laevigata Michx
+  - 金樱子
+  - cầm máu
+  - chữa di tinh
+  - chữa lỵ lâu ngày
+  - dùng làm thuốc bổ
+  - chữa di mộng tinh
+  - chữa bệnh về thần kinh với những triệu chứng như lo âu
 ---
 
 

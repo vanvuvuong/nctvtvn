@@ -3,6 +3,14 @@ title: "159. RAU DỪA"
 weight: 159
 navWeight: 842
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - rau dừa
+  - chữa lỵ
+  - lợi tiểu
+  - thông tiểu
+  - làm thuốc lọc máu
+  - dùng làm thuốc nhuận
 ---
 
 

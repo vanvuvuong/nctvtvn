@@ -3,6 +3,16 @@ title: "304. RAƯRẢM"
 weight: 304
 navWeight: 697
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - raưrảm
+  - Polygonum odoratum Lour
+  - thông tiểu
+  - chữa di tinh
+  - chữa rắn cẩn
+  - dùng làm thuốc bổ
+  - dùng làm thuốc trấn kinh
+  - chữa rắn cắn (xem vị bông báo) rẻ do chất nhầy được dùng để hổ giấy
 ---
 
 

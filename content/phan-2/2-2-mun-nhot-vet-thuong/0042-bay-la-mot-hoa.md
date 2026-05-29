@@ -3,6 +3,14 @@ title: "42. BẢY LÁ MỘT HOA"
 weight: 42
 navWeight: 959
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - bảy lá một hoa
+  - Paris polyphylla Sm
+  - giải độc
+  - chữa sốt
+  - chữa mụn nhọt
+  - làm thuốc tẩy
 ---
 
 

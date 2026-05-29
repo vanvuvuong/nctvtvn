@@ -3,6 +3,12 @@ title: "216. GỪNG GIÓ"
 weight: 216
 navWeight: 785
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giãn cơ và thuốc độc
+  - gừng gió
+  - Zingiber zerumbet Sm
+  - kích thích
+  - chữa những trường hợp
 ---
 
 

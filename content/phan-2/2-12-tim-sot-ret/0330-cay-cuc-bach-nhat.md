@@ -3,6 +3,12 @@ title: "330. CÂY CÚC BÁCH NHẬT 百日红"
 weight: 330
 navWeight: 671
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - cây cúc bách nhật
+  - Gomphrena globosa L
+  - 百日红
+  - chữa hen suyễn đối với người lớn
 ---
 
 

@@ -3,6 +3,13 @@ title: "156. CÂY CAM XỮNG HmM"
 weight: 156
 navWeight: 845
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cây cam xững hmm
+  - Sauropus r
+  - làm thuốc
+  - chữa đau vú
+  - chữa trẻ con bị phù nề
 ---
 
 

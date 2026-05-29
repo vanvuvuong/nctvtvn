@@ -3,6 +3,15 @@ title: "271. CÂY SƯNG"
 weight: 271
 navWeight: 730
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - cây sưng
+  - Ficus glomerata Roxb. var. chittagonga
+  - chữa hen
+  - chữa tê liệt
+  - chữa nhức đáu
+  - chữa bệnh nhức đầu
+  - chữa mụn nhọt bắp chuối
 ---
 
 

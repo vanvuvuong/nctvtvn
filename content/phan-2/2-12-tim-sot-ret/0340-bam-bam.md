@@ -3,6 +3,11 @@ title: "340. BÀM BÀM"
 weight: 340
 navWeight: 661
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - bàm bàm
+  - Entada phaseoloides
+  - chữa nóng
 ---
 
 

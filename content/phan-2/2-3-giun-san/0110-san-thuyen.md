@@ -3,6 +3,11 @@ title: "110. SẮN THUYỀN"
 weight: 110
 navWeight: 891
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - sắn thuyền
+  - Syiygium resinosum
+  - chữa những vết thương nhiễm trùng thông thường
 ---
 
 

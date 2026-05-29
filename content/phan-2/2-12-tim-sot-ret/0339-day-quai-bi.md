@@ -3,6 +3,12 @@ title: "339. DÂY QUAI BỊ"
 weight: 339
 navWeight: 662
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - tim và sốt rét
+  - dây quai bị
+  - Tetrastigma strumarium
+  - chữa sốt
+  - chữa bệnh này
 ---
 
 

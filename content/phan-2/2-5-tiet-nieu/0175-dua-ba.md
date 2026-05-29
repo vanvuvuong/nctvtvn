@@ -3,6 +3,12 @@ title: "175. DỨA BÀ"
 weight: 175
 navWeight: 826
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - dứa bà
+  - Agave americana Lin
+  - chữa sốt
+  - chữa đau nhức
 ---
 
 

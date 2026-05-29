@@ -3,6 +3,11 @@ title: "120. CÂY THÙN MỮN (1) à %M. M- %"
 weight: 120
 navWeight: 881
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - cây thùn mữn (1) à %m. m- %
+  - trị giun đũa
+  - chữa giun sán
 ---
 
 

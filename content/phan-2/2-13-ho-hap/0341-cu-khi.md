@@ -3,6 +3,12 @@ title: "341. CỦ KHỈ"
 weight: 341
 navWeight: 660
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - củ khỉ
+  - Murraya tetramera Huang- Murraya glabra
+  - tiêu thũng
+  - chữa cảm mạo
 ---
 
 

@@ -3,6 +3,11 @@ title: "318. SAO ĐEN"
 weight: 318
 navWeight: 683
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - sao đen
+  - Hopea odorala Roxb
+  - chữa các bệnh viêm lợi
 ---
 
 

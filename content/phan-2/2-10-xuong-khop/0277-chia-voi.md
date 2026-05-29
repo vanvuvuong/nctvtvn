@@ -3,6 +3,13 @@ title: "277. CHÌA VÔI"
 weight: 277
 navWeight: 724
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - chìa vôi
+  - Cissus modeccoides Planch
+  - chữa đau nhức xương
+  - sát trùng rổi dùng nong cổ tử cung
+  - kích thích sự co bóp tử cung để tống thai ra
 ---
 
 

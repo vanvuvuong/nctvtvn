@@ -3,6 +3,16 @@ title: "377. CÁC LOẠI SÂM"
 weight: 377
 navWeight: 624
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - các loại sâm
+  - Panax ginseng C. A. Mey
+  - dùng làm thuốc bổ
+  - chữa các chứng đau ruột
+  - chữa phế hư sinh ho suyễn
+  - chữa cơ thể quá suy nhược
+  - chữa trẻ con đổ mồ hôi trộm
+  - chữa những trường hợp mạch suy
 ---
 
 

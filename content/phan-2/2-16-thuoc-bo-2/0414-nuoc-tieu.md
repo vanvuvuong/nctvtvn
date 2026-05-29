@@ -3,6 +3,15 @@ title: "414. NƯỚC TIỂU"
 weight: 414
 navWeight: 587
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ và vị thuốc động vật
+  - nước tiểu
+  - Urina Hominis
+  - bổ âm
+  - cầm máu
+  - chữa hàn nhiệt
+  - chữa các chúng sốt rét
+  - chữa sưng mộng răng chảy máu
 ---
 
 

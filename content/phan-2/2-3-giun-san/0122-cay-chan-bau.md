@@ -3,6 +3,14 @@ title: "122. CÂY CHÂN BẦU"
 weight: 122
 navWeight: 879
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giun sán và ký sinh trùng
+  - cây chân bầu
+  - Combretum quadranguiare Kurz
+  - chữa giun đũa
+  - chữa giun rõ rệt
+  - làm thuốc giun như trên
+  - chữa trâu bò ngựa gầy gò
 ---
 
 

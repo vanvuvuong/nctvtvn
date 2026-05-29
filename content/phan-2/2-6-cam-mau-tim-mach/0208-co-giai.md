@@ -3,6 +3,11 @@ title: "208. CỔ GIẢI"
 weight: 208
 navWeight: 793
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cổ giải
+  - Milletia sp
+  - dùng làm thuốc diệt ruồi
 ---
 
 

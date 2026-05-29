@@ -3,6 +3,17 @@ title: "354. THỊ ĐẾ 柿蒂"
 weight: 354
 navWeight: 647
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - thị đế
+  - Diospyros kaki L. f
+  - 柿蒂
+  - chữa ho
+  - chữa nấc
+  - chữa đầy bụng
+  - chữa ách nghịch
+  - chữa đau cổ họng
+  - chữa cao huyết áp có kết quả
 ---
 
 

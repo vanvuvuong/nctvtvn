@@ -3,6 +3,10 @@ title: "29. CHỈ THIÊN"
 weight: 29
 navWeight: 972
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - chỉ thiên
+  - Tên khác Chiều
 ---
 
 

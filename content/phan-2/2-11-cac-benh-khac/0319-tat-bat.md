@@ -3,6 +3,15 @@ title: "319. TẤT BẠT"
 weight: 319
 navWeight: 682
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - tất bạt
+  - Piper longum L
+  - chữa đau bụng
+  - chữa nhức đẩu
+  - chữa sâu răng
+  - chữa bệnh tim
+  - chữa thiên đấu thông
 ---
 
 

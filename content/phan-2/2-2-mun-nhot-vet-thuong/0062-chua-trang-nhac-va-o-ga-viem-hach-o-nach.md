@@ -3,6 +3,10 @@ title: "62. Chữa tràng nhạc và ổ gà (viêm hạch ở nách)"
 weight: 62
 navWeight: 939
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - chữa tràng nhạc và ổ gà (viêm hạch ở nách
+  - chữa sưng vú
 ---
 
 

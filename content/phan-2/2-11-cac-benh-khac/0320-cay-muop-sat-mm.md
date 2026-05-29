@@ -3,6 +3,13 @@ title: "320. CÂY MƯỚP SÁT M&m"
 weight: 320
 navWeight: 681
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - cây mướp sát m&m
+  - Cerbera odo
+  - chữa ngứa
+  - chữa bệnh tim
+  - dùng làm thuốc ở việt nam
 ---
 
 

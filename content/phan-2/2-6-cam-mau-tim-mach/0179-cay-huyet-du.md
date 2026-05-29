@@ -3,6 +3,12 @@ title: "179. CÂY HUYẾT DỤ"
 weight: 179
 navWeight: 822
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây huyết dụ
+  - Cordyline terminalis Kunth
+  - cầm máu
+  - chữa lỵ
 ---
 
 

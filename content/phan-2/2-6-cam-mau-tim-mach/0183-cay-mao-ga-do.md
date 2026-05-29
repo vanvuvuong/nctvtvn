@@ -3,6 +3,14 @@ title: "183. CÂY MÀO GÀ ĐỎ"
 weight: 183
 navWeight: 818
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây mào gà đỏ
+  - Celosia cristata L
+  - cầm máu
+  - chữa dạ dày
+  - chữa lòi dom
+  - chữa xích bạch lỵ
 ---
 
 

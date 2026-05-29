@@ -3,6 +3,11 @@ title: "58. LIÊN KIỀU"
 weight: 58
 navWeight: 943
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - liên kiều
+  - Porsythiasuspensa Vahl. Thu
+  - dùng làm thuốc có khi người ta chia làm thanh kiều
 ---
 
 

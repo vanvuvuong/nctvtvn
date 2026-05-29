@@ -3,6 +3,13 @@ title: "296. CHÌA VỐI"
 weight: 296
 navWeight: 705
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - chìa vối
+  - chữa đau bụng
+  - chữa thấp khớp
+  - dùng làm thuốc tẩy mạnh
+  - dùng làm thuốc gồm thản rễ
 ---
 
 

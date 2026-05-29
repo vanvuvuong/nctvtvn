@@ -3,6 +3,14 @@ title: "12. CÂY NGƯU TẤT 牛膝"
 weight: 12
 navWeight: 989
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cây ngưu tất
+  - Achyranthes bidentata Blume
+  - 牛膝
+  - phá huyết
+  - bổ can thận
+  - chữa bệnh cholesterol máu cao
 ---
 
 _Còn có tên là_ cây cỏ xước, hoài ngưu tất.

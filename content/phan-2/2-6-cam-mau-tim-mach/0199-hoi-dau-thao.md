@@ -3,6 +3,11 @@ title: "199. HỒI ĐẦU THẢO"
 weight: 199
 navWeight: 802
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - hồi đầu thảo
+  - Schizocapsa plantaginea Hance
+  - chữa huyết áp của phụ nữ
 ---
 
 

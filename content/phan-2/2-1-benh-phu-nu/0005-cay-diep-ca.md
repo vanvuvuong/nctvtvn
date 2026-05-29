@@ -3,6 +3,16 @@ title: "5. CÂY DIẾP CÁ 魚腥草"
 weight: 5
 navWeight: 996
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cây diếp cá
+  - Houttuynia cordata Thunb
+  - 魚腥草
+  - thông tiểu
+  - chữa phế ung
+  - chữa ung thũng
+  - chữa bệnh mụn nhọt
+  - chữa bệnh viêm sưng tai giữa
 ---
 
 _Còn có tên là_ cây lá giấp, ngư tinh thảo.

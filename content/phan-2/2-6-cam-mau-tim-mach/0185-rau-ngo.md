@@ -3,6 +3,12 @@ title: "185. RAU NGỔ"
 weight: 185
 navWeight: 816
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - rau ngổ
+  - Enydra fluctuans Lour
+  - làm thuốc
+  - chữa những trường hợp ăn uống không tiêu
 ---
 
 

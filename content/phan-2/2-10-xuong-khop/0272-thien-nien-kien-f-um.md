@@ -3,6 +3,14 @@ title: "272. THIÊN NIÊN KIỆN =F ụM"
 weight: 272
 navWeight: 729
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - thiên niên kiện =f ụm
+  - Homaỉomena aromatica
+  - chữa giang mai
+  - chữa đau xương
+  - chữa đau khớp xương
+  - giải độc do thủy ngân
 ---
 
 

@@ -3,6 +3,11 @@ title: "162. CÂY ĐA"
 weight: 162
 navWeight: 839
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - cây đa
+  - lợi tiểu đùng
+  - chữa đi ngoài
 ---
 
 

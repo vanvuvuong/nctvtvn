@@ -3,6 +3,15 @@ title: "261. LỘC MẠI"
 weight: 261
 navWeight: 740
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - nhuận tràng và bệnh dạ dày
+  - lộc mại
+  - Mercurialis indica Lour
+  - thông mật
+  - chữa táo bón
+  - chữa lở ngứa
+  - dùng làm thuốc tẩy cho phụ nữ có thai
+  - thông tiểu cho những người bị bệnh gút
 ---
 
 

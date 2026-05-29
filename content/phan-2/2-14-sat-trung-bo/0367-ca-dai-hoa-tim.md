@@ -3,6 +3,14 @@ title: "367. CÀ DẠI HOA TÍM 紫花茄"
 weight: 367
 navWeight: 634
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - cà dại hoa tím
+  - Solanum indicum L
+  - 紫花茄
+  - chữa ho
+  - lợi tiểu
+  - chữa đau răng
 ---
 
 

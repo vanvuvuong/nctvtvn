@@ -3,6 +3,11 @@ title: "381. HÀ THỦ Ô"
 weight: 381
 navWeight: 620
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - hà thủ ô
+  - Polygonum multiflorum Thunb. Fallopia multiflora
+  - thuốc bổ đông y có khả năng làm người già hoá trẻ
 ---
 
 

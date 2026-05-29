@@ -3,6 +3,10 @@ title: "193. CÂY BA GẠC ẤN ĐỘ"
 weight: 193
 navWeight: 808
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - cây ba gạc ấn độ
+  - Rauwoflia serpentina Benth
 ---
 
 

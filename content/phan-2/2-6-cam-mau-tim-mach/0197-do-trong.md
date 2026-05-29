@@ -3,6 +3,14 @@ title: "197. ĐỖ TRỌNG"
 weight: 197
 navWeight: 804
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - đỗ trọng
+  - Eucommia ulmoides Oliv
+  - bổ can
+  - chữa đau lưng
+  - chữa các bệnh
+  - trị bệnh cao huyết áp
 ---
 
 

@@ -3,6 +3,19 @@ title: "79. THỒM LỒM"
 weight: 79
 navWeight: 922
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - thồm lồm
+  - Polygonumsinense L
+  - chữa lỵ
+  - giải độc
+  - trừ thấp
+  - chữa bệnh về mắt
+  - trị bì phu thấp độc
+  - chữa thồm lồm ăn tai
+  - chữa một em bé bị chảy dãi nặng
+  - chữa 14 bệnh nhân khỏi hẳn một người
+  - chữa những bệnh ngoài da nhiễm liên cầu khuẩn khác như chốc đầu
 ---
 
 

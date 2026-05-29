@@ -3,6 +3,13 @@ title: "243. KHA TỬ Hí"
 weight: 243
 navWeight: 758
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - kha tử hí
+  - Terminaỉia chebula Retz
+  - chữa lỵ kinh niên
+  - chữa ho mất tiếng
+  - chữa đi ỉa lỏng lâu ngày
 ---
 
 

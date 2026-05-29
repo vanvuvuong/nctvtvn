@@ -3,6 +3,11 @@ title: "24. BO MẨY"
 weight: 24
 navWeight: 977
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - bo mẩy
+  - Clerodendron cyrtophyllum Turcz
+  - chữa sốt phát ban
 ---
 
 _Còn gọi là_ đại thanh, đắng cay, mẩy kỳ cáy, thanh thảo tâm, bọ nẹt.

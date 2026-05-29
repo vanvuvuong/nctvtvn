@@ -3,6 +3,20 @@ title: "393. CAM THẢO BẮC"
 weight: 393
 navWeight: 608
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - thuốc bổ
+  - cam thảo bắc
+  - Clycyrrhiza uralensis Fish v
+  - chữa ho
+  - bổ tỳ vị
+  - giải độc
+  - chữa cháy
+  - chữa đau họng
+  - dùng làm thuốc
+  - chữa đau dạ dày
+  - chữa loét dạ dày
+  - trị bệnh addidơn
+  - chữa tỳ hư mà ỉa lỏng
 ---
 
 

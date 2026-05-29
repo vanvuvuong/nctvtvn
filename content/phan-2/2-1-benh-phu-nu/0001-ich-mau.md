@@ -3,6 +3,21 @@ title: "1. ÍCH MẪU 益母草"
 weight: 1
 navWeight: 1000
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - ích mẫu
+  - Leonurus heterophyllus Sw
+  - 益母草
+  - chữa lỵ
+  - điều kinh
+  - thông tiểu
+  - thuốc bổ huyết
+  - chữa phù thũng
+  - cầm máu tử cung
+  - chữa bệnh phụ nữ
+  - chữa huyết áp cao
+  - chữa viêm niêm mạc dạ con
+  - chữa một số bệnh như sưng vú
 ---
 
 _Còn gọi_ là ích mẫu thảo, sung úy, chói đèn.

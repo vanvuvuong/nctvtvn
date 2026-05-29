@@ -3,6 +3,10 @@ title: "78. Đơn thuốc có trầu không"
 weight: 78
 navWeight: 923
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - đơn thuốc có trầu không
+  - chữa các vết lở loét
 ---
 
 

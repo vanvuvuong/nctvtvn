@@ -3,6 +3,10 @@ title: "213. MẮC KẸN"
 weight: 213
 navWeight: 788
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - giãn cơ và thuốc độc
+  - mắc kẹn
+  - Aesculus sinensis Bunge
 ---
 
 

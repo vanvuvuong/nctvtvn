@@ -3,6 +3,12 @@ title: "363. GAI TẦM XOỌNG 酒饼簕"
 weight: 363
 navWeight: 638
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - gai tầm xoọng
+  - Atalantia buxifolia
+  - 酒饼簕
+  - chữa những bệnh về đường hô hấp
 ---
 
 

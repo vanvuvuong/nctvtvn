@@ -3,6 +3,17 @@ title: "274. TỲ GIẢI"
 weight: 274
 navWeight: 727
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - tỳ giải
+  - làm thuốc
+  - lợi tiểu tiện
+  - chữa mụn nhọt
+  - chữa thấp khớp
+  - chữa bạch trọc
+  - chữa thống phong
+  - chữa bệnh tiểu tiện đục
+  - chữa tiểu tiện đục mãn tính
 ---
 
 

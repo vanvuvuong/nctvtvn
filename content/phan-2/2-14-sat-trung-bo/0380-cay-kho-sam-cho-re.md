@@ -3,6 +3,16 @@ title: "380. CÂY KHỔ SÂM CHO RỄ 苦参"
 weight: 380
 navWeight: 621
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - cây khổ sâm cho rễ
+  - Sophora flavescens Ait
+  - 苦参
+  - chữa lỵ
+  - chữa giun
+  - thuốc bổ đắng
+  - thuốc lợi tiểu tiện
+  - chữa sốt quá hoá điên cuồng
 ---
 
 

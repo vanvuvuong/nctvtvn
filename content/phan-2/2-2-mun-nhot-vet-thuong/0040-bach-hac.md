@@ -3,6 +3,11 @@ title: "40. BẠCH HẠC"
 weight: 40
 navWeight: 961
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - bạch hạc
+  - Rhinacanthus nasuta
+  - chữa bệnh hắc lào
 ---
 
 

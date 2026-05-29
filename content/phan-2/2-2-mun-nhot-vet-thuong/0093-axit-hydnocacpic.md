@@ -3,6 +3,9 @@ title: "93. Axit hydnocacpic"
 weight: 93
 navWeight: 908
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - axit hydnocacpic
 ---
 
 

@@ -3,6 +3,20 @@ title: "136. ĐƠN TRẮNG ()(\\*)()MỌ"
 weight: 136
 navWeight: 865
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - lỵ và tiêu chảy
+  - đơn trắng ()(\\*)()mọ
+  - Psychoiria reevesii Wall
+  - chữa lỵ
+  - trị sán
+  - chữa ho
+  - giải độc
+  - điều kinh
+  - chữa ỉa chảy
+  - chữa đi ỉa chảy
+  - chữa trâu bò đầy trướng
+  - làm thuốc người ta dùng vỏ cây
+  - dùng làm thuốc cùa cây là thân rể
 ---
 
 

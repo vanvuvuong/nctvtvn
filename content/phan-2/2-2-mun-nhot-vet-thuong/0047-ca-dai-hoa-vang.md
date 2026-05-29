@@ -3,6 +3,13 @@ title: "47. CÀ DẠI HOA VÀNG"
 weight: 47
 navWeight: 954
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - cà dại hoa vàng
+  - Argemone mexicana L
+  - làm thuốc
+  - chữa bệnh gì
+  - chữa trai chân
 ---
 
 

@@ -3,6 +3,15 @@ title: "278. CỦ CỐT KHÍ £&&&"
 weight: 278
 navWeight: 723
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - xương khớp và tê thấp
+  - củ cốt khí £&&&
+  - Reynoutria japonica Houtt. Polygonum cuspidatum
+  - cầm máu
+  - lợi tiểu
+  - thông kinh
+  - chữa tê thấp
+  - giảm đau giảm độc
 ---
 
 

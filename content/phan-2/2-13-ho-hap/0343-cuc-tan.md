@@ -3,6 +3,13 @@ title: "343. CÚC TẦN"
 weight: 343
 navWeight: 658
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - hô hấp
+  - cúc tần
+  - Pluchea indica
+  - chữa lỵ
+  - chữa đau
+  - chữa cảm sốt
 ---
 
 

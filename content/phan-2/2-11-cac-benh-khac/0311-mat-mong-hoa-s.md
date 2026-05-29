@@ -3,6 +3,17 @@ title: "311. MẬT MÔNG HOA s"
 weight: 311
 navWeight: 690
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - mật mông hoa s
+  - Buddỉeia offỉcinalis Maxim
+  - chữa nhức đáu
+  - làm thuốc tẩy
+  - dùng làm thuốc
+  - thông tiểu tiện
+  - chữa bệnh scobut
+  - chữa hóc xương gà
+  - chữa bệnh nhức đẩu
 ---
 
 

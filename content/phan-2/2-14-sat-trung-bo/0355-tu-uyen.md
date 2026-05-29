@@ -3,6 +3,16 @@ title: "355. TỬ UYỂN 紫菀"
 weight: 355
 navWeight: 646
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - sát trùng và thuốc bổ
+  - tử uyển
+  - Aster tataricus L
+  - 紫菀
+  - chữa ho
+  - thông tiểu tiện
+  - chữa tiểu tiện ra huyết
+  - chữa viêm khí quản mãn tính
+  - chữa trẻ con ho không ra tiếng
 ---
 
 

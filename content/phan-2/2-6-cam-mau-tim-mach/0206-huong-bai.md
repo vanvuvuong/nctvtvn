@@ -3,6 +3,11 @@ title: "206. HƯƠNG BÀI"
 weight: 206
 navWeight: 795
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - hương bài
+  - Dianella ensifolia DC
+  - làm thuốc
 ---
 
 

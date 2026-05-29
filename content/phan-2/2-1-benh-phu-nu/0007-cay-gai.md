@@ -3,6 +3,18 @@ title: "7. CÂY GAI 宁麻"
 weight: 7
 navWeight: 994
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - cây gai
+  - Boehmeria nivea
+  - 宁麻
+  - lợi tiểu
+  - chữa đơn độc
+  - chữa sang lở
+  - dùng làm thuốc
+  - thông tiểu tiện
+  - chữa tiểu tiện đục
+  - chữa bệnh phụ nữ có thai đau bụng
 ---
 
 _Còn gọi là_ trữ ma (Trung Quốc).

@@ -3,6 +3,13 @@ title: "99. GĂNG TU HÚ"
 weight: 99
 navWeight: 902
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - găng tu hú
+  - Randia dumetorum Benth
+  - chữa lỵ
+  - làm thuốc
+  - chữa ỉa chảy
 ---
 
 

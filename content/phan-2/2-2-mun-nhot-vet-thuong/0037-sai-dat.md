@@ -3,6 +3,12 @@ title: "37. SÀI ĐẤT"
 weight: 37
 navWeight: 964
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - sài đất
+  - Wedeliacalendulacea
+  - giảm đau
+  - dùng làm thuốc
 ---
 
 

@@ -3,6 +3,14 @@ title: "234. CÂY DUNG âíÈÃ-"
 weight: 234
 navWeight: 767
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - cây dung âíèã
+  - Sympỉocos racemosa Roxb
+  - chữa ỉa chảy
+  - chữa đau bụnc
+  - chữa đau bụng
+  - chữa đau dạ đày có tăng toan
 ---
 
 

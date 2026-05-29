@@ -3,6 +3,11 @@ title: "104. KEO NƯỚC HOA"
 weight: 104
 navWeight: 897
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - mụn nhọt, vết thương và bệnh ngoài da
+  - keo nước hoa
+  - Acacia farnesiana Willd
+  - chữa khí hư
 ---
 
 

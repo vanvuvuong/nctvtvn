@@ -3,6 +3,21 @@ title: "17. ĐƯƠNG QUY 當歸"
 weight: 17
 navWeight: 984
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - bệnh phụ nữ
+  - đương quy
+  - Angelica sinensis
+  - 當歸
+  - bổ huyết
+  - thuốc bổ
+  - hoạt huyết
+  - thông kinh
+  - chữa mất ngủ
+  - trị bệnh khác
+  - chữa thiếu máu
+  - cầm máu đi lên
+  - chữa thổ huyết
+  - chữa bệnh phụ nữ
 ---
 
 _Còn gọi là_ tần quy, vân quy.

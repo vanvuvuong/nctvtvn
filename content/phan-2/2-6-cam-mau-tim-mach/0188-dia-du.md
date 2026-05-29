@@ -3,6 +3,12 @@ title: "188. ĐỊA DU"
 weight: 188
 navWeight: 813
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - cầm máu và bệnh tim mạch
+  - địa du
+  - Sanguisorba officinalis L
+  - cầm máu
+  - chữa nôn ra máu
 ---
 
 

@@ -3,6 +3,11 @@ title: "239. TAI CHUA"
 weight: 239
 navWeight: 762
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiêu hóa
+  - tai chua
+  - Garcinia pedunculata Roxb
+  - chữa sốt
 ---
 
 

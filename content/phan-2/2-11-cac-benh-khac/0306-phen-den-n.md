@@ -3,6 +3,12 @@ title: "306. PHÈN ĐEN n ,"
 weight: 306
 navWeight: 695
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - rắn cắn, giải độc và các bệnh khác
+  - phèn đen n ,
+  - chữa lên đâu
+  - chữa rắn độc cắn
+  - chữa chảy máu chân răng
 ---
 
 

@@ -3,6 +3,11 @@ title: "172. KHẾ RÙNG"
 weight: 172
 navWeight: 829
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+keywords:
+  - đường tiết niệu
+  - khế rùng
+  - Rourea microphyl
+  - chữa tiểu tiện khó khăn
 ---
 
 
