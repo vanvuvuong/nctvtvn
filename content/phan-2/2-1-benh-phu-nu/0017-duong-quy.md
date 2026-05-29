@@ -17,7 +17,6 @@ keywords:
   - chữa thiếu máu
   - cầm máu đi lên
   - chữa thổ huyết
-  - chữa bệnh phụ nữ
 ---
 
 _Còn gọi là_ tần quy, vân quy.

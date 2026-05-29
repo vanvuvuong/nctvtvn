@@ -8,7 +8,6 @@ keywords:
   - đài hái
   - Hodgsonia macrocarpa
   - 油仄
-  - dùng làm thuốc
   - chữa bệnh loét mũi
 ---
 

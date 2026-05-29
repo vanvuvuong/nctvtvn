@@ -12,7 +12,6 @@ keywords:
   - chữa đau bụng
   - chữa đang có thai
   - chữa kinh nguyệt kéo dài
-  - chữa kinh nguyệt kéo đài
   - dùng làm thuốc ôn khí huyết
   - dùng làm thuốc giúp sự tiêu hóa
   - kích thích đối với tử cung có thai

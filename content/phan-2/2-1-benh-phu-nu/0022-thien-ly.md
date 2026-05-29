@@ -9,7 +9,6 @@ keywords:
   - Telosma cordata
   - chữa lòi dom
   - chữa sa dạ con
-  - trị 9 trường hợp
   - chữa một số trường hợp lòi dom
 ---
 

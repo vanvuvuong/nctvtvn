@@ -8,7 +8,6 @@ keywords:
   - cỏ đuôi lươn
   - Philydrum lanuginosum Banks
   - 田恝
-  - làm thuốc
   - chữa bệnh hậu sản
 ---
 
