@@ -11,3 +11,4 @@ taxonomies:
   tag: tags
 ignoreFiles: ["backup/*.md"]
 enableRobotsTXT: true
+defaultContentLanguage: vi
