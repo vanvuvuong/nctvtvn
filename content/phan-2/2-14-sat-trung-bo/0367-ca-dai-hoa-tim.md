@@ -23,7 +23,7 @@ Thuộc họ Cà Solanaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ có cành mọc đứng, cao 0,6-1,3m, thân và cành có gai và có lông hình sao. Lá mọc so le mặt trên xanh sẵm, mặt dưới trắng nhạt, phủ nhiều lông. Phiến lá dài 5-7cm, rộng 2,5-5cm, chia thành 3-4 thuỳ, cắt không sâu, cuống lá cũng phủ lông, dài 1,5-3cm. Cả hai mặt lá đều có gai, rải rác ở gân. Hoa tím xanh, phủ lông bên ngoài, mọc thành chùm ở kẽ lá. Quả tròn hình cầu màu vàng hay đỏ nhạt, nhẵn, đường kính 1cm. Hạt màu vàng, hình đĩa, nhẵn, đường kính 2mm. Mùa hoa quả: tháng 1-6 ( Hình 582).
+Cây nhỏ có cành mọc đứng, cao 0,6-1,3m, thân và cành có gai và có lông hình sao. Lá mọc so le mặt trên xanh sẵm, mặt dưới trắng nhạt, phủ nhiều lông. Phiến lá dài 5-7cm, rộng 2,5-5cm, chia thành 3-4 thuỳ, cắt không sâu, cuống lá cũng phủ lông, dài 1,5-3cm. Cả hai mặt lá đều có gai, rải rác ở gân. Hoa tím xanh, phủ lông bên ngoài, mọc thành chùm ở kẽ lá. Quả tròn hình cầu màu vàng hay đỏ nhạt, nhẵn, đường kính 1cm. Hạt màu vàng, hình đĩa, nhẵn, đường kính 2mm. Mùa hoa quả: tháng 1-6 (Hình 582).
 
 []
 

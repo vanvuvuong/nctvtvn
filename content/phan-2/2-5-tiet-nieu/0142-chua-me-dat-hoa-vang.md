@@ -30,7 +30,7 @@ Thuộc họ Chua me đất Oxalidaceae.
 
 Chua me đất hoa vàng là một loại cò mọc lan bò ưên mặt đất, thân đỏ nhạt, hơi có lông. Lá có cuống dài, gầy, hơi có lông, gồm 3 lá chét gần như nhẵn, mềm, mỗi lá chét có một vết hõm trên đầu thành hình tim ngược. Hoa mọc thành tán gồm 2-3 hoa, có khi 4 hoa màu vàng, cuống hoa gầy dài chừng l-2cm. Đài 5, tràng
 
-5, màu vàng, nhị 10, dài ngắn khác nhau, xếp thành hai vòng, bầu 5 ô, 5 vòi. Quả nang, dài gấp 5-6 lần chiều cao của đài còn tồn tại, mò bằng 5 van. Hạt hình trứng, màu nâu thảm, dẹt, có bướu, mọc thành hàng rất đều. Mùa hoa: Các tháng 5-7 ( Hình 172 ).
+5, màu vàng, nhị 10, dài ngắn khác nhau, xếp thành hai vòng, bầu 5 ô, 5 vòi. Quả nang, dài gấp 5-6 lần chiều cao của đài còn tồn tại, mò bằng 5 van. Hạt hình trứng, màu nâu thảm, dẹt, có bướu, mọc thành hàng rất đều. Mùa hoa: Các tháng 5-7 (Hình 172).
 
 B. Phân bo, thu hái và ché' biến
 
@@ -58,5 +58,5 @@ Ngoài cây chua me hoa vàng kể trên, ở nhiều nơi trong nước ta còn
 
 Tại những vùng núi khí hâu mát như ở Sapa (Lào Cai) còn gặp một loại chua me «ứf'-sơn tạc tương ừiảo-(Oxalis acetoselỉa L.) cùng họ. Đây cũng là một loại cỏ không có thân, lá kép gồm 3 lá chét, hoa trắng hay hổng. Lá cũng có vị chua vì chứa nhiều oxalat axit kali; trước kia ở châu Âu người ta đùng để chế axit oxalic. Nhân dân châu Âu dùng cây này với chất màu để nhuộm cho ăn màu, giạt quần áo bị gỉ sắt. Lá và toàn cây cũng được coi như một vị giải khát, chữa sốt, chữa bệnh scobut, điều kinh. Dùng với liều 30 đến ốOg cây hay lá tươi Ưong một ngày, vò lấy nước hay sao khó sắc uống.
 
-Tên rau bợ chua mế-hổng hoa tạc tương thảo còn dung để chỉ một cây nữa Oxalis corymbosa DC (Oxalis martiana Zucc.) cùng họ: Đó là một loại cỏ không thân, có dò, phù nhiều vẩy. Lá ở gốc, kép gồm 3 lá chét, hình tim ngược, dài chừng 2cm, rộng 3cm, hoa màu hổng. Đỏi khi cũng được dùng uống cho mát và thông tiểu tiện ( Hình 173 ).
+Tên rau bợ chua mế-hổng hoa tạc tương thảo còn dung để chỉ một cây nữa Oxalis corymbosa DC (Oxalis martiana Zucc.) cùng họ: Đó là một loại cỏ không thân, có dò, phù nhiều vẩy. Lá ở gốc, kép gồm 3 lá chét, hình tim ngược, dài chừng 2cm, rộng 3cm, hoa màu hổng. Đỏi khi cũng được dùng uống cho mát và thông tiểu tiện (Hình 173).
 

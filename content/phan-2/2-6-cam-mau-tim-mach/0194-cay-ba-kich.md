@@ -51,7 +51,7 @@ Tính vị theo tài liệu cổ: Ba kích có vị cay ngọt, tính hơi ôn. 
 
 Ỏ Trung Quốc có dùng ba kích trong đơn thuốc “Nhị tiên thang” để chữa bệnh cao huyết áp có kết quả, Đặc biệt đối với phụ nữ bị cao huyết áp ở thời kỳ hết kinh, kết quả thấy rõ rệt. Theo Đại chúng y học 9/1959 trang 332 đã chữa 360 trường kết quả đạt tới 74%. Đơn thuốc như sau;
 
-Tiên mao (Curculigo orchioides), dâm dương hoắc (Epimedium grandiflorum), ba kích (Morinda officinalis), tri mẫu (Anemarrhena asphodeloides ), hoàng bá (Phellodendron amurense), đương quy (Angelica sinensis ) mỗi vị 12g, nước 600ml. Sắc còn 200ml. Chia ba lần uống trong ngày. Thời gian điều trị 3 tháng.
+Tiên mao (Curculigo orchioides), dâm dương hoắc (Epimedium grandiflorum), ba kích (Morinda officinalis), tri mẫu (Anemarrhena asphodeloides), hoàng bá (Phellodendron amurense), đương quy (Angelica sinensis) mỗi vị 12g, nước 600ml. Sắc còn 200ml. Chia ba lần uống trong ngày. Thời gian điều trị 3 tháng.
 
 Đơn thuốc khác có ba kích
 

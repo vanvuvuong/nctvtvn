@@ -43,7 +43,7 @@ Như trên đã nói, tên quán chúng dùng để chỉ thân rễ và phần 
 
 Hình 122. Quán chúng - Cyrlomium ỷortunei
 
-có vảy. Phiến lá hình lông chim dài 15-35cm, ổ tử nang phân phối đều từ gần chính đến mép các thùy của lá ( Hình 122 ).
+có vảy. Phiến lá hình lông chim dài 15-35cm, ổ tử nang phân phối đều từ gần chính đến mép các thùy của lá (Hình 122).
 
 Như trên đã nói, mặc dầu có ghi trong tài liệu cũ, nhưng cho đến nay chưa ai phát hiện lại. Tại Trung quốc, người ta cũng chưa thấy ờ đâu dùng vị thuốc này làm quán chúng.
 

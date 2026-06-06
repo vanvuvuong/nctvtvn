@@ -24,7 +24,7 @@ Thuộc họ Vòi voi Borrciginaceae.
 
 Cây gỗ, cao 8-10m, cành màu trắng nhạt. Lá dai, mọc so lc, hình bầu dục, dài 7-15cm, rộng
 
-5- 8cm, mép khía răng cưa thưa, uốn lượn, lá non có lông tơ màu hung, lá già nhẩn ở mật trên, nhưng có lông ở mặt dưới. Lá đôi khi bị một loài sâu bọ ký sinh, gây ra những mụn nhỏ. Hoa nhỏ, tráng, mọc thành xim bọ cạp dài lOcm ở kẽ lá. Quả hạch, hình trứng, nhẫn, khi chín có màu vàng hổng nhạt, trong có cơm nhầy và 2-4 hạch. Mùa hoa tháng 4-5 mùa quả tháng 9-10 (Hình 321 ).
+5- 8cm, mép khía răng cưa thưa, uốn lượn, lá non có lông tơ màu hung, lá già nhẩn ở mật trên, nhưng có lông ở mặt dưới. Lá đôi khi bị một loài sâu bọ ký sinh, gây ra những mụn nhỏ. Hoa nhỏ, tráng, mọc thành xim bọ cạp dài lOcm ở kẽ lá. Quả hạch, hình trứng, nhẫn, khi chín có màu vàng hổng nhạt, trong có cơm nhầy và 2-4 hạch. Mùa hoa tháng 4-5 mùa quả tháng 9-10 (Hình 321).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -48,7 +48,7 @@ Thuộc họ Dương xỉ Poỉypodiaceae.
 
 A. Mỏ tả cây
 
-Cây ihạch vĩ là một loại duơng xỉ nhỏ, có thân ',rể nằm ngang, đài tới 0,50m, dày vào khoảng 4mm, có nhiều nhánh phán chia theo lối đơn lúc. Trên thân rễ có nhiểu vẩy to, ở mặt dưới từng quãng có nhiếu rê hình sợi, phân nhánh mọc đôi. Lá có hai loại: Lá bất thụ và lá hữu thụ. Lá hữu thụ có cuống dài tới 9cm, phiến lá hình lưỡi mác rộng, dài ll-]3cm, rộng 2-3cm, Mặt trên nhẩn màu xanh lục, mật dưới màu nâu nhạt có nhiều ổ lử nang phủ khắp trừ trên gân giữa. Nhìn qua kính hiển vi, ta sẽ thấy ổ tử nang cấu tạo bởi một đám tử nang phân cách nhau bởi nhữns tông hình sao có cuổng dàì. Các lá Dắt thụ có cuống ngắn hơn, độ 5cm, với phiến lá hình trái xoan hơi hình mác, dài khoảng 9-1 lcm, rộng 3-4cm. Mặt trên màu lục nhạt, mặt dưới màu lục nâu, gân lá hình lông chim. Cả hai mặt đếu nhẵn ( Hình 185 ).
+Cây ihạch vĩ là một loại duơng xỉ nhỏ, có thân ',rể nằm ngang, đài tới 0,50m, dày vào khoảng 4mm, có nhiều nhánh phán chia theo lối đơn lúc. Trên thân rễ có nhiểu vẩy to, ở mặt dưới từng quãng có nhiếu rê hình sợi, phân nhánh mọc đôi. Lá có hai loại: Lá bất thụ và lá hữu thụ. Lá hữu thụ có cuống dài tới 9cm, phiến lá hình lưỡi mác rộng, dài ll-]3cm, rộng 2-3cm, Mặt trên nhẩn màu xanh lục, mật dưới màu nâu nhạt có nhiều ổ lử nang phủ khắp trừ trên gân giữa. Nhìn qua kính hiển vi, ta sẽ thấy ổ tử nang cấu tạo bởi một đám tử nang phân cách nhau bởi nhữns tông hình sao có cuổng dàì. Các lá Dắt thụ có cuống ngắn hơn, độ 5cm, với phiến lá hình trái xoan hơi hình mác, dài khoảng 9-1 lcm, rộng 3-4cm. Mặt trên màu lục nhạt, mặt dưới màu lục nâu, gân lá hình lông chim. Cả hai mặt đếu nhẵn (Hình 185).
 
 B. Phân bó, thu hái, và chê biến
 

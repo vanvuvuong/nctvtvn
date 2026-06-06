@@ -26,7 +26,7 @@ Củ cốt khí (Radix Pờỉygoni cuspidati) là rễ phơi hay sấy khô c�
 
 #### A. Mô tả cày
 
-Cốt khí là một cây nhỏ sống lâu nãm, thân mọc thẳng, thường cao 0,50-1 m nhưng đặc biệt có nơi cao tới 2m. Thân không có lông, trên thân và cành thường có những đốm màu túm hồng. Lá mọc so le có cuống ngắn. Phiến lá hình trứng, rộng, đầu trên hơi thắt nhọn, phía cuống hoặc hơi phẳng hoặc hẹp lại, mép nguyên, dài 5-12cm, rộng 3,5-8cm, mặt trên màu xanh nâu đậm mặt dưới màu nhạt hơn. Cuống dài 1 -3cm. Bẹ chìa ngắn. Hoa mọc thành chùm ở kẽ lá, mang rất nhiều hoa nhỏ. Cánh hoa màu trắng. Hoa khác gốc. Hoa đực có 8 nhị: Hoa cái có bầu hình trứng với 3 cạnh, 3 núm. Quả khô, 3 cạnh, màu nâu đò ( Hình 389 ).
+Cốt khí là một cây nhỏ sống lâu nãm, thân mọc thẳng, thường cao 0,50-1 m nhưng đặc biệt có nơi cao tới 2m. Thân không có lông, trên thân và cành thường có những đốm màu túm hồng. Lá mọc so le có cuống ngắn. Phiến lá hình trứng, rộng, đầu trên hơi thắt nhọn, phía cuống hoặc hơi phẳng hoặc hẹp lại, mép nguyên, dài 5-12cm, rộng 3,5-8cm, mặt trên màu xanh nâu đậm mặt dưới màu nhạt hơn. Cuống dài 1 -3cm. Bẹ chìa ngắn. Hoa mọc thành chùm ở kẽ lá, mang rất nhiều hoa nhỏ. Cánh hoa màu trắng. Hoa khác gốc. Hoa đực có 8 nhị: Hoa cái có bầu hình trứng với 3 cạnh, 3 núm. Quả khô, 3 cạnh, màu nâu đò (Hình 389).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -90,11 +90,11 @@ A. Mó tả cây
 
 Vị độc hoạt hiện nay chủ yếu nhập của Trung Quốc, ở nước ta cho đến nay chưa phát hiện được. Cho nên chúng tôi càn cứ vào một số cây đã được mô tả chắc chắn để ghi lại đây làm tài liệu cho ta phát hiện sau này.
 
-Cây hương độc hoạt hay mao đương ạH}>=đương quy có lông (Angeỉica pubescens Maxim) là một cây sống lâu nãm, cao 0,5-lm thân mọc thảng đứng, hơi màu tím, có rãnh dọc, nhẵn không có lòng. Lá kép 2-3 lần lòng chim, lá chét nguyên hoặc lại chia thùy, mép có răng cưa tù không nhọn, cuống lá nhỏ, phía dưới nở rộng thành bẹ có dìa mỏng. Trên gân lá có lông ngắn và thưa. Cụm hoa tán kép, gồm 10-20 cuống tán. Hoa nhỏ màu trắng; quả bế đôi, hình thoi dẹt, trên lưng có sống, hai bên phát triển thành dìa ( Hình 390, Hm 54,1 ).
+Cây hương độc hoạt hay mao đương ạH}>=đương quy có lông (Angeỉica pubescens Maxim) là một cây sống lâu nãm, cao 0,5-lm thân mọc thảng đứng, hơi màu tím, có rãnh dọc, nhẵn không có lòng. Lá kép 2-3 lần lòng chim, lá chét nguyên hoặc lại chia thùy, mép có răng cưa tù không nhọn, cuống lá nhỏ, phía dưới nở rộng thành bẹ có dìa mỏng. Trên gân lá có lông ngắn và thưa. Cụm hoa tán kép, gồm 10-20 cuống tán. Hoa nhỏ màu trắng; quả bế đôi, hình thoi dẹt, trên lưng có sống, hai bên phát triển thành dìa (Hình 390, Hm 54,1).
 
 Cây ngưu vĩ độc hoạt=độc hoạt đuôi trâu {Heracleum hemsỉeyanum Maxim) cũng là loại cây sống lâu năm cao 0,5-1,5m rễ chính to thô, có khi có rẽ con dài, thân mọc thẩng đứng trên mặt có rãnh dọc, hơi có lông ngấn. Lá kép 1 lần lông chim, phiến lá chét dài 5-13cm, rộng 4-20cm mép có răng cưa thô, cuống lá dài 8- 17cm, phía dưới phát triển thành bẹ. Cụm hoa hình tán kép, mọc ở đầu cành, tổng hoa tán có 15-20 cuống dài 3,5-9cm, tán nhỏ gồm chừng 30 hoa nhỏ màu vàng ưắng. Quả bế đôi, hình thoi dẹt, trên lưng sống không rõ, hai bên phát triển thành dìa.
 
-Cây cửu nhỡn độc hoạt=độc hoạt chín mắt (Araỉia cordata Thunb) thuộc họ Ngũ gia bì, là một cây sống lâu nãm, cao l-2m, thân mọc thẳng đứng, có nhiều cành, cành già gần như không có lông thưa ngắn. Lá mọc so le, kép 2-3 lần lông chim có thể dài 30-40cm, lá chét có cuống ngắn dài 4-12cm, rộng 2-9cm mép có răng cưa nhọn. Cụm hoa hình tán kép, cuống tán kép dài 4,5-1 lcm, tán nhỏ gồm 20\*35 hoa nhỏ màu trắng hay vàng nhạt. Quả mọng hình cầu, dài 2-3cm, ưong có 5 hạt ( Hình 391 ).
+Cây cửu nhỡn độc hoạt=độc hoạt chín mắt (Araỉia cordata Thunb) thuộc họ Ngũ gia bì, là một cây sống lâu nãm, cao l-2m, thân mọc thẳng đứng, có nhiều cành, cành già gần như không có lông thưa ngắn. Lá mọc so le, kép 2-3 lần lông chim có thể dài 30-40cm, lá chét có cuống ngắn dài 4-12cm, rộng 2-9cm mép có răng cưa nhọn. Cụm hoa hình tán kép, cuống tán kép dài 4,5-1 lcm, tán nhỏ gồm 20\*35 hoa nhỏ màu trắng hay vàng nhạt. Quả mọng hình cầu, dài 2-3cm, ưong có 5 hạt (Hình 391).
 
 B. Phàn bố, thu hái và chế biến
 
@@ -112,7 +112,7 @@ Việc thu hái chế biến rất đơn giãn: Thường vào các tháng 4-10 
 
 #### C. Thành phần hoá học
 
-Trong độc hoạt hay hương độc hoạt (Angel- ica pubescens Maxin. ) có ostol, bergapten, angelol và angelical).
+Trong độc hoạt hay hương độc hoạt (Angel- ica pubescens Maxin.) có ostol, bergapten, angelol và angelical).
 
 #### D. Tác dụng dược lý
 

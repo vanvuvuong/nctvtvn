@@ -30,7 +30,7 @@ Dây đau xương là một loại cây leo, dài 7-8m,
 
 Hình 377. Dây đau xương - Tinospora sinensis
 
-có cành dài rũ xuống, lúc đầu có lông, sau thì nhẩn, có bì không sần sùi, mang lông. Lá có lông, nhất là ở mãl dưới làm cho mặt dưới có màu trắng nhạt, phiến lá hình tim, phía cuống ưòn và hõm lại, phía đỉnh hẹp lại thành mũi nhọn, dài 10-12em, rộng 8-10cm, có 5 gân rõ, toả hình chân vịc. Hoa mọc thành chùm ở kẽ lá hoặc đơn dộc, hoặc mấy chùm tụ lại, chùm dài chừng lOcm, có lỏng mãng, màu trắng nhạt. Quả hạch, khi chín có màu đỏ, có dịch nhầy, hạch hình bán cấu, mặt phẳng pủa bán cầu hõm lại. Mùa quả ở miền Bắc: tháng 3-4 ( Hình 377 ).
+có cành dài rũ xuống, lúc đầu có lông, sau thì nhẩn, có bì không sần sùi, mang lông. Lá có lông, nhất là ở mãl dưới làm cho mặt dưới có màu trắng nhạt, phiến lá hình tim, phía cuống ưòn và hõm lại, phía đỉnh hẹp lại thành mũi nhọn, dài 10-12em, rộng 8-10cm, có 5 gân rõ, toả hình chân vịc. Hoa mọc thành chùm ở kẽ lá hoặc đơn dộc, hoặc mấy chùm tụ lại, chùm dài chừng lOcm, có lỏng mãng, màu trắng nhạt. Quả hạch, khi chín có màu đỏ, có dịch nhầy, hạch hình bán cấu, mặt phẳng pủa bán cầu hõm lại. Mùa quả ở miền Bắc: tháng 3-4 (Hình 377).
 
 B. Phàn bô, thu hái và chế biến
 

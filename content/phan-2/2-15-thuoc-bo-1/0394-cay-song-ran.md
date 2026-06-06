@@ -319,7 +319,7 @@ Rượu phụ tử quế chi (đơn thuốc của Trương Trọng Cảnh) ô đ
 
 Chú ý:
 
-1. Bạch phụ tử còn dùng để chỉ hai vị thuốc khác: Rễ củ của cây Typhonium giganteum Engl. ( cây này ở ta chưa thấy có ) thuộc họ Ráy Araceae và cây san hô hay bạch phụ tử Jatropha multifida L. thuộc họ Thầu dầu Euphorbiaceae.
+1. Bạch phụ tử còn dùng để chỉ hai vị thuốc khác: Rễ củ của cây Typhonium giganteum Engl. (cây này ở ta chưa thấy có) thuộc họ Ráy Araceae và cây san hô hay bạch phụ tử Jatropha multifida L. thuộc họ Thầu dầu Euphorbiaceae.
 
 2. Trên thị trường còn có bán một loại thuốc gọi là thảo ô là rễ cây Aconitum khác.
 

@@ -29,7 +29,7 @@ def process_file(filepath):
         f'weight: {weight}\n',
         f'weight: {weight}\nnavWeight: {nav_weight}\n',
         1
-    )
+   )
 
     filepath.write_text(new_content, encoding='utf-8')
     return True

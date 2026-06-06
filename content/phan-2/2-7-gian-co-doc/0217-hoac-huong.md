@@ -202,7 +202,7 @@ Ngô thù du (Fructus Evodiae) là quả chín phơi khô của cây thù du. Th
 
 #### A. Mô tả cây
 
-Ngô thù du là một cây nhỏ cao chừng 2,5-5m. Cành màu nâu hay tím nâu, khi còn non có mang lông mềm dài, khi già lông rụng đi, trên mặt cành có nhiều bì khổng. Lá mọc đối, kép lông chim, rìa lẻ. Cả cuống và lá dài độ 15-35cm, 2 đến 5 đôi lá chét, có cuống ngắn. Trên lá và cuống lá chét có mang lông mềm. Lá chét dài 5-15cm, rộng 2,5-5cm, đầu lá chét nhọn dài, mép nguyên, hai mặt đểu có lông màu nâu mịn, mặt dưới nhiều hơn, soi lên ánh sáng sẽ thấy những điểm tinh dầu. Hoa đơn tính, đực cái khác gốc. Đa số những hoa nhỏ tụ thành tán hay đặc biệt thành chùm. Cuống hoa trông to thô, có nhiều lông màu nâu mềm. Hoa màu vàng trắng. Hoa cái lớn hơn hoa đực. Quả hình cầu dẹt, dài 3mm, đưởng kính 6mm, thường gồm 5 lá noãn. Khi chưa chín có màu xanh, khi chín có màu tím đỏ, trên mặt có những điểm tinh dầu, mỗi ô quả có một hạt hình trứng dài 5-6mm, đường kính 4mm màu đen bóng. Mùa hoa tháng 6-8. Mùa quả tháng 9-10. ( Hình 283).
+Ngô thù du là một cây nhỏ cao chừng 2,5-5m. Cành màu nâu hay tím nâu, khi còn non có mang lông mềm dài, khi già lông rụng đi, trên mặt cành có nhiều bì khổng. Lá mọc đối, kép lông chim, rìa lẻ. Cả cuống và lá dài độ 15-35cm, 2 đến 5 đôi lá chét, có cuống ngắn. Trên lá và cuống lá chét có mang lông mềm. Lá chét dài 5-15cm, rộng 2,5-5cm, đầu lá chét nhọn dài, mép nguyên, hai mặt đểu có lông màu nâu mịn, mặt dưới nhiều hơn, soi lên ánh sáng sẽ thấy những điểm tinh dầu. Hoa đơn tính, đực cái khác gốc. Đa số những hoa nhỏ tụ thành tán hay đặc biệt thành chùm. Cuống hoa trông to thô, có nhiều lông màu nâu mềm. Hoa màu vàng trắng. Hoa cái lớn hơn hoa đực. Quả hình cầu dẹt, dài 3mm, đưởng kính 6mm, thường gồm 5 lá noãn. Khi chưa chín có màu xanh, khi chín có màu tím đỏ, trên mặt có những điểm tinh dầu, mỗi ô quả có một hạt hình trứng dài 5-6mm, đường kính 4mm màu đen bóng. Mùa hoa tháng 6-8. Mùa quả tháng 9-10. (Hình 283).
 
 []
 
@@ -274,7 +274,7 @@ Ngũ gia bì (Cortex Acanthopanacis), là vỏ rễ phơi khô của cây ngũ g
 
 #### A. Mô tả cây
 
-Ngũ gia bì là một cây nhỏ, rất nhiều gai, cao chừng 2-3m. Lá mọc so le, kép chân vịt có từ 3-5 lá chét, phiến lá chét có hình bầu dục hay hơi thuôn dài, phía cuống hơi thót lại, đầu nhọn, mỏng, mép có răng cưa to, cuống lá dài từ 4-7cm. Hoa mọc khác gốc, thành hình tán ở đầu cành. Đầu mùa hạ ra hoa nhỏ màu vàng xanh. Quả mọng, hình cầu, đường kính chừng 2,5mm, khi chín có màu đen ( Hình 284, Hm 33,4 ).
+Ngũ gia bì là một cây nhỏ, rất nhiều gai, cao chừng 2-3m. Lá mọc so le, kép chân vịt có từ 3-5 lá chét, phiến lá chét có hình bầu dục hay hơi thuôn dài, phía cuống hơi thót lại, đầu nhọn, mỏng, mép có răng cưa to, cuống lá dài từ 4-7cm. Hoa mọc khác gốc, thành hình tán ở đầu cành. Đầu mùa hạ ra hoa nhỏ màu vàng xanh. Quả mọng, hình cầu, đường kính chừng 2,5mm, khi chín có màu đen (Hình 284, Hm 33,4).
 
 []
 

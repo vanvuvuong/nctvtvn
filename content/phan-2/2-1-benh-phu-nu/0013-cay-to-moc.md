@@ -3,6 +3,10 @@ title: "13. CÂY TÔ MỘC 蘇木"
 weight: 13
 navWeight: 988
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - điều kinh
+  - cầm máu
+  - lỵ ra máu
 keywords:
   - bệnh phụ nữ
   - cây tô mộc
@@ -14,7 +18,7 @@ keywords:
   - chữa kinh nguyệt không đều
 ---
 
-_Còn có tên là_ cây gỗ vang, cây vang nhuộm, cây tô phượng( do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc).
+_Còn có tên là_ cây gỗ vang, cây vang nhuộm, cây tô phượng(do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc).
 
 Tên khoa học _Caesalpinia sappan L_.
 
@@ -48,7 +52,7 @@ Cấu tạo của chất brasilin và brasilein gần giống chất hematoxylin
 
 #### D. Tác dụng dược lý
 
-1. Phòng đông y thực ngiệm Viện vi trùng Việt Nam (1961) đã ngiên cứu thấy nước sắc tô mộc có tác dụng kháng sinh mạnh đối với vi trùng _Staphylococcus 209P_ (vòng vô khuẩn (1,2cm), _Salmonella typhi_ (0,4cm), _Shiga flexneri_ (0,7cm), _Shigella sonnei_ (0,2), _Shigella dysenteria Shiga_ (1cm), _Bacillus subtilis_ (1cm).
+1. Phòng đông y thực nghiệm Viện vi trùng Việt Nam (1961) đã nghiên cứu thấy nước sắc tô mộc có tác dụng kháng sinh mạnh đối với vi trùng _Staphylococcus 209P_ (vòng vô khuẩn (1,2cm), _Salmonella typhi_ (0,4cm), _Shiga flexneri_ (0,7cm), _Shigella sonnei_ (0,2), _Shigella dysenteria Shiga_ (1cm), _Bacillus subtilis_ (1cm).
    Tác dụng kháng sinh này không bị nhiệt, dịch vị và dịch tụy tạng phá hủy.
 2. Theo M.Gabor (1951) brasilein có tác dụng kháng histamin. Nếu tiêm brasilein vào màng bụng chuột bạch trước thì có thể đề phòng hiện tượng thay đổi ở mắt chuột bạch do tiêm dung dịch 1,5% histamin clohiđrat.
 3. Theo M Gabor, B. Horvath, L. Kiss và z. Dirner (1952), brasilin và brasilein đều có tác dụng làm mạnh và kéo dài tác dụng của hocmon thượng thận đối với mẩu ruột cô lập của chuột bạch hoặc tử cung cô lập của thỏ và đối với huyết áp của thỏ.
@@ -70,7 +74,7 @@ _Báo cáo thứ hai_
 - Thí nghiệm trên phế quản của chuột bạch, nước tô mộc không có tác dụng làm giảm mất tác dụng của histamin đã gây co bóp trên phế quản.
 - Tiêm nước tô mộc vào tĩnh mạch của con chó đã gây mê, dung tích của thận không bị ảnh hưởng.
 - Sau khi tiêm 0,1 ml vác-xin thương hàn vào tĩnh mạch con thỏ để gây sốt, sau đó tiêm vào màng bụng 5ml dung dịch 20% tô mộc, nhiệt độ không giảm.
-- Tiêm vào bụng chuột nhắt 1ml dung dịch 100% tô mộc, không làm mất tác dụng cong đuôi do tiêm mocphin vào chuột 1mg/10g chuột. Đối với thỏ hầu như có tác dụng đối kháng với tác dụng trấn tĩnh do tiêm dung dịch mocphin vào dưới da (5mg/kg thể ưọng).
+- Tiêm vào bụng chuột nhắt 1ml dung dịch 100% tô mộc, không làm mất tác dụng cong đuôi do tiêm mocphin vào chuột 1mg/10g chuột. Đối với thỏ hầu như có tác dụng đối kháng với tác dụng trấn tĩnh do tiêm dung dịch mocphin vào dưới da (5mg/kg thể trọng).
 - 0,2ml dung dịch 20% tô mộc có thể khôi phục sự hoạt động của tim ếch cô lập (phương pháp Straub) đã bị đình lại đo tiêm nước sắc 20% vị thuốc chỉ xác.
 
 _Báo cáo thứ ba_

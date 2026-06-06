@@ -3,6 +3,10 @@ title: "1. ÍCH MẪU 益母草"
 weight: 1
 navWeight: 1000
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - điều kinh
+  - huyết áp cao
+  - viêm niêm mạc dạ con
 keywords:
   - bệnh phụ nữ
   - ích mẫu

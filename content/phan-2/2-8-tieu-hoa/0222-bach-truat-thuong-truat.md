@@ -38,7 +38,7 @@ Bạch truật là một cây mọc lâu năm, cao tới 80cm. Rễ phát triể
 
 Hình 293. Bạch truật - Atractylodes macrocephaỉa
 
-nhờ gió) (Hình 293, Hm 6,1 ).
+nhờ gió) (Hình 293, Hm 6,1).
 
 #### B. Phân bố, thu hái và chế biến
 

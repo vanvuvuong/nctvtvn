@@ -23,7 +23,7 @@ Thuộc họ Lan Orchidaceae.
 
 Bạch cập (Rhizoma Bletillae) là thân rễ phơi hay sấy khô của cây bạch cập. Vị thuốc sắc trắng (bạch là trắng) lại mọc liên tiếp do đó có tên bạch cập.
 
-Bạch cập là một loại cây thảo, sống lâu năm, mọc hoang và được trồng ở những vùng đất ẩm, mát, có thân rễ, có vẩy. Lá mọc từ rễ lên, chừng 3 đến 5 lá hình mác dài từ 18-40cm, rộng 2,5- 5cm, trên có nhiều nếp nhăn dọc. Vào đầu mùa hạ, ở đầu cành nở hoa rất đẹp màu đỏ tía. Quả hình thoi 6 cạnh ( Hình 577).
+Bạch cập là một loại cây thảo, sống lâu năm, mọc hoang và được trồng ở những vùng đất ẩm, mát, có thân rễ, có vẩy. Lá mọc từ rễ lên, chừng 3 đến 5 lá hình mác dài từ 18-40cm, rộng 2,5- 5cm, trên có nhiều nếp nhăn dọc. Vào đầu mùa hạ, ở đầu cành nở hoa rất đẹp màu đỏ tía. Quả hình thoi 6 cạnh (Hình 577).
 
 []
 

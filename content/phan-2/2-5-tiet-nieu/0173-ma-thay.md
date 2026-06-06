@@ -21,7 +21,7 @@ Thuộc họ Cói Cyperaceae.
 
 Cay có củ to, mọc dưới nước. Thân không có lá, tròn dài, gần như chia đốt, ngoài mãt có khía đọc, phía trong có nhiều vách ngang. Lá được thay thế bởi những bẹ hình trụ. Cụm hoa chỉ gồm có một bòng nhỏ màu vàng nâu ở ngọn.
 
-Theo Merrill thì loài mã thầy tìeleocharis tuberosa (Roxb.) Schult. cũng chỉ là một dạng đã được tuyển chọn và đưa vào trồng trọt của loài Heleocharis planlagìnea. Dạng trổng này rất ít khi ra hoa ( Hình 212 ).
+Theo Merrill thì loài mã thầy tìeleocharis tuberosa (Roxb.) Schult. cũng chỉ là một dạng đã được tuyển chọn và đưa vào trồng trọt của loài Heleocharis planlagìnea. Dạng trổng này rất ít khi ra hoa (Hình 212).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -51,7 +51,7 @@ Thuộc họ Hoa tán Umbelliỷerae.
 
 #### A. Mô tả cây
 
-Cỏ sống hai năm, cao 0,20-0,80m, rễ phát triển thành củ hình trụ, đầu hình nón. Thân có rễ dọc. Lá bóng, có cuống dài thường hình ba cạnh, 2 đến 3 líìn xẻ thành thùy với 3 thùy nhỏ, mép có răng cưa. Hoa màu lục vàng nhạt, họp thành tán kép. Quả nhỏ hình cầu. Khi vò, toàn cây tòa mùi thơm dẻ chịu ( Hình 213 ).
+Cỏ sống hai năm, cao 0,20-0,80m, rễ phát triển thành củ hình trụ, đầu hình nón. Thân có rễ dọc. Lá bóng, có cuống dài thường hình ba cạnh, 2 đến 3 líìn xẻ thành thùy với 3 thùy nhỏ, mép có răng cưa. Hoa màu lục vàng nhạt, họp thành tán kép. Quả nhỏ hình cầu. Khi vò, toàn cây tòa mùi thơm dẻ chịu (Hình 213).
 
 B. Phân bô, thu hái và chè biến
 
@@ -103,7 +103,7 @@ Cụm hoa hình chùm, dài 15-20cm, gôm nhiều hoa mẫu 5, màu tráng.
 
 Quả mọng, hình cầu dẹt có 8-10 múi, với vòi nhụy tồn tại, khi chín có màu đỏ tía hay tím đen.
 
-Mùa hoa: Tháng 5 đến tháng 7; mùa quả chín: Từ tháng 8 đến tháng 10 ( Hình 214 ).
+Mùa hoa: Tháng 5 đến tháng 7; mùa quả chín: Từ tháng 8 đến tháng 10 (Hình 214).
 
 B. Phàn bố, thu hái và chế biến
 

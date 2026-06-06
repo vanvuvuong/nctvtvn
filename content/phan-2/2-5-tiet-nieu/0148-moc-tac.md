@@ -30,7 +30,7 @@ phần vò.
 
 Cành hữu thụ (xuất hiện trước cành bất thụ vào đầu mùa xuân) thường màu náu không phân nhánh, mang nhiều vòng bào tử diệp xếp xít lại phía đầu cành thành một bông trông giống đầu nhọn bút lông.
 
-Ngoài cây Equisetum a>-\’cnse nói trên, ở vùng Sapa (Lào Cai) và một số vùng lạnh khác trong nước ta, tại những nơi ẩm ở ven bờ sòng, còn gặp một loài mộc tặc nữa gọi là Equisctum debiìe Roxb, cùng họ ( Hình 180 ).
+Ngoài cây Equisetum a>-\’cnse nói trên, ở vùng Sapa (Lào Cai) và một số vùng lạnh khác trong nước ta, tại những nơi ẩm ở ven bờ sòng, còn gặp một loài mộc tặc nữa gọi là Equisctum debiìe Roxb, cùng họ (Hình 180).
 
 B. Phản bố, thu hái và chẽ biến
 

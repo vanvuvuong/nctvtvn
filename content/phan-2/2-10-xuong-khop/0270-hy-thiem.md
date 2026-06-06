@@ -29,7 +29,7 @@ A. Mở tả cây
 
 Cỏ sống hàng nãm, cao chừng 30-40cm, đến lm, có Iihiểu cành, có lông tuyến. Lá mọc đối cuống ngắn, hình 3 cạnh hay thuôn hình quả trám, đẩu lá nhọn, phía cuống cũng thót lại, mép có răng cưa, mặt dưới hơi có lông, dài 4-10cm, rộng 3- 6cm. Cụm hoa hình đầu, màu vàng, cuống có lông tuyến dính. Có 2 loại lá bắc không đểu nhau: Lá bắc ngoài hình thìa dài 9-10mm, mọc toả ra thành hình sao, có lông dính, các lá bắc trong dài 5mm, họp thành một tổng bao tắt cả đều mang lông tuyến dính. Quả bế đen hình trứng, 4-5 cạnh dài 3mm, rộng Imm.
 
-Mùa hoa: tháng 4-5 đến tháng 8-9, mùa quả: các tháng 6-10 ( Hình 379, Hm 31,2 ).
+Mùa hoa: tháng 4-5 đến tháng 8-9, mùa quả: các tháng 6-10 (Hình 379, Hm 31,2).
 
 #### B. Phân bố, thu hái và chế biên
 

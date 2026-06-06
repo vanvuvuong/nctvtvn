@@ -21,7 +21,7 @@ Thuộc họ Bìm bìm Convolvulaceae.
 
 #### A. Mô tả cây
 
-Khoai lang là một loại cỏ sống lâu năm thân mọc bò, dài 2-3m, rễ mẫm thành củ, màu đỏ, trắng hay vàng. Lá có nhiều hình, thường hình tim xẻ 3 thùy, có cuống dài. Hoa màu tím nhạt hay trắng, mọc thành xim ít hoa ở đầu cành. Rất ít khi thấy quả và hạt ( Hình 344 ).
+Khoai lang là một loại cỏ sống lâu năm thân mọc bò, dài 2-3m, rễ mẫm thành củ, màu đỏ, trắng hay vàng. Lá có nhiều hình, thường hình tim xẻ 3 thùy, có cuống dài. Hoa màu tím nhạt hay trắng, mọc thành xim ít hoa ở đầu cành. Rất ít khi thấy quả và hạt (Hình 344).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -65,7 +65,7 @@ Thuộc họ Trúc đào Apocynaceae.
 
 Cây đại là một cây nhỡ, cao 3-7m, cành mẫm, to. Lá mọc so le sít nhau, thường tập trung ở đầu cành; lá dày, nguyên, dài 15-35cm, rộng 5-10cm hai đầu đều hẹp nhọn, mặt nhẵn bóng, gân giữa nổi rõ. Hoa màu trắng, rất thơm, mặt trong ở phía dưới màu vàng dài 4-5cm. Quả đại dài hình trụ, dài 12cm.
 
-Mùa hoa ở miền Bắc tháng 4-8 ( Hình 345, Hm 37,2 ).
+Mùa hoa ở miền Bắc tháng 4-8 (Hình 345, Hm 37,2).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -187,7 +187,7 @@ Vì vị thuốc giống hạt đậu, lại sản xuất ở Ba Thục (vùng T
 
 #### A. Mô tả cây
 
-Ba đậu là một cây nhỡ cao 3-6m, cành nhẵn. Lá mọc so le, nguyên, hình trứng, đầu nhọn, mép có răng cưa nhỏ, dài 6-8cm, rộng 4-5cm, cuống nhỏ, dài 1-2cm. Trông toàn thân cây thường thấy một số lá màu đỏ nâu làm cho cây dễ nhận. Hoa mọc thành chùm dài 10-20cm, ở đầu cành, hoa cái ở phía dưới, hoa đực ở đỉnh, cuống nhỏ dài 1 - 3mm. Quả nang, nhẵn, màu vàng nhạt, cao 2cm, có 3 mảnh vỏ khi chín tách ra. Hạt hình trứng dài 10mm, rộng 4-6mm, ngoài có vỏ cứng, mờ, màu nâu xám (khác hạt thầu dầu bóng và có vân) ( Hình 346, Hm 14,1)
+Ba đậu là một cây nhỡ cao 3-6m, cành nhẵn. Lá mọc so le, nguyên, hình trứng, đầu nhọn, mép có răng cưa nhỏ, dài 6-8cm, rộng 4-5cm, cuống nhỏ, dài 1-2cm. Trông toàn thân cây thường thấy một số lá màu đỏ nâu làm cho cây dễ nhận. Hoa mọc thành chùm dài 10-20cm, ở đầu cành, hoa cái ở phía dưới, hoa đực ở đỉnh, cuống nhỏ dài 1 - 3mm. Quả nang, nhẵn, màu vàng nhạt, cao 2cm, có 3 mảnh vỏ khi chín tách ra. Hạt hình trứng dài 10mm, rộng 4-6mm, ngoài có vỏ cứng, mờ, màu nâu xám (khác hạt thầu dầu bóng và có vân) (Hình 346, Hm 14,1)
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -285,7 +285,7 @@ Cây thầu dầu cung cấp các vị thuốc sau dây:
 
 Cây thầu dầu là một cây sống lâu năm, thân yếu nhưng có thể cao tới 10-12m. Khi trồng tranh thủ giữa các vụ lúa, người ta chỉ để nó cao tới 1 - 2m. Lá mọc so le có cuống dài, 2 lá kèm hai bên họp thành một túi màng, sớm rụng, phiến lá hình chân vịt, gồm 5-7-9 có khi tới 11 thùy, cắt sâu, mép có răng cưa không đều. Hoa mọc thành chùm xim nhiều hoa, xim dưới gồm toàn hoa đực, xim trên toàn hoa cái. Quả 3 mảnh vỏ dài 2-3cm, rộng 2cm, trên mặt có nhiều gai mềm, đầu tròn và có 3 vết lõm chia 3 ngăn, trên lưng mỗi ngăn lại có 1 rãnh nông nữa. Hạt hình trứng, hơi dẹt, dài 8mm, rộng 6mm, ở đầu có mồng (chính là áo hạt của noãn không). Mặt hạt nhẵn bóng màu nâu xám, có vân đỏ nâu hay đen.
 
-Có nhiều loại thầu dầu: thầu dầu thường và thầu dầu tía chỉ có lá loại tía được chọn dùng làm thuốc ( Hình 347, Hm 44,4 ).
+Có nhiều loại thầu dầu: thầu dầu thường và thầu dầu tía chỉ có lá loại tía được chọn dùng làm thuốc (Hình 347, Hm 44,4).
 
 #### B. Phân bố, thu hái và chế biến
 

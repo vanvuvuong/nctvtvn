@@ -21,7 +21,7 @@ Bạch tật lê (Fructus Tribitli) là quả chín phơi hay sấy kho của c�
 
 #### A. Mô tả cây.
 
-Loại cỏ bò lan trên mặt đất, nhiều cành dài 30-60 cm. Lá mọc đối dài 2-3 cm, kép lông chim lẻ, 5 đến 6 đôi ]á chét đều, phủ lông trắng mịn ờ mặt dưới. Hoa màu vàng, mọc riêng lẻ ở kẽ lá, cuống ngắn. 5 lá đài 5 cánh hoa, 10 nhị, bầu 5 ô. Hoa nở vào mùa hè. Quả nhỏ, khô, gồm 5 vỏ cứng trẽn có gai hình 3 cạnh, dưới lóp vò dày là hạt có phôi không nội nhũ ( Hình 451, Hm 57,1).
+Loại cỏ bò lan trên mặt đất, nhiều cành dài 30-60 cm. Lá mọc đối dài 2-3 cm, kép lông chim lẻ, 5 đến 6 đôi ]á chét đều, phủ lông trắng mịn ờ mặt dưới. Hoa màu vàng, mọc riêng lẻ ở kẽ lá, cuống ngắn. 5 lá đài 5 cánh hoa, 10 nhị, bầu 5 ô. Hoa nở vào mùa hè. Quả nhỏ, khô, gồm 5 vỏ cứng trẽn có gai hình 3 cạnh, dưới lóp vò dày là hạt có phôi không nội nhũ (Hình 451, Hm 57,1).
 
 #### B. Phân bố, thu hái và chế biến
 

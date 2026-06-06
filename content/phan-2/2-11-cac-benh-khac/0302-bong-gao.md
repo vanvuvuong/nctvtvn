@@ -23,7 +23,7 @@ Thuộc họ Gạo Bombacaceae.
 
 #### A. Mô tả cây
 
-Cầy gạo có thể cao tới 15m hay hơn, cành mọc ngang với những gai hình nón, thân cũng có gai. Cành non dày, không gai. Lá sớm rụng, kép chân vịt với 5 đến 8 lá chét hình mác hay hình trứng, dài 9-15cm, rộng 4-5cm. Hoa đỏ, nhiêu, mọc trên những cành nhỏ trước khi có lá non. Quả nang hình thoi, dài 8-15cm với 5 van cứng, mặt trong có nhiều sợi bông. Hạt hình trứng, xung quanh có lông đài, trắng, mịn ( Hình 426).
+Cầy gạo có thể cao tới 15m hay hơn, cành mọc ngang với những gai hình nón, thân cũng có gai. Cành non dày, không gai. Lá sớm rụng, kép chân vịt với 5 đến 8 lá chét hình mác hay hình trứng, dài 9-15cm, rộng 4-5cm. Hoa đỏ, nhiêu, mọc trên những cành nhỏ trước khi có lá non. Quả nang hình thoi, dài 8-15cm với 5 van cứng, mặt trong có nhiều sợi bông. Hạt hình trứng, xung quanh có lông đài, trắng, mịn (Hình 426).
 
 B. Phàn bỏ', thu hái và chế biến
 

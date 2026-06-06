@@ -29,7 +29,7 @@ Tên cóc mẩn còn dùng chỉ một cây khác thuộc họ Cà phê có tên
 
 #### A. Mô tả cây
 
-Cóc mẳn là một loại cỏ nhỏ mềm, mọc bò lan trên mặt đất ẩm, phân rất nhiều cành, ở ngọn có lông mịn trắng, nhưng toàn thân trông nhẵn bóng, lá đơn mọc so le, hơi hình 3 cạnh, đầu tù, phía cuống hẹp lại, mép có 2 răng cưa, có khi 1 hay 3, dài 10-18mm, rộng 6-10mm, gân chính hơi nổi ở mặt dưới lá, gân phụ không rõ, không có cuống. Cụm hoa hình đầu mọc ở nách lá, hoa cái gồm nhiều lớp, cánh hoa hình ống màu trắng, trên có răng cưa, hoa lưỡng tính ít hơn, tràng hoa hình chuông có 4 răng hình trứng, rộng, màu hơi tím. Quả bế 4 cạnh, trên cạnh có lông mịn nhỏ. Mùa hoa: các tháng 2-5, mùa quả: các tháng 4-7 ( Hình 574).
+Cóc mẳn là một loại cỏ nhỏ mềm, mọc bò lan trên mặt đất ẩm, phân rất nhiều cành, ở ngọn có lông mịn trắng, nhưng toàn thân trông nhẵn bóng, lá đơn mọc so le, hơi hình 3 cạnh, đầu tù, phía cuống hẹp lại, mép có 2 răng cưa, có khi 1 hay 3, dài 10-18mm, rộng 6-10mm, gân chính hơi nổi ở mặt dưới lá, gân phụ không rõ, không có cuống. Cụm hoa hình đầu mọc ở nách lá, hoa cái gồm nhiều lớp, cánh hoa hình ống màu trắng, trên có răng cưa, hoa lưỡng tính ít hơn, tràng hoa hình chuông có 4 răng hình trứng, rộng, màu hơi tím. Quả bế 4 cạnh, trên cạnh có lông mịn nhỏ. Mùa hoa: các tháng 2-5, mùa quả: các tháng 4-7 (Hình 574).
 
 []
 

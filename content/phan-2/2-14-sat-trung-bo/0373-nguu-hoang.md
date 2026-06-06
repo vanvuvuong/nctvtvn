@@ -34,7 +34,7 @@ Tốt nhất là khi mổ trâu bò, lấy túi mật thì nắn túi và ống 
 
 Sau khi lấy ngưu hoàng chú ý dùng vải mềm hay gạc sạch gạt bỏ các màng nhầy dính xung quanh, dùng thông thảo hoặc bấc đèn đăng tâm thảo (xem vị này) hoặc bông bọc lại, ngoài cùng bọc một lớp vải thưa, buộc cẩn thận. Cho vào hộp kín trong có vôi cục chưa tôi hoặc gạo rang hay silicagien để hút ẩm. Chú ý hộp phải kín thì khả năng hút ẩm của vôi hay gạo rang mới thể hiện tốt. Nhất thiết không phơi nắng hay sấy lửa hoặc để ở chỗ có gió mạnh vì sức nóng ánh sáng mặt trời hoặc gió mạnh làm ngưu hoàng nứt vỡ, sẫm lại, phẩm chất sẽ kém. Mùa thu hoạch quanh năm.
 
-Tuỳ theo trình độ kết sạn, ngưu hoàng to nhỏ không nhất định, lớn có thể bằng quả trứng gà, nhỏ bằng hòn cuội hoặc như viên sạn. Khi cắt ngang trông thấy như gồm nhiều lớp dính chặt vào nhau có màu vàng nâu hoặc nâu đỏ. Cần gói kín, đổ trong lọ màu dưới đáy có gạo rang hoặc vôi cục ( Hình 618).
+Tuỳ theo trình độ kết sạn, ngưu hoàng to nhỏ không nhất định, lớn có thể bằng quả trứng gà, nhỏ bằng hòn cuội hoặc như viên sạn. Khi cắt ngang trông thấy như gồm nhiều lớp dính chặt vào nhau có màu vàng nâu hoặc nâu đỏ. Cần gói kín, đổ trong lọ màu dưới đáy có gạo rang hoặc vôi cục (Hình 618).
 
 []
 

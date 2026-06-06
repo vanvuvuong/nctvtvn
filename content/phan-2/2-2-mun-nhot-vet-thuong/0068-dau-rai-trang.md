@@ -18,7 +18,7 @@ _Còn gọi là dầu nước, nhang, yang may yang (Lào)._
 
 Tên khoa học _*Dipterocarpus alatus Roxb. (Dipterocarpus gonopterus Turcz).*_
 
-Thuộc họ Dầu ( Quả hai cánh) Dipterocarpaceae.
+Thuộc họ Dầu (Quả hai cánh) Dipterocarpaceae.
 
 #### A. Mô tả cây
 

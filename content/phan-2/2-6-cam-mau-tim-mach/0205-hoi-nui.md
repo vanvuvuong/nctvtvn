@@ -11,7 +11,7 @@ keywords:
 
 
 
-_Còn gọi là đại hồi núi ( Faux badianier), mu bu ( tiếng Mèo)._
+_Còn gọi là đại hồi núi (Faux badianier), mu bu (tiếng Mèo)._
 
 Tên khoa học _*Illicium griffithii Hook.f. et Thoms.*_
 

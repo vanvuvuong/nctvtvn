@@ -24,7 +24,7 @@ Thuộc họ Sổ Diỉleniaceae.
 
 A. Mó tả cây
 
-Dây chặc chiu là một cây nhò leo, dài 3-5m hay hơn, có nhiều cành, có lông. Lá dai, nháp hình bầu dục, mép có rãng cưa, phiến lá hẹp về phía cuống. Hoa trắng mọc thành chùy ở nách hay ở ngọn, ít hoa. Đại hình trứng, hơi thắt lại ở đáy bao bọc bởi áo hạt bị tước nhiều nơi. Mùa hoa: tháng 6 ( Hình 187 ).
+Dây chặc chiu là một cây nhò leo, dài 3-5m hay hơn, có nhiều cành, có lông. Lá dai, nháp hình bầu dục, mép có rãng cưa, phiến lá hẹp về phía cuống. Hoa trắng mọc thành chùy ở nách hay ở ngọn, ít hoa. Đại hình trứng, hơi thắt lại ở đáy bao bọc bởi áo hạt bị tước nhiều nơi. Mùa hoa: tháng 6 (Hình 187).
 
 #### B. Phân bố, thu hái và chế biên
 
@@ -58,7 +58,7 @@ Ta dùng toàn cây Thòng bong phơi hay sấy khô-Herba Logodii.
 
 #### A. Mô tả cây
 
-Thòng bong là một loại quyết có hiệp rất đài, mọc leo. Thân rẽ bò, lá dài, có nhiểu cặp lá chét, mỗi lá chét có nhiều lá chét con mang ổ tử nang ở mép. Bao tử hình 4 mặt, trắng xám hơi vàng. Vòng đáy đủ nàm ngang gần đỉnh bào tử nang ( Hình 188 ).
+Thòng bong là một loại quyết có hiệp rất đài, mọc leo. Thân rẽ bò, lá dài, có nhiểu cặp lá chét, mỗi lá chét có nhiều lá chét con mang ổ tử nang ở mép. Bao tử hình 4 mặt, trắng xám hơi vàng. Vòng đáy đủ nàm ngang gần đỉnh bào tử nang (Hình 188).
 
 #### B. Phân bố, thu hái và chế biến
 

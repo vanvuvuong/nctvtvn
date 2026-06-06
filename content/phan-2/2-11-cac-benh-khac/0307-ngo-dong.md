@@ -19,7 +19,7 @@ Thuộc họ Trôm Stercuỉiaceae.
 
 #### A. Mô tả cây
 
-Ngô đồng là một cây to, cao. Lá xẻ thùy chân vịt, đường kính iá tới 25cm với 3 đến 5 thùy hình ba cạnh, cuống lá dài hơn phiến lá, dài tới 30cm. Những thùy rất sít nhau có khi hơi'chồng lên nhau. Hoa nhò màu vàng. Quả gổm 5 đại, mòng, dài lOcm, với 2 hạt hình trứng dài 8mm, rộng 6mm ( Hình 433).
+Ngô đồng là một cây to, cao. Lá xẻ thùy chân vịt, đường kính iá tới 25cm với 3 đến 5 thùy hình ba cạnh, cuống lá dài hơn phiến lá, dài tới 30cm. Những thùy rất sít nhau có khi hơi'chồng lên nhau. Hoa nhò màu vàng. Quả gổm 5 đại, mòng, dài lOcm, với 2 hạt hình trứng dài 8mm, rộng 6mm (Hình 433).
 
 #### B. Phân bố, thu hái và chè biến
 

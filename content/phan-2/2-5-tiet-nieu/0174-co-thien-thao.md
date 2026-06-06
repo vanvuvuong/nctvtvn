@@ -23,7 +23,7 @@ Thuộc họ Hoa môi Lamỉaceae (Labiatae).
 
 A. Mò tả cây
 
-Cò thiên thảo cao 0,75 đến 1,25mm. Thân vuông, có lông nhất là ở ngọn. Lá mọc đối, có cuống rõ, phiến hình báu dục, có lông ở cả hai mặt, dài 7-15cm, rộng 3-6cm. Hoa màu hồng hay hơi tía mọc thành vòng nhiều hoa sít nhau ở kẽ lá. Hoa không cuống, đài hình chuồng, 5 răng. Ọuả bế tư, nhắn ( Hình 215 ).
+Cò thiên thảo cao 0,75 đến 1,25mm. Thân vuông, có lông nhất là ở ngọn. Lá mọc đối, có cuống rõ, phiến hình báu dục, có lông ở cả hai mặt, dài 7-15cm, rộng 3-6cm. Hoa màu hồng hay hơi tía mọc thành vòng nhiều hoa sít nhau ở kẽ lá. Hoa không cuống, đài hình chuồng, 5 răng. Ọuả bế tư, nhắn (Hình 215).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -27,7 +27,7 @@ Hành biển là một vị thuốc hiện còn phải nhập, từ năm 1958 ch
 
 #### A. Mô tả cây
 
-Hành biển là một cây sống dai do một dò to đường kính có thể hơn 15cm, cao 18-20cm, riêng dò có thể cân nặng 3kg, có khi tới 7-8kg. Lá vảy phía ngoài mỏng, khô màu nâu, vảy giữa dày, mẫm, nhầy, vảy ở giữa mịn hơn, ép lại thành một cột dài lên thành trục mang hoa cao tới 1m có khi cao tới 1,50m. Vào mùa xuân, lá hình mác, dài mọc thành cụm xung quanh dò, đến cuối mùa hạ, lá khô hết, khi ấy mới xuất hiện cán mang hoa dài cao trên mặt đất, cụm hoa mọc thành chùm dài với rất nhiều hoa nhỏ màu trắng hay hơi xanh lục, phần mang hoa nhiều khi dài tới 50-60cm. Hoa có 3 lá đài: 3 tràng, 6 nhị, 3 lá noãn, nhị đính lưng có bao phấn màu vàng ngắn. Quả là một nang 3 góc có 3-4 hạt trong mỗi ngăn. Tại Việt Nam lá lụi vào mùa hè và xuất hiện vào mùa đông ( Hình 463).
+Hành biển là một cây sống dai do một dò to đường kính có thể hơn 15cm, cao 18-20cm, riêng dò có thể cân nặng 3kg, có khi tới 7-8kg. Lá vảy phía ngoài mỏng, khô màu nâu, vảy giữa dày, mẫm, nhầy, vảy ở giữa mịn hơn, ép lại thành một cột dài lên thành trục mang hoa cao tới 1m có khi cao tới 1,50m. Vào mùa xuân, lá hình mác, dài mọc thành cụm xung quanh dò, đến cuối mùa hạ, lá khô hết, khi ấy mới xuất hiện cán mang hoa dài cao trên mặt đất, cụm hoa mọc thành chùm dài với rất nhiều hoa nhỏ màu trắng hay hơi xanh lục, phần mang hoa nhiều khi dài tới 50-60cm. Hoa có 3 lá đài: 3 tràng, 6 nhị, 3 lá noãn, nhị đính lưng có bao phấn màu vàng ngắn. Quả là một nang 3 góc có 3-4 hạt trong mỗi ngăn. Tại Việt Nam lá lụi vào mùa hè và xuất hiện vào mùa đông (Hình 463).
 
 []
 

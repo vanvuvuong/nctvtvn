@@ -65,7 +65,7 @@ Thuộc họ Ngũ gia bì Araliaceae.
 
 Thông thảo (Medulla Tetrapanacis) là lõi phơi hay sấy khô của thân cây thông thảo.
 
-()(\*)()Thông thảo là một cây nhỏ thường cao 3m có khi có thể tới 6m. Thân cứng nhưng dòn. Giữa thân có lõi trắng xốp, cây càng già, lõi càng đặc và chắc hơn. Lá to chia thành nhiều thùy có khi cắt sâu, mép có răng cưa to, cuống lá dài 30cm, đường kính lcm có lõi mểm, phiến lá đài 30cm đến 90cm: Hoa màu trắng hình cáu, cụm hoa hình tán tụ thành chùm. Quả dẹt gán liình cầu (Hình 166, Hm 4-9,2 ).
+()(\*)()Thông thảo là một cây nhỏ thường cao 3m có khi có thể tới 6m. Thân cứng nhưng dòn. Giữa thân có lõi trắng xốp, cây càng già, lõi càng đặc và chắc hơn. Lá to chia thành nhiều thùy có khi cắt sâu, mép có răng cưa to, cuống lá dài 30cm, đường kính lcm có lõi mểm, phiến lá đài 30cm đến 90cm: Hoa màu trắng hình cáu, cụm hoa hình tán tụ thành chùm. Quả dẹt gán liình cầu (Hình 166, Hm 4-9,2).
 
 ()(\*)()Ta mới khai thác một số cây mọc hoang dại ở những nơi ẩm vùng Cao Bằng, Lạng sơn, Tuyên Quang, Hà Giang.
 
@@ -105,7 +105,7 @@ Thuộc họ Cà phê Rubìaceae.
 
 Cây dành dành cho ta vị thuốc gọi là chi tủ.
 
-Chi tử (Pructus Gardeniae ) là quả dành dành chín phơi hay sấy khò.
+Chi tử (Pructus Gardeniae) là quả dành dành chín phơi hay sấy khò.
 
 Chi là chén đựng rượu, tử là quả hay hạt, vì quả dành dành giống cái chén uống ruợu ngày xưa.
 

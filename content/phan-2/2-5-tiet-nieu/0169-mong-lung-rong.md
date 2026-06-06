@@ -31,7 +31,7 @@ Thản mọc thành búi, có khi kết bện với các giá rẽ thành một 
 
 Hình 207. Móng lương rống - SelaịỊÍnella tamariscina
 
-gán cho cây nhiều tác dụng bản thân nó khổng có ( Hình 207 ).
+gán cho cây nhiều tác dụng bản thân nó khổng có (Hình 207).
 
 #### B. Phân bố, thu hái và chế biến
 

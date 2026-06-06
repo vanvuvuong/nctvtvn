@@ -20,7 +20,7 @@ Thuộc họ Trinh nữ Mimosaceae.
 
 #### A. Mô tả cây
 
-Bàm bàm là một loại dây leo, cứng. Lá kép hai lần lông chim, cuống chính dài 10-25cm, tận cùng bởi một tua cuống xẻ hai. Cuống phụ gồm hai đôi. Phiến lá chét 2-4 đôi, hình trứng dài 4-6cm, rộng 2-3cm. Hoa màu trắng nhạt, mọc thành bông, ít hoa ở kẽ lá, dài 15-20cm. Quả dài 45- 60cm có khi tới 1m, rộng 5-7cm, hơi hẹp lại giữa các hạt. Hạt nhẵn, dày, màu nâu, đường kính 4- 5cm, có vỏ dày cứng như sừng ( Hình 523).
+Bàm bàm là một loại dây leo, cứng. Lá kép hai lần lông chim, cuống chính dài 10-25cm, tận cùng bởi một tua cuống xẻ hai. Cuống phụ gồm hai đôi. Phiến lá chét 2-4 đôi, hình trứng dài 4-6cm, rộng 2-3cm. Hoa màu trắng nhạt, mọc thành bông, ít hoa ở kẽ lá, dài 15-20cm. Quả dài 45- 60cm có khi tới 1m, rộng 5-7cm, hơi hẹp lại giữa các hạt. Hạt nhẵn, dày, màu nâu, đường kính 4- 5cm, có vỏ dày cứng như sừng (Hình 523).
 
 []
 
@@ -58,7 +58,7 @@ Thuộc họ Cau Arecaceae (Palmae).
 
 #### A. Mô tả cây
 
-Báng hay bụng báng là một cây có thân cột cao từ 7-10m, đường kính tới 30cm, trên phủ những bó sợi to đen, giống như cước do cuống lá bị dữa ra, còn lại. Lá xẻ lông chim to dài 6- 7cm, cuống lá to dài, mặt trên lá màu lục, mặt dưới trắng nhạt. Bông mo dài 90-120cm, phân nhánh nhiều, rũ xuống. Hoa đực có đến 70-80 nhị, hoa cái có 3 lá đài, còn lại ở quả. Quả hình cầu to bằng quả táo màu vàng nâu nhạt, khi chín đỉnh lõm xuống, có ba hạt hình trứng, hơi ba cạnh, màu xám nâu, dài 25mm ( Hình 524).
+Báng hay bụng báng là một cây có thân cột cao từ 7-10m, đường kính tới 30cm, trên phủ những bó sợi to đen, giống như cước do cuống lá bị dữa ra, còn lại. Lá xẻ lông chim to dài 6- 7cm, cuống lá to dài, mặt trên lá màu lục, mặt dưới trắng nhạt. Bông mo dài 90-120cm, phân nhánh nhiều, rũ xuống. Hoa đực có đến 70-80 nhị, hoa cái có 3 lá đài, còn lại ở quả. Quả hình cầu to bằng quả táo màu vàng nâu nhạt, khi chín đỉnh lõm xuống, có ba hạt hình trứng, hơi ba cạnh, màu xám nâu, dài 25mm (Hình 524).
 
 []
 
@@ -122,7 +122,7 @@ Tuy theo mục đích chữa bệnh hay làm nguyên liệu chiết ancaloit ng�
 
 #### A. Mô tả cây
 
-Có khoảng 40 loài canhkina Cinchona. Canhkina là những cây nhỏ hay cây to có thể cao 15-20m. Lá mọc đối, có cuống, với hai lá kèm thường sớm rụng. Phiến lá nguyên hình trứng, có gân lá hình lông chim. Trong một số loài như canhkina xám, ở góc gân chính và gân phụ có các túi nhỏ mang lông. Hoa mọc thành chùm xim tận cùng, hoa đều, mẫu 5, cánh hoa màu trắng hay hơi hồng, thường có mùi thơm dễ chịu. Đài có 5 răng, tràng hình ống, loe ở miệng, với 5 thuỳ, 5 nhị dính trên ống tràng. Trong nhiều loài có hoa với vòi nhị dài hoặc ngắn không đều. Bầu dưới, với hai ngăn mang nhiều noãn. Hạt nhiều, nhỏ, dẹt có dìa hơi có răng ( Hình 525).
+Có khoảng 40 loài canhkina Cinchona. Canhkina là những cây nhỏ hay cây to có thể cao 15-20m. Lá mọc đối, có cuống, với hai lá kèm thường sớm rụng. Phiến lá nguyên hình trứng, có gân lá hình lông chim. Trong một số loài như canhkina xám, ở góc gân chính và gân phụ có các túi nhỏ mang lông. Hoa mọc thành chùm xim tận cùng, hoa đều, mẫu 5, cánh hoa màu trắng hay hơi hồng, thường có mùi thơm dễ chịu. Đài có 5 răng, tràng hình ống, loe ở miệng, với 5 thuỳ, 5 nhị dính trên ống tràng. Trong nhiều loài có hoa với vòi nhị dài hoặc ngắn không đều. Bầu dưới, với hai ngăn mang nhiều noãn. Hạt nhiều, nhỏ, dẹt có dìa hơi có răng (Hình 525).
 
 []
 
@@ -166,7 +166,7 @@ Năm 1939, 200 cây canhkina Cinchona ledgeriana (phần nhiều ốm cả rồi
 
 Song song với việc ươm hạt, người ta còn thí nghiệm cả cách trồng bằng cành. Kết quả rất tốt đối với loài canhkina đỏ Cinchona succirubra, nhưng đối với loài Cinchona ledgeriana kết quả kém hơn.
 
-Vào năm 1943, người ta thống kê ở Thủ Pháp có chừng 3 hecta đã trồng canhkina được 4 tuổi, 3 tuổi và 1 tuổi rưỡi, tất cả chừng 5 vạn cây. Những cây này mỗi năm lên cao chừng 0,75m (đối với loài Cinchona succirubra) và 1m (đối với loài Cinchona succirubra ). Mỗi năm có hai thời kỳ mọc nhanh vào xuân và thu, hai thời kỳ mọc kém là hè và đông.
+Vào năm 1943, người ta thống kê ở Thủ Pháp có chừng 3 hecta đã trồng canhkina được 4 tuổi, 3 tuổi và 1 tuổi rưỡi, tất cả chừng 5 vạn cây. Những cây này mỗi năm lên cao chừng 0,75m (đối với loài Cinchona succirubra) và 1m (đối với loài Cinchona succirubra). Mỗi năm có hai thời kỳ mọc nhanh vào xuân và thu, hai thời kỳ mọc kém là hè và đông.
 
 Tỷ lệ ancaloit toàn phần trong những cây 3 tuổi chừng 6,5%.
 

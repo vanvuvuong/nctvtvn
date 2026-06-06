@@ -78,7 +78,7 @@ Phan tả diệp Cassia angustifolia Vahl. là một cây nhỏ cao chừng 1m. 
 
 Tại những nơi cây mọc, mùa hoa tháng 9-12, mùa quả tháng 3 năm sau.
 
-Cây Cassia acutifolia Delile so với cây trên gần giống chỉ khác ở chỗ lá phần lớn hình trứng rộng hơn, hoa nhỏ hơn, quả ngắn nhưng rộng hơn, 2- 2,5cm ( Hình 354).
+Cây Cassia acutifolia Delile so với cây trên gần giống chỉ khác ở chỗ lá phần lớn hình trứng rộng hơn, hoa nhỏ hơn, quả ngắn nhưng rộng hơn, 2- 2,5cm (Hình 354).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -134,7 +134,7 @@ Ta dùng thảo quyết minh (Semen Cassiae) là hạt phơi hay sấy khô củ
 
 #### A. Mô tả cây
 
-Thảo quyết minh là một cây nhỏ cao 0,30-0,90m, có khi cao tới 1,5m. Lá mọc so le, kép, lông chim dìa chẵn, gồm 2 đến 4 đôi lá chét. Lá chét hình trứng ngược lại, phía đầu lá nở rộng ra, dài 3-5cm, rộng 15-25mm. Hoa mọc từ 1 đến 3 cái ở kẽ lá, màu vàng tươi. Quả là một giáp hình trụ dài 12-14cm, rộng 4mm, trong chứa chừng 25 hạt, cũng hình trụ ngắn chừng 5-7mm, rộng 2,5-3mm, hai đầu vát chéo, trông hơi giống viên đá lửa, màu nâu nhạt, bóng. Vị nhạt hơi đắng và nhầy ( Hình 355, Hm 12,4 ).
+Thảo quyết minh là một cây nhỏ cao 0,30-0,90m, có khi cao tới 1,5m. Lá mọc so le, kép, lông chim dìa chẵn, gồm 2 đến 4 đôi lá chét. Lá chét hình trứng ngược lại, phía đầu lá nở rộng ra, dài 3-5cm, rộng 15-25mm. Hoa mọc từ 1 đến 3 cái ở kẽ lá, màu vàng tươi. Quả là một giáp hình trụ dài 12-14cm, rộng 4mm, trong chứa chừng 25 hạt, cũng hình trụ ngắn chừng 5-7mm, rộng 2,5-3mm, hai đầu vát chéo, trông hơi giống viên đá lửa, màu nâu nhạt, bóng. Vị nhạt hơi đắng và nhầy (Hình 355, Hm 12,4).
 
 ##### TODO: thêm hình ảnh
 

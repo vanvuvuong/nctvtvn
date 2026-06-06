@@ -26,7 +26,7 @@ Thuộc họ HỔ tiêu Piperaceae.
 
 Cây bò ở phần gốc, cành mang hoa, thẳng đứng không lông. Lá có cuống ngắn, phiến lá hình trứng thuôn, nhọn ở đỉnh, hình tim ở gốc lá, cuống lá hơi phủ lông, có bẹ ở gốc.
 
-Hoa đơn tính, mọc thành bông. Bông đực có trục nhẵn, lá bắc tròn nhị 2, chỉ nhị rất ngán, bao phấn hình bầu dục. Bông cái ngắn hơn, trục cũng không có lông, lá bắc tròn có cuống ngán. Bầu mang 3 nhụy hình trứng nhọn đầu. Quả mọng. Mùa ra hoa: tháng 3 ( Hình 455).
+Hoa đơn tính, mọc thành bông. Bông đực có trục nhẵn, lá bắc tròn nhị 2, chỉ nhị rất ngán, bao phấn hình bầu dục. Bông cái ngắn hơn, trục cũng không có lông, lá bắc tròn có cuống ngán. Bầu mang 3 nhụy hình trứng nhọn đầu. Quả mọng. Mùa ra hoa: tháng 3 (Hình 455).
 
 #### B. Phân bố, thu hái và chế biến
 

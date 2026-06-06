@@ -24,7 +24,7 @@ Cần chú ý ngay rằng tên huơng bài dùng để chỉ hai cây khác nhau
 
 Cây hương bài sờ dĩ có tên như vậy là do rễ cây này được dùng làm hương đốt trong những ngày tết, dáng cây trông giống như cỗ bài.
 
-Hương bài là một loại cỏ sống dai, có thân rễ nằm ngang, thân cao chừng 40-50cm, có thể tới 1m. Lá mọc so le, ôm lấy thân theo hai bên thân hình nan quạt giấy trông như chiếc quạt hay quân bài, do đó có tên rẻ quạt hay hương bài. Lá hình mác dài 40-70cm, rộng 1,5-3,5cm, không cuống, phía dưới thành bẹ dài ôm lấy thân. Cụm hoa tận cùng, dài 10-20cm (không kể cuống) mọc thành thùy xim ngắn. Hoa màu vàng nhạt hay hơi tím nhạt, khi còn là nụ có hình trứng, 3 lá đài, 3 cánh tràng, 6 nhị, bầu hình cầu, 3 ngăn, quả mọng màu đỏ tía sẫm hay xanh đen, hình cầu đường kính 8- 9mm ngăn có 1-3 hạt hình trứng ( Hình 252 ).
+Hương bài là một loại cỏ sống dai, có thân rễ nằm ngang, thân cao chừng 40-50cm, có thể tới 1m. Lá mọc so le, ôm lấy thân theo hai bên thân hình nan quạt giấy trông như chiếc quạt hay quân bài, do đó có tên rẻ quạt hay hương bài. Lá hình mác dài 40-70cm, rộng 1,5-3,5cm, không cuống, phía dưới thành bẹ dài ôm lấy thân. Cụm hoa tận cùng, dài 10-20cm (không kể cuống) mọc thành thùy xim ngắn. Hoa màu vàng nhạt hay hơi tím nhạt, khi còn là nụ có hình trứng, 3 lá đài, 3 cánh tràng, 6 nhị, bầu hình cầu, 3 ngăn, quả mọng màu đỏ tía sẫm hay xanh đen, hình cầu đường kính 8- 9mm ngăn có 1-3 hạt hình trứng (Hình 252).
 
 #### B. Phân bố, thu hái và chế biến
 

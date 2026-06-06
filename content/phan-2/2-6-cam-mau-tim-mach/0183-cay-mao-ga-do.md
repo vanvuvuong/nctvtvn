@@ -23,7 +23,7 @@ Thuộc họ Giền Amaranthaceae.
 
 #### A. Mô tả cây
 
-Cây mào gà đỏ là một loại cỏ sống lâu năm, cao từ 30cm đến 1,5m hoặc hơn. Thân đứng, có cành nhẵn. Lá có cuống, phiến lá nguyên hình trứng đầu lá nhọn, phía gốc to rộng hơn lá cây mào gà trắng, Hoa đỏ, vàng hoặc trắng, cuống rất ngắn, mọc thành bông gần như không cuống hình vại với mép loe ra nhăn nheo. Quả hình trứng hay hình cầu. Hạt to hơn hạt mào gà trắng ( Hình 227, Hra 51,2 ).
+Cây mào gà đỏ là một loại cỏ sống lâu năm, cao từ 30cm đến 1,5m hoặc hơn. Thân đứng, có cành nhẵn. Lá có cuống, phiến lá nguyên hình trứng đầu lá nhọn, phía gốc to rộng hơn lá cây mào gà trắng, Hoa đỏ, vàng hoặc trắng, cuống rất ngắn, mọc thành bông gần như không cuống hình vại với mép loe ra nhăn nheo. Quả hình trứng hay hình cầu. Hạt to hơn hạt mào gà trắng (Hình 227, Hra 51,2).
 
 #### B. Thành phần hóa học
 

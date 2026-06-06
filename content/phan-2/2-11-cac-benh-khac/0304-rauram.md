@@ -25,7 +25,7 @@ Thuộc họ Rau răm Polygonaceae.
 
 #### A. Mô tả cây
 
-Cày sống hàng năm, toàn thân rễ và lá vò đều có mùi thơm dặc biệt dễ chịu. Thân mọc bò, từ mỗi đốt mọc ra rất nhiều rẻ, có từng phần thân mọc thẳng đứng lên cao chừng 35-40cm. Lá đơn mọc so le, hình mác hay hình trứng mác, cuống ngán. Bẹ chìa ngắn, chỉ đạt 1/4 hay 1/5 chiểu dài mồi đốt, trên mặt có những gân chạy song song, dài khỏi bẹ chìa thành những lóng dài. Hoa mọc thành bông hẹp, gầy, đơn độc hoặc xếp đôi hay thành chùm có ít nhánh. Quả nhỏ, ba cạnh, hai đầu nhọn, bóng nhẩn ( Hình 428).
+Cày sống hàng năm, toàn thân rễ và lá vò đều có mùi thơm dặc biệt dễ chịu. Thân mọc bò, từ mỗi đốt mọc ra rất nhiều rẻ, có từng phần thân mọc thẳng đứng lên cao chừng 35-40cm. Lá đơn mọc so le, hình mác hay hình trứng mác, cuống ngán. Bẹ chìa ngắn, chỉ đạt 1/4 hay 1/5 chiểu dài mồi đốt, trên mặt có những gân chạy song song, dài khỏi bẹ chìa thành những lóng dài. Hoa mọc thành bông hẹp, gầy, đơn độc hoặc xếp đôi hay thành chùm có ít nhánh. Quả nhỏ, ba cạnh, hai đầu nhọn, bóng nhẩn (Hình 428).
 
 B. Phán bố, thu hái và chế biến
 
@@ -97,7 +97,7 @@ Thuộc họ Hoàng tinh (Marantaceae).
 
 Cỏ cao khoảng lm. Lá to hình trứng thuôn dài đầu nhọn, nhẵn, dài 35cm, rộng 12cm, cuống dài 22cm, trong đó 2~3cm phía trên nhẵn. Cụm hoa hình đầu, không cuống, nằm trong bẹ của lá, đường kính 4-5cm gồm 4-5 hoa. Cánh hoa màu trắng hay đỏ. Quả hình trứng dài llmm, một phía khum nhiều hơn phía kia. Hạt thuôn dài với áo hạt gồm 2 phiến.
 
-Mùa hoa quả: tháng 4-6 ( Hình 430).
+Mùa hoa quả: tháng 4-6 (Hình 430).
 
 B. Phãn bố, thu hái và chế biên
 

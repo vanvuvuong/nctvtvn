@@ -24,7 +24,7 @@ Thìa là cho quả dùng làm thuốc.
 
 #### A. Mô tả cây
 
-Cỏ nhỏ mọc hằng năm, ít phân nhánh, thân nhẵn, cao 0,3-1 m, lá xẻ ba thành những phiến nhỏ hình sợi, vò có mùi thơm dễ chịu, nhung có người cho là khó chịu. Hoa màu vàng nhạt, mọc thành tán to thường gồm 10 gọng không tổng bao và tiểu bao. Quả hình trứng, đài 3mm, rộng 1,5mm, dẹt ở lưng, phân liệt quả tách nhau dễ dàng, có 3 sống dọc nổi ( Hình 323 ).
+Cỏ nhỏ mọc hằng năm, ít phân nhánh, thân nhẵn, cao 0,3-1 m, lá xẻ ba thành những phiến nhỏ hình sợi, vò có mùi thơm dễ chịu, nhung có người cho là khó chịu. Hoa màu vàng nhạt, mọc thành tán to thường gồm 10 gọng không tổng bao và tiểu bao. Quả hình trứng, đài 3mm, rộng 1,5mm, dẹt ở lưng, phân liệt quả tách nhau dễ dàng, có 3 sống dọc nổi (Hình 323).
 
 B. Phàn bố, thu hái và chê biến
 
@@ -56,7 +56,7 @@ Thuộc họ Sim Myrtaceae.
 
 #### A. Mô tả cây
 
-Cầy nhỡ cao 5-6m, có khi hơn, cành non tròn hay hơi hình 4 cạnh, nhẩn. Lá có cuống dài, dai, cúng, hình trứng rộng, dài 8-20cm, rộng 5-10cm hai mặt có những đốm nâu, cuống 1-1,5cm. Hoa gần như không cuống, nhỏ, mầu lục trắng nhạt, hợp thành cụm hoa hình tháp tỏa ra ở kẽ những lá đă rụng. Quả hình cầu, hay hơi hình trứng, đường kính 7-12mm, xù xì. Tòan lá, cành non vã nụ vò có mùi thơm dễ chịu đặc biệt của vối ( Hình 324).
+Cầy nhỡ cao 5-6m, có khi hơn, cành non tròn hay hơi hình 4 cạnh, nhẩn. Lá có cuống dài, dai, cúng, hình trứng rộng, dài 8-20cm, rộng 5-10cm hai mặt có những đốm nâu, cuống 1-1,5cm. Hoa gần như không cuống, nhỏ, mầu lục trắng nhạt, hợp thành cụm hoa hình tháp tỏa ra ở kẽ những lá đă rụng. Quả hình cầu, hay hơi hình trứng, đường kính 7-12mm, xù xì. Tòan lá, cành non vã nụ vò có mùi thơm dễ chịu đặc biệt của vối (Hình 324).
 
 B. Phàn bố, thu hái và chế biến
 

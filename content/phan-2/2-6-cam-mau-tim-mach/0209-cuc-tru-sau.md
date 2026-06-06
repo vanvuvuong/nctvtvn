@@ -29,7 +29,7 @@ Chrysanthemum do chữ Hy Lạp Chrysos có nghĩa là màu vàng, anthemon là 
 
 #### A. Mô tả cây
 
-Cúc trừ sâu là một loại cỏ sống dai, cao 50-60cm, toàn thân cành và lá được phủ lóng mềm trông như bông, mặt trên lá lông ngắn hơn ở mặt dưới làm cho toàn cây trông như có mốc trắng gần như cây cúc mốc. Lá cây cúc trừ sâu mọc thành túm khá nhiều lá, giữa túm lá mọc lên nhiều cành mang hoa. Lá phía dưới to dài 20cm, rộng chừng 6cm, cuống dài, phía dưới rộng ra và ôm vào thân, phiến lá xẻ lông chim cắt sâu, 7-9 thùy so le, hẹp về phía cuống, nở phía đỉnh, bên cạnh xẻ thùy sâu và không đều nhau, thùy phía mép giống như những răng cưa to thô. Tuy nhiên trong quá trình phát triển cành xẻ của lá có thay đổi và xẻ đều nhau hơn. Những thân mọc từ cụm lá phía gốc chỉ mang mỗi một cụm hoa hình đầu gồm 2 loại hoa: Những hoa phía ngoài hình thìa lìa họng hẹp lại và kéo dài thành hình lưỡi nhỏ màu trắng, với 2 đường rãnh dọc và 3 răng tù, số hoa này không thụ và có từ 12 đến 15 hoa, những hoa phía trong hoàn toàn hình ống màu vàng, với 5 răng lớn, hoa này lưỡng tính. Quả bế với 1 tiểu noãn, đỉnh quả có một bộ phận hình cốc chứ không mang chùm lông như nhiều quả khác của họ Cúc ( Hình 255 ).
+Cúc trừ sâu là một loại cỏ sống dai, cao 50-60cm, toàn thân cành và lá được phủ lóng mềm trông như bông, mặt trên lá lông ngắn hơn ở mặt dưới làm cho toàn cây trông như có mốc trắng gần như cây cúc mốc. Lá cây cúc trừ sâu mọc thành túm khá nhiều lá, giữa túm lá mọc lên nhiều cành mang hoa. Lá phía dưới to dài 20cm, rộng chừng 6cm, cuống dài, phía dưới rộng ra và ôm vào thân, phiến lá xẻ lông chim cắt sâu, 7-9 thùy so le, hẹp về phía cuống, nở phía đỉnh, bên cạnh xẻ thùy sâu và không đều nhau, thùy phía mép giống như những răng cưa to thô. Tuy nhiên trong quá trình phát triển cành xẻ của lá có thay đổi và xẻ đều nhau hơn. Những thân mọc từ cụm lá phía gốc chỉ mang mỗi một cụm hoa hình đầu gồm 2 loại hoa: Những hoa phía ngoài hình thìa lìa họng hẹp lại và kéo dài thành hình lưỡi nhỏ màu trắng, với 2 đường rãnh dọc và 3 răng tù, số hoa này không thụ và có từ 12 đến 15 hoa, những hoa phía trong hoàn toàn hình ống màu vàng, với 5 răng lớn, hoa này lưỡng tính. Quả bế với 1 tiểu noãn, đỉnh quả có một bộ phận hình cốc chứ không mang chùm lông như nhiều quả khác của họ Cúc (Hình 255).
 
 Loài Pyrethrum roseum và Pyrethrum carneum dễ phân biệt với loại trên vì hoa xung quanh có màu hồng đến đỏ tươi, số hoa thìa lìa này cũng nhiều hơn, từ 20 đến 30, trên quả có 8-10 đường sống nổi lên.
 
@@ -93,7 +93,7 @@ Tỷ lệ pyrethrin I trong nguyên liệu khô, kiệt tính theo phương th�
 
 ---
 
-X ( tỷ lệ phần trăm ) = 0,0066 x V x 100
+X (tỷ lệ phần trăm) = 0,0066 x V x 100
 
 ---
 

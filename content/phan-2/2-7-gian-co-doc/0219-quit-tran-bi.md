@@ -41,7 +41,7 @@ Có nghĩa là chữa bệnh cho nam giới không thể thiếu vị trần bì
 
 #### A. Mô tả cây
 
-Quít là một cây nhỏ, lá mọc so le, đơn, mép có răng cưa, vỏ có mùi thơm đặc biệt. Hoa nhỏ, màu trắng, mọc đơn độc ở kẽ lá. Quả hình cầu hai đầu dẹt, màu vàng cam hay vàng đỏ, vỏ mỏng nhẫn hay hơi sần sùi, dễ bóc. Mùi thơm ngon, nhiều hạt (Hình 287, Hm 50,3 ).
+Quít là một cây nhỏ, lá mọc so le, đơn, mép có răng cưa, vỏ có mùi thơm đặc biệt. Hoa nhỏ, màu trắng, mọc đơn độc ở kẽ lá. Quả hình cầu hai đầu dẹt, màu vàng cam hay vàng đỏ, vỏ mỏng nhẫn hay hơi sần sùi, dễ bóc. Mùi thơm ngon, nhiều hạt (Hình 287, Hm 50,3).
 
 []
 

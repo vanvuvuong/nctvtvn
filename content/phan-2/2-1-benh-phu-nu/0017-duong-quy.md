@@ -3,6 +3,12 @@ title: "17. ĐƯƠNG QUY 當歸"
 weight: 17
 navWeight: 984
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - điều kinh
+  - hoạt huyết
+  - mất ngủ
+  - thiếu máu
+  - thổ huyết
 keywords:
   - bệnh phụ nữ
   - đương quy
@@ -31,7 +37,7 @@ Quy là về, vì vị thuốc này có tác dụng điều khí, nuôi huyết,
 
 #### A. Mô tả cây
 
-Đương quy là một loại cây nhỏ, sống lâu năm, cao chừng 40-80cm, thân màu tím có rãnh dọc. Lá mọc so le, 2-3 lần xẻ lông chim, cuống dài 3-12cm, 3 đôi lá chét; đôi lá chét phía dưới có cuống đài, đôi lá chét phía trên đỉnh không có cuống; lá chét lại xẻ 1-2 lần nữa, mép có răng cưa, phía dưới cuống phát triển dài gần 1/2 cuống, ôm lấy thân. Hoa rất nhỏ màu xanh trắng họp thành cụm hoa hình tán kép gồm 12-40 hoa. Quả bế có rìa màu tím nhạt. Ra hoa vào tháng 7-8 ( Hình 23, Hm 3,1).
+Đương quy là một loại cây nhỏ, sống lâu năm, cao chừng 40-80cm, thân màu tím có rãnh dọc. Lá mọc so le, 2-3 lần xẻ lông chim, cuống dài 3-12cm, 3 đôi lá chét; đôi lá chét phía dưới có cuống đài, đôi lá chét phía trên đỉnh không có cuống; lá chét lại xẻ 1-2 lần nữa, mép có răng cưa, phía dưới cuống phát triển dài gần 1/2 cuống, ôm lấy thân. Hoa rất nhỏ màu xanh trắng họp thành cụm hoa hình tán kép gồm 12-40 hoa. Quả bế có rìa màu tím nhạt. Ra hoa vào tháng 7-8 (Hình 23, Hm 3,1).
 
 ![duong-quy](/images/23-duong-quy.png)
 
@@ -85,7 +91,7 @@ n-valerophenon-O-cacboxy-axit
 
     Dùng nước sắc đương quy với liều 300, 150, 30, 15 mg trên 10g thể trọng tiêm vào màng bụng chuột nhắt và thuốc chiết bằng ête dầu hỏa với liều 200, 100, 50 mg trên mỗi con chuột tiêm dưới da chuột nhắt đều không thấy tác dụng của các nội tiết tố nữa.
 
-    Năm 1954 (_Trung Hoa y học tạp chí_, 9; 670- 682), Lã Phú Hoa, Ngô Hy Đoan và Hồng Sơn Hải báo cáo đã dùng một loại đương quy (có lẽ là _Ligusticum acutilobum_) chế thành thuốc sắc, cất kéo hơi nước và chiết bằng ête thí nghiệm trên tử cung cô lập, tử cung tại chỗ và trên tử cung trường diễn, cũng đi đến kết quả gần như kết quả của Ngô Bảo Sam kể trên và các tác giả đề xuất rằng đương quy có hai loại tác dụng hưng phấn và ức chế. Chất có tác dụng ức chế có trong đương quy chủ yếu nằm trong phần bay hơi được, có độ sôí 189°-210°c ở 5 mm thủy ngân, thành phần này trong quá trình sắc thuốc thông thường vẫn được áp dụng trong nhân dân thưòng không bị bay đi nhiều. Thành phần có tác dụng hưng phấn tan trong nước, trong rượu êtylic, không tan trong ête là chất không bay hơi.
+    Năm 1954 (_Trung Hoa y học tạp chí_, 9; 670- 682), Lã Phú Hoa, Ngô Hy Đoan và Hồng Sơn Hải báo cáo đã dùng một loại đương quy (có lẽ là _Ligusticum acutilobum_) chế thành thuốc sắc, cất kéo hơi nước và chiết bằng ête thí nghiệm trên tử cung cô lập, tử cung tại chỗ và trên tử cung trường diễn, cũng đi đến kết quả gần như kết quả của Ngô Bảo Sam kể trên và các tác giả đề xuất rằng đương quy có hai loại tác dụng hưng phấn và ức chế. Chất có tác dụng ức chế có trong đương quy chủ yếu nằm trong phần bay hơi được, có độ sôí 189°-210°c ở 5 mm thủy ngân, thành phần này trong quá trình sắc thuốc thông thường vẫn được áp dụng trong nhân dân thường không bị bay đi nhiều. Thành phần có tác dụng hưng phấn tan trong nước, trong rượu êtylic, không tan trong ête là chất không bay hơi.
 
     Năm 1954, Chu Nhan (_Trung dược đích dược lý dữ ứng dụng_) đã đề xuất rằng đương quy có hai tác dụng: Thành phần tan trong nước, không bay hơi, có tinh thể, có tác dụng hưng phấn cơ tử cung làm cho sự co bóp tăng mạnh; thành phần bốc hơi có tác dụng ức chế cơ tử cung, làm cho tử cung giãn nghỉ, nếu muốn làm cho có tác dụng co bóp tử cung thì cần sắc thuốc có đương quy lâu để trừ bỏ bớt phần bay hơi; trái lại nếu muốn làm cho tử cung giãn nghỉ thì chỉ nên sắc rất chóng để bảo vệ phần bay hơi.
 

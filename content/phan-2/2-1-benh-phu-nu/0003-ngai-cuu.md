@@ -3,6 +3,11 @@ title: "3. NGẢI CỨU 北艾"
 weight: 3
 navWeight: 998
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - điều kinh
+  - đau bụng
+  - thuốc ôn khí huyết
+  - thuốc giúp sự tiêu hóa
 keywords:
   - bệnh phụ nữ
   - ngải cứu
@@ -29,7 +34,7 @@ Ngải cứu là một vị thuốc thông dụng cả trong đông y và tây y
 
 #### A. Mô tả cây
 
-Ngải cứu là một loại cỏ sống lâu năm, cao 50 - 60cm, thân to có rãnh dọc. Lá mọc so le, rộng, không có cuống (nhưng lá phía dưới thường có cuống), xẻ thùy lông chim, màu lá ở hai mặt rất khác nhau: Mặt trên nhẵn màu lục sẫm, mặt dưới màu trắng tro do có rất nhiều lông nhỏ, trắng. Hoa mọc thành chuỳ kép gồm rất nhiều cụm hoa hình đầu ( Hình 7).
+Ngải cứu là một loại cỏ sống lâu năm, cao 50 - 60cm, thân to có rãnh dọc. Lá mọc so le, rộng, không có cuống (nhưng lá phía dưới thường có cuống), xẻ thùy lông chim, màu lá ở hai mặt rất khác nhau: Mặt trên nhẵn màu lục sẫm, mặt dưới màu trắng tro do có rất nhiều lông nhỏ, trắng. Hoa mọc thành chuỳ kép gồm rất nhiều cụm hoa hình đầu (Hình 7).
 
 #### B. Phân bố, thu hái và chế biến
 

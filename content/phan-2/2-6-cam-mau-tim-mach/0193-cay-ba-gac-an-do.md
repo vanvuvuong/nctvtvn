@@ -21,7 +21,7 @@ Người ta dùng rễ phơi hay sấy khô (Radix Rauwolfiae serpentinae) của
 
 #### A. Mô tả cây
 
-Cây nhỏ, cao 40-50cm đến 1m, ít có cành. Lá mọc vòng 3-4 lá, có khi mọc đối. Hoa màu hồng, hay đốm hồng, mọc thành chùm. Quả nhỏ hình trứng, khi chín có màu tím đen (Hình 235, Hm 30,2 )
+Cây nhỏ, cao 40-50cm đến 1m, ít có cành. Lá mọc vòng 3-4 lá, có khi mọc đối. Hoa màu hồng, hay đốm hồng, mọc thành chùm. Quả nhỏ hình trứng, khi chín có màu tím đen (Hình 235, Hm 30,2)
 
 #### B. Phân bố, thu hái và chế biến
 

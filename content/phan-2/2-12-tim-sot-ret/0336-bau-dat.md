@@ -22,7 +22,7 @@ Thuộc họ Cúc Asteraceae (Compositae).
 
 #### A. Mô tả cây
 
-Bầu đất là một loại cỏ có nhiều cành, thân rất nhẵn, trong như mọng nước. Lá hình trứng tròn hay tù ở đáy lá, nhọn ở đầu, hơi có răng nhỏ ở mép, dài 3-8cm, rộng 0,5-1,5cm, rất nhẵn, mọng nước, cuống ngắn. Phiến lá trên mặt màu xanh thẵm trông như đen, mặt dưới màu đỏ tím, đo đó có tên: Thiên hắc, nghĩa là trời (ý nói mặt trên) có màu đen, địa hồng nghĩa là mặt dưới màu hồng. Cụm hoa hình đầu màu vàng cam, mọc thành ngù kép, lá bắc ngoài hình sợi, dài 6mm, lá bắc phía trong 8-12 chiếc, dài 15mm, hơi khô xác ở mép. Quả bế hình trụ, nhẵn, có 10 sống ( Hình 507).
+Bầu đất là một loại cỏ có nhiều cành, thân rất nhẵn, trong như mọng nước. Lá hình trứng tròn hay tù ở đáy lá, nhọn ở đầu, hơi có răng nhỏ ở mép, dài 3-8cm, rộng 0,5-1,5cm, rất nhẵn, mọng nước, cuống ngắn. Phiến lá trên mặt màu xanh thẵm trông như đen, mặt dưới màu đỏ tím, đo đó có tên: Thiên hắc, nghĩa là trời (ý nói mặt trên) có màu đen, địa hồng nghĩa là mặt dưới màu hồng. Cụm hoa hình đầu màu vàng cam, mọc thành ngù kép, lá bắc ngoài hình sợi, dài 6mm, lá bắc phía trong 8-12 chiếc, dài 15mm, hơi khô xác ở mép. Quả bế hình trụ, nhẵn, có 10 sống (Hình 507).
 
 []
 
@@ -66,7 +66,7 @@ Người ta dùng quả chín phơi hay sấy khô làm thuốc với tên là c
 
 Dướng là một cây to cao, có thể cao tới 16m. Vỏ thân nhẵn, màu tro. Thân lá đều có nhũ dịch, cành non hơi có lông nhỏ, khi già sẽ rụng đi.
 
-Lá mọc so le, cuống lá dài 3-10cm, có lông tơ, phiến lá hình trứng, dài 6-20cm, rộng 3-8cm, đầu lá hơi nhọn, phía cuống tròn hoặc hình tim, có khi không đối xứng, mép có răng cưa rõ, đôi khi xẻ 3 thuỳ, đặc biệt có khi xẻ 5 thuỳ, nhưng độ nông sâu của vết cắt không nhất định. Có khi phiến lá không chia thùy. Mặt trên lá có lông ngắn, mặt dưới có lông mềm màu xám trắng. Hoa đơn tính, đực cái khác gốc. Hoa đực mọc thành bông ở ngọn cành, hoa cái mọc thành cụm hoa hình cầu. Hoa đực có 4 lá đài, 4 nhị, hoa cái có đài hợp 3-4 răng, 1 vòi nhụy. Quả hạch, tụ thành hình cầu, màu vàng hay đỏ, đường kính chừng 2cm. Mùa hoa vào các tháng 5-6, mùa quả vào các tháng 8-11 ( Hình 508).
+Lá mọc so le, cuống lá dài 3-10cm, có lông tơ, phiến lá hình trứng, dài 6-20cm, rộng 3-8cm, đầu lá hơi nhọn, phía cuống tròn hoặc hình tim, có khi không đối xứng, mép có răng cưa rõ, đôi khi xẻ 3 thuỳ, đặc biệt có khi xẻ 5 thuỳ, nhưng độ nông sâu của vết cắt không nhất định. Có khi phiến lá không chia thùy. Mặt trên lá có lông ngắn, mặt dưới có lông mềm màu xám trắng. Hoa đơn tính, đực cái khác gốc. Hoa đực mọc thành bông ở ngọn cành, hoa cái mọc thành cụm hoa hình cầu. Hoa đực có 4 lá đài, 4 nhị, hoa cái có đài hợp 3-4 răng, 1 vòi nhụy. Quả hạch, tụ thành hình cầu, màu vàng hay đỏ, đường kính chừng 2cm. Mùa hoa vào các tháng 5-6, mùa quả vào các tháng 8-11 (Hình 508).
 
 []
 
@@ -122,7 +122,7 @@ Thuộc họ Hoa môi Lamiaceae (Labiatae).
 
 #### A. Mô tả cây
 
-Cây thuộc thảo, sống hằng năm, thân nhẵn hay có lông, thường phân cành ngay từ dưới gốc, cao 50-60cm. Lá mọc đối có cuống, phiến lá hình thuôn dài, có thứ màu xanh lục, có thứ màu tím đen nhạt. Hoa nhỏ màu trắng hay hơi tía, mọc thành chùm đơn hay phân nhánh với những hoa mọc thành vòng 5 đến 6 hoa một. Quả chứa hạt đen bóng, khi ngâm vào nước có chất nhầy màu trắng bao quanh ( Hình 509).
+Cây thuộc thảo, sống hằng năm, thân nhẵn hay có lông, thường phân cành ngay từ dưới gốc, cao 50-60cm. Lá mọc đối có cuống, phiến lá hình thuôn dài, có thứ màu xanh lục, có thứ màu tím đen nhạt. Hoa nhỏ màu trắng hay hơi tía, mọc thành chùm đơn hay phân nhánh với những hoa mọc thành vòng 5 đến 6 hoa một. Quả chứa hạt đen bóng, khi ngâm vào nước có chất nhầy màu trắng bao quanh (Hình 509).
 
 []
 
@@ -182,7 +182,7 @@ Thuộc họ Hoa môi Lamiaceae (Labiatae).
 
 #### A. Mô tả cây
 
-Cây nhỏ sống hằng năm, thân phân nhánh ngay từ gốc tạo thành cây bụi cao 0,5-1m hay hơn. Thân vuông, rõ nhất ở phần thân non, màu xanh lục nhạt, có lông. Lá mọc đơn đối chéo chữ thập, không có lá kèm. Phiến lá hình trứng dài 5-6cm, rộng 2-3cm, màu xanh lục nhạt, mép lá có răng cưa, có nhiều lông nhỏ. Cụm hoa là những xim co, không có cuống, mỗi xim co gồm 3 hoa có chung một lá bắc. Các xim co này tập trung hai cái một ở mỗi mấu thành những vòng giả, mỗi vòng 6 hoa, các vòng hoa thường cách nhau với những khoảng cách và tập trung ở đỉnh cành thành những bông với trục bông dài khoảng 20cm. Đài màu xanh, tràng màu trắng, quả bể tư, rời nhau, không tự mở, nằm trong đài tồn tại. Mỗi quả đựng một hạt. Quả hình bầu dục, nhẵn, màu xám đen, khi cho vào nước thì hút nước tạo thành một màng nhầy trắng bao bọc bên ngoài. Toàn cây vỏ có mùi thơm giữa mùi chanh và sả. Về hình thái, trà tiên giống húng quế chỉ khác phía trên có nhiều cành, lá hoa đều có lông, do đó có tên pilosum (lông mềm thưa). Tên là tiến thực vì ăn ngon, trước kia nhân dân tiến vua chúa dùng ( Hình 510).
+Cây nhỏ sống hằng năm, thân phân nhánh ngay từ gốc tạo thành cây bụi cao 0,5-1m hay hơn. Thân vuông, rõ nhất ở phần thân non, màu xanh lục nhạt, có lông. Lá mọc đơn đối chéo chữ thập, không có lá kèm. Phiến lá hình trứng dài 5-6cm, rộng 2-3cm, màu xanh lục nhạt, mép lá có răng cưa, có nhiều lông nhỏ. Cụm hoa là những xim co, không có cuống, mỗi xim co gồm 3 hoa có chung một lá bắc. Các xim co này tập trung hai cái một ở mỗi mấu thành những vòng giả, mỗi vòng 6 hoa, các vòng hoa thường cách nhau với những khoảng cách và tập trung ở đỉnh cành thành những bông với trục bông dài khoảng 20cm. Đài màu xanh, tràng màu trắng, quả bể tư, rời nhau, không tự mở, nằm trong đài tồn tại. Mỗi quả đựng một hạt. Quả hình bầu dục, nhẵn, màu xám đen, khi cho vào nước thì hút nước tạo thành một màng nhầy trắng bao bọc bên ngoài. Toàn cây vỏ có mùi thơm giữa mùi chanh và sả. Về hình thái, trà tiên giống húng quế chỉ khác phía trên có nhiều cành, lá hoa đều có lông, do đó có tên pilosum (lông mềm thưa). Tên là tiến thực vì ăn ngon, trước kia nhân dân tiến vua chúa dùng (Hình 510).
 
 []
 
@@ -218,7 +218,7 @@ Thuộc họ Dây gắm Gnetaceae.
 
 #### A. Mô tả cây
 
-Cây gắm là một loại dây mọc leo trên các cây to tới 10-12m, thân rất nhiều mấu. Lá mọc đối hình trứng, thuôn, dài tới 30cm, rộng 12cm. Hoa khác gốc. Nón đực mọc thành chùm dài 8cm ở các mấu cành, phân nhánh 2 lần. Nón cái gồm nhiều “hoa”: Mọc vòng từ 20 hoa một. Quả có cuống ngắn, dài 12-26mm, rộng 11-13mm, bóng, trên phủ một lớp như sáp ( Hình 511).
+Cây gắm là một loại dây mọc leo trên các cây to tới 10-12m, thân rất nhiều mấu. Lá mọc đối hình trứng, thuôn, dài tới 30cm, rộng 12cm. Hoa khác gốc. Nón đực mọc thành chùm dài 8cm ở các mấu cành, phân nhánh 2 lần. Nón cái gồm nhiều “hoa”: Mọc vòng từ 20 hoa một. Quả có cuống ngắn, dài 12-26mm, rộng 11-13mm, bóng, trên phủ một lớp như sáp (Hình 511).
 
 []
 
@@ -258,7 +258,7 @@ Hương là mùi thơm, nhu là mềm, vì cây có mùi thơm, lá mềm.
 
 #### A. Mô tả cây
 
-Cây hương nhu tía (Ocimum sanctum L.) là một loại cây nhỏ, sống hằng năm hoặc nhiều năm; có thể cao 1,5-2m. Thân và cành thường có màu tía, có lông quặp. Lá có cuống dài, thuôn hình mác hay hình trứng, dài 1-5cm, mép có răng cưa, 2 mặt đều có lông. Hoa màu tím, mọc thành chùm, xếp thành từng vòng từ 6 đến 8 chiếc trên chùm, ít khi phân nhánh. Lá và hoa vò ra có mùi thơm đinh hương ( Hình 512).
+Cây hương nhu tía (Ocimum sanctum L.) là một loại cây nhỏ, sống hằng năm hoặc nhiều năm; có thể cao 1,5-2m. Thân và cành thường có màu tía, có lông quặp. Lá có cuống dài, thuôn hình mác hay hình trứng, dài 1-5cm, mép có răng cưa, 2 mặt đều có lông. Hoa màu tím, mọc thành chùm, xếp thành từng vòng từ 6 đến 8 chiếc trên chùm, ít khi phân nhánh. Lá và hoa vò ra có mùi thơm đinh hương (Hình 512).
 
 []
 

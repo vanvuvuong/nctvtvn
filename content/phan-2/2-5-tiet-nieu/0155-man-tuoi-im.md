@@ -24,7 +24,7 @@ Tên khoa học _*Eupatorìum staechadosmum Mần tưới là một loài cỏ c
 
 Hance trung bình 50cm, cành phân nhánh nhiều, thân
 
-và cành nhẵn màu hơi tím, trên có những rãnh chạy dọc. Lá mọc đối, phiến lá hẹp, mép có răng cua to và nông, dài 7-llcm, rộng 17-25mm, gân chính nổi rõ, nhiều gân phụ phân nhánh, phiến lá có màu hơi tím. Cụm hoa hình đầu, màu hơi tím, mọc ở đầu cành hay kẽ lá thành xim hai ngả. Cuống hoa có nhiều lông ngán. Quả bế màu đen nhạt 5 cạnh. Mùa hoa ở miền Bắc: tháng 4-5. ( Hình 189, Hm 19,3)
+và cành nhẵn màu hơi tím, trên có những rãnh chạy dọc. Lá mọc đối, phiến lá hẹp, mép có răng cua to và nông, dài 7-llcm, rộng 17-25mm, gân chính nổi rõ, nhiều gân phụ phân nhánh, phiến lá có màu hơi tím. Cụm hoa hình đầu, màu hơi tím, mọc ở đầu cành hay kẽ lá thành xim hai ngả. Cuống hoa có nhiều lông ngán. Quả bế màu đen nhạt 5 cạnh. Mùa hoa ở miền Bắc: tháng 4-5. (Hình 189, Hm 19,3)
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -82,7 +82,7 @@ A. Mó tả cây
 
 Cây cao 0,75 đến 2,5m, thân có gai, đôi khi không gai. Lá có gai và nhiều lông, phiến lá hình bầu đục hay thuôn dài, đầu nhọn, phía gốc tròn hay lệch, dài 8-15cm, rộng 4-8cm, cuống lá dài 2-4cm. Hoa màu tím xanh, mọc thành xim có cuống, gồm 1-3 hoa. Quả có hình dáng, kích thước và màu sắc rất thay đổi. Hạt nhỏ trắng hình đĩa.
 
-Tên Soìanum meìongena còn dùng để chỉ cây cà bát ( Hình 190 ).
+Tên Soìanum meìongena còn dùng để chỉ cây cà bát (Hình 190).
 
 B. Phản bố, thu hái và chế biến
 

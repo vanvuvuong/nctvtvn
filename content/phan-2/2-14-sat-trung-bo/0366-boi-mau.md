@@ -34,7 +34,7 @@ Có hai cách giải thích về tên bối mẫu:
 
 2. Một thuyết khác lại cho rằng vì vị thuốc bám vào rễ chi chít như đàn con bám vào mẹ và lại quý như bảo bối cho nên gọi tên như vậy.
 
-Cây xuyên bối mẫu (vì mọc và được sử dụng đầu tiên ở Tứ Xuyên-Trung Quốc)-Fritillaria roylei Hook- là một cây sống lâu năm, cao chừng 40-60cm, lá gồm 3 đến 6 lá mọc vòng, đầu lá cuộn lại. Ở kẽ lá, vào tháng 3-4 mọc hoa hình chuông, mọc chúc xuống đất, dài 3,5-5cm, phía ngoài màu vàng lục nhạt, có dọc, phía trong có dọc màu xanh lục nhạt, có chân nhỏ màu tím, có đường cắt nhau như lưới ( Hình 580, Hm 18,3 ).
+Cây xuyên bối mẫu (vì mọc và được sử dụng đầu tiên ở Tứ Xuyên-Trung Quốc)-Fritillaria roylei Hook- là một cây sống lâu năm, cao chừng 40-60cm, lá gồm 3 đến 6 lá mọc vòng, đầu lá cuộn lại. Ở kẽ lá, vào tháng 3-4 mọc hoa hình chuông, mọc chúc xuống đất, dài 3,5-5cm, phía ngoài màu vàng lục nhạt, có dọc, phía trong có dọc màu xanh lục nhạt, có chân nhỏ màu tím, có đường cắt nhau như lưới (Hình 580, Hm 18,3).
 
 []
 
@@ -42,7 +42,7 @@ Cây xuyên bối mẫu (vì mọc và được sử dụng đầu tiên ở T�
 
 Hình 580. Xuyên bối mẫu - Pritillaria roylei
 
-Cây triết bối mẫu-Fritillaria verticillata Willd var. thunbergii (Miq.)(còn có tên là Fritillaria thunbergii Miq.) là một cây cùng họ, vì mọc chủ yếu và được sử dụng ở tỉnh Triết Giang, Trung Quốc cho nên gọi như vậy. Cây này khác cây xuyên bối mẫu ở chỗ lá hẹp hơn, đầu lá cuộn lại nhiều hơn, 3 đến 4 lá mọc vòng, dài 2-3cm, tép dò của triết bối mẫu to hơn tép dò của xuyên bối mẫu ( Hình 581, Hm 18,2 ).
+Cây triết bối mẫu-Fritillaria verticillata Willd var. thunbergii (Miq.)(còn có tên là Fritillaria thunbergii Miq.) là một cây cùng họ, vì mọc chủ yếu và được sử dụng ở tỉnh Triết Giang, Trung Quốc cho nên gọi như vậy. Cây này khác cây xuyên bối mẫu ở chỗ lá hẹp hơn, đầu lá cuộn lại nhiều hơn, 3 đến 4 lá mọc vòng, dài 2-3cm, tép dò của triết bối mẫu to hơn tép dò của xuyên bối mẫu (Hình 581, Hm 18,2).
 
 []
 

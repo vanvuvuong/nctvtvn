@@ -128,7 +128,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 #### A. Mô tả cây
 
-Cây nhỡ có thể cao tới 4-7m, thân có thể có đường kứih bằng cổ tay, cành nhiều, mọc so le hay hơi vòng, màu xanh, gẩy; cành con cũng gầy nhỏ, chỉ mang rất ít lá. Lá nhỏ, hình mác hẹp, hơi dày, rất chóng rụng, phiến lá dài 12-16mm, rộng 2mm. Thoáng trông, người ta có cảm tưởng là một cây khỡng có lá. Hoa tập trung ở nhũng chõ phân nhánh hoặc tận cùng ờ đầu cành. Quả nang, hơi có lông, có 3 mảnh vỏ. Hạt hình trái xoan, nhẩn ( Hình 444).
+Cây nhỡ có thể cao tới 4-7m, thân có thể có đường kứih bằng cổ tay, cành nhiều, mọc so le hay hơi vòng, màu xanh, gẩy; cành con cũng gầy nhỏ, chỉ mang rất ít lá. Lá nhỏ, hình mác hẹp, hơi dày, rất chóng rụng, phiến lá dài 12-16mm, rộng 2mm. Thoáng trông, người ta có cảm tưởng là một cây khỡng có lá. Hoa tập trung ở nhũng chõ phân nhánh hoặc tận cùng ờ đầu cành. Quả nang, hơi có lông, có 3 mảnh vỏ. Hạt hình trái xoan, nhẩn (Hình 444).
 
 B. Phân bô, thu hái và chê biến
 
@@ -144,15 +144,15 @@ Tirucaỉỉoỉ
 
 Nhựa này kích thích rất mạnh các niêm mạc, độc đối với cá và chuột. Nhựa cây này phơi nắng và nhào với nước sẽ cho một thứ guta-pecka.
 
-Trong xương khô có tirucallol ( còn gọi là
+Trong xương khô có tirucallol (còn gọi là
 
 ##### TODO: thêm hình ảnh
 
 Hình 444. Xương khô - Euphorbta tirucaỉlì
 
-katmol ) độ chảy 133 - 134,5ĐC , = + 4,5U
+katmol) độ chảy 133 - 134,5ĐC , = + 4,5U
 
-(trong benzen ).
+(trong benzen).
 
 Chú thích;
 
@@ -182,7 +182,7 @@ A. Mỏ tả cày
 
 Cay xương rồng là một cây nhỡ, có thể cao tới 7-8m, phân nhiều cành, phị nước, cành có 3 cạnh lồi, lá kèm biến thành gai. Lá ít và nhỏ, cuống rất ngấn, mọng nước, hình trứng ngược, gân lá không rõ, mọc từ cạnh mép của cành. Hoa mọc thành tán, cuống ngắn từ những chỗ hõm của mép cành. Mỗi cụm hoa gồm 3 tổng bao, hình cầu dẹt, đường kính lcm, màu vàng, những hoa ở cạnh có cuống ngấn, những hoa ở giữa không có cuống, vòi nhuỵ tách rời, đẫu xẻ
 
-2. Quả có đường kính chừng lcm. Mùa hoa vào mùa xuân ( Hình 445).
+2. Quả có đường kính chừng lcm. Mùa hoa vào mùa xuân (Hình 445).
 
 #### B. Phân bố, thu hái và chế biên
 

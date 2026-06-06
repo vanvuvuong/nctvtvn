@@ -24,7 +24,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 #### A. Mô tả cây
 
-Đơn lá đỏ là một loại cây nhỏ, cao 0,70-1,50m, có cành nhỏ, gầy, dài, màu tía. Lá mọc đôì, hình trái xoan thuôn dài, phía cuống nhọn, phía đầu có mũi nhọn ngắn, dài 6-12cm, rộng 1,2-4cm, mặt trên lá màu xanh lục sẫm, mặt duới màu tía đỏ, mép có răng cưa, cuống ngắn 5-10mm. Hoa mọc thành bông ở kẽ M hay đầu cành, bông hoa đực dài 2cm, bông hoa cái ngắn hơn. Quả 3 mảnh, đưòng kính chừng lem, hạt hình cầu, màu nâu nhạt, đường kính 4mm. Mùa hoa vào các tháng 4-5-6 ( Hình 295 ).
+Đơn lá đỏ là một loại cây nhỏ, cao 0,70-1,50m, có cành nhỏ, gầy, dài, màu tía. Lá mọc đôì, hình trái xoan thuôn dài, phía cuống nhọn, phía đầu có mũi nhọn ngắn, dài 6-12cm, rộng 1,2-4cm, mặt trên lá màu xanh lục sẫm, mặt duới màu tía đỏ, mép có răng cưa, cuống ngắn 5-10mm. Hoa mọc thành bông ở kẽ M hay đầu cành, bông hoa đực dài 2cm, bông hoa cái ngắn hơn. Quả 3 mảnh, đưòng kính chừng lem, hạt hình cầu, màu nâu nhạt, đường kính 4mm. Mùa hoa vào các tháng 4-5-6 (Hình 295).
 
 #### B. Phân bố, thu hái và chê biến
 
@@ -70,7 +70,7 @@ Thuộc họ Hoa hồng Rosaceae.
 
 #### A. Mô tả cây
 
-Cây nhỡ, rất nhiều cành, cành nhiều khi vuơn dài tới vài mét. Cành có lông, trên có gai nhỏ, cong về phía gốc, phía dưới gai phình ra. Lá kép có 3 đến 5 lá chét có cuốn ngắn, lá chét giữa lớn hơn cả, mép có răng cưa, mặt trên nhấn, mặt dưới có nhiều lông, cuống chung đài 3-6cm, có gai. Hoa mọc thành chùy nhỏ ở đầu cành hay kẽ lá. Quả kép hình cầu, bọc trong lá đài, gổm nhiều quả hạch nhỏ. Khi chín có màu đỏ hay đen nhạt, ăn được ( Hình 296 ).
+Cây nhỡ, rất nhiều cành, cành nhiều khi vuơn dài tới vài mét. Cành có lông, trên có gai nhỏ, cong về phía gốc, phía dưới gai phình ra. Lá kép có 3 đến 5 lá chét có cuốn ngắn, lá chét giữa lớn hơn cả, mép có răng cưa, mặt trên nhấn, mặt dưới có nhiều lông, cuống chung đài 3-6cm, có gai. Hoa mọc thành chùy nhỏ ở đầu cành hay kẽ lá. Quả kép hình cầu, bọc trong lá đài, gổm nhiều quả hạch nhỏ. Khi chín có màu đỏ hay đen nhạt, ăn được (Hình 296).
 
 #### B. Phân bố, thu hái và chế biến
 

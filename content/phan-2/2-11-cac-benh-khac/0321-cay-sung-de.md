@@ -23,7 +23,7 @@ Người ta dùng hạt phơi hay sấy khô của quả sừng dê đã chín g
 
 Cây sừng đê là một cây nhỏ, cao chừng 3 đến 4,5m. Toàn thân cây và lá khi bẻ có nhủ dịch màu trắng sữa. Cành non vuông, gầy, màu nâu lục nhạt, cành già hình trụ nâu đen nhạt có khía dọc, nhiều đóm bì khổng trắng nổi lên. Lá mọc đối, hơi giống hình thìa, trên to dưới nhỏ, đầu nhọn, dài 5-9cm, rộng 2,5-5cm, gân lá gồm 6 đến 8 đôi không nổi rõ ở cả hai mặt, cuống lá dài 3 đến 8mm, gầy, trên có lòng máng. Cụm hoa hình xim ở đẩu cành, mang 1-3 hoa to, cuống hoa dài l-1,5cm gần đài có một đồi lá bắc mọc đối. Đài hoa màu xanh hay vàng
 
-xanh, tràng hoa hình phễu rộng, trẽn xẻ làm 5 cánh màu vàng, đặc biệt phía trên của cánh tràng hẹp lại thành hình sợi, bầu trung, có 2 ngăn. Trồng ở vườn Trường đại học dược khoa Hà Nội. Ra hoa vào tháng 2-3 (nhưng sau 3 năm chưa thấy có quả). Quả khô gồm 2 đại đính vào nhau, đầu đại nhỏ nhưng tù, đại dài chừng lOcm đến 15cm, vò đày cứng. Khi chín mở ra có nhiều hạt có cuống và chùm lông mịn dài ( Hình 457, Hm 26,3).
+xanh, tràng hoa hình phễu rộng, trẽn xẻ làm 5 cánh màu vàng, đặc biệt phía trên của cánh tràng hẹp lại thành hình sợi, bầu trung, có 2 ngăn. Trồng ở vườn Trường đại học dược khoa Hà Nội. Ra hoa vào tháng 2-3 (nhưng sau 3 năm chưa thấy có quả). Quả khô gồm 2 đại đính vào nhau, đầu đại nhỏ nhưng tù, đại dài chừng lOcm đến 15cm, vò đày cứng. Khi chín mở ra có nhiều hạt có cuống và chùm lông mịn dài (Hình 457, Hm 26,3).
 
 B. Phân bo, thu hái và chế biến
 
@@ -71,7 +71,7 @@ Chú thích:
 
 Ngoài loài Strophantlĩus divaricatus có hoa màu vàng kể trên, trong nước ta còn 3 loại khác có hoa màu đỏ vì tài liệu chưa rõ nên chưa xác định chắc chắn:
 
-1. Loài Strophanthus robustus Pierre: Cây nhỏ mọc leo cành non gầy nhãn, màu nâu đỏ nhạt có bì tràng có một đôi vẩy dài 3mm, mẫm, nguyên, đỉnh nhọn, ống dài 9-12cm, trên loe hình phễu, duới hình trụ. Quả khô, hai đại đài 12cm, phía cuống rộng 2cm đầu tù, van xơ gỗ, dầy 4mm màu xám nhat có rãnh dọc. Hạt nhiểu, dài 21mm, rộng 2mm mật phẳng có cán mang nhiều lởng mịn trắng, dài. Mùa hoa quả vào tháng 3-4 ( Hình 458, Hm 45,4).
+1. Loài Strophanthus robustus Pierre: Cây nhỏ mọc leo cành non gầy nhãn, màu nâu đỏ nhạt có bì tràng có một đôi vẩy dài 3mm, mẫm, nguyên, đỉnh nhọn, ống dài 9-12cm, trên loe hình phễu, duới hình trụ. Quả khô, hai đại đài 12cm, phía cuống rộng 2cm đầu tù, van xơ gỗ, dầy 4mm màu xám nhat có rãnh dọc. Hạt nhiểu, dài 21mm, rộng 2mm mật phẳng có cán mang nhiều lởng mịn trắng, dài. Mùa hoa quả vào tháng 3-4 (Hình 458, Hm 45,4).
 
 2'. Loài Strophanthus caudatus Kurtz. Loài này hoa cũng đỏ có hai thứ là:
 
@@ -81,7 +81,7 @@ a/ Strophanthus eecaudatus Kurtz var. mơcrophyllus Franch. (Strophanthus pentap
 
 b/ Strophanthus caudaíus Kurtz var. giganteus Pitard (Strophanthus giganteus Pierre, Strophanthus pierrei Heim). Cũng là một loài dây leo, lá dài 12- 22cm, rông 4-7cm, hình mác thuôn hơi dài, gân có
 
-9- 12 đôi, cuống đài 9-llmm.Cụm hoa hình xim ở đầu cành, dài 4-8cm, hoa cũng màu đỏ. Quả khô 2 đại dài 18-22cm phía cuống rộng 2,5cm, đầu tù, vỏ quả cứng đen nhạt trên có khía dọc, nhiều hạt dài 1,75cm, rộng 6mm. phía dưới tròn, trên dẹt, cán lông trắng mịn, chiếm 3,5cm, lông dài tới 5cm. Ra hoa vào các tháng 8-12, quả vào tháng 12 ( Hình 459).
+9- 12 đôi, cuống đài 9-llmm.Cụm hoa hình xim ở đầu cành, dài 4-8cm, hoa cũng màu đỏ. Quả khô 2 đại dài 18-22cm phía cuống rộng 2,5cm, đầu tù, vỏ quả cứng đen nhạt trên có khía dọc, nhiều hạt dài 1,75cm, rộng 6mm. phía dưới tròn, trên dẹt, cán lông trắng mịn, chiếm 3,5cm, lông dài tới 5cm. Ra hoa vào các tháng 8-12, quả vào tháng 12 (Hình 459).
 
 c/ Sírophanthus balansae Franch. Cây nhỏ, có nhiểu cành, cành không có bì khổng. Lá dài 16cm, rộng 5-7cm. Cụm hoa chưa biết. Quả khô, dài 12cm, rộng 2cm, đầu tù, hoi nhọn, hạt dài
 

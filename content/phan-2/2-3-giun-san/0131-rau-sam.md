@@ -55,5 +55,5 @@ Theo Viện vệ sinh Hà Nội (1972) rau sam Việt Nam có 1,4% protit, 3% gl
 
 Nghiên cứu rau sam ờ Đài Loan, người ta thấy có axit hữu cơ, kali nitrat, kali suníat và muối kali khác, cây tươi chứa chừng 1% muối kali, cây khô chứa 10% muối kali (theo Dược học tạp chí của Nhật Bản, 1944, quyển 64. (3): 177-178). Trong tài liệu này còn nói nhân dân Đài Loan dùng rau sam chữa bệnh cước khí thủy thủng, tiểu tiện khó khăn, giải độc; tác giả kết luân là vì trong rau sam có muối kali oxalat, axit làm thông tiểu cho nên có tác dụng giải độc.
 
-Năm 1961 (Nature, 191, 1108) p. c. Feng và cộng sự tìm thấy trong rau sam tươi có 0,25%I- noradrenalin CeHn₀₃N, dopamìn - 4 - (2- aminoetyl) pyrocatechol C₈Hn₀₂N và một lượng dopa 3 - ( 3,4-dihydroxyphenyl ) - I-alanin
+Năm 1961 (Nature, 191, 1108) p. c. Feng và cộng sự tìm thấy trong rau sam tươi có 0,25%I- noradrenalin CeHn₀₃N, dopamìn - 4 - (2- aminoetyl) pyrocatechol C₈Hn₀₂N và một lượng dopa 3 - (3,4-dihydroxyphenyl) - I-alanin
 

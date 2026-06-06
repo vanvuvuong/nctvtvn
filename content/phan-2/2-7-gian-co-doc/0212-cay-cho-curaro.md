@@ -139,7 +139,7 @@ Khô sở dùng làm phân bón, nguyên liệu chiết saponozit, làm thuốc 
 
 #### A. Mô tả cây
 
-Cây sở là một cây nhỏ, cao chừng 5-7m. Lá không rụng, hầu như không cuống, hình mác thuôn hay hình trứng thuôn dài, đầu nhọn, phía cuống hơi hẹp lại, phiến lá dai, nhẵn, mép có răng cưa, dài 3-6cm, rộng 1,5-3cm. Hoa mọc ở nách hay ở ngọn, tụ từ 1 đến 4 cái, màu trắng, đường kính 3,5cm. Quả nang, đường kính 2,5- 3 cm, hơi có lông, đỉnh tròn hay hơi nhọn, thành dày, có 3 ngăn, mở dọc theo ngăn, mỗi ngăn có 1 đến 3 hạt có vỏ ngoài cứng, lá mầm dày, chứa nhiều dầu ( Hình 258 ).
+Cây sở là một cây nhỏ, cao chừng 5-7m. Lá không rụng, hầu như không cuống, hình mác thuôn hay hình trứng thuôn dài, đầu nhọn, phía cuống hơi hẹp lại, phiến lá dai, nhẵn, mép có răng cưa, dài 3-6cm, rộng 1,5-3cm. Hoa mọc ở nách hay ở ngọn, tụ từ 1 đến 4 cái, màu trắng, đường kính 3,5cm. Quả nang, đường kính 2,5- 3 cm, hơi có lông, đỉnh tròn hay hơi nhọn, thành dày, có 3 ngăn, mở dọc theo ngăn, mỗi ngăn có 1 đến 3 hạt có vỏ ngoài cứng, lá mầm dày, chứa nhiều dầu (Hình 258).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -187,7 +187,7 @@ Cây trẩu cho ta một loại dầu sơn rất quý dùng trong nước và xu
 
 #### A. Mô tả cây
 
-Trẩu là một cây to, cao có thể tới 8m hay nhiều hơn, thân nhẵn. Lá đa dạng, khi thì có thùy sâu, khi xẻ nông, khi thì nguyên và hình tim, mặt trên bóng, màu sẫm, mặt dưới mờ, màu nhạt. Các lá đa dạng đều có một đạc điểm chung: Ở gốc phiến lá và kẽ thùy bao giờ cũng có 2 tuyến đỏ nổi rõ, cuống lá dài 7-10cm. Hoa đơn tính, cùng gốc, có khi khác gốc. Tràng 5, màu trắng, đốm tía ở móng tràng. Quả hình trứng, màu lục, đường kính 3-5cm, mặt ngoài nhăn nheo, cấu tạo bởi 3 mảnh vỏ, mỗi mảnh có 1 đường gân nổi cao, 3 hạt có nội nhũ to chứa có lá xẻ thùy nhiều dầu. Mùa hoa tháng 3-4, thường ra hoa trước khi lá non xuất hiện. Thường tháng 9 lại có l vụ hoa nữa. Quả của lứa hoa trước chín vào khoảng tháng 10 ( Hình 259a, 259b).
+Trẩu là một cây to, cao có thể tới 8m hay nhiều hơn, thân nhẵn. Lá đa dạng, khi thì có thùy sâu, khi xẻ nông, khi thì nguyên và hình tim, mặt trên bóng, màu sẫm, mặt dưới mờ, màu nhạt. Các lá đa dạng đều có một đạc điểm chung: Ở gốc phiến lá và kẽ thùy bao giờ cũng có 2 tuyến đỏ nổi rõ, cuống lá dài 7-10cm. Hoa đơn tính, cùng gốc, có khi khác gốc. Tràng 5, màu trắng, đốm tía ở móng tràng. Quả hình trứng, màu lục, đường kính 3-5cm, mặt ngoài nhăn nheo, cấu tạo bởi 3 mảnh vỏ, mỗi mảnh có 1 đường gân nổi cao, 3 hạt có nội nhũ to chứa có lá xẻ thùy nhiều dầu. Mùa hoa tháng 3-4, thường ra hoa trước khi lá non xuất hiện. Thường tháng 9 lại có l vụ hoa nữa. Quả của lứa hoa trước chín vào khoảng tháng 10 (Hình 259a, 259b).
 
 []
 
@@ -229,7 +229,7 @@ Thuộc họ Vang Caesalpiniaceae.
 
 #### A. Mô tả cây
 
-Lim là một loại cây to, có thể cao hơn 10m hoặc hơn nữa. Lá hai lần kép lông chim với 3 đôi lá chép cấp hai, lá chét 9-15, mọc so le, nhọn, nhẵn, bóng ở mặt trên, dài 5-7cm, rộng 25-30mm. Hoa màu trắng mọc thành chùy đơn độc hay tập trung ở nách lá. Quả thuôn dài 20cm, rộng 35-40mm, hạt màu nâu, hơi hình trứng, dẹt và hơi có dìa ở đỉnh, xung quanh có rãnh Hình 260 ).
+Lim là một loại cây to, có thể cao hơn 10m hoặc hơn nữa. Lá hai lần kép lông chim với 3 đôi lá chép cấp hai, lá chét 9-15, mọc so le, nhọn, nhẵn, bóng ở mặt trên, dài 5-7cm, rộng 25-30mm. Hoa màu trắng mọc thành chùy đơn độc hay tập trung ở nách lá. Quả thuôn dài 20cm, rộng 35-40mm, hạt màu nâu, hơi hình trứng, dẹt và hơi có dìa ở đỉnh, xung quanh có rãnh Hình 260).
 
 []
 

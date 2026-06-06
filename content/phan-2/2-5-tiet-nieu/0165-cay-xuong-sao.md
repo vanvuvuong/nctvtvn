@@ -21,7 +21,7 @@ Thuộc họ Hoa môi Lamiaceae ịLabiatae).
 
 A. Mò tả cây
 
-Cây nhỏ cao 40-60cm, lá mọc đối, hai mặt lá đểu có lông, mép lá có răng cưa, dài 2-4cm. Hoa màu hồng nhạt, quả nhỏ hình trứng (Hình 209 ).
+Cây nhỏ cao 40-60cm, lá mọc đối, hai mặt lá đểu có lông, mép lá có răng cưa, dài 2-4cm. Hoa màu hồng nhạt, quả nhỏ hình trứng (Hình 209).
 
 B. Phán bố, thu hái và chế biến
 

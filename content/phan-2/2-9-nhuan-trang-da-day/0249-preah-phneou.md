@@ -20,7 +20,7 @@ Thuộc họ Bàng Combretaceae.
 
 #### A. Mô tả cây
 
-Preah phneou là tên Cămpuchia của một loài chiều liêu. Vì tên này được giới thiệu dùng trong thuốc đầu tiên cho nên cứ giữ tên này. Cây cao 10-30m, thân hình trụ, vỏ màu trắng nhạt, gần như nhẵn. Lá mọc đối, hình trứng hay hình mác, đầu và phía cuống hơi tù; phiến lá dai, hơi bóng, dài 8-10cm, rộng 5-6cm, mặt trên có những điểm trắng nhỏ, gần phía cuống có hai hạch dài ở mép lá. Cuống lá rất ngắn. Hoa nhỏ, màu trắng, mọc thành chùy kép, dài 6cm, trên có phủ lông màu hung nhạt. Quả dài 25mm, có ba cánh rộng 7-8mm, một ngăn. Một hạt hình thoi dài 2mm, lá mầm cuốn. Mùa hoa: tháng 3-4; mùa quả: tháng 4-5 ( Hình 339 ).
+Preah phneou là tên Cămpuchia của một loài chiều liêu. Vì tên này được giới thiệu dùng trong thuốc đầu tiên cho nên cứ giữ tên này. Cây cao 10-30m, thân hình trụ, vỏ màu trắng nhạt, gần như nhẵn. Lá mọc đối, hình trứng hay hình mác, đầu và phía cuống hơi tù; phiến lá dai, hơi bóng, dài 8-10cm, rộng 5-6cm, mặt trên có những điểm trắng nhỏ, gần phía cuống có hai hạch dài ở mép lá. Cuống lá rất ngắn. Hoa nhỏ, màu trắng, mọc thành chùy kép, dài 6cm, trên có phủ lông màu hung nhạt. Quả dài 25mm, có ba cánh rộng 7-8mm, một ngăn. Một hạt hình thoi dài 2mm, lá mầm cuốn. Mùa hoa: tháng 3-4; mùa quả: tháng 4-5 (Hình 339).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -23,7 +23,7 @@ Thuộc họ Cam Rutaceae.
 
 #### A. Mô tả cây
 
-Hồng bì là một loại cây cao 3-5m, cành sần sùi do có nhiều hạch. Lá kép dìa lẻ, dài 35cm, lá chét hình trứng, nguyên hay hơi khía tai bèo, phía cuống lá hơi tròn, nhẵn. Hoa trắng mọc thành chuỳ ở ngọn, chuỳ thưa hoa, dài 25-50cm. Quả màu vàng, hình cầu, đường kính 15mm, có lông 1-2 ngăn, một hạt: thịt ngọt thơm. Mùa hoa: tháng 4, mùa quả: 6-10 ( Hình 573).
+Hồng bì là một loại cây cao 3-5m, cành sần sùi do có nhiều hạch. Lá kép dìa lẻ, dài 35cm, lá chét hình trứng, nguyên hay hơi khía tai bèo, phía cuống lá hơi tròn, nhẵn. Hoa trắng mọc thành chuỳ ở ngọn, chuỳ thưa hoa, dài 25-50cm. Quả màu vàng, hình cầu, đường kính 15mm, có lông 1-2 ngăn, một hạt: thịt ngọt thơm. Mùa hoa: tháng 4, mùa quả: 6-10 (Hình 573).
 
 []
 

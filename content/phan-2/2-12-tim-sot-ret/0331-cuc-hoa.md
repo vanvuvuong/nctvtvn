@@ -30,7 +30,7 @@ Cúc là cùng tận: tháng 9 hoa cúc nở sau cùng.
 
 #### A. Mô tả cây:
 
-Cây cúc hoa trắng-Chrysanthemum sinense là một cây sống hai năm hay sống dai, thân mọc thẳng đứng, có thể cao 0,5-1,4m, toàn thân có lông trắng mềm. Lá mọc so le, cuống dài 1-2,5cm, có lông trắng, phiến lá hình trứng hay hơi thuôn hai đầu tù, dài 3,5-5cm, rộng 3-4cm, chia thành 3-5 thuỳ mép có răng cưa và lượn sóng, mặt dưới nhiều lông màu trắng mốc. Cụm hoa hình đầu, màu trắng hay hơi tía ở phía ngoài, vàng ở giữa, mọc ở đầu cành hay kẽ lá ( Hình 470).
+Cây cúc hoa trắng-Chrysanthemum sinense là một cây sống hai năm hay sống dai, thân mọc thẳng đứng, có thể cao 0,5-1,4m, toàn thân có lông trắng mềm. Lá mọc so le, cuống dài 1-2,5cm, có lông trắng, phiến lá hình trứng hay hơi thuôn hai đầu tù, dài 3,5-5cm, rộng 3-4cm, chia thành 3-5 thuỳ mép có răng cưa và lượn sóng, mặt dưới nhiều lông màu trắng mốc. Cụm hoa hình đầu, màu trắng hay hơi tía ở phía ngoài, vàng ở giữa, mọc ở đầu cành hay kẽ lá (Hình 470).
 
 []
 
@@ -38,7 +38,7 @@ Cây cúc hoa trắng-Chrysanthemum sinense là một cây sống hai năm hay s
 
 Hình 470. Cúc hoa trắng - Chrysanthemum sinense
 
-Cây cúc hoa vàng-Chrysanthemum indicum là một cây mọc thẳng đứng cao chừng 90cm. Phiến lá hình 3 cạnh tròn, thuỳ xẻ sâu. Cụm hoa hình cầu, đường kính nhỏ hơn loài hoa cúc nói trên, thường chỉ độ từ 1-1,5cm (loài trên đo được 2,5-5cm). Hoa trong và ngoài đều màu vàng (Hình 471, Hm 17,4 ).
+Cây cúc hoa vàng-Chrysanthemum indicum là một cây mọc thẳng đứng cao chừng 90cm. Phiến lá hình 3 cạnh tròn, thuỳ xẻ sâu. Cụm hoa hình cầu, đường kính nhỏ hơn loài hoa cúc nói trên, thường chỉ độ từ 1-1,5cm (loài trên đo được 2,5-5cm). Hoa trong và ngoài đều màu vàng (Hình 471, Hm 17,4).
 
 []
 
@@ -100,7 +100,7 @@ Trước đây ta vẫn phải nhập vị băng phiến để làm thuốc. Nga
 
 #### A. Mô tả cây
 
-Cây đại bi hay từ bi là một cây nhỡ, cao từ 1,5m đến 2,5m. Thân có nhiều rãnh chạy dọc, có nhiều lông, trên ngọn có mang nhiều cành. Lá hình trứng hai đầu nhọn nhưng hơi tù, có thể dài tới 12cm, trung bình dài 15cm và rộng 5cm, mặt trên có lông, mép lá gần như nguyên hay xẻ thành răng cưa và ở gốc lá thường có 2, 4 hoặc 6 thuỳ nhỏ do phiến lá phía dưới bị xẻ quá sâu. Vò lá ta sẽ thấy mùi thơm dễ chịu của băng phiến. Hoa màu vàng, mọc thành chuỳ ngù ở kẽ lá hay đầu cành. Trên hoa có nhiều lông tơ. Quả bế có 2 cạnh dài 1mm, mang chùm lông ở đỉnh ( Hình 472, Hm 47,3 ) .
+Cây đại bi hay từ bi là một cây nhỡ, cao từ 1,5m đến 2,5m. Thân có nhiều rãnh chạy dọc, có nhiều lông, trên ngọn có mang nhiều cành. Lá hình trứng hai đầu nhọn nhưng hơi tù, có thể dài tới 12cm, trung bình dài 15cm và rộng 5cm, mặt trên có lông, mép lá gần như nguyên hay xẻ thành răng cưa và ở gốc lá thường có 2, 4 hoặc 6 thuỳ nhỏ do phiến lá phía dưới bị xẻ quá sâu. Vò lá ta sẽ thấy mùi thơm dễ chịu của băng phiến. Hoa màu vàng, mọc thành chuỳ ngù ở kẽ lá hay đầu cành. Trên hoa có nhiều lông tơ. Quả bế có 2 cạnh dài 1mm, mang chùm lông ở đỉnh (Hình 472, Hm 47,3) .
 
 []
 
@@ -152,7 +152,7 @@ Băng phiến 1g, khô phàn (phèn chua phi khô) 2,5g, hoàng bá đốt thàn
 
 Chú thích:
 
-- Như trên đã giới thiệu, băng phiến còn lấy từ gỗ cây long não hương Dryobalanops aromatica Gaertn (D. camphora Colebr.) thuộc họ Quả hai cánh (Dipterocarpaceae) chế ra. Cây này mới thấy giới thiệu ở Inđônêxya. Trước đây bản thân Trung Quốc cũng nhập vị băng phiến này để bán lại sang ta. Cây này chưa thấy ở nước ta ( Hình 473).
+- Như trên đã giới thiệu, băng phiến còn lấy từ gỗ cây long não hương Dryobalanops aromatica Gaertn (D. camphora Colebr.) thuộc họ Quả hai cánh (Dipterocarpaceae) chế ra. Cây này mới thấy giới thiệu ở Inđônêxya. Trước đây bản thân Trung Quốc cũng nhập vị băng phiến này để bán lại sang ta. Cây này chưa thấy ở nước ta (Hình 473).
 
 []
 
@@ -222,7 +222,7 @@ Tại Trung Quốc (Triết Giang, Giang Tô và một số tỉnh khác) ngư�
 
 Cây này ở ta gọi là thài lài trắng, hay cỏ lài trắng-rau trai ăn, cỏ chân vịt, tên Trung Quốc là áp chích thảo, trúc diệp thái, nhi hoán thảo.
 
-Thài lài trắng là một loài cỏ cao 25-50cm, hơi có lông hay nhiều lông. Thân chia nhánh, ở những đốt có thể mọc rễ. Lá thuôn dài hay hình mác phía dưới có bẹ, dài 2-10cm, rộng 1-2cm, không có cuống. Hoa màu xanh lơ, mọc thành xim không cuống. Quả nang thường được bao hoa bao bọc, dài 5-6mm, rộng 4-6mm giữa thắt nhỏ lại. Thường mọc hoang ở những bãi, ruộng ẩm ướt ( Hình 475).
+Thài lài trắng là một loài cỏ cao 25-50cm, hơi có lông hay nhiều lông. Thân chia nhánh, ở những đốt có thể mọc rễ. Lá thuôn dài hay hình mác phía dưới có bẹ, dài 2-10cm, rộng 1-2cm, không có cuống. Hoa màu xanh lơ, mọc thành xim không cuống. Quả nang thường được bao hoa bao bọc, dài 5-6mm, rộng 4-6mm giữa thắt nhỏ lại. Thường mọc hoang ở những bãi, ruộng ẩm ướt (Hình 475).
 
 []
 
@@ -256,7 +256,7 @@ Thông là rỗng, bạch là trắng; vì dọc cây hành (lá) thì rỗng, d
 
 #### A. Mô tả cây
 
-Hành là một loại cỏ sống lâu năm, có mùi đặc biệt. Lá gồm 5-6 lá, hình trụ rỗng, dài 30- 50cm, đường kính 4-8mm, phía giữa phình lên, đầu thuôn nhọn. Cụm hoa mọc trên một cán mang hoa hình trụ, rỗng, cụm hoa hình xim có ngấn thành hình tán giả, nhưng cuống tán giả ngắn đến nỗi cụm hoa trông giống hình cầu. Bao hoa gồm 2 vòng, mỗi vòng gồm 3 cánh, 3 lá đài màu trắng 6 nhị, chỉ nhị phình ở gốc, không có răng, bao phấn hình chữ T, 2 ngăn, dài 1 mm, một nhuỵ, bầu thượng, 3 ngăn, mỗi ngăn có nhiều noãn. Quả nang, hình tròn đường kính chừng 6mm, hạt hình 3 cạnh, màu đen ( Hình 476, Hm 42,3 ).
+Hành là một loại cỏ sống lâu năm, có mùi đặc biệt. Lá gồm 5-6 lá, hình trụ rỗng, dài 30- 50cm, đường kính 4-8mm, phía giữa phình lên, đầu thuôn nhọn. Cụm hoa mọc trên một cán mang hoa hình trụ, rỗng, cụm hoa hình xim có ngấn thành hình tán giả, nhưng cuống tán giả ngắn đến nỗi cụm hoa trông giống hình cầu. Bao hoa gồm 2 vòng, mỗi vòng gồm 3 cánh, 3 lá đài màu trắng 6 nhị, chỉ nhị phình ở gốc, không có răng, bao phấn hình chữ T, 2 ngăn, dài 1 mm, một nhuỵ, bầu thượng, 3 ngăn, mỗi ngăn có nhiều noãn. Quả nang, hình tròn đường kính chừng 6mm, hạt hình 3 cạnh, màu đen (Hình 476, Hm 42,3).
 
 [C:\Users\User\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\0627.jpg]
 
@@ -310,7 +310,7 @@ Chú thích:
 
 Ngoài cây hành nói trên, hiện nay nhiều nước còn dùng cây hành tây hay dương thông (Allium cepa L.) làm thuốc. Cây này nguồn gốc miền tây Châu Á nhưng hiện nay được trồng ở nhiều nước. Tại nước ta trước đây có trồng, nhung hiện nay ít trồng hơn. Cày hành tây có dò to hơn, hình cầu dẹt, ngoài có vẩy màu đỏ nâu, lá hình trụ rỗng, dài 25-50cm, đường kính 1-1,5cm, cán mang hoa có thể cao tới 1m, rỗng, cụm hoa hình tán nhưng tụ thành hình cầu màu hơi hồng hay hơi trắng, quả khô, trong chứa nhiều hạt dẹt, màu đen. Trong củ hành tây có 0,015% tinh dầu, trong tinh dầu thành phần chủ yếu là allyl-disurfua, allyl-propyl-disunfua, ngoài ra còn phytin, axit hữu cơ (axit focmic, malic, xitric và photphoric) các chất inulin, manit, manoza, mantoza, các men maltaza, amylaza, dextrinaza và emunxin, vitamin B và C. Nhà bác học Liên Xô cũ B. P. Tokin phát hiện thấy trong hành tây có chất kháng sinh rất mạnh đặt tên là phytonxit. Do chất này, khi ta nhai hành tây trong miệng 1-2 phút, miệng trở nên sạch sẽ, vô trùng.
 
-Ngoài công dụng làm gia vị, hành tây được dùng chữa ho, trừ đờm, ra mồ hôi, lợi tiểu tiện, dùng trong chứng bụng nước do gan cứng (ascite de la cirrhose hepatique), còn dùng đắp mụn nhọt ( Hình 477).
+Ngoài công dụng làm gia vị, hành tây được dùng chữa ho, trừ đờm, ra mồ hôi, lợi tiểu tiện, dùng trong chứng bụng nước do gan cứng (ascite de la cirrhose hepatique), còn dùng đắp mụn nhọt (Hình 477).
 
 [C:\Users\User\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\0627.jpg]
 
@@ -332,7 +332,7 @@ Kinh giới (Herba Schizonepetae) là toàn cây kinh giới phơi hay sấy kh�
 
 #### A. Mô tả cây
 
-Kinh giới là một loại cỏ sống hàng năm, mùi rất thơm, cao 0,6-0,8m, thân vuông, phía gốc màu hơi tía, toàn cây có lông ngắn. Lá mọc đối, lá dưới gốc không có cuống hay gần như không có cuống, xẻ sâu thành 5 thuỳ, lá phía trên cũng không cuống, xẻ 3 đến 5 thuỳ. Cụm hoa mọc thành bông gồm những hoa mọc vòng ở mỗi đốt. Bông hoa dài 3-8cm, hoa nhỏ màu tím nhạt. Quả hình trứng hay hình trái xoan, dài chừng 1mm, mặt bóng, màu nâu ( Hình 478).
+Kinh giới là một loại cỏ sống hàng năm, mùi rất thơm, cao 0,6-0,8m, thân vuông, phía gốc màu hơi tía, toàn cây có lông ngắn. Lá mọc đối, lá dưới gốc không có cuống hay gần như không có cuống, xẻ sâu thành 5 thuỳ, lá phía trên cũng không cuống, xẻ 3 đến 5 thuỳ. Cụm hoa mọc thành bông gồm những hoa mọc vòng ở mỗi đốt. Bông hoa dài 3-8cm, hoa nhỏ màu tím nhạt. Quả hình trứng hay hình trái xoan, dài chừng 1mm, mặt bóng, màu nâu (Hình 478).
 
 []
 
@@ -342,7 +342,7 @@ Hình 478. Kinh giới – Schizonopeta tenuifolia
 
 Cây kinh giới nhân dân ta vẫn trồng để ăn làm gia vị và làm thuốc đã được xác định là Elsholtzia cristata Willd. cùng họ. Cây cũng thuộc thảo, cao 0,30-0,45m, thân nhẵn, mọc thẳng đứng. Lá mọc đối, phiến lá thuôn nhọn, dài 5-8cm, rộng 3cm, mép có răng cưa, cuống gầy dài 2-3cm. Hoa nhỏ, không cuống, màu tím nhạt, mọc thành bông ở đầu cành, rất mau. Quả gồm 4 hạch nhỏ, nhẵn, dài 0,5cm.
 
-Một cây khác cũng được gọi là kinh giới và dùng làm thuốc là cây Origanum syriacum (Lour.) cùng họ ( Hình 479).
+Một cây khác cũng được gọi là kinh giới và dùng làm thuốc là cây Origanum syriacum (Lour.) cùng họ (Hình 479).
 
 []
 
@@ -408,7 +408,7 @@ Người ta dùng thân cây của cây thần thông, tươi hoặc khô. Đây
 
 #### A. Mô tả cây
 
-Dây ký ninh là một loại dây leo, thân rất xù xì, màu nâu nhạt, dài tới 6-7m hay hơn, mọc rất khoẻ. Lá mọc so le, hình tim, mép nguyên, trông hơi dày, dài 8-12cm, rộng 5-6cm, cuống gầy ngắn hơn phiến lá. Hoa tập hợp thành 1-2 chùm ở kẽ lá. Quả chín có màu đỏ, dài chừng 12mm, có một hạt dẹt ( Hình 480).
+Dây ký ninh là một loại dây leo, thân rất xù xì, màu nâu nhạt, dài tới 6-7m hay hơn, mọc rất khoẻ. Lá mọc so le, hình tim, mép nguyên, trông hơi dày, dài 8-12cm, rộng 5-6cm, cuống gầy ngắn hơn phiến lá. Hoa tập hợp thành 1-2 chùm ở kẽ lá. Quả chín có màu đỏ, dài chừng 12mm, có một hạt dẹt (Hình 480).
 
 []
 
@@ -472,7 +472,7 @@ Ngoài ra còn trung ma hoàng (Herba Ephedrae intermediae) hái từ cây trung
 
 #### A. Mô tả cây
 
-Thảo ma hoàng-Ephedra sinica-là một cây mọc thẳng đứng cao chừng 30-70cm, thân có nhiều đốt, mỗi đốt dài chừng 3-6cm, trên có rãnh dọc. Lá mọc đối hay mọc vòng từng 3 lá một, thoái hoá thành vẩy nhỏ, phía dưới lá màu hồng nâu, phía trên màu tro trắng, đầu lá nhọn và cong, hoa đực hoa cái khác cành, cành hoa đực nhiều hoa hơn (4-5 đôi), quả thịt, màu đỏ giống như quả nho. Vì cây lại hay mọc ở bờ biển cho nên châu Âu gọi ma hoàng là loại nho biển (Raisin de mer). Hạt hơi thò ra ( Hình 481).
+Thảo ma hoàng-Ephedra sinica-là một cây mọc thẳng đứng cao chừng 30-70cm, thân có nhiều đốt, mỗi đốt dài chừng 3-6cm, trên có rãnh dọc. Lá mọc đối hay mọc vòng từng 3 lá một, thoái hoá thành vẩy nhỏ, phía dưới lá màu hồng nâu, phía trên màu tro trắng, đầu lá nhọn và cong, hoa đực hoa cái khác cành, cành hoa đực nhiều hoa hơn (4-5 đôi), quả thịt, màu đỏ giống như quả nho. Vì cây lại hay mọc ở bờ biển cho nên châu Âu gọi ma hoàng là loại nho biển (Raisin de mer). Hạt hơi thò ra (Hình 481).
 
 []
 
@@ -484,7 +484,7 @@ Mộc tặc ma hoàng-Ephedra equisetina-cũng là một cây nhỏ mọc thẳn
 
 Như vậy chỉ căn cứ vào chiều dài của đốt ta cũng có thể phân biệt hai loài ma hoàng: Thảo ma hoàng có đốt dài hơn (3-6cm), hạt thò ra, còn mộc tặc ma hoàng đốt ngắn hơn (1-3cm), hạt không thò ra.
 
-Tuy nhiên cũng cần nhớ rằng loài trung ma hoàng Ephedra intermedia cũng có đốt dài như thảo ma hoàng, nhưng đường kính cành trung ma hoàng thường hơn 2mm, còn đường kính thảo ma hoàng chỉ khoảng 1,5-2mm ( Hình 482).
+Tuy nhiên cũng cần nhớ rằng loài trung ma hoàng Ephedra intermedia cũng có đốt dài như thảo ma hoàng, nhưng đường kính cành trung ma hoàng thường hơn 2mm, còn đường kính thảo ma hoàng chỉ khoảng 1,5-2mm (Hình 482).
 
 [C:\Users\User\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\0632.jpg]
 
@@ -568,7 +568,7 @@ Màn là mọc lan ra, kinh là gai. Thứ cây này mọc lan ra mặt đất, 
 
 #### A. Mô tả cây
 
-Màn kinh tử là một cây nhỏ hay nhỡ, mùi thơm, có thể cao tới 3m. Cành non có 4 cạnh, có lông mềm bao phủ. Lá kép và thường gồm 3 lá chét. Có thứ chỉ có 1 lá chét (var. unifoliata). Trên cùng một cành nhiều khi phía trên hay phía dưới có lá đơn, chỉ gồm một lá chét. Cuống gầy hơi tròn có lông, dài 1-3cm, lá chét không cuống, phiến lá chét hình trứng ngược hay hình mác, dài 2,45-9cm, rộng 1-3cm, phía dưới hẹp lại. Mặt trên nhẵn, mặt dưới nhiều lông trắng. Những lá chét hai bên nhỏ hơn, gân không nổi rõ. Hoa màu lơ nhạt, dài 13-14mm, mọc thành chuỳ xim ở đầu cành, nhiều khi phía dưới có lá. Quả hình bầu dục có rãnh, đầu hơi dẹt, rộng chừng 6mm, được che kín quá nửa bởi đài phát triển và tồn tại ( Hình 483, Hra 50,2).
+Màn kinh tử là một cây nhỏ hay nhỡ, mùi thơm, có thể cao tới 3m. Cành non có 4 cạnh, có lông mềm bao phủ. Lá kép và thường gồm 3 lá chét. Có thứ chỉ có 1 lá chét (var. unifoliata). Trên cùng một cành nhiều khi phía trên hay phía dưới có lá đơn, chỉ gồm một lá chét. Cuống gầy hơi tròn có lông, dài 1-3cm, lá chét không cuống, phiến lá chét hình trứng ngược hay hình mác, dài 2,45-9cm, rộng 1-3cm, phía dưới hẹp lại. Mặt trên nhẵn, mặt dưới nhiều lông trắng. Những lá chét hai bên nhỏ hơn, gân không nổi rõ. Hoa màu lơ nhạt, dài 13-14mm, mọc thành chuỳ xim ở đầu cành, nhiều khi phía dưới có lá. Quả hình bầu dục có rãnh, đầu hơi dẹt, rộng chừng 6mm, được che kín quá nửa bởi đài phát triển và tồn tại (Hình 483, Hra 50,2).
 
 []
 
@@ -632,7 +632,7 @@ Thuộc họ Lúa Poaceae (Gramineae).
 
 #### A. Mô tả cây
 
-Cỏ sống hằng năm, rễ khoẻ, mọc thành cụm, thân mọc thẳng hoặc mọc bò, cao chừng 10-60cm. Lá mềm, hình dải, dài 10-30cm, rộng 3-7mm, bẹ lá có lông. Cụm hoa mọc thành bông, gồm 5 đến 7 bông mọc ở ngọn và có đến 2 bông khác mọc thấp hơn trên cán hoa, trông giống như những ngón tay. Mùa hoa vào hạ và thu. Quả thuôn dài gần như 3 cạnh, dài 1,5mm ( Hình 484, Hm 13,1).
+Cỏ sống hằng năm, rễ khoẻ, mọc thành cụm, thân mọc thẳng hoặc mọc bò, cao chừng 10-60cm. Lá mềm, hình dải, dài 10-30cm, rộng 3-7mm, bẹ lá có lông. Cụm hoa mọc thành bông, gồm 5 đến 7 bông mọc ở ngọn và có đến 2 bông khác mọc thấp hơn trên cán hoa, trông giống như những ngón tay. Mùa hoa vào hạ và thu. Quả thuôn dài gần như 3 cạnh, dài 1,5mm (Hình 484, Hm 13,1).
 
 []
 
@@ -670,7 +670,7 @@ Mẫu đơn bì, (Cortex Paeoniae sujfruticosae hay Cortex Moutan) là vỏ rễ
 
 #### A. Mô tả cây
 
-Mẫu đơn là một loại cây sống lâu năm, có thể cao 1 -1,5m, rễ phát triển thành củ. Lá mọc so le, thường chia thành 3 lá chét, lá chét giữa lại chia thành 3 thuỳ, mặt trên xanh, mặt dưới màu trắng nhạt vì có lông. Cuống dài 6-10cm. Hoa mọc đơn độc ở đầu cành, rất to, đường kính đạt tới 15-20cm, màu đỏ, tím hoặc trắng, mùi thơm gần giống mùi thơm của hoa hồng ( Hình 485, Hm 53,1 ).
+Mẫu đơn là một loại cây sống lâu năm, có thể cao 1 -1,5m, rễ phát triển thành củ. Lá mọc so le, thường chia thành 3 lá chét, lá chét giữa lại chia thành 3 thuỳ, mặt trên xanh, mặt dưới màu trắng nhạt vì có lông. Cuống dài 6-10cm. Hoa mọc đơn độc ở đầu cành, rất to, đường kính đạt tới 15-20cm, màu đỏ, tím hoặc trắng, mùi thơm gần giống mùi thơm của hoa hồng (Hình 485, Hm 53,1).
 
 []
 

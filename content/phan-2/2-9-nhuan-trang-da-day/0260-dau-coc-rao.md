@@ -23,7 +23,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 Đậu cọc rào là một cây nhỏ cao 1-5m, cành to mẫm, nhẵn, trên có những vầu nổi lên do sẹo của lá, khi bị khá sẽ chảy ra một thứ nhựa mủ trắng. Lá đơn, xẻ chân vịt, chia làm 3-5 thùy nông, dài 10-13cm, rộng 8-11cm. Hoa màu vàng, nhỏ, cùng gốc, mọc thành chùy tận cùng hay ở nách lá, hoa đực mọc ở đầu các nhánh với cuống ngắn có khuỷu, hoa cái mọc ở giữa những nhánh, với những cuống không có khuỷu. Quả nang hình trứng, đen nhạt hay đỏ nhạt, lúc đầu mẫm sau thành khô, dai nhẵn, mở theo ba mép. Hạt 3, có áo hạt, hình trứng dài 2cm, rộng 1cm, nhẵn,
 
-màu đen nhạt ( Hỉnh 362 ).
+màu đen nhạt (Hỉnh 362).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -53,15 +53,15 @@ Rễ dùng chữa tê liệt, bại liệt.
 
 CÂY LAI 石栗
 
-_Còn gọi là thạch lật ( Trung Quốc), ly ( Thái), sekiritsu ( Nhật) bancoulier à trois lobes._
+_Còn gọi là thạch lật (Trung Quốc), ly (Thái), sekiritsu (Nhật) bancoulier à trois lobes._
 
-Tên khoa học _*Aleurites moluccana Willd. ( Aleurites triloba Forst.)*_
+Tên khoa học _*Aleurites moluccana Willd. (Aleurites triloba Forst.)*_
 
 Thuộc họ Thầu dầu (Euphorbiaceae).
 
 #### A. Mô tả cây
 
-So với cây trầu thì cây lai mọc chậm hơn, nhưng sau lại có kích thước to lớn hơn, có thể cao tới 10m và cũng sống lâu hơn. Khi còn non lá có màu lục xám nhạt, phủ đầy lông lơ, khi lá trưởng thành mặt trên bóng, ở những cành non lá chia ba thuỳ, nhưng ở những cành già thì lá hơi hình ba cạnh, phía gốc lá tròn, phía đỉnh lá nhọn, cuống lá dài 6-12cm. Cụm hoa chùm kép, dài 10-15cm mang nhiều hoa. Hoa nở vào tháng 4-5, quả chín vào tháng 8-9. Đôi khi có hai vụ hoa trong một năm. Quả hạch hơi hình cầu nhẵn, trong hạch có một hay hai hạt đường kính 3-4cm ( Hình 363 ).
+So với cây trầu thì cây lai mọc chậm hơn, nhưng sau lại có kích thước to lớn hơn, có thể cao tới 10m và cũng sống lâu hơn. Khi còn non lá có màu lục xám nhạt, phủ đầy lông lơ, khi lá trưởng thành mặt trên bóng, ở những cành non lá chia ba thuỳ, nhưng ở những cành già thì lá hơi hình ba cạnh, phía gốc lá tròn, phía đỉnh lá nhọn, cuống lá dài 6-12cm. Cụm hoa chùm kép, dài 10-15cm mang nhiều hoa. Hoa nở vào tháng 4-5, quả chín vào tháng 8-9. Đôi khi có hai vụ hoa trong một năm. Quả hạch hơi hình cầu nhẵn, trong hạch có một hay hai hạt đường kính 3-4cm (Hình 363).
 
 ##### TODO: thêm hình ảnh
 

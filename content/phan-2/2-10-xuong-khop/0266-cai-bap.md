@@ -54,7 +54,7 @@ Thạch quyết minh, cúc hoa, cam thảo mỗi vị 4g. Sắc với 200g nư�
 
 #### A. Mô tả cây
 
-Cây thảo có lá áp sát vào nhau tạo thành một bắp sít chặt ở ngọn thân cây thành hình đầuvới đường kính 25-30cm trước khi nở hoa. Hoa thành chùm có phản nhánh. Lá đài dựng đứng, nhị gẩn bàng nhau. Quả loại cải, hẹp và dài, trén có một mỏ hình nón, mảnh vỏ lồi có 1-3 gân. Hạt nâu, nhẩn, xếp thành một dẫy. Lá mầm hình thận, có hai thùy, gập đôi ( Hình 374 ).
+Cây thảo có lá áp sát vào nhau tạo thành một bắp sít chặt ở ngọn thân cây thành hình đầuvới đường kính 25-30cm trước khi nở hoa. Hoa thành chùm có phản nhánh. Lá đài dựng đứng, nhị gẩn bàng nhau. Quả loại cải, hẹp và dài, trén có một mỏ hình nón, mảnh vỏ lồi có 1-3 gân. Hạt nâu, nhẩn, xếp thành một dẫy. Lá mầm hình thận, có hai thùy, gập đôi (Hình 374).
 
 ##### TODO: thêm hình ảnh
 
@@ -112,7 +112,7 @@ A. Mỏ tả cày
 
 Cày lông cu ly là một loại quyết thực vật, có khi cao tói 2,50m. Lá dài đến 2m, phủ bởi nhiều vẩy vàng bóng, ờ mỗi bên gân giữa bậc ba, có một hay hai ổ tử nang. Thân rẻ có lông tơ màu vàng bao phủ, trông tựa như con chó con hay như con cu ly.
 
-Vì thân rễ cây này trông giống con vật cho nên ngày xưa tại châu Âu hồi thế kỷ thứ 16-17, người ta cũng cho nó là một con vật và đật tên là Agnus scynthìus. Người ta cho rằng cây động vật này sinh ra do một hạt dính vào rễ, có máu và thịt như một con vật ăn cỏ. Vì con vật này không đi lại được cho nên sau khi nó ăn hết cỏ xung quanh nơi nó được sinh ra thì nó chết đi (Hình 375, Hm 18,2 ).
+Vì thân rễ cây này trông giống con vật cho nên ngày xưa tại châu Âu hồi thế kỷ thứ 16-17, người ta cũng cho nó là một con vật và đật tên là Agnus scynthìus. Người ta cho rằng cây động vật này sinh ra do một hạt dính vào rễ, có máu và thịt như một con vật ăn cỏ. Vì con vật này không đi lại được cho nên sau khi nó ăn hết cỏ xung quanh nơi nó được sinh ra thì nó chết đi (Hình 375, Hm 18,2).
 
 B. Phàn bố, thu hái và chế biến
 

@@ -19,7 +19,7 @@ keywords:
 
 _Còn có tên là bá tử nhân._
 
-Tên khoa học _*Thuja orientalis L. ( Biota orientalis Endl.)*_
+Tên khoa học _*Thuja orientalis L. (Biota orientalis Endl.)*_
 
 Thuộc họ Trắc bách Cupressaceae.
 

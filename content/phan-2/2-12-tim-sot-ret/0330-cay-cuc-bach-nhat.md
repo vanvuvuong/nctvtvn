@@ -23,7 +23,7 @@ Thuộc họ Rau giền Amaranthaceae.
 
 Cúc bách nhật là một cây mọc hằng năm, thân mọc thẳng đứng, cao chừng 50cm, thân và lá đều có lông mềm, nhỏ. Thân thô to, hình trụ, trên có phân nhánh, cành hơi hình vuông. Chỗ đốt hơi phình to, mặt hơi có màu tím hồng. Lá đơn, mọc đối, có cuống ngắn, phiến lá hình trứng ngược, dài 5 đến 10cm, rộng 2-5cm đầu lá nhọn hay hơi tù, phía cuống thon lại thành cuống. Cụm hoa hình đầu, màu tím nhạt hay hồng sẫm hoặc trắng, đường kính của cụm hoa chừng 1,5- 2cm.
 
-Mùa hoa: Hạ và thu. Cụm hoa được dùng làm thuốc ( Hình 469).
+Mùa hoa: Hạ và thu. Cụm hoa được dùng làm thuốc (Hình 469).
 
 []
 

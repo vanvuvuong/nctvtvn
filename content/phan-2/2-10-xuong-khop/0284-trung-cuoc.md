@@ -19,7 +19,7 @@ Thuộc họ Màn màn Capparidaceae.
 
 #### A. Mô tả cây
 
-Trứng cuốc là một loại cây bụi có cành vươn dài, nhẵn. Lá mọc so le, hình mác dài, phía đáy lá tròn, phiến lá dài 10-20cm, rộng 5-8cm, mặt trên nhẫn bóng, cứng dai, cuống to, dài 15-20mm, mặt trên có rãnh rộng. Hoa nhỏ màu trắng, mọc thành chùm ở kẽ lá. Quả hình trứng dài 36mm, đuòng kính 25- 27mm, trên có điểm những chắm trắng gần như trứng con chim cuốc, do đó có tên cây trứng cuốc. Trong quả có một hạt thuôn dài ( Hình 400).
+Trứng cuốc là một loại cây bụi có cành vươn dài, nhẵn. Lá mọc so le, hình mác dài, phía đáy lá tròn, phiến lá dài 10-20cm, rộng 5-8cm, mặt trên nhẫn bóng, cứng dai, cuống to, dài 15-20mm, mặt trên có rãnh rộng. Hoa nhỏ màu trắng, mọc thành chùm ở kẽ lá. Quả hình trứng dài 36mm, đuòng kính 25- 27mm, trên có điểm những chắm trắng gần như trứng con chim cuốc, do đó có tên cây trứng cuốc. Trong quả có một hạt thuôn dài (Hình 400).
 
 B. Phản bố, thu hái và chế biến
 
@@ -55,7 +55,7 @@ Thuộc họ ĐỖ quyên Ericaceae.
 
 A. Mò tả cãy
 
-Cây nhỏ cao 1,5-3m, mang rất nhìểu cành, cành nhỏ hình ba cạnh hay tròn, nhẩn, khô có màu nâu. Lá hình mác, hoặc thuôn dài, đầu nhọn, phía cuống hình nêm, mép có răng cưa, phiến lá dai, màu nâu nhạt ờ cả hai mặt, mặt trên nhẵn, mặt dưới có những đốm đen rải rác, dài 4-6cm, rộng l-2cm, gán nổi ở mặt dưới, chìm ở mặt trên. Hoa màu hổng hay trắng, mọc thành chùm ở kẽ lá, thường chùm dài hơn lá. Quả nang hình cầu, trên có vòi tồn tại, bao bọc bởi một đài mẫm. Nhiều hạt ( Hình 401).
+Cây nhỏ cao 1,5-3m, mang rất nhìểu cành, cành nhỏ hình ba cạnh hay tròn, nhẩn, khô có màu nâu. Lá hình mác, hoặc thuôn dài, đầu nhọn, phía cuống hình nêm, mép có răng cưa, phiến lá dai, màu nâu nhạt ờ cả hai mặt, mặt trên nhẵn, mặt dưới có những đốm đen rải rác, dài 4-6cm, rộng l-2cm, gán nổi ở mặt dưới, chìm ở mặt trên. Hoa màu hổng hay trắng, mọc thành chùm ở kẽ lá, thường chùm dài hơn lá. Quả nang hình cầu, trên có vòi tồn tại, bao bọc bởi một đài mẫm. Nhiều hạt (Hình 401).
 
 B. Phàn bố, thu hái và chế biến
 

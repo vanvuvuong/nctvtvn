@@ -20,7 +20,7 @@ Thuộc họ Hoa tán Apiaceae (Umbelliferae).
 
 #### A. Mô tả cây
 
-Cây thảo sống dai, thân mọc thẳng đứng, cao tới 1,50m, nhẵn, có nhiều rãnh dọc, chia nhiều cành mọc đứng. Lá ở gốc có cuống, hình thuôn hay ba cạnh, hơi có dạng 5 cạnh, xẻ ba hay chia ba thùy cho tới phía giữa phiến, các thùy hình ba cạnh, dạng mắt chim, tù có khía lượn tai bèo. Lá giữa và lá ngọn không cuống, chia 3 hoặc xẻ 3 hoặc không chia thùy. Cụm hoa gồm nhiều tán, các tán ở đầu cành có cuống dài hơn các tán bên. Không có tổng bao. Hoa nhỏ màu trắng nhạt. Cán quả chia đôi, mang 2 quả hình cầu, dạng trứng, nhẵn có cạnh lồi chạy dọc, không nổi rõ lắm ( Hình 243 ).
+Cây thảo sống dai, thân mọc thẳng đứng, cao tới 1,50m, nhẵn, có nhiều rãnh dọc, chia nhiều cành mọc đứng. Lá ở gốc có cuống, hình thuôn hay ba cạnh, hơi có dạng 5 cạnh, xẻ ba hay chia ba thùy cho tới phía giữa phiến, các thùy hình ba cạnh, dạng mắt chim, tù có khía lượn tai bèo. Lá giữa và lá ngọn không cuống, chia 3 hoặc xẻ 3 hoặc không chia thùy. Cụm hoa gồm nhiều tán, các tán ở đầu cành có cuống dài hơn các tán bên. Không có tổng bao. Hoa nhỏ màu trắng nhạt. Cán quả chia đôi, mang 2 quả hình cầu, dạng trứng, nhẵn có cạnh lồi chạy dọc, không nổi rõ lắm (Hình 243).
 
 ##### TODO: thêm hình ảnh
 

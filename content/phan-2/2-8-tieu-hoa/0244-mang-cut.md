@@ -54,7 +54,7 @@ Kha tử 4g, đàng sâm 4g, sắc với 400ml nước cô đặc còn 20Gml, ch
 
 Hình 329. Măng cụt - Garcinia mangostana
 
-phía đỉnh có đầu nhụy. Trong quả có từ 6 đến 18 hạt, quanh hạt có áo hạt ăn được ( Hình 329 ).
+phía đỉnh có đầu nhụy. Trong quả có từ 6 đến 18 hạt, quanh hạt có áo hạt ăn được (Hình 329).
 
 B. Phản bố, thu hái và chê biến
 

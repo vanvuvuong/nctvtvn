@@ -40,7 +40,7 @@ hay sấy khô của cây tỳ giải.
 
 Tỳ giải là một loại cây leo, sống lâu, có rẽ phình thành củ to, mặt ngoài màu vàng nâu, trong
 
-có màu trắng vàng, chất cứng, vị đắng. Thân nhỏ, găy. Lá mọc so le, hình trái tim, cuống lá dài, đầu nhọn, có 7 đến 9 hoặc 11 gân lớn. Lá kèm biến thành tua cuốn. Hoa đơn tính, khác gốc, màu xanh nhạt, mọc thành bông. Quả nhỏ, có dìa như cánh. Ra hoa vào mùa hạ và thu ( Hình 384 ).
+có màu trắng vàng, chất cứng, vị đắng. Thân nhỏ, găy. Lá mọc so le, hình trái tim, cuống lá dài, đầu nhọn, có 7 đến 9 hoặc 11 gân lớn. Lá kèm biến thành tua cuốn. Hoa đơn tính, khác gốc, màu xanh nhạt, mọc thành bông. Quả nhỏ, có dìa như cánh. Ra hoa vào mùa hạ và thu (Hình 384).
 
 #### B. Phân bố, thu hái và chê biến
 

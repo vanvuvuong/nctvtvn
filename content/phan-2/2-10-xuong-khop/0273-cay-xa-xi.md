@@ -29,7 +29,7 @@ và vị sassaíras)
 
 #### A. Mô tả cây
 
-Xá xị ìà một cây gỗ cao 12-18m, cành trưởng ihành hình trụ, cành non hơi 4 cạnh, nhẵn bóng, Lá dài 12-18cm, rộng 5-7cm, 3 gân hoặc gân ỉông chim, cá hai loại gân cùng xuất hiên trên cùng một cành. Cuóng lá gấy, ngắn chừng 4cm. Hoa trắng hơi có mùi ihơm, mọc thành ngù ít hoa. Ọuả mọng hình cáu ( Hình 383 ).
+Xá xị ìà một cây gỗ cao 12-18m, cành trưởng ihành hình trụ, cành non hơi 4 cạnh, nhẵn bóng, Lá dài 12-18cm, rộng 5-7cm, 3 gân hoặc gân ỉông chim, cá hai loại gân cùng xuất hiên trên cùng một cành. Cuóng lá gấy, ngắn chừng 4cm. Hoa trắng hơi có mùi ihơm, mọc thành ngù ít hoa. Ọuả mọng hình cáu (Hình 383).
 
 B. Phán bố, thu hái và chê biến
 

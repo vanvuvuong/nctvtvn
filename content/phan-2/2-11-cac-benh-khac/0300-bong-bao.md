@@ -66,7 +66,7 @@ Thuộc họ Dâu tàm Moraceae.
 
 A. Mò tả cây
 
-Cây nhỏ thân mềm yếu nhiều cành, tạo thành bụi, có khi mọc thành cây nhỡ, chịu khô hạn rất khoẻ, có nhựa mủ trắng, rễ hình trụ có nhiều nhánh, mọc ngang, rất dài, nếu gặp đá có thể xuyên qua được (do đó có tên Xuyên phá thạch có nghĩa là phá chui qua đá), vỏ thân màu tro nau, (rên có nhiều bì khổng màu trắng, thân và cành có rất nhiều gai, gai già hơi cong xuống trồng như mỏ con quạ (do đó có tên cây mỏ quạ). Lả mọc cách, hình trứng thuòn, hai đầu nhọn, mặt lá nhắn, bóng, mép nguyên. Nhấm có vị tê tê ở lưỡi {đặc điểm). Cụm hoa hình cầu, đường kính 7-1 Omni, màu vàng nhạt, mọc thành đồi hay mọc đơn độc ở kẽ lá. Hoa đơn tính, đực cái khác gốc. Mùa hoa tại Hà Nội là tháng 4, Quả màu hồng họp thành quả kép. Mùa quả tháng 10-11 ( Hình 421).
+Cây nhỏ thân mềm yếu nhiều cành, tạo thành bụi, có khi mọc thành cây nhỡ, chịu khô hạn rất khoẻ, có nhựa mủ trắng, rễ hình trụ có nhiều nhánh, mọc ngang, rất dài, nếu gặp đá có thể xuyên qua được (do đó có tên Xuyên phá thạch có nghĩa là phá chui qua đá), vỏ thân màu tro nau, (rên có nhiều bì khổng màu trắng, thân và cành có rất nhiều gai, gai già hơi cong xuống trồng như mỏ con quạ (do đó có tên cây mỏ quạ). Lả mọc cách, hình trứng thuòn, hai đầu nhọn, mặt lá nhắn, bóng, mép nguyên. Nhấm có vị tê tê ở lưỡi {đặc điểm). Cụm hoa hình cầu, đường kính 7-1 Omni, màu vàng nhạt, mọc thành đồi hay mọc đơn độc ở kẽ lá. Hoa đơn tính, đực cái khác gốc. Mùa hoa tại Hà Nội là tháng 4, Quả màu hồng họp thành quả kép. Mùa quả tháng 10-11 (Hình 421).
 
 #### B. Phân bố, thu hái và chè' biến
 

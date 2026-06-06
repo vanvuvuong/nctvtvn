@@ -26,7 +26,7 @@ Kha tử (Fructus Terminaliae) là quả chín sấy hay phơi khô của cây c
 
 A. Mô ta cây
 
-Chiều liêu là một cây to cao chừng 15-20m, có vỏ màu đen nhạt trẽn có những vạch nót dọc. Lá mọc đối cuống rất ngắn, hình trứng, phía cuống tròn hơi thon, đầu nhọn, dài chừng 15'20cm, rộng 7-15cm, dai, hơi có lông mềm trên cả haii mặt, sau thì nhẩn, ờ đẩu cuống có hai tuyến nhỏ hình mắt cua. Hoa mọc thành bông, nhỏ, màu trắng, 1-ỡng tính, mùi thơm, mọc ở đầu cành hay ở kẽ lá, cuống ngắn, trên có phủ lông màu vàng nhat . Quả hình trứng thon, dài 34cm, rộng 22-25mm, hai đầu tù, không có dìa, có 5 cạnh dọc, màu nâu vàng nhạt, thịt đen nhạt, khô, cớng và chắc. Hạch cứng, hơi hình 5 cạnh, dày chừng 10-15mm, 1 hạt, lá mầm cuốn ( Hình 328, Hm 32,1 ).
+Chiều liêu là một cây to cao chừng 15-20m, có vỏ màu đen nhạt trẽn có những vạch nót dọc. Lá mọc đối cuống rất ngắn, hình trứng, phía cuống tròn hơi thon, đầu nhọn, dài chừng 15'20cm, rộng 7-15cm, dai, hơi có lông mềm trên cả haii mặt, sau thì nhẩn, ờ đẩu cuống có hai tuyến nhỏ hình mắt cua. Hoa mọc thành bông, nhỏ, màu trắng, 1-ỡng tính, mùi thơm, mọc ở đầu cành hay ở kẽ lá, cuống ngắn, trên có phủ lông màu vàng nhat . Quả hình trứng thon, dài 34cm, rộng 22-25mm, hai đầu tù, không có dìa, có 5 cạnh dọc, màu nâu vàng nhạt, thịt đen nhạt, khô, cớng và chắc. Hạch cứng, hơi hình 5 cạnh, dày chừng 10-15mm, 1 hạt, lá mầm cuốn (Hình 328, Hm 32,1).
 
 Có một loại chiểu liêu xanh Ợet-mìnalia citrina Roxb. hay Myrobaỉanus ciírim Gaertn.) có lá dài hơn, nhẵn, kể cả khi còn non, quả thuôn và nhỏ hơn, nhân mỏng hơn, hạt hẹp hơn. Chiều liêu xanh mọc ở Biên Hòa.
 

@@ -22,7 +22,7 @@ Cây có chất độc thường dùng chế tên thuốc độc, cần hết s�
 
 #### A. Mô tả cây
 
-Cây sui là một loại cây lớn, có thể cao tới 30m, có gốc rất lớn. Lá nhị lệ, có cuống dài 8-10m, phiến lá dài chừng 6cm, rộng khoảng 5,5cm. Cả hai mặt lá đều hơi nháp. Cụm hoa mọc ở kẽ lá, cùng gốc: Hoa đực mọc tụ trên một đế hoa phồng phồng khum lên, quanh đế hoa có tổng bao gồm nhiều hàng lá bắc, hoa cái mọc đơn độc trên một đế cũng có tổng bao. Quả thịt dài 18mm, dày 12mm. Hạt hình trứng, dài 13mm, rộng 8mm ( Hình 249 ).
+Cây sui là một loại cây lớn, có thể cao tới 30m, có gốc rất lớn. Lá nhị lệ, có cuống dài 8-10m, phiến lá dài chừng 6cm, rộng khoảng 5,5cm. Cả hai mặt lá đều hơi nháp. Cụm hoa mọc ở kẽ lá, cùng gốc: Hoa đực mọc tụ trên một đế hoa phồng phồng khum lên, quanh đế hoa có tổng bao gồm nhiều hàng lá bắc, hoa cái mọc đơn độc trên một đế cũng có tổng bao. Quả thịt dài 18mm, dày 12mm. Hạt hình trứng, dài 13mm, rộng 8mm (Hình 249).
 
 #### B. Phân bố và thu hái
 

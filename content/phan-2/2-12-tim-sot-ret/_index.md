@@ -22,7 +22,7 @@ Theo Oudemans, dầu gồm 63% triolein, 37% tripanmatin và tristearin.
 
 Ngoài ra còn một ít axit lineolic và axit myristic, rất ít axit arachidic.
 
-Có tác giả cho rằng dầu hạt thông thiên có độc, gây nôn và đi ỉa lỏng (Short in Dymock, Pharmacographia indica), nhưng một số tác giả khác (De Vrij, Boulay ) lại cho rằng dầu này không có độc nếu chế tinh khiết, sở dĩ có hiện tượng ngộ độc là do các chất độc lẫn vào khi ép hay chiết xuất.
+Có tác giả cho rằng dầu hạt thông thiên có độc, gây nôn và đi ỉa lỏng (Short in Dymock, Pharmacographia indica), nhưng một số tác giả khác (De Vrij, Boulay) lại cho rằng dầu này không có độc nếu chế tinh khiết, sở dĩ có hiện tượng ngộ độc là do các chất độc lẫn vào khi ép hay chiết xuất.
 
 2. Một số chất heterozit, trong đó được biết rõ nhất là các chất tevetin và neriifolin.
 

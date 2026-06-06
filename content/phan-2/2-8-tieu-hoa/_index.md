@@ -58,7 +58,7 @@ Chú thích:
 
 Ngoài vị riềng kể trên nước ta còn có một vị ridng nữa gọi là riềng nếp-Alpinia galanga Swanz cùng họ, (hình 287), cũng được dùng làm gia vị và làm thuốc, nhưng thường không quí bằng loại riềng nói trèn. Riềng nếp so với riểng thì to cao hơn, lá cũng hình mác, nhọn, mép lá có đìa trắng, dài 40cm, rộng 7cm, không cuống. Cụm hoa hình chuỳ dài 15-30cm. Hoa trắng, điểm hổng, dài 20-25cm, tràng hình ống ngắn không vượt quá đài. Quả hình cầu hay hình trứng, dài 12mm, rộng 8mm, màu đỏ nâu.
 
-Thản rễ to thô bán tại thị trường với tên đại cao lương khương, dài 8-20cm, đường kính 1,5-3cm, màu nâu hổng nhạt, mùi vị không thơm như cao lương khương ( Hình 287 ).
+Thản rễ to thô bán tại thị trường với tên đại cao lương khương, dài 8-20cm, đường kính 1,5-3cm, màu nâu hổng nhạt, mùi vị không thơm như cao lương khương (Hình 287).
 
 Cũng có nơi dùng như cao lương khương chữa đau bụng, đi ỉa, nôn mửa, đi lỵ. Phối hợp với than tóc rối, uống chữa ngộ độc thịt cóc.
 

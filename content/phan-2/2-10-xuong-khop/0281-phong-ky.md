@@ -35,7 +35,7 @@ Là rễ phơi hay sấy khô của cây mộc phòng kỷ (Cocculus trilũbus D
 
 Cần chú ý khi dùng để theo dõi tác dụng có thể khác nhau do dùng vị thuốc khác nhau tuy mang cùng một tên.
 
-màu nâu. Thân mềm, có thể dài tới 2,5-4ra, vỏ thân màu xanh nhạt, phía gốc hơi đỏ. Lá mọc so le, hình khiên, dài 4-6cm, rông 4,5-6cm, gốc lá hình tim, đầu lá nhọn, mép nguyên, hai mặt đều có lởng ngán, mểm, mặt trên màu xanh, mặt dưới màu tro. Cuống lá dài gần bằng chiều đài của lá, không đính vào đáy lá mà vào phía trong phiến lá. Hoa nhò, đực cái khác gốc, màu xanh nhạt. Ọuã hạch, hình cầu hơi dẹt. Mùa hoa tại Trung Quốc vào các tháng 4-5; mùa quả vào các tháng 5-6 ( Hình 394).
+màu nâu. Thân mềm, có thể dài tới 2,5-4ra, vỏ thân màu xanh nhạt, phía gốc hơi đỏ. Lá mọc so le, hình khiên, dài 4-6cm, rông 4,5-6cm, gốc lá hình tim, đầu lá nhọn, mép nguyên, hai mặt đều có lởng ngán, mểm, mặt trên màu xanh, mặt dưới màu tro. Cuống lá dài gần bằng chiều đài của lá, không đính vào đáy lá mà vào phía trong phiến lá. Hoa nhò, đực cái khác gốc, màu xanh nhạt. Ọuã hạch, hình cầu hơi dẹt. Mùa hoa tại Trung Quốc vào các tháng 4-5; mùa quả vào các tháng 5-6 (Hình 394).
 
 B. Phàn bò, thu hái và chế biến
 

@@ -23,7 +23,7 @@ Thuộc họ Cúc Asteraceae (Compositae).
 
 Cỏ sống dai hai năm một, cao 0,6-2m, thân thẳng đứng, có rãnh dọc, gần như nhẵn. Lá trứng hình dài, phía dưới gốc lá thuôn dài, phía đầu lá nhọn, dài 15-20cm, rộng 4-5cm, mép có răng cưa, những lá phía trên hơi nhỏ hơn. Những lá ở cành mang hoa lại nhỏ hơn nữa và nhẵn cả hai mặt. Cụm hoa hình đầu mầu vàng nhạt, thành chùy dài ở ngọn. Lá bắc hình sợi, đầu tù có lông.
 
-Toàn thân và lá, vò có mùi đặc biệt, hơi mùi dầu hỏa ( Hình 531).
+Toàn thân và lá, vò có mùi đặc biệt, hơi mùi dầu hỏa (Hình 531).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -57,7 +57,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ, cao l-3m, nhẵn, cành khúc khuỷu màu nâu sẫm. Lá mỏng, nguyên, có hình dạng kích thước thay dổi, thường hình bầu dục, dài 3-4cm, rộng l-2cm, cuống ngắn 4-5cm. Hoa nhỏ, đơn tính, khác gốc, mọc ở kẽ lá. Quả nang hình cầu màu trắng nhạt, có 3 mảnh vỏ. Hạt hình ba cạnh, màu đỏ nâu ( Hình 532).
+Cây nhỏ, cao l-3m, nhẵn, cành khúc khuỷu màu nâu sẫm. Lá mỏng, nguyên, có hình dạng kích thước thay dổi, thường hình bầu dục, dài 3-4cm, rộng l-2cm, cuống ngắn 4-5cm. Hoa nhỏ, đơn tính, khác gốc, mọc ở kẽ lá. Quả nang hình cầu màu trắng nhạt, có 3 mảnh vỏ. Hạt hình ba cạnh, màu đỏ nâu (Hình 532).
 
 Tránh nhầm với cây phèn đen, có quả màu đen.
 
@@ -135,7 +135,7 @@ Thuộc họ Củ ấu Trapaceace
 
 #### A. Mô tả cây
 
-Cây sống ở dưới nước, thân ngắn có lông. Có hai thứ lá: Lá nổi có phao ở cuống hình quả trám, mép trên có răng cưa, dài 4-5cm, rộng 6-7cm, cuống dài 6-15cm, giữa có phao, lá chìm thì phiến lá giảm, phiến xẻ lông chim, nhưng rất nhỏ nên chỉ thấy các đường gân. Hoa trắng, mọc đơn độc hay ở kẽ lá; 4 lá dài, 4 cánh hoa 4 nhị bầu trung hai ô, mỗi ô chứa một noãn. Quả thường gọi là “củ”, có hai sừng, quả cao 35mm, rộng 5cm, sừng dài 2cm, đầu sừng hình mũi tên, sừng do các lá đài phát triển thành. Trong quả chứa một hạt ăn được ( Hình 534).
+Cây sống ở dưới nước, thân ngắn có lông. Có hai thứ lá: Lá nổi có phao ở cuống hình quả trám, mép trên có răng cưa, dài 4-5cm, rộng 6-7cm, cuống dài 6-15cm, giữa có phao, lá chìm thì phiến lá giảm, phiến xẻ lông chim, nhưng rất nhỏ nên chỉ thấy các đường gân. Hoa trắng, mọc đơn độc hay ở kẽ lá; 4 lá dài, 4 cánh hoa 4 nhị bầu trung hai ô, mỗi ô chứa một noãn. Quả thường gọi là “củ”, có hai sừng, quả cao 35mm, rộng 5cm, sừng dài 2cm, đầu sừng hình mũi tên, sừng do các lá đài phát triển thành. Trong quả chứa một hạt ăn được (Hình 534).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -199,5 +199,5 @@ Hoa và lá non giã nát, vắt lấy nước nhỏ mũi chữa cảm cúm. Hi�
 
 Rượu bổ đắng khai vị
 
-Vỏ cây so đũa 100g, rượu 40° 1l. Ngâm vỏ so đũa thái mỏng với rượu từ 15 ngày đến 1 tháng. Ngày uống từ 15 đến 30ml rượu này làm thuốc bổ đắng, khai vị ( kinh nghiệm nhân dân).
+Vỏ cây so đũa 100g, rượu 40° 1l. Ngâm vỏ so đũa thái mỏng với rượu từ 15 ngày đến 1 tháng. Ngày uống từ 15 đến 30ml rượu này làm thuốc bổ đắng, khai vị (kinh nghiệm nhân dân).
 

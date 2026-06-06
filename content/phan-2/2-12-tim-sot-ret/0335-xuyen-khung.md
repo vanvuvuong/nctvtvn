@@ -23,13 +23,13 @@ Tên khoa học _*Ligusticum wallichii Franch.*_
 
 Thuộc họ Hoa Tán Apiaceae (Umelliferae).
 
-Xuyên khung (Rhizoma Ligustici wallichii ) là thân rễ phơi hay sấy khô của cây xuyên khung.
+Xuyên khung (Rhizoma Ligustici wallichii) là thân rễ phơi hay sấy khô của cây xuyên khung.
 
 Trong con người, cái đầu được coi là bộ phận cao nhất, như vòm trời. Vị thuốc này chuyên trị các chứng về đầu, não, do đó có tên (khung: cao, cùng: chỗ cuối cùng). Tên xuyên khung vì vị thuốc nguồn gốc ở tỉnh Tứ Xuyên. Hiện đã di thực được vào nước ta.
 
 #### A. Mô tả cây
 
-Xuyên khung là một cây thuộc thảo, sống lâu năm, thân mọc thẳng trong ruột rỗng, mặt ngoài có đường gân dọc nổi rõ. Lá mọc so le, kép 3 lần, cuống lá dài 9-17cm, phía dưới ôm lấy thân, 3 đến 5 đôi lá chét, cuống lá chét dài, phiến lá chét rách sâu, khi vò có mùi thơm. Hoa họp thành tán kép, cuống tán phụ ngắn chừng 1cm, hoa nhỏ, màu trắng. Song bế quả, hình trứng ( Hình 506).
+Xuyên khung là một cây thuộc thảo, sống lâu năm, thân mọc thẳng trong ruột rỗng, mặt ngoài có đường gân dọc nổi rõ. Lá mọc so le, kép 3 lần, cuống lá dài 9-17cm, phía dưới ôm lấy thân, 3 đến 5 đôi lá chét, cuống lá chét dài, phiến lá chét rách sâu, khi vò có mùi thơm. Hoa họp thành tán kép, cuống tán phụ ngắn chừng 1cm, hoa nhỏ, màu trắng. Song bế quả, hình trứng (Hình 506).
 
 []
 

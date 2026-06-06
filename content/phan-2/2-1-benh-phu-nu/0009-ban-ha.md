@@ -3,6 +3,12 @@ title: "9. BÁN HẠ 半复"
 weight: 9
 navWeight: 992
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - ho
+  - long đờm
+  - nôn mửa
+  - nhức đầu
+  - hen suyễn
 keywords:
   - bệnh phụ nữ
   - bán hạ
@@ -31,7 +37,7 @@ Cây bán hạ Việt Nam (_Typhonium trilobatum_ Schott) (Hình 15) còn gọi 
 
 _Hình 15. Bán hạ Việt nam - Typhonium divaricatum_
 
-Cây bán hạ Trung Quốc (_Pinellia ternata_ Thunb.) Breiter (Hình 16) khác cây bán hạ Việt Nam ở chỗ thuỳ xẻ sâu rõ rệt hơn. Mặc dầu gọi là bán hạ Trung Quốc để phân biệt với bán hạ _"Việt Nam"_, nhưng có người nói đã thấy cây này mọc ở Lào Cai nhưng chưa được khai thác ( Hm 5,4 ).
+Cây bán hạ Trung Quốc (_Pinellia ternata_ Thunb.) Breiter (Hình 16) khác cây bán hạ Việt Nam ở chỗ thuỳ xẻ sâu rõ rệt hơn. Mặc dầu gọi là bán hạ Trung Quốc để phân biệt với bán hạ _"Việt Nam"_, nhưng có người nói đã thấy cây này mọc ở Lào Cai nhưng chưa được khai thác (Hm 5,4).
 
 ![ban-ha-tq](/images/16-ban-ha-tq.png)
 

@@ -21,7 +21,7 @@ Thuộc họ Bồ Hòn Sapindaceae.
 
 Cây nhỏ cao 3-5cm. Lá kép chân vịt, có cuống chung dài tới 25cm, lá chét hình mác thuôn, dài 20cm, rộng 6cm, dai, nhẵn, mép có răng cưa nhỏ. Hoa trắng, mọc thành chùy hình tháp, chiều dài vượt quá lá.
 
-Khi cây được 4-5 tuổi thì bắt đầu ra quả. Một cây trưởng thành có thể cho mỗi năm 20-25kg quả. Mùa hoa tháng 3-4, mùa quả tháng 9-10 ( Hình 261 ).
+Khi cây được 4-5 tuổi thì bắt đầu ra quả. Một cây trưởng thành có thể cho mỗi năm 20-25kg quả. Mùa hoa tháng 3-4, mùa quả tháng 9-10 (Hình 261).
 
 []
 
@@ -59,7 +59,7 @@ Cây thảo, sống hàng năm, phần gốc thân hóa gỗ ít nhiều. Thân 
 
 Hoa nhiều, tập hợp thành chùy ở ngọn. Đài có lông, tràng màu trắng hay hồng hoặc tím nhạt. Quả nang có 2 ô, có đài tồn tại bọc ở ngoài, hạt bé, nhiều, màu đen: 1ml có thể chứa tới 6.000 hạt.
 
-Cùng loại với cây thuốc lá, ở nước ta còn trồng cây thuốc lào-Nicotiana rustica L. thân thấp hơn, lá to và dày hơn. ( Hình 262 )
+Cùng loại với cây thuốc lá, ở nước ta còn trồng cây thuốc lào-Nicotiana rustica L. thân thấp hơn, lá to và dày hơn. (Hình 262)
 
 []
 
@@ -159,7 +159,7 @@ Thuộc họ Gai mèo Cannabinaceae.
 
 Cây thảo, sống hằng năm, khác gốc, thân thẳng đứng cao l-2m, phân ít hay nhiều cành. Toàn các bộ phận của cây đều phủ một lớp lông mịn. Lá thường mọc cách, có cuống, có lá kèm. Lá phía dưới chia thùy đến tận cuống, phiến thùy hình mác, nhọn, mép có răng cưa. Lá phía trên đơn hay chia 3 thùy. Cây đực thường gày mảnh hơn cây cái. Hoa đực mọc thành chùy với 5 cánh đài và 5 nhị. Hoa cái mọc thành xim xen lẫn với lá bắc hình lá, đài hoa cái hình mo, bọc lấy bầu hình cầu, 2 vòi nhụy đính ở gốc bầu, hình chỉ, dài hơn bầu nhiều, 1 noãn ngược. Quả bế (gọi là chenevis) hình trứng dài 2,5-3,5mm, đường kính 2,5-3mm, nhẵn, xám nhạt. Hạt có dầu.
 
-Có tác giả phân cây gai dầu thành gai cho sợi thuộc loài Cannabis sativa var. vulgaris trồng ở những vùng ôn đới lấy sợi và hạt ép dầu, và gai cho nhựa (chanvre indien) thuộc loài Cannabis sativa L. var. indica trồng ở những vùng khí hậu nóng ( Hình 263 ).
+Có tác giả phân cây gai dầu thành gai cho sợi thuộc loài Cannabis sativa var. vulgaris trồng ở những vùng ôn đới lấy sợi và hạt ép dầu, và gai cho nhựa (chanvre indien) thuộc loài Cannabis sativa L. var. indica trồng ở những vùng khí hậu nóng (Hình 263).
 
 []
 
@@ -265,7 +265,7 @@ Cây sơn ngoài công dụng là một cây công nghiệp vì cho chất sơn,
 
 #### A. Mô tả cây
 
-Cây nhỏ, lá kép lông chim lẻ có 3-6 đôi lá chét. Lá chét mỏng nguyên nhẵn, phiến hình thuôn mũi mác, đầu nhọn, phần gốc không đều, mép nguyên. Hoa tạp họp thành chùy đơn, nhẵn hoặc hơi có lóng, đài hợp, phía trên xẻ thành răng, tràng 3, nhị 5, quả bạch hơi dẹt, không có lông. Mùa hoa: tháng 4, mùa quả chính: tháng 11 (Hình 264 ).
+Cây nhỏ, lá kép lông chim lẻ có 3-6 đôi lá chét. Lá chét mỏng nguyên nhẵn, phiến hình thuôn mũi mác, đầu nhọn, phần gốc không đều, mép nguyên. Hoa tạp họp thành chùy đơn, nhẵn hoặc hơi có lóng, đài hợp, phía trên xẻ thành răng, tràng 3, nhị 5, quả bạch hơi dẹt, không có lông. Mùa hoa: tháng 4, mùa quả chính: tháng 11 (Hình 264).
 
 []
 

@@ -31,7 +31,7 @@ Cây sống hằng năm, cao 0,35-0,50m, thân nhải, phía trên phân nhánh.
 
 27- CTVN
 
-đến 3 lá chét, lá chét hình hơi tròn và bản thân lại thường xẻ thành 3 thùy, mép thùy có khía răng tròn và to; những lá phía trên có lá chét chia thành những thùy hình sợi nhỏ, nhọn. Toàn thân và lá vò có mùi thơm dễ chịu. Hoa trắng hay hơi hổng, họp thành tán gồm 3-5 gọng, không có tổng bao, tiểu bao gồm 2-3 lấ chét đính ò một phía. Quả bế đôi hơi hình cầu, nhẩn, dài 2,5-4mm, gồm 2 nửa (phân liệt quả), mỗi nửa có 4 sống thẳng và hai sống chung cho cả 2 nủa ( Hình 319 ).
+đến 3 lá chét, lá chét hình hơi tròn và bản thân lại thường xẻ thành 3 thùy, mép thùy có khía răng tròn và to; những lá phía trên có lá chét chia thành những thùy hình sợi nhỏ, nhọn. Toàn thân và lá vò có mùi thơm dễ chịu. Hoa trắng hay hơi hổng, họp thành tán gồm 3-5 gọng, không có tổng bao, tiểu bao gồm 2-3 lấ chét đính ò một phía. Quả bế đôi hơi hình cầu, nhẩn, dài 2,5-4mm, gồm 2 nửa (phân liệt quả), mỗi nửa có 4 sống thẳng và hai sống chung cho cả 2 nủa (Hình 319).
 
 #### B. Phân bố,thu hái và chế biến
 

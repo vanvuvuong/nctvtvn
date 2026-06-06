@@ -25,7 +25,7 @@ Thuộc họ Mồng tơi Basellaceae.
 
 #### A. Mô tả cây
 
-Mồng tơi là một dây leo, sống hằng năm hay hai năm. Thân mọc cuốn, dài 1,50-2m. Thân có phân nhánh, màu xanh nhạt hoặc tím nhạt. Lá mọc so le, đơn, nguyên, mẫm, có cuống, phiến lá hình trứng, đầu nhọn, phía cuống bằng hay hơi hẹp lại, dài 3-12cm, rộng 2-6cm. Cụm hoa hình bông mọc ở kẽ lá, nhỏ, màu trắng hay tím đỏ nhạt. Những bông ở phía trên dài và gầy hơn. Quả mọng, nhỏ hình cầu hay hình trứng, dài chừng 5-5mm, màu tím đen khi chín ( Hình 357 ).
+Mồng tơi là một dây leo, sống hằng năm hay hai năm. Thân mọc cuốn, dài 1,50-2m. Thân có phân nhánh, màu xanh nhạt hoặc tím nhạt. Lá mọc so le, đơn, nguyên, mẫm, có cuống, phiến lá hình trứng, đầu nhọn, phía cuống bằng hay hơi hẹp lại, dài 3-12cm, rộng 2-6cm. Cụm hoa hình bông mọc ở kẽ lá, nhỏ, màu trắng hay tím đỏ nhạt. Những bông ở phía trên dài và gầy hơn. Quả mọng, nhỏ hình cầu hay hình trứng, dài chừng 5-5mm, màu tím đen khi chín (Hình 357).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -63,7 +63,7 @@ Thạch có thể chế từ nhiều hồng tảo (Rhodophyta) khác nhau như t
 
 Trong các chi đó, chi Gelidium cho nhiều thạch nhất. Sau đây chỉ giới thiệu một số thường gặp:
 
-Thạch hoa thái (Gelidium amensii Lamour.) là loài được dùng chế thạch ở Trung quốc và Nhật Bản. Qua nghiên cứu sự phân bố loại này trên thế giới chúng tôi cho rằng có thể gặp nó ở nước ta vào một loại rau câu, nhưng chưa đủ tài liệu để xác định chắc chắn. Tản hình lá màu hồng tím, phân chia trên một mặt phẳng hình lông chim hai lần giống như san hô, cành nhỏ rộng 2-3 cm ( Hình 358 ).
+Thạch hoa thái (Gelidium amensii Lamour.) là loài được dùng chế thạch ở Trung quốc và Nhật Bản. Qua nghiên cứu sự phân bố loại này trên thế giới chúng tôi cho rằng có thể gặp nó ở nước ta vào một loại rau câu, nhưng chưa đủ tài liệu để xác định chắc chắn. Tản hình lá màu hồng tím, phân chia trên một mặt phẳng hình lông chim hai lần giống như san hô, cành nhỏ rộng 2-3 cm (Hình 358).
 
 Thạch hoa thái thường mọc ở trên mặt đá ngầm sâu chừng 3-10m. Thông thường vào mùa hạ và thu, người ta dùng một loài cào đặc biệt để lôi lên bờ, rửa sạch, phơi nắng nhiều ngày để tẩy trắng và phơi khô. Chờ đến những ngày thật rét mới đem nấu thạch.
 
@@ -127,7 +127,7 @@ Thuộc họ Hoa giấy Nyctaginaceae.
 
 #### A. Mô tả cây
 
-Hoa phấn là một loại cây nhỏ, cao chừng 70cm, thân mềm, chia nhiều cành, nhẵn hay hơi có lông; có rễ phình thành củ. Lá đơn, nguyên, hình bầu dục, hơi thuôn hình mác, phía gốc lá hơi hình tim, đầu nhọn, mọc đối. Phiến lá dài 3- 9cm, cuống lá dài 1,5-3m. Hoa xếp thành 3-6 cái một ở kẽ những lá cuối cùng hay ở ngọn. Hoa to, đều, lưỡng tính, có 2 lá bắc bao quanh và hợp ở gốc như một đài hợp. Bao hoa hình cánh, mầu đỏ, trắng hay vàng, hình phễu, 5 nhị, một lá noãn, một noãn. Quả bế mang bao hoa tồn tại ( Hình 359 ).
+Hoa phấn là một loại cây nhỏ, cao chừng 70cm, thân mềm, chia nhiều cành, nhẵn hay hơi có lông; có rễ phình thành củ. Lá đơn, nguyên, hình bầu dục, hơi thuôn hình mác, phía gốc lá hơi hình tim, đầu nhọn, mọc đối. Phiến lá dài 3- 9cm, cuống lá dài 1,5-3m. Hoa xếp thành 3-6 cái một ở kẽ những lá cuối cùng hay ở ngọn. Hoa to, đều, lưỡng tính, có 2 lá bắc bao quanh và hợp ở gốc như một đài hợp. Bao hoa hình cánh, mầu đỏ, trắng hay vàng, hình phễu, 5 nhị, một lá noãn, một noãn. Quả bế mang bao hoa tồn tại (Hình 359).
 
 #### B. Phân bố, thu hái và chế biến
 

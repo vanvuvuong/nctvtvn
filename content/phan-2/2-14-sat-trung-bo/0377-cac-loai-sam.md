@@ -489,7 +489,7 @@ Nhiều người vẫn nhầm cây này gọi là cây nhân sâm, cần chú ý
 
 Cây loại cỏ mọc hằng năm hoặc sống dai, thân mọc thẳng, có thể cao tới 0,6m, thân màu xanh, phía dưới chia cành. Lá mọc so le, hình trứng ngược, hoặc hình thìa, phiến lá dày, hơi mẫm, hai mặt đều bóng, đầu lá nhọn hoặc tù, phía cuống hẹp lại, cuống rất ngắn, lá dài 5-7cm, rộng 2,5- 3,5cm. Vào mùa hạ ở đầu cành xuất hiện cụm hoa hình chùm nhiều hoa nhỏ, đường kính ước 6mm, 5 cánh hoa màu tím đỏ nhạt, hơn 10 nhị dài ước 2mm. Bầu hoa hình cầu. Quả nhỏ, khi chín có màu xám tro, đường kính ước 3mm. Hạt rất nhỏ, màu đen nhánh hơi dẹt, trên mặt hơi có vân nổi.
 
-Mùa hoa: tháng 6-7-8. Mùa quả: tháng 9-10-11 ( Hình 625, Hm 22,4).
+Mùa hoa: tháng 6-7-8. Mùa quả: tháng 9-10-11 (Hình 625, Hm 22,4).
 
 []
 

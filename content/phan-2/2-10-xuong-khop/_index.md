@@ -6,7 +6,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 
 ## X. CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH XƯƠNG KHỚP VÀ TÊ THẤP
 
-bám trẽn vỏ hầu làm cho hấu có hình dáng khác nhau. Mặt ngoài cùa vò có màu sẫm. Hầu nhiểu luổi có thớ vỏ xếp chồng lên nhau theo từng lớp. Mặt trong của vỏ phần lớn có màu trắng, có vỏ màu vàng tím, óng ánh như xà cừ ( Hình 371).
+bám trẽn vỏ hầu làm cho hấu có hình dáng khác nhau. Mặt ngoài cùa vò có màu sẫm. Hầu nhiểu luổi có thớ vỏ xếp chồng lên nhau theo từng lớp. Mặt trong của vỏ phần lớn có màu trắng, có vỏ màu vàng tím, óng ánh như xà cừ (Hình 371).
 
 ỉ lình 37 ỉ. Mẩu ìệ - Ostrca sp
 
@@ -80,7 +80,7 @@ Mùa khai thác mực là các tháng 3 đến tháng 9 là thời kỳ mực b�
 
 Hình 372. Con mực - Sepia esculenía a) Mật lưng; b) Mặt bụn's’
 
-các tháng 4-5-6. Ngoài mai mực đánh bắt được người ta còn khai thác mai mực do mai các con mực to bị chết ở ngoài khơi, sóng gió thổi dạt vào bờ, người ta vớt lấy ( Hình 372 ).
+các tháng 4-5-6. Ngoài mai mực đánh bắt được người ta còn khai thác mai mực do mai các con mực to bị chết ở ngoài khơi, sóng gió thổi dạt vào bờ, người ta vớt lấy (Hình 372).
 
 B. Phán bố, thu bát và chế biến
 
@@ -148,7 +148,7 @@ Hình 373. Thạch quyết minh ■ Concha Halioỉiẩis
 
 con sò, nhưng dẹt hơn, ở mép có 7 đến 13 lỗ nhò để không khí ra vào. Khi vỏ con bào ngư bị sinh vật khác bám kín trên hàng lồ đó thì con vật có thể chết ngạt. Lớp vỏ ngoài nhám, có màu nâu sảm, mặt
 
-trong có lớp sà cừ lóng lánh. Chân bào ngư là một khôi thịt dính liền với thân, nằm xung quanh mép vó. Muốn bò đi, khối thịt đó phải co giãn để di chuyển thản mình. Khi bị (a bắt, thì khối thịt đó rút vào trong vỏ. Chân bào ngư bao giờ cũng bám chắc vào đá, nhờ đó mìi vùng bào ngư sống tuy luôn luồn có sóng lớn vỗ vào đá, nhưng bào ngư vẫn sống bình thường. Thức ăn chính của bào ngư là rong rêu bám trên đá ( Hình 373 ).
+trong có lớp sà cừ lóng lánh. Chân bào ngư là một khôi thịt dính liền với thân, nằm xung quanh mép vó. Muốn bò đi, khối thịt đó phải co giãn để di chuyển thản mình. Khi bị (a bắt, thì khối thịt đó rút vào trong vỏ. Chân bào ngư bao giờ cũng bám chắc vào đá, nhờ đó mìi vùng bào ngư sống tuy luôn luồn có sóng lớn vỗ vào đá, nhưng bào ngư vẫn sống bình thường. Thức ăn chính của bào ngư là rong rêu bám trên đá (Hình 373).
 
 #### B. Phân bố, thu bát và chê biên
 

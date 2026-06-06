@@ -20,7 +20,7 @@ keywords:
 
 2. Đơn thuốc chữa mẩn ngứa. Bèo cái 50g rửa sạch, sao vàng, sắc với nước uống hằng ngày. Dùng trong 2-3 ngày.
 
-3. Đơn thuốc chữa hen xuyễn. Bèo cái 100g cắt bỏ rễ, bỏ lá vàng, rửa nhiều lần bằng nước cho thật sạch; cuối cùng có thể rửa một lần bằng nước muối, vẩy cho ráo nước giã nhỏ trong cối, vắt lấy nước, thêm nước lọc vào và xirô chanh cho vừa đủ ngọt và đủ 100ml. Ngày có thể uống 2 lần, mỗi lần một liều như trên. Thường sau khi uống 10 ngày cơn hen xuyễn đã bớt, uống liên tục trong vòng 2 tháng có khi tới 3 tháng. Khi mới uống có thể thấy ngứa cổ trong vòng 10 phút, nhưng sau quen dần và hết ngứa ( Y học thực hành 5-1952: 32).
+3. Đơn thuốc chữa hen xuyễn. Bèo cái 100g cắt bỏ rễ, bỏ lá vàng, rửa nhiều lần bằng nước cho thật sạch; cuối cùng có thể rửa một lần bằng nước muối, vẩy cho ráo nước giã nhỏ trong cối, vắt lấy nước, thêm nước lọc vào và xirô chanh cho vừa đủ ngọt và đủ 100ml. Ngày có thể uống 2 lần, mỗi lần một liều như trên. Thường sau khi uống 10 ngày cơn hen xuyễn đã bớt, uống liên tục trong vòng 2 tháng có khi tới 3 tháng. Khi mới uống có thể thấy ngứa cổ trong vòng 10 phút, nhưng sau quen dần và hết ngứa (Y học thực hành 5-1952: 32).
 
 4. Chữa mụn rộp hang vòng. Rửa sạch vết loét bằng nước sắc bèo cái, rắc lên đấy bèo cái đã đốt thành tro.
 

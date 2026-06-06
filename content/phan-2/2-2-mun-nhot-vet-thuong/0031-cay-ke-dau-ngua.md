@@ -23,7 +23,7 @@ Thuộc họ Cúc Asteraceae. Ta dùng quả ké đầu ngựa, hay toàn bộ p
 
 #### A. Mô tả cây
 
-Cây ké đầu ngựa là một cây nhỏ, cao độ 2m thân có khía rãnh. Lá mọc so le, phiến lá hơi 3 cạnh, mép có răng cưa có chỗ khía hơi sâu thành 3-5 thùy, có lông ngắn cứng. Cụm hoa hình đầu có thứ lưỡng tính ở phía trên, có thứ chỉ gồm có hai hoa cái nằm trong hai lá bắc dày và có gai. Quả giả hình thoi, có móc, có thể móc vào lông động vật. Trẻ con vẫn nghịch bỏ vào tóc nhau rất khó gỡ ra (cắt đôi thấy ở trong có hai quả thực). ( Hình 38, Hm 5,1).
+Cây ké đầu ngựa là một cây nhỏ, cao độ 2m thân có khía rãnh. Lá mọc so le, phiến lá hơi 3 cạnh, mép có răng cưa có chỗ khía hơi sâu thành 3-5 thùy, có lông ngắn cứng. Cụm hoa hình đầu có thứ lưỡng tính ở phía trên, có thứ chỉ gồm có hai hoa cái nằm trong hai lá bắc dày và có gai. Quả giả hình thoi, có móc, có thể móc vào lông động vật. Trẻ con vẫn nghịch bỏ vào tóc nhau rất khó gỡ ra (cắt đôi thấy ở trong có hai quả thực). (Hình 38, Hm 5,1).
 
 #### B. Phân bố, thu hái và chế biến
 

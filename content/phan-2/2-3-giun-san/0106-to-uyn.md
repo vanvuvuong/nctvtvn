@@ -26,7 +26,7 @@ Thuộc họ Ráy Araceae.
 
 #### A. Mô tả cây
 
-Cây mọc leo có thể dài 4 đến 20m. Cành hình trụ đường kính 2,5 đến 5cm. Rễ khi sinh mọc thõng. Lá dai, màu xanh lục, dài 40-70cm, rộng 30-50cm, toàn phiến hình thuôn dài, ngọn lá nhọn gốc hình tim. Ngọn cuống gập khúc làm cho phiến lá mọc quặp xuống. Phiếm lá non nguyên, phiến lá già xẻ lông chim. Trên lá già còn có nhiều lỗ thủng nhỏ dọc ờ hai bên gần giữa. Cụm hoa bông mo dày, màu xanh nhạt, hình trụ ngọn tù, dài 15-20cm xung quanh bao bọc bởi một lá bắc to, hai mặt màu vàng. Hoa nhiều, lưỡng tính hình ìăng trụ 6 góc rộng. Quả mọng màu đỏ, nhiều hạt thuôn dài, tù ở hai đầu, có chấm trấng nhỏ ở mép ( Hình 97 ).
+Cây mọc leo có thể dài 4 đến 20m. Cành hình trụ đường kính 2,5 đến 5cm. Rễ khi sinh mọc thõng. Lá dai, màu xanh lục, dài 40-70cm, rộng 30-50cm, toàn phiến hình thuôn dài, ngọn lá nhọn gốc hình tim. Ngọn cuống gập khúc làm cho phiến lá mọc quặp xuống. Phiếm lá non nguyên, phiến lá già xẻ lông chim. Trên lá già còn có nhiều lỗ thủng nhỏ dọc ờ hai bên gần giữa. Cụm hoa bông mo dày, màu xanh nhạt, hình trụ ngọn tù, dài 15-20cm xung quanh bao bọc bởi một lá bắc to, hai mặt màu vàng. Hoa nhiều, lưỡng tính hình ìăng trụ 6 góc rộng. Quả mọng màu đỏ, nhiều hạt thuôn dài, tù ở hai đầu, có chấm trấng nhỏ ở mép (Hình 97).
 
 ##### TODO: thêm hình ảnh
 

@@ -21,7 +21,7 @@ Ta có thể dùng toàn cây nhưng chủ yếu là lá và hoa của mạch ba
 
 #### A. Mô tả cây
 
-Mạch ba góc là một cây thuộc thảo, có nhiều cành, cao từ 0,40 đến 1,70m, trung bình 0,70m thân hình trụ, màu xanh hay đỏ. Lá nguyên đơn, mọc cách, mép nguyên, có bẹ chìa, lá phía dưới hình tim, đầu hơi nhọn, có cuống, lá phía trên giống hình mũi tên, không có cuống. Gân lá hình chân vịt. Hoa mọc thành chùm ở ngọn và nách lá. Hoa lưỡng tính, chỉ có một vòng bao hoa, màu trắng, đỏ hoặc trắng hồng. Bao hoa có 5 bản tổn tại trên quả. Nhị 8. Nhụy có 3 vòi rời nhau. Bầu thượng có tuyến mật ở xung quanh. Quả khô có 3 góc gồm 2 lần vỏ, lớp vỏ ngoài đen xám khi già, lớp vỏ hạt vỏ trong mọng, màu trắng vàng, bao hoa tồn tại. Hạt có nội nhũ bột lớn, phôi thẳng, hình lá xếp nếp ( Hình 233 ).
+Mạch ba góc là một cây thuộc thảo, có nhiều cành, cao từ 0,40 đến 1,70m, trung bình 0,70m thân hình trụ, màu xanh hay đỏ. Lá nguyên đơn, mọc cách, mép nguyên, có bẹ chìa, lá phía dưới hình tim, đầu hơi nhọn, có cuống, lá phía trên giống hình mũi tên, không có cuống. Gân lá hình chân vịt. Hoa mọc thành chùm ở ngọn và nách lá. Hoa lưỡng tính, chỉ có một vòng bao hoa, màu trắng, đỏ hoặc trắng hồng. Bao hoa có 5 bản tổn tại trên quả. Nhị 8. Nhụy có 3 vòi rời nhau. Bầu thượng có tuyến mật ở xung quanh. Quả khô có 3 góc gồm 2 lần vỏ, lớp vỏ ngoài đen xám khi già, lớp vỏ hạt vỏ trong mọng, màu trắng vàng, bao hoa tồn tại. Hạt có nội nhũ bột lớn, phôi thẳng, hình lá xếp nếp (Hình 233).
 
 #### B. Phân bố, thu hái và chế biến
 

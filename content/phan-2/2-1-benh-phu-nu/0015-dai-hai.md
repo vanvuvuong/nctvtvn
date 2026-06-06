@@ -3,6 +3,8 @@ title: "15. ĐÀI HÁI 油仄"
 weight: 15
 navWeight: 986
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - loét mũi
 keywords:
   - bệnh phụ nữ
   - đài hái
@@ -21,7 +23,7 @@ Thuộc họ Bí Cucurbitaceae.
 
 ![dai-hai](/images/21-dai-hai.png)
 
-Hình 21. Đài hái - Hodgsonia macrocarpa. Cành, quả, hoa và hạts
+Hình 21. Đài hái - Hodgsonia macrocarpa. Cành, quả, hoa và hạt
 
 #### B. Phân bố, thu hái và chế biến
 

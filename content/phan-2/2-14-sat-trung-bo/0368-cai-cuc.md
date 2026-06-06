@@ -22,7 +22,7 @@ Thuộc họ Cúc Asteraceae (Compositae).
 
 #### A. Mô tả cây
 
-Cỏ mọc hằng năm, thân mọc thẳng, nhẵn, cao từ 0,5-0,8m, mang nhiều cành. Lá ôm vào thân, phiến xẻ lông chim với những thuỳ hình mác, nhưng ở đầu thì nở rộng, có răng cưa. Cụm hoa hình đầu màu vàng, mọc ở đầu cành, lá bắc khô xác ở đầu ( Hình 583).
+Cỏ mọc hằng năm, thân mọc thẳng, nhẵn, cao từ 0,5-0,8m, mang nhiều cành. Lá ôm vào thân, phiến xẻ lông chim với những thuỳ hình mác, nhưng ở đầu thì nở rộng, có răng cưa. Cụm hoa hình đầu màu vàng, mọc ở đầu cành, lá bắc khô xác ở đầu (Hình 583).
 
 []
 

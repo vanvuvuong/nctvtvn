@@ -3,6 +3,8 @@ title: "18. HUYẾT GIÁC 血角"
 weight: 18
 navWeight: 983
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - ứ huyết
 keywords:
   - bệnh phụ nữ
   - huyết giác
@@ -21,7 +23,7 @@ Huyết giác là chất gỗ màu đỏ, do một loại sâu hay nấm gây ra
 
 #### A. Mô tả cây
 
-Huyết giác là một loại cây nhỏ, cao chừng 1- 1,5m, có thể tới 2-3m, sống lâu năm. Thân phân thành nhiều nhánh. Cây nhỏ có đường kính chừng 1,6-2cm, cây to có đường kính tới 20-25 cm. Lá hình lưỡi kiếm, trung bình dài 25-80cm, rộng 3-4cm tới 6-7cm, cứng, màu xanh tươi, mọc cách, không có cuống. Lá rụng để lại trên thân một sẹo, Thường chỉ còn một bó lá tụ tập trên ngọn. Cụm hoa mọc thành chùm dài tới lm, đường kính phía cuống tới 1,5-2cm trên có lá nhỏ, dài 15 cm, rộng 2cm, phân cành nhỏ dài tới 30cm. Hoa tụ từng 2-4 hoa gần nhau. Hoa nhỏ, đường kính 7-8 mm, màu lục vàng nhạt. Quả mọng hình cầu, đường kính chừng 1cm. Khi khô có màu đen, hạt hình cầu, đường kính 6-7 cm ( Hình 24, Hm 3,2 ).
+Huyết giác là một loại cây nhỏ, cao chừng 1- 1,5m, có thể tới 2-3m, sống lâu năm. Thân phân thành nhiều nhánh. Cây nhỏ có đường kính chừng 1,6-2cm, cây to có đường kính tới 20-25 cm. Lá hình lưỡi kiếm, trung bình dài 25-80cm, rộng 3-4cm tới 6-7cm, cứng, màu xanh tươi, mọc cách, không có cuống. Lá rụng để lại trên thân một sẹo, Thường chỉ còn một bó lá tụ tập trên ngọn. Cụm hoa mọc thành chùm dài tới lm, đường kính phía cuống tới 1,5-2cm trên có lá nhỏ, dài 15 cm, rộng 2cm, phân cành nhỏ dài tới 30cm. Hoa tụ từng 2-4 hoa gần nhau. Hoa nhỏ, đường kính 7-8 mm, màu lục vàng nhạt. Quả mọng hình cầu, đường kính chừng 1cm. Khi khô có màu đen, hạt hình cầu, đường kính 6-7 cm (Hình 24, Hm 3,2).
 
 ![huyet-giac](/images/24-huyet-giac.png)
 
@@ -47,4 +49,4 @@ Sơ bộ nghiên cứu tác dụng giãn mạch trên tai thỏ, thấy chất t
 
 Huyết giác còn là một vị thuốc dùng trong phạm vi nhân dân, chưa thấy được ghi trong một tài liệu nào.
 
-Nhân dân dùng chữa những trường hợp ứ huyết, bị thương, máu tím bầm không lưu thông. Dùng cho cả nam và nữ. Đối với nữ còn dùng khi kinh nguyệt bế. Liều dùng: ngày 10-20g dưới dạng thuốc sắc, ngâm ruợu uống và xoa.
+Nhân dân dùng chữa những trường hợp ứ huyết, bị thương, máu tím bầm không lưu thông. Dùng cho cả nam và nữ. Đối với nữ còn dùng khi kinh nguyệt bế. Liều dùng: ngày 10-20g dưới dạng thuốc sắc, ngâm rượu uống và xoa.

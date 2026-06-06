@@ -24,7 +24,7 @@ Thuộc họ Tuế Cycadaceae.
 
 #### A. Mô tả cây
 
-Thân hình trụ, cao 2-3m, lá mọc thành vòng, dài tới 2m, hình lông chim, cuống lá có gai, lá chét dài 15-18cm, rộng 6mm, nhỏ hơn về phía gốc và phía ngọn, gần mọc đối, nguyên, nhẵn, hình sợi chỉ, mũi có gai đơn, mép cuốn lại, có gân lồi. Nón đực hẹp, dài 218cm, rộng 4cm, nhị thưa, hơi lợp, hình mũi mác hẹp, dài 30cm, rộng 6-8mm, gân hình lòng thuyền, ở phía trên mang bao phấn dọc theo mép. Nón cái gồm những lá noãn dài tới 20cm, có lông màu trắng hơi vàng, có phần không sinh sản rộng chia thành nhiều đài hẹp có ngọn cong và mũi nhọn cứng; noãn có lông. Hạt hình trái xoan dẹt, thoạt tiên có lông rồi nhẵn, màu da cam, dài 3cm ( Hình 230).
+Thân hình trụ, cao 2-3m, lá mọc thành vòng, dài tới 2m, hình lông chim, cuống lá có gai, lá chét dài 15-18cm, rộng 6mm, nhỏ hơn về phía gốc và phía ngọn, gần mọc đối, nguyên, nhẵn, hình sợi chỉ, mũi có gai đơn, mép cuốn lại, có gân lồi. Nón đực hẹp, dài 218cm, rộng 4cm, nhị thưa, hơi lợp, hình mũi mác hẹp, dài 30cm, rộng 6-8mm, gân hình lòng thuyền, ở phía trên mang bao phấn dọc theo mép. Nón cái gồm những lá noãn dài tới 20cm, có lông màu trắng hơi vàng, có phần không sinh sản rộng chia thành nhiều đài hẹp có ngọn cong và mũi nhọn cứng; noãn có lông. Hạt hình trái xoan dẹt, thoạt tiên có lông rồi nhẵn, màu da cam, dài 3cm (Hình 230).
 
 #### B. Phân bố thu hái và chế biến
 
@@ -40,7 +40,7 @@ Trong hạt có cycasin, neocycasin A, B, C, D, E, F, G (Nhật hoa tống lãm 
 
 #### D. Công dụng và liều dùng
 
-Theo tài liệu cổ lá có vị ngọt, tính ôn, có tác dụng thu liễm, cầm máu, giảm đau. Hạt có độc, có tác dụng cố tinh, sáp đới( làm cho tinh khí lâu xuất, sạch khí hư).
+Theo tài liệu cổ lá có vị ngọt, tính ôn, có tác dụng thu liễm, cầm máu, giảm đau. Hạt có độc, có tác dụng cố tinh, sáp đới(làm cho tinh khí lâu xuất, sạch khí hư).
 
 Hiện nay thường dùng lá chữa mọi chứng chảy máu, máu cam, chữa lỵ, chữa những trường hợp đau nhức như đau dạ dày, đau lưng, đau nhức ở khớp xương. Hạt dùng trong những trường hợp hoạt tinh, khí hư, bị thương đau đớn.
 

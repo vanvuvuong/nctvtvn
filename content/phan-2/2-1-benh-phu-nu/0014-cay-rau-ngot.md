@@ -3,6 +3,10 @@ title: "14. CÂY RAU NGÓT 冬闽菜"
 weight: 14
 navWeight: 987
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - chậm kinh
+  - tưa lưỡi
+  - sót nhau
 keywords:
   - bệnh phụ nữ
   - cây rau ngót
@@ -24,7 +28,7 @@ Tên cây rau ngót trước đây được xác định là _Phyllanthus elegan
 
 #### A. Mô tả cây
 
-Cây nhỏ, nhẵn, có thể cao tới 1,50-2m. Có nhiều cành mọc thẳng. Vì người ta hái lá luôn cho nên thường chỉ thấp 0,90-1m. Vỏ thân cây màu xanh lục, sau màu nâu nhạt. Lá mọc so le, dài 4-6cm, rộng 15-30mm cuống rất ngắn 1- 2mm có 2 lá kèm nhỏ, phiến lá nguyên hình trứng dài hoặc bầu dục, mép nguyên, (Hình 20). Hoa đực mọc ở kẽ lá thành xim đơn ở phía dưới, hoa cái ở trên. Quả nang hình cầu, hạt có vân nhỏ ( Hm 3,4 ).
+Cây nhỏ, nhẵn, có thể cao tới 1,50-2m. Có nhiều cành mọc thẳng. Vì người ta hái lá luôn cho nên thường chỉ thấp 0,90-1m. Vỏ thân cây màu xanh lục, sau màu nâu nhạt. Lá mọc so le, dài 4-6cm, rộng 15-30mm cuống rất ngắn 1- 2mm có 2 lá kèm nhỏ, phiến lá nguyên hình trứng dài hoặc bầu dục, mép nguyên, (Hình 20). Hoa đực mọc ở kẽ lá thành xim đơn ở phía dưới, hoa cái ở trên. Quả nang hình cầu, hạt có vân nhỏ (Hm 3,4).
 
 ![rau-ngot](/images/20-rau-ngot.png)
 
@@ -50,7 +54,7 @@ Thêm ít nước đã đun sôi để nguội vào. Vắt lấy chừng 100 ml 
 
 Có người dùng đơn thuốc này chữa chậm kinh có kết quả (Đỗ Tất Lợi).
 
-Có người chỉ gìă nhỏ đắp vào gan bàn chần (*Y học thực hành*, tháng 2/1960 và 10/1961).
+Có người chỉ gìă nhỏ đắp vào gan bàn chần (_Y học thực hành_, tháng 2/1960 và 10/1961).
 
 _Chữa tưa lưỡi_: Giã lá rau ngót tươi độ 5-10g. Vắt lấy nước. Thấm vào bông đánh lên lưỡi, lợi và vòm miệng trẻ em, chỉ hai ngày sau là bú được.
 

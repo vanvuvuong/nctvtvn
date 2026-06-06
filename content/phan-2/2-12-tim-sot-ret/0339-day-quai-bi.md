@@ -21,7 +21,7 @@ Thuộc họ Nho Vitaceae.
 
 #### A. Mô tả cây
 
-Dây quai bị là một loại dây mọc leo, trên thân có bì khổng. Lá kép chân vịt gồm 5 lá chét. Lá chét giữa lớn nhất, mép có răng cưa ở 2/3 phía trên, dài 4-6cm, rộng 2-3cm, những lá chét thường có cuống chung, 2 lá chét một cuống chung. Cụm hoa mọc thành ngù, có thể to tới 2- 2,5cm đuờng kính. Quả mọng hình cầu hay hình trứng, màu vàng nhạt, đường kính 15mm, có 2-3 hạt hình 3 cạnh ( Hình 517).
+Dây quai bị là một loại dây mọc leo, trên thân có bì khổng. Lá kép chân vịt gồm 5 lá chét. Lá chét giữa lớn nhất, mép có răng cưa ở 2/3 phía trên, dài 4-6cm, rộng 2-3cm, những lá chét thường có cuống chung, 2 lá chét một cuống chung. Cụm hoa mọc thành ngù, có thể to tới 2- 2,5cm đuờng kính. Quả mọng hình cầu hay hình trứng, màu vàng nhạt, đường kính 15mm, có 2-3 hạt hình 3 cạnh (Hình 517).
 
 []
 
@@ -67,7 +67,7 @@ Cây đại tam diệp thăng ma (Cimicifuga heracleifolia) là một cây sốn
 
 Cây bắc thăng ma (Cimicifuga dahurica) cũng là một cây sống lâu năm, thường chỉ cao 1m, trên thân có lông mềm, lá cũng kép 2 đến 3 lần lông chim, lá chét giữa thường có cuống, còn lá chét 2 bên thường không cuống. Cụm hoa chùm, nhưng hoa đơn tính, khác đại tam diệp thăng ma có hoa lưỡng tính. Quả kép có 5 lá noãn.
 
-Cây thăng ma (Cimicifuga foetida) cũng là một cây sống lâu năm, cao 1-2m, lá kép nhiều lần lông chim (khác những loài thăng ma kể trên). Cụm hoa hình chùy, hoa lưỡng tính, màu trắng. Quả kép, trên mặt có lông ( Hình 518).
+Cây thăng ma (Cimicifuga foetida) cũng là một cây sống lâu năm, cao 1-2m, lá kép nhiều lần lông chim (khác những loài thăng ma kể trên). Cụm hoa hình chùy, hoa lưỡng tính, màu trắng. Quả kép, trên mặt có lông (Hình 518).
 
 []
 
@@ -249,7 +249,7 @@ Vị thuốc giống như chiếc đinh, lại có mùi thơm nên đạt tên �
 
 #### A. Mô tả cây
 
-Đinh hương cao 12-15m. Lá mọc đối, hình bầu dục nhọn, phiến lá dai. Hoa mọc thành xim nhỏ chi chít và phân nhánh ở đầu cành. Hoa gồm 4 lá dài dày, khi chín có màu đỏ tươi, 4 cánh tràng màu trắng hồng, khi nở thì rụng sớm, rất nhiều nhị. Quả là những quả mọng dài, quanh có các lá đài, thuòng chỉ chứa một hạt ( Hình 521).
+Đinh hương cao 12-15m. Lá mọc đối, hình bầu dục nhọn, phiến lá dai. Hoa mọc thành xim nhỏ chi chít và phân nhánh ở đầu cành. Hoa gồm 4 lá dài dày, khi chín có màu đỏ tươi, 4 cánh tràng màu trắng hồng, khi nở thì rụng sớm, rất nhiều nhị. Quả là những quả mọng dài, quanh có các lá đài, thuòng chỉ chứa một hạt (Hình 521).
 
 []
 

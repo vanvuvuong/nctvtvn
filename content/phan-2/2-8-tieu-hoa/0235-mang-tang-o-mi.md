@@ -25,7 +25,7 @@ Thuộc họ Long não Lauraceae.
 
 Màng tang là một cây nhỏ, cao chừng 5m. Lá mọc so le, hình mác, mép nguyên, có cuống ngắn, mặt trên xanh sẫm, mặt dưới màu tro trắng, vò có mùi thơm mát của sả. Hoa khác gốc, màu trắng. Quả nhỏ lúc non có màu xanh, khi chín
 
-có màu đen giống như quả hồ tiêu ( Hình 318).
+có màu đen giống như quả hồ tiêu (Hình 318).
 
 #### B. Phân bố, thu hái và chế biến
 

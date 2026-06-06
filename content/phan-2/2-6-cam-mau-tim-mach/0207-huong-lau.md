@@ -16,7 +16,7 @@ _Còn gọi là cỏ hương bài, hương lau._
 
 Tên khoa học _*Vetiveria zizanioides (Linn.) Nash,- Andropogott squarrosus Hack.*_
 
-Thuộc họ Lúa Poaceae (Gramineae ).
+Thuộc họ Lúa Poaceae (Gramineae).
 
 #### A. Mô tả cây
 

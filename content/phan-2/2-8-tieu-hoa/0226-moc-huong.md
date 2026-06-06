@@ -35,7 +35,7 @@ Ta đã di thực được 2 loài quảng mộc hương và thổ mộc hương
 
 Cày quảng mộc hương hay ván mộc hương là một cây sổng lâu năm, rễ to mẫm, đường kính có thể đạt tới hơn 5cm, vỏ ngoài màu nâu nhạt. Phía gốc có lá hình 3 cạnh tròn, dài 12- 30cm, rộng 6-15cm, cuống dài 20-30cm có dìa, mép lá nguyên và hơi lượn sóng, hai mặt đều có lông, mặt dưới nhiều hơn. Trên thân cũng có lá hình 3 cạnh, nhưng càng lên trên kích thước lá càng nhỏ dần, mép có răng cưa, cuống lá càng lên cao càng ngắn lại, phía trên cùng lá gần như không cuống hay có khi như òm lấy thân cây. Hoa hình đầu, màu lam tím. Quả bế, hơi dẹt và cong queo, màu nâu nhạt, có những đốm màu tím. Mùa hoa vào các tháng 7-9, mùa
 
-quả vào các tháng 8-10. Cây thổ mộc hương cũng là một cây sống lâu năm, cao 0,50-1,50m. Phía gốc có lá to, dài tới 40cm, trên thân có lá mọc so le nhỏ hơn, dài 10-30cm, phía cuống có hai tai ôm lấy thân, mép có răng cưa không đều. Cụm hoa hình đầu, hoa màu vàng. Quả bế, đài 4mm, trên có vân dọc ( Hinhf 298 ).
+quả vào các tháng 8-10. Cây thổ mộc hương cũng là một cây sống lâu năm, cao 0,50-1,50m. Phía gốc có lá to, dài tới 40cm, trên thân có lá mọc so le nhỏ hơn, dài 10-30cm, phía cuống có hai tai ôm lấy thân, mép có răng cưa không đều. Cụm hoa hình đầu, hoa màu vàng. Quả bế, đài 4mm, trên có vân dọc (Hinhf 298).
 
 #### B. Phân bố, thu hái và chê biến
 
@@ -49,7 +49,7 @@ Hình 299. Thổ mộc hương - biula heỉenium
 
 mộc hương do nhập từ Ấn Độ vào tỉnh Quảng Đông, rồi từ đó ưuyền đi toàn Trung Quốc.
 
-Vị thổ mộc hương vốn được trồng từ lâu ở Hà Bắc, Tứ Xuyên, Triết Giang và một số tỉnh khác của Trung Quốc, ở nuớc ta, việc dì thực cả hai loại mộc hương mối bắt đầu thành công, dang được đưa trồng rộng rãi. Sau khi trồng 2 năm hay 3 năm bắt đầu thu hoạch. Đào rễ vào tháng 10 cho đến tháng 1 năm sau. Rễ đào về, cắt bỏ mẩu thân, rửa sạch đất cát, phơi hay sấy khô ( Hình 299, Hm 57,2 ).
+Vị thổ mộc hương vốn được trồng từ lâu ở Hà Bắc, Tứ Xuyên, Triết Giang và một số tỉnh khác của Trung Quốc, ở nuớc ta, việc dì thực cả hai loại mộc hương mối bắt đầu thành công, dang được đưa trồng rộng rãi. Sau khi trồng 2 năm hay 3 năm bắt đầu thu hoạch. Đào rễ vào tháng 10 cho đến tháng 1 năm sau. Rễ đào về, cắt bỏ mẩu thân, rửa sạch đất cát, phơi hay sấy khô (Hình 299, Hm 57,2).
 
 c. Thành phán hóa học
 
@@ -87,7 +87,7 @@ Cây rau đay hay rau đay quả dài là một loại cỏ cao chừng 1-2 mét
 
 2- 4cm, có 3 đến 5 gàn ở phía dưới. Lá kèm hình sợi. Hoa nhỏ màu vàng mọc ở kẽ lá, họp từng 3 hoa một trên một cuống ngắn. Đài 4-5, tràng 4-
 
-5, nhị 45-50 xếp thành nhiều vòng. Quả hình trụ có 5 sống dọc, nhẵn, dài 5cm. Hạt hình lê khi cắt ngang có hình 5 cạnh ( Hình 300 ).
+5, nhị 45-50 xếp thành nhiều vòng. Quả hình trụ có 5 sống dọc, nhẵn, dài 5cm. Hạt hình lê khi cắt ngang có hình 5 cạnh (Hình 300).
 
 B. Phàn bố, thu hái và chế biến
 

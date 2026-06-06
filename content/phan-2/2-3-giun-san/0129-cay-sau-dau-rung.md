@@ -28,7 +28,7 @@ Chớ nhầm quả này với quả xoan Meỉia aieđarach L. thuộc họ Xoan
 
 #### A. Mô tả cày
 
-Cây sầu đâu rừng nhỏ, chỉ cao độ 1,60 đến 2,5m là cùng, thân yếu không thành gỗ và không to như cây xoan làm nhà. Lá xẻ lông chim không đều, 4-6 đôi lá chét. Hoa nhỏ khác gốc, mọc thành chùm xim ( Hình 124, Hm 9,3 ).
+Cây sầu đâu rừng nhỏ, chỉ cao độ 1,60 đến 2,5m là cùng, thân yếu không thành gỗ và không to như cây xoan làm nhà. Lá xẻ lông chim không đều, 4-6 đôi lá chét. Hoa nhỏ khác gốc, mọc thành chùm xim (Hình 124, Hm 9,3).
 
 B. Phán bố, thu hái và chế biến
 

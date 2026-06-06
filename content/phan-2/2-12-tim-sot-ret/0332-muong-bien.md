@@ -63,7 +63,7 @@ Cây na cho ta các bộ phận sau đây dùng làm thuốc: Lá, hạt và qu�
 
 #### A. Mô tả cây
 
-Na là một thứ cây nhỡ cao 2-6m. Thân tròn, vỏ nháp, mang nhiều cành. Lá mọc so le, hình bầu dục dài 7-10cm, rộng 3-4cm. Hoa đơn độc nở vào tháng 3-4, cánh hoa màu mỡ gà, thường mọc đối diện với lá. Nhị nhiều, chỉ nhị rộng, chỉ hơi hẹp hơn bao phấn một chút. Nhiều lá noãn mang 1 noãn. Quả kép dạng quả mọng màu xanh lục, nhạt, gồm nhiều múi, mỗi múi là một phân quả. Thịt quả trắng mềm, ngọt và thơm. Mùa quả từ tháng 8-11 ( Hình 487).
+Na là một thứ cây nhỡ cao 2-6m. Thân tròn, vỏ nháp, mang nhiều cành. Lá mọc so le, hình bầu dục dài 7-10cm, rộng 3-4cm. Hoa đơn độc nở vào tháng 3-4, cánh hoa màu mỡ gà, thường mọc đối diện với lá. Nhị nhiều, chỉ nhị rộng, chỉ hơi hẹp hơn bao phấn một chút. Nhiều lá noãn mang 1 noãn. Quả kép dạng quả mọng màu xanh lục, nhạt, gồm nhiều múi, mỗi múi là một phân quả. Thịt quả trắng mềm, ngọt và thơm. Mùa quả từ tháng 8-11 (Hình 487).
 
 []
 
@@ -85,7 +85,7 @@ Trong lá có một ancaloit vô định hình, không có glucozit.
 
 Trong hạt có chứa chừng 39,5-42% dầu, trong đó các axit béo là những axit myristic, panmitic, stearic, arachidic, hexadecanoic, và oleic.
 
-Trong hạt na có một ancaloit vô định hình gọi là anonain C₁₇H₁₅O₂N độ chảy 122-123^(o)C α^(20o)_(D) =-52^(o) (CHCl₃). Chất độc trong hạt na đã được xác định (Proced. 39 th Indian Sci. Congr., Part III, ( abstr.), 1952, trang 105).
+Trong hạt na có một ancaloit vô định hình gọi là anonain C₁₇H₁₅O₂N độ chảy 122-123^(o)C α^(20o)_(D) =-52^(o) (CHCl₃). Chất độc trong hạt na đã được xác định (Proced. 39 th Indian Sci. Congr., Part III, (abstr.), 1952, trang 105).
 
 Năm 1947, Harper S. H., C. Potter và E. M. Gillham (1947, Ann. appl. Biol., G. Br., 34: 104) đã chiết được từ hạt và rễ na những chất độc và cho rằng đó là các glyxerit và các axit có phân tử lớn. Các tác giả cũng đã nghiên cứu độ độc của những chất đó trên nhiều loài sâu bọ khác nhau.
 
@@ -119,7 +119,7 @@ Vì cây trông xấu xí, sần sùi, sắc sạm như da trâu (ngưu là trâ
 
 #### A. Mô tả cây
 
-Ngưu bàng là một cây sống hằng năm hay hai năm, cao chừng 1m đến 1,5m. Phía trên phân nhiều cành. Lá mọc thành hoa thị ở gốc và mọc so le ở trên thân. Lá to rộng, hình tim, đường kính tới 40-50cm, cuống lá dài, mặt dưới lá mang nhiều lông trắng. Cụm hoa hình đầu, mọc ở đầu cành, đường kính 2-4cm. Cánh hoa màu hơi tím. Quả bế, màu xám nâu, hơi cong. Mùa hoa tháng 6-7, mùa quả tháng 7-8 ( Hình 488, Hm 55,4 ).
+Ngưu bàng là một cây sống hằng năm hay hai năm, cao chừng 1m đến 1,5m. Phía trên phân nhiều cành. Lá mọc thành hoa thị ở gốc và mọc so le ở trên thân. Lá to rộng, hình tim, đường kính tới 40-50cm, cuống lá dài, mặt dưới lá mang nhiều lông trắng. Cụm hoa hình đầu, mọc ở đầu cành, đường kính 2-4cm. Cánh hoa màu hơi tím. Quả bế, màu xám nâu, hơi cong. Mùa hoa tháng 6-7, mùa quả tháng 7-8 (Hình 488, Hm 55,4).
 
 []
 
@@ -205,7 +205,7 @@ Hai cây trên được sử dụng phổ biến ở Việt Nam, nhưng ít đư
 
 #### A. Mô tả cây
 
-1. Cây nhân trần Việt Nam-còn có tên nhân trần cái (ở miền Bắc) để phân biệt với cây nhân trần đực (tức bồ bồ)-tên khoa học Adenosma caeruleum R. Br. Cây này thường được nhân dân vùng Vĩnh Phúc, Phú Thọ, Bắc Giang, Bắc Ninh gọi là Nhân trần nhưng nhân dân Nghệ An, Hà Tĩnh gọi nhầm là hoắc hương núi. Đây là một loại cỏ mọc hoang, sống hằng năm cao 0,3-1m, thân tròn, màu tím trên có lông trắng mịn, ít phân cành. Lá mọc đối hình trứng, đầu lá dài và nhọn, mép có răng cưa to, mặt trên và mặt dưới đều nhiều lông mịn, phiến là dài 3-8cm, rộng 1- 3,5cm, gân nổi rõ ở mặt dưới, cuống 5-10mm. Toàn thân và lá vò có mùi thơm. Hoa mọc đơn độc ở kẽ lá hay thành chùm bông ở đầu cành. Đài hình chuông xẻ thành 5 thuỳ sâu. Tràng màu tím xanh dài 10-14mm, môi trên hình lưỡi, môi dưới xẻ thành 5 thuỳ đều nhau. Quả nang hình trứng, dài bằng đài, nhiều hạt nhỏ ( Hình 489).
+1. Cây nhân trần Việt Nam-còn có tên nhân trần cái (ở miền Bắc) để phân biệt với cây nhân trần đực (tức bồ bồ)-tên khoa học Adenosma caeruleum R. Br. Cây này thường được nhân dân vùng Vĩnh Phúc, Phú Thọ, Bắc Giang, Bắc Ninh gọi là Nhân trần nhưng nhân dân Nghệ An, Hà Tĩnh gọi nhầm là hoắc hương núi. Đây là một loại cỏ mọc hoang, sống hằng năm cao 0,3-1m, thân tròn, màu tím trên có lông trắng mịn, ít phân cành. Lá mọc đối hình trứng, đầu lá dài và nhọn, mép có răng cưa to, mặt trên và mặt dưới đều nhiều lông mịn, phiến là dài 3-8cm, rộng 1- 3,5cm, gân nổi rõ ở mặt dưới, cuống 5-10mm. Toàn thân và lá vò có mùi thơm. Hoa mọc đơn độc ở kẽ lá hay thành chùm bông ở đầu cành. Đài hình chuông xẻ thành 5 thuỳ sâu. Tràng màu tím xanh dài 10-14mm, môi trên hình lưỡi, môi dưới xẻ thành 5 thuỳ đều nhau. Quả nang hình trứng, dài bằng đài, nhiều hạt nhỏ (Hình 489).
 
 []
 
@@ -261,7 +261,7 @@ Về tác dụng thông mật của hai vị nhân trần và bồ bồ Việt N
 
 Bồ bồ làm tăng tiết mật rõ rệt ở cả 3 lô thí nghiêm (cao cồn 40°, cao nước và tinh dầu). Tác dụng mạnh nhất ở cao cồn. Còn tác dụng tăng thải độc của gan chỉ có ở cao cồn và tinh dầu mà thôi.
 
-Bồ bồ có tác dụng chống viêm trên cả 3 mô hình thực nghiệm ( phù caolin, u hạt, teo tuyến ức) nhưng tác dụng này chủ yếu do những thành phần tan trong cồn 40° và tan trong nước, còn tinh dầu tác dụng không rõ.
+Bồ bồ có tác dụng chống viêm trên cả 3 mô hình thực nghiệm (phù caolin, u hạt, teo tuyến ức) nhưng tác dụng này chủ yếu do những thành phần tan trong cồn 40° và tan trong nước, còn tinh dầu tác dụng không rõ.
 
 Bồ bồ có tác dụng kháng khuẩn trên nhiều loại vi khuẩn mạnh nhất là trên 2 chủng trực khuẩn lỵ (Sh. dysenteriae 111 và Sh. Shigae 39) và 2 chủng cầu khuẩn (Staphylococcus aureus 209P và Streptococcus hemolyticus S84). Tác dụng kháng khuẩn mạnh nhất ở cao cồn và cao nước, yếu ở tinh dầu.
 
@@ -337,7 +337,7 @@ Ngoài vị qua lâu nhân, cây qua lâu hay thao ca còn cho các vị thuốc
 
 #### A. Mô tả cây
 
-Cây qua lâu hay thao ca (tên cây ở tỉnh Cao Bằng) là một loại dây leo. Lá mọc so le, phiến lá xẻ thành nhiều thuỳ trông như lá cây bí ngô. Hoa đơn tính, màu trắng. Quả to bằng quả dưa gang, dài 8-10cm, đường kính 5-7cm, da quả màu xanh, có vằn trắng dọc theo quả. Khi chín, vỏ có màu đỏ, bổ lấy hạt, phơi khô. Trong một quả có rất nhiều hạt, hình trứng dẹt, dài 1,2- 1,5cm, rộng 6-10cm dày ước 4mm, mặt ngoài màu nâu nhạt, ở đầu nhọn có một tễ là một vết lõm trắng. Quanh mép có dìa chừng 1mm. Nhìn qua kính lúp, mặt hạt có vết răn. Bóc vỏ cứng ở ngoài sẽ thấy lớp vỏ mỏng màu xanh. Vị nhạt không mùi ( Hình 491, Hm 40,3 ).
+Cây qua lâu hay thao ca (tên cây ở tỉnh Cao Bằng) là một loại dây leo. Lá mọc so le, phiến lá xẻ thành nhiều thuỳ trông như lá cây bí ngô. Hoa đơn tính, màu trắng. Quả to bằng quả dưa gang, dài 8-10cm, đường kính 5-7cm, da quả màu xanh, có vằn trắng dọc theo quả. Khi chín, vỏ có màu đỏ, bổ lấy hạt, phơi khô. Trong một quả có rất nhiều hạt, hình trứng dẹt, dài 1,2- 1,5cm, rộng 6-10cm dày ước 4mm, mặt ngoài màu nâu nhạt, ở đầu nhọn có một tễ là một vết lõm trắng. Quanh mép có dìa chừng 1mm. Nhìn qua kính lúp, mặt hạt có vết răn. Bóc vỏ cứng ở ngoài sẽ thấy lớp vỏ mỏng màu xanh. Vị nhạt không mùi (Hình 491, Hm 40,3).
 
 []
 
@@ -405,7 +405,7 @@ Thuộc họ Hoa tán Apiaceae (Umbelliferae).
 
 #### A. Mô tả cây
 
-Rau má là một loại cỏ mọc bò, có rễ ở các mấu, thân gầy, nhẵn. Lá hình mắt chim, khía tai bèo, rộng 2-4cm, cuống dài 2-4cm trong những nhánh mang hoa và dài 10-12cm trong những nhánh thường. Cụm hoa đơn mọc ở kẽ lá, gồm 1 đến 5 hoa nhỏ. Quả dẹt rộng 3-5mm, có sống hơi rõ ( Hình 492, Hm 17,2).
+Rau má là một loại cỏ mọc bò, có rễ ở các mấu, thân gầy, nhẵn. Lá hình mắt chim, khía tai bèo, rộng 2-4cm, cuống dài 2-4cm trong những nhánh mang hoa và dài 10-12cm trong những nhánh thường. Cụm hoa đơn mọc ở kẽ lá, gồm 1 đến 5 hoa nhỏ. Quả dẹt rộng 3-5mm, có sống hơi rõ (Hình 492, Hm 17,2).
 
 []
 
@@ -497,7 +497,7 @@ Sài là củi. Cây non thì ăn, già thì làm củi do đó có tên này.
 
 #### A. Mô tả cây
 
-Sài hồ là một cây sống lâu năm, cao 45-70cm, rễ nhỏ, hình trụ, phân nhánh hoặc không phân nhánh. Thân mọc thẳng, phân cành hình chữ chi. Lá mọc cách, mép nguyên, hình mác, dài 3-6cm, rộng 6-13mm, đầu lá nhọn, có 7-9 đường gân song song. Lá phía dưới có cuống ngắn, phía trên không có cuống. Cụm hoa hình tán kép, mọc ở kẽ lá hoặc đầu cành. Trục cụm hoa chung, nhỏ và dài, có từ 4-10 cụm hoa phụ không dài bằng nhau. Hoa nhỏ màu vàng. Quả hình bầu dục, dài độ 5mm, nhưng góc quả rất rõ, 3 ống tinh dầu nằm ở mặt tiếp giáp ( Hình 492 ).
+Sài hồ là một cây sống lâu năm, cao 45-70cm, rễ nhỏ, hình trụ, phân nhánh hoặc không phân nhánh. Thân mọc thẳng, phân cành hình chữ chi. Lá mọc cách, mép nguyên, hình mác, dài 3-6cm, rộng 6-13mm, đầu lá nhọn, có 7-9 đường gân song song. Lá phía dưới có cuống ngắn, phía trên không có cuống. Cụm hoa hình tán kép, mọc ở kẽ lá hoặc đầu cành. Trục cụm hoa chung, nhỏ và dài, có từ 4-10 cụm hoa phụ không dài bằng nhau. Hoa nhỏ màu vàng. Quả hình bầu dục, dài độ 5mm, nhưng góc quả rất rõ, 3 ống tinh dầu nằm ở mặt tiếp giáp (Hình 492).
 
 []
 
@@ -557,7 +557,7 @@ Tại Trung Quốc, người ta dùng các vị sau đây với tên sài hồ.
 
 2. Ngân sài hồ là rễ phơi khô của cây ngân sài hồ Stellaria dichotoma L. var. lanceolata Bunge (Stellaria dichotoma L. var. heterophyila Fenzl.) thuộc họ cẩm chướng Caryophyllaceae.
 
-Tại Việt Nam không rõ nguyên nhân từ đâu, người ta dùng rễ phơi khô của cây gần giống cây cúc tần, Pluchea pteropoda Hemsl. thuộc họ Cúc Asteraceae (Compositae). Có người lại dùng rễ cây cúc tần Pluchea indica Less. cùng họ làm vị sài hồ ( Hình 494).
+Tại Việt Nam không rõ nguyên nhân từ đâu, người ta dùng rễ phơi khô của cây gần giống cây cúc tần, Pluchea pteropoda Hemsl. thuộc họ Cúc Asteraceae (Compositae). Có người lại dùng rễ cây cúc tần Pluchea indica Less. cùng họ làm vị sài hồ (Hình 494).
 
 []
 
@@ -585,7 +585,7 @@ Cát căn (Radix Puerariae) là rễ phơi hay sấy khô của cây sắn dây.
 
 #### A. Mô tả cây
 
-Sắn dây là một loại dây leo, có thể dài tới 10m, rễ phát triển to lên thành củ, nhiều bột. Thân cây hơi có lông. Lá kép gồm 3 lá chét; lá chét hình trứng, bản thân lá chét lại chia thành 2-3 thuỳ rõ rệt phiến lá chét dài 7-15cm, rộng 5- 12cm có lông nằm rạp trên 2 mặt lá, cuống lá chét giữa dài, cuống 2 lá chét hai bên ngắn hơn. Hoa màu xanh, mọc thành chùm ở kẽ lá. Quả giáp dài 9-10cm, rộng 10mm, màu vàng nhạt, rất nhiều lông ( Hình 495, Hm 24,3).
+Sắn dây là một loại dây leo, có thể dài tới 10m, rễ phát triển to lên thành củ, nhiều bột. Thân cây hơi có lông. Lá kép gồm 3 lá chét; lá chét hình trứng, bản thân lá chét lại chia thành 2-3 thuỳ rõ rệt phiến lá chét dài 7-15cm, rộng 5- 12cm có lông nằm rạp trên 2 mặt lá, cuống lá chét giữa dài, cuống 2 lá chét hai bên ngắn hơn. Hoa màu xanh, mọc thành chùm ở kẽ lá. Quả giáp dài 9-10cm, rộng 10mm, màu vàng nhạt, rất nhiều lông (Hình 495, Hm 24,3).
 
 []
 
@@ -677,7 +677,7 @@ Tề thái (Herba Capseliae) hoặc (Herba Bursae pastoris) là toàn cây tề 
 
 #### A. Mô tả cây
 
-Cây mọc hằng năm hay 2 năm. Thân gầy nhỏ, màu xanh lục nhạt có lông mịn, phân nhánh hoặc không phân nhánh. Cao từ 20-40cm. Lá phía gốc mọc sát mặt đất thành hoa thị, cuống ngắn hoặc không cuống; phiến lá xẻ thành nhiều răng cưa thô to, trên phiến lá có lông nhỏ. Lá phía trên không có cuống, ôm lấy thân cây, mép có răng cưa hoặc nguyên hay hơi cắt sâu. Hoa mọc thành chùm ngắn ở đầu cành hay kẽ lá. Hoa nhỏ màu trắng. Đầu xuân nở hoa, 4 cánh, 4 lá đài xếp thành hình chữ thập. Nhị 4. Bầu thượng, 2 ngăn. Quả hình tim ngược dẹt giống cái túi của người chăn cừu bên châu Âu, do đó có tên Bursa là túi, pasoris có nghĩa là người chăn cừu ( Hình 496, Hm 12,2).
+Cây mọc hằng năm hay 2 năm. Thân gầy nhỏ, màu xanh lục nhạt có lông mịn, phân nhánh hoặc không phân nhánh. Cao từ 20-40cm. Lá phía gốc mọc sát mặt đất thành hoa thị, cuống ngắn hoặc không cuống; phiến lá xẻ thành nhiều răng cưa thô to, trên phiến lá có lông nhỏ. Lá phía trên không có cuống, ôm lấy thân cây, mép có răng cưa hoặc nguyên hay hơi cắt sâu. Hoa mọc thành chùm ngắn ở đầu cành hay kẽ lá. Hoa nhỏ màu trắng. Đầu xuân nở hoa, 4 cánh, 4 lá đài xếp thành hình chữ thập. Nhị 4. Bầu thượng, 2 ngăn. Quả hình tim ngược dẹt giống cái túi của người chăn cừu bên châu Âu, do đó có tên Bursa là túi, pasoris có nghĩa là người chăn cừu (Hình 496, Hm 12,2).
 
 []
 
@@ -749,7 +749,7 @@ Vị thuốc trên nhỏ dưới to, giống như cái hộc, mọc ở núi đ�
 
 1. Cây Thạch hộc hay hoàng thảo, hay huỳnh thảo-Dendrobium nobile Lindl. là một loài cây phụ sinh trên những cành cây thật cao, thân mọc thẳng đứng cao độ 0,3-0,6m, thân hơi dẹt, phía trên hơi dày hơn, có đốt dài 2,5-3cm, có vân dọc. Lá hình thuôn dài, phía cuống tù, gần như không cuống, ở đầu hơi cuộn hình món, dài 12cm, rộng 2-3cm trên có 5 gân dọc. Cụm hoa mọc thành thành chùm 2-4 hoa trên những cuống dài 2-3cm. Hoa rất đẹp, to, màu hồng hay điểm hồng. Cánh môi hình bầu dục nhọn, dài 4-5cm, rộng 3 cm cuộn thành hình phễu trong hoa, ở nơi họng hoa điểm màu tía.
 
-Loài này mọc hoang ở khắp các miền rừng núi các tỉnh miền Bắc, có khi được trồng để làm cảnh như là một loại phong lan vì dáng cây đẹp, hoa cũng rất đẹp ( Hình 497, Hm 38,3 ).
+Loài này mọc hoang ở khắp các miền rừng núi các tỉnh miền Bắc, có khi được trồng để làm cảnh như là một loại phong lan vì dáng cây đẹp, hoa cũng rất đẹp (Hình 497, Hm 38,3).
 
 []
 
@@ -873,7 +873,7 @@ Tên thanh hao còn dùng để chỉ một cây nữa (xem chú thích ở dư�
 
 #### A. Mô tả cây
 
-Thanh cao là một loại cỏ mọc hằng năm hay hai năm, cao chừng 0,3-1,5m, rất nhiều cành ngay từ giữa cây. Toàn thân có mùi thơm. Lá mọc so le, hai lần xẻ lông chim, phiến lá chét rất nhỏ, mép nguyên hoặc mỗi dìa có 1 -3 chỗ rách nhỏ. Cuống lá ngắn và hẹp. Cụm hoa hình đầu, đường kính 6mm, trông như một quả con. Xung quanh là hoa cái ở giữa là hoa lưỡng tính ( Hình 498).
+Thanh cao là một loại cỏ mọc hằng năm hay hai năm, cao chừng 0,3-1,5m, rất nhiều cành ngay từ giữa cây. Toàn thân có mùi thơm. Lá mọc so le, hai lần xẻ lông chim, phiến lá chét rất nhỏ, mép nguyên hoặc mỗi dìa có 1 -3 chỗ rách nhỏ. Cuống lá ngắn và hẹp. Cụm hoa hình đầu, đường kính 6mm, trông như một quả con. Xung quanh là hoa cái ở giữa là hoa lưỡng tính (Hình 498).
 
 []
 

@@ -22,7 +22,7 @@ Thuộc họ Bồ hòn Sapindaceae.
 
 #### A. Mô tả cây
 
-Cây cao to, có thể đạt tới 20-30m. Lá kép hình lông chim gồm 4-5 đôi lá chét gần đối nhau. Phiến lá chét nguyên nhẵn. Hoa mọc thành chuỳ ở đầu cành. Đài 5, tràng 5, nhị 8. Quả gồm ba quả hạch nhưng hai tiêu giảm đi, chỉ còn một hình tròn, vỏ quả màu vàng nâu nhạt, da nhăn nheo, trong chứa một hạt màu đen, hình cầu. Mùa quả: tháng 10-11 ( Hình 579).
+Cây cao to, có thể đạt tới 20-30m. Lá kép hình lông chim gồm 4-5 đôi lá chét gần đối nhau. Phiến lá chét nguyên nhẵn. Hoa mọc thành chuỳ ở đầu cành. Đài 5, tràng 5, nhị 8. Quả gồm ba quả hạch nhưng hai tiêu giảm đi, chỉ còn một hình tròn, vỏ quả màu vàng nâu nhạt, da nhăn nheo, trong chứa một hạt màu đen, hình cầu. Mùa quả: tháng 10-11 (Hình 579).
 
 []
 

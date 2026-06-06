@@ -21,7 +21,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 #### A. Mô tả cây
 
-Cây to, thân có gai. Lá hình tim hơi ba cạnh, mép có răng cưa, đầu nhọn, dài 20-30cm, rộng 15-20cm. Hoa đực mọc thành bông nhiều hoa, hoa cái mọc đơn độc. Quả nang, to cứng, gồm chừng 12-20 mảnh hình múi nổi tròn, cao 5cm, rộng 10cm. Khi chín thì bật vỡ rất mạnh, phóng hạt đi khá xa. Hạt hình mắt chim, trên phủ lớp lông, vỏ cứng của hạt bao quanh hạt thành một gờ chừng 1cm (Hình 360 ).
+Cây to, thân có gai. Lá hình tim hơi ba cạnh, mép có răng cưa, đầu nhọn, dài 20-30cm, rộng 15-20cm. Hoa đực mọc thành bông nhiều hoa, hoa cái mọc đơn độc. Quả nang, to cứng, gồm chừng 12-20 mảnh hình múi nổi tròn, cao 5cm, rộng 10cm. Khi chín thì bật vỡ rất mạnh, phóng hạt đi khá xa. Hạt hình mắt chim, trên phủ lớp lông, vỏ cứng của hạt bao quanh hạt thành một gờ chừng 1cm (Hình 360).
 
 #### B. Phân bố, thu hái và chế biến
 

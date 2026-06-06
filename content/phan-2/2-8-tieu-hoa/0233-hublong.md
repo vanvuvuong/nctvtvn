@@ -16,7 +16,7 @@ _Còn gọi là houblon, hương bia, hoa bìa. Tên khoa học Humuỉus lupulu
 
 #### A. Mô tả cây
 
-Đây là một loại dây mọc leo, sống dai, khác gốc, thân mọc cuốn, có lông cứng. Lá mọc đối, có cuống, gốc hình tim, có 3-5 thùy chân vịt, mép có răng cưa. Hoa màu lục nhạt. Hoa đực tập hợp thành chùy thưa, mọc ở kẽ lá, hoa cái họp thành nón, nhiều nón họp thành chùm ở đầu cành. Mỗi nón hình trứng gốm rất nhiều lá bẳc dạng lá, màu vàng nhạt và mỏng khi chín, cái nọ phủ lên cái kia. Ở nách mỗi nón có hai hoa cái, sau khi thụ phấn sẽ cho một quả bế nhỏ ( Hình 314 ).
+Đây là một loại dây mọc leo, sống dai, khác gốc, thân mọc cuốn, có lông cứng. Lá mọc đối, có cuống, gốc hình tim, có 3-5 thùy chân vịt, mép có răng cưa. Hoa màu lục nhạt. Hoa đực tập hợp thành chùy thưa, mọc ở kẽ lá, hoa cái họp thành nón, nhiều nón họp thành chùm ở đầu cành. Mỗi nón hình trứng gốm rất nhiều lá bẳc dạng lá, màu vàng nhạt và mỏng khi chín, cái nọ phủ lên cái kia. Ở nách mỗi nón có hai hoa cái, sau khi thụ phấn sẽ cho một quả bế nhỏ (Hình 314).
 
 B. Phản bố, thu hái và chế biến
 
@@ -50,5 +50,5 @@ Hoa nở vào tháng 7-8. Cây mọc hoang dại ỏ' khắp
 
 Hình 315. Sàn sạt - Hưmulus japonicus
 
-nơi. Trâu bò rất thích ăn. Hoa cái không thấy có lông tiết cho nên không thấy thơm và không dùng chế bia được. Lá sàn sạt có 0,05% luteolin-7D-glucozit C3)HMOn.l/2 H20; 0,015% cosmosiin C₂₁HJ₀Ol₀; 0,005% vitexin Q|H₂₀Ol₀. (Dược học tạp chí-Nhật, 1962, 82, 1331), ngoài ra còn ít tinh dầu, tanin. Hạt chứa 27,9% chất béo cTrung dược chi, 1961, 719, 1647). Nhàn dân dùng lá khô sắc uống chữa lỵ, sốt, khát nuớc. Có thể dùng lá tuơi. Ngày dùng 10-16g lá khô ( Hình 315 ).
+nơi. Trâu bò rất thích ăn. Hoa cái không thấy có lông tiết cho nên không thấy thơm và không dùng chế bia được. Lá sàn sạt có 0,05% luteolin-7D-glucozit C3)HMOn.l/2 H20; 0,015% cosmosiin C₂₁HJ₀Ol₀; 0,005% vitexin Q|H₂₀Ol₀. (Dược học tạp chí-Nhật, 1962, 82, 1331), ngoài ra còn ít tinh dầu, tanin. Hạt chứa 27,9% chất béo cTrung dược chi, 1961, 719, 1647). Nhàn dân dùng lá khô sắc uống chữa lỵ, sốt, khát nuớc. Có thể dùng lá tuơi. Ngày dùng 10-16g lá khô (Hình 315).
 

@@ -37,7 +37,7 @@ Loại cỏ cao chừng 50-60cm, thân mềm, có thân rê phát triển thành
 
 Hình 448. Mía dô - Costus speciosus
 
-dài và hơi nhọn, tràng hình phễu, phiến chia thành 3 phần đều, môi rất lón, màu hồng hay tráng, dài và rộng 4-8cm: Qi'ả nang dài 13mm, nhiều hạt nhẫn, màu đen, bóng, đài 3mm (Hình 448, Hm 15,2 ).
+dài và hơi nhọn, tràng hình phễu, phiến chia thành 3 phần đều, môi rất lón, màu hồng hay tráng, dài và rộng 4-8cm: Qi'ả nang dài 13mm, nhiều hạt nhẫn, màu đen, bóng, đài 3mm (Hình 448, Hm 15,2).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -3,6 +3,9 @@ title: "10. CÂY BÔNG 棉株"
 weight: 10
 navWeight: 991
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - điều kinh
+  - cầm máu tử cung
 keywords:
   - bệnh phụ nữ
   - cây bông
@@ -17,7 +20,7 @@ Tên khoa học _Gossypium sp_.
 
 Thuộc họ Bông _Malvaceae_.
 
-Ta dùng vỏ rễ cây bông (_Cortex Gossypii radicis_) là dư phẩm của kỹ nghệ trồng bông ( Hình 17 ). Sau khi hái cây bông ta đào rễ rửa sạch, bóc lấy vỏ phơi khô.
+Ta dùng vỏ rễ cây bông (_Cortex Gossypii radicis_) là dư phẩm của kỹ nghệ trồng bông (Hình 17). Sau khi hái cây bông ta đào rễ rửa sạch, bóc lấy vỏ phơi khô.
 
 Theo sự nghiên cứu ghi trong tài liệu của Liên Xô cũ trong vỏ rễ cây bông có chứa sinh tố K, chất gossypola C30H30O8một ít tinh dầu, một ít tanin.
 

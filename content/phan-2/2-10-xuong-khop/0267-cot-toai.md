@@ -39,7 +39,7 @@ hình trứng 5-8cm, rộng 3-6cm, phía cuống hình tim. có ihùy, gán nổ
 
 Ở Việt Nam có mấy loài cốt toái bổ đều được dùng làm thuốc như Drynaria ỷortunei J. Sm., Drynaria bonii Christ.
 
-Dìỵnaria ỷortuneĩ có lá xẻ răng cưa, bào tử xếp đều đặn, còn Drynaria bonìi có lá mép lượn sóng, bào tử xếp khõng đều ( Hình 376, Hm 18,1).
+Dìỵnaria ỷortuneĩ có lá xẻ răng cưa, bào tử xếp đều đặn, còn Drynaria bonìi có lá mép lượn sóng, bào tử xếp khõng đều (Hình 376, Hm 18,1).
 
 #### B. Phân bố, thu hái và cliế biến
 

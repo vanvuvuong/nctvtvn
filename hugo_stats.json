@@ -248,10 +248,12 @@
       "palette",
       "palette-dropdown-menu",
       "pb-0",
+      "pe-1",
       "position-fixed",
       "position-relative",
       "position-sticky",
       "post",
+      "post-benh",
       "post-comments",
       "post-content",
       "post-copyright",
@@ -269,6 +271,8 @@
       "post-section",
       "post-sections",
       "post-summary",
+      "post-taxonomy",
+      "post-taxonomy-sm",
       "post-title",
       "post-toc",
       "posts",
@@ -282,6 +286,7 @@
       "px-4",
       "px-xxl-1",
       "px-xxl-2",
+      "py-0",
       "py-1",
       "py-2",
       "py-3",
@@ -482,7 +487,7 @@
       "b-tác-dụng-dược-lý",
       "b-tên-các-vị-thuốc",
       "bthành-phần-hóa-học",
-      "bạch-thược",
+      "bạch-thược-白芍",
       "bồ-công-anh-trung-quốc",
       "bồ-công-anh-việt-nam",
       "c-công-dụng",
@@ -719,7 +724,7 @@
       "xv-các-cây-thuốc-và-vị-thuốc-bổ-phần-1",
       "xvi-các-cây-thuốc-và-vị-thuốc-bổ-và-vị-thuốc-động-vật-phần-2",
       "xystin-118--",
-      "xích-thược"
+      "xích-thược-赤芍"
     ]
   }
 }

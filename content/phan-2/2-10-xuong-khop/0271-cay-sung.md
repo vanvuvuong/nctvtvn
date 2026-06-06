@@ -52,7 +52,7 @@ Ta dùng nhựa cây sung làm thuốc.
 
 A. Mó tả cây
 
-Sung là một cày to, không có rễ phụ. Lá hình mũi giáo, đầu lá nhọn, phía cuống hơi tròn hơn. Khi lá còn non, cả hai mặt đểu phủ lông. Khi già, lá trông cứng, phiến lá nguyẽn hoặc hơi có ràng của thưa, dài 8- 20cm, rộng 4-8cm. Lá sung thường bị sàu Psyỉlidae ký sinh, gày ra những mụn nhỏ, người ta thường gọi là vú sung. Ọuả sung thuộc loại quả giả, đo đế hoa tự tạo thành. Quả giả mọc tùng nhóm trên thân cây và trên nhũng cành to khổng mang lá, khi chín có màu đỏ nâu, hình quả lê, dài 3cm, rộng 3-3,5011, mặt quả phủ lông mịn, cuống rất ngắn ( Hình 380 ).
+Sung là một cày to, không có rễ phụ. Lá hình mũi giáo, đầu lá nhọn, phía cuống hơi tròn hơn. Khi lá còn non, cả hai mặt đểu phủ lông. Khi già, lá trông cứng, phiến lá nguyẽn hoặc hơi có ràng của thưa, dài 8- 20cm, rộng 4-8cm. Lá sung thường bị sàu Psyỉlidae ký sinh, gày ra những mụn nhỏ, người ta thường gọi là vú sung. Ọuả sung thuộc loại quả giả, đo đế hoa tự tạo thành. Quả giả mọc tùng nhóm trên thân cây và trên nhũng cành to khổng mang lá, khi chín có màu đỏ nâu, hình quả lê, dài 3cm, rộng 3-3,5011, mặt quả phủ lông mịn, cuống rất ngắn (Hình 380).
 
 ##### TODO: thêm hình ảnh
 

@@ -22,7 +22,7 @@ Thuộc họ Nho Vitaceae.
 
 #### A. Mô tả cày
 
-Dây chìa vôi là một loại cây nhỏ, mọc leo, dài chừng 2 đến 4 mét, toàn thân nhẵn, có tua cuốn đơn, nhỏ hình sợi. Lá đơn, xẻ thùy chân vịt, phía cuống hình tim, dài và rộng từ 6 đến 8cm, những lá phía gốc hảu như nguyên, hình mác, lá phía trên chia 5 đến 7 thùy, dài gần bằng nhau, mép hơi có răng cưa. Hoa màu vàng nhạt, mọc thành ngù đối diện với lá, nhưng ngắn hơn, có cuống ( Hình 388 ).
+Dây chìa vôi là một loại cây nhỏ, mọc leo, dài chừng 2 đến 4 mét, toàn thân nhẵn, có tua cuốn đơn, nhỏ hình sợi. Lá đơn, xẻ thùy chân vịt, phía cuống hình tim, dài và rộng từ 6 đến 8cm, những lá phía gốc hảu như nguyên, hình mác, lá phía trên chia 5 đến 7 thùy, dài gần bằng nhau, mép hơi có răng cưa. Hoa màu vàng nhạt, mọc thành ngù đối diện với lá, nhưng ngắn hơn, có cuống (Hình 388).
 
 B. Phân bô, thu hái và chế biến
 

@@ -19,7 +19,7 @@ Tên khoa học _*Lentinus edodes (Berk.) Sing.; A. Mô tả cây Agaricus rhino
 
 Thuộc họ Nấm tán Polyporaceae hom (hoa thơm) hoặc lét lang (nấm thơm) gồm
 
-một chân đính vào giữa mũ (còn gọi là chụp hay tai nấm). Mặt trên mũ màu nâu, mặt dưới mũ có nhiều bản mỏng tỏa từ chân ra mép mũ mang những bào tầng phù trên mật ngoài các bản mỏng đó. Những bản mỏng này không nối vào nhau ( Hình 320).
+một chân đính vào giữa mũ (còn gọi là chụp hay tai nấm). Mặt trên mũ màu nâu, mặt dưới mũ có nhiều bản mỏng tỏa từ chân ra mép mũ mang những bào tầng phù trên mật ngoài các bản mỏng đó. Những bản mỏng này không nối vào nhau (Hình 320).
 
 B. Phàn bố, thu hái và chế biến
 

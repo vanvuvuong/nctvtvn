@@ -30,7 +30,7 @@ Thuộc họ Cánh bướm Fabaceae (Papìỉionaceae).
 
 Cây loại cỏ cao tới 1,30m. Cành mọc vươn đài. Lá chỉ gổm một lá chét, mặt trên nhẩn, mật dưới có lông. Cụm hoa thưa dài l2-30cm, gồm nhiều hoa nhỏ.
 
-Nhiều quả không cuống chia làm 7-8 đốt, mỗi đốt đựng mộí hạt, đốt có cạnh, một cạnh khum tròn, một cạnh thẳng. Khi ta đi qua quả dính vào quần do trên quả có những lông móc ( Hình 103).
+Nhiều quả không cuống chia làm 7-8 đốt, mỗi đốt đựng mộí hạt, đốt có cạnh, một cạnh khum tròn, một cạnh thẳng. Khi ta đi qua quả dính vào quần do trên quả có những lông móc (Hình 103).
 
 B. Phàn bố, thu hái và chế biến
 
@@ -70,7 +70,7 @@ Người ta dùng củ tươi hay phơi hoậc sấy khô của cây tỏi đò 
 
 Tỏi đò là một loại cỏ sống lâu nãm, cao từ 30- 60cm, dò (củ) hình ưứng dài 4-5cm, đường kính
 
-2- 3cm giống nhu củ hành nhưng dài hơn, ngoài phủ vảy màu đỏ nâu, phía trong màu nâu hồng đến đỏ nâu. Lá hình mác, gân lá song song, chạy dọc, trông giống như lá cau non, củ lại có tác dụng bổ cho nên có tên sâm cau (lá như lá cau, bổ như sâm); lá có thể dài 40-50cm, rộng 3-5cm, Từ củ mọc lên một cán mang hoa dài 30-40cm, ưên cán có một lá dài 15-25cm, hoa mọc thành chùm 3 lá đài, 3 cánh tràng màu tráng hay vàng nhạt, 3 nhị màu vàng. Bầu hình trứng, 3 cạnh 3 ngăn dài Imm, vòi dài 2,5mm, trên xẻ thành 3 trông như 3 mũi đùi. ( Hình 104, Hm 13,2 ).
+2- 3cm giống nhu củ hành nhưng dài hơn, ngoài phủ vảy màu đỏ nâu, phía trong màu nâu hồng đến đỏ nâu. Lá hình mác, gân lá song song, chạy dọc, trông giống như lá cau non, củ lại có tác dụng bổ cho nên có tên sâm cau (lá như lá cau, bổ như sâm); lá có thể dài 40-50cm, rộng 3-5cm, Từ củ mọc lên một cán mang hoa dài 30-40cm, ưên cán có một lá dài 15-25cm, hoa mọc thành chùm 3 lá đài, 3 cánh tràng màu tráng hay vàng nhạt, 3 nhị màu vàng. Bầu hình trứng, 3 cạnh 3 ngăn dài Imm, vòi dài 2,5mm, trên xẻ thành 3 trông như 3 mũi đùi. (Hình 104, Hm 13,2).
 
 B. Phàn bố, thu hái và chế biến
 

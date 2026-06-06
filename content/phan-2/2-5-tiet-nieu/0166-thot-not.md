@@ -33,7 +33,7 @@ Quả thốt nốt to, tròn như quả dừa, nhưng bên trong đậc, trong s
 
 Hình 204. Thốt nốt - Borassus flabellifer
 
-dẹt, đầu có một lỗ thủng ( Hình 204 ).
+dẹt, đầu có một lỗ thủng (Hình 204).
 
 6. Phân bố thu hái và chế biến
 

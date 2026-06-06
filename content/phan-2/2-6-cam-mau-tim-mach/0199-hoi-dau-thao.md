@@ -20,7 +20,7 @@ Thuộc họ Râu hùm Taccaceae.
 
 #### A. Mô tả cây
 
-Cây thuộc thảo, sống hằng năm, cao 0,50-0,80m, mọc thành từng bụi. Lá giống lá nghệ. Thân rễ phình to, dẻo, thịt màu vàng nâu, mùi thơm hăng như nghệ. ( Hình 242 )
+Cây thuộc thảo, sống hằng năm, cao 0,50-0,80m, mọc thành từng bụi. Lá giống lá nghệ. Thân rễ phình to, dẻo, thịt màu vàng nâu, mùi thơm hăng như nghệ. (Hình 242)
 
 #### B. Phân bố, thu hái và chế biến
 

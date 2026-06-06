@@ -21,7 +21,7 @@ Thuộc họ Dong riềng Cannaceae.
 
 Cây cao 1,2-1,5m. Thân rễ to thành củ, chứa nhiều tinh bột. Lá thuôn dài 0,5m, rộng 20-25cm, màu lục tím, gân giữa to, gân phụ song song. Hoa xếp thành cụm ở ngọn cây, lưỡng tính, không đều. Đài 3, tràng 3 dài. Nhị nhiều lép biến thành bản hình cánh, 1/1 nhị sinh sản, 1 cánh môi do nhị lép biến thành.
 
-Mùa ra hoa: Mùa thu. Quả nang mang nhiều gai mềm, chứa nhiều hạt hình cầu đen ( Hình 342 ).
+Mùa ra hoa: Mùa thu. Quả nang mang nhiều gai mềm, chứa nhiều hạt hình cầu đen (Hình 342).
 
 #### B. Phân bố, thu hái và chế biến
 

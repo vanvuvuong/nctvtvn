@@ -24,7 +24,7 @@ Ta dùng toàn cây hay chỉ dùng lá và ngọn non của nhiều loài dạ 
 
 #### A. Mô tả cây
 
-Cây dạ cẩm vốn có tên là loét mồm vì nhân dân vùng Lạng Sơn, Cao Bằng dùng nó chữa loét mồm, loét lưỡi, là một loại cây bụi-trườn, thường cuốn vào cây khác, dài tới 1-2m. Thân hình trụ, tại những đốt phình to ra. Lá đơn, nguyên, mọc đối, hình bầu dục, dầu nhọn, dài 5-15cm, rộng 3-6cm, cuống ngắn. Cụm hoa hình xim phân đôi tụ lại thành hình cầu ở đầu cành hay kẽ lá, gồm nhiều hoa hình ống nhỏ, màu trắng. Quả rất nhỏ, xếp thành hình cầu ( Hình 370 ) .
+Cây dạ cẩm vốn có tên là loét mồm vì nhân dân vùng Lạng Sơn, Cao Bằng dùng nó chữa loét mồm, loét lưỡi, là một loại cây bụi-trườn, thường cuốn vào cây khác, dài tới 1-2m. Thân hình trụ, tại những đốt phình to ra. Lá đơn, nguyên, mọc đối, hình bầu dục, dầu nhọn, dài 5-15cm, rộng 3-6cm, cuống ngắn. Cụm hoa hình xim phân đôi tụ lại thành hình cầu ở đầu cành hay kẽ lá, gồm nhiều hoa hình ống nhỏ, màu trắng. Quả rất nhỏ, xếp thành hình cầu (Hình 370) .
 
 Trên thực tế hiện nay người ta dùng 4 loại cây dạ cẩm, có thể là các dạng của loài mô tả trên: Cây dạ cẩm thân tím và cây dạ cẩm thân xanh (có khi gọi là thân trắng); mỗi loại lại thấy có 2 loại: loại nhiều lông nhìn rõ và loại ít lông trông không rõ. Loại thân tím có đốt cách thưa nhau, loại thân xanh hay trắng có đốt mọc sít nhau hơn.
 

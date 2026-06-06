@@ -3,6 +3,8 @@ title: "6. CÂY HỒNG HOA 紅花"
 weight: 6
 navWeight: 995
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - điều kinh
 keywords:
   - bệnh phụ nữ
   - cây hồng hoa
@@ -19,11 +21,11 @@ Tên khoa học _Carthamus tinctorius L_.
 
 Thuộc họ Cúc _Asteracea(Compositae_).
 
-Người ta thường dùng hồng hoa (_Flos Casthami_) là hoa phơi hay sấy khô của cây hồng hoa ( hoa màu hồng do đó có tên hồng hoa).
+Người ta thường dùng hồng hoa (_Flos Casthami_) là hoa phơi hay sấy khô của cây hồng hoa (hoa màu hồng do đó có tên hồng hoa).
 
 #### A. Mô tả cây
 
-Cây thuộc thảo, cao 0.60-1m hay hơn, không có lông, thân trắng có vạch dọc. Lá mọc so le không có cuống, mép có răng cưa nhọn. Cụm hoa gồm những đầu họp lại thành ngù. Hoa màu đỏ cam đẹp, lá bắc có gai. Quả bế có bốn cạnh lồi nhỏ dài 6-7mm, rộng 4-5mm ( Hình 12, Hm 6,2).
+Cây thuộc thảo, cao 0.60-1m hay hơn, không có lông, thân trắng có vạch dọc. Lá mọc so le không có cuống, mép có răng cưa nhọn. Cụm hoa gồm những đầu họp lại thành ngù. Hoa màu đỏ cam đẹp, lá bắc có gai. Quả bế có bốn cạnh lồi nhỏ dài 6-7mm, rộng 4-5mm (Hình 12, Hm 6,2).
 
 ![hong-hoa](/images/12-hong-hoa.png)
 

@@ -31,7 +31,7 @@ Thuộc họ Cúc Asteraceae.
 ##### A. Mô tả cây
 
 Bồ công anh là một cây nhỏ, cao 0,60m đến 1m, có thể cao tới 3m. Thân mọc thẳng, nhẵn, không cành hoặc rất ít cành. Lá có nhiều hình dạng; lá phía dưới dài 30cm, rộng 5-6cm, gần như không cuống, chia thành nhiều thùy hay răng cưa to thô, lá phía trên ngắn hơn, nguyên chứ không chia thùy, mép có răng cưa thưa. Bấm lá và thân đều thấy tiết ra nhũ dịch màu trắng đục như sữa, vị hơi đấng. Cụm hoa hình đầu, màu vàng, có loại tím.
-Có người gọi cây hoa vàng là hoàng hoa địa đinh và loại hoa tím là tử hoa địa đinh (tử là màu tím). Cả hai loại đều được dùng làm thuốc (Hình 35,Hm 4,1 ).
+Có người gọi cây hoa vàng là hoàng hoa địa đinh và loại hoa tím là tử hoa địa đinh (tử là màu tím). Cả hai loại đều được dùng làm thuốc (Hình 35,Hm 4,1).
 
 ##### B. Phân bố, thu hái và chế biến
 
@@ -70,7 +70,7 @@ Tại các nước Châu Âu, người ta dùng rễ Ra- dix Taraxaci hay Taraxa
 
 ##### A. Mô tả cây
 
-Cỏ sống dai, có rễ trụ. Lá mọc thành hoa thị ở gốc, phiến lá cắt thành nhiều thùy nhỏ như răng nhọn, mềm trông giống như hàm răng sư tử do đó có tên dens leonis (có nghĩa là răng con sư tử), từ giữa vòng lá mọc lên cuống cụm hoa màu vàng, khi già ra quả có lông màu trắng xếp thành hình cầu. Căn cứ vào màu sắc hoa, dáng lá, hình quả người ta chia ra nhiều loại khác nhau ( Hình 36, Hm 4,2 ).
+Cỏ sống dai, có rễ trụ. Lá mọc thành hoa thị ở gốc, phiến lá cắt thành nhiều thùy nhỏ như răng nhọn, mềm trông giống như hàm răng sư tử do đó có tên dens leonis (có nghĩa là răng con sư tử), từ giữa vòng lá mọc lên cuống cụm hoa màu vàng, khi già ra quả có lông màu trắng xếp thành hình cầu. Căn cứ vào màu sắc hoa, dáng lá, hình quả người ta chia ra nhiều loại khác nhau (Hình 36, Hm 4,2).
 
 ##### B. Phân bố, thu hái và chế biến
 

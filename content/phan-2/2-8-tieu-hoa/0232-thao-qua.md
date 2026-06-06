@@ -75,7 +75,7 @@ Thuộc họ Thị Ebenaceae.
 
 #### A. Mô tả cáy
 
-Thị là một cây gỗ, cao tới 5-6m. Lá mọc so le, phiến lá hình trứng thuôn, dài 5-8cm, rộng 2-4cm, đai, cuống dài 6-9mm, có phủ lông. Hoa đa tính, họp thành xim, màu trắng. Đài hợp ở gốc 4 răng, cả hai mặt đều có lông. Tràng hợp, 4 ràng, nhị 8-14. Nhụy có 2 vòi. Quả tròn hơi dẹp, đường kính 3-5cm, có 6-8 ngãn, khi .chín màu vàng, mang đài tồn tại. Hạt cứng, dẹt, dài 3cm, phôi sừng. Mùi thơm hay khó chịu tùy theo người thích hay khòng thích ( Hình 312 ).
+Thị là một cây gỗ, cao tới 5-6m. Lá mọc so le, phiến lá hình trứng thuôn, dài 5-8cm, rộng 2-4cm, đai, cuống dài 6-9mm, có phủ lông. Hoa đa tính, họp thành xim, màu trắng. Đài hợp ở gốc 4 răng, cả hai mặt đều có lông. Tràng hợp, 4 ràng, nhị 8-14. Nhụy có 2 vòi. Quả tròn hơi dẹp, đường kính 3-5cm, có 6-8 ngãn, khi .chín màu vàng, mang đài tồn tại. Hạt cứng, dẹt, dài 3cm, phôi sừng. Mùi thơm hay khó chịu tùy theo người thích hay khòng thích (Hình 312).
 
 B. Phán bố, thu hái và chế biến
 
@@ -141,7 +141,7 @@ Thuộc họ Thanh thất Simaroubaceae.
 
 #### A. Mô tả cày
 
-Cây nhỏ có cành. Lá kép lông chim lẻ gồm 10 đến 36 đôi lá chét, hầu như không có cuống, hình trứng dài, dày, nhẵn hoặc có lông ở mặt dưới. Hoa và bao hoa phủ đầy lông. Quả hạch màu đỏ, nhẵn, hơi thuổn dài, đầu tù và cong, mặc ưong có lông thưa và ngắn. Một hạt, trên mặt hạt có nhiều lông ngắn ( Hình 313 ).
+Cây nhỏ có cành. Lá kép lông chim lẻ gồm 10 đến 36 đôi lá chét, hầu như không có cuống, hình trứng dài, dày, nhẵn hoặc có lông ở mặt dưới. Hoa và bao hoa phủ đầy lông. Quả hạch màu đỏ, nhẵn, hơi thuổn dài, đầu tù và cong, mặc ưong có lông thưa và ngắn. Một hạt, trên mặt hạt có nhiều lông ngắn (Hình 313).
 
 B. Phản bo, thu hái và chế biến
 

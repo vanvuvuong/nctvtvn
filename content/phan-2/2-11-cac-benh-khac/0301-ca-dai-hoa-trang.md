@@ -19,7 +19,7 @@ Thuộc họ Cà Solanaceae.
 
 A. Mò tả cây
 
-Cây nhỏ, cao 2-3m, thân ít gai, trên phủ nhiều lông hình sao mang nhiều cành mềm, có lông. Lá mọc so le, hình trứng, không đểu và lệch ở phía dưới, phiến lá dài 8-20cm, rộng 6-18cm, chia thùy nông, cuống lá dài 1,5-10cm. Hoa tráng, mặt ngoài có lông, mọc thành chùm nhiều nhánh ở kẽ lá. Quả hình cầu, đường kính 12- 15mm, nhẵn khi chín có màu vàng. Hạt hình íĩĩa, có những đường nhăn nhỏ, đường kính 1,5- 2mm. Mùa hoa quả: tháng 4-7 ( Hình 422).
+Cây nhỏ, cao 2-3m, thân ít gai, trên phủ nhiều lông hình sao mang nhiều cành mềm, có lông. Lá mọc so le, hình trứng, không đểu và lệch ở phía dưới, phiến lá dài 8-20cm, rộng 6-18cm, chia thùy nông, cuống lá dài 1,5-10cm. Hoa tráng, mặt ngoài có lông, mọc thành chùm nhiều nhánh ở kẽ lá. Quả hình cầu, đường kính 12- 15mm, nhẵn khi chín có màu vàng. Hạt hình íĩĩa, có những đường nhăn nhỏ, đường kính 1,5- 2mm. Mùa hoa quả: tháng 4-7 (Hình 422).
 
 #### B. Phân bố, thu hái và chè biến
 
@@ -63,7 +63,7 @@ A. Mỏ tả cằy
 
 Tơ mành là một loại cây mọc thành bụi có cành vươn dài, dựa vào cây khác, có lông mịn. Lá mọc đối, hình thuôn dài, phiến lá dài 9-10cm, rộng 2,5-5cm, hai mạt đều có lông, gốc gân
 
-hình mũi giáo. Đài hình chuông, có hai môi. Tràng hình ống có 4 thùy không đều. Quả hình cầu, màu đỏ nằm trong lá đài, mang hai hạch cứng, xù xì ( Hình 423).
+hình mũi giáo. Đài hình chuông, có hai môi. Tràng hình ống có 4 thùy không đều. Quả hình cầu, màu đỏ nằm trong lá đài, mang hai hạch cứng, xù xì (Hình 423).
 
 #### B. Phân bố, thu háỉ và chế biến
 
@@ -89,7 +89,7 @@ Cây này không có tác dụng chữa viêm xoang mũi như cây cứt lợn A
 
 mmm
 
-chính có hai hạch, cuống lá dài 5-6mm. Hoa trắng, mọc thành chùm ò kẽ lá. Quả có ba cánh nhẵn hơi có lông. Thân và lá khi bẻ ra có những sợi mành như chỉ (do đó có tên tơ mành hay dây chỉ, hay mạng nhện) ( Hình 424).
+chính có hai hạch, cuống lá dài 5-6mm. Hoa trắng, mọc thành chùm ò kẽ lá. Quả có ba cánh nhẵn hơi có lông. Thân và lá khi bẻ ra có những sợi mành như chỉ (do đó có tên tơ mành hay dây chỉ, hay mạng nhện) (Hình 424).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -117,7 +117,7 @@ Thuộc họ Hoàng liên gai Berberidaceae.
 
 #### A. Mô tả cây
 
-Cỏ nhỏ sống lâu nãm do thân rễ. Cao 30- 50cm. Rể phát triển thành củ mẫm, màu trắng, trong chứa nhiều tinh bột, trên mặt đất có một thân một lá, rất hãn hữu mới thấy trên một thấn có hai lá. Lá hình 4 đến 9 cạnh nhưng phổ biến là 6 đến 8 cạnh, đường kính 12-25CIĨ1, mép có răng cưa nhỏ, khi non có vân, mạch chính 6 đến 8 hoặc 9 tùy theo số góc của phiến lá, cuống lá dài 13-18cm. Hoa mọc đơn độc hay từng 4-12 hoa trên một cuống ngắn 3-4cm, 5 lá đài, 5 tràng màu đỏ, 6 nhị. Quả mọng, hình trứng, đường kính 12mm, màu đen, trong chứa nhiều hạt. Mùa hoa quả: tháng 3-5. ( Hình 425).
+Cỏ nhỏ sống lâu nãm do thân rễ. Cao 30- 50cm. Rể phát triển thành củ mẫm, màu trắng, trong chứa nhiều tinh bột, trên mặt đất có một thân một lá, rất hãn hữu mới thấy trên một thấn có hai lá. Lá hình 4 đến 9 cạnh nhưng phổ biến là 6 đến 8 cạnh, đường kính 12-25CIĨ1, mép có răng cưa nhỏ, khi non có vân, mạch chính 6 đến 8 hoặc 9 tùy theo số góc của phiến lá, cuống lá dài 13-18cm. Hoa mọc đơn độc hay từng 4-12 hoa trên một cuống ngắn 3-4cm, 5 lá đài, 5 tràng màu đỏ, 6 nhị. Quả mọng, hình trứng, đường kính 12mm, màu đen, trong chứa nhiều hạt. Mùa hoa quả: tháng 3-5. (Hình 425).
 
 #### B. Phân bố, thu hái và chế biến
 

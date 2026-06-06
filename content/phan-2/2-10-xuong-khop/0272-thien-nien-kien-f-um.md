@@ -35,7 +35,7 @@ Thiên niên kiện là một cây sống lâu năm, có thân rễ mập, màu 
 
 Hình 381. Thiên niên kiện - Homaỉomena aromatica ỉ. Cành mang hoa và lá; 2 Cụm hoa; 3. Mầu thân
 
-44,13 ).
+44,13).
 
 #### B. Phân bố, thu háỉ và chế biến
 
@@ -91,7 +91,7 @@ Thổ phục linh (Rhizoma Smiỉaàs) là thân rễ phơi hay sấy phò của
 
 #### A. Mô tả cây
 
-Thổ phục linh hay cây khúc khắc (Smiỉax gla- bra) là một loại cây sông lâu năm, dài 4-5m, có nhiều cành nhỏ, gầy, không gai, thường có tua cuốn dài. Lá hình trái xoan thuôn, phía dưới tròn, dài 5- 13cm, rộng 3-7cm, chác cứng, hơi mỏng, có 3 gân nhỏ từ gốc và nhiểu gân con. Hoa mọc thành tấn chừng 20-30 hoa. Cuống chung chỉ ngắn chừng 2mm, cuông riêng dài hơn, chừng lOmm hay hơn. Quả mọng, hình cẩu, đường kính 6-7mm, hơi 3 cạnh, có 3 hal. ( Hình 382, Hm25,2 ).
+Thổ phục linh hay cây khúc khắc (Smiỉax gla- bra) là một loại cây sông lâu năm, dài 4-5m, có nhiều cành nhỏ, gầy, không gai, thường có tua cuốn dài. Lá hình trái xoan thuôn, phía dưới tròn, dài 5- 13cm, rộng 3-7cm, chác cứng, hơi mỏng, có 3 gân nhỏ từ gốc và nhiểu gân con. Hoa mọc thành tấn chừng 20-30 hoa. Cuống chung chỉ ngắn chừng 2mm, cuông riêng dài hơn, chừng lOmm hay hơn. Quả mọng, hình cẩu, đường kính 6-7mm, hơi 3 cạnh, có 3 hal. (Hình 382, Hm25,2).
 
 B. Phân bó, thu hái và chê biên
 

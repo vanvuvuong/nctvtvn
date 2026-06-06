@@ -32,7 +32,7 @@ Cây tràm cho ta những vị thuốc sau đây:
 
 Tràm là một cây nếu để phát triển tự nhiên có thể cao tới 4-5m, nhưng đều bị cắt xén thường xuyên chỉ còn là những cây bụi chừng 40-50cm. Trên thân cây to lớp vỏ bong ra thành từng mảng to dài. Lá mọc so le, cuống màu xanh vàng nhạt, phiến lá hình mác, trên có những gân chạy dọc theo gân chính, lúc đầu mỏng và mềm, về sau thành dày, cứng và dòn; thường dài 4-8cm, rộng 10-20mm. Vì lá thường được nhân dân một số vùng (Vĩnh Phúc, Phú Thọ) nấu uống thay chè lại mọc hoang ngoài đồng cho nên có tên chè đồng, vị nước uống hơi cay cho nên còn có tên chè cay. Hoa nhỏ màu trắng vàng nhạt, không cuống, mọc thành bông ở đầu cành, nhưng sau từ đầu bông hoa, cành lại mọc dài thêm và mang lá thành ra bông hoa nằm giữa cành lá trông rất đặc biệt. Quả nang rất cứng, 3 ngăn, hình tròn, dường kính 13mm, cụt ở đỉnh, đài cứng tồn tại ôm sâu vào quả. Hạt hình trứng, dài chừng 1mm.
 
-Tên cajeput do chữ Malaixia của tên cây cajuputi hay kaiputi có nghĩa là gỗ trắng vì cây này có màu nhạt trông xa như một rừng màu trắng ( Hình 570).
+Tên cajeput do chữ Malaixia của tên cây cajuputi hay kaiputi có nghĩa là gỗ trắng vì cây này có màu nhạt trông xa như một rừng màu trắng (Hình 570).
 
 []
 
@@ -52,7 +52,7 @@ Trong kháng chiến chống Pháp (1946-1954) những cây tràm vùng Bắc C�
 
 Ngoài nước ta ra, tràm còn thấy mọc hoang ở Cămpuchia, Inđônêxya, Philipin, Malaixia.
 
-Tại Tân Đảo, có mọc một loài tràm (Melaleuca viridiflora Gaertn. ) cùng họ Sim, được khai thác cất tinh dầu mang tên tinh dầu niaouli, hoặc gomenol (do chữ Gomen là một tên một làng ở Tân Đảo gần thủ đô Numea, gần đó người ta tổ chức cất tinh dâu lần đầu tiên ở đây và chữ ol là tinh dầu).
+Tại Tân Đảo, có mọc một loài tràm (Melaleuca viridiflora Gaertn.) cùng họ Sim, được khai thác cất tinh dầu mang tên tinh dầu niaouli, hoặc gomenol (do chữ Gomen là một tên một làng ở Tân Đảo gần thủ đô Numea, gần đó người ta tổ chức cất tinh dâu lần đầu tiên ở đây và chữ ol là tinh dầu).
 
 #### C. Thành phần hoá học
 

@@ -31,7 +31,7 @@ Tên điền cơ hoàng vì cây này hoa màu vàng, thường mọc đầy ở
 
 A. Mò tả cây
 
-Ban là một loại cỏ nhỏ, thân nhỏ mang nhiều cành, cao chừng 10-20cm, thân nhẵn. Lá mọc đối, hình bầu dục, không cuống, trên phiến có những điổm chấm nhỏ, soi lên sáng lại càng rõ. Phiến lá dài 7-10mm, rộng 3-5mm. Hoa nhỏ mọc màu vàng, mọc đơn độc ở kẽ lá, có cuống dài 4- 5mm. Lá bắc và lá đài nhẵn (do đó khác loài Hypericum nepalensè). Quả nang hình trứng, dài 4mm, mở bằng 3 van dọc, thai tòa trắc mô ờ cạnh các van. Hạt hình trụ, hơi thon có vạch dọc, chiều dài chừng lmm ( Hình 418).
+Ban là một loại cỏ nhỏ, thân nhỏ mang nhiều cành, cao chừng 10-20cm, thân nhẵn. Lá mọc đối, hình bầu dục, không cuống, trên phiến có những điổm chấm nhỏ, soi lên sáng lại càng rõ. Phiến lá dài 7-10mm, rộng 3-5mm. Hoa nhỏ mọc màu vàng, mọc đơn độc ở kẽ lá, có cuống dài 4- 5mm. Lá bắc và lá đài nhẵn (do đó khác loài Hypericum nepalensè). Quả nang hình trứng, dài 4mm, mở bằng 3 van dọc, thai tòa trắc mô ờ cạnh các van. Hạt hình trụ, hơi thon có vạch dọc, chiều dài chừng lmm (Hình 418).
 
 B. Phàn bố, thu hái và chế biến
 
@@ -89,7 +89,7 @@ Thuộc họ Long não Lauraceae.
 
 A. Mò (ả cây
 
-Cây cao có thể tới lOm. Nhiều dạng, vỏ thân nâu, không mùi, không vị, trong có chắt nhớt, cành trưởng thành hình trụ, nhẵn cành non có cạnh> nhiểu lông. Lá mọc so le, thường mọc thành cụm ở đầu cành, hơi dai, màu xanh lục đậm, mặt trên bóng, mặt dưới có lông, kích thước rất thay đổi, dài 7-20cm, rộng 4-10cm, hình bầu dục hay thuôn dài, phía đáy lá tròn hoặc nhọn, đầu nhọn hay tù; cuống lá có lông, dài 1,5-5cm. Hoa tụ từng 3-6 thành tán nhỏ trên 1 cuống chung dài l-3cm có lông; cuống của mỗi hoa dài 2-3mm. Quả hình cầu to bằng hạt đậu, màu đen, đính trên cuống phình ra. Mùa quả vào tháng 7-8 ( Hình 419).
+Cây cao có thể tới lOm. Nhiều dạng, vỏ thân nâu, không mùi, không vị, trong có chắt nhớt, cành trưởng thành hình trụ, nhẵn cành non có cạnh> nhiểu lông. Lá mọc so le, thường mọc thành cụm ở đầu cành, hơi dai, màu xanh lục đậm, mặt trên bóng, mặt dưới có lông, kích thước rất thay đổi, dài 7-20cm, rộng 4-10cm, hình bầu dục hay thuôn dài, phía đáy lá tròn hoặc nhọn, đầu nhọn hay tù; cuống lá có lông, dài 1,5-5cm. Hoa tụ từng 3-6 thành tán nhỏ trên 1 cuống chung dài l-3cm có lông; cuống của mỗi hoa dài 2-3mm. Quả hình cầu to bằng hạt đậu, màu đen, đính trên cuống phình ra. Mùa quả vào tháng 7-8 (Hình 419).
 
 #### B. Phân bố, thu hái và chế biến
 

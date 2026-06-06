@@ -22,7 +22,7 @@ Thuộc họ Cói Cyperaceae.
 
 #### A. Mô tả cây
 
-Cò thân nhẵn, thân rễ mọc bò, thân cao 5- 30cm. Lá thường ngắn hơn thân, phiến lá hẹp và dài. Cụm hoa hình cầu, đường kính 8-12mm, mọc trên một cán dài hình ba cạnh, gồm nhiều hoa màu trắng, mang ba lá bắc dài, nằm ngang. Quả bế hình bầu dục, dẹt, trắng vàng nhạt, có những chấm nhỏ. Toàn cây vò ra có mùì thơm đặc biệt ( Hình 434).
+Cò thân nhẵn, thân rễ mọc bò, thân cao 5- 30cm. Lá thường ngắn hơn thân, phiến lá hẹp và dài. Cụm hoa hình cầu, đường kính 8-12mm, mọc trên một cán dài hình ba cạnh, gồm nhiều hoa màu trắng, mang ba lá bắc dài, nằm ngang. Quả bế hình bầu dục, dẹt, trắng vàng nhạt, có những chấm nhỏ. Toàn cây vò ra có mùì thơm đặc biệt (Hình 434).
 
 B. Phản bố, thu hái và chế biến
 
@@ -100,7 +100,7 @@ Thuộc họ đào lộn hột Anacardiũceae.
 
 Xoan nhừ là một cây gỗ, to, cao 8~20m, vỏ thân cây màu xám nâu. Lá mọc so le, kép lông chim lẻ, dài 20-30cm, cuống lá dài 5-10cm, lá chét 7-15cm, mọc đối, dài 4-10cm, rộng 2- 4,5cm, mép nguyên. Hoa tạp tính khác gốc. Hoa đực và hoa giả lưỡng tính màu tím hồng nhạt, mọc thành chùy gổm nhiều tán tụ, chùy hoa dài
 
-4- 12cm, hoa cái mọc đơn độc ờ nách Já phía trên. Quả hạch, hình giống quả nhót dài 2-3cm, vỏ bóng, màu vàng, đỉnh có 5 lỗ nhỏ, vị chua, khi chín có vị ngọt ( Hình 436).
+4- 12cm, hoa cái mọc đơn độc ờ nách Já phía trên. Quả hạch, hình giống quả nhót dài 2-3cm, vỏ bóng, màu vàng, đỉnh có 5 lỗ nhỏ, vị chua, khi chín có vị ngọt (Hình 436).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -152,7 +152,7 @@ Thuộc họ Bóng nước Baisamìnơceae.
 
 A. Mò tả cây
 
-Cỏ mọc hàng năm, co thể cao 40cm. Lá mọc so le, có cuống, hình mác, đẩu nhọn, mép có răng cưa rất rõ, đài 7-8cm, rộng 2-2,5cm. Hoa mọc ở nách lá, lưỡng tính không đều, màu đỏ hay trắng, 5 lá dài cùng màu với tràng, không đều. Lá dài trước hình cựa, 5 cánh, 5 nhị, chỉ nhị ngắn, bao phấn dính sát nhau chung quanh nhụy, 5 lá noãn họp thành bầu thượng 5 ô, mồi ô đựng nhiều noãn. Quả nang nứt thành 5 mảnh xoắn lại tung hạt đi xa ( Hình 437).
+Cỏ mọc hàng năm, co thể cao 40cm. Lá mọc so le, có cuống, hình mác, đẩu nhọn, mép có răng cưa rất rõ, đài 7-8cm, rộng 2-2,5cm. Hoa mọc ở nách lá, lưỡng tính không đều, màu đỏ hay trắng, 5 lá dài cùng màu với tràng, không đều. Lá dài trước hình cựa, 5 cánh, 5 nhị, chỉ nhị ngắn, bao phấn dính sát nhau chung quanh nhụy, 5 lá noãn họp thành bầu thượng 5 ô, mồi ô đựng nhiều noãn. Quả nang nứt thành 5 mảnh xoắn lại tung hạt đi xa (Hình 437).
 
 B. Phán bố thu hái và chế biến
 
@@ -178,7 +178,7 @@ Hạỉ chứa 17,9% chất béo. Trong chất béo có
 
 Hình 437. Bóng nước - ỉmpatiens baỉsamina
 
-thành phần chủ yếu ìà axit parinaric hay axit A9, 10, 13, 15, -octadecatetraenoic Cl8H2gO? (khoảng 27%) balsaminasterol C₁₇H₄Q₀ (Hegnauer R., 1964). Ngoài ra còn có oc sipínaterol C29H4eO (khoảng 0,015%) (C. A,, 1973, 79, 2744a và c. A. ,1954, 48, 13835a), saponin, các đa đường (khi thủy phân cho glucoza và fructoza) ( c. A.t 1971, 74, 72872m).
+thành phần chủ yếu ìà axit parinaric hay axit A9, 10, 13, 15, -octadecatetraenoic Cl8H2gO? (khoảng 27%) balsaminasterol C₁₇H₄Q₀ (Hegnauer R., 1964). Ngoài ra còn có oc sipínaterol C29H4eO (khoảng 0,015%) (C. A,, 1973, 79, 2744a và c. A. ,1954, 48, 13835a), saponin, các đa đường (khi thủy phân cho glucoza và fructoza) (c. A.t 1971, 74, 72872m).
 
 Hoa chứa lawsone C)0H6O3, lawsonemetylete CnHfi03. Ngoài ra còn tùy theo màu sắc của hoa mà thành phần thay đổi: Hoa trắng chứa Ieucocyanidin, leucodelphinidin, hoa tím chứa malvidin glucozit, hoa đỏ chứa pelargonidin, paeonidin và delphinidin dưói dạng clucozit. Dịch ép của hoa bóng nước có tác dụng kháng sinh mạnh.
 

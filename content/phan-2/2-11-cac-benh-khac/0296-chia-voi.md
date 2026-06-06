@@ -24,7 +24,7 @@ Thuộc họ Bìm bìm Convoỉvulaceae
 
 Dây leo bằng thân quấn, sống dai. Cành hình trụ hơi có dìa. Lá hình trứng hay thuôn dài, đôi khi ba cạnh, phía dưới hình tim, dài 5-12cm, rộng
 
-2,5- 7,5cm, cuống lá dài l-7cm. Hoa to màu tráng hav vàng nhạt mọc ở lách lá. Cuống hoa dài 1- 7cm. Quá nang đường kính 15-16cm, 4 cạnh, bao bọc trong đài coa 3cm, quả mở theo đường nứt ngang vì vỏ quả ngoài tạo thành một chỏm rụng xuống khi chín và có mang theo vòi. Hạl 3- 4, hình thấu kính, mầu đen nhạt, đường kính 6' 7mm. Mùa hoa: Mùa thu và đông ( Hình 417, Hm 34,1 )
+2,5- 7,5cm, cuống lá dài l-7cm. Hoa to màu tráng hav vàng nhạt mọc ở lách lá. Cuống hoa dài 1- 7cm. Quá nang đường kính 15-16cm, 4 cạnh, bao bọc trong đài coa 3cm, quả mở theo đường nứt ngang vì vỏ quả ngoài tạo thành một chỏm rụng xuống khi chín và có mang theo vòi. Hạl 3- 4, hình thấu kính, mầu đen nhạt, đường kính 6' 7mm. Mùa hoa: Mùa thu và đông (Hình 417, Hm 34,1)
 
 B. Phân bô, thu hái và chê biến
 

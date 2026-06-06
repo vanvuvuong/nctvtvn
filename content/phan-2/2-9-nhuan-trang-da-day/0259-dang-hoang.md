@@ -25,7 +25,7 @@ Thuộc họ Măng cụt Clusiaceae (Guttiferae).
 
 #### A. Mô tả cây
 
-Cây to cao 10-20cm, thân nhẵn, thẳng đứng, cành ngả xuống đất. Lá mọc đối, cuống ngắn, hình bầu dục hay hình mác, hai đầu hơi tù, phiến lá dai, nguyên nhẵn, dài 10-20cm, rộng 3-10cm. Hoa khác gốc, hoa đực mọc ở nách lá, đơn độc hay tụ thành 3-6, có cuống, có lá kèm nhỏ, hoa cái mọc ở nách lá, đơn độc, to hơn hoa đực. Quả mọng hơi hình cầu, đường kính 2-5cm, phía cuống có đài tồn tại, 4 ngăn, mỗi ngăn có một hạt hơi cong hình cung. Mùa hoa: tháng 12-1, mùa quả: tháng 2-3 ( Hình 361 ).
+Cây to cao 10-20cm, thân nhẵn, thẳng đứng, cành ngả xuống đất. Lá mọc đối, cuống ngắn, hình bầu dục hay hình mác, hai đầu hơi tù, phiến lá dai, nguyên nhẵn, dài 10-20cm, rộng 3-10cm. Hoa khác gốc, hoa đực mọc ở nách lá, đơn độc hay tụ thành 3-6, có cuống, có lá kèm nhỏ, hoa cái mọc ở nách lá, đơn độc, to hơn hoa đực. Quả mọng hơi hình cầu, đường kính 2-5cm, phía cuống có đài tồn tại, 4 ngăn, mỗi ngăn có một hạt hơi cong hình cung. Mùa hoa: tháng 12-1, mùa quả: tháng 2-3 (Hình 361).
 
 #### B. Phân bố, thu hái và chế biến
 

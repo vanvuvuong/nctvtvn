@@ -30,11 +30,11 @@ Mạt gấu (Fel Drsi) là túi mật phơi hay sấy khô của nhiều loài g
 
 Ở Việt Nam, thường là loài gấu ngựa Selenarctớs thibetanus G. Cuvier. có khoang như chữ V trắng ở
 
-ngực ( Hình 386 ). Đôi khi có loài gấu chó hay gấu đen, gấu xám (hiếm hơn) Ursus arctos ìisioius Gray.
+ngực (Hình 386). Đôi khi có loài gấu chó hay gấu đen, gấu xám (hiếm hơn) Ursus arctos ìisioius Gray.
 
 A. Lấy và chế biến mật gấu
 
-Tuỳ theo gấu to hay nhỏ, ta có mật gáu to hay nhỏ. Bất cứ mùa nào bắt được gấu đều có thể lấy mật được. Theo lánh nghiệm vào mùa đông mật gấu nhiều hơn, nhưng mật gấu bắt được vào mùa xuân tuy ít hơn nhưng phẩm chắt lại tốt hơn ( Hình 387 ).
+Tuỳ theo gấu to hay nhỏ, ta có mật gáu to hay nhỏ. Bất cứ mùa nào bắt được gấu đều có thể lấy mật được. Theo lánh nghiệm vào mùa đông mật gấu nhiều hơn, nhưng mật gấu bắt được vào mùa xuân tuy ít hơn nhưng phẩm chắt lại tốt hơn (Hình 387).
 
 Đầu năm 1983, Đỗ Khắc Hiếu, (Trung tâm Sinh lý-Hoá sinh, Viện khoa học Việt nam) đã nghiên cứu quy trình khai thác mật gấu thường kỳ mà khống phải giết gấu: Cấu tạo một túi mật phụ (có màng bọc bằng chất liệu đạc biệt) rồi cấy vào dưới lớp da gấu. Túi một phụ được nối thông vói túi mật thật của gấu, chỉ việc dùng õng tiêm hút mặl từ túi mật phụ, văn bảo đảm
 

@@ -29,7 +29,7 @@ Thuộc họ Long não Lauraceae.
 
 màu hồng nhạt, họp thành lán nhò, đường kính 3- 4mm. Quả mọng hình trứng khi chín có màu đỏ, một hạt.
 
-Toàn cây có mùi thơm, vị đắng ( Hình 334 ).
+Toàn cây có mùi thơm, vị đắng (Hình 334).
 
 2. Vệ châu ô dược là rễ cày Cocculus ìaurifoỉius DC. thuộc họ Tiết dê (Menisperniaceae).
 

@@ -3,6 +3,12 @@ title: "5. CÂY DIẾP CÁ 魚腥草"
 weight: 5
 navWeight: 996
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - thông tiểu
+  - phế ung
+  - ung thũng
+  - mụn nhọt
+  - viêm sưng tai giữa
 keywords:
   - bệnh phụ nữ
   - cây diếp cá

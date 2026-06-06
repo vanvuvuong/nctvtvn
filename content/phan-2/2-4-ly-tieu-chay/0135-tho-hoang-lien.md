@@ -28,7 +28,7 @@ Thổ hoàng liên là một loại cây nhỏ, cao 40- 50cm, thân mỏng, mề
 
 Hình 137. Thổ hoàng liên - Thaỉictrum ỷoỉiolosum
 
-tai bèo, phiến lá dài, lá màu xanh lục, mặt dưới nhạt hơn. Hoa nhỏ, cánh mỏng hơi phớt tím. Quả nhỏ, hình hạt thóc, đầu hơi có mỏ. Thân rễ to, thô đường kính 0,3-0,5cm có nhiều mấu, mấu cách nhau chừng 0,5-lcm, bẻ ngang thấy rất nhiều xơ, thịt màu vàng tươi, vàng trắng ( Hình 137).
+tai bèo, phiến lá dài, lá màu xanh lục, mặt dưới nhạt hơn. Hoa nhỏ, cánh mỏng hơi phớt tím. Quả nhỏ, hình hạt thóc, đầu hơi có mỏ. Thân rễ to, thô đường kính 0,3-0,5cm có nhiều mấu, mấu cách nhau chừng 0,5-lcm, bẻ ngang thấy rất nhiều xơ, thịt màu vàng tươi, vàng trắng (Hình 137).
 
 ()(\*)()Mới phát hiện mọc nhiều ờ vùng Tây tìắc nhiều nhất ở vùng Tủa Chùa. Đã đem trồng thí nghiệm tại vườn thuốc Sapa (Lào Cai) và Tầm Đảo (Vĩnh Phúc). Cây mọc tốt, ra hoa kết quả, rất đễ phát triển. Tuy nhiên cho đến năm 1967 chưa được đạt thành vấn đề trồng trên quy mô lớn. Chúng lôi cũng đã thí nghiệm trổng ờ đồng bằng, nhưng sang mùa nóng cây khô héo và chết.
 
@@ -104,7 +104,7 @@ Vị hoàng bá thật hiện nay còn phải nhập vì cãy này vốn chưa c
 
 Vốn tên cũ là hoàng nghiệt là vỏ màu của cây nghiệt. Sau này người ta dùng chữ bá thay cho chữ nghiệt để viết cho đơn giản (chữ nho).
 
-()(\*)()Hoàng bá là một cây to cao, có thể cao tới 20- 25m, đường kính thân có thể đạt tới 70cm. vỏ thân dày phân thành hai tầng rõ rệt. Tầng ngoài màu xám, tầng trong màu vàng. Lá mọc đối, kém gồm 5-13 lá chét nhỏ hình trứng dài, mép nguyên. Hoa tím đen, trong chứa 2-5 hạt. Ra hoa mùa hạ. (Hình 138 )
+()(\*)()Hoàng bá là một cây to cao, có thể cao tới 20- 25m, đường kính thân có thể đạt tới 70cm. vỏ thân dày phân thành hai tầng rõ rệt. Tầng ngoài màu xám, tầng trong màu vàng. Lá mọc đối, kém gồm 5-13 lá chét nhỏ hình trứng dài, mép nguyên. Hoa tím đen, trong chứa 2-5 hạt. Ra hoa mùa hạ. (Hình 138)
 
 Ngoài cây hoàng bá kể trên, tại Trung Quốc người ta còn khai thác vỏ cây xuyên hoàng bá Pheỉlodendron amurense Rupr. var. sachalinensỉs Fr. Schmidt (có tác giả xác định là Phellodendron sinensis Schneider), cây nhỏ và thấp hơn, 7-15 lá chét, quả hình trứng, còn quả
 
@@ -162,7 +162,7 @@ Ta dùng toàn cây phơi khô của cây cỏ sữa nhỏ lá.
 
 ()(\*)()Cỏ sữa là một loại cỏ nhỏ, gầy. mọc là là trên mặt đất, thân và cành tím đỏ. Lá mọc đối, hình bầu dục hay thon dài, dài nhất 7mm, rộng chừng 4mm mép lá hơi khía lai bèo. Cụm hoa mọc ờ kẽ lá thành xim đơn mang ít hoa. Quả nang đường kính ],5mm, có lông. Hạt nhần, dài
 
-0, 7mm có 4 góc (Hình 139, Hm 45,3 ).
+0, 7mm có 4 góc (Hình 139, Hm 45,3).
 
 Toàn thân bấm đều chảy một chất nhựa mủ trắng.
 
@@ -218,7 +218,7 @@ Tên khoa học _*Desmodium cephalotes Wall.*_
 
 Thuộc họ Cánh bướm Pabaceae ịPapiìiỡnaceae).
 
-()(\*)()Cây nhỏ sống lấu nảm, thân nhỏ, có nhiều cành. Thường cao 0,5-0,60m nhưng cũng có thể cao tói 1,5Om. Lá gồm ba lá chét hình bầu dục với lá kèm nhỏ. Đường gân mặt trên lõm. Mặt dưới lồi, mặt dưới lá phủ một lớp lông tơ trắng trông hơi lấp lánh, đặc biệt các lá non ở ngọn có phủ lớp lông tơ nhiều hơn. Hoa nhỏ màu trấng, mọc thành chùm đơn ở kẽ lá. Quả giáp, hạt hình thân. Mùa hoa quả: Hè và thu. (Hình 141, Hm 15,4 )
+()(\*)()Cây nhỏ sống lấu nảm, thân nhỏ, có nhiều cành. Thường cao 0,5-0,60m nhưng cũng có thể cao tói 1,5Om. Lá gồm ba lá chét hình bầu dục với lá kèm nhỏ. Đường gân mặt trên lõm. Mặt dưới lồi, mặt dưới lá phủ một lớp lông tơ trắng trông hơi lấp lánh, đặc biệt các lá non ở ngọn có phủ lớp lông tơ nhiều hơn. Hoa nhỏ màu trấng, mọc thành chùm đơn ở kẽ lá. Quả giáp, hạt hình thân. Mùa hoa quả: Hè và thu. (Hình 141, Hm 15,4)
 
 ()(\*)()Ba chẽ là một cây mọc hoang ở nhiều nơi
 
@@ -244,7 +244,7 @@ Thuộc họ Bàng Combretaceae.
 
 ()(\*)()Bàng là một cây to, có thể cao tới 25m, cành mọc vòng làm cho tán cây xòe ra như cái lọng. Lá to hình thìa, đầu tròn, mặt trên nhẵn, mặt dưới có lông hung nhạt phiến lá dài 20-30cm, rộng 10-13cm. Hoa nhiều mọc thành bổng dài 15-20cm, trên cán bồng hoa có lông. Quả hình bầu dục, nhẵn dẹt với hai bên dìa hẹp, đầu hơi nhọn, dài 4cm, rộng 3cm, dày 15mm, nhẵn, cơm màu vàng đỏ, có xơ. Hạch rộng 15mm, hạt có nhân trắng chứa nhiều dầu. Mùa quả: Tháng 8-
 
-10 ( Hình 142 ).
+10 (Hình 142).
 
 ()(\*)()Cây bàng được trồng khắp nơi làm cây hóng mát. Ngưòti ta cho rằng cây bàng vốn không có ở nước ta, mà di thực tù đảo Moluques vào.
 
@@ -316,7 +316,7 @@ Tên khoa học _*Bixa orelỉana L.*_
 
 Thuộc họ Điểu nhuộm Bixaceae.
 
-()(\*)()Cây nhỏ đẹp, cao 4”5m. Lá đơn mềm, nhỉn, hơi hình ba cạnh, đấu nhọn, phía cuống hình tim, dài ]2cm, rộng 7cm hay hơn, cuống lá phình ở đầu, dài 34cm. Hoa khá lớn, màu tía, hay trắng, mọc thành chùy ngắn ở đầu cành. Bầu hai lá noãn với hai giá noãn mang nhiêu noãn. Quả to, đỏ tía, hình cầu, trên mặt có gai mềm, mở bằng hai van, mỗi mảnh mang ở trong rất nhiều hạt. Hạt hơi hình lạp phương trên một cuống ngắn, xung quanh tễ nở ra thành một thứ áo hạt ngắn màu đỏ ( Hình 144 ).
+()(\*)()Cây nhỏ đẹp, cao 4”5m. Lá đơn mềm, nhỉn, hơi hình ba cạnh, đấu nhọn, phía cuống hình tim, dài ]2cm, rộng 7cm hay hơn, cuống lá phình ở đầu, dài 34cm. Hoa khá lớn, màu tía, hay trắng, mọc thành chùy ngắn ở đầu cành. Bầu hai lá noãn với hai giá noãn mang nhiêu noãn. Quả to, đỏ tía, hình cầu, trên mặt có gai mềm, mở bằng hai van, mỗi mảnh mang ở trong rất nhiều hạt. Hạt hơi hình lạp phương trên một cuống ngắn, xung quanh tễ nở ra thành một thứ áo hạt ngắn màu đỏ (Hình 144).
 
 ()(\*)()Cây nguồn gốc ở các vùng nhiệt đới châu Mỹ, hiện được trồng phổ biến ở An Độ và nhiều nước khác.
 
@@ -380,5 +380,5 @@ Hoa cũng được dùng chữa ìỵ dưới dạng thuốc sắc.
 
 Chú. thích:
 
-Bên cạnh cây đơn đỏ, nhân dân còn trổng cây đơn trắng hay bông trang trắng, mẫu đơn trắng có tên khoa học Ixora nigricans R. Br. thuộc cùng họ ( Hình 146 ). Cũng được trổng làm cảnh và một sổ nơi dùng làm thuốc cùng một công đụng với đơn đỏ, nhưng đơn đỏ có tác dụng mạnh hơn.
+Bên cạnh cây đơn đỏ, nhân dân còn trổng cây đơn trắng hay bông trang trắng, mẫu đơn trắng có tên khoa học Ixora nigricans R. Br. thuộc cùng họ (Hình 146). Cũng được trổng làm cảnh và một sổ nơi dùng làm thuốc cùng một công đụng với đơn đỏ, nhưng đơn đỏ có tác dụng mạnh hơn.
 

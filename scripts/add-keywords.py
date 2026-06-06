@@ -263,7 +263,7 @@ def update_frontmatter(fm_block, keywords):
         "",
         fm_block,
         flags=re.MULTILINE | re.DOTALL,
-    ).rstrip()
+   ).rstrip()
 
     # Format new block
     lines = ["keywords:"]

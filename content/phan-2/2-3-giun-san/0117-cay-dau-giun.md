@@ -39,7 +39,7 @@ Thân cây non, lá, bầu hoa có lông thuộc 3 loại: lông che chở đa t
 
 Hình ỉII. Cây dầu giun Chenopodium ambrositìidcs
 
-làm thuốc chữa giun (Hinh 111, Hm 7,4 ).
+làm thuốc chữa giun (Hinh 111, Hm 7,4).
 
 B. Phản bố, thu hái và chế biến
 
@@ -213,7 +213,7 @@ Tác dụng diệt giun: Nãm 1935, Perrier thí nghiệm nuớc sắc sử quâ
 
 Năm 1947 Chu Đình Xung và Trương Xuơng Thiêu (Khoa học 20, I: 143, Trung văn) đă thí nghiệm so sánh dung dịch của nước sử quân tử 10% và dung dịch 0,5% kalicloraa trên giun đất đểu thấy tác dụng như nhau cho nên các tác giả này đã kết luận hoạt chất của sử quân tử Iằ muối cali chứa trong sử quân tử.
 
-Năm 1948, Ngô Vân Thùy và cộng sự (Trung Hoa y học tạp chí 34: 437-441) báo cáo đã nghiên cứu so sánh tác dụng diệt giun của nhiêu vị thuốc đông y (quán chúng, lôi hoàn, ô dược, xuyên luyện tử, bách bộ( hắc sửu, bạch sửu v.v...) đã kết luân sử quân tử có tác đụng diệt giun mạnh.
+Năm 1948, Ngô Vân Thùy và cộng sự (Trung Hoa y học tạp chí 34: 437-441) báo cáo đã nghiên cứu so sánh tác dụng diệt giun của nhiêu vị thuốc đông y (quán chúng, lôi hoàn, ô dược, xuyên luyện tử, bách bộ(hắc sửu, bạch sửu v.v...) đã kết luân sử quân tử có tác đụng diệt giun mạnh.
 
 Năm 1950, Hồ Mộng Gia (Trung Hùa y học tạp chí 36:619 -622) báo cáo đã dùng cỡn 95°, cồn 50° dể chiết sử quân tử, bã sau khí chiết bằng cồn 90° được chiết bằng nước rổi thí nghiệm tác dụng trên giun đất thấy dịch chiết bằng cồn 95° không có tác dụng, dịch chiết bằng cồn 50° và nước hơi có tác' dụng; ức chế và gây mê.
 

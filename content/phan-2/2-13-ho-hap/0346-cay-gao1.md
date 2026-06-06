@@ -25,7 +25,7 @@ Cây gỗ to cao, cành non màu nâu đậm, nhẵn, sau màu xám tráng. Phi�
 
 Hình 536. Cây gáo - Sarcocephalus cordatus
 
-Đài 5, tròn ở đỉnh, nhẵn, ống dài nhẵn, ngắn. Tràng 5, hình bầu dục ngược, nhẵn, ống tràng hơi có lông ở họng. Nhị 5, đính vào họng tràng, chỉ rất ngắn, bao phấn tù ở đỉnh. Bầu 2 ô, nhiều noãn. Quả dính lại với nhau thành một khối, hình cầu, mỗi quả 2 ô, mỗi ô chứa 5-8 hạt. Hoa nở vào tháng 3, quả chín vào tháng 7 ( Hình 536).
+Đài 5, tròn ở đỉnh, nhẵn, ống dài nhẵn, ngắn. Tràng 5, hình bầu dục ngược, nhẵn, ống tràng hơi có lông ở họng. Nhị 5, đính vào họng tràng, chỉ rất ngắn, bao phấn tù ở đỉnh. Bầu 2 ô, nhiều noãn. Quả dính lại với nhau thành một khối, hình cầu, mỗi quả 2 ô, mỗi ô chứa 5-8 hạt. Hoa nở vào tháng 3, quả chín vào tháng 7 (Hình 536).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -65,7 +65,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 Cây nhỡ cao 3 m, phân nhiều cành, cành nhỏ mềm, có lông, dài 20 cm. Lá xếp thành hai hãy trên các cành nhỏ trông giống như một lá kép lông chim, cuống lá rất ngắn. Lá kèm rất nhỏ hình ba cạnh.
 
-Hoa nhỏ, đơn tính cùng gốc. Cụm hoa thành xim co mọc ở nách lá phía dưới của cành, với rất nhiều hoa đực, vài hoa cái. Quả hình cầu trước mọng, sau khô thành quả nang. Hạt hình ba cạnh, màu hồng nhạt. Mùa hoa: từ tháng 3 đến tháng 11 ( Hình 537).
+Hoa nhỏ, đơn tính cùng gốc. Cụm hoa thành xim co mọc ở nách lá phía dưới của cành, với rất nhiều hoa đực, vài hoa cái. Quả hình cầu trước mọng, sau khô thành quả nang. Hạt hình ba cạnh, màu hồng nhạt. Mùa hoa: từ tháng 3 đến tháng 11 (Hình 537).
 
 #### B. Phân bố thu hái và chế biến
 

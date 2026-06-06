@@ -58,7 +58,7 @@ Sai
 
 A. Mò tả cây
 
-Đậu khấu là một loại cỏ mọc lau năm. Thân rễ có vẩy, từ than rễ những trụ mang lá và trục mang hoa và quả ló lên mặt đất. Thân mang lá có thể cao 2-3m. Lá mọc so le, không cuống, phiến lá hình mác dài 23cm, rộng 7,5cm. Cụm hoa hình bông mọc ở gốc, cả cuống hoa và hoa dài 8cm; tràng hoa màu vàng, hình ống hẹp, dài 2cm, trên tràng hoa màu vàng, có điểm tím hay đỏ tía. Quả hình cầu dẹt, màu tím trắng, đường kính ],5cm ( hình 303 ).
+Đậu khấu là một loại cỏ mọc lau năm. Thân rễ có vẩy, từ than rễ những trụ mang lá và trục mang hoa và quả ló lên mặt đất. Thân mang lá có thể cao 2-3m. Lá mọc so le, không cuống, phiến lá hình mác dài 23cm, rộng 7,5cm. Cụm hoa hình bông mọc ở gốc, cả cuống hoa và hoa dài 8cm; tràng hoa màu vàng, hình ống hẹp, dài 2cm, trên tràng hoa màu vàng, có điểm tím hay đỏ tía. Quả hình cầu dẹt, màu tím trắng, đường kính ],5cm (hình 303).
 
 ##### TODO: thêm hình ảnh
 
@@ -108,7 +108,7 @@ Thảo đậu khấu {Semen Alpiniae katsumadai) là hạt phơi hay sấy khô 
 
 #### A. Mô tả cây
 
-Thảo đậu khấu là một loại cỏ sống lâu năm cao l-2m. Thân rễ màu nâu đỏ. Lá mọc so le, hình mác, dài 30-55cm, rộng 2-9cm. Cụm hoa hình chùm, dài 30cm, ở đầu cành. Hoa màu trắng, hình ống, dài 1,2cm, trong có đốm màu tím đỏ nhạt. Quả hình cầu đường kính 3,5cm, còn đài tồn tại, khi chín có màu vàng ( Hình 305 ).
+Thảo đậu khấu là một loại cỏ sống lâu năm cao l-2m. Thân rễ màu nâu đỏ. Lá mọc so le, hình mác, dài 30-55cm, rộng 2-9cm. Cụm hoa hình chùm, dài 30cm, ở đầu cành. Hoa màu trắng, hình ống, dài 1,2cm, trong có đốm màu tím đỏ nhạt. Quả hình cầu đường kính 3,5cm, còn đài tồn tại, khi chín có màu vàng (Hình 305).
 
 #### B. Phân bố, thu hái và chế biến
 

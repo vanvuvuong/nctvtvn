@@ -23,7 +23,7 @@ Dứa bà trước đây chủ yếu chỉ được khai thác lấy sợi, mộ
 
 #### A. Mô tả cây
 
-Dứa bà là một loại cây sống dai do thân rẽ, thân trên mặt đất ngán, lá hình kiếm dài 1,2- 1,5m, quãng giữa rông 13cm, ngọn lá có gai to, nhọn, rắn, dài khoảng 1,5cm. Gai ở mép lá có màu dcn, bóng như sừng. Mỗi cây có khoảng 30-50 lá, mọng nước, mỗi lá có thể cân nặng 1,5kg. Sau nhiều năm (10-15 năm) cây ra hoa. Hoa đính Irên một trục lớn, thảng đứng, mọc từ giữa vòng lá. Trục hoa cao 4-6cm, có khi tới lOm, trên có tới hàng nghìn hoa. Sau khi cây ra hoa thì cây lụi đi. Hoa màu xanh, nhị mọc thò ra ngoài ( Hình 216 ).
+Dứa bà là một loại cây sống dai do thân rẽ, thân trên mặt đất ngán, lá hình kiếm dài 1,2- 1,5m, quãng giữa rông 13cm, ngọn lá có gai to, nhọn, rắn, dài khoảng 1,5cm. Gai ở mép lá có màu dcn, bóng như sừng. Mỗi cây có khoảng 30-50 lá, mọng nước, mỗi lá có thể cân nặng 1,5kg. Sau nhiều năm (10-15 năm) cây ra hoa. Hoa đính Irên một trục lớn, thảng đứng, mọc từ giữa vòng lá. Trục hoa cao 4-6cm, có khi tới lOm, trên có tới hàng nghìn hoa. Sau khi cây ra hoa thì cây lụi đi. Hoa màu xanh, nhị mọc thò ra ngoài (Hình 216).
 
 Người ta đã thống kê thấy có khoảng 300 loài Agave, vào khoảng 60% số loài này có chứa hecogenin, nhưng những loài được khai thác vừa để lấy sợi vừa để chiết heocogenin là các loài Agave americana, Agave sisalana Perr., Agave fourecroydes Lem, đểu nguồn gốc Mêhicô (Trung Mỹ).
 
@@ -87,7 +87,7 @@ Thuộc họ Cánh bướm Papilionaceae (Pabaceae).
 
 Cầy bụi, cao khoảng lm hay hơn, có cành hơi có lông rạp xuống. Lá có 3 lá chét, lá chét hình trái xoan ngược nhọn hay gần tù ở góc, tù hoặc có khía ở đỉnh, các lá bên nhỏ hơn, mặt trên nhẵn, mặt dưới có lông ngắn và rạp xuống. Hoa xếp thành chùm giống những vòng giả, có lông ngắn, màu vàng, rất cong. Quả hình trụ. Hạt nhiều, màu nâu nhạt hay vàng da cam, hình thận. Mùa hoa quả: Từ tháng
 
-5- 12 ( Hình 217).
+5- 12 (Hình 217).
 
 #### B. Phân bố, thu hái và ché biến
 
@@ -127,7 +127,7 @@ A. Mỏ tả cây
 
 Cây mọc bò, ở nước hay trên cạn. Thân rỗng, dày, có những đốt, mặt ngoài nhẵn. Lá hình ba cạnh, đầu nhọn, nhưng cũng có khi hẹp, và dài. Phiến lá dài 7-9 cm, rộng 3,5-7 cm, cuống lá nhẵn dài 3-6 cm. Hoa to, màu trắng hay hồng tím, ống hoa tím nhạt, mọc từng 1-2 hoa trên một cuống dài l-2cm. Quả hình cầu, đường kính 7-9mm. Hạt có lông màu hung, đường kính 4mm.
 
-Mùa hoa: mùa thu ( Hình 218 ).
+Mùa hoa: mùa thu (Hình 218).
 
 B. Phân bô thu hái và chế biến
 
@@ -159,7 +159,7 @@ cỏn có tên là cây cỏ mực, hạn liên thảo.
 
 Tên khoa học _*Ecỉipta alba Hassk. (Ecỉipta erecta Lamk.).*_
 
-Thuộc họ Cúc Asteraceae ( Compositae ).
+Thuộc họ Cúc Asteraceae (Compositae).
 
 Ta dùng toàn cây nhọ nồi (Herha Ecliptae) tươi hoặc khô.
 

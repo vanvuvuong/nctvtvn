@@ -19,7 +19,7 @@ Thuộc họ Cà Solanaceae.
 
 A. Mò tả cảy
 
-Cỏ mọc hằng năm, nhẵn hay hơi có lông, cao 50-80cm, có nhiều cành. Lá hình bầu dục, mềm, nhẩn, dài 4-15cm, rộng 2-3cm. Hoa nhỏ, màu trắng, mọc thành tán nhỏ có cuống à kẽ lá. Quả hình cầu, đường kính 5 - 8mm, lúc đầu màu lục, sau vàng và khi chín có màu đen tím. Hạt đẹt, hình thận, nhẵn, đưòng kính chừng lmm. Toàn cây vò hơi có mùi hôi ( Hình 98 ).
+Cỏ mọc hằng năm, nhẵn hay hơi có lông, cao 50-80cm, có nhiều cành. Lá hình bầu dục, mềm, nhẩn, dài 4-15cm, rộng 2-3cm. Hoa nhỏ, màu trắng, mọc thành tán nhỏ có cuống à kẽ lá. Quả hình cầu, đường kính 5 - 8mm, lúc đầu màu lục, sau vàng và khi chín có màu đen tím. Hạt đẹt, hình thận, nhẵn, đưòng kính chừng lmm. Toàn cây vò hơi có mùi hôi (Hình 98).
 
 B. Phản bố, thu hái và chế biến Cây lu lu đực mọc hoang ờ khắp nơi: Vườn, ruộng, hai bên đường khắp nước ta. Còn mọc cả ở các nước khác châu Âu (Pháp, Ý), châu Á (Trung Quốc...).
 
@@ -55,7 +55,7 @@ Thuộc họ Cà phê Rubiaceơe.
 
 #### A. Mô tả cây
 
-Dây leo có thể dài tới lOm. Lá hình trưóng rộng, phía cuống hẹp lại, đầu tù hay nhọn dài 2- I2,5cm, rộng 3-4cm, nhẵn hay có lông ờ mặt dưới, cuống dài 3-8cm. Hoa họp thành hình đầu tận cùng, dường kính khoảng 6mm. Quả hạch dính với nhau thành hình đầu nhiều mặt, màu đỏ, mỗi hoa để lại trên quả một vết tròn làm cho quả có hình thù quái dị, giống như mặt một con quỷ, mỗi hạch dài 4mm, dày 2mm, thành dai. Mỗi hạch chứa một hạt. ( Hình 99, Hm 55.1).
+Dây leo có thể dài tới lOm. Lá hình trưóng rộng, phía cuống hẹp lại, đầu tù hay nhọn dài 2- I2,5cm, rộng 3-4cm, nhẵn hay có lông ờ mặt dưới, cuống dài 3-8cm. Hoa họp thành hình đầu tận cùng, dường kính khoảng 6mm. Quả hạch dính với nhau thành hình đầu nhiều mặt, màu đỏ, mỗi hoa để lại trên quả một vết tròn làm cho quả có hình thù quái dị, giống như mặt một con quỷ, mỗi hạch dài 4mm, dày 2mm, thành dai. Mỗi hạch chứa một hạt. (Hình 99, Hm 55.1).
 
 B. Phân bô', thu hái và chế biến
 

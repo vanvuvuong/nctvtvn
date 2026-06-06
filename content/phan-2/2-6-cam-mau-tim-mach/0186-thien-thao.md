@@ -23,7 +23,7 @@ Thuộc họ Cà phê Rubiacae.
 
 #### A. Mô tả cây
 
-Cây mọc leo, sống lâu năm, rễ sống dai, thân vuông, có gai rất nhỏ, mọc quặp xuống. Lá mọc vòng 4 lá một (thực tế là lá mọc đối, với lá kém phát triển trông như 4 lá mọc vòng). Phiến lá hình bầu dục, đầu nhọn, dài 2-4cm, rộng 2,5-3cm, mép cũng có gai, gân lá hình cung. Hoa nhỏ màu vàng nhạt, mọc thành xim dài 3-20cm ở đầu cành hay kẽ lá. Quả tròn, màu đen, khi chín, trong chứa 1-2 hạt hình cầu, đưòng kính 4mm, hõm ở giữa, lưng phình lên. Mùa hoa quả: tháng 9-11 ( Hình 229 ).
+Cây mọc leo, sống lâu năm, rễ sống dai, thân vuông, có gai rất nhỏ, mọc quặp xuống. Lá mọc vòng 4 lá một (thực tế là lá mọc đối, với lá kém phát triển trông như 4 lá mọc vòng). Phiến lá hình bầu dục, đầu nhọn, dài 2-4cm, rộng 2,5-3cm, mép cũng có gai, gân lá hình cung. Hoa nhỏ màu vàng nhạt, mọc thành xim dài 3-20cm ở đầu cành hay kẽ lá. Quả tròn, màu đen, khi chín, trong chứa 1-2 hạt hình cầu, đưòng kính 4mm, hõm ở giữa, lưng phình lên. Mùa hoa quả: tháng 9-11 (Hình 229).
 
 #### B. Phân bố, thu hái và chế biến
 

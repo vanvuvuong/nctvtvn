@@ -56,7 +56,7 @@ _Còn gọi là Tussilage (Pháp) - Chassetoux (Pháp)._
 
 Tên khoa học _*TussiLago farfara L.*_
 
-Thuộc họ Cúc Asteraceae ( Compositae ).
+Thuộc họ Cúc Asteraceae (Compositae).
 
 Chú thích về tên: Khoản có nghĩa là đến, vì đến mùa đông, cây này nở hoa do đó có tên này. Khoản đông hoa còn có tên latinh là Filius ante patrem có nghĩa là con đứng trước cha, vì hoa khoản đông hoa màu vàng, xuất hiện vào tháng hai khá lâu trước khi lá cây xuất hiện. Tên khoa học Tussilago do hai từ tussis có nghĩa là ho, và agere có nghĩa đuổi vì vị thuốc có tác dụng chữa ho. Tên cây ở Pháp còn gọi là chasse- toux cũng có nghĩa là đuổi ho.
 
@@ -236,7 +236,7 @@ Chưa ai đặt vấn đề trồng.
 
 Chưa thấy tài liệu nghiên cứu ở nước ta.
 
-Theo Quesland ( Agr. J., 34-1930:605 ) quả chín chứa axit xyanhydric. Tuy nhiên trẻ con ăn không thấy có triệu chứng bị ngộ độc.
+Theo Quesland (Agr. J., 34-1930:605) quả chín chứa axit xyanhydric. Tuy nhiên trẻ con ăn không thấy có triệu chứng bị ngộ độc.
 
 #### D. Tác dụng dược lý
 
@@ -282,7 +282,7 @@ Ta dùng tâm sen (Embryo Nelumbinis hoặc Plumula Nelumbinis) còn gọi là l
 
 #### A. Mô tả cây
 
-Sen là một loại cây mọc ở dưới nước, thân rễ hình trụ mọc ở trong bùn thường gọi là ngó sen hay ngẫu tiết, ăn được, lá (liên diệp) mọc lên khỏi mặt nước, cuống lá dài, có gai nhỏ, phiến lá hình khiên, to, đường kính 60-70cm có gân toả tròn. Hoa to màu trắng hay đỏ hồng, đều lưỡng tính. Đài 3-5, màu lục. Tràng gồm rất nhiều cánh màu hồng hay trắng một phần, những cánh ngoài còn có màu lục như lá đài. Nhị nhiều, bao phấn 2 ô, nứt theo một kẽ dọc. Trung đới mọc dài ra thành một phần hình trắng thường gọi là gạo sen dùng để ướp chè. Nhiều lá noãn rời nhau đựng trong một đế hoa loe ra thành hình nón ngược gọi là gương sen hay liên phòng. Mỗi lá noãn có 1-2 tiểu noãn. Quả (thường gọi là hạt sen) chứa một hạt (liên nhục) không nội nhũ. Hai lá mầm dày. Chồi mầm (liên tâm) gồm 4 lá non gập vào phía trong ( Hình 609, Hm20,3).
+Sen là một loại cây mọc ở dưới nước, thân rễ hình trụ mọc ở trong bùn thường gọi là ngó sen hay ngẫu tiết, ăn được, lá (liên diệp) mọc lên khỏi mặt nước, cuống lá dài, có gai nhỏ, phiến lá hình khiên, to, đường kính 60-70cm có gân toả tròn. Hoa to màu trắng hay đỏ hồng, đều lưỡng tính. Đài 3-5, màu lục. Tràng gồm rất nhiều cánh màu hồng hay trắng một phần, những cánh ngoài còn có màu lục như lá đài. Nhị nhiều, bao phấn 2 ô, nứt theo một kẽ dọc. Trung đới mọc dài ra thành một phần hình trắng thường gọi là gạo sen dùng để ướp chè. Nhiều lá noãn rời nhau đựng trong một đế hoa loe ra thành hình nón ngược gọi là gương sen hay liên phòng. Mỗi lá noãn có 1-2 tiểu noãn. Quả (thường gọi là hạt sen) chứa một hạt (liên nhục) không nội nhũ. Hai lá mầm dày. Chồi mầm (liên tâm) gồm 4 lá non gập vào phía trong (Hình 609, Hm20,3).
 
 []
 

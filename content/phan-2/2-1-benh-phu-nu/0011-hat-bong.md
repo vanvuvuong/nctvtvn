@@ -3,6 +3,8 @@ title: "11. HẠT BÔNG 棉籽"
 weight: 11
 navWeight: 990
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - lợi sữa
 keywords:
   - bệnh phụ nữ
   - hạt bông

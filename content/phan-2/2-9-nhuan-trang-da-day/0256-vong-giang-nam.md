@@ -15,7 +15,7 @@ keywords:
 
 
 
-_Còn gọi là cốt khí muồng, dương giác đậu, giang nam đậu, thạch quyết minh, sơn lục đậu, dã biển đậu, muồng hoè ( miền Nam), muống lá khế._
+_Còn gọi là cốt khí muồng, dương giác đậu, giang nam đậu, thạch quyết minh, sơn lục đậu, dã biển đậu, muồng hoè (miền Nam), muống lá khế._
 
 Tên khoa học _*Cassia occidentalis L.*_
 
@@ -67,7 +67,7 @@ Ngày dùng 10-20g dưới dạng thuốc sắc.
 
 Vọng giang nam không chỉ được dùng ở các nước châu Á, mà còn được dùng ở các nước khác.
 
-Theo E. Perrot, hạt Cassia occidentalis tươi có độc do một chất toxanbumin (phytotoxin) và cryzarobin (chrysarobin) là một antraglucozit. Khi rang lên hạt sẽ hết độc và được dùng ở châu Phi uống nước thay cà phê gọi là cà phê của người da đen, mùi thơm dễ chịu. Nếu dùng tươi thì có độc. Thực tế trong năm 1913 ở ngoại ô Paris (thủ đô nước Pháp) đã xảy ra những vụ ngộ độc ngựa ( cho ăn hạt này lẫn với yến mạch (avoine). Năm 1924 lại xảy ra vụ ngộ độc nữa cũng do cho ngựa ăn hạt không rang. Khi bị ngộ độc thì viêm ruột, ‘viêm màng óc’. Những chất độc khi rang lên sẽ phá huỷ cho nên rang lên mới dùng được.
+Theo E. Perrot, hạt Cassia occidentalis tươi có độc do một chất toxanbumin (phytotoxin) và cryzarobin (chrysarobin) là một antraglucozit. Khi rang lên hạt sẽ hết độc và được dùng ở châu Phi uống nước thay cà phê gọi là cà phê của người da đen, mùi thơm dễ chịu. Nếu dùng tươi thì có độc. Thực tế trong năm 1913 ở ngoại ô Paris (thủ đô nước Pháp) đã xảy ra những vụ ngộ độc ngựa (cho ăn hạt này lẫn với yến mạch (avoine). Năm 1924 lại xảy ra vụ ngộ độc nữa cũng do cho ngựa ăn hạt không rang. Khi bị ngộ độc thì viêm ruột, ‘viêm màng óc’. Những chất độc khi rang lên sẽ phá huỷ cho nên rang lên mới dùng được.
 
 Một số tác giả châu Âu khác (Deliouxe Savignac, Dubonnex v.v...) đã nghiên cứu tác dụng chữa bệnh của hạt vọng giang nam mọc ở các nơi khác đã xác nhận hạt này có tác dụng chữa sốt và điều kinh. Tại các nước châu Phi, người ta dùng lá, rễ và hạt.
 

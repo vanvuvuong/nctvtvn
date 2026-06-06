@@ -3,6 +3,9 @@ title: "4. BẠCH ĐỒNG NỮ 白侗女"
 weight: 4
 navWeight: 997
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - khí hư
+  - vàng da
 keywords:
   - bệnh phụ nữ
   - bạch đồng nữ
@@ -26,7 +29,7 @@ Bạch đồng nữ là tên dùng để chỉ ít nhất 3 cây khác nhau, c�
 
 Cây nhỏ cao chừng 1m đến 1,5m. Lá rộng hình trứng, dài 10-20cm, rộng 8-18cm, đầu nhọn, phía cuống hình tim hay hơi phẳng, mép có răng cưa to, thô, mặt trên màu sẫm hơn, có lông ngắn, mặt dưới có màu nhạt hơn, gần như bóng, trên những đường gân hơi có lông mềm, vỏ có mùi hơi hôi đặc biệt của cây mò, cuống lá dài khoảng 8cm. Hoa màu hồng nhạt hay trắng, có mùi thơm, mọc thành hình mâm xôi gồm rất nhiều tán, toàn cụm hoa có đường kính khoảng 10cm. Đài hoa hình phễu, phía trên xẻ 5 thùy hình 3 cạnh tròn. Tràng hoa đường kính 1,5cm, phía dưới thành hình ống nhỏ, dài 2,5cm hay hơn, 4 nhị dính trên miệng ống tràng cùng với nhị thòi ra quá tràng.
 
-Vòi nhuỵ thường ngắn hơn chỉ nhị. Bầu thượng hình trứng. Quả hạch gần hình cầu, còn đài tồn tại bao ở ngoài ( Hình 8 ).
+Vòi nhuỵ thường ngắn hơn chỉ nhị. Bầu thượng hình trứng. Quả hạch gần hình cầu, còn đài tồn tại bao ở ngoài (Hình 8).
 
 ![bach-dong-nu-1](/images/8-bach-dong-nu.png)
 
@@ -86,4 +89,4 @@ Tên bạch đồng nữ và xích đồng nam còn dùng để chỉ một số
 
 1. Thứ hoa trắng gọi là _bạch đồng nữ, mò trắng_, tên khoa học là _Clerodendron sguamatum L_. cùng họ. Lá màu nhạt hơn cây trên; mỏng hơn, răng cưa nhỏ thanh hơn; hoa mọc thưa không thành hình mâm xỏi như cây trên, màu hoa hơi giống màu mỡ gà. Nhiều người chỉ dùng cây này uống còn cây trên chỉ dùng tắm ghẻ hoặc rửa ngoài và thường nhân dân chỉ hay dùng rễ. Theo kinh nghiệm gia đình và bản thân, dùng cả hai cây đều được nhưng cây có kiểu hoa mâm xôi phổ biến dễ tìm hơn (Hình 9, Hm 23).
 
-2. Thứ hoa có màu đỏ gọi là _mò đỏ, xích đồng nam Clerodendron infortanatum L_. (cũng có người gọi là xích đồng nữ cùng họ Cỏ roi ngựa _Verbenaceae_). Rấts giống cây _Clerodendron 5quamatum L_. Chì khác là hoa đỏ. Cùng một công dụng, nhưng thường ít dùng hơn loại hoa trắng ( Hình 10, Hm 2,4 ).
+2. Thứ hoa có màu đỏ gọi là _mò đỏ, xích đồng nam Clerodendron infortanatum L_. (cũng có người gọi là xích đồng nữ cùng họ Cỏ roi ngựa _Verbenaceae_). Rất giống cây _Clerodendron 5quamatum L_. Chì khác là hoa đỏ. Cùng một công dụng, nhưng thường ít dùng hơn loại hoa trắng (Hình 10, Hm 2,4).

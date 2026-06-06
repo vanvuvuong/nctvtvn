@@ -27,7 +27,7 @@ Khổ sâm (Radix Sophorae) là rễ phơi hay sấy khô của cây khổ sâm.
 
 #### A. Mô tả cây
 
-Cây nhỏ cao 0,5-1,2m. Rễ hình trụ, vỏ ngoài màu vàng lá kép long chim lẻ. mọc so le. Gồm 5-10 đôi lá chét. Lá chét hình mác dài 2-4,5cm, rông 7-16mm. Hoa mọc thành chùm dài 10-20cm. Hoa màu vàng trắng. Quả giáp dài 5-12cm, đường kính 5-8mm, đầu có mỏ dài chứa 3-7 hạt, gần hình cầu, màu đen ( Hình 634 ).
+Cây nhỏ cao 0,5-1,2m. Rễ hình trụ, vỏ ngoài màu vàng lá kép long chim lẻ. mọc so le. Gồm 5-10 đôi lá chét. Lá chét hình mác dài 2-4,5cm, rông 7-16mm. Hoa mọc thành chùm dài 10-20cm. Hoa màu vàng trắng. Quả giáp dài 5-12cm, đường kính 5-8mm, đầu có mỏ dài chứa 3-7 hạt, gần hình cầu, màu đen (Hình 634).
 
 []
 

@@ -26,7 +26,7 @@ Cây cỏ, cao 30-50cm, mọc bò. Ngọn non dẹt và có phủ lông tơ, mà
 
 Hình 205. Kim tiển thảo - Desmodium styraci/olium ỉ. Cành 2. Quả
 
-rất rõ. Hoa màu tía, mọc thành chùm xim ở kẽ lá. Quả đậu nhỏ, giữa các hạt thắt lại. Mùa hoa quả: Tháng 3-5 ( Hình 205 ).
+rất rõ. Hoa màu tía, mọc thành chùm xim ở kẽ lá. Quả đậu nhỏ, giữa các hạt thắt lại. Mùa hoa quả: Tháng 3-5 (Hình 205).
 
 #### B. Phân bố, thu hái và chẽ biến
 

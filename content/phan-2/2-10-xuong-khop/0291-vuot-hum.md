@@ -20,7 +20,7 @@ Thuộc họ Vang Caesalpiniaceae.
 
 A. Mò tả cây
 
-Cây nhỏ mọc thành bụi, thân cành có gai. Lá kép lông chim, cuống chung dài 30-40cm, cuống phụ dài 8-12cm, đều rất nhiều gai. Lá chét chừng 10 đôi, phiến lá chét hình trứng, đầu nhọn, dài 22-35mm, rộng 6-13mm, mặt dưới phủ lông mịn. Hoa mọc thành chùy ở đầu cành, gổm những chùm ớ kẽ. Cánh hoa màu vàng nhạt. Quả là một giáp hơi dẹi, dài 13cm, rộng 45mm, dày 2- 3cm, trên mặt có những gai quay ngược xuống, dài 12mm. Hạt 7 hay dưới 7, hình trụ, hai đầu tròn, dài 17mm, dày lOmm, màu đen xanh nhạt, vỏ rắt dày và cứng ( Hình 412).
+Cây nhỏ mọc thành bụi, thân cành có gai. Lá kép lông chim, cuống chung dài 30-40cm, cuống phụ dài 8-12cm, đều rất nhiều gai. Lá chét chừng 10 đôi, phiến lá chét hình trứng, đầu nhọn, dài 22-35mm, rộng 6-13mm, mặt dưới phủ lông mịn. Hoa mọc thành chùy ở đầu cành, gổm những chùm ớ kẽ. Cánh hoa màu vàng nhạt. Quả là một giáp hơi dẹi, dài 13cm, rộng 45mm, dày 2- 3cm, trên mặt có những gai quay ngược xuống, dài 12mm. Hạt 7 hay dưới 7, hình trụ, hai đầu tròn, dài 17mm, dày lOmm, màu đen xanh nhạt, vỏ rắt dày và cứng (Hình 412).
 
 B. Phản bô, thu hái và chế biến
 

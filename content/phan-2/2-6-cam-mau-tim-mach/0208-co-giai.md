@@ -18,7 +18,7 @@ Thuộc họ Cánh bướm Fabaceae (Papilionaceae).
 
 #### A. Mô tả cây
 
-Cổ giải là một loại cây gỗ lớn, cao từ 10-12m, tán cây xum xuê nhiều cành, nhiều lá. Thân cây to, tròn, đường kính có thể tới 30-40cm, mọc thẳng, màu nâu xanh thẫm, có nhiều nốt sần của lỗ bì thành những điểm hơi trắng bạc. Vỏ cây rất dễ bóc, để lộ lớp gỗ màu trắng. Lá mọc cách, kép lông chim, rìa lẻ với 5-9 lá chét, đôi khi chỉ có 3 lá chét (cây nhỏ). Lá chét dài 5-7cm, rộng 2-3cm. Lá chét có cuống ngắn 5-7mm. Hoa mọc thành chùm, màu trắng vàng. Quả giáp hình mã tấu, đầu nhọn, vỏ quả có lông màu vàng nâu nhạt, mịn ( Hình 254 ).
+Cổ giải là một loại cây gỗ lớn, cao từ 10-12m, tán cây xum xuê nhiều cành, nhiều lá. Thân cây to, tròn, đường kính có thể tới 30-40cm, mọc thẳng, màu nâu xanh thẫm, có nhiều nốt sần của lỗ bì thành những điểm hơi trắng bạc. Vỏ cây rất dễ bóc, để lộ lớp gỗ màu trắng. Lá mọc cách, kép lông chim, rìa lẻ với 5-9 lá chét, đôi khi chỉ có 3 lá chét (cây nhỏ). Lá chét dài 5-7cm, rộng 2-3cm. Lá chét có cuống ngắn 5-7mm. Hoa mọc thành chùm, màu trắng vàng. Quả giáp hình mã tấu, đầu nhọn, vỏ quả có lông màu vàng nâu nhạt, mịn (Hình 254).
 
 #### B. Phân bố, thu hái và chế biến
 

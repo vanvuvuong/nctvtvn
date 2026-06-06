@@ -33,7 +33,7 @@ Khiên là dắt, ngưu là trâu là vì có người dùng vị thuốc này k
 
 #### A. Mô tả cây
 
-Khiên ngưu là một loại dây leo, cuốn, thân mảnh, có điểm những lông hình sao. Lá hình tim, xẻ 3 thùy, nhẵn và xanh ở mặt trên, xanh nhạt và có lông ở mặt dưới, dài 14cm, rộng 12cm, cuống dài 5-9cm, gầy, nhẵn. Hoa màu hồng tím hay lam nhạt, lớn, mọc thành xim 1 đến 3 hoa, ở kẽ lá. Quả nang hình cầu, nhẵn, đường kính 8mm, có 3 ngăn. Hạt 2-4, hình 3 cạnh, lưng khum, hai bên dẹt, nhẵn, nhưng ở tễ hơi có lông, màu đen hay trắng tùy theo loài, dài 5-8mm, rộng 3-5mm. 100 hạt chỉ nặng chừng 4,5g ( Hình 343 ).
+Khiên ngưu là một loại dây leo, cuốn, thân mảnh, có điểm những lông hình sao. Lá hình tim, xẻ 3 thùy, nhẵn và xanh ở mặt trên, xanh nhạt và có lông ở mặt dưới, dài 14cm, rộng 12cm, cuống dài 5-9cm, gầy, nhẵn. Hoa màu hồng tím hay lam nhạt, lớn, mọc thành xim 1 đến 3 hoa, ở kẽ lá. Quả nang hình cầu, nhẵn, đường kính 8mm, có 3 ngăn. Hạt 2-4, hình 3 cạnh, lưng khum, hai bên dẹt, nhẵn, nhưng ở tễ hơi có lông, màu đen hay trắng tùy theo loài, dài 5-8mm, rộng 3-5mm. 100 hạt chỉ nặng chừng 4,5g (Hình 343).
 
 #### B. Phân bố, thu hái và chế biến
 

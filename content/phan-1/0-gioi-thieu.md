@@ -6,34 +6,62 @@ navWeight: 1000
 ---
 
 Giáo sư Tiến sĩ Đỗ Tất Lợi
+
 Những cây thuốc và vị thuốc Việt Nam
+
 Nhà xuất bản Y học
+
 Năm 2004
 
 ---
 
 Chịu trách nhiệm xuất bản:
+
 DS. HOÀNG TRỌNG QUANG
+
+---
+
 Biên tập:
+
 ĐẶNG THẾ VĨNH
+
 HOÀNG TRỌNG QUANG
+
 ĐỖ THANH BÌNH
+
+---
+
 Sửa bản in:
+
 ĐỖ TẤT LỢI
+
 NGUYỄN DUY DINH
+
+---
+
 Trình bày bìa:
+
 VĂN SÁNG
+
+---
+
 Tham gia vẽ hình:
+
 DS. BÙI XUÂN CHƯƠNG
+
+---
+
 Làm chế bản:
+
 KHUẤT DUY LINH ANH
 
 ---
 
-In 1.000 cuốn, khổ 19 x 27 cm, tại Công ty In Công Đoàn Việt Nam,
-167 Tây Sơn, Đống Đa, Hà Nội.
+In 1.000 cuốn, khổ 19 x 27 cm, tại Công ty In Công Đoàn Việt Nam, 167 Tây Sơn, Đống Đa, Hà Nội.
+
 Giấy phép XB số: 372-97/XB-QLXB cấp ngày 6/2/2004.
-in xong và nộp lưu chiểu tháng 6 năm 2004.
+
+In xong và nộp lưu chiểu tháng 6 năm 2004.
 
 ## LỜI GIỚI THIỆU
 

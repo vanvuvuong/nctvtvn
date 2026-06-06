@@ -20,7 +20,7 @@ Thuộc họ Ráy Araceae.
 
 #### A. Mô tả cây
 
-Cây sống lâu năm có củ to hình cầu dẹt có khi to hơn đầu một người lớn, thịt màu vàng, ăn hơi ngứa. Lá dơn có cuống dài tới 40cm hay hơn, màu xanh lục nâu có đốm trắng, xẻ ba thành những đoạn dài 50cm, phiến lá khía nhiều và sâu. Bông mo tận cùng bằng một phần bất thụ, hình trụ, màu tím. Mo màu nâu sẫm. Mùa hoa: mùa hạ và thu ( Hình 94 ).
+Cây sống lâu năm có củ to hình cầu dẹt có khi to hơn đầu một người lớn, thịt màu vàng, ăn hơi ngứa. Lá dơn có cuống dài tới 40cm hay hơn, màu xanh lục nâu có đốm trắng, xẻ ba thành những đoạn dài 50cm, phiến lá khía nhiều và sâu. Bông mo tận cùng bằng một phần bất thụ, hình trụ, màu tím. Mo màu nâu sẫm. Mùa hoa: mùa hạ và thu (Hình 94).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -58,7 +58,7 @@ Cây nhỏ hoặc nhỡ cao 2,5-5m. Toàn cảnh, lá phủ một lớp lông d�
 
 Cụm hoa hình xìm lưỡng phân hoặc xim ngù, hoa hình chén, phủ đầy lông mềm, ưàng hoa màu vàng nhạt, đường kính 0,5-1,3cm, với 6 cánh hoa hình mũi mác, đầu nhọn. Quả nhỏ, hình cầu, đường kính 6mm, hạt rất nhiều có vân mạng đường kính 2mm.
 
-Lá cây khi vò có mùi thơm phảng phất mùi hổng bì ( Hình 95, Hm 52,2 ).
+Lá cây khi vò có mùi thơm phảng phất mùi hổng bì (Hình 95, Hm 52,2).
 
 B. Phán bố, thu hái và chế biến
 
@@ -100,7 +100,7 @@ A. Mô iả cảy
 
 Cây sống hàng năm, cao khoảng 0,7-lm hay hơn. Toàn thân và lá có màu xanh lục nhạt. Phiến lá to ròng gần giống các loại cà cho quả ăn được, mép lá phân thùy không đều. Đặc biệt toàn thân cây, cuống và gân lá cả haì phía trên dưới đểu có nhiều gai nhọn sắc. Mặt trên và dưới của lá đều có một lớp mỏng lông mịn. Cụm hoa tán ngoài nách lá mọc thành chùm từ 3-5 cái, cánh hoa màu trắng hoặc xanh lục nhạt 5 cánh rời hình sao rộng 2cm. Tiểu nhị vàng, bao phấn dài 8- 9cm. Quả không có lông tròn, ữắng có bớt rằn xanh, khi chín có màu vàng tươi đường kính 2,5- 3cm. Mùa quả quanh năm nhưng nhiều quả nhất vào mùa khô (tháng 11, 12) ở Đà lạt (Lâm đồng)
 
-( Hình 96 ).
+(Hình 96).
 
 B. Phàn bổ và thu hái chế biến
 

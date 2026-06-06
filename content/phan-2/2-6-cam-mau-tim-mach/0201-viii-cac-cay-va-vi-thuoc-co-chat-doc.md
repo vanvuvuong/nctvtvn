@@ -21,7 +21,7 @@ Thuộc họ Hồ đào Juglandaceae.
 
 #### A. Mô tả cây
 
-Chẹo là một cây nhỡ cao chừng 8m cành và cuống lá thường mềm yếu. Lá kép lông chim nhẵn thường gồm 2 đến 5 đôi lá chét hình trứng dài, dai, có cuống, lá chét phía trên dài hơn, phiến lá chét dài 5-15mm. Hoa đực mọc thành hình đuôi sóc, mọc từ cành của năm truớe, hoa không cuống hay gần như không cuống, cụm hoa cái cũng mọc thành hình đuôi sóc ở phía trên hoa đực. Hoa có cuống. Quả mọc thành bóng dài chừng 25cm. Hạt được bao bọc bởi lá bắc có 3 thùy ( Hình 245 ).
+Chẹo là một cây nhỡ cao chừng 8m cành và cuống lá thường mềm yếu. Lá kép lông chim nhẵn thường gồm 2 đến 5 đôi lá chét hình trứng dài, dai, có cuống, lá chét phía trên dài hơn, phiến lá chét dài 5-15mm. Hoa đực mọc thành hình đuôi sóc, mọc từ cành của năm truớe, hoa không cuống hay gần như không cuống, cụm hoa cái cũng mọc thành hình đuôi sóc ở phía trên hoa đực. Hoa có cuống. Quả mọc thành bóng dài chừng 25cm. Hạt được bao bọc bởi lá bắc có 3 thùy (Hình 245).
 
 #### B. Phân bố
 
@@ -51,7 +51,7 @@ Cây củ đậu cho ta rễ củ ăn được, nhưng lá và hạt có chất 
 
 #### A. Mô tả cây
 
-Cây củ đậu là một loại cây leo, có rễ củ hình như con quay lớn. Lá kép gồm 3 lá chét, mỏng. Hình hơi quả trám dài 4-8cm, rộng 4-12cm, những lá phía dưới không đối xứng. Hoa màu tím nhạt, khá lớn, mọc thành chùm dài ở kẽ lá. Quả hơi có lông, không cuống, dài 12cm, rộng 12mm, ở khe các hạt hơi lõm xuống. Trong quả có tới 9 hạt, đường kính chừng 7mm, hình thấu kính. Hạt cứng khó giã nhỏ ( Hình 246 ).
+Cây củ đậu là một loại cây leo, có rễ củ hình như con quay lớn. Lá kép gồm 3 lá chét, mỏng. Hình hơi quả trám dài 4-8cm, rộng 4-12cm, những lá phía dưới không đối xứng. Hoa màu tím nhạt, khá lớn, mọc thành chùm dài ở kẽ lá. Quả hơi có lông, không cuống, dài 12cm, rộng 12mm, ở khe các hạt hơi lõm xuống. Trong quả có tới 9 hạt, đường kính chừng 7mm, hình thấu kính. Hạt cứng khó giã nhỏ (Hình 246).
 
 #### B. Phân bố và thu hái
 

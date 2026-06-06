@@ -40,7 +40,7 @@ Tên thường sơn vì có ở núi Thường Sơn, đất Ba Thục (Tứ Xuy�
 
 #### A. Mô tả cây
 
-Thường sơn là một loại cây nhỡ cao 1-2m, thân rỗng, dễ gẫy, vỏ ngoài nhẵn màu tím. Lá mọc đối, hình mác hai đầu nhọn, dài 13-20cm, rộng 35- 90mm, mép có răng cưa mặt trên xanh, mặt dưới tím đỏ, gân tím đỏ, không có lông hoặc hơi có lông. Hoa nhỏ màu xanh lam hay hồng, mọc thành chùm nhiều hoa mọc ở kẽ lá hay đầu cành. Quả mọng, khi chín màu xanh lam, đường kính 5mm, một ngăn, hạt nhiều nhỏ hình lê, có mạng ở mặt, dài không đầy 1mm ( Hình 500, Hm 35,4).
+Thường sơn là một loại cây nhỡ cao 1-2m, thân rỗng, dễ gẫy, vỏ ngoài nhẵn màu tím. Lá mọc đối, hình mác hai đầu nhọn, dài 13-20cm, rộng 35- 90mm, mép có răng cưa mặt trên xanh, mặt dưới tím đỏ, gân tím đỏ, không có lông hoặc hơi có lông. Hoa nhỏ màu xanh lam hay hồng, mọc thành chùm nhiều hoa mọc ở kẽ lá hay đầu cành. Quả mọng, khi chín màu xanh lam, đường kính 5mm, một ngăn, hạt nhiều nhỏ hình lê, có mạng ở mặt, dài không đầy 1mm (Hình 500, Hm 35,4).
 
 []
 
@@ -112,7 +112,7 @@ Cùng năm 1935, Kinh Lợi Bân và Lý Đăng Bảng cũng theo phương pháp
 
 Năm 1947 (Trung Hoa y học tạp chí, 33: 177), Trương Xương Thiệu và Hoàng Kỳ Chương cũng báo cáo thuốc thường sơn thô chế có tác dụng chữa sốt, nhưng ancaloit toàn bộ của thường sơn không có tác dụng chữa sốt.
 
-3. Tác dụng trên bộ máy tuần hoàn và hô hấp. Năm 1945, Hồ Thành Nhu và Lý Hồng Hiến (Nội khoa học báo 2: 840, 1950) báo cáo ancaloit của thường sơn có tác dụng hưng phấn đối với tim ếch và tim thỏ, nhưng chất R212 (monohydroclorit α dicroin ) lại có tác dụng ức chế đối với tim ếch cô lập.
+3. Tác dụng trên bộ máy tuần hoàn và hô hấp. Năm 1945, Hồ Thành Nhu và Lý Hồng Hiến (Nội khoa học báo 2: 840, 1950) báo cáo ancaloit của thường sơn có tác dụng hưng phấn đối với tim ếch và tim thỏ, nhưng chất R212 (monohydroclorit α dicroin) lại có tác dụng ức chế đối với tim ếch cô lập.
 
 Năm 1945 Vương Tiến Anh, Phó Vĩnh Phong và Trương Xương Thiệu đã dùng ancaloit của thường sơn thí nghiệm trên chó đã gây mê thấy hô hấp hưng phấn và huyết áp hạ xuống (Dược học 1-2, 111-131, 1953).
 
@@ -178,7 +178,7 @@ TÍA TÔ 紫蘇
 
 _Còn gọi là tử tô, tử tô tử, tô ngạnh._
 
-Tên khoa học _*Perilla ocymoides L. [Perilla nankinensis ( Lour.) Decne, Perilla frutescens (L.) Breit].*_
+Tên khoa học _*Perilla ocymoides L. [Perilla nankinensis (Lour.) Decne, Perilla frutescens (L.) Breit].*_
 
 Thuộc họ Hoa môi Lamiaceae (Labiatae.).
 
@@ -194,7 +194,7 @@ Ngoài công dụng làm gia vị, cây tía tô cho các vị thuốc sau đây
 
 #### A. Mô tả cây
 
-Tía tô là một loại cỏ mọc hằng năm, cao chừng 0,5-1,5cm. Thân thẳng đứng có lông. Lá mọc đối, hình trứng, đầu nhọn, mép có răng cưa to; phiến lá dài 4-12cm rộng 2,50-10cm, màu tím hoặc xanh tím, trên có lông màu tím. Người ta phân biệt thứ tía tô có lá màu tím hung là Perilla ocymoides var. purpurascens và thứ tía tô có lá màu lục, chỉ có gân màu hung (Perilla ocymoides var.bicolor). Cuống lá ngắn 2-3cm. Hoa nhỏ, màu trắng hoăc tím nhạt, mọc thành từng chùm ở kẽ lá hay đầu cành, chùm dài 6-20cm. Quả là hạch nhỏ, hình cầu, đường kính 1mm, màu nâu nhạt, có mạng ( Hình 501, Hm 39,2 ).
+Tía tô là một loại cỏ mọc hằng năm, cao chừng 0,5-1,5cm. Thân thẳng đứng có lông. Lá mọc đối, hình trứng, đầu nhọn, mép có răng cưa to; phiến lá dài 4-12cm rộng 2,50-10cm, màu tím hoặc xanh tím, trên có lông màu tím. Người ta phân biệt thứ tía tô có lá màu tím hung là Perilla ocymoides var. purpurascens và thứ tía tô có lá màu lục, chỉ có gân màu hung (Perilla ocymoides var.bicolor). Cuống lá ngắn 2-3cm. Hoa nhỏ, màu trắng hoăc tím nhạt, mọc thành từng chùm ở kẽ lá hay đầu cành, chùm dài 6-20cm. Quả là hạch nhỏ, hình cầu, đường kính 1mm, màu nâu nhạt, có mạng (Hình 501, Hm 39,2).
 
 []
 
@@ -328,7 +328,7 @@ Cây tre là mộc cây có thân rễ ngầm, sống lâu, mọc ra những ch�
 
 Cây tre cả đời chỉ ra hoa kết quả một lần. Hoa có 6 nhị. Sau khi ra hoa kết quả cây sẽ chết. Cho nên nhiều người thấy cây tre nhà mình ra hoa thì cho là độc. Sự thực đó chỉ là một hiện tượng sinh lý bình thường của cây tre.
 
-Tre vầu có nhiều loại như tre la ngà Bambusa blumeana Sch., cây hóp Bambusa multiplex Roeusch. v.v... đều là cây tre. Tại Trung Quốc, người ta dùng một loại vầu gọi là Phyllostachys nigra var. henonis Miff.) Staffa. ex Rendle thuộc cùng họ ( Hình 503).
+Tre vầu có nhiều loại như tre la ngà Bambusa blumeana Sch., cây hóp Bambusa multiplex Roeusch. v.v... đều là cây tre. Tại Trung Quốc, người ta dùng một loại vầu gọi là Phyllostachys nigra var. henonis Miff.) Staffa. ex Rendle thuộc cùng họ (Hình 503).
 
 []
 
@@ -362,7 +362,7 @@ Ngày dùng 10 đến 20g dưới dạng thuốc sắc. Dùng riêng hay phối 
 
 Chú thích:
 
-Ngoài vị trúc nhự, cây tre, cây vầu còn cho ta vị trúc diệp là lá tre hay lá vầu non, còn cuộn tròn, có khi người ta còn gọi là trúc diệp quyền tâm (búp tre). Dùng tươi hay khô đều được, nhưng tươi thì tốt hơn. Dùng như trúc nhự hay có khi còn dùng nấu nước xông để giải cảm, giảm sốt ( Hình 504).
+Ngoài vị trúc nhự, cây tre, cây vầu còn cho ta vị trúc diệp là lá tre hay lá vầu non, còn cuộn tròn, có khi người ta còn gọi là trúc diệp quyền tâm (búp tre). Dùng tươi hay khô đều được, nhưng tươi thì tốt hơn. Dùng như trúc nhự hay có khi còn dùng nấu nước xông để giải cảm, giảm sốt (Hình 504).
 
 []
 
@@ -428,7 +428,7 @@ Có tác giả còn tìm thấy một glucozit khác gọi là iridin C₂₄H�
 
 Belamcandin thuỷ phân sẽ cho glucoza và belamcangenin.
 
-Tectoridin thuỷ phân sẽ cho glucoza và tectorigenin (có tinh thể hình phiến, độ chảy 227-230°C ).
+Tectoridin thuỷ phân sẽ cho glucoza và tectorigenin (có tinh thể hình phiến, độ chảy 227-230°C).
 
 [C:\Users\User\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\0671.jpg]
 

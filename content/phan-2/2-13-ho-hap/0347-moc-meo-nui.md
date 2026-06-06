@@ -60,7 +60,7 @@ Thuộc họ Cánh bướm Fabaceae (Papilionaceae).
 
 #### A. Mô tả cây
 
-Cây nhỡ hóa gỗ ở gốc, cao 0,50-2m. Thân cành ba cạnh, có vài lông cứng trên các cạnh. Lá một lá chét, có hai mũi nhọn cong thành hình kim ở gốc của lá chét, lá chét hình ba cạnh, dài, cụt, hình tim ở gốc, lá kèm hình ba cạnh nhọn, dạng vẩy. Cụm hoa ở nách hay ở ngọn thành chùm làm thành một chùy ở ngọn. Hoa màu hồng, xếp 1-2 cái một. Đài nhẵn chia 4 thùy. Cánh cờ hình mắt chim, cánh bên hình trái xoan ngược, cánh thìa nhỏ hình mỏ cong. Nhị một bó, bầu có lông mềm, quả thẳng có lông màu tro mềm hơi cong ở các mép, chia 6-8 đốt. Mùa hoa: Tháng 6-9 ( Hình 359).
+Cây nhỡ hóa gỗ ở gốc, cao 0,50-2m. Thân cành ba cạnh, có vài lông cứng trên các cạnh. Lá một lá chét, có hai mũi nhọn cong thành hình kim ở gốc của lá chét, lá chét hình ba cạnh, dài, cụt, hình tim ở gốc, lá kèm hình ba cạnh nhọn, dạng vẩy. Cụm hoa ở nách hay ở ngọn thành chùm làm thành một chùy ở ngọn. Hoa màu hồng, xếp 1-2 cái một. Đài nhẵn chia 4 thùy. Cánh cờ hình mắt chim, cánh bên hình trái xoan ngược, cánh thìa nhỏ hình mỏ cong. Nhị một bó, bầu có lông mềm, quả thẳng có lông màu tro mềm hơi cong ở các mép, chia 6-8 đốt. Mùa hoa: Tháng 6-9 (Hình 359).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -92,7 +92,7 @@ Thuộc họ Hoa môi Labiatae (Lamiacae).
 
 #### A. Mô tả cây
 
-Cò cao 1-1,5m, thân đứng phân nhánh, lúc mới hơi tròn, sau vuông, có nhiều lông. Lá có cuống dài, phiến lá hình trứng, đầu tù, phía dưới hình tim, dài 2-6cm, rộng 1,5-2cm, mép có răng cưa, hai mặt đều phủ lông gân không nổi rõ. Hoa mọc thành xim thưa hoa ở kẽ lá. Hoa nhỏ có cuống dài, đài hình chuông 10 gân, 5 răng. Tràng màu xanh hơi tím, thò ra ngoài đài, ống hình trụ, họng hơi phồng, phiến hai môi, môi dưới hình túi, 4 nhị, 2 trội. Quả đóng tư dẹt, rốn rộng ( Hình 340).
+Cò cao 1-1,5m, thân đứng phân nhánh, lúc mới hơi tròn, sau vuông, có nhiều lông. Lá có cuống dài, phiến lá hình trứng, đầu tù, phía dưới hình tim, dài 2-6cm, rộng 1,5-2cm, mép có răng cưa, hai mặt đều phủ lông gân không nổi rõ. Hoa mọc thành xim thưa hoa ở kẽ lá. Hoa nhỏ có cuống dài, đài hình chuông 10 gân, 5 răng. Tràng màu xanh hơi tím, thò ra ngoài đài, ống hình trụ, họng hơi phồng, phiến hai môi, môi dưới hình túi, 4 nhị, 2 trội. Quả đóng tư dẹt, rốn rộng (Hình 340).
 
 #### B. Phân bố thu hái và chế biến
 

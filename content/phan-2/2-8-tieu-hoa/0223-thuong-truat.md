@@ -22,7 +22,7 @@ Thuộc họ Cúc Asieraceae (Compositae).
 
 A. Mò tả cây
 
-- Thương truật là một loại cây sống lâu năm, cao chừng 0,60m, có rễ phát triển thành củ to, thân mọc thẳng đứng. Lá mọc so le, gần như không có cuống, lá ở phía gốc chia 3 thùy nhưng cắt không sâu. 2 thùy 2 bên không lớn lắm, thùy giữa rất lớn, lá phía trên hình mác, không chia thùy. Mép lá trên lá dưới đều có răng cưa nhỏ nhọn. Cụm hoa hình đầu, tổng bao do 5-7 lớp như ngói lợp, lớp dưới cùng chia rất nhỏ hình lông chim. Hoa hình ống, những hoa phía ngoài là hoa cái, những hoa trong lưỡng ưnh, tràng hoa màu trắng hay tím nhạt, đỉnh chia 5 thùy xẻ xâu. 5 nhị (bị thoái hóí ở hoa cái), nhụy có đầu vòi chia hai, bầu có lónỄ mềm nhỏ. Cụm hoa thuơng truật so với cụm ho£ của bạch truật nhỏ và gầy hơn. Quả khô ( Htrứ 294 ).'
+- Thương truật là một loại cây sống lâu năm, cao chừng 0,60m, có rễ phát triển thành củ to, thân mọc thẳng đứng. Lá mọc so le, gần như không có cuống, lá ở phía gốc chia 3 thùy nhưng cắt không sâu. 2 thùy 2 bên không lớn lắm, thùy giữa rất lớn, lá phía trên hình mác, không chia thùy. Mép lá trên lá dưới đều có răng cưa nhỏ nhọn. Cụm hoa hình đầu, tổng bao do 5-7 lớp như ngói lợp, lớp dưới cùng chia rất nhỏ hình lông chim. Hoa hình ống, những hoa phía ngoài là hoa cái, những hoa trong lưỡng ưnh, tràng hoa màu trắng hay tím nhạt, đỉnh chia 5 thùy xẻ xâu. 5 nhị (bị thoái hóí ở hoa cái), nhụy có đầu vòi chia hai, bầu có lónỄ mềm nhỏ. Cụm hoa thuơng truật so với cụm ho£ của bạch truật nhỏ và gầy hơn. Quả khô (Htrứ 294).'
 
 B. Phàn bố, thu hái và chế biến
 

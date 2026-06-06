@@ -42,7 +42,7 @@ Người lớn uống 300g hạt để cả vỏ, trẻ con
 
 dưới 5 tuổi 50-70g, 5-7 tuổi lOOg, 7-10 tuổi
 
-150g ( Theo cách làm đã nêu ).
+150g (Theo cách làm đã nêu).
 
 Nếu sau khi uống hạt bí ngổ theo như liều nói trên, lại uống thêm cao dương xỉ đực Aspidium fìlix-mas (người lớn 2,5-3g, trẻ con tùy theo tuổi mà tính) tác dụng mạnh hơn. Chỉ uống cao dương xỉ sau khi đã uống hạt bí ngô được một giờ sẽ uống một liều thuốc tẩy muối.
 

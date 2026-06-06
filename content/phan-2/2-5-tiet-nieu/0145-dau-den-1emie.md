@@ -19,7 +19,7 @@ Tên khoa học _*của đâu đen hiện nay chưa được chính xác lắm. 
 
 #### A. Mô tả cây
 
-Đậu đen là một loại cỏ mọc hằng năm, toàn thân không có lông. Lá kép gồm 3 lá chét mọc so le, có lá kèm nhỏ, lá chét giữa to và dài hơn là chét hai bên. Hoa màu tím nhạt. Quà giáp dài, tròn, trong chứa từ 7 đến 10 hạt màu đen. Ngay trong đậu đen, lại có loại đậu đen trắng lòng và đậu đen xanh lòng. Đậu đen xanh lòng có nhân màu xanh nhạt ( Hình 177 ).
+Đậu đen là một loại cỏ mọc hằng năm, toàn thân không có lông. Lá kép gồm 3 lá chét mọc so le, có lá kèm nhỏ, lá chét giữa to và dài hơn là chét hai bên. Hoa màu tím nhạt. Quà giáp dài, tròn, trong chứa từ 7 đến 10 hạt màu đen. Ngay trong đậu đen, lại có loại đậu đen trắng lòng và đậu đen xanh lòng. Đậu đen xanh lòng có nhân màu xanh nhạt (Hình 177).
 
 #### B. Phân bố, thu hái và chế biến
 

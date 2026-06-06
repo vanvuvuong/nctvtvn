@@ -21,7 +21,7 @@ Thuộc họ Cỏ roi ngựa Verbenaceae.
 
 Cay nhỡ hay cây gỗ lớn, thường phân cành nhiều ở gốc, cao 5-25m. Những cành non lúc đầu phủ lông tơ trẵng hay xám sau đó nhẫn bóng, có nhiểu lỗ bì. Rề thở hình dùi, mọc nổi trên bùn. Lá thuôn hình thuỗn-mũi mác dài 4- 12cm, rộng 2-6cm, mặt trên nhẩn bóng, mặt dưới phủ lông, và mờ. Cả hai mặt đều có tuyến muối thừa.
 
-Hoa vàng hay vàng cam, mọc thành thùy ở ngọn cành gổm nhiều xim dài 3-15cm. Quả nang hình trứng dài 3-4cm, rộng 1,5-2cm, đỉnh nhọn, màu vàng lục ( Hình 438).
+Hoa vàng hay vàng cam, mọc thành thùy ở ngọn cành gổm nhiều xim dài 3-15cm. Quả nang hình trứng dài 3-4cm, rộng 1,5-2cm, đỉnh nhọn, màu vàng lục (Hình 438).
 
 Mắm đen-Avicennia marina Vierh var- rumphiana Bakhuìz là cây bụi hoặc cây nhỡ, ít khi là cây to. Các cành khúc khuỷu, lá hình trái xoan ngược, tròn đầu, thuôn dần ỏ gổc, mặt trên nhẵn, hoá đen khi lá rụng, mật dưới có nhiều lông hình đe màu trắng. Hoa giống như hoa loài trên.
 

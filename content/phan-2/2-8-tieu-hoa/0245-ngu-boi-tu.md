@@ -25,7 +25,7 @@ Ngũ bội tử (galla sìnensis) là những túi đặc biệt do nhộng củ
 
 Cầy muối là một cây nhỏ cao từ 2 đến 8m. Lá mọc so le, kép đìa lẻ, gổm 7 đến 14 lá chét. Cuống lá chung có dìa như cánh, trên có những lông ngắn màu vàng nâu nhạt. Lá chét không cuống, hình trứng, mép có răng cưa to, thò, dài 5-14cm, rộng
 
-2,5- 9cm. Cụm hoa hình chùy mọc ở đầu cành, dài 20-30cm. Hoa nhỏ, màu trắng sữa. Quả hạch màu vàng cam đỏ, một hạt. Mùa hoa các tháng 8-9, mùa quả tháng 10 ( Hình 330 ).
+2,5- 9cm. Cụm hoa hình chùy mọc ở đầu cành, dài 20-30cm. Hoa nhỏ, màu trắng sữa. Quả hạch màu vàng cam đỏ, một hạt. Mùa hoa các tháng 8-9, mùa quả tháng 10 (Hình 330).
 
 Khi cành non và cuống lá cây này bị một giống sâu đục thì sẽ xuất hiện những chỗ sùi lên hình dạng khác nhau dài từ 3 đến 6cm, khi thì giống quả trứng nhò, khi thì lại có nhiều nhánh. Trên mặt có lông mịn, ngắn màu xám nhạt, có chỗ màu đỏ nâu. Khi bẻ ta thấy thành dày l-2mm, cứng bóng như sừng. Trong có những lông nhỏ trắng như sợi len và mảnh con sâu. Những chỗ sùi này được gọi là bầu bí (tiếng kinh), mãc piêt (tiêng thổ Cao bằng),
 

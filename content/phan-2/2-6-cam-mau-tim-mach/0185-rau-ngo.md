@@ -21,7 +21,7 @@ Thuộc họ Cúc Asteraceae (Compositae).
 
 #### A. Mô tả cây
 
-Cây sống nổi hay ngập nước, dài hàng mét, thân hình trụ nhẵn, phân cành nhiều, có mắt. Lá mọc đối, không cuống, phía dưới ôm vào thân, mép có răng cưa, dài 5cm, rộng 6-10mm. Cụm hoa hình đầu không cuống màu trắng, lục nhạt, 4 lá bắc hình trái xoan. Những hoa ở ngoài là hoa cái hình thìa lìa, có tràng chia 3 thùy, những hoa trong lưỡng tính, hình ống có tràng hoa xẻ 5 răng. Nhị 5, bao phấn có tai nhọn, ngắn. Bầu hình trụ cong. Quả bế, không có mào lông ( Hình 228 ).
+Cây sống nổi hay ngập nước, dài hàng mét, thân hình trụ nhẵn, phân cành nhiều, có mắt. Lá mọc đối, không cuống, phía dưới ôm vào thân, mép có răng cưa, dài 5cm, rộng 6-10mm. Cụm hoa hình đầu không cuống màu trắng, lục nhạt, 4 lá bắc hình trái xoan. Những hoa ở ngoài là hoa cái hình thìa lìa, có tràng chia 3 thùy, những hoa trong lưỡng tính, hình ống có tràng hoa xẻ 5 răng. Nhị 5, bao phấn có tai nhọn, ngắn. Bầu hình trụ cong. Quả bế, không có mào lông (Hình 228).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -30,7 +30,7 @@ Theo những tài liệu ghi chép cũ thì sơn từ cô có tên khoa học l�
 
 Hình 43ì. Sơn từ cô - Pỉeione huỉbocodioídes
 
-những lá hình mác đài 2-3,5cm, màu xanh lục với gâíi chạy song song. Hoa, quả chưa rõ ( Hình 431).
+những lá hình mác đài 2-3,5cm, màu xanh lục với gâíi chạy song song. Hoa, quả chưa rõ (Hình 431).
 
 B. Phán bố, thu hái và chế biến
 

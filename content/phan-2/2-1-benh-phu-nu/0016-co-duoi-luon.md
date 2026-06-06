@@ -3,6 +3,8 @@ title: "16. CỎ ĐUÔI LƯƠN 田恝"
 weight: 16
 navWeight: 985
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - hậu sản
 keywords:
   - bệnh phụ nữ
   - cỏ đuôi lươn
@@ -18,7 +20,7 @@ Tên là cỏ đuôi lươn vì ngọn và cụm hoa giống đuôi con lươn. 
 
 #### A. Mô tả cây
 
-Cỏ đuôi lươn là một loại cỏ mọc đứng, cao chừng 0,35-1,30m. Trên thân có rất nhiều lông ngắn màu trắng, trông như len, nhiều nhất là ở phía dưới cụm hoa. Lá hình gươm, dài 8-70 cm, rộng 4-10mm, phía trên có vạch dọc, phía dưới có lông; lá ở gốc phủ lên nhau, có khi 4-5 lá, dài và hẹp; lá trên thân nhỏ hơn, mọc so le. Cụm hoa mọc thành bông dài 2-5cm. Lá bắc tồn tại như lá nhưng nhỏ có lông hoặc không có lông. Hoa mọc so le, không cuống. Đài 2, tràng 2, nhị 1, bầu 3 ngăn không rõ. Quả nang có lá bắc bao bọc, có lông mịn ( Hình 22 ).
+Cỏ đuôi lươn là một loại cỏ mọc đứng, cao chừng 0,35-1,30m. Trên thân có rất nhiều lông ngắn màu trắng, trông như len, nhiều nhất là ở phía dưới cụm hoa. Lá hình gươm, dài 8-70 cm, rộng 4-10mm, phía trên có vạch dọc, phía dưới có lông; lá ở gốc phủ lên nhau, có khi 4-5 lá, dài và hẹp; lá trên thân nhỏ hơn, mọc so le. Cụm hoa mọc thành bông dài 2-5cm. Lá bắc tồn tại như lá nhưng nhỏ có lông hoặc không có lông. Hoa mọc so le, không cuống. Đài 2, tràng 2, nhị 1, bầu 3 ngăn không rõ. Quả nang có lá bắc bao bọc, có lông mịn (Hình 22).
 
 ![co-duoi-luon](/images/22-co-duoi-luon.png)
 

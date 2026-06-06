@@ -145,7 +145,7 @@ Thuộc họ Gai Urticaceae.
 
 #### A. Mô tả cây
 
-Loại cỏ có cành mềm, thân có lông. Lá mọc so le, có khi mọc đối có lá kèm, hình mác, hẹp, trên gân và 2 mặt đều có lông nhất là ở mặt dưới, lá dài 4-9cm, rộng 1,5-2,5cm. Có 3 gân xuất phát từ cuống. Cuống dài 5mm có lông trắng. Cụm hoa đơn tính mọc thành xim co, ở kẽ lá có các hoa không cuống. Quả hình trứng nhọn, có bao hoa có lông ( Hình 559, Hm 48,2).
+Loại cỏ có cành mềm, thân có lông. Lá mọc so le, có khi mọc đối có lá kèm, hình mác, hẹp, trên gân và 2 mặt đều có lông nhất là ở mặt dưới, lá dài 4-9cm, rộng 1,5-2,5cm. Có 3 gân xuất phát từ cuống. Cuống dài 5mm có lông trắng. Cụm hoa đơn tính mọc thành xim co, ở kẽ lá có các hoa không cuống. Quả hình trứng nhọn, có bao hoa có lông (Hình 559, Hm 48,2).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -183,7 +183,7 @@ Cây hẹ cung cấp cho ta các vị thuốc:
 
 #### A. Mô tả cây
 
-Cây hẹ là một loại cỏ nhỏ, thường cao 20- 45cm, toàn cây vò có mùi đặc biệt. Dò nhỏ, dài mọc thành túm có rất nhiều rễ con. Lá hẹp, dài, dày, thường là 4-5 lá, dài 10-27cm rộng 1,5- 9mm, đầu nhọn. Hoa mọc trên một cọng hoa từ gốc lên, dài 15-30cm, tụ thành xim nhưng co ngắn lại thành tán giả. Cọng hoa hình hơi 3 cạnh, trên có các vạch dọc. Hoa màu trắng cuống hoa dài chừng 10-15mm, đường kính 4mm. Hạt nhỏ màu đen; mùa hoa thường vào tháng 6-7-8. Quả vào tháng 8-10 ( Hình 560, Hm 42,4 ).
+Cây hẹ là một loại cỏ nhỏ, thường cao 20- 45cm, toàn cây vò có mùi đặc biệt. Dò nhỏ, dài mọc thành túm có rất nhiều rễ con. Lá hẹp, dài, dày, thường là 4-5 lá, dài 10-27cm rộng 1,5- 9mm, đầu nhọn. Hoa mọc trên một cọng hoa từ gốc lên, dài 15-30cm, tụ thành xim nhưng co ngắn lại thành tán giả. Cọng hoa hình hơi 3 cạnh, trên có các vạch dọc. Hoa màu trắng cuống hoa dài chừng 10-15mm, đường kính 4mm. Hạt nhỏ màu đen; mùa hoa thường vào tháng 6-7-8. Quả vào tháng 8-10 (Hình 560, Hm 42,4).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -199,9 +199,9 @@ Viện nghiên cứu cây thuốc của Trung Quốc (Bắc Kinh) mới đây c�
 
 1. Chất ođorin trong hẹ có tác dụng kháng sinh đối với vi trùng Staphyllococcus aureus và Bacillus Coli (Khoa học và kỹ thuật-Trung văn, 1-1948).
 
-2. Năm 1961, Phòng đông y thực nghiệm Viện vi trùng ( Y học thực hành, 11.1961) có báo cáo nước ép tươi của hẹ có tính chất kháng sinh rất cao đối với nhiều loại vi trùng: Staphyllococcus (1cm), Salmonella typhi (1cm), Sh.Flexneri và Subtilis (0,8cm), Coli pathogéne và Coli bethesda (0,6cm). Tính chất kháng sinh này khá bền vững: Nước cốt ép ở hẹ, ly tâm để bỏ cặn, lấy nước trong hấp Tynsall để lâu vẫn giũ được tính chất kháng sinh. Nước hẹ không cay và nóng như tỏi, do đó trẻ em dễ dùng hơn dùng tỏi.
+2. Năm 1961, Phòng đông y thực nghiệm Viện vi trùng (Y học thực hành, 11.1961) có báo cáo nước ép tươi của hẹ có tính chất kháng sinh rất cao đối với nhiều loại vi trùng: Staphyllococcus (1cm), Salmonella typhi (1cm), Sh.Flexneri và Subtilis (0,8cm), Coli pathogéne và Coli bethesda (0,6cm). Tính chất kháng sinh này khá bền vững: Nước cốt ép ở hẹ, ly tâm để bỏ cặn, lấy nước trong hấp Tynsall để lâu vẫn giũ được tính chất kháng sinh. Nước hẹ không cay và nóng như tỏi, do đó trẻ em dễ dùng hơn dùng tỏi.
 
-Tính chất kháng sinh của hẹ chỉ mất một ít sau khi chịu tác dụng của pepsin ( Để trong môi trường pH 1.4-2; ở tủ ấm 37º sau 4 giờ). Nhưng nếu đun nóng ( sắc) thì mất hết tác dụng kháng sinh.
+Tính chất kháng sinh của hẹ chỉ mất một ít sau khi chịu tác dụng của pepsin (Để trong môi trường pH 1.4-2; ở tủ ấm 37º sau 4 giờ). Nhưng nếu đun nóng (sắc) thì mất hết tác dụng kháng sinh.
 
 Tính chất kháng sinh của hẹ tóm tắt trong bảng sau đây:
 
@@ -233,7 +233,7 @@ Cây núc nác cung cấp cho ta hai vị thuốc:
 
 #### A. Mô tả cây
 
-Cây to cao 7-12m, có thể cao tới 20-25m, thân nhẵn, ít phân nhánh, vỏ cây màu xám tro, nhưng khi bẻ có màu vàng nhạt. Lá to 2-3 lần kép lông chim, dài tới 2m. Lá chét hình bầu dục, nguyên, đầu nhọn, dài 7,5-15cm, rộng 5-6,5cm. Hoa màu đỏ tím, to mẫm, mọc thành chùm ở đầu cành, dài tới 1m, 5 nhị trong đó có 1 nhị nhỏ hơn. Quả nang to, dài tới 50-80cm, rộng 5-7cm, trong chứa hạt, bao quanh có một màng mỏng, bóng và trong, hơi thành hình chữ nhật ( Hình 561, Hm 30,4).
+Cây to cao 7-12m, có thể cao tới 20-25m, thân nhẵn, ít phân nhánh, vỏ cây màu xám tro, nhưng khi bẻ có màu vàng nhạt. Lá to 2-3 lần kép lông chim, dài tới 2m. Lá chét hình bầu dục, nguyên, đầu nhọn, dài 7,5-15cm, rộng 5-6,5cm. Hoa màu đỏ tím, to mẫm, mọc thành chùm ở đầu cành, dài tới 1m, 5 nhị trong đó có 1 nhị nhỏ hơn. Quả nang to, dài tới 50-80cm, rộng 5-7cm, trong chứa hạt, bao quanh có một màng mỏng, bóng và trong, hơi thành hình chữ nhật (Hình 561, Hm 30,4).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -315,7 +315,7 @@ Ta dùng tô hạp hương hay tô hạp du (Styrax liquidus) là nhựa dầu l
 
 #### A. Mô tả cây
 
-Cây tô hạp hương là một cây to có thể cao 12-15m. Lá hình chân vịt, cuống dài, có 3 hoặc 5 thuỳ mép có răng cưa. Hoa đơn tính mọc ở kẽ lá, hoa đực thành bông, hoa cái họp thành hình cầu, trong có hạt dẹt. Trong vỏ cây có chất nhựa tức là tô hạp hương ( Hình 562).[10]
+Cây tô hạp hương là một cây to có thể cao 12-15m. Lá hình chân vịt, cuống dài, có 3 hoặc 5 thuỳ mép có răng cưa. Hoa đơn tính mọc ở kẽ lá, hoa đực thành bông, hoa cái họp thành hình cầu, trong có hạt dẹt. Trong vỏ cây có chất nhựa tức là tô hạp hương (Hình 562).[10]
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -361,7 +361,7 @@ An tức hương (Benzoinum-Benzoe) là nhựa của cây cánh kiến trắng h
 
 #### A. Mô tả cây
 
-Cánh kiến trắng là một cây nhỏ, có thể cao chừng 15m. Búp non phủ lông mịn màu vàng nhạt. Lá mọc so le, có cuống. Phiến lá nguyên, hình trứng, tròn ở phía dưới, nhọn dài ở đầu, mặt dưới màu trắng nhạt do có nhiều lông mịn, mặt trên màu lục nhạt. Lá dài 6-15cm, rộng 2- 2,5cm. Hoa nhỏ trắng thơm mọc thành chùm, ít phân nhánh mang ít hoa. Quả hình cầu, đường kính 10-16mm phía dưới mang đài còn sót lại, mặt ngoài quả có lông hình sao ( Hình 563).
+Cánh kiến trắng là một cây nhỏ, có thể cao chừng 15m. Búp non phủ lông mịn màu vàng nhạt. Lá mọc so le, có cuống. Phiến lá nguyên, hình trứng, tròn ở phía dưới, nhọn dài ở đầu, mặt dưới màu trắng nhạt do có nhiều lông mịn, mặt trên màu lục nhạt. Lá dài 6-15cm, rộng 2- 2,5cm. Hoa nhỏ trắng thơm mọc thành chùm, ít phân nhánh mang ít hoa. Quả hình cầu, đường kính 10-16mm phía dưới mang đài còn sót lại, mặt ngoài quả có lông hình sao (Hình 563).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -395,7 +395,7 @@ Thuộc họ Viễn chí Polygalaceae.
 
 Vị viễn chi (Radix Polygalae) hiện nay ta đang dùng đều còn phải nhập.
 
-Viễn chí là rễ khô của cây viễn chí lá nhỏ (Polygala tenuifolia Willd.) hoặc cây viễn chí Xibêri (Polygala sibirica L.) đều thuộc họ Viễn chí Polygalaceae. Chữ Polygala do chữ Polys là nhiều, gala là sữa vì bò ăn cây này có nhiều sữa. Tenuifolia= lá nhỏ ( Hình 564).
+Viễn chí là rễ khô của cây viễn chí lá nhỏ (Polygala tenuifolia Willd.) hoặc cây viễn chí Xibêri (Polygala sibirica L.) đều thuộc họ Viễn chí Polygalaceae. Chữ Polygala do chữ Polys là nhiều, gala là sữa vì bò ăn cây này có nhiều sữa. Tenuifolia= lá nhỏ (Hình 564).
 
 Tên viễn chí là do người xưa cho rằng uống vị thuốc này làm cho người ta bền trí nhớ lâu. Ở nước ta theo các tài liệu, có nhiều cây thuộc chi Polygala. Đã phát hiện lại một số nhưng chưa xác định được loài và chưa được khai thác. Chúng tôi giới thiệu ở đây để ta chú ý nghiên cứu khai thác.
 
@@ -531,7 +531,7 @@ Bồ kết: Theo các tài liệu cổ thì bồ kết (bỏ hạt, hoặc đố
 
 [7] Đừng nhầm cây bồng bồng với một cây bồng bồng thuộc họ Hành tỏi. Nhân dân dùng nấu với tôm làm canh.
 
-[8] Nhiều tác giả gần đây đều nhập họ thủy tiên ( Amaryllidaceae) vào họ Liliaceace
+[8] Nhiều tác giả gần đây đều nhập họ thủy tiên (Amaryllidaceae) vào họ Liliaceace
 
 [9] Ở nước ta mới chắc chắn có cây sau sau, cây sâu, sâu trắng Liquidambar formosana Hance cùng họ. Người ta thường nuôi sâu cước để lấy chỉ cước khâu nón lá. Khía thân cũng lấy được một chất nhựa màu vàng nhạt, mùi thơm nhẹ. Trong nhựa này có axit xinamic, xinamyl xinamat và l.bocneola. Ở Việt Nam chưa thấy dùng làm thuốc (nhưng Trung Quốc dùng làm thuốc).
 

@@ -22,7 +22,7 @@ A. Mò tả cày
 
 Cay nhỏ mọc thẳng, thân thường có nhiều u lồi. Cành nhiểu và mảnh, thường nằm ngang, đầu hơi rủ xuống. Lá hình trứng ngược, đầu lá tù, đuối lá hình nêm, dài 7-17cm, rộng 2,5-6cm, gân lá rõ ở cả hai mặt, đường gân phụ nối liền với nhau ở mép. Cuống M mảnh, dài gần 2cm. Cụm hoa đực có 3-8 hoa xếp hình tán, hoa có cuống dài lcm, đài 4, tràng 4 cánh dày, nhị xếp thành một khối, chỉ nhị ngắn. Hoa lưỡng tính đơn lẻ, hay tụ thành 2-3 hoa mọc ở nách lá, gần không cuống, nhị họp thành 4 bó, mỗi bó 1 -8, bao phấn 4 ó. Bầu thượng 6-9 ó, đầu nhi xẻ
 
-4- 8 thùy hình nêm. Quả mập hình cầu dẹt, trên có nhũng múi nổi rõ ( Hình 322 ).
+4- 8 thùy hình nêm. Quả mập hình cầu dẹt, trên có nhũng múi nổi rõ (Hình 322).
 
 #### B. Phân bố, thu hái và chế biến
 

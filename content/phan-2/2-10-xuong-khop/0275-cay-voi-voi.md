@@ -24,7 +24,7 @@ Tên vòi voi vì cụm hoa của cây giống hình vòi con voi.
 
 Cây vòi voi là một loại cỏ cao từ 0,20-0,40m, thân khỏe, cứng, mang nhiểu cành, trên thân và cành đều có lông. Lá hình trứng dài, phía cuống tròn và hơi hẹp lại, phía đầu tù, phiến lá dài 5- 9cm, rông 3-5cm, cả hai mạt đều nhiều lồng, mép có răng cưa không đều, cuống lá có dìa nhất là phía ưên, dài 3-7cm. Hoa tím nhạt hoặc trắng, không cuống, so le, nhưng Liền nhau trên
 
-2 hàng tạo thành cụm hoa xim bọ cạp ở đầu cành hay kẽ lá. Quả gồm 4 hạch nhỏ, trên đỉnh dính vào nhau, phía dưới xa nhau cao 4mm, càng lên phía trên càng hẹp lại, khi chín thì tách ra ( Hình 385 ).
+2 hàng tạo thành cụm hoa xim bọ cạp ở đầu cành hay kẽ lá. Quả gồm 4 hạch nhỏ, trên đỉnh dính vào nhau, phía dưới xa nhau cao 4mm, càng lên phía trên càng hẹp lại, khi chín thì tách ra (Hình 385).
 
 #### B. Phân bố, thu hái và chế biến
 

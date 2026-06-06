@@ -22,7 +22,7 @@ Thuộc họ Cúc Asteraceae (Compositae).
 
 #### A. Mô tả cây
 
-Cây nhỏ cao 2-3m, cành gầy, lúc đầu có phủ lông, sau nhẵn. Lá gần hình bầu dục, hơi nhọn đầu, gốc thuôn dài, có răng cưa ở mép, mặt dưới có lông mịn, phiến dài 4-5cm, rộng l-2,5cm. Cụm hoa mọc thành ngù ở ngọn. Hoa hình đầu có cuống ngắn, màu tím nhạt, nhóm họp thành 2-3 cái. Lá bắc 4-5 dãy, hoa lưỡng tính nhiều. Mào lông màu trắng bẩn. Tràng hoa cái mảnh, 4 răng nhỏ. Tràng hoa lưỡng tính phình to ở đỉnh, có 5 thùy. Nhị 5, bao phấn có tai, hình dùi, bầu hơi có lông. Quả bế hình trụ-thoi, 10 cạnh. Hoa quả ra vào tháng 12. Trên cây thường có loại tơ hồng mọc và sống nhờ ( Hình 528, Hm 40,4 ).
+Cây nhỏ cao 2-3m, cành gầy, lúc đầu có phủ lông, sau nhẵn. Lá gần hình bầu dục, hơi nhọn đầu, gốc thuôn dài, có răng cưa ở mép, mặt dưới có lông mịn, phiến dài 4-5cm, rộng l-2,5cm. Cụm hoa mọc thành ngù ở ngọn. Hoa hình đầu có cuống ngắn, màu tím nhạt, nhóm họp thành 2-3 cái. Lá bắc 4-5 dãy, hoa lưỡng tính nhiều. Mào lông màu trắng bẩn. Tràng hoa cái mảnh, 4 răng nhỏ. Tràng hoa lưỡng tính phình to ở đỉnh, có 5 thùy. Nhị 5, bao phấn có tai, hình dùi, bầu hơi có lông. Quả bế hình trụ-thoi, 10 cạnh. Hoa quả ra vào tháng 12. Trên cây thường có loại tơ hồng mọc và sống nhờ (Hình 528, Hm 40,4).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -26,7 +26,7 @@ Thuộc họ Bí Cucurbitaceae.
 
 #### A. Mô tả cây
 
-Mướp đắng là một loại dây leo, thân có góc cạnh, ở ngọn hơi có lông tơ. Lá mọc so le, dài 5- 10cm, rộng 4-8cm, phiến lá chia 5-7 thuỳ hình trứng, mép có răng cưa đều, mặt dưới lá màu nhạt hơn mặt trên, trên gân lá có lông ngắn. Hoa mọc đơn độc ở kẽ lá, đực cái cùng gốc, có cuống dài, cánh hoa màu vàng nhạt, đường kính của hoa chừng 2cm. Quả hình thoi dài 8-15cm, trên mặt có nhiều u nổi lên, quả chưa chín có màu vàng xanh, khi chín có màu vàng hồng, trong quả có hạt dẹt dài 13-15mm, rộng 7-8mm, trông gần giống hạt bí ngô, quanh hạt có màng màu đỏ máu như màng gấc ( Hình 566).
+Mướp đắng là một loại dây leo, thân có góc cạnh, ở ngọn hơi có lông tơ. Lá mọc so le, dài 5- 10cm, rộng 4-8cm, phiến lá chia 5-7 thuỳ hình trứng, mép có răng cưa đều, mặt dưới lá màu nhạt hơn mặt trên, trên gân lá có lông ngắn. Hoa mọc đơn độc ở kẽ lá, đực cái cùng gốc, có cuống dài, cánh hoa màu vàng nhạt, đường kính của hoa chừng 2cm. Quả hình thoi dài 8-15cm, trên mặt có nhiều u nổi lên, quả chưa chín có màu vàng xanh, khi chín có màu vàng hồng, trong quả có hạt dẹt dài 13-15mm, rộng 7-8mm, trông gần giống hạt bí ngô, quanh hạt có màng màu đỏ máu như màng gấc (Hình 566).
 
 []
 

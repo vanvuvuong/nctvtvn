@@ -20,7 +20,7 @@ Thuộc họ Táo la Rhamnaceae
 
 #### A. Mô tả cây
 
-Cây gỗ cao 10m hay hơn. Cành non có lông và nốt sần. Lá mọc so le, có cuống dài, phiến lá hình trứng, nhọn, mép có răng cưa, 3 gân toả từ gốc lá, phiến lá dài 10-15cm, rộng 5-9cm. Hoa màu trắng hay lục nhạt mọc thành xim ở kẽ lá hay đầu cành. Quả hình cầu, khi chín những nhánh con mang quả phồng to lên, màu hồng nhạt, vị ngọt, ăn được ( Hình 169, Hm 46,4 ).
+Cây gỗ cao 10m hay hơn. Cành non có lông và nốt sần. Lá mọc so le, có cuống dài, phiến lá hình trứng, nhọn, mép có răng cưa, 3 gân toả từ gốc lá, phiến lá dài 10-15cm, rộng 5-9cm. Hoa màu trắng hay lục nhạt mọc thành xim ở kẽ lá hay đầu cành. Quả hình cầu, khi chín những nhánh con mang quả phồng to lên, màu hồng nhạt, vị ngọt, ăn được (Hình 169, Hm 46,4).
 
 []
 

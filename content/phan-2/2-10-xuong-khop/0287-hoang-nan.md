@@ -34,7 +34,7 @@ Hoàng nàn là một loại cây mọc leo, cành gầy, nhẵn, có những m�
 
 Hình 405. Hoảng nàn - Strychnos wallichiana
 
-người cho hoàng nàn là vỏ cày mã tiền. Thu hái hạt thì gọi là mã tiền, thu hái vỏ thì gọi là hoàng nàn ( Hình 405, Hm 42,1).
+người cho hoàng nàn là vỏ cày mã tiền. Thu hái hạt thì gọi là mã tiền, thu hái vỏ thì gọi là hoàng nàn (Hình 405, Hm 42,1).
 
 #### B. Phân bố, thu hái và chê biến
 
@@ -144,7 +144,7 @@ Khoai tây chủ yếu là một cây lương thực; ở dày chúng tôi chỉ
 
 A. Mó tả cây
 
-Khoai tây là một cây sống lâu do củ với những chồi của thân ngầm. Thân thảng cao 30~80cm, mang lá kép xẻ lóng chim, với lá chét to nhỏ khác nhau. Hoa mọc thành xim, màu tím hay trắng. Quả mọng hình cầu, xanh nhạt hay tím nhạt, chứa rất nhiểu hạt nhỏ hình thận ( Hình 407).
+Khoai tây là một cây sống lâu do củ với những chồi của thân ngầm. Thân thảng cao 30~80cm, mang lá kép xẻ lóng chim, với lá chét to nhỏ khác nhau. Hoa mọc thành xim, màu tím hay trắng. Quả mọng hình cầu, xanh nhạt hay tím nhạt, chứa rất nhiểu hạt nhỏ hình thận (Hình 407).
 
 B. Phán bố, thu hái và chế biến
 

@@ -25,7 +25,7 @@ Thuộc họ Cà Soỉanaceae
 
 Cà gai leo thuộc loại cây nhỡ leo, thân dài
 
-0, 60-lm hay hơn, rất nhiều gai, cành xòa rộng, trên phủ lông hình sao. Lá hình trứng hay thuôn, phía gốc lá hình rìu hay hơi tròn, mép nguyên hay hơi lưcm và khía thùy, hai mặt, nhất là mạt dưởi phủ lông ưắng nhạt, phiến dài 3-4cm, rộng 12-20mm, £Ó gai, cuống dài 4-5mm. Hoa tím nhạt, nhị vàng, họp thành xim gồm 2-5 hoa. Quả hình cầu, khi chín có màu vàng, bóng, nhẵn, đường kính 5-7mm. Hạt màu vàng, hình thận, có mạng, dài 4mm, rộng 2mm. ( Hình 427)
+0, 60-lm hay hơn, rất nhiều gai, cành xòa rộng, trên phủ lông hình sao. Lá hình trứng hay thuôn, phía gốc lá hình rìu hay hơi tròn, mép nguyên hay hơi lưcm và khía thùy, hai mặt, nhất là mạt dưởi phủ lông ưắng nhạt, phiến dài 3-4cm, rộng 12-20mm, £Ó gai, cuống dài 4-5mm. Hoa tím nhạt, nhị vàng, họp thành xim gồm 2-5 hoa. Quả hình cầu, khi chín có màu vàng, bóng, nhẵn, đường kính 5-7mm. Hạt màu vàng, hình thận, có mạng, dài 4mm, rộng 2mm. (Hình 427)
 
 B. Phàn bố, thu hái và chế biến
 

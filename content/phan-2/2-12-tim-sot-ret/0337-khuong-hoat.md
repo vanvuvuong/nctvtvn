@@ -33,7 +33,7 @@ Vị này còn phải nhập của Trung Quốc, do đó cần chú ý nguồn g
 
 #### A. Mô tả cây
 
-Khuơng hoạt (Notopterygium incisium) là một cây sống lâu năm, toàn cây có mùi thơm đặc biệt; thân rễ to thô, có đốt. Thân cây cao từ 0,5- 1m, không phân nhánh, thân phía dưới hơi có màu tím. Lá mọc so le, kép lông chim, phiến lá chia thùy, mép có răng cưa, mặt trên màu tím nhạt, mặt dưới màu xanh nhạt; phía dưới cuống lá phát triển thành bẹ ôm lấy thân. Hoa rất nhỏ, màu trắng, hoa họp thành hình tán kép. Quả bế đôi hình thoi dẹp, màu nâu đen, 2 mép và ở lưng phát triển thành dìa ( Hình 513).
+Khuơng hoạt (Notopterygium incisium) là một cây sống lâu năm, toàn cây có mùi thơm đặc biệt; thân rễ to thô, có đốt. Thân cây cao từ 0,5- 1m, không phân nhánh, thân phía dưới hơi có màu tím. Lá mọc so le, kép lông chim, phiến lá chia thùy, mép có răng cưa, mặt trên màu tím nhạt, mặt dưới màu xanh nhạt; phía dưới cuống lá phát triển thành bẹ ôm lấy thân. Hoa rất nhỏ, màu trắng, hoa họp thành hình tán kép. Quả bế đôi hình thoi dẹp, màu nâu đen, 2 mép và ở lưng phát triển thành dìa (Hình 513).
 
 []
 
@@ -85,7 +85,7 @@ Giao bạch tử (Fructus Zizaniae) là quả cây niễng phơi hay sấy khô.
 
 #### A. Mô tả cây
 
-Niễng là một loại cỏ sống lâu năm, trông giống lau, sậy, mọc dưới nước hay dưới đất nhiều bùn, cao tới 1-2m, rễ nhiểu, thân rễ và thân bò (đường kính 1-1,5cm) rất phát triển. Thân rỗng có vách ngang. Thân đứng, nhẵn, phần dưới gốc rất phát triển, xổp, phía ngọn gầy hơn. Lá dài, hình mác dài từ 0,30-1m, rộng 2-3cm, cả hai mặt đều nháp, hai bên mép dày lên. Cụm hoa là chùy hẹp, dài 30-50cm, trục to nhiều nhánh mang hoa cái ở phía trên và hoa đực ở phía dưới ( Hình 514).
+Niễng là một loại cỏ sống lâu năm, trông giống lau, sậy, mọc dưới nước hay dưới đất nhiều bùn, cao tới 1-2m, rễ nhiểu, thân rễ và thân bò (đường kính 1-1,5cm) rất phát triển. Thân rỗng có vách ngang. Thân đứng, nhẵn, phần dưới gốc rất phát triển, xổp, phía ngọn gầy hơn. Lá dài, hình mác dài từ 0,30-1m, rộng 2-3cm, cả hai mặt đều nháp, hai bên mép dày lên. Cụm hoa là chùy hẹp, dài 30-50cm, trục to nhiều nhánh mang hoa cái ở phía trên và hoa đực ở phía dưới (Hình 514).
 
 []
 

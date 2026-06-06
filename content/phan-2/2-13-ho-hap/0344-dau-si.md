@@ -117,7 +117,7 @@ Sả là loại cỏ sống lâu năm, mọc thành bụi, cao từ 0,8-1,5m hay
 
 Hình 530. Sả - Cymbopogon nardus
 
-Ngoài hai nhóm này còn một số loài sả cho tinh dầu có thành phần khác hẳn mặc dầu về hình thái và giải phẫu rất khó phân biệt như loài sả Cymbopogon martinii (Roxb.) Wats. thì thứ motia cho tinh dầu gọi là essence Palma rosa hay Geranium des Indes chứa tới 75-95% geraniola, còn thứ sofia lại cho một thứ tinh dầukhông chứa geraniola mà lại chỉ có ancol perilic ( Hình 530, Hm 14,3 ).
+Ngoài hai nhóm này còn một số loài sả cho tinh dầu có thành phần khác hẳn mặc dầu về hình thái và giải phẫu rất khó phân biệt như loài sả Cymbopogon martinii (Roxb.) Wats. thì thứ motia cho tinh dầu gọi là essence Palma rosa hay Geranium des Indes chứa tới 75-95% geraniola, còn thứ sofia lại cho một thứ tinh dầukhông chứa geraniola mà lại chỉ có ancol perilic (Hình 530, Hm 14,3).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -129,7 +129,7 @@ Nhưng diện tích trồng sả để cất tinh dầu lại rất lớn: Từ 
 
 Nhân dân ta dùng rễ và toàn cây tươi khô. Hoạt chất của sả như thế nào hiện chưa thấy tài liệu nghiên cứu. Chỉ mới biết trong sả có 1 đến 2% tinh dầu.
 
-Tùy theo loài sả, thành phần của tinh dầu thay đổi và có giá trị khác nhau. Tinh dầu sả cất từ cây sả Cymbopogon nardus (L.) Rendl. (sả Xrilanca) và cây Cymbopogon winterianus Jowitt (sả Giava) có từ 20 đến 40% geraniola và citronellola, 40 đến 60% xitronellala. Loài thứ hai được trồng nhiều ở Giava, Đài Loan, Trung Mỹ (Guatemala), Ghinê, Mangat. Tinh dầu sả cất từ cây sả chanh Cymbopogon flexuosus và C. citratus chứa từ 70 đến 80% xitral. Loại sả chanh này được trồng nhiều ở Ấn Độ, Mangat, đảo Como, Trung Mỹ (Guatemala), châu Phi ( Côngô, Kênya). Tinh dầu sả cất từ loài Cymbopogon martinii var. motia chứa 75-95% geraniola còn var. sofia chứa ancol perilic.
+Tùy theo loài sả, thành phần của tinh dầu thay đổi và có giá trị khác nhau. Tinh dầu sả cất từ cây sả Cymbopogon nardus (L.) Rendl. (sả Xrilanca) và cây Cymbopogon winterianus Jowitt (sả Giava) có từ 20 đến 40% geraniola và citronellola, 40 đến 60% xitronellala. Loài thứ hai được trồng nhiều ở Giava, Đài Loan, Trung Mỹ (Guatemala), Ghinê, Mangat. Tinh dầu sả cất từ cây sả chanh Cymbopogon flexuosus và C. citratus chứa từ 70 đến 80% xitral. Loại sả chanh này được trồng nhiều ở Ấn Độ, Mangat, đảo Como, Trung Mỹ (Guatemala), châu Phi (Côngô, Kênya). Tinh dầu sả cất từ loài Cymbopogon martinii var. motia chứa 75-95% geraniola còn var. sofia chứa ancol perilic.
 
 #### D. Công dụng và liều dùng
 

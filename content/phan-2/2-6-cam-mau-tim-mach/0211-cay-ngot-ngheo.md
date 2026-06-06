@@ -80,7 +80,7 @@ Thổ tam thất là một loại cỏ sống lâu năm, cao chừng 6-90cm. R�
 
 Một cây thuộc họ Gừng Zingiberaceae loài Stablianthus thorelli Gagnep. có thân rễ nhỏ cũng được bán với tên tam thất. Cần chú ý tránh nhám lẫn, nhất là mua giá quá đắt một cây trồng rất dễ, ít giá trị.
 
-Còn một cây nữa là tam thất Vũ diệp ( Panax bipinnatifidus), ( Hm 21, 4).
+Còn một cây nữa là tam thất Vũ diệp (Panax bipinnatifidus), (Hm 21, 4).
 
 [3] Tại những nước phương tây, người ta dùng dễ cây Rubia tinctorum L. với ùng một công dụng. Trước đây việc trồng cây này rất phát triển để làm thuốc nhuộm, có năm sản xuất lên tới 6 vạn tấn rễ. Nhưng sau khi tổng hợp được alizarin việc trồng cây này kém phát triển và từ đó việc dùng cây này làm thuốc ít dần.
 
@@ -88,7 +88,7 @@ Còn một cây nữa là tam thất Vũ diệp ( Panax bipinnatifidus), ( Hm 21
 
 [5] Đừng nhầm cây ba gạc này với một cây khác Evodia lepta (Spreng) Merr (Evodia triphylla DC.) thuộc họ Cam quít (Rutaceae). Nhân dân cũng gọi là ba gạc hay ba chạc. Cây này nhân dân dùng lá tắm ghẻ hay chữa mụn nhọt. Cây cao 4-5m. Lá có 3 lá chét, phiến lá nguyên, và có chứa tinh dầu mùi thơm hơi có mùi long não.
 
-[6] Ở nước ta còn thấy mọc ba gạc Rauwolfia cambodiana Pierre ex Pitard và ba gạc 4 lá Rauwolfia vomitoria Afz. cùng họ, đều có thể đặt vấn đề khai thác ( Hm 30.3 ).
+[6] Ở nước ta còn thấy mọc ba gạc Rauwolfia cambodiana Pierre ex Pitard và ba gạc 4 lá Rauwolfia vomitoria Afz. cùng họ, đều có thể đặt vấn đề khai thác (Hm 30.3).
 
 [7] Theo A. Petelot, ba kích có tên khoa học Herpestis monniera H. B. K (xem vị này với tên ruột gà).
 
@@ -100,7 +100,7 @@ Còn một cây nữa là tam thất Vũ diệp ( Panax bipinnatifidus), ( Hm 21
 
 Theq các tài liệu cũ (Pételot, 1953) ở nước ta có khai thác vỏ cây cao su với tôn đỗ trọng Parameria glandulifera Benth thuộc họ Trúc đào Apocynaceae. Ngay ở Trung Quốc, một số tỉnh cũng dùng với tên đỗ trọng vỏ một cây khác thuộc chi Evonymus hoặc Celastrus thuộc họ Vệ mâu Celastraceae.
 
-[11] Một số người đã dùng nhầm cây rau cần ta (còn gọi là rau cần nước) có tên khoa học Oenanthe stollnefera Wall. cùng họ. Cây này được trồng ở nước ta và nhiều nước khác châu Á để lấy rau ăn, thành phần rau cần ta có tinh dầu, caroten 7,14mg%, vitamin C 320mg% (Hình 244 ).
+[11] Một số người đã dùng nhầm cây rau cần ta (còn gọi là rau cần nước) có tên khoa học Oenanthe stollnefera Wall. cùng họ. Cây này được trồng ở nước ta và nhiều nước khác châu Á để lấy rau ăn, thành phần rau cần ta có tinh dầu, caroten 7,14mg%, vitamin C 320mg% (Hình 244).
 
 [12] Một vài vùng ở nước ta còn gọi một cây nữa là cây lá ngón. Sự thật cây lá ngón nói trên vào loại độc nhất. Cây lá ngón giới thiệu đây còn gọi là cây cơi hay cây lá cơi (phong dương) có tên khoa học là Pterocarya tonkinensis Dode hay Pterocarya stenoptera var. tonkinensis Franchet, thuộc họ Hồ Đào (Juglandaceae).
 

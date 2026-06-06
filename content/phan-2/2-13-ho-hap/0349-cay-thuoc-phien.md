@@ -35,7 +35,7 @@ Toàn thân cây bấm chỗ nào cũng có nhựa mủ màu trắng, để lâu
 
 Mùa hoa tháng 4-6.
 
-Mùa quả tháng 6-8 ( Hình 541, Hm 28,2).
+Mùa quả tháng 6-8 (Hình 541, Hm 28,2).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -105,7 +105,7 @@ Liều độc atropin tác động lên não làm say có khi phát điên, hô 
 
 Theo tài liệu cổ cà độc dược vị cay, tính ôn có độc, vào kinh phế. Có tác dụng khử phong thấp, chữa hen xuyễn. Nước sắc dùng rửa những nơi da tê dại, hàn thấp, cước khí,uống trong dùng chữa kinh sợ, cuộn thành thuốc lá hút chữa ho do hàn. Những người thể lực yếu không dùng được.
 
-Cà độc dược được dùng để chữa ho, hen, chống co bóp trong bệnh loét dạ dầy, say sóng hoặc nôn mửa khi đi máy bay. Dùng ngoài đắp mụn nhọt cho khỏi đau nhức. Dùng dưới hình thức bột lá hay bột hoa, hoặc dùng lá hay dùng hoa phơi khô, thái nhỏ để hút như thuốc lá-liều hút: ngày 1-1,5g. Nếu thấy triệu chứng ngộ độc phải thôi ngay. Còn dùng dưới hình thức rượu 1/10 ( ngày dùng 0,5-3g rượu cho nguời lón, 0,10g=V giọt cho trẻ em). Cà độc dược còn dùng làm nguyên liệu để chế hyoxin.
+Cà độc dược được dùng để chữa ho, hen, chống co bóp trong bệnh loét dạ dầy, say sóng hoặc nôn mửa khi đi máy bay. Dùng ngoài đắp mụn nhọt cho khỏi đau nhức. Dùng dưới hình thức bột lá hay bột hoa, hoặc dùng lá hay dùng hoa phơi khô, thái nhỏ để hút như thuốc lá-liều hút: ngày 1-1,5g. Nếu thấy triệu chứng ngộ độc phải thôi ngay. Còn dùng dưới hình thức rượu 1/10 (ngày dùng 0,5-3g rượu cho nguời lón, 0,10g=V giọt cho trẻ em). Cà độc dược còn dùng làm nguyên liệu để chế hyoxin.
 
 Đơn thuốc lá chữa hen
 
@@ -123,7 +123,7 @@ Trước và sau ít ngày giải phóng miền Nam (30/4/1975) ở các tỉnh 
 
 #### A. Mô tả cây
 
-Thiên tiên tử là hạt của cây thiên tiên tử, một loại cỏ sống hàng năm hay hai năm, có thể cao 0, 50m hay hơn. Thân và lá phủ nhiều lông. Phiến lá có thể dài 20-25cm, rộng 5-7cm, lá phía dưới có cuống, lá phía trên thân không cuống hơi ôm vào thân. Phiến lá chia nhiều thùy, gân chính lá nổi rõ. Hoa mọc thành xim một ngả, tràng hoa màu vàng nhạt với những thùy tràng không đều nhau, với những đường gân của cánh tràng màu tía, 5 nhị. Ngoài loài Hyoscyamus niger kể trên, người ta còn khai thác cả thiên tiên tử hoa trắng (Hyoscyamus albus) cũng có cánh tràng màu vàng nhạt nhưng không có đường gân màu tía ( Hình 543 ).
+Thiên tiên tử là hạt của cây thiên tiên tử, một loại cỏ sống hàng năm hay hai năm, có thể cao 0, 50m hay hơn. Thân và lá phủ nhiều lông. Phiến lá có thể dài 20-25cm, rộng 5-7cm, lá phía dưới có cuống, lá phía trên thân không cuống hơi ôm vào thân. Phiến lá chia nhiều thùy, gân chính lá nổi rõ. Hoa mọc thành xim một ngả, tràng hoa màu vàng nhạt với những thùy tràng không đều nhau, với những đường gân của cánh tràng màu tía, 5 nhị. Ngoài loài Hyoscyamus niger kể trên, người ta còn khai thác cả thiên tiên tử hoa trắng (Hyoscyamus albus) cũng có cánh tràng màu vàng nhạt nhưng không có đường gân màu tía (Hình 543).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -175,7 +175,7 @@ Cây mơ là một loại cây nhỏ, cao chừng 4-5m. Lá mọc so le, có cu�
 
 Mọc hoang và được trồng nhiều nhất ở Hà Tây (vùng chùa Hương, thuộc huyện Mỹ Đức), Nam Định, Hà Nam (huyện Kim Bảng), Thanh Hóa, Nghệ An, Hà Tĩnh cũng có. Còn mọc ở Acmênia, Trung Quốc, Nhật Bản.
 
-Quả mơ hái vào tháng 3-4 (tháng 2-3 âm lịch), khi quả mơ chín (vỏ vàng ) hái về tãi mỏng. Tùy theo chế mơ trắng (bạch mai) hay mơ đen (ô mai) cách chế biến khác nhau.
+Quả mơ hái vào tháng 3-4 (tháng 2-3 âm lịch), khi quả mơ chín (vỏ vàng) hái về tãi mỏng. Tùy theo chế mơ trắng (bạch mai) hay mơ đen (ô mai) cách chế biến khác nhau.
 
 Chế bạch mai hay diêm mai. Khi quả mơ phơi đã héo, thì dùng muối xát đều, sau đó bỏ vào vại sành muối như muối cà (không đổ nước), muối 3 ngày 3 đêm thì vớt ra, phơi cho tái, rồi lại cho vào vại muối lần thứ hai, thêm một ngày một đêm nữa, rồi phơi cho thật khô. Muối thấm vào quả mơ kết tinh thành một lớp trăng trắng nên gọi là bạch mơ (bạch = trắng), ta còn gọi là ô mai muối mặc dầu chữ ô mai dùng ở đây không đúng.
 
@@ -275,7 +275,7 @@ Cây đào cho ta các vị thuốc
 
 #### A. Mô tả cây
 
-Cây đào là một cây nhỏ, cao 3-4m, da thân cây nhẵn. Trên thân thường có chất nhầy đùn ra gọi là nhựa đào. Lá đơn, mọc so le, có cuống ngắn, hình mác. Phiến lá dài 5-8cm, rộng 1,2- 1,5cm, mép lá có răng cưa. Khi vò có mùi hạnh nhân. Hoa xuất hiện trước lá, màu hồng nhạt, 5 cánh, 8 nhị màu vàng. Quả hạch hình cầu, đầu nhọn có một ngấn lõm vào, chạy dọc theo quả. Vỏ ngoài có lông rất mịn. Quả chín có những đám đỏ ( Hình 544, Hm 20,4 ).
+Cây đào là một cây nhỏ, cao 3-4m, da thân cây nhẵn. Trên thân thường có chất nhầy đùn ra gọi là nhựa đào. Lá đơn, mọc so le, có cuống ngắn, hình mác. Phiến lá dài 5-8cm, rộng 1,2- 1,5cm, mép lá có răng cưa. Khi vò có mùi hạnh nhân. Hoa xuất hiện trước lá, màu hồng nhạt, 5 cánh, 8 nhị màu vàng. Quả hạch hình cầu, đầu nhọn có một ngấn lõm vào, chạy dọc theo quả. Vỏ ngoài có lông rất mịn. Quả chín có những đám đỏ (Hình 544, Hm 20,4).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -321,7 +321,7 @@ Thuộc họ cây Bắt ruồi Droseraceae.
 
 #### A. Mô tả cây
 
-Cỏ cao 5-30cm có 1-3 thân không mang lá, nhẵn và gầy, mang hoa ở ngọn. Lá nhiều, mọc thành vành ở gốc dài 12mm, rộng 4mm, trên có phủ những lông hạch ở đỉnh, phía dưới có những lông mềm dính với nhau ở phía dưới, không có hạch ở đỉnh. Hoa trắng hoặc hồng, mọc một bên, thành chùm hình bọ cạp dài l-6cm, mọc ở đầu thân. Quả nang 5 van, có nhiều hạt ( Hình 546).
+Cỏ cao 5-30cm có 1-3 thân không mang lá, nhẵn và gầy, mang hoa ở ngọn. Lá nhiều, mọc thành vành ở gốc dài 12mm, rộng 4mm, trên có phủ những lông hạch ở đỉnh, phía dưới có những lông mềm dính với nhau ở phía dưới, không có hạch ở đỉnh. Hoa trắng hoặc hồng, mọc một bên, thành chùm hình bọ cạp dài l-6cm, mọc ở đầu thân. Quả nang 5 van, có nhiều hạt (Hình 546).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -353,7 +353,7 @@ Thuộc họ Hoa môi Lamiaceae (Labiatae).
 
 #### A. Mô tả cây
 
-Húng chanh là một loại cỏ, gốc hoá gỗ có thể cao 25-75cm. Thân mọc đứng, có lông. Lá có cuống, mọc đối, rộng, hình bầu dục, dày, trông như mọng nước. Lá dài 7-10cm, rộng 4-6cm, mép khía tai bèo, mặt trên có lông đơn, đầu mang hạch, trong, bóng; mặt dưới lá nhiều lông bài tiết hơn, gân nổi rõ. Hoa màu tía, nhỏ, mọc thành hoa tự, tận cùng dài gồm các vòng hoa mọc sít nhau gồm 20-30 hoa ( Hình 457).
+Húng chanh là một loại cỏ, gốc hoá gỗ có thể cao 25-75cm. Thân mọc đứng, có lông. Lá có cuống, mọc đối, rộng, hình bầu dục, dày, trông như mọng nước. Lá dài 7-10cm, rộng 4-6cm, mép khía tai bèo, mặt trên có lông đơn, đầu mang hạch, trong, bóng; mặt dưới lá nhiều lông bài tiết hơn, gân nổi rõ. Hoa màu tía, nhỏ, mọc thành hoa tự, tận cùng dài gồm các vòng hoa mọc sít nhau gồm 20-30 hoa (Hình 457).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -395,7 +395,7 @@ Thiết là màu đen, tuyến là sợi nhỏ vì cây có cuống lá nhỏ, m
 
 #### A. Mô tả cây
 
-Loại cây thảo sống lâu năm. Thân rễ bò ngang màu vàng nâu, có những vẩy màu nâu nhạt. Hiệp thưa, cuống mảnh, màu đen bóng dài 20-25cm. Phiến lá 2 lần xẻ lông chim, dài 13-35cm, thuỳ hình nêm dài độ 3cm, moc so le, thuỳ ở phía dưới có cuống dài. Toàn cây có dáng mảnh khảnh. Ổ tử nang ở mép lá hơi cong vào ( Hình 548).
+Loại cây thảo sống lâu năm. Thân rễ bò ngang màu vàng nâu, có những vẩy màu nâu nhạt. Hiệp thưa, cuống mảnh, màu đen bóng dài 20-25cm. Phiến lá 2 lần xẻ lông chim, dài 13-35cm, thuỳ hình nêm dài độ 3cm, moc so le, thuỳ ở phía dưới có cuống dài. Toàn cây có dáng mảnh khảnh. Ổ tử nang ở mép lá hơi cong vào (Hình 548).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -427,7 +427,7 @@ Giới tử Sinapis - Semen Sinapis hay Semen Brassicae junceae là hạt phơi 
 
 #### A. Mô tả cây
 
-Cải canh là một loài cỏ mọc một năm hay hai năm có thể cao tới 1m hoặc 1,50m. Lá phía dưới có rãnh sâu, phiến lá lượn sóng, mép có răng cưa to thô. Hoa mọc ở đầu cành hoặc kẽ lá, màu vàng. Quả hình trụ có mỏ ngắn. Hạt hình cầu, đường kính 1-1,6mm, 100 hạt chỉ nặng chừng 0,20g. Vỏ ngoài màu vàng hay vàng nâu, một số ít có màu nâu đỏ. Nhìn qua kính lúp sẽ thấy mặt hạt có những vân hình mạng, tễ là một chấm rất rõ, ngâm nước sẽ phồng to, sau khi loại bỏ vỏ, hạt sẽ lộ ra hai lá mầm. Hạt khô không có mùi, vị như có dầu lúc đầu, nhưng sau có vị cay nóng. Tán nhỏ với nước sẽ có tinh dầu mùi hắc xông lên ( Hình 549).
+Cải canh là một loài cỏ mọc một năm hay hai năm có thể cao tới 1m hoặc 1,50m. Lá phía dưới có rãnh sâu, phiến lá lượn sóng, mép có răng cưa to thô. Hoa mọc ở đầu cành hoặc kẽ lá, màu vàng. Quả hình trụ có mỏ ngắn. Hạt hình cầu, đường kính 1-1,6mm, 100 hạt chỉ nặng chừng 0,20g. Vỏ ngoài màu vàng hay vàng nâu, một số ít có màu nâu đỏ. Nhìn qua kính lúp sẽ thấy mặt hạt có những vân hình mạng, tễ là một chấm rất rõ, ngâm nước sẽ phồng to, sau khi loại bỏ vỏ, hạt sẽ lộ ra hai lá mầm. Hạt khô không có mùi, vị như có dầu lúc đầu, nhưng sau có vị cay nóng. Tán nhỏ với nước sẽ có tinh dầu mùi hắc xông lên (Hình 549).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -507,11 +507,11 @@ Tên khoa học _*Raphanus sativus L.*_
 
 Thuộc họ Cải Brassicaceae.
 
-La bặc tử ( Semen Raphani) là hạt phơi hay sấy khô của cây cải củ ( củ cải)[3]
+La bặc tử (Semen Raphani) là hạt phơi hay sấy khô của cây cải củ (củ cải)[3]
 
 #### A. Mô tả cây
 
-Cây cải củ là cây mọc một năm hay hai năm. Rễ củ phình to. Hoa màu trắng hay hơi tím hồng. Quả là một giác. Mùa hoa từ tháng 4 đến tháng 7. Mùa quả từ tháng 6 đến tháng 7. Cây này được trồng ở khắp nơi trong nước ta để lấy rễ củ ăn, lá để làm dưa, hạt làm thuốc; từ trước đến nay ta ít thu hoạch để làm thuốc ( Hình 550).
+Cây cải củ là cây mọc một năm hay hai năm. Rễ củ phình to. Hoa màu trắng hay hơi tím hồng. Quả là một giác. Mùa hoa từ tháng 4 đến tháng 7. Mùa quả từ tháng 6 đến tháng 7. Cây này được trồng ở khắp nơi trong nước ta để lấy rễ củ ăn, lá để làm dưa, hạt làm thuốc; từ trước đến nay ta ít thu hoạch để làm thuốc (Hình 550).
 
 #### B. Phân bố thu hái và chế biến
 
@@ -605,7 +605,7 @@ Người ta dùng rễ củ phơi hay sấy khô (Radix Ophiopogoni) của cây 
 
 #### A. Mô tả cây
 
-Mạch môn đông là một loại cỏ sống lâu năm, cao 10cm đến 40cm, rễ chùm, trên rễ có những chỗ phát triển thành củ mẫm. Lá mọc từ gốc, hẹp dài, như lá lúa mạch dài 15-40cm, rộng l-4mm, phía cuống hơi có bẹ, mép lá hơi có răng cưa. Cán mang hoa dài 10-20cm, hoa màu xanh nhạt, cuống 3-5mm, tụ thành 1-3 hoa ở kẽ các lá bắc trắng nhạt. Quả mọng màu tím đen nhạt, đường kính 6mm, có 1-2 hạt ( Hình 552, Hm 32,3).
+Mạch môn đông là một loại cỏ sống lâu năm, cao 10cm đến 40cm, rễ chùm, trên rễ có những chỗ phát triển thành củ mẫm. Lá mọc từ gốc, hẹp dài, như lá lúa mạch dài 15-40cm, rộng l-4mm, phía cuống hơi có bẹ, mép lá hơi có răng cưa. Cán mang hoa dài 10-20cm, hoa màu xanh nhạt, cuống 3-5mm, tụ thành 1-3 hoa ở kẽ các lá bắc trắng nhạt. Quả mọng màu tím đen nhạt, đường kính 6mm, có 1-2 hạt (Hình 552, Hm 32,3).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -651,7 +651,7 @@ Tên Platycodon do chữ Platys là rộng, Codon là chuông. Grandiflorum do c
 
 #### A. Mô tả cây
 
-Cát cánh là một loại cỏ nhỏ, mọc lâu năm. Thân cao chừng 60cm-90cm. Lá gần như không có cuống; lá phía dưới mọc đối hoặc mọc vòng 3-4 lá. Phiến lá hình trứng, mép có răng cưa to. Lá phía trên nhỏ, có khi mọc so le, dài từ 3-6cm, rộng l-2,5cm. Hoa mọc đơn độc hoặc thành bông thưa. Đài màu xanh, hình chuông rộng, dài 1cm, mép có 5 răng; tràng hoa hình chuông, màu lam tím hay màu trắng, đường kính 3-5cm. Quả hình trứng ngược. Mùa hoa tháng 5-8, mùa quả tháng 7-9 ( Hình 553, Hm 27.2).
+Cát cánh là một loại cỏ nhỏ, mọc lâu năm. Thân cao chừng 60cm-90cm. Lá gần như không có cuống; lá phía dưới mọc đối hoặc mọc vòng 3-4 lá. Phiến lá hình trứng, mép có răng cưa to. Lá phía trên nhỏ, có khi mọc so le, dài từ 3-6cm, rộng l-2,5cm. Hoa mọc đơn độc hoặc thành bông thưa. Đài màu xanh, hình chuông rộng, dài 1cm, mép có 5 răng; tràng hoa hình chuông, màu lam tím hay màu trắng, đường kính 3-5cm. Quả hình trứng ngược. Mùa hoa tháng 5-8, mùa quả tháng 7-9 (Hình 553, Hm 27.2).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -705,7 +705,7 @@ Tỳ bà diệp (FoIium Eriobotryae) là lá khô của cây nhót tây hay tỳ
 
 #### A. Mô tả cây
 
-Cây nhót tây hay phì phà (Cao Bằng) là một cây cao 6-8m. Lá mọc so le, hình mác, nhọn, dai, dài 12-30cm, rộng 3-8cm, phía trên có răng cưa, mặt dưới có nhiều lông, màu xám hay vàng nhạt. Hoa rất nhiều, gần như không có cuống, mọc thành chùm, đường kính 15-20mm, có lông màu hung đỏ. Quả thịt, hơi hình cầu, hơi có lông, chín có màu vàng, dài 3-4cm, đỉnh quả có hình mắt quanh mép mang đài tồn tại. Thịt dày, có 4 hạch đơn, hơi dày, mỗi hạch mang 1-2 hạt không phôi nhũ. Mùa quả chín vào tháng 4-5 ( Hình 554).
+Cây nhót tây hay phì phà (Cao Bằng) là một cây cao 6-8m. Lá mọc so le, hình mác, nhọn, dai, dài 12-30cm, rộng 3-8cm, phía trên có răng cưa, mặt dưới có nhiều lông, màu xám hay vàng nhạt. Hoa rất nhiều, gần như không có cuống, mọc thành chùm, đường kính 15-20mm, có lông màu hung đỏ. Quả thịt, hơi hình cầu, hơi có lông, chín có màu vàng, dài 3-4cm, đỉnh quả có hình mắt quanh mép mang đài tồn tại. Thịt dày, có 4 hạch đơn, hơi dày, mỗi hạch mang 1-2 hạt không phôi nhũ. Mùa quả chín vào tháng 4-5 (Hình 554).
 
 #### B. Phân bố, thu hái và chế biến
 

@@ -23,7 +23,7 @@ Thuộc họ Cam Rutaceae.
 
 Cây nhò nhưng cũng có những cây gỏ to có thân mang nhiểu gai lờm chởm (do đó có tên vùng Nghệ An, Hà Tĩnh, cành cũng mang nhiều gai thẳng đứng và ngắn. Lá nhẵn, kép lông chim rìa lẻ từ 3 đến 13 đôi lá chét; cuống lá hình trụ có khi kèm theo đôi cánh nhỏ. Hoa màu trắng nhạt, mọc thành tán kép, nhẵn, tận cùng, dài hơn lá. Quả dài 4mm, 1 đến 3 mảnh, lớp vò ngoài
 
-không tách khỏi lớp vỏ trong, mỗi ngăn chứa một hạt màu đen ( Hình 100 ).
+không tách khỏi lớp vỏ trong, mỗi ngăn chứa một hạt màu đen (Hình 100).
 
 #### B. Phân bố, thu hái và ché biến
 

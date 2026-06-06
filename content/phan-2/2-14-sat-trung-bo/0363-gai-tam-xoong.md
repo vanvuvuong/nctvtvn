@@ -21,7 +21,7 @@ Thuộc họ Cam Rutaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ cao chừng 1m, thân mang rất nhiều cành, nhẵn, cành non có khi có lông mịn, gai dài tới 4cm ở nách lá. Lá nguyên, dai, hình bầu dục đầu tròn, thuôn tròn ở phía cuống. Soi lên sáng, lá có rất nhiều điểm tinh dầu trong sáng. Hoa trắng gần như không cuống mọc đơn độc hay tụ 2 hoặc 3 ở nách lá, khi chín có màu đen, hình cầu, đường kính 10-12mm, chứa 2 hạt ( Hình 576).
+Cây nhỏ cao chừng 1m, thân mang rất nhiều cành, nhẵn, cành non có khi có lông mịn, gai dài tới 4cm ở nách lá. Lá nguyên, dai, hình bầu dục đầu tròn, thuôn tròn ở phía cuống. Soi lên sáng, lá có rất nhiều điểm tinh dầu trong sáng. Hoa trắng gần như không cuống mọc đơn độc hay tụ 2 hoặc 3 ở nách lá, khi chín có màu đen, hình cầu, đường kính 10-12mm, chứa 2 hạt (Hình 576).
 
 [C:\Users\hoa dung\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\0766.jpg]
 

@@ -17,7 +17,7 @@ Thuộc họ Cúc Asteraceae (Compositae).
 
 A. Mó tả cây
 
-Cây thuộc thảo, mọc đứng, có lông, có thể cao tới lm. Thân mập, có rãnh, khía rõ rệt. Lá dài, dày, có răng cưa to, hai mặt đều có lông. Cuống lá có cánh. Ở góc cuống lá có hai tai nhỏ trông như lá kèn. Cụm hoa đầu, đồng giao, mọc thành gù kép> mồi gù con gồm 1-3 đầu. Tràng mảnh chia làm 4 thùy, 4 nhị. Bầu hình trụ. Quả hình trụ, mang một chùm lông trắng ở đỉnh. Mùa hoa: mùa hè ( Hình 439).
+Cây thuộc thảo, mọc đứng, có lông, có thể cao tới lm. Thân mập, có rãnh, khía rõ rệt. Lá dài, dày, có răng cưa to, hai mặt đều có lông. Cuống lá có cánh. Ở góc cuống lá có hai tai nhỏ trông như lá kèn. Cụm hoa đầu, đồng giao, mọc thành gù kép> mồi gù con gồm 1-3 đầu. Tràng mảnh chia làm 4 thùy, 4 nhị. Bầu hình trụ. Quả hình trụ, mang một chùm lông trắng ở đỉnh. Mùa hoa: mùa hè (Hình 439).
 
 B. Phản bố, thu hái và chẽ biến
 
@@ -27,7 +27,7 @@ B. Phản bố, thu hái và chẽ biến
 
 Trong rau tàu bay non có tới 93,1% nước, 2,3-2,5% protit, 1,7-1,9%gluxit, 1,6% xenluloza,
 
-0, 9% tro, 81mg% canxi, 25mg% P( 3,4mg% caroten, 10mg% vitamin c.
+0, 9% tro, 81mg% canxi, 25mg% P(3,4mg% caroten, 10mg% vitamin c.
 
 Về mặt dinh dưỡng, rau tàu bay có giá trị dinh dưỡng tốt. Không có chắt độc gây phá hủy hồng cầu hay làm hại máu như một số người thường nói, nhưng vì rau tàu bay có chứa rất ít chất sát cho nên nếu ăn lâu dài cần phối hợp rau tàu bay với những rau khác chứa nhiều chất sắt
 
@@ -57,7 +57,7 @@ A. Mó íả cây
 
 Cây nhó mọc đứng. Nhánh vuông, không lônu lá. Lú nguyên không lông, lá kèm biến thành gai tháníỊ nhọn. Cụm hoa bóng ó ngọn, các lá bác kế) hựp cao 2cm. Cátih hoa mềm, màu vànu nhạt. Mỏi bõna thườiia có 18-20 hoa nhưng lhườn2 khóns nỏ hoa một lúc. Mỗi ngày chỉ nở liai hoa. Sau 7 naày mới nở hết một bông hoa. Ọuá nang có hat dẹt, hạt được bao bọc bới một
 
-vỏ cứng. Khi quả chín khồ, nổ tách bắn hạt ra xa ( Hình 440, Htn 29,4).
+vỏ cứng. Khi quả chín khồ, nổ tách bắn hạt ra xa (Hình 440, Htn 29,4).
 
 #### B. Phân bố, thu hái và chê biến
 
@@ -89,7 +89,7 @@ Tên cốc tinh vì người ta thấy sau khi lúa đã gặt rồi thì cây n
 
 Cỏ đuôi công là một loại cỏ nhỏ, sống hằng năm, ré chùm, thân rất ngấn. Lá mọc vòng, dẹt, dài 4-35cm, rộng 0,2- lcm, nhẵn, nhiểu gân dọc. Cán hoa dài 10-55cm. Hoa hình đẩu hay hình trứng, đường kính 4-6mm, dài 4-7mm,
 
-ở ta cũng như tại Trung Quòc, người ta còn dùng toàn cây hay nụ hoa của nhiều cây thuộc loài khác nhau như Eriocauỉon buergenianum Koem., E. sieboldìanun Sìeb. et Zucc. ex Steud, E. wallichimum Man và E. austraỉe R. Br. ( Hình 441).
+ở ta cũng như tại Trung Quòc, người ta còn dùng toàn cây hay nụ hoa của nhiều cây thuộc loài khác nhau như Eriocauỉon buergenianum Koem., E. sieboldìanun Sìeb. et Zucc. ex Steud, E. wallichimum Man và E. austraỉe R. Br. (Hình 441).
 
 #### B. Phân bố, thu hái và chè' biến
 

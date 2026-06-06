@@ -23,7 +23,7 @@ Thuộc họ Cà phê Rubiaceae.
 
 A. Mò tả cây
 
-Lưỡi rắn là một loại cỏ nhỏ, mọc hằng nãm, chân hơi vuông, mền yếu, nhẩn, màu xanh, mang rất nhiều cành, chỉ cao chừng 0,30m. Lá mọc đối, hình hơi rộng hay hình mác hẹp dài, phiến dài l-5cm, rộng l-5nim, đặc biệt có thể rộng tới lcm, hai đầu nhọn, hầu như không có cuống, mép nguyên, chỉ có gân giữa là rõ. Cụm hoa mọc thành xim ở kẽ lá, cuống chính và cuống phụ nhỏ, ngắn 5-10mm. Mỗi cụm hoa gồm 2-5 hoa, hoa nhỏ, màu trắng hay hồng nhạt, đài đài ước 2mm, tràng dài chừng 2,5 mm. Quả nang hình bán cấu, ở đỉnh hơi phồng lên, dài rộng ước 1,8mm xung quanh có đài tồn tại, bầu có 2 ngăn. Hạt nhiều, hình nhiều cạnh, màu nâu, trên mặt có gợn mịn nhò ( Hình 186 ).
+Lưỡi rắn là một loại cỏ nhỏ, mọc hằng nãm, chân hơi vuông, mền yếu, nhẩn, màu xanh, mang rất nhiều cành, chỉ cao chừng 0,30m. Lá mọc đối, hình hơi rộng hay hình mác hẹp dài, phiến dài l-5cm, rộng l-5nim, đặc biệt có thể rộng tới lcm, hai đầu nhọn, hầu như không có cuống, mép nguyên, chỉ có gân giữa là rõ. Cụm hoa mọc thành xim ở kẽ lá, cuống chính và cuống phụ nhỏ, ngắn 5-10mm. Mỗi cụm hoa gồm 2-5 hoa, hoa nhỏ, màu trắng hay hồng nhạt, đài đài ước 2mm, tràng dài chừng 2,5 mm. Quả nang hình bán cấu, ở đỉnh hơi phồng lên, dài rộng ước 1,8mm xung quanh có đài tồn tại, bầu có 2 ngăn. Hạt nhiều, hình nhiều cạnh, màu nâu, trên mặt có gợn mịn nhò (Hình 186).
 
 B. Phàn bố thu hái và chế biến
 

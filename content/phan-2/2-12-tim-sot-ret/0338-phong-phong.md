@@ -33,7 +33,7 @@ Vì vị phòng phong chủ yếu ta vẫn phải nhập của nước ngoài, d
 
 #### A. Mô tả cây
 
-Cây xuyên phòng phong (Ligusticum brachylobum) là một cây sống lâu năm cao tới 1m. Từ gốc ra những lá có cuống dài 10-15cm, phía dưới cuống phát triển thành bẹ ôm lấy thân. Lá 2-3 lần xẻ lông chim. Cụm hoa hình tán kép gồm 25-30 tán nhỏ, dài ngắn không đều, dài từ 5- 8cm, mỗi tán nhỏ mang 25-30 hoa màu trắng. Quả kép gồm 2 phần quả, hình trứng dẹt không có lông, trên lưng có sống chạy dọc, giữa sống có 3 ống tinh dầu, mặt tiếp xúc có 5-6 ống tinh dầu, hai bên mép phát triển thành cánh ( Hình 515).
+Cây xuyên phòng phong (Ligusticum brachylobum) là một cây sống lâu năm cao tới 1m. Từ gốc ra những lá có cuống dài 10-15cm, phía dưới cuống phát triển thành bẹ ôm lấy thân. Lá 2-3 lần xẻ lông chim. Cụm hoa hình tán kép gồm 25-30 tán nhỏ, dài ngắn không đều, dài từ 5- 8cm, mỗi tán nhỏ mang 25-30 hoa màu trắng. Quả kép gồm 2 phần quả, hình trứng dẹt không có lông, trên lưng có sống chạy dọc, giữa sống có 3 ống tinh dầu, mặt tiếp xúc có 5-6 ống tinh dầu, hai bên mép phát triển thành cánh (Hình 515).
 
 []
 
@@ -43,7 +43,7 @@ Hình 515. Xuyên phòng phong Ligusticum brachylobum
 
 1. Hoa; 2. Quả; 3. Quả cắt ngang.
 
-Cây phòng phong hay thiên phòng phong (Ledebouriella seseloides) cũng là một cây sống lâu năm, cao 0,3-0,8m, lá mọc so le, có cuống dài, phía dưới cũng phát triển thành bẹ ôm vào thân, phiến lá xẻ lông chim 2-3 lần trông giống lá ngải cứu. Cụm hoa hình tán kép, mỗi tán kép có 5-7 tán nhỏ, cuống tán nhỏ không đều nhau. Mỗi tán nhỏ có 4-9 hoa nhỏ màu trắng. Quả kép gồm 2 phân quả, hai quả dính nhau trông như hình chuông; trên lưng quả có sống chạy dọc, giữa sống có một ống tinh dầu, mặt tiếp xúc giữa 2 phần quả có 1 ống tinh dầu ( Hình 516).
+Cây phòng phong hay thiên phòng phong (Ledebouriella seseloides) cũng là một cây sống lâu năm, cao 0,3-0,8m, lá mọc so le, có cuống dài, phía dưới cũng phát triển thành bẹ ôm vào thân, phiến lá xẻ lông chim 2-3 lần trông giống lá ngải cứu. Cụm hoa hình tán kép, mỗi tán kép có 5-7 tán nhỏ, cuống tán nhỏ không đều nhau. Mỗi tán nhỏ có 4-9 hoa nhỏ màu trắng. Quả kép gồm 2 phân quả, hai quả dính nhau trông như hình chuông; trên lưng quả có sống chạy dọc, giữa sống có một ống tinh dầu, mặt tiếp xúc giữa 2 phần quả có 1 ống tinh dầu (Hình 516).
 
 []
 

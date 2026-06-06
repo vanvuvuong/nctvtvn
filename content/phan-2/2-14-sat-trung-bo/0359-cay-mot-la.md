@@ -27,7 +27,7 @@ Ta dùng lá hay toàn cây phơi hoặc sấy khô của cây một lá hay tha
 
 Cây một lá, còn có tên thanh thiên quỳ hay bầu thoọc (bầu là lá, thoọc là một) hay chân châu diệp là một cây địa sinh, loại cỏ sống lâu, cao từ 10-20cm. Thân rất ngắn, củ tròn to, có thể nặng tới 1,5-20g. Thẳng từ củ, chỉ mọc lên có một lá riêng lẻ sau khi hoa tàn. Lá hình tim tròn, xếp theo các gân lá hình chân vịt, đường kính 10-25cm mép uốn lượn. Gân lá toả đều từ cuống lá, cuống lá dài 10-20cm, màu tím hồng. Cụm hoa có cán dài 20-30cm. Hoa thưa 15-20 cái, mọc thành chùm hay bông màu trắng, đốm tím hồng hay màu vàng hơi xanh lục. Lá đài và cánh hoa giống nhau. Cánh môi 3 thuỳ, có rất nhiều gân, có lông ở quãng giữa, thuỳ bên và thuỳ tận cùng hình ba cạnh, cột dài 6mm, phồng ở đỉnh. Ra hoa tháng 3-4-5, quả nang vào các tháng 4-5-6. Khi hoa nở, đầu cánh hoa phía trên chụm lại làm toàn hoa giống như chiếc đèn lồng. Quả hình thoi, trên có múi trông giống như quả khế con, dài 2-3cm.
 
-Thường sau khi hoa tàn rồi, lá mới phát triển do đó hoặc ta chỉ thấy cây mang hoa, hoặc quả, không có lá, hoặc chỉ thấy cây có lá, thường một lá ( Hình 572).
+Thường sau khi hoa tàn rồi, lá mới phát triển do đó hoặc ta chỉ thấy cây mang hoa, hoặc quả, không có lá, hoặc chỉ thấy cây có lá, thường một lá (Hình 572).
 
 []
 

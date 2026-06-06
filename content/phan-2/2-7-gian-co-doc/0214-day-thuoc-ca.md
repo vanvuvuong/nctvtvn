@@ -26,7 +26,7 @@ Dây duốc cá là những cây cho rễ dùng đánh bả cá. Vì những câ
 
 #### A. Mô tả cây
 
-Dây thuốc cá là một loại dây leo khỏe thân dài 7-10m, lá kép gồm 9-13 lá chét, mọc so le, dài 25-35cm, lá chét lúc đầu mỏng, sau dai dày, hình mác, đầu nhọn, phía dưới tròn. Hoa nhỏ, trắng hoặc hồng. Quả loại quả đậu, dẹt, dài 4-8 cm ( Hình 265 ).
+Dây thuốc cá là một loại dây leo khỏe thân dài 7-10m, lá kép gồm 9-13 lá chét, mọc so le, dài 25-35cm, lá chét lúc đầu mỏng, sau dai dày, hình mác, đầu nhọn, phía dưới tròn. Hoa nhỏ, trắng hoặc hồng. Quả loại quả đậu, dẹt, dài 4-8 cm (Hình 265).
 
 []
 
@@ -126,7 +126,7 @@ Sơn tra (Fructus Crataegi) là quả chín thái mỏng phơi hay sấy khô c�
 
 #### A. Mô tả cây
 
-Bắc sơn tra (Crataegus pinnatifida) là một cây cao 6m, cành nhỏ thường có gai. Lá dài 5-10cm, rộng 4-7cm, có 3-5 thùy, mép có răng cưa, mặt dưới dọc theo các gân có lông mịn, cuống lá dài 2-6cm. Hoa mẫu 5, họp thành tán. Đài có lông mịn, cánh hoa màu trắng, 20 nhị. Quả hình cầu, đường kính l-1,5cm, khi chín có màu đỏ thắm ( Hình 266 ).
+Bắc sơn tra (Crataegus pinnatifida) là một cây cao 6m, cành nhỏ thường có gai. Lá dài 5-10cm, rộng 4-7cm, có 3-5 thùy, mép có răng cưa, mặt dưới dọc theo các gân có lông mịn, cuống lá dài 2-6cm. Hoa mẫu 5, họp thành tán. Đài có lông mịn, cánh hoa màu trắng, 20 nhị. Quả hình cầu, đường kính l-1,5cm, khi chín có màu đỏ thắm (Hình 266).
 
 []
 
@@ -144,7 +144,7 @@ Cây chua chát, còn gọi là sán sá (Tày) có tên khoa học Malus doumer
 
 Hình 267. Chua chát -Docynia doumeri
 
-Cây táo mèo, còn gọi là chi tô di (Mèo) có tên khoa học Docynia indica (Mall.) Dec. cùng thuộc họ Hoa hồng (Rosaceae). Cây nhỡ cao 5-6m, cây non cành có gai. Lá đa dạng, ở cây non lá mọc so le, xẻ 3-5 thùy, mép có răng cưa không đều. Ở thời kỳ cây trưởng thành lá hình bầu dục dài 6-10cm, rộng 2-4 cm, mép nguyên hoặc hơi khía răng. Hoa họp từ 1-3 hoa, mẫu 5, cánh hoa màu trắng. Nhị 30-50. Quả hình cầu thuôn, đường kính 3-4cm, khi chín màu vàng lục, có vị chua hơi chát. Mùa hoa tháng 3, mùa quả tháng 9-10. Táo mèo mọc hoang và được trồng ở Lai Châu, Yên Bái, Sơn La, Lào Cai độ cao trên 1.000m. Ngoài ra còn cây Docynia delavayi (Franch.) Schneid mùa hoa tháng 3, quả tháng 6-7. Lá cây này cứng hơn cây trên, mặt dưới lá có lông cũng dày hơn. Quả cũng tương tự nhưng có cuống dài hơn. Cũng được thu mua với tên táo mèo hay sơn tra ( Hình 268 ).
+Cây táo mèo, còn gọi là chi tô di (Mèo) có tên khoa học Docynia indica (Mall.) Dec. cùng thuộc họ Hoa hồng (Rosaceae). Cây nhỡ cao 5-6m, cây non cành có gai. Lá đa dạng, ở cây non lá mọc so le, xẻ 3-5 thùy, mép có răng cưa không đều. Ở thời kỳ cây trưởng thành lá hình bầu dục dài 6-10cm, rộng 2-4 cm, mép nguyên hoặc hơi khía răng. Hoa họp từ 1-3 hoa, mẫu 5, cánh hoa màu trắng. Nhị 30-50. Quả hình cầu thuôn, đường kính 3-4cm, khi chín màu vàng lục, có vị chua hơi chát. Mùa hoa tháng 3, mùa quả tháng 9-10. Táo mèo mọc hoang và được trồng ở Lai Châu, Yên Bái, Sơn La, Lào Cai độ cao trên 1.000m. Ngoài ra còn cây Docynia delavayi (Franch.) Schneid mùa hoa tháng 3, quả tháng 6-7. Lá cây này cứng hơn cây trên, mặt dưới lá có lông cũng dày hơn. Quả cũng tương tự nhưng có cuống dài hơn. Cũng được thu mua với tên táo mèo hay sơn tra (Hình 268).
 
 []
 
@@ -230,7 +230,7 @@ Mạch nha chính thức là hạt lúa mạch Hordeum sativum Jess. var. vulgar
 
 Ở Việt Nam ta vì chưa có lúa mạch, vẫn dùng hạt thóc tẻ (thóc chiêm hay thóc mùa đều được) Oryza sativa L. var. utilissima cùng họ để ngâm cho nẩy mầm rồi phơi khô, gọi là cốc nha. Mới đây ta có nhập giống lúa mạch về trồng để chế bia nhưng chưa đủ dùng.
 
-Muốn có thóc nẩy mầm, chỉ cần đãi thóc sạch đất cát, ngâm nước cho ẩm, sau đó ủ kín, thỉnh thoảng tưới nước để giữ ẩm đều, sau vài ngày hạt thóc nảy mầm, khi nào một số mầm bắt đầu xanh thì lấy ra phơi nắng cho khô, để nguyên hoặc tán nhỏ, sảy hết trấu mà dùng ( Hình 269).
+Muốn có thóc nẩy mầm, chỉ cần đãi thóc sạch đất cát, ngâm nước cho ẩm, sau đó ủ kín, thỉnh thoảng tưới nước để giữ ẩm đều, sau vài ngày hạt thóc nảy mầm, khi nào một số mầm bắt đầu xanh thì lấy ra phơi nắng cho khô, để nguyên hoặc tán nhỏ, sảy hết trấu mà dùng (Hình 269).
 
 []
 
@@ -280,7 +280,7 @@ Nhưng thần khúc không phải do một cây thuốc nào cung cấp mà gồ
 
 Vì lúc đầu thần khúc chỉ gồm có 6 vị thuốc phối hợp với nhau, ủ cho lên mốc vào những ngày 5 tháng 5, ngày 6 tháng 6 hoặc trước ngày 20 tháng 7 (âm lịch), những ngày này theo mê tín cũ là những ngày các thần hội họp với nhau do đó thành tên (lục=sáu, thần=ông thần).
 
-Nguồn gốc thần khúc ở tỉnh Phúc Kiến (Trung Quổc) vì vậy còn có tên kiến thần khúc (thần khúc của Phúc Kiến) ( Hình 270 ).
+Nguồn gốc thần khúc ở tỉnh Phúc Kiến (Trung Quổc) vì vậy còn có tên kiến thần khúc (thần khúc của Phúc Kiến) (Hình 270).
 
 []
 
@@ -472,7 +472,7 @@ Tên khoa học _*Corium Stomachichum Galli.*_
 
 Kê nội kim là lớp màng màu vàng phủ mặt trong của mề hay dạ dày con gà Gallus domesticus Brisson thuộc họ Phasianidae.
 
-[]Khi giết gà người ta lập tức mổ mề gà, bóc ngay lấy màng rồi mới rửa sạch phơi khô. Có người nói không rửa, nhưng thực tế phải rửa nhưng nhẹ tay để thức ăn còn sót lại trôi hết ( Hình 279 ).
+[]Khi giết gà người ta lập tức mổ mề gà, bóc ngay lấy màng rồi mới rửa sạch phơi khô. Có người nói không rửa, nhưng thực tế phải rửa nhưng nhẹ tay để thức ăn còn sót lại trôi hết (Hình 279).
 
 []
 
@@ -520,7 +520,7 @@ Chỉ thực (Fructus Aurantii immaturii) và Chỉ xác (Fructus Citri aurantii
 
 Chỉ thực là quả hái vào lúc còn non nhỏ, có khi do bị gió mạnh tự rụng dưới gốc cây (theo chữ Trung Quốc chỉ là tên cây, thực là quả).
 
-Chỉ xác là quả hái vào lúc gần chín. Thường bổ đôi để phơi cho chóng khô. Chỉ xác thường to hơn chỉ thực và thường bổ đôi. Chỉ vẫn là tên cây, xác là còn vỏ và xơ vì quả bổ đôi phơi khô ruột quả bị quắt lại ( Hình 273 ).
+Chỉ xác là quả hái vào lúc gần chín. Thường bổ đôi để phơi cho chóng khô. Chỉ xác thường to hơn chỉ thực và thường bổ đôi. Chỉ vẫn là tên cây, xác là còn vỏ và xơ vì quả bổ đôi phơi khô ruột quả bị quắt lại (Hình 273).
 
 []
 
@@ -660,7 +660,7 @@ Can khương là thân rễ phơi khô.
 
 #### A. Mô tả cây
 
-Gừng là một loại cây nhỏ, sống lâu năm, cao 0, 60 đến 1 m. Thân rễ mẫm lên thành củ, lâu dần thành xơ. Lá mọc so le, không cuống, có bẹ, hình mác dài 15 đến 20cm, rộng chừng 2cm, mặt bóng nhẵn, gân giữa hơi trắng nhạt, vò có mùi thơm. Trục hoa xuất phát từ gốc, dài tới 20cm, cụm hoa thành bông mọc sít nhau, hoa dài 5cm, rộng 2-3cm, lá bắc hình trứng, dài 2,5cm, mép lưng màu vàng, đài hoa dài chừng 1cm, có 3 răng ngắn, 3 cành hoa dài chừng 2cm, màu vàng xanh, mép cánh hoa màu tím, nhị cũng tím. Loài gừng trồng ít ra hoa ( Hình 275, Hm 43,4 ).
+Gừng là một loại cây nhỏ, sống lâu năm, cao 0, 60 đến 1 m. Thân rễ mẫm lên thành củ, lâu dần thành xơ. Lá mọc so le, không cuống, có bẹ, hình mác dài 15 đến 20cm, rộng chừng 2cm, mặt bóng nhẵn, gân giữa hơi trắng nhạt, vò có mùi thơm. Trục hoa xuất phát từ gốc, dài tới 20cm, cụm hoa thành bông mọc sít nhau, hoa dài 5cm, rộng 2-3cm, lá bắc hình trứng, dài 2,5cm, mép lưng màu vàng, đài hoa dài chừng 1cm, có 3 răng ngắn, 3 cành hoa dài chừng 2cm, màu vàng xanh, mép cánh hoa màu tím, nhị cũng tím. Loài gừng trồng ít ra hoa (Hình 275, Hm 43,4).
 
 []
 

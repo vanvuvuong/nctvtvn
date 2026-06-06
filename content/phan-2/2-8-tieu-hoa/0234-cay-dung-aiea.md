@@ -23,7 +23,7 @@ Thuộc họ Dung Symplocaceae.
 
 #### A. Mô tả câv
 
-Dung là mộc cây nhỏ cao 1,50-2m, nhưng có thể cao 4-5m hay K-9m '(nếu để lâu không bị đốn chặt), Lá mọc so lc, đơn, nguyên, cuống ngấn, hình trứng thuôn dài, phía cuống hẹp lại hơi tù, phiến lá dài 9- 15cm, rộng 3-6cm, mép có răng cưa ngắn, thưa, mặt nhắn, khi khô có màu vàng xanh hay vàng nâu. Hoa nhiều, tnàu trắng hay vàng lục nhạt, mọc thành chùm ở nách lá hay ờ đẩu cành, cuống hoa ngán, trên mặt có phủ lông mỊn. Hoa mùi thơm nên ong rất (hích. Quả hạch ăn được, hình thuôn dài, dài 6-10mm, trên đỉnh có phiến đài tốn tại, thụt quả màu tím đỏ. Hạt thuờng đơn độc, màu nâu ( Hình 316 ).
+Dung là mộc cây nhỏ cao 1,50-2m, nhưng có thể cao 4-5m hay K-9m '(nếu để lâu không bị đốn chặt), Lá mọc so lc, đơn, nguyên, cuống ngấn, hình trứng thuôn dài, phía cuống hẹp lại hơi tù, phiến lá dài 9- 15cm, rộng 3-6cm, mép có răng cưa ngắn, thưa, mặt nhắn, khi khô có màu vàng xanh hay vàng nâu. Hoa nhiều, tnàu trắng hay vàng lục nhạt, mọc thành chùm ở nách lá hay ờ đẩu cành, cuống hoa ngán, trên mặt có phủ lông mỊn. Hoa mùi thơm nên ong rất (hích. Quả hạch ăn được, hình thuôn dài, dài 6-10mm, trên đỉnh có phiến đài tốn tại, thụt quả màu tím đỏ. Hạt thuờng đơn độc, màu nâu (Hình 316).
 
 B. Phân bô, thu hái và chê biến
 
@@ -61,7 +61,7 @@ Thuộc họ Mộc hương Aristoỉochiaceae.
 
 A. Mò tả cây
 
-Cây thuộc thảo sống lâu năm. Thân rễ nằm ngay dưới đất. Lá mọc từ thân rễ, có cuống dài 30-50cm, phiến lá hình tim dài, nguyên, nhẵn, mặt irên xanh bóng, mặt dưới xanh nhạt. Hoa màu tím loe ra gần như cái ống nhổ, mọc riêng lẻ ở gốc cuống lá. Mùa hoa quả: tháng 4-6 ( Hình 317 ).
+Cây thuộc thảo sống lâu năm. Thân rễ nằm ngay dưới đất. Lá mọc từ thân rễ, có cuống dài 30-50cm, phiến lá hình tim dài, nguyên, nhẵn, mặt irên xanh bóng, mặt dưới xanh nhạt. Hoa màu tím loe ra gần như cái ống nhổ, mọc riêng lẻ ở gốc cuống lá. Mùa hoa quả: tháng 4-6 (Hình 317).
 
 B. Phàn bố, thu hái và chế biến
 

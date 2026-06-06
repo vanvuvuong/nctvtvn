@@ -88,7 +88,7 @@ Ta dùng búp và lá chè non (FoUum Theae), sao khô làm thuốc, thường g
 
 ()(\*)()Chè là mội cây khỏe, mọc hoang và không cắt xén có thể cao tới lOm hay hơn nữa, đường kính thân có thể tới mức một người ôm không xuể. Đôi khi mọc thành rừng gỗ trên núi đá cao. Nhưng trong khi trồng tỉa thường người ta cắt xén để tiện việc hái cho nên thường chỉ cao nhất là 2m. Nhiều cành đâm ngay từ gốc. Lá mọc so le, không rụng. Hoa to trấng, mọc ở kẽ
 
-lá, mùi rất thơm, nhiều nhị. Quả là một nang thường có ba ngăn, nhưng chỉ còn một hạt do các hạt khác bị teo đi. Quả khai bàng lối cắt ngăn, hạl không phôi nhũ, lá mẩm lớn, có chứa dau. ( Hình 129 )
+lá, mùi rất thơm, nhiều nhị. Quả là một nang thường có ba ngăn, nhưng chỉ còn một hạt do các hạt khác bị teo đi. Quả khai bàng lối cắt ngăn, hạl không phôi nhũ, lá mẩm lớn, có chứa dau. (Hình 129)
 
 ()(\*)()Chè là một cây nguồn gốc Trang Quốc. Nhân dân Trung Quốc đă biết dùng chè từ 2.500 nâm trước công nguyên, sau tới Nhật Bản và nhiều nước châu Á khác. Hiện nay cẵy chè được trổng ở nhiều nước. Liên Xõ cũ cũng rất phát triển việc trồng chè.
 
@@ -98,7 +98,7 @@ Chè dùng làm thuốc hái vào mùa xuân: Hái búp và lá non. Vò rồi s
 
 Không dùng chè đen hay chè mạn là những loại chè đã cho lên men rổi mới phơi hay sấy khô.
 
-()(\*)()Trong lá có chứa tới 20% tamin là một chất có tác dụng làm săn da, sát khuẩn mạnh. Ngoài ra còn cafein với tỷ lệ 1,5-5%, một sổ vitamin B|( B2 và c.
+()(\*)()Trong lá có chứa tới 20% tamin là một chất có tác dụng làm săn da, sát khuẩn mạnh. Ngoài ra còn cafein với tỷ lệ 1,5-5%, một sổ vitamin B|(B2 và c.
 
 Đặc biệt tanin trong chè có tác dụng như một vitamin p vì đày là hỗn hợp của các catechin và dẫn xuất của catechin có cấu trúc hóa học của vitamin p.
 
@@ -162,7 +162,7 @@ Hoàng liên (Coptis - Rhizoma Coptidis) là thân rẽ phơi khô của nhiều
 
 ()(\*)()Hoàng liên là một loại cây cỏ nhỏ, sống lâu năm, cao độ 20-35cm. Lá mọc so le từ thân rễ, có cuống đài. Phiến lá gồm 3-5 lá chét. Mỗi lá chét lại chia thành nhiều thùy, mép có răng cưa to. Đầu mùa xuân sinh trục mang hoa dài chừng
 
-lOcm. Đầu trục có 3-4 hoa màu trắng, nhiểu lá noãn rời nhau ( Hình 130, 131).
+lOcm. Đầu trục có 3-4 hoa màu trắng, nhiểu lá noãn rời nhau (Hình 130, 131).
 
 ()(\*)()Cây hoàng liên mọc hoang ở các vùng núi cao '1.500-2.000m tại Lào Cai (Sapa), dãy núi Hoàng Liên Sơn, khu Tây Bắc. Tuy nhiên chưa đủ nhu cầu dùng trong nước và xuất khẩu.
 

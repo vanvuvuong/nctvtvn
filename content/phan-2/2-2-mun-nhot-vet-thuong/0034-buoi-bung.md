@@ -14,7 +14,7 @@ keywords:
 
 
 _Còn có tên là_ cây cơm rượu, cát bối, co dọng dạnh (Thái).
-Tên khoa học _Glycosmis pentaphylla Corr. (Glycosmis cochinchinensis (Lour.) Pierre )_.
+Tên khoa học _Glycosmis pentaphylla Corr. (Glycosmis cochinchinensis (Lour.) Pierre)_.
 Thuộc họ Cam Rutaceae.
 Trong nhân dân thường dùng tên bưởi bung để chỉ hai cây: Cây có tên khoa học _và mô tả_ sau đây, một cây nữa có lá đơn nguyên sẽ giới thiệu trong phần chú thích13 và có tên khoa học _là Acronychia laurifolia Bl. thuộc cùng họ_.
 
@@ -52,5 +52,5 @@ Uống trong ngày, dùng 6 đến 16g lá khô, dưới dạng thuốc sắc.
 Phụ nữ kém ăn, da vàng sau khi sinh nở.
 Lá bưởi bung sao vàng 10g. Thêm 400ml nước vào, sắc còn 200ml, chia 2 lần uống trong ngày.
 Mụn ổ gà mọc ở bẹn, nách, thối loét lâu ngày, ăn vào tới xương:
-Lá bưởi bung ( Glycosmis pentaphylla )một nắm chặt, lá ổi một nắm chặt, lá thổ phục linh một nắm. Cả ba vị rửa sạch, thái nhỏ, lấy lá chuối non hơ nóng cho mềm, gói thuốc lại, to nhỏ tùy theo mụn nhọt. Mặt nào định đặt lên mụn thì châm nhiều lỗ cho nước dễ thấm vào mụn. (Revue medico chirurgicale 12. 1939).
+Lá bưởi bung (Glycosmis pentaphylla)một nắm chặt, lá ổi một nắm chặt, lá thổ phục linh một nắm. Cả ba vị rửa sạch, thái nhỏ, lấy lá chuối non hơ nóng cho mềm, gói thuốc lại, to nhỏ tùy theo mụn nhọt. Mặt nào định đặt lên mụn thì châm nhiều lỗ cho nước dễ thấm vào mụn. (Revue medico chirurgicale 12. 1939).
 

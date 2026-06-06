@@ -21,7 +21,7 @@ Thuộc họ Chua me đất Oxaỉidaceơe.
 
 #### A. Mô tả cây
 
-Cây chua me lá me là một loại cỏ cao chừng 20cm, thân có lông, không phân nhánh, tận cùng bàng một túp gồm 15 đến 20 lá dài 6 đến 12cm, kép dìa chẵn gồm 10 đến 14 đôi lá mểm, nhẩn. Những lá chét ở giữa hình thang. Cụm hoa gầy, thưcmg ngấn hơn lá, có lông, hoa màu vàng. Quả nang có đài tồn tại, 5 ngăn. Hạt màu đen, nhỏ hình cầu, trên có những bướu, xếp không trên một đường thẳng ( Hình 174 ).
+Cây chua me lá me là một loại cỏ cao chừng 20cm, thân có lông, không phân nhánh, tận cùng bàng một túp gồm 15 đến 20 lá dài 6 đến 12cm, kép dìa chẵn gồm 10 đến 14 đôi lá mểm, nhẩn. Những lá chét ở giữa hình thang. Cụm hoa gầy, thưcmg ngấn hơn lá, có lông, hoa màu vàng. Quả nang có đài tồn tại, 5 ngăn. Hạt màu đen, nhỏ hình cầu, trên có những bướu, xếp không trên một đường thẳng (Hình 174).
 
 #### B. Phân bố, thu hái và chế biến
 

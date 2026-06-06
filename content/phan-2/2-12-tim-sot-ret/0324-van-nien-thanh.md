@@ -22,7 +22,7 @@ Cần chú ý ngay rằng tên vạn niên thanh ở nước ta thường dùng 
 
 #### A. Mô tả cây
 
-Cây vạn niên thanh-Rhodea japonica Roth, là một cây nhỏ, sống lâu năm, không có thân, thân rễ ngắn và thô, rễ nhiều nhưng nhỏ. Lá mọc từ thân rễ, hình mác dài tới 30cm, rộng 5-7cm, dai, mặt bóng nhẵn, gân chạy dọc. Vào xuân hạ có trục mang nhiều hoa nhỏ, màu xanh trắng nhạt, tụ họp thành bông ngắn. Quả mọng hình cầu, khi chín có màu đỏ hay đỏ vàng. Mùa hoa tháng 4-6 ( Hình 462).
+Cây vạn niên thanh-Rhodea japonica Roth, là một cây nhỏ, sống lâu năm, không có thân, thân rễ ngắn và thô, rễ nhiều nhưng nhỏ. Lá mọc từ thân rễ, hình mác dài tới 30cm, rộng 5-7cm, dai, mặt bóng nhẵn, gân chạy dọc. Vào xuân hạ có trục mang nhiều hoa nhỏ, màu xanh trắng nhạt, tụ họp thành bông ngắn. Quả mọng hình cầu, khi chín có màu đỏ hay đỏ vàng. Mùa hoa tháng 4-6 (Hình 462).
 
 []
 

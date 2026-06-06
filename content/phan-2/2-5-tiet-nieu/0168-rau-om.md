@@ -25,7 +25,7 @@ Thuộc họ hoa mõm chó Scrophuỉariaceae.
 
 #### A. Mô tả cây
 
-Rau om là một loại cỏ mọc bò, thân dòn, đài 20-30cm, mùi rất thơm. Lá nhẵn, mọc đối, khồng cuống, hơi ôm vào thân, phần lá gần thân nhỏ lại, mép hơi có răng cưa. Có khi lá mọc thành cụm 3 lá. Hoa hơi không cuống, mọc đơn độc hoặc họp thành 2-3 dạng xim. Quả nang nhẩn, có bướu và nếp nhăn dọc theo quả, ngắn hơn lá đài. Hạt nhẵn hình trụ màu đen nhạt, có vân mạng ( Hình 206 ).
+Rau om là một loại cỏ mọc bò, thân dòn, đài 20-30cm, mùi rất thơm. Lá nhẵn, mọc đối, khồng cuống, hơi ôm vào thân, phần lá gần thân nhỏ lại, mép hơi có răng cưa. Có khi lá mọc thành cụm 3 lá. Hoa hơi không cuống, mọc đơn độc hoặc họp thành 2-3 dạng xim. Quả nang nhẩn, có bướu và nếp nhăn dọc theo quả, ngắn hơn lá đài. Hạt nhẵn hình trụ màu đen nhạt, có vân mạng (Hình 206).
 
 Ngoài cây rau om Lìmnophila aromatica nói trên có mùi rất thơm, còn có rau om Limnophiỉa ruạosa Merr. cũng có mùi thơm, rau om Ân- Limnophiỉa indica (L.) Druce, rau om tẫu- Limnophila chỉnensỉs (Osb.) Merr. cũng được sử dụng.
 

@@ -20,7 +20,7 @@ Tên khoa học _*Mosla dianthera Maxim. Thuộc họ Hoa Môi Lamiơceae (Labia
 
 Cây cỏ cao 25-50cm, mọc đứng, gầy, nhiều cành, thân vuông. Lá mọc đối, có cuống ngắn, phiến lá dài 1,5'2cm, rộng 1-1,5cm, mép cổ răng
 
-cưa nhỏ. Hoa nhỏ, trắng hay hổng mọc thành bông ờ đầu cành hay kẽ lá, bông dài 5-10cm, với những vòng gồm 2 hoa, cách nhau. Quả bế (ư, màu nâu nhạt, hình cầu. Toàn cây có lông tơ, mùi thơm đặc biệt ( Hình 325 ).
+cưa nhỏ. Hoa nhỏ, trắng hay hổng mọc thành bông ờ đầu cành hay kẽ lá, bông dài 5-10cm, với những vòng gồm 2 hoa, cách nhau. Quả bế (ư, màu nâu nhạt, hình cầu. Toàn cây có lông tơ, mùi thơm đặc biệt (Hình 325).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -86,7 +86,7 @@ Thuộc họ Hoa mõm chó Scrophuỉơriaeae.
 
 #### A. Mô tả cây
 
-Cỏ sống hầng năm, cao 20cm, phân rất nhiều nhánh, với thân màu xanh hay đò tím. Lá mọc đối, dài 35-45mm, rộng 25-30mm, khía răng, cuống dài l-2cm, có dìa cánh. Hoa màu trẳng, mọc thành chùm 4-5 hoa, thưa, thường ngắn hơn lá. Quả nang dẹt, nằm trong đài còn lại, trông giống con hến. Hạt hình trụ, màu vàng, hơi thắt ờ giữa. Toàn cây có vị rất đắng do đó có tên fel terrae (fiel terrestre: mật đất), mật cá. Mùa hoa quả: tháng 9-11 ( Hình 327 ).
+Cỏ sống hầng năm, cao 20cm, phân rất nhiều nhánh, với thân màu xanh hay đò tím. Lá mọc đối, dài 35-45mm, rộng 25-30mm, khía răng, cuống dài l-2cm, có dìa cánh. Hoa màu trẳng, mọc thành chùm 4-5 hoa, thưa, thường ngắn hơn lá. Quả nang dẹt, nằm trong đài còn lại, trông giống con hến. Hạt hình trụ, màu vàng, hơi thắt ờ giữa. Toàn cây có vị rất đắng do đó có tên fel terrae (fiel terrestre: mật đất), mật cá. Mùa hoa quả: tháng 9-11 (Hình 327).
 
 #### B. Phân bố, thu hái và chê' biến
 

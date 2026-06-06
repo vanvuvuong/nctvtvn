@@ -24,7 +24,7 @@ Vì lá cây giống lá trúc, hoa giống hoa đào, do đó có tên.
 
 #### A. Mô tả cây
 
-Trúc đào là một cây nhỡ, có thể cao tới 4-5m, mọc riêng lẻ hay có khi trồng thành bụi. Cành mềm dẻo. Lá mọc đối hay mọc vòng từng 3 lá một, thuộc loại lá đơn, mép nguyên, cuống ngắn, phiến lá hình mác, dài 7-20cm, rộng từ 1-4cm, dai cứng, mặt trên màu xanh thẫm, mặt dưới màu nhạt hơn, gân đều, song song ngang hai bên gân chính. Hoa màu hồng hay màu trắng, mọc thành xim ngù ở đầu cành. Quả gồm hai đại, gầy, trong chứa rất nhiều hạt có nhiều lông ( Hình 461, Hm 26,1).
+Trúc đào là một cây nhỡ, có thể cao tới 4-5m, mọc riêng lẻ hay có khi trồng thành bụi. Cành mềm dẻo. Lá mọc đối hay mọc vòng từng 3 lá một, thuộc loại lá đơn, mép nguyên, cuống ngắn, phiến lá hình mác, dài 7-20cm, rộng từ 1-4cm, dai cứng, mặt trên màu xanh thẫm, mặt dưới màu nhạt hơn, gân đều, song song ngang hai bên gân chính. Hoa màu hồng hay màu trắng, mọc thành xim ngù ở đầu cành. Quả gồm hai đại, gầy, trong chứa rất nhiều hạt có nhiều lông (Hình 461, Hm 26,1).
 
 []
 

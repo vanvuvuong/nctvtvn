@@ -26,7 +26,7 @@ VỊ tế tân hiện còn phải nhập. Gần đây, ta có dùng một cây v
 
 A. Mó tả cây
 
-Tế tân-Asarum sieboldii. Miq. là một loại cỏ nhỏ, cao chừng 12-24cm. Thân rễ dưới đất bò ngang, đẩu thân rể có phân nhánh. Rễ nhiều, nhỏ và dài vê ở tay có mùi thơm. Lá mọc từ rẻ, gồm 2-3 lá, có cuống dài 5-18cm, thường là nhẵn hay hơi có lông, trên có rãnh chạy dọc, phiến lá hình tim dài 4-9cm, rộng 6-12cm, đầu nhọn, phía đáy lá hình tim, mép nguyên, mặt dưới lá có nhiều lông mịn, dài. Hoa mọc đơn độc từ rễ lên, cuống dài 3-5cm. Bao hoa chỉ gồm 1 vòng màu nâu đỏ nhạt, phía trên chia thành 3 cánh hình trứng rộng dài 10mm, đầu nhọn. Quả gần hình cầu ( Hình 446).
+Tế tân-Asarum sieboldii. Miq. là một loại cỏ nhỏ, cao chừng 12-24cm. Thân rễ dưới đất bò ngang, đẩu thân rể có phân nhánh. Rễ nhiều, nhỏ và dài vê ở tay có mùi thơm. Lá mọc từ rẻ, gồm 2-3 lá, có cuống dài 5-18cm, thường là nhẵn hay hơi có lông, trên có rãnh chạy dọc, phiến lá hình tim dài 4-9cm, rộng 6-12cm, đầu nhọn, phía đáy lá hình tim, mép nguyên, mặt dưới lá có nhiều lông mịn, dài. Hoa mọc đơn độc từ rễ lên, cuống dài 3-5cm. Bao hoa chỉ gồm 1 vòng màu nâu đỏ nhạt, phía trên chia thành 3 cánh hình trứng rộng dài 10mm, đầu nhọn. Quả gần hình cầu (Hình 446).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -84,7 +84,7 @@ Thuộc họ Ngũ gia bì Araliaceae.
 
 #### A. Mô tả cày
 
-Cây nhỏ rất nhiều cành. Thân hơi gẩy không có lồng, trên có những gai cong quặp xuống. Lá to, kép 2-3 lần lông chim, có 9-11 lá chét, có cuống, phiến lá chét hình trứng, nhọn ở đầu, phía cuống hoi tròn, mép có răng cưa, trên những đường gân có những gai nhỏ. Cụm hoa hình chùy tán, nhiều gai, gổm nhiều hoa nhỏ màu trắng vàng nhạt hay xanh vàng nhạt. Nhi 5. Bầu hình trúhg 5 ngăn, 5 vòi tự đo. Quả màu đen nhạt dài 3-4mm ( Hình 447). .
+Cây nhỏ rất nhiều cành. Thân hơi gẩy không có lồng, trên có những gai cong quặp xuống. Lá to, kép 2-3 lần lông chim, có 9-11 lá chét, có cuống, phiến lá chét hình trứng, nhọn ở đầu, phía cuống hoi tròn, mép có răng cưa, trên những đường gân có những gai nhỏ. Cụm hoa hình chùy tán, nhiều gai, gổm nhiều hoa nhỏ màu trắng vàng nhạt hay xanh vàng nhạt. Nhi 5. Bầu hình trúhg 5 ngăn, 5 vòi tự đo. Quả màu đen nhạt dài 3-4mm (Hình 447). .
 
 #### B. Phân bố, thu hái và chế biên
 

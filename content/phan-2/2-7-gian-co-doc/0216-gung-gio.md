@@ -23,7 +23,7 @@ Thuộc họ gừng Zingiberaceae.
 
 Cỏ cao 1-1,3m. Thân rễ củ, phân nhánh, màu trắng nhạt, trong ruột màu vàng nhạt.
 
-Lá mọc sít, gần như không cuống, thuôn dài đầu nhọn, phía trên màu xanh lục sẫm, hơi nhạt ( phía dưới, bẹ nhẵn, trừ phía trên có lông. Cán hoa dài 30-60cm, phủ đầy vẩy, mép có mang lông. Hoa màu vàng, lá dài hình ống dài 2cm. (Hình 276 ).
+Lá mọc sít, gần như không cuống, thuôn dài đầu nhọn, phía trên màu xanh lục sẫm, hơi nhạt (phía dưới, bẹ nhẵn, trừ phía trên có lông. Cán hoa dài 30-60cm, phủ đầy vẩy, mép có mang lông. Hoa màu vàng, lá dài hình ống dài 2cm. (Hình 276).
 
 []
 
@@ -59,7 +59,7 @@ Hạt sẻn hay hoa tiêu (Pructus Zanthoxyli) là quả phơi hay sấy khô c�
 
 #### A. Mô tả cây
 
-Cây sưng có nhiều cành dài l-2m, có thể dài tới 15m, đường kính thân có thể tới 15cm, cành màu đỏ nhạt, trên cành và cuống lá có những gai ngắn, dẹt, quay về phía dưới. Lá kép lông chim lẻ, có 2 đến 3 đôi lá chét mọc đối. Mặt dưới và mặt trên của gân chính đều có gai, do đó đã có tên lưỡng diện châm (hai mặt có gai). Hoa mọc thành chùm hay chùm xim đơm (glomérule) riêng lẻ hay tập trung ở kẽ lá. Quả có 1 đến 5 mảnh vỏ, thường là 3 tụ họp ở quanh trục, mặt ngoài nhăn nheo, mặt trong nhẵn. Mỗi vỏ cứng có một hạt cứng, đen bóng ( Hình 277, Hm 17,3 ).
+Cây sưng có nhiều cành dài l-2m, có thể dài tới 15m, đường kính thân có thể tới 15cm, cành màu đỏ nhạt, trên cành và cuống lá có những gai ngắn, dẹt, quay về phía dưới. Lá kép lông chim lẻ, có 2 đến 3 đôi lá chét mọc đối. Mặt dưới và mặt trên của gân chính đều có gai, do đó đã có tên lưỡng diện châm (hai mặt có gai). Hoa mọc thành chùm hay chùm xim đơm (glomérule) riêng lẻ hay tập trung ở kẽ lá. Quả có 1 đến 5 mảnh vỏ, thường là 3 tụ họp ở quanh trục, mặt ngoài nhăn nheo, mặt trong nhẵn. Mỗi vỏ cứng có một hạt cứng, đen bóng (Hình 277, Hm 17,3).
 
 []
 
@@ -75,7 +75,7 @@ Mọc hoang khắp nơi ở nước ta, nhiều nhất tại các tỉnh miền 
 
 #### C. Thành phần hóa học
 
-Trong hạt có 1% tinh dầu, với thành phần chủ yếu là limonen (44%), geranial ( 12,14%), neral (10,95%), linalol (6,84%) (theo Nguyễn Xuân Dũng, PA Leclerq, Th. Nga, 1990).
+Trong hạt có 1% tinh dầu, với thành phần chủ yếu là limonen (44%), geranial (12,14%), neral (10,95%), linalol (6,84%) (theo Nguyễn Xuân Dũng, PA Leclerq, Th. Nga, 1990).
 
 [C:\Users\User\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\0385.jpg]
 
@@ -125,7 +125,7 @@ Tiêu là cay gắt; cây có vị cay gắt, sản sinh ở nước Hồ, do đ
 
 Hồ tiêu là một loại dây leo, thân dài, nhẵn không mang lông, bám vào các cây khác bằng rễ. Hình như giữa cây tựa và cây hồ tiêu có một sự sống nhờ nhau, cho nên khi gỡ cây hồ tiêu khỏi cây tựa, phần nhiều cây hồ tiêu bị chết. Thân mọc cuốn, mang lá mọc cách. Lá như lá trầu không, nhưng dài và thuôn hơn. Có hai loại nhánh: Một loại nhánh mang quả, và một loại nhánh dinh dưỡng, cả hai loại nhánh đều xuất phát từ kẽ lá.
 
-Đối chiếu với lá là một cụm hoa hình đuôi sóc. Khi chín, rụng cả chùm. Quả hình cầu nhỏ, chừng 20-30 quả trên một chùm, lúc đầu màu xanh lục, sau có màu đỏ, khi chín có màu vàng. Đốt cây rất dòn, cho nên khi vận chuyển, cần thận trọng để cây khỏi chết. ( Hình 278, Hm 38,2 ).
+Đối chiếu với lá là một cụm hoa hình đuôi sóc. Khi chín, rụng cả chùm. Quả hình cầu nhỏ, chừng 20-30 quả trên một chùm, lúc đầu màu xanh lục, sau có màu đỏ, khi chín có màu vàng. Đốt cây rất dòn, cho nên khi vận chuyển, cần thận trọng để cây khỏi chết. (Hình 278, Hm 38,2).
 
 []
 

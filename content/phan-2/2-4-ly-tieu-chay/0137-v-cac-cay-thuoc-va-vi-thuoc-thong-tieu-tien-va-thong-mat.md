@@ -29,7 +29,7 @@ Cay mã dề cho các vị thuốc có tên sau đây:
 
 3. Lá mã đề; Foliuin p]antaginis-là lá tươi hay phơi hiìặc sấy khô.
 
-()(\*)()Mã đè là loại cỏ sống lâu năm, thân ngắn, lá mọc thành cụm ở gốc, cuống dài, phiến lá hình thìa hay hình trứng, có gân dọc theo sống lá và đồng quy ỏ ngọn và gốc lá. Hoa mọc thành bồng, có cán dài, xuất phát từ kẽ lá. Hoa đểu, lưỡng tính, đài 4, xếp chéo, hơi đính nhau ở gốc, tràng màu nâu lổn tại, gồm 4 thùy nằm xen kẽ ở giữa các lá đài. Nhị 4 chỉ nhị mảnh, dài, 2 lá noãn chứa nhiều tiểu noãn. Quả hộp trong chứa nhiều hạt màu níiu đcn bóng. ( Hình 156, Hm27,3 )
+()(\*)()Mã đè là loại cỏ sống lâu năm, thân ngắn, lá mọc thành cụm ở gốc, cuống dài, phiến lá hình thìa hay hình trứng, có gân dọc theo sống lá và đồng quy ỏ ngọn và gốc lá. Hoa mọc thành bồng, có cán dài, xuất phát từ kẽ lá. Hoa đểu, lưỡng tính, đài 4, xếp chéo, hơi đính nhau ở gốc, tràng màu nâu lổn tại, gồm 4 thùy nằm xen kẽ ở giữa các lá đài. Nhị 4 chỉ nhị mảnh, dài, 2 lá noãn chứa nhiều tiểu noãn. Quả hộp trong chứa nhiều hạt màu níiu đcn bóng. (Hình 156, Hm27,3)
 
 ()(\*)()Mã đé mạc hoang và được trồng tại nhiều nơi ở kháp nước ta. Muốn bảo đảm nhu cầu cần đặt vấn dề trồng. Trồng bằng hạt chọn ỏ những cây
 

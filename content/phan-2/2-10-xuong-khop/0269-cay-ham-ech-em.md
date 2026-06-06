@@ -14,7 +14,7 @@ keywords:
 
 Càn có tên ì à tam bạch thảo, đường biên ngẫu {Lĩnh nam thái dược lục).
 
-Tên khoa học _*Saururus sinensis Baill.( Saururus loureiri Decne).*_
+Tên khoa học _*Saururus sinensis Baill.(Saururus loureiri Decne).*_
 
 Thuộc họ Lá giấp Saururaceae.
 
@@ -28,7 +28,7 @@ Hàm ẽch là một loại cỏ sống lâu năm, ưa mọc ở những nơi �
 
 Hình 378. Hàm ếch - Saururus sinensis
 
-trên một cuống nhẩn, dài 4“5cm. Hạt hình trứng, hơi nhọn ờ đầu ( Hình 378 ).
+trên một cuống nhẩn, dài 4“5cm. Hạt hình trứng, hơi nhọn ờ đầu (Hình 378).
 
 Mùa hoa: tháng 4-6
 

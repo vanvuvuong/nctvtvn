@@ -3,6 +3,10 @@ title: "7. CÂY GAI 宁麻"
 weight: 7
 navWeight: 994
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - phụ nữ có thai đau bụng
+  - thông tiểu tiện
+  - tiểu tiện đục
 keywords:
   - bệnh phụ nữ
   - cây gai

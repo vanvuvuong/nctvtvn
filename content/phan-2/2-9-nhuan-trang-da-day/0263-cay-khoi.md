@@ -27,13 +27,13 @@ Ta dùng lá cây khôi phơi hay sấy khô Folium Ardisiae.
 
 Cây khôi là một loại cây nhỏ, mọc thẳng đứng, cao chừng 1,5-2m, thân rỗng xốp, ít phân nhánh hay không phân nhánh, gần trên ngọn có nhiều lá.
 
-Lá mọc so le, phiến lá nguyên, mép có răng cưa nhỏ và mịn, dài 25-40cm, rộng 60-10cm, mặt trên tím, gân nổi hình mạng lưới. Hoa mọc thành chùm, dài 10-15cm, hoa rất nhỏ, đường kính 2-3mm, màu trắng pha hồng tím 5 lá đài 5 cánh hoa. Quả mọng, khi chín màu đỏ. Mùa hoa: tháng 5-7, mùa quả: tháng 7-9 ( Hình 369 ).
+Lá mọc so le, phiến lá nguyên, mép có răng cưa nhỏ và mịn, dài 25-40cm, rộng 60-10cm, mặt trên tím, gân nổi hình mạng lưới. Hoa mọc thành chùm, dài 10-15cm, hoa rất nhỏ, đường kính 2-3mm, màu trắng pha hồng tím 5 lá đài 5 cánh hoa. Quả mọng, khi chín màu đỏ. Mùa hoa: tháng 5-7, mùa quả: tháng 7-9 (Hình 369).
 
 Có nhiều cây khôi khác nhau, có thứ như mô tả ở trên, có thứ hai mặt lá đều xanh. Kinh nghiệm thường chỉ dùngloại có lá mặt trên xanh như nhung, mặt dưới tím.
 
 #### B. Phân bố, thu hái và chế biến
 
-Cây khôi mọc hoang tại những khu rừng rậm miền thượng du các tỉnh Thanh Hoá (Thạch Thành-Ngọc Lạc-Lang Chánh), Nghệ An (Phủ Quỳ), Ninh Bình (Nho Quan), Hà Tây (Ba Vì ).
+Cây khôi mọc hoang tại những khu rừng rậm miền thượng du các tỉnh Thanh Hoá (Thạch Thành-Ngọc Lạc-Lang Chánh), Nghệ An (Phủ Quỳ), Ninh Bình (Nho Quan), Hà Tây (Ba Vì).
 
 Thường hái lá và ngọn vào mùa hạ, phơi nắng cho tái rồi phơi và ủ trong râm.
 

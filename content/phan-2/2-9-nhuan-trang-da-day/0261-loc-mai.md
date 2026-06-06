@@ -58,7 +58,7 @@ Dịch ép lá lộc mại 30ml, mật ong 30g, trộn đều, đun sôi. Lọc 
 
 ME
 
-_Còn gọi là cây me, ampil, khua me ( Cămpuchia), mak kham (Lào)._
+_Còn gọi là cây me, ampil, khua me (Cămpuchia), mak kham (Lào)._
 
 Tên khoa học _*Tamarindus indica L.*_
 
@@ -66,7 +66,7 @@ Thuộc họ Vang Caesalpiniaceae.
 
 #### A. Mô tả cây
 
-Cây to cao 15 đến 30m, tán cây rất rộng, rất nhiều lá. Lá kép lông chim chẵn, dài 8 đến 10cm, gồm 10 đến 20 đôi lá chét thuôn tù ở đầu, dài 20mm, rộng 2mm. Hoa trắng nhạt có những vệt đỏ hay trắng, mọc thành chùm đơn ở kẽ lá hay thành chùy tận cùng. Quả dài mọc thõng xuống, hơi dẹt thông, dài 7-12cm, rộng 25mm, dày 10mm. Vỏ quả ngoài mỏng, cứng, dòn, màu hung đỏ, vỏ quả giữa có xơ, mẫm vị chua, sau khi đã loại hết xơ thì phần vỏ quả giữa có màu nâu nhạt hay vàng nhạt. Quả chứa 3 đến 5 hạt dẹt, nhẵn, màu nâu đỏ, bóng. Mùa quả tháng 10-11( Hình 365 ).
+Cây to cao 15 đến 30m, tán cây rất rộng, rất nhiều lá. Lá kép lông chim chẵn, dài 8 đến 10cm, gồm 10 đến 20 đôi lá chét thuôn tù ở đầu, dài 20mm, rộng 2mm. Hoa trắng nhạt có những vệt đỏ hay trắng, mọc thành chùm đơn ở kẽ lá hay thành chùy tận cùng. Quả dài mọc thõng xuống, hơi dẹt thông, dài 7-12cm, rộng 25mm, dày 10mm. Vỏ quả ngoài mỏng, cứng, dòn, màu hung đỏ, vỏ quả giữa có xơ, mẫm vị chua, sau khi đã loại hết xơ thì phần vỏ quả giữa có màu nâu nhạt hay vàng nhạt. Quả chứa 3 đến 5 hạt dẹt, nhẵn, màu nâu đỏ, bóng. Mùa quả tháng 10-11(Hình 365).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -104,7 +104,7 @@ Chú thích về tên: Hypogea có nghĩa là quả ở trong đất vì quả �
 
 Lạc là một loại cây thảo, sống hàng năm, thân cây khi mọc thẳng, khi mọc bò sát dài 0,30-0,50m, có khi tới 0,60-0,80m.
 
-Có nhiều thứ lạc nhưng có hai thứ chính: Arachis asiatica Loureiro mọc thẳng, rất nhiều lông được trồng ở châu Á. Arachis africana bò sát đất, tương đối không có lông, được trồng cả ở các nước ven biển phía tây châu Phi. Lá mọc so le gồm 4 lá chét hình trái xoan. Hoa gồm hai loại: Loại lớn ở phía ngoài chùm hoa có màu vàng, không cho quả, loại khác nhỏ hơn, chúc theo chiều thân cây xuống đất để dấu bầu ngập vào trong đất chừng 4-5cm, quả sẽ chín ở trong đất. Quả là một giáp không khai, dài 3-5cm, có bướu, 2-3 chỗ thắt lại. Những chỗ bướu chứa hạt, thường một quả có 2, 3, 4 hạt. Thành quả cứng, màu vàng, có sơ và thớ nổi lên. Vì quả lạc ở dưới đất lên nhân dân ta vẫn gọi là củ lạc ( Hình 366 ).
+Có nhiều thứ lạc nhưng có hai thứ chính: Arachis asiatica Loureiro mọc thẳng, rất nhiều lông được trồng ở châu Á. Arachis africana bò sát đất, tương đối không có lông, được trồng cả ở các nước ven biển phía tây châu Phi. Lá mọc so le gồm 4 lá chét hình trái xoan. Hoa gồm hai loại: Loại lớn ở phía ngoài chùm hoa có màu vàng, không cho quả, loại khác nhỏ hơn, chúc theo chiều thân cây xuống đất để dấu bầu ngập vào trong đất chừng 4-5cm, quả sẽ chín ở trong đất. Quả là một giáp không khai, dài 3-5cm, có bướu, 2-3 chỗ thắt lại. Những chỗ bướu chứa hạt, thường một quả có 2, 3, 4 hạt. Thành quả cứng, màu vàng, có sơ và thớ nổi lên. Vì quả lạc ở dưới đất lên nhân dân ta vẫn gọi là củ lạc (Hình 366).
 
 #### B. Phân bố thu hái và chế biến
 
@@ -152,7 +152,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 #### A. Mô tả cây
 
-Cỏ sống hai năm, cao 1m thân rỗng, lá ở thân không cuống, không có lá kèm, hình giáo nhọn, mọc đối chéo chữ thập, chỉ có gân giữa nổi lên rõ rệt thôi. Ở phần ngọn thân, lá ngắn hơn, gần hình tim. Ở kẽ lá có một tán chia thành 2-5 nhánh, mỗi nhánh kết thúc bởi một cụm hoa hình chén, nom giống một hoa đều lưỡng tính. Mỗi chén gồm có một tổng bao 5 lá bắc liền nhau gốc, rời và nhọn. Trong những chỗ lõm ngăn cách ngọn các lá bác có 4 tuyến hình lưỡi liềm. Từ miệng chén mọc ra vô số hoa đực và mỗi hoa một hoa cái ở giữa, mang bởi một cuống dài, thoạt tiên đứng, về sau cong xuống đất. Mỗi hoa đực giảm chỉ còn mỗi một nhị, chỉ ngắn mang bao phấn 2 ô mở bởi kẽ nứt dọc hướng ngoài. Chỉ nhị đặt trên một cái chân hình trụ, giới hạn bởi một chỗ thắt vòng quanh gọi là khớp. Hoa cái trần, giảm thành một nhuỵ cấu tạo bởi 3 lá noãn, bầu 3 ô mang 3 vòi gần rời nhau, chẻ đôi ở ngọn. Mỗi ô đựng một noãn có nút úp lên trên. Quả nang có 3 mảnh vỏ, tách rời khỏi trụ quả và mở bởi một kẻ nứt ở giữa lưng. Hạt có mồng, vỏ ngoài màu nâu mờ, trong đựng cây mầm và nội nhũ ( Hình 367 ).
+Cỏ sống hai năm, cao 1m thân rỗng, lá ở thân không cuống, không có lá kèm, hình giáo nhọn, mọc đối chéo chữ thập, chỉ có gân giữa nổi lên rõ rệt thôi. Ở phần ngọn thân, lá ngắn hơn, gần hình tim. Ở kẽ lá có một tán chia thành 2-5 nhánh, mỗi nhánh kết thúc bởi một cụm hoa hình chén, nom giống một hoa đều lưỡng tính. Mỗi chén gồm có một tổng bao 5 lá bắc liền nhau gốc, rời và nhọn. Trong những chỗ lõm ngăn cách ngọn các lá bác có 4 tuyến hình lưỡi liềm. Từ miệng chén mọc ra vô số hoa đực và mỗi hoa một hoa cái ở giữa, mang bởi một cuống dài, thoạt tiên đứng, về sau cong xuống đất. Mỗi hoa đực giảm chỉ còn mỗi một nhị, chỉ ngắn mang bao phấn 2 ô mở bởi kẽ nứt dọc hướng ngoài. Chỉ nhị đặt trên một cái chân hình trụ, giới hạn bởi một chỗ thắt vòng quanh gọi là khớp. Hoa cái trần, giảm thành một nhuỵ cấu tạo bởi 3 lá noãn, bầu 3 ô mang 3 vòi gần rời nhau, chẻ đôi ở ngọn. Mỗi ô đựng một noãn có nút úp lên trên. Quả nang có 3 mảnh vỏ, tách rời khỏi trụ quả và mở bởi một kẻ nứt ở giữa lưng. Hạt có mồng, vỏ ngoài màu nâu mờ, trong đựng cây mầm và nội nhũ (Hình 367).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -186,7 +186,7 @@ Thuộc họ xương rồng Cactaceae.
 
 #### A. Mô tả cây
 
-Thanh long có thân bò với 3 cánh dẹt, màu xanh lục nhạt, nhiều lá đài và cánh hoa dính vào nhau thành ống. Nhiều tiểu nhuỵ, bầu hạ cho quả thịt với lớp vỏ ngoài màu đỏ tươi với những phiến hoa còn lại. Quả dài 18-20cm, đường kính từ 12-15cm. Sau lớp vỏ hơi dầy mầu đỏ là phần thịt mầu trắng xanh với rất nhiều hạt màu đen nhỏ hơn hạt vừng. Ăn mát và ngọt ( Hình 368, Hm 38,4 ).
+Thanh long có thân bò với 3 cánh dẹt, màu xanh lục nhạt, nhiều lá đài và cánh hoa dính vào nhau thành ống. Nhiều tiểu nhuỵ, bầu hạ cho quả thịt với lớp vỏ ngoài màu đỏ tươi với những phiến hoa còn lại. Quả dài 18-20cm, đường kính từ 12-15cm. Sau lớp vỏ hơi dầy mầu đỏ là phần thịt mầu trắng xanh với rất nhiều hạt màu đen nhỏ hơn hạt vừng. Ăn mát và ngọt (Hình 368, Hm 38,4).
 
 #### B. Phân bố, thu hái và chế biến
 

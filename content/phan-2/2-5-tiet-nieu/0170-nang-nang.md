@@ -28,7 +28,7 @@ Thuộc họ Cỏ roi ngựa Verbenaceae.
 
 Cây nhó, cành vuông phủ đầy lông hình sao màu xám, hay trắng nhạt. Lá mọc đối, hình mác hai đầu nhọn, mép có răng cưa, dài 7-20cm, rộng 2,5-llcm, hai mặt đều có lông, mặt dưới nhiểu hơn nén có màu trắng bạc. Hoa rất nhỏ màu hồng nhạt mọc thành xim ờ kẽ lá, thành hình cầu. Quả hình cầii, nhẵn, màu tía, đường kính 2-3mm, mọc sát nhau.
 
-Mùa hoa quả: Tháng 5-9 ( Hình 208 ).
+Mùa hoa quả: Tháng 5-9 (Hình 208).
 
 #### B. Phân bố, thu hái và chế biến
 

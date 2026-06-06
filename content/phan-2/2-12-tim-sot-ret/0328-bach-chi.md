@@ -31,7 +31,7 @@ Bạch chỉ (Radix Angelicae) là rễ phơi hay sấy khô của cây bạch c
 
 Cây bạch chỉ (Angelica dahurica) còn gọi là hàng châu bạch chỉ là một cây sống lâu năm, cao 1-1,5m, đường kính thân có thể tới 2-3cm, thân rỗng, mặt ngoài màu tím hồng, phía dưới thân nhẵn, không có lông, nhưng phía trên, gần cụm hoa thì có lông ngắn. Lá phía dưới to, có cuống dài, phiến lá 2-3 lần xẻ lông chim, thuỳ hình trứng hay hình trứng dài, dài 2-6cm, rộng 1-3cm, mép có răng cưa, lá phía trên nhỏ hơn, toàn bộ cuống lá phát triển thành bẹ bao ôm lấy thân, hai mặt đều không có lông, nhưng trên đường gân của mặt trên có lông ngắn. Cụm hoa hình tán kép mọc ở kẽ lá hay đầu cành, cuống tán dài 4-8cm, cuống tán nhỏ dài 1cm, hoa màu trắng, quả dài chừng 6mm, rộng 5-6mm.
 
-Cây này cho vị hàng châu bạch chỉ hay hương bạch chỉ ( Hình 466, Hm 43,1).
+Cây này cho vị hàng châu bạch chỉ hay hương bạch chỉ (Hình 466, Hm 43,1).
 
 []
 
@@ -39,7 +39,7 @@ Cây này cho vị hàng châu bạch chỉ hay hương bạch chỉ ( Hình 466
 
 Hình 466. Quả, rễ và cành bạch chỉ - Angelica dahurica
 
-Cây xuyên bạch chỉ (Angelica anomala) cũng là một cây sống lâu năm cao hơn cây bạch chỉ 2-3cm, đường kính thân nhỏ hơn, chỉ chừng 1cm. Lá mọc so le cũng 3 lần xẻ lông chim, thuỳ có cuống dài chừng 3cm, những đặc điểm khác gần giống loài trên ( Hình 467).
+Cây xuyên bạch chỉ (Angelica anomala) cũng là một cây sống lâu năm cao hơn cây bạch chỉ 2-3cm, đường kính thân nhỏ hơn, chỉ chừng 1cm. Lá mọc so le cũng 3 lần xẻ lông chim, thuỳ có cuống dài chừng 3cm, những đặc điểm khác gần giống loài trên (Hình 467).
 
 []
 
@@ -65,7 +65,7 @@ Trong bạch chỉ có các hoạt chất sau đây: Oxypeucedanin, imperatorin,
 
 Ngoài ra người ta còn chiết được chất alloizoimperatorin có độ chảy 228-230°C (thăng hoa) và 5 metoxy-8-andehytpsoralen có độ chảy 215-217°C, những chất đó vốn không có trong bạch chỉ nhưng có thể xuất hiện trong quá trình chiết xuất từ những chất izoimpertorin hoặc chất neobyakangelicol mà sinh ra.
 
-Trong xuyên bạch chỉ ngoài chất bergapten, umbelliferon còn có anomalin (độ chảy 105-106°C ).
+Trong xuyên bạch chỉ ngoài chất bergapten, umbelliferon còn có anomalin (độ chảy 105-106°C).
 
 Một tác giả khác đã lấy từ xuyên bạch chỉ được chừng 0,43% một chất gọi là angelicotoxin, một chất nhựa màu vàng, vị đắng có tính chất kích thích; ngoài ra còn có 0,2% chất byakangelixin C₁₇H₁₈O₇ 0,2% chất byakangelicola C₁₇H₁₆O₆, axit angelic C₄H₇COOH và tinh dầu.
 

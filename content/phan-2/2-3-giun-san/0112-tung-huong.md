@@ -112,7 +112,7 @@ Tên khoa học _*Agỉaonema siamense Engl. Thuộc họ Ráy Araceae.*_
 
 Cây thảo cao 35-40cm, đường kính thân 1- 1,5cm. Lá hình bầu dục thuôn dài, phía gốc tròn, phía trên hẹp nhọn dần, dài 15-20cm, rộng
 
-5-7cm, cuống dài 5-10cm có bẹ ôm lấy thân ở phía dưới. Cụm hoa tận cùng hay mọc ngang, mo dài 3,5-4,5cm trẽn điểm nhiều chấm trắng nhỏ, bóng mo dài 3,5cm, hình trụ, có chân ngắn, phần hoa cái ngăn cách phần hoa đực bởi những hoa trung tính hoặc bời những nhị lép. Quả mọng, thuôn dài, mặt điểm những chấm nhỏ trắng, dài 12-18mm, rộng 7-10mm ( Hình 106 ).
+5-7cm, cuống dài 5-10cm có bẹ ôm lấy thân ở phía dưới. Cụm hoa tận cùng hay mọc ngang, mo dài 3,5-4,5cm trẽn điểm nhiều chấm trắng nhỏ, bóng mo dài 3,5cm, hình trụ, có chân ngắn, phần hoa cái ngăn cách phần hoa đực bởi những hoa trung tính hoặc bời những nhị lép. Quả mọng, thuôn dài, mặt điểm những chấm nhỏ trắng, dài 12-18mm, rộng 7-10mm (Hình 106).
 
 #### C. Thành phần hóa học
 

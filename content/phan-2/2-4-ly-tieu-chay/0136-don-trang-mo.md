@@ -27,7 +27,7 @@ Tên khoa học _*Psychoiria reevesii Wall.*_
 
 Thuộc họ Cà Phê Rubiaceae.
 
-()(\*)()Cây nhỏ hay nhỡ có thể cao từ 1 đến 9m. Thân nhẵn. Lá thuôn dài, mọc đối, phía cuổng hẹp và nhọn lại, phiến là dài 8-20cm, rộng 2- 7,5cm, mặt trên xanh hay xanh sảm, mặt dưới màu nhạt hơn. Hoa trắng nhạt, mọc thành xim ỏ đầu cành, Quả hình cầu với đài tồn tại, đường kính 5-7mm, chín có màu đò, vói hai hạch, mặt hai hạch tiếp giáp nhau phẳng, 5 sống và rãnh trên lưng hạch. Mỗi hạch chứa một hạt màu đen. Mùa hoa quả: Tháng 5-7 ( Hình 147 ).
+()(\*)()Cây nhỏ hay nhỡ có thể cao từ 1 đến 9m. Thân nhẵn. Lá thuôn dài, mọc đối, phía cuổng hẹp và nhọn lại, phiến là dài 8-20cm, rộng 2- 7,5cm, mặt trên xanh hay xanh sảm, mặt dưới màu nhạt hơn. Hoa trắng nhạt, mọc thành xim ỏ đầu cành, Quả hình cầu với đài tồn tại, đường kính 5-7mm, chín có màu đò, vói hai hạch, mặt hai hạch tiếp giáp nhau phẳng, 5 sống và rãnh trên lưng hạch. Mỗi hạch chứa một hạt màu đen. Mùa hoa quả: Tháng 5-7 (Hình 147).
 
 ()(\*)()Cây mọc hoang dại ở dưới những tán rừng thưa vùng trung du, vùng núi.
 
@@ -55,7 +55,7 @@ Tên khoa học _*Auricularia pohtricha Sacc.*_
 
 Thuộc họ Mộc nhĩ Auriculariaceae.
 
-()(\*)()Loại nấm mọc trông giống tai người (mộc: gỗ, nhĩ: tai) mạt ngoài màu nâu nhạt, có lông mịn, mặt trong nhãn màu nâu sẫm. Thể quả chất keo, thời kỳ đầu hình chén, dần dần biến thành hình cái tai, hoặc hình lá, đại bộ phận phẳng, nhẩn, rất ít khí có nếp nhãn. Bô phận gốc thường có nếp gấp màu xám đỏ, nhiều khi màu tím. Đường kính có thể tới I5cm ( Hình 148 ).
+()(\*)()Loại nấm mọc trông giống tai người (mộc: gỗ, nhĩ: tai) mạt ngoài màu nâu nhạt, có lông mịn, mặt trong nhãn màu nâu sẫm. Thể quả chất keo, thời kỳ đầu hình chén, dần dần biến thành hình cái tai, hoặc hình lá, đại bộ phận phẳng, nhẩn, rất ít khí có nếp nhãn. Bô phận gốc thường có nếp gấp màu xám đỏ, nhiều khi màu tím. Đường kính có thể tới I5cm (Hình 148).
 
 ()(\*)()Mọc hoang trên những cây, cành gỗ mục, ở trong rừng hay ờ vùng đồng bằng trên một số cây như cây sung, cây duối, cây sắn, hòe, dâu tầm. Hiện được sản xuất công nghiệp. Hái vể phơi hoặc sấy khô. Khí đùng làm thuốc thì sao cháy.
 
@@ -95,7 +95,7 @@ Tên khoa học _*Tinospora sagittata (Oliv.) Gagnep.*_
 
 Thuộc họ Tiết dẻ Menỉspermaceae.
 
-()(*)()San sư cô là tên đồng bào Mèo vùng chợ Mường Khương (Lào Cai) thường gọi cây này. Đày là một loại dây leo, sống nhiều năm, luốn xanh tươi, thân dài từ l-4m. Thần rỄ dưới đất có thể mọc dài tới 1,5m, thỉnh thoảng phình to lên từng đốt hình củ tròn to bằng ngón tay cái, có khi thành một *đãy gồm 5 đến 9 củ, màu vàng nhạt, khi cất có màu hơi trắng, vị đắng. Thân ưên mặt đất màu xanh lục nhạt, khi non có lông ngắn. Lá đơn, mọc cách, cuống lá dài 2-5cm, phiến lá hình mác nhọn, gốc lá hình chữ V, phiến lá dài 5-15cm, rộng 2-5cm. Hoa đực, cái khác gốc, hoa đực mọc thành chùm nhiều hoa có cuống dài 2-5cm, hoa cái cũng mọc thành chùm gồm 4 đến 10 hoa. Quả ưòn, cuống quả có đầu phình ra, quả chín có màu hồng đỏ. Mùa hoa: Tháng 3 đến tháng 5, mùa quả vào tháng 11-12 ( Hmh 150 ).
+()(*)()San sư cô là tên đồng bào Mèo vùng chợ Mường Khương (Lào Cai) thường gọi cây này. Đày là một loại dây leo, sống nhiều năm, luốn xanh tươi, thân dài từ l-4m. Thần rỄ dưới đất có thể mọc dài tới 1,5m, thỉnh thoảng phình to lên từng đốt hình củ tròn to bằng ngón tay cái, có khi thành một *đãy gồm 5 đến 9 củ, màu vàng nhạt, khi cất có màu hơi trắng, vị đắng. Thân ưên mặt đất màu xanh lục nhạt, khi non có lông ngắn. Lá đơn, mọc cách, cuống lá dài 2-5cm, phiến lá hình mác nhọn, gốc lá hình chữ V, phiến lá dài 5-15cm, rộng 2-5cm. Hoa đực, cái khác gốc, hoa đực mọc thành chùm nhiều hoa có cuống dài 2-5cm, hoa cái cũng mọc thành chùm gồm 4 đến 10 hoa. Quả ưòn, cuống quả có đầu phình ra, quả chín có màu hồng đỏ. Mùa hoa: Tháng 3 đến tháng 5, mùa quả vào tháng 11-12 (Hmh 150).
 
 Mình ỉ50. San sư cô - Tinospora sagittata
 
@@ -119,7 +119,7 @@ Thuộc họ Dương xỉ Poỉypodìaceae.
 
 Tên seo gà vì lá có một cái seo giống như seo ở đuôi con gà.
 
-()(\*)()Seo gà Jà một loại cây nhỏ, thân cồ, cao trung bình 15-25cm, có cây cao hơn. Lá bắt thụ có cuống mang dìa, dài 6-12cm, phiến lá dài 8- 25cm chia thành nhiẻu phiến nhỏ dài, mép có răng cưa, phiến nhỏ ờ đầu lá dài hơn cả, thoạt nhìn trông giống như những cành của cây. Lá hữu thụ có cuống dài 10-50cm, phiến lá dài 10- 40cm, cũng chia thành nhiều phiến lá nhỏ. Giữa các phiến lá nổi rõ gân chính, từ gân này tỏa ra nhiều gân phụ hình lông chim, xếp song song với nhau. Hai bên mép phiến lá hữu thụ mang cơ quan sình sản gọi là ổ tử nang xếp thành một đuờng thẳng liên tục ( Hình 151 ).
+()(\*)()Seo gà Jà một loại cây nhỏ, thân cồ, cao trung bình 15-25cm, có cây cao hơn. Lá bắt thụ có cuống mang dìa, dài 6-12cm, phiến lá dài 8- 25cm chia thành nhiẻu phiến nhỏ dài, mép có răng cưa, phiến nhỏ ờ đầu lá dài hơn cả, thoạt nhìn trông giống như những cành của cây. Lá hữu thụ có cuống dài 10-50cm, phiến lá dài 10- 40cm, cũng chia thành nhiều phiến lá nhỏ. Giữa các phiến lá nổi rõ gân chính, từ gân này tỏa ra nhiều gân phụ hình lông chim, xếp song song với nhau. Hai bên mép phiến lá hữu thụ mang cơ quan sình sản gọi là ổ tử nang xếp thành một đuờng thẳng liên tục (Hình 151).
 
 ()(\*)()Seo gà mọc phổ biến ở miền Bắc và miền Trung nước ta, thường gặp nhất ở trên những vách đá, vách đất, xung quanh thành giếng, ven đường đi, những nơi thoáng ẩm và mát. Còn thấy mọc cả ờ Trung Quốc, Nhật Bản. Bộ phận dùng làm thuốc cùa cây là thân rể và lá. Thân rễ nằm ngang dưới mặt đất, chừng 3-4cm, hình cong queo, sần sùi, nhiều .mấu, hơi cứng, vị hơi ngọt, đắng và tê, mùi thơm hắc. Đào về thái mỏng, phơi hoặc sấy khô.
 
@@ -165,7 +165,7 @@ Toàn thím cây có mùi thơm dễ chịu, lá cũng có mùi thơm hơi hắc
 
 Hình 152. Vọng cách - Premna integriỷoỉia
 
-thơm ( Hình 152 , Hm 23,4 ).
+thơm (Hình 152 , Hm 23,4).
 
 ()(\*)()Cây vọng cách mọc hoang khắp nơi ở Việt Nam và các nuớc Lào, Cămpuchia. Còn thấy mọc ở Mangát, An Độ, Inđónêxia, Philipin và châu Úc.
 
@@ -271,7 +271,7 @@ nồng, vị nhạt, không tan trong nước lạnh, tan trong nước ấm r�
 
 Theo M.Lawrcnce, J. w . Hogg và St. J. Terhune (Riechstoffe, Aromcn, Korper- /legemittel 20, 261. I910-Mi!íilzer Beiichte, 1971, 48) tinh dầu cất từ thân rễ gừng dại ở Thái Lan có tỷ trọng D₂U 0,894, CCD₂U 33"36', r|D30 1,489. Bằng sắc ký khí và phổ hồng ngoại đã xác định dược 2,5% ocpinen, 0,1% camphen, 2,1% Ppinen, 33,4% sabinen, 1,6% mỵrxen, 4,8% CCtecpincn, 0,7% limonen, 1,1% 1-8 xineol, 9% Ỵtecpinen, 2,1% p-cymol, 2,1% tecpinolcn,
 
-0, 6% trans -sabinenhydrat, 0,5% cis- sabinenhydrat, 0,7% cis-p-menthen-2-ol (1), 33,3% tepinenol (4), 0,5% trans-p-menthen-2- ol(l )+tecpinenl-yl-4-axetat, 0,4% atecpineol + atecinylaxetat, 0,2% cis-piperĩtol, 4,3% rnột thành phần chưa xác định được.
+0, 6% trans -sabinenhydrat, 0,5% cis- sabinenhydrat, 0,7% cis-p-menthen-2-ol (1), 33,3% tepinenol (4), 0,5% trans-p-menthen-2- ol(l)+tecpinenl-yl-4-axetat, 0,4% atecpineol + atecinylaxetat, 0,2% cis-piperĩtol, 4,3% rnột thành phần chưa xác định được.
 
 Năm 1971, T. E. Casey, J . Dougan, w. s.
 
@@ -297,7 +297,7 @@ Tên Lagerstroemia do Carl von Linné đặt cho từ năm 1759 đê nhớ tới
 
 ()(\*)()Cây gỗ cao 30-35m, thản gỗ có đường kính 40-8 Ocm, cành mảnh khảnh, có lông mềm màu hung, lông hlnh sao, có ở ngọn, sau nhấn và hình trụ. Lá mũi mác, thuôn dài, hẹp dán, tù ở gốc, dài 7-I4cm, rộng 20-50mm dai, lúc đấu có lông hình sao, sau không lông ở phía trên, có nhiều lông mềm hơn ở mặt dưới, gân phụ 10-13 đôi. Cụm hoa mọc ở đỉnh với 6-8 hoa, nụ hình nón ngược hay trái xoan, đài hình chuông, rất nhiều lông mềm, 6 thùy hình ba cạnh, cánh hoa
 
-6, hình mắt chim, nhị có nhiều gần bằng nhau, nhị bầu xù xì có 5-6 ô, quả nang hình trứng dài 12mm, tụt vào trong dài tới 1/3 {Hình 155 ).
+6, hình mắt chim, nhị có nhiều gần bằng nhau, nhị bầu xù xì có 5-6 ô, quả nang hình trứng dài 12mm, tụt vào trong dài tới 1/3 {Hình 155).
 
 ()(\*)()Mọc hoang dại hầu như ở khắc nước ta nhưng nhiều lìhất ở Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Quàng Trị, Thừa Thiên, Gia Lai, Kontum, Đắc Lắc.
 

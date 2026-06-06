@@ -63,7 +63,7 @@ Tên cây ngón còn dùng để chỉ một cây khác nữa có tên khoa họ
 
 Đoạn là đứt, trường là ruột, tên đoạn trường thảo vì người ta cho rằng uống vị này sẽ bị đứt ruột mà chết.
 
-Đoạn trường thảo hay cây lá ngón là một loại dây mọc leo, thân và cành không có lông, trên thân hơi có khía dọc. Lá mọc đối, hình trứng thuôn dài, hay hơi hình mác, đầu nhọn, phía cuống nhọn hay hơi tù, mép nguyên, bóng, nhẵn, dài 7-12cm, rộng 2,5-5,5cm. Hoa mọc thành xim ở đầu cành hay ở kẽ lá. Cánh hoa màu vàng. Có tài liệu nói hoa màu trắng, nhưng bản thân tôi đã kiểm tra lại là màu vàng (tại Lạng Sơn và các nơi khác: Sapa, Hà Giang). Mùa hoa tháng 6-8-10. Quả là một nang, dài, màu nâu hình thon, dài 1cm, rộng 0,5cm. Hạt nhỏ, quanh mép có rìa mỏng màu nâu nhạt, hình thân. ( Hình 248, Hm 56,2)
+Đoạn trường thảo hay cây lá ngón là một loại dây mọc leo, thân và cành không có lông, trên thân hơi có khía dọc. Lá mọc đối, hình trứng thuôn dài, hay hơi hình mác, đầu nhọn, phía cuống nhọn hay hơi tù, mép nguyên, bóng, nhẵn, dài 7-12cm, rộng 2,5-5,5cm. Hoa mọc thành xim ở đầu cành hay ở kẽ lá. Cánh hoa màu vàng. Có tài liệu nói hoa màu trắng, nhưng bản thân tôi đã kiểm tra lại là màu vàng (tại Lạng Sơn và các nơi khác: Sapa, Hà Giang). Mùa hoa tháng 6-8-10. Quả là một nang, dài, màu nâu hình thon, dài 1cm, rộng 0,5cm. Hạt nhỏ, quanh mép có rìa mỏng màu nâu nhạt, hình thân. (Hình 248, Hm 56,2)
 
 #### B. Phân bố
 

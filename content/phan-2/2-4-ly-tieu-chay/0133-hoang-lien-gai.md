@@ -47,7 +47,7 @@ Tên khoa học _*Mahonia healii Cam*_
 
 Thuộc họ Hoàng liên gai Berberidaceae.
 
-()(\*)()Cây nhỏ cao 3-4m, cành không có gai. Lá kép dìa lẻ, đài 30 cm có hai gai nhỏ ở phía cuống lá, 5-7 lá chét hình trứng Hình 131. Hoàng liên ô rô đầu nhọn sắc, phía cuống tròn, dài 6- lOcm, rộng 20-45mm, mỗi bên 3-8 răng sắc ngắn dài 3-6mm. Cụm hoa tận cùng mọc thành bông, phân cành ờ phía dưới, nhiều hoa. Lá bắc hai lần ngắn hơn cuống hoa phụ. Hoa màu vàng nhạt. Lá đài 9 xếp thành 3 lớp, mỗi lớp 3. Cánh tràng 6. Nhị 6. Bầu hình nón, phình ở giữa. Quả mọng màu xanh hình cầu ( Hình 133 ).
+()(\*)()Cây nhỏ cao 3-4m, cành không có gai. Lá kép dìa lẻ, đài 30 cm có hai gai nhỏ ở phía cuống lá, 5-7 lá chét hình trứng Hình 131. Hoàng liên ô rô đầu nhọn sắc, phía cuống tròn, dài 6- lOcm, rộng 20-45mm, mỗi bên 3-8 răng sắc ngắn dài 3-6mm. Cụm hoa tận cùng mọc thành bông, phân cành ờ phía dưới, nhiều hoa. Lá bắc hai lần ngắn hơn cuống hoa phụ. Hoa màu vàng nhạt. Lá đài 9 xếp thành 3 lớp, mỗi lớp 3. Cánh tràng 6. Nhị 6. Bầu hình nón, phình ở giữa. Quả mọng màu xanh hình cầu (Hình 133).
 
 Hình J(33. Hoàng lién ô rô - Mahonia bealii
 

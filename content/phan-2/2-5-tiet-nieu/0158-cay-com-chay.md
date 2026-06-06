@@ -23,7 +23,7 @@ Thuộc họ Cơm cháy Capriỷoỉiaceae. lục nhạt. Lá mọc đối, mề
 
 Hình 195. Cơm cháy - Sambucus javanica
 
-kép lông chim lẻ với 1 đến 4 đôi lá chét không cuống hay cuống nhỏ, hình mác, phía cuống lệch, mép có răng cưa nhỏ, dài 4 đến 7cm, rộng 2,5cm, nhẩn, cuống hơi có bẹ. Hoa nhỏ màu tráng, mọc thành xim kép nom giổng một tán đường kính ]0-30cm, với 2-6 gọng chính, những gọng này chia đôi nhiều lần, mang hoa khòng cuống. Hoa mẫu 5, tràng hình bánh xe, bao phấn hướng ngoài. Quả mọng hình cầu đường kính 2-3mm chứa hai ba hạt dẹt ( Hình 195 ),
+kép lông chim lẻ với 1 đến 4 đôi lá chét không cuống hay cuống nhỏ, hình mác, phía cuống lệch, mép có răng cưa nhỏ, dài 4 đến 7cm, rộng 2,5cm, nhẩn, cuống hơi có bẹ. Hoa nhỏ màu tráng, mọc thành xim kép nom giổng một tán đường kính ]0-30cm, với 2-6 gọng chính, những gọng này chia đôi nhiều lần, mang hoa khòng cuống. Hoa mẫu 5, tràng hình bánh xe, bao phấn hướng ngoài. Quả mọng hình cầu đường kính 2-3mm chứa hai ba hạt dẹt (Hình 195),
 
 8. Phàn bô, thu hái và chế biến
 

@@ -30,7 +30,7 @@ VỊ mộc thông, nguyên gọi là thông thảo, vì có lỗ nhỏ ở hai �
 
 A. Mò tả cày
 
-Cáy mộc thông mã dậu lình-hãy mộc thõng (Hocquartia manshuriensìs (Kom) Nakai hay Aristoỉochia manshuriensis Kom thuộc họ Mộc hương (Aristolochiaceae) (hình 179) là một loại dày leo vào cây to, dài độ 6-7m, cành non có lông. Lá to, hình tim, mép nguyên, cuống lá dài. Hoa mọc ở kẽ lá, màu lục nhạt, trong có các đốm màu tím. Quả màu xám mở ở trên đỉnh (Hình 181 ).
+Cáy mộc thông mã dậu lình-hãy mộc thõng (Hocquartia manshuriensìs (Kom) Nakai hay Aristoỉochia manshuriensis Kom thuộc họ Mộc hương (Aristolochiaceae) (hình 179) là một loại dày leo vào cây to, dài độ 6-7m, cành non có lông. Lá to, hình tim, mép nguyên, cuống lá dài. Hoa mọc ở kẽ lá, màu lục nhạt, trong có các đốm màu tím. Quả màu xám mở ở trên đỉnh (Hình 181).
 
 Cây này chưa thấy ở Việt Nam. Tại Trung Quốc, cây này được dùng ờ Hắc Long Giang, Liêu Ninh, Cát Lâm.
 
@@ -138,7 +138,7 @@ Sòi là một cây nhỡ, cao chừng 4-6m sống lâu nãm. Thân màu xám, l
 
 Hình JS₃. Sòi - Sapium sebiferum
 
-ở phía dưới bông mới thấy xuất hiện 1-4 hoa cái. Cánh màu trắng vàng hay vàng. Quả hình cầu, đường kính chừng 12mm, khi chín có màu đen tía, 3 ngăn, mỗi ngăn có một hạt hình trứng, trên mạt có đường rãnh dọc; trong hạt có dâu, ngoài hạt có một lớp sáp tráng gọi là bơ sòi hay mỡ thảo mộc. Mùa hoa: tháng 3-4, mùa quả: tháng 9 ( Hình 183 ).
+ở phía dưới bông mới thấy xuất hiện 1-4 hoa cái. Cánh màu trắng vàng hay vàng. Quả hình cầu, đường kính chừng 12mm, khi chín có màu đen tía, 3 ngăn, mỗi ngăn có một hạt hình trứng, trên mạt có đường rãnh dọc; trong hạt có dâu, ngoài hạt có một lớp sáp tráng gọi là bơ sòi hay mỡ thảo mộc. Mùa hoa: tháng 3-4, mùa quả: tháng 9 (Hình 183).
 
 #### B. Phân bố, thu hái và chế biến
 

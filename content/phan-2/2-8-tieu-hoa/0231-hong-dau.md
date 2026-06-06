@@ -54,7 +54,7 @@ Vì vị thuốc giúp ích tỳ vị cho nên có tên như thế.
 
 #### A. Mô tả cây
 
-ích trí là một loại cỏ sống lâu năm, cao 1,5- 2m, toàn cây có vị cay. Lá hình mác dài 17- 33cm, rộng 3-6cm. Cụm hoa hình chùm mọc ở đầu cành. Hoa màu trắng có đốm tím. Quả hình cầu, đường kính 1,5cm, khi chín có màu vàng xanh, hạt nhiều cạnh, màu nâu đen ( Hình 308 ).
+ích trí là một loại cỏ sống lâu năm, cao 1,5- 2m, toàn cây có vị cay. Lá hình mác dài 17- 33cm, rộng 3-6cm. Cụm hoa hình chùm mọc ở đầu cành. Hoa màu trắng có đốm tím. Quả hình cầu, đường kính 1,5cm, khi chín có màu vàng xanh, hạt nhiều cạnh, màu nâu đen (Hình 308).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -96,7 +96,7 @@ Cây nhục đậu khấu cho ta các vị thuốc sau đây:
 
 Nhục đâu khấu là một cây to, cao 8-10m. Toàn thân nhẵn. Lá mọc so le, xanh tươi quanh năm, dai, phiến lá hình mác rộng, dài 5-15cm, rộng 3-7cm, mép nguyên, cuống lá dài 7-12mm. Hoa khác gốc mọc thành xim à kẽ lá, có dáng tán. Màu hoa vàng trắng. Quả hạch, hình cẩu hay quả lế, màu vàng, đường kính 5-8cm, khi chín nở theo chiều dọc thành
 
-2 mảnh, trong có một hạt có vỏ dày cứng, bao bọc bời một áo hạt bị rách, màu hổng ( Hình 309 ).
+2 mảnh, trong có một hạt có vỏ dày cứng, bao bọc bời một áo hạt bị rách, màu hổng (Hình 309).
 
 #### B. Phân bố, thu hái và chẻ biến
 
@@ -172,7 +172,7 @@ Thuộc họ Ban Hypericaceae.
 
 #### A. Mô tả cày
 
-Cầy nhỏ có gai ở gốc (để tự nhiên cây có thể cao to, cho gỗ), cành non có lông tơ, dần dần trở nên nhẵn và có màu tro. Thân phía ngọn có màu dỏ do lông tơ màu đỏ (đỏ ngọn). Lá hình mác dài 12-13cm, rộng 35-40mm, mọc đối, cuống ngấn 3-5mm, mặt gân chính đỏ đến 1/3, lá non gân lá và lá có màu đỏ đến quá nửa. Hoa mọc trên những cành ngắn có lông màu tía. Quả nang, dài 15mm, rộng 7-8mm. Hạt hình trứng dài 6mm, rộng 3mm ( Hình 310 ).
+Cầy nhỏ có gai ở gốc (để tự nhiên cây có thể cao to, cho gỗ), cành non có lông tơ, dần dần trở nên nhẵn và có màu tro. Thân phía ngọn có màu dỏ do lông tơ màu đỏ (đỏ ngọn). Lá hình mác dài 12-13cm, rộng 35-40mm, mọc đối, cuống ngấn 3-5mm, mặt gân chính đỏ đến 1/3, lá non gân lá và lá có màu đỏ đến quá nửa. Hoa mọc trên những cành ngắn có lông màu tía. Quả nang, dài 15mm, rộng 7-8mm. Hạt hình trứng dài 6mm, rộng 3mm (Hình 310).
 
 #### B. Phân bố, thu hái và chế biến
 

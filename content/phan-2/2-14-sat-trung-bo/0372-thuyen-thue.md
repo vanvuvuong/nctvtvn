@@ -24,7 +24,7 @@ Thuyền thuế là xác lột (Periostracum cicadae) của con ve sầu Cryptot
 
 #### A. Mô tả
 
-Con ve sầu là một loại sâu bọ có vỏ cứng, có đốt. Con đực giao cấu xong thì chết, con cái đẻ trứng ở dưới vỏ cây hoặc khe đá. Khi mới nở, chưa có cánh, sống ở dưới đất, sau khi lột xác, có cánh và sống ở trên cây ( Hình 617).
+Con ve sầu là một loại sâu bọ có vỏ cứng, có đốt. Con đực giao cấu xong thì chết, con cái đẻ trứng ở dưới vỏ cây hoặc khe đá. Khi mới nở, chưa có cánh, sống ở dưới đất, sau khi lột xác, có cánh và sống ở trên cây (Hình 617).
 
 []
 

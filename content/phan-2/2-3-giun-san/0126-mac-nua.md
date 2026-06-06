@@ -32,7 +32,7 @@ Hoa đơn tính, nhỏ, màu vàng nhạt, hoa đực mọc thành xim ngắn, c
 
 Hình 123. Mắc nưa - Diospyros moỉlỉs
 
-quả mỗi năm ( Hình 123 ).
+quả mỗi năm (Hình 123).
 
 #### B. Phân bố, thu hái và chế biến
 

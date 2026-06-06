@@ -3,6 +3,9 @@ title: "12. CÂY NGƯU TẤT 牛膝"
 weight: 12
 navWeight: 989
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - cholesterol máu cao
+  - bổ can thận
 keywords:
   - bệnh phụ nữ
   - cây ngưu tất
@@ -37,7 +40,7 @@ Hiện ta đang trồng giống ngưu tất di thực của Trung Quốc có r�
 
 #### C. Thành phần hoá học
 
-Trong rễ ngưu tất ngưòi ta chiết xuất ra một chất saponin, khi thuỷ phân sẽ cho axit oleanic C₃₀H₄₈O₃ và galactoza, rhamnoza, glucoza. Ngoài ra còn có ecdysteron, inokosteron và muối kali.
+Trong rễ ngưu tất người ta chiết xuất ra một chất saponin, khi thuỷ phân sẽ cho axit oleanic C₃₀H₄₈O₃ và galactoza, rhamnoza, glucoza. Ngoài ra còn có ecdysteron, inokosteron và muối kali.
 
 #### D. Tác dụng dược lý
 
@@ -79,6 +82,6 @@ _Chú thích:_
 
 Hồng căn thảo là một loại ngưu tất có thân lá và rễ đỏ cùng loài _Achyranfhes biđeniata Blume_.
 
-Ta còn dùng loại cỏ xước cũng gọi là ngưu tất _Achyranthes aspera L_.. cùng một công dụng ( Hm 2.2 ).
+Ta còn dùng loại cỏ xước cũng gọi là ngưu tất _Achyranthes aspera L_.. cùng một công dụng (Hm 2.2).
 
 Nên chú ý nghiên cứu thêm.

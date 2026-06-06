@@ -24,7 +24,7 @@ Cây to cao 30-40m, vỏ vàng xù xì và nhiều xơ. Lá hình trúng thon v�
 
 7- 16 đôi, dài 6-13cm, rộng 3-5cm, mặt dưới nhạt hơn mặt lá trên. Hoa mọc thành chùm ngắn hơn lá hay dài bằng lá, trên có phủ một lớp lông tơ màu tro, có 10-12 nhánh, mỗi nhánh có 4-6 hoa mọc cạnh nhau và xếp một bên. Quả hình tháp, có 2 cánh dài, có 7-11 gân song song và không đểu.
 
-Mùa hoa quả: Tháng 5-6 ( Hình 454).
+Mùa hoa quả: Tháng 5-6 (Hình 454).
 
 #### B. Phân bố, thu hái và chế biến
 

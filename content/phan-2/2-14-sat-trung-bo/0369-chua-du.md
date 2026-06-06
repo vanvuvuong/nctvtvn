@@ -22,7 +22,7 @@ Thuộc họ Hoa môi Lamiaceae (Labiatae).
 
 Chùa dù (Sìn Hồ, Lai Châu) còn có tên dê sua tùa (xã Huổi Dạng, Mường Lộng, Kỳ Sơn, Nghệ An) hay tả hoàng đồ (Mường Khương, Bắc Hà, Lào Cai) là một cây nhỏ cao 1-3m, mọc hằng năm. Thân vuông nhẵn, rễ cọc cứng, cành mọc từ lá, lá mọc đối chéo chữ thập. Phiến lá hình mác nhọn dài 5-15cm, rộng 1-5cm, cuống lá dài 3-8mm, có lông ngắn, mép lá khía răng cưa không đều, màu hơi tím, mặt trên lục sẫm, mặt dưới nhạt hơn.
 
-Hoa mọc ở đầu cành và nách lá, cụm hoa hình bông dài 10-15cm, các hoa mọc vòng quanh trục của bông, các vòng xít nhau, riêng ở phía đầu cuống có 1-2 vòng cách xa nhau. Toàn bông 10 đến 30 vòng, mỗi vòng 6-30 hoa. Quả hình bầu dục dẹt, dài 0,5 -1mm, và xám đen hơi cứng, có rốn trắng ở gần đầu quả ( Hình 584).
+Hoa mọc ở đầu cành và nách lá, cụm hoa hình bông dài 10-15cm, các hoa mọc vòng quanh trục của bông, các vòng xít nhau, riêng ở phía đầu cuống có 1-2 vòng cách xa nhau. Toàn bông 10 đến 30 vòng, mỗi vòng 6-30 hoa. Quả hình bầu dục dẹt, dài 0,5 -1mm, và xám đen hơi cứng, có rốn trắng ở gần đầu quả (Hình 584).
 
 []
 
@@ -52,7 +52,7 @@ Thuộc họ Ráỵ Araceae.
 
 Cây loại nhỏ, thân rễ nằm ngang, có nhiều gai. Lá mọc thẳng từ thân rễ, cuống lá dài, có gai. Lá non hình mũi tên, lá già xe lông chim, mép nguyên. Cụm hoa là một bông mo mang hoa cái ở gốc, hoa đực ở trên. Quả mọng.
 
-Mùa hoa quả: tháng 3-4 ( Hình 585).
+Mùa hoa quả: tháng 3-4 (Hình 585).
 
 []
 
@@ -82,7 +82,7 @@ Thuộc họ Hành Alliaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ, cao 30-50cm, có thân rễ mọc bò ngang. Lá hình lưỡi lê dài 30-50cm, rộng 3-4cm, dày cứng có vằn đen ngang trên mặt lá giống như vằn trên đuôi hổ (do đó có tên), mép lá có viền hai dải màu vàng. Hoa trắng, mọc thành chùm dài ở ngọn. Quả hình cầu, màu vàng da cam. Mùa hoa: tháng 5, mùa quả: tháng 9 ( Hình 586).
+Cây nhỏ, cao 30-50cm, có thân rễ mọc bò ngang. Lá hình lưỡi lê dài 30-50cm, rộng 3-4cm, dày cứng có vằn đen ngang trên mặt lá giống như vằn trên đuôi hổ (do đó có tên), mép lá có viền hai dải màu vàng. Hoa trắng, mọc thành chùm dài ở ngọn. Quả hình cầu, màu vàng da cam. Mùa hoa: tháng 5, mùa quả: tháng 9 (Hình 586).
 
 []
 
@@ -122,7 +122,7 @@ Thuộc họ Cúc Asteracea (Compositae).
 
 #### A. Mô tả cây
 
-Cây thảo sống hằng năm, thân mảnh, cao 10- 20cm, có lông trắng mềm. Lá thuôn hình dỉa, có mũi nhọn, có lông mịn, trắng ở hầu khắp mặt dưới. Cụm hoa hình bông hay hình chuỳ mọc ở ngọn. Lá bắc thuôn hình trái xoan, hoa cái và hoa lưỡng tính rất nhiều. Tràng hoa các mảnh có ba răng nhỏ, tràng hoa lưỡng tính phình to từ gốc đến đỉnh, 5 thuỳ. Nhị 5, bao phấn có đinh cụt, tai có râu. Quả bế thuôn dài ( Hình 587).
+Cây thảo sống hằng năm, thân mảnh, cao 10- 20cm, có lông trắng mềm. Lá thuôn hình dỉa, có mũi nhọn, có lông mịn, trắng ở hầu khắp mặt dưới. Cụm hoa hình bông hay hình chuỳ mọc ở ngọn. Lá bắc thuôn hình trái xoan, hoa cái và hoa lưỡng tính rất nhiều. Tràng hoa các mảnh có ba răng nhỏ, tràng hoa lưỡng tính phình to từ gốc đến đỉnh, 5 thuỳ. Nhị 5, bao phấn có đinh cụt, tai có râu. Quả bế thuôn dài (Hình 587).
 
 []
 
@@ -160,7 +160,7 @@ Thuộc họ Bông Malvaceae.
 
 #### A. Mô tả cây
 
-Cây thuộc thảo, sống hằng năm, thân có lông dài và cứng. Lá hình tim, răng cưa to thô nhưng không vượt quá nửa giữa của phiến lá. Lông trên lá dài và nằm rạp, 5 gân chính nổi rõ, cuống lá dài 15-18cm. Hoa màu vàng, ở giữa có màu đỏ tía, mọc ở kẽ lá, cuống hoa to. Tiểu đài 8-10. tràng 5. Nhị nhiều đính nhau thành ống. Quả hình thoi, dài 10cm hay hơn, phía cuống cụt, hình 5 cạnh, với 10 rãnh dọc trên mặt quả. Hạt hình cầu màu xam nhạt, mặt nhẵn ( Hình 588).
+Cây thuộc thảo, sống hằng năm, thân có lông dài và cứng. Lá hình tim, răng cưa to thô nhưng không vượt quá nửa giữa của phiến lá. Lông trên lá dài và nằm rạp, 5 gân chính nổi rõ, cuống lá dài 15-18cm. Hoa màu vàng, ở giữa có màu đỏ tía, mọc ở kẽ lá, cuống hoa to. Tiểu đài 8-10. tràng 5. Nhị nhiều đính nhau thành ống. Quả hình thoi, dài 10cm hay hơn, phía cuống cụt, hình 5 cạnh, với 10 rãnh dọc trên mặt quả. Hạt hình cầu màu xam nhạt, mặt nhẵn (Hình 588).
 
 []
 
@@ -200,7 +200,7 @@ Thuộc họ Nhót Elaeagnaceae.
 
 #### A. Mô tả cây
 
-Cây nhỡ cành dài mềm có khi có gai. Lá hình bầu dục mọc so le nguyên, mặt trên màu xanh có lấm chấm những lóng nhỏ hình sao trông mắt thường giống như hạt bụi, mặt dưới trắng bạc bóng đầy lông mịn hình sao. Hoa không tràng, chỉ có 4 lá đài, nhị 4. Quả nhót hình bầu dục, khi chín có màu đỏ tươi, trên phủ rất nhiều lông trắng hình sao, vị chua ( Hình 589).
+Cây nhỡ cành dài mềm có khi có gai. Lá hình bầu dục mọc so le nguyên, mặt trên màu xanh có lấm chấm những lóng nhỏ hình sao trông mắt thường giống như hạt bụi, mặt dưới trắng bạc bóng đầy lông mịn hình sao. Hoa không tràng, chỉ có 4 lá đài, nhị 4. Quả nhót hình bầu dục, khi chín có màu đỏ tươi, trên phủ rất nhiều lông trắng hình sao, vị chua (Hình 589).
 
 []
 
@@ -240,7 +240,7 @@ Thuộc họ Hoa mõm chó Scrofulariaceae.
 
 #### A. Mô tả cây
 
-Ruột gà là một loại cỏ sống dai, thân nhẵn mọc bò, mang rễ, dài 10-40cm, mang những cành mềm mọc đứng. Lá mọc đôi không cuống, thuôn, tù, dài 8-12mm, rộng 3-5mm. Hoa mọc riêng lẻ màu trắng. Quả nang hình trứng, nhẵn, có đài còn lại, hạt nhỏ, có góc cạnh. Mùa hoa tháng 4-6 ( Hình 590).
+Ruột gà là một loại cỏ sống dai, thân nhẵn mọc bò, mang rễ, dài 10-40cm, mang những cành mềm mọc đứng. Lá mọc đôi không cuống, thuôn, tù, dài 8-12mm, rộng 3-5mm. Hoa mọc riêng lẻ màu trắng. Quả nang hình trứng, nhẵn, có đài còn lại, hạt nhỏ, có góc cạnh. Mùa hoa tháng 4-6 (Hình 590).
 
 []
 
@@ -362,7 +362,7 @@ Thuộc họ Trôm Sterculiaceae.
 
 #### A. Mô tả cây
 
-Lười ươi là một cây to, cao 30-40m, thân có thể cao 10-20m mà chưa phân nhánh, đường kính thân 0,8-1m. Lá đơn, nguyên hay xẻ thuỳ, mặt trên màu lục, mặt dưới nâu hay ánh bạc, dài 18-45cm, rộng 18-24cm, cuống dài. Hoa nhỏ, không cuống, họp từng 3-5 thành chuỳ ở đầu cành. Mỗi hoa cho 1-2 quả đại, dạng lá, hình trứng hay giống như đèn treo, do đó có tên lychnophora (do chữ lychnus là đèn), dài 12- 16cm, rộng 4-5cm ở phần rộng nhất của phía dưới quả. Màu đỏ hay đỏ nhạt, mặt trong ánh bạc, với 4-5 đường gân nổi rõ. Một hạt dài 2,5cm, rộng 14-16mm, dày 5-7mm. Thịt quả gồm 3 lớp: Lớp ngoài mỏng, lớp giữa dày mẫm, gồm những tế bào họp thành chuỗi chứa chất nhầy, lớp trong nhẵn và màu trắng nhạt. Lá xuất hiện vào tháng 3-4 và rụng vào tháng 1, hoa xuất hiện vào tháng 3-4, trước khi lá phát triển. Quả xuất hiện vào cuối tháng 4 đầu tháng 5 và mở ra trước khi hạt chín. Khi chín quả đại tách ra, hạt còn lại thường nhầm là quả, có hai cánh, thực tế chỉ là hai thuỳ dạng lá của quả đại ( Hình 593).
+Lười ươi là một cây to, cao 30-40m, thân có thể cao 10-20m mà chưa phân nhánh, đường kính thân 0,8-1m. Lá đơn, nguyên hay xẻ thuỳ, mặt trên màu lục, mặt dưới nâu hay ánh bạc, dài 18-45cm, rộng 18-24cm, cuống dài. Hoa nhỏ, không cuống, họp từng 3-5 thành chuỳ ở đầu cành. Mỗi hoa cho 1-2 quả đại, dạng lá, hình trứng hay giống như đèn treo, do đó có tên lychnophora (do chữ lychnus là đèn), dài 12- 16cm, rộng 4-5cm ở phần rộng nhất của phía dưới quả. Màu đỏ hay đỏ nhạt, mặt trong ánh bạc, với 4-5 đường gân nổi rõ. Một hạt dài 2,5cm, rộng 14-16mm, dày 5-7mm. Thịt quả gồm 3 lớp: Lớp ngoài mỏng, lớp giữa dày mẫm, gồm những tế bào họp thành chuỗi chứa chất nhầy, lớp trong nhẵn và màu trắng nhạt. Lá xuất hiện vào tháng 3-4 và rụng vào tháng 1, hoa xuất hiện vào tháng 3-4, trước khi lá phát triển. Quả xuất hiện vào cuối tháng 4 đầu tháng 5 và mở ra trước khi hạt chín. Khi chín quả đại tách ra, hạt còn lại thường nhầm là quả, có hai cánh, thực tế chỉ là hai thuỳ dạng lá của quả đại (Hình 593).
 
 []
 
@@ -404,7 +404,7 @@ Thuộc họ Lôbêli Lobeliaceae.
 
 #### A. Mô tả cây
 
-Cỏ khoẻ, sống dai, cao 1-2m, thân nhẵn, phân nhánh ở ngọn. Lá nhẵn, hình mác, mép có răng cưa nhỏ dài 10-20cm, rộng 1-3cm. Bấm lá có nhựa mủ. Hoa trắng, rất nhẵn và rất nhiều mọc thành chùm ở đầu thân và đầu cành. Quả hình cầu, đường kính 7-10mm. Rất nhiều hạt nhỏ màu vàng nhạt, hình trứng dẹt. Mùa hoa quả: tháng 5-7 ( Hình 594).
+Cỏ khoẻ, sống dai, cao 1-2m, thân nhẵn, phân nhánh ở ngọn. Lá nhẵn, hình mác, mép có răng cưa nhỏ dài 10-20cm, rộng 1-3cm. Bấm lá có nhựa mủ. Hoa trắng, rất nhẵn và rất nhiều mọc thành chùm ở đầu thân và đầu cành. Quả hình cầu, đường kính 7-10mm. Rất nhiều hạt nhỏ màu vàng nhạt, hình trứng dẹt. Mùa hoa quả: tháng 5-7 (Hình 594).
 
 []
 
@@ -448,7 +448,7 @@ Thuộc họ Cam Rutaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ nhẵn hay có gai, gai dài 35mm, búp non có màu đỏ. Lá hình trứng hay hình trứng dài, dài 5,5-11cm, rộng 3,5-6cm, mép có răng cưa. Hoa trắng, nhuốm tím nhạt hay đỏ tím, mọc đơn độc hay từng chùm 2-3 hoa. Lá bắc hình mũi mác, nhẵn hay hơi có lông. Quả nhỏ, vỏ mỏng nhắn, chia thành 10-12 múi, mỗi múi chứa 2-3 hạt. Cơm quả rất chua ( Hình 595, Hm 33,3).
+Cây nhỏ nhẵn hay có gai, gai dài 35mm, búp non có màu đỏ. Lá hình trứng hay hình trứng dài, dài 5,5-11cm, rộng 3,5-6cm, mép có răng cưa. Hoa trắng, nhuốm tím nhạt hay đỏ tím, mọc đơn độc hay từng chùm 2-3 hoa. Lá bắc hình mũi mác, nhẵn hay hơi có lông. Quả nhỏ, vỏ mỏng nhắn, chia thành 10-12 múi, mỗi múi chứa 2-3 hạt. Cơm quả rất chua (Hình 595, Hm 33,3).
 
 []
 
@@ -500,7 +500,7 @@ Thuộc họ Cam Rutaceae.
 
 #### A. Mô tả cây
 
-Cây nhỏ, cành non có lông, khi bẻ cành có mùi hôi khó chịu, Lá kép lông chim lẻ, 15-21 đôi lá chét, so le, vò lá cũng có mùi hôi. Hoa nhỏ màu hồng nhạt, mọc thành chùm ở đầu cành. Quả nhỏ, màu đỏ hình trứng dài có 1-2 ngăn, với 1 hạt ( Hình 596).
+Cây nhỏ, cành non có lông, khi bẻ cành có mùi hôi khó chịu, Lá kép lông chim lẻ, 15-21 đôi lá chét, so le, vò lá cũng có mùi hôi. Hoa nhỏ màu hồng nhạt, mọc thành chùm ở đầu cành. Quả nhỏ, màu đỏ hình trứng dài có 1-2 ngăn, với 1 hạt (Hình 596).
 
 []
 
@@ -604,7 +604,7 @@ Thuộc họ Lobêli Lobeliaceae.
 
 #### A. Mô tả cây
 
-Cây thảo, cao độ 0,50m, phân nhiều cành, thân có lông. Toàn cây có nhựa mủ độc, dây vào mắt có thể làm mù mắt, do đó mang tên. Lá hình mác nhọn, mép có răng cưa, hoa mọc ở kẽ lá, lưỡng tính, không đều, 5 lá đài, 5 cánh hoa liền nhau thành một ống dài tới 10cm, màu trắng, 5 nhị dính liền nhau bởi bao phấn thành một ống bao quanh vòi nhuỵ, còn chỉ nhị vẫn rời nhau, 2 lá noãn, bầu hạ. Một vòi dài tận cùng bởi đầu nhuỵ hai thuỳ. Quà nang, hai ô đựng nhiều hạt nhỏ ( Hình 598).
+Cây thảo, cao độ 0,50m, phân nhiều cành, thân có lông. Toàn cây có nhựa mủ độc, dây vào mắt có thể làm mù mắt, do đó mang tên. Lá hình mác nhọn, mép có răng cưa, hoa mọc ở kẽ lá, lưỡng tính, không đều, 5 lá đài, 5 cánh hoa liền nhau thành một ống dài tới 10cm, màu trắng, 5 nhị dính liền nhau bởi bao phấn thành một ống bao quanh vòi nhuỵ, còn chỉ nhị vẫn rời nhau, 2 lá noãn, bầu hạ. Một vòi dài tận cùng bởi đầu nhuỵ hai thuỳ. Quà nang, hai ô đựng nhiều hạt nhỏ (Hình 598).
 
 []
 
@@ -644,7 +644,7 @@ Thuộc họ Hồng xiêm Sapotaceae.
 
 #### A. Mô tả cây
 
-Cây to, cao. Cành và lá khi còn non được phủ lông tơ. Lá mọc so le, có cuống dài hình bầu dục, dai và tồn tại. Hoa đơn độc ở kẽ các lá trên, đều, lưỡng tính, thường mẫu 3, có khi mẫu 5. Quả mọng, hình trứng dẹt, màu nâu thẫm và bóng, rốn kéo dài màu nâu nhạt và nháp ( Hình 599).
+Cây to, cao. Cành và lá khi còn non được phủ lông tơ. Lá mọc so le, có cuống dài hình bầu dục, dai và tồn tại. Hoa đơn độc ở kẽ các lá trên, đều, lưỡng tính, thường mẫu 3, có khi mẫu 5. Quả mọng, hình trứng dẹt, màu nâu thẫm và bóng, rốn kéo dài màu nâu nhạt và nháp (Hình 599).
 
 []
 
@@ -812,7 +812,7 @@ Thuộc họ Bạch quả Ginkgoaceae.
 
 #### A. Mô tả cây
 
-Bạch quả là một cây to, cao 20-30m, thân phân thành cành dài, gần như mọc vòng, trên cành có những cành nhánh ngắn, mang lá có cuống. Phiến lá hình quạt, mép lá phía trên tròn, nhẵn, giữa hơi lõm, chia phiến lá thành hai thùy. Gân lá phân nhánh theo hướng rẽ đôi. Quả hạch, kích thước bằng quả mận, thịt màu vàng, có mùi bơ khét rất khó chịu ( Hình 604).
+Bạch quả là một cây to, cao 20-30m, thân phân thành cành dài, gần như mọc vòng, trên cành có những cành nhánh ngắn, mang lá có cuống. Phiến lá hình quạt, mép lá phía trên tròn, nhẵn, giữa hơi lõm, chia phiến lá thành hai thùy. Gân lá phân nhánh theo hướng rẽ đôi. Quả hạch, kích thước bằng quả mận, thịt màu vàng, có mùi bơ khét rất khó chịu (Hình 604).
 
 []
 

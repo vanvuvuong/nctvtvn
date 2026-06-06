@@ -52,7 +52,7 @@ A. Mỏ tả cây
 
 Cây nhỏ, có thể cao tới 2-3m, thân có cạnh, nhẵn. Lá mọc so le, nguyên, phiến lá kéo dài
 
-■ đến tận cuống, mép lá uốn lượn, đầu lá nhọn, dài 6-15cm, rộng 5-8cm, cuống lá dài 2-3cm, ' trên có rãnh. Hoa màu trắng, mọc thành chùm ’'ở kẽ lá, có cuống dài. Quả hình cầu, nhẵn, đường kính 7-8mm, khi chín có màu đỏ. Hạt dẹt, có góc cạnh, đỉnh có vết lõm, đường kính 2-3mm. Mùa hoa quả: tháng 1-4 ( Hình 192 ),
+■ đến tận cuống, mép lá uốn lượn, đầu lá nhọn, dài 6-15cm, rộng 5-8cm, cuống lá dài 2-3cm, ' trên có rãnh. Hoa màu trắng, mọc thành chùm ’'ở kẽ lá, có cuống dài. Quả hình cầu, nhẵn, đường kính 7-8mm, khi chín có màu đỏ. Hạt dẹt, có góc cạnh, đỉnh có vết lõm, đường kính 2-3mm. Mùa hoa quả: tháng 1-4 (Hình 192),
 
 B. Phán bố thu hái và chế biến
 
@@ -90,7 +90,7 @@ cạnh (cói ba cạnh). Thân khí sinh của cói hoa nâu to hơn cói hoa tr
 
 Hinh ỉ 93. Cói - Cỵperus maỉaccensis
 
-năng nẩy mầm nhưng ít được sử đụng để gieo trồng phát triển. Thường người ta trồng bằng (hân rễ (củ cói) ( Hình 193 ).
+năng nẩy mầm nhưng ít được sử đụng để gieo trồng phát triển. Thường người ta trồng bằng (hân rễ (củ cói) (Hình 193).
 
 B. Phàn bô' thu hái và chế biến
 

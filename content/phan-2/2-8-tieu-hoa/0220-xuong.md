@@ -37,9 +37,9 @@ Xương là phổn thịnh, bổ là một thứ cỏ; xương bồ là một th
 
 Thạch xương bồ là một loại cỏ sống lâu năm, có thân rẽ mọc ngang, đường kính to bằng ngón tay, có nhiều đốt, trên có những sẹo lá. Lá mọc đóng hình dải, dài 30-50cm, rộng 2-ómm. chỉ có gân giữa Hoa mọc thành bông mo ở đầu một cán dẹt dài 10-30cm, cán này được phủ bởi một lá bắc, lá bấc này đài 7- 20cm, rộng từ 2-4mm vượt cao hơn cụm hoa rất nhiều, làm cho cụm hoa ưông như lệch sang một bên, dài từ 5-12cm, đường kính 2-4mm. Quả mọng màu đỏ nhạt, một ngăn, có thành gần như khô.
 
-Quanh hạt có một chất gởm nhầy ( Hình 290 ).
+Quanh hạt có một chất gởm nhầy (Hình 290).
 
-Thuỷ xương bồ Acorus calamus cũng giông như thạch xương bổ nhưng to và cao hơn. Lá dài từ 50-150cm, rộng từ 6-30mm. Lá bắc của cán hoa so với loài trước cũng dài hơn, thường dài tới 45cm. Cụm hoa mọc tliành bóng mẫm, so với cụm hoa trên cũng to và ngắn hơn, thường dài 4-8cm, đường kính 6-12mm. Mùa hoa tháng 5-7, mùa quả tháng 6-8 ( Hình 291 ).
+Thuỷ xương bồ Acorus calamus cũng giông như thạch xương bổ nhưng to và cao hơn. Lá dài từ 50-150cm, rộng từ 6-30mm. Lá bắc của cán hoa so với loài trước cũng dài hơn, thường dài tới 45cm. Cụm hoa mọc tliành bóng mẫm, so với cụm hoa trên cũng to và ngắn hơn, thường dài 4-8cm, đường kính 6-12mm. Mùa hoa tháng 5-7, mùa quả tháng 6-8 (Hình 291).
 
 B. Phân bô, thu hái và chê biến
 
@@ -71,7 +71,7 @@ Xương bồ còn làm bớt sự căng thẳng của cơ trơn trong ruột. Ng
 
 Hình 29ỉ. Thuỷ xương bồ - Acoruscaỉamus
 
-Theo sự ngiên cứu của Trịnh Vũ Phi ( ỉ 98 Trung hoa y học tạp chí 38 (4): 315-318) troi ống nghiệm thì xuơng bồ có tác dụng sát khu đối với một sô khuẩn ngoài da.
+Theo sự ngiên cứu của Trịnh Vũ Phi (ỉ 98 Trung hoa y học tạp chí 38 (4): 315-318) troi ống nghiệm thì xuơng bồ có tác dụng sát khu đối với một sô khuẩn ngoài da.
 
 Năm 1966, Nguyển Ngọc Doãn, Nguyên Đk Bùi Thế Kỳ và Vũ Anh Vinh (Tạp chí y học V, Nam, I: 8-14) đã nghiên cứu tác dụng của xưon
 

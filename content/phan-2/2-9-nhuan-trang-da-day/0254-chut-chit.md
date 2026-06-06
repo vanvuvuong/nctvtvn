@@ -24,7 +24,7 @@ Dương là dê, đề là gót, vì rễ cây giống chân dê do đó có tê
 
 #### A. Mô tả cây
 
-Chút chít là một loại cỏ nhỏ, cao chừng 0,40- 1,20m thân cứng, ít phân nhánh, trên thân có rãnh dọc. Lá mọc so le, phiến lá rộng tới 5cm, dài 15- 20cm mép lá nguyên, lượn sóng. Hoa mọc sít nhau. Quả bế, ba cạnh, dưới có đài tồn tại ( Hình 348, Hm 36,4 ).
+Chút chít là một loại cỏ nhỏ, cao chừng 0,40- 1,20m thân cứng, ít phân nhánh, trên thân có rãnh dọc. Lá mọc so le, phiến lá rộng tới 5cm, dài 15- 20cm mép lá nguyên, lượn sóng. Hoa mọc sít nhau. Quả bế, ba cạnh, dưới có đài tồn tại (Hình 348, Hm 36,4).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -82,7 +82,7 @@ Vì vị thuốc màu rất vàng cho nên gọi là đại hoàng, vì có kh�
 
 #### A. Mô tả cây
 
-Chưởng diệp đại hoảng-Rheum palmatum L. là một cây sống lâu năm, rễ thô, to, thân cao tới 2m, giữa rỗng, mặt thân nhẵn. Lá ở dưới to dài, có cuống dài, phiến lá hình tim cắt thành 3-7 thùy, mép thùy hơi có răng cưa hoặc hơi cắt, lá ở phía trên thân nhỏ hơn. Cụm hoa mọc thành chùm khi còn non, hoa có màu tím đỏ. Cây này chủ yếu mọc hoang và một phần được trồng ở Tứ Xuyên, Cam Túc (Trung quốc) ( Hình 350 ).
+Chưởng diệp đại hoảng-Rheum palmatum L. là một cây sống lâu năm, rễ thô, to, thân cao tới 2m, giữa rỗng, mặt thân nhẵn. Lá ở dưới to dài, có cuống dài, phiến lá hình tim cắt thành 3-7 thùy, mép thùy hơi có răng cưa hoặc hơi cắt, lá ở phía trên thân nhỏ hơn. Cụm hoa mọc thành chùm khi còn non, hoa có màu tím đỏ. Cây này chủ yếu mọc hoang và một phần được trồng ở Tứ Xuyên, Cam Túc (Trung quốc) (Hình 350).
 
 ##### TODO: thêm hình ảnh
 
@@ -90,9 +90,9 @@ Hình 350. Chưởng diệp đại hoàng - Rheum palmatum
 
 Đường cô đặc đại hoàng Rheum tanguticum Maxim ex Regel cũng là một cây sống lâu năm cao tới 2m, lá có phiến cắt rất sâu thành thùy.
 
-Cây này mọc hoang ở Tứ Xuyên, Thanh Hải, Cam Túc. Tại Cam Túc có trồng một số ( Hình 351 ).
+Cây này mọc hoang ở Tứ Xuyên, Thanh Hải, Cam Túc. Tại Cam Túc có trồng một số (Hình 351).
 
-Cây dược dụng đại hoàng ( Rheum officinale Baill.) cũng là một cây sống lâu năm, nhưng thấp hơn, chỉ cao chừng 1,50m. Lá mọc so le có cuống dài; phiến không chia thùy mà chỉ cắt sâu chừng 1/4. Hoa màu xanh nhạt hay vàng trắng nhạt ( Hình 349).
+Cây dược dụng đại hoàng (Rheum officinale Baill.) cũng là một cây sống lâu năm, nhưng thấp hơn, chỉ cao chừng 1,50m. Lá mọc so le có cuống dài; phiến không chia thùy mà chỉ cắt sâu chừng 1/4. Hoa màu xanh nhạt hay vàng trắng nhạt (Hình 349).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -186,7 +186,7 @@ Hình 152. Lô hội - Aloe sp
 
 Lô hội-Aloe vera Livar. sinensis Berger [Aloe perfoliata Lour. (non L.), Aloe barbadensis Mill.var.sinensis Haw.] là một cây có thân hoá gỗ, ngắn, to thô. Lá không cuống, mọc thành vành rất sít nhau, dày mẫm, hình 3 cạnh, mép dầy, mép có răng cưa thô cứng và thưa dài 30-50cm, rộng 5- 10cm, dày 1-2cm, ở phía cuống. Cụm hoa dài chừng 1m, mọc thành chùm dài mang hoa màu vàng xanh lục nhạt lúc đầu mọc đứng, sau rũ xuống, dài 3-4cm. Quả nang, hình trứng thuôn, lúc đầu xanh sau nâu và dai.
 
-Tại miền Bắc có trồng một loài lô hội trước đây được xác định là Aloe perfoliata L. chủ yếu để làm cảnh, có lá ngắn hơn chỉ đo được chừng 15- 20cm, chưa thấy ra hoa kết quả ( Hình 352 ).
+Tại miền Bắc có trồng một loài lô hội trước đây được xác định là Aloe perfoliata L. chủ yếu để làm cảnh, có lá ngắn hơn chỉ đo được chừng 15- 20cm, chưa thấy ra hoa kết quả (Hình 352).
 
 Tại các nước khác người ta dùng nhựa nhiều cây lô hội khác như Aloe vulgaris Lamk., Aloe ferox L., Aloe perryi Bak. v.v... cho nhiều thứ lô hội chất lượng khác nhau (xem phân bố).
 

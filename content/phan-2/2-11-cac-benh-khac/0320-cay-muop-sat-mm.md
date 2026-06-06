@@ -24,7 +24,7 @@ Thuộc họ Trúc đào Apocynaceae.
 
 Mướp sát là một cây nhỡ hay to, cao chừng
 
-4- 6m, cành thô, to, vỏ xù xì, dày, có gỗ mềm, toàn thân có nhựa mủ trắng. Lá mọc so le nhưng hay tập trung ở đầu cành, hình thuôn dài, nhọn ở đầu và ở phía cuống, mặt trên bóng, phiến lá dài chừng 10-15cm, rộng 2-4cm. Hoa trắng, rất thơm, mọc thành xim tận cùng với rất nhiều nhánh. Quả hạch, màu đỏ, to bằng quả trứng gà hay hơn. Khi quả còn tươi có thịt dày, xốp, màu xám nhạt, hoặc nâu nhạt hay hơi hồng. Trong hạch có hai hình bán cầu, mặt ngoài khum tròn, mặt trong phẳng và hơi lõm, vỏ hạt cứng, hai lá mẫm không đều, ôm vào nhau. Mùa hoa: Từ tháng 2 đến tháng 10 ( Hình 456, Hm 27,1).
+4- 6m, cành thô, to, vỏ xù xì, dày, có gỗ mềm, toàn thân có nhựa mủ trắng. Lá mọc so le nhưng hay tập trung ở đầu cành, hình thuôn dài, nhọn ở đầu và ở phía cuống, mặt trên bóng, phiến lá dài chừng 10-15cm, rộng 2-4cm. Hoa trắng, rất thơm, mọc thành xim tận cùng với rất nhiều nhánh. Quả hạch, màu đỏ, to bằng quả trứng gà hay hơn. Khi quả còn tươi có thịt dày, xốp, màu xám nhạt, hoặc nâu nhạt hay hơi hồng. Trong hạch có hai hình bán cầu, mặt ngoài khum tròn, mặt trong phẳng và hơi lõm, vỏ hạt cứng, hai lá mẫm không đều, ôm vào nhau. Mùa hoa: Từ tháng 2 đến tháng 10 (Hình 456, Hm 27,1).
 
 B. Phán bố, thu hái và chế biên
 

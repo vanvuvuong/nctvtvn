@@ -54,7 +54,7 @@ Thuộc họ Gối hạc Leeaceae.
 
 #### A. Mô tả cày
 
-Cây mọc thành bụi dày, cao tới 1-1,5m. Thân có rãnh dọc và phình lên ở những mấu giống như gối con chim hạc (do đó có tên). Rễ củ màu hồng, trắng và vàng. Lá kép lông chim ba lần, phía trên hai lần, phiến lá chét có ràng cưa thô to, dài 5-1 lcm, rộng 25-60mm, gần như không cuống. Hoa nhỏ màu hổng, mọc thành ngù ở đầu cành. Quả có đường kính 6-7mm, hạt 4-6, dài 4mm. Quả khi chín có màu đen, mùa hoa quả: tháng 5-10 ( Hình 404).
+Cây mọc thành bụi dày, cao tới 1-1,5m. Thân có rãnh dọc và phình lên ở những mấu giống như gối con chim hạc (do đó có tên). Rễ củ màu hồng, trắng và vàng. Lá kép lông chim ba lần, phía trên hai lần, phiến lá chét có ràng cưa thô to, dài 5-1 lcm, rộng 25-60mm, gần như không cuống. Hoa nhỏ màu hổng, mọc thành ngù ở đầu cành. Quả có đường kính 6-7mm, hạt 4-6, dài 4mm. Quả khi chín có màu đen, mùa hoa quả: tháng 5-10 (Hình 404).
 
 B. Phân bô, thu hái và chế biên
 

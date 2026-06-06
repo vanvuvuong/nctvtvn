@@ -34,7 +34,7 @@ Quả to bằng nắm tay. Đầu quả còn 4-5 lá đài
 
 tổn tại. Vỏ dày, ngoài da sắc lục, khi chín có màu vàng đỏ lốm đốm. Trong quả có 8 ngăn xếp thành hai tầng, tầng trên có 5 ngăn tầng dưới có
 
-3. Các loại ngăn phân cách bởi các màng mỏng, hạt rất nhiều, hình 5 cạnh, sắc hồng trắng. ( Hình 119., Hm 8,1)
+3. Các loại ngăn phân cách bởi các màng mỏng, hạt rất nhiều, hình 5 cạnh, sắc hồng trắng. (Hình 119., Hm 8,1)
 
 #### B. Phân bố, thu hái và chê biến
 

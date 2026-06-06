@@ -29,7 +29,7 @@ Eucalyptus globulus do chữ Hy Lạp eu là tốt, kalyptos là cái bao, vì n
 
 #### A. Mô tả cây
 
-Cây cao to, có thể cao tới 10m hay hơn. Cành non có 4 cạnh. Hai loại lá: Trên cây non hay cành non, lá mọc đối, gần như không cuống, phiến lá hình trứng hoặc giống hình trái tim, sắc lục, mỏng, như có sáp, dài 10-15cm, rộng 4- 8cm. Trên cành cây già, lá mọc riêng biệt, so le, hình liềm, cuống ngắn, cong, phiến lá hẹp dài 16-25cm, rộng 2-5cm, cành già tròn, không cạnh. Phiến lá soi lên sáng thấy rõ những điểm trong trong, đó là những túi tinh dầu. Từ kẽ lá có những nụ hoa hình núm oản ngửa, có 4 cạnh tương úng với 4 lá đài. Quả hình chén, phía trên có 4 ngăn, trong chứa ít hạt ( Hình 571).
+Cây cao to, có thể cao tới 10m hay hơn. Cành non có 4 cạnh. Hai loại lá: Trên cây non hay cành non, lá mọc đối, gần như không cuống, phiến lá hình trứng hoặc giống hình trái tim, sắc lục, mỏng, như có sáp, dài 10-15cm, rộng 4- 8cm. Trên cành cây già, lá mọc riêng biệt, so le, hình liềm, cuống ngắn, cong, phiến lá hẹp dài 16-25cm, rộng 2-5cm, cành già tròn, không cạnh. Phiến lá soi lên sáng thấy rõ những điểm trong trong, đó là những túi tinh dầu. Từ kẽ lá có những nụ hoa hình núm oản ngửa, có 4 cạnh tương úng với 4 lá đài. Quả hình chén, phía trên có 4 ngăn, trong chứa ít hạt (Hình 571).
 
 []
 

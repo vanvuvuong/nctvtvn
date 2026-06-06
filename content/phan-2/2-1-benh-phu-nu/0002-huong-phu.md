@@ -3,6 +3,10 @@ title: "2. HƯƠNG PHỤ 香附"
 weight: 2
 navWeight: 999
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - điều kinh
+  - khí uất
+  - nôn mửa
 keywords:
   - bệnh phụ nữ
   - hương phụ
@@ -36,7 +40,7 @@ Trong khi làm cỏ, nếu biết xử lý thì vừa giải quyết được m�
 
 Cỏ gấu là một loại cỏ sống lâu năm, cao 20- 60cm, thân rễ phát triển thành củ, tùy theo đất rắn hay xốp củ phát triển to hay nhỏ, ở vùng bờ biển củ to dài _Còn gọi là_ _hải hương phụ_ (hương phụ vùng biển). Lá nhỏ hẹp, ở giữa lưng có gân nổi lên, cứng và bóng, phần dưới lá ôm lấy thân cây.
 
-Vào tháng 6, trên ngọn cây có 3 đến 8 cụm hoa hình tán màu xám nâu, hoa lưỡng tính, 3 nhị dài chừng 2mm, nhụy có đầu núm chia thành 2 nhánh như lông tơ. Quả 3 cạnh màu xám. ( Hình 6, Hm 1.3)
+Vào tháng 6, trên ngọn cây có 3 đến 8 cụm hoa hình tán màu xám nâu, hoa lưỡng tính, 3 nhị dài chừng 2mm, nhụy có đầu núm chia thành 2 nhánh như lông tơ. Quả 3 cạnh màu xám. (Hình 6, Hm 1.3)
 
 #### B. Phân bố, thu hái và chế biến
 

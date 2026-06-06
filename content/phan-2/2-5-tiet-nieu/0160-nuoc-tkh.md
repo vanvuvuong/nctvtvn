@@ -24,7 +24,7 @@ trên mặt nước, bén rễ ở các mấu và có phao nổi, xốp hình tr
 
 tì inh 196. Dừa nước - Jussiaea repens
 
-hình chữ nhật ( Hình 196 , Hm 46,3 ),
+hình chữ nhật (Hình 196 , Hm 46,3),
 
 #### B. Phân bố thu hái và chế biến
 

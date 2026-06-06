@@ -23,7 +23,7 @@ Ta dùng quả phơi khô (Fructus Citri sarcodactyli) của cây phật thủ.
 
 #### A. Mô tả cây
 
-Cây nhỏ xanh tốt quanh năm, lá mọc so le, hình trứng, mép có răng cưa nhỏ, gai ngắn mọc ở phía dưới lá. Vào đầu mùa hạ ra hoa màu trắng, quả chín vào mùa đông, vỏ ngoài màu vàng nâu, trên một số những múi chạy dài dọc quả phía dưới tách ra trông như ngón lay cho nên có tên phật thủ (tay phật, thủ là tay) ( Hình 575).
+Cây nhỏ xanh tốt quanh năm, lá mọc so le, hình trứng, mép có răng cưa nhỏ, gai ngắn mọc ở phía dưới lá. Vào đầu mùa hạ ra hoa màu trắng, quả chín vào mùa đông, vỏ ngoài màu vàng nâu, trên một số những múi chạy dài dọc quả phía dưới tách ra trông như ngón lay cho nên có tên phật thủ (tay phật, thủ là tay) (Hình 575).
 
 []
 

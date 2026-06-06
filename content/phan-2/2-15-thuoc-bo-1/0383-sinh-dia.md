@@ -24,7 +24,7 @@ keywords:
 
 _Còn gọi là địa hoàng, thục địa._
 
-Tên khoa học _*Rehmannia glutinosa (Gaertn.) Libosch ( Digitalis glutinosa Gaertn).*_
+Tên khoa học _*Rehmannia glutinosa (Gaertn.) Libosch (Digitalis glutinosa Gaertn).*_
 
 Thuộc họ Hoa mõm chó Scrophulariaceae.
 

@@ -26,7 +26,7 @@ Thuộc họ Bông (Malvaceae).
 
 #### A. Mô tả cây
 
-Cây nhỏ mọc thành bụi, cao chừng 1-1,5m. Toàn thân và các bộ phận của cây đều mang lông măng. Lá mềm, hình tim, đầu nhọn dài rộng chừng 10cm. Hoa mọc ở kẽ lá, đơn độc, màu vàng, cuống hoa dài bằng cuống lá. Đài 5 răng không có tiểu đài. Nhị nhiều. Nhuỵ gồm tới 20 lá noãn. Toàn bộ trông giống cái bánh xe hay cái cối xay. Mỗi lá noãn chứa tới 3 hạt, nhẵn, màu đen nhạt, hình thận ( Hình 468).
+Cây nhỏ mọc thành bụi, cao chừng 1-1,5m. Toàn thân và các bộ phận của cây đều mang lông măng. Lá mềm, hình tim, đầu nhọn dài rộng chừng 10cm. Hoa mọc ở kẽ lá, đơn độc, màu vàng, cuống hoa dài bằng cuống lá. Đài 5 răng không có tiểu đài. Nhị nhiều. Nhuỵ gồm tới 20 lá noãn. Toàn bộ trông giống cái bánh xe hay cái cối xay. Mỗi lá noãn chứa tới 3 hạt, nhẵn, màu đen nhạt, hình thận (Hình 468).
 
 []
 
@@ -56,5 +56,5 @@ Ngày dùng 4-6g dưới dạng thuốc sắc. Dùng ngoài da, không kể li�
 
 Chú thích:
 
-Tại Trung Quốc người ta thường hay dùng một cây cùng chi với cối xay: Abutilon avicennae Gaertn (Abuliton theophrasti Medic. ) cùng họ, gọi là mãnh ma hay bạch ma. Hạt của nó gọi là đông quì tử có chứa chất protit và chất béo 15- 20%, có khi tới 30% dùng chữa xích và bạch lỵ, còn dùng chữa mụn nhọt, đại tiểu tiện khó khăn, thuỷ thũng, vú sưng đau. Ngày uống 4-12g dưới dạng thuốc sắc.
+Tại Trung Quốc người ta thường hay dùng một cây cùng chi với cối xay: Abutilon avicennae Gaertn (Abuliton theophrasti Medic.) cùng họ, gọi là mãnh ma hay bạch ma. Hạt của nó gọi là đông quì tử có chứa chất protit và chất béo 15- 20%, có khi tới 30% dùng chữa xích và bạch lỵ, còn dùng chữa mụn nhọt, đại tiểu tiện khó khăn, thuỷ thũng, vú sưng đau. Ngày uống 4-12g dưới dạng thuốc sắc.
 

@@ -35,7 +35,7 @@ Thuộc họ Thầu dầu Euphorbiaceae.
 
 A. Mò tả cây
 
-Tám duột là một củy nhỏ, thân nhẵn. Cành có vỏ màu xám nhạt, ưên có nhiều vết sẹo của lá cũ. Cành non màu xanh nhạt nhẩn. Lá mềm, mỏng, mặt trên màu xanh nhạt, mặt dưới màu nhạt hơn, dài 4-5cm, rộng 18-20mm, phía cuống tù hay hơi tròn, đầu phiến nhọn. Hoa mọc thành xim đơm nhị lệ trên những cành gầy nhỏ, dài 6-15cm, tụ thành tìmg cụm 4-7 hoa trên những mấu tròn, ở kẽ những lá đã rụng. Quả nang, 4 mảnh, khi chín có màu đen nhạt, đường kính 5mm có đài hơi đồng trưởng, cuòng quả đài chừng 7mm ( Hình 397).
+Tám duột là một củy nhỏ, thân nhẵn. Cành có vỏ màu xám nhạt, ưên có nhiều vết sẹo của lá cũ. Cành non màu xanh nhạt nhẩn. Lá mềm, mỏng, mặt trên màu xanh nhạt, mặt dưới màu nhạt hơn, dài 4-5cm, rộng 18-20mm, phía cuống tù hay hơi tròn, đầu phiến nhọn. Hoa mọc thành xim đơm nhị lệ trên những cành gầy nhỏ, dài 6-15cm, tụ thành tìmg cụm 4-7 hoa trên những mấu tròn, ở kẽ những lá đã rụng. Quả nang, 4 mảnh, khi chín có màu đen nhạt, đường kính 5mm có đài hơi đồng trưởng, cuòng quả đài chừng 7mm (Hình 397).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -79,7 +79,7 @@ Rễ có độc tính, thường được nhân dân Malaixia dùng để xông 
 
 LỐT
 
-hình tim, đẩu lá nhọn, soi lên có những điểm trong, phiến lá dài 13cm, rộng 8,5cm, mặt trên nhẵn, mặt dưới hơi có lông ò gân, cuống lá dài chừng 2,5cm. Cụm hoa mọc thành bông, bông hoa cái dài chừng lcm, cuống dài lcm ( Hình 398, Hm 38,1 ).
+hình tim, đẩu lá nhọn, soi lên có những điểm trong, phiến lá dài 13cm, rộng 8,5cm, mặt trên nhẵn, mặt dưới hơi có lông ò gân, cuống lá dài chừng 2,5cm. Cụm hoa mọc thành bông, bông hoa cái dài chừng lcm, cuống dài lcm (Hình 398, Hm 38,1).
 
 B. Phàn bố, thu háí và chê biến
 
@@ -117,7 +117,7 @@ Thuộc họ Cà phê Rubiaceae.
 
 #### A. Mô tả cây
 
-Lấu là một cây nhỏ cao l-9m, thân nhẵn. Lá mọc đối, hình trứng thuôn hẹp ở 2 đầu, dài 8-20cm, rộng 2-7,5cm, màu xanh lục. Hoa mọc thành xim nhiều nhánh ở đầu cành, hoa nhỏ, cánh hoa màu trắng, hình chuông phía trong tràng ở họng có nhiều lông nhỏ màu ưắng. Quả hạch hình cầu hay hơi hình trứng, trên quả còn đài tồn tại, dài 5-7mm, màu đỏ, trong chứa 2 hạt màu đen ( Hình 399).
+Lấu là một cây nhỏ cao l-9m, thân nhẵn. Lá mọc đối, hình trứng thuôn hẹp ở 2 đầu, dài 8-20cm, rộng 2-7,5cm, màu xanh lục. Hoa mọc thành xim nhiều nhánh ở đầu cành, hoa nhỏ, cánh hoa màu trắng, hình chuông phía trong tràng ở họng có nhiều lông nhỏ màu ưắng. Quả hạch hình cầu hay hơi hình trứng, trên quả còn đài tồn tại, dài 5-7mm, màu đỏ, trong chứa 2 hạt màu đen (Hình 399).
 
 #### B. Phân bố, thu hái và chế biến
 

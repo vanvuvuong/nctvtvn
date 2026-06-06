@@ -35,7 +35,7 @@ Mạc dù tên khoa học chỉ xác định có một nhưng trên thực tế 
 
 2. Củ nâu dọc trai hay củ nâu dọc dưa: vỏ thường bị nứt, màu nâu xám nhạt, nhựa đỏ hơn loại trên.
 
-3. Củ nâu trắng hay củ nâu tẻ: vỏ củ có rãnh, màu nâu đỏ nhạt, nhựa màu vàng nhạt hơi hồng; người ta thường dùng loại củ nâu này để nhuộm những nước đầu tiên rồi mới nhuộm những loại củ nâu đỏ nói trên vì người ta cho rằng loại củ nâu này làm cho vải thêm dày và bền (Hình 340 ).
+3. Củ nâu trắng hay củ nâu tẻ: vỏ củ có rãnh, màu nâu đỏ nhạt, nhựa màu vàng nhạt hơi hồng; người ta thường dùng loại củ nâu này để nhuộm những nước đầu tiên rồi mới nhuộm những loại củ nâu đỏ nói trên vì người ta cho rằng loại củ nâu này làm cho vải thêm dày và bền (Hình 340).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -77,7 +77,7 @@ Thuộc họ Bồ hòn Sapindaceae.
 
 #### A. Mô tả cây
 
-Vải là một cây to có thể cao tới 10m. Cành thường mọc ngang, lá kép chẵn, gồm 3 đến 4 đôi lá chét hình mác, hay thuôn dài, hai đầu tù, dai, mặt trên bóng, mặt dưới mờ. Hoa mọc thành chùy tận cùng, trên cành mang hoa phủ đầy lông nâu nhạt. Hoa không cánh, 5 lá đài đính nhau. Nhi 7-10, 3 lá noãn nhưng 1 lép nên bầu chỉ có 2 ô, mỗi ô chứa một noãn. Quả hình cầu, to gần bằng quả trứng gà, vỏ quả khô và mỏng, sần sùi chứa một hạt to bao bọc bởi một áo hạt trắng, mâm, nhiều nước, thơm ngọt và chua, ăn được. ( Hình 341, Hm 56,4).
+Vải là một cây to có thể cao tới 10m. Cành thường mọc ngang, lá kép chẵn, gồm 3 đến 4 đôi lá chét hình mác, hay thuôn dài, hai đầu tù, dai, mặt trên bóng, mặt dưới mờ. Hoa mọc thành chùy tận cùng, trên cành mang hoa phủ đầy lông nâu nhạt. Hoa không cánh, 5 lá đài đính nhau. Nhi 7-10, 3 lá noãn nhưng 1 lép nên bầu chỉ có 2 ô, mỗi ô chứa một noãn. Quả hình cầu, to gần bằng quả trứng gà, vỏ quả khô và mỏng, sần sùi chứa một hạt to bao bọc bởi một áo hạt trắng, mâm, nhiều nước, thơm ngọt và chua, ăn được. (Hình 341, Hm 56,4).
 
 #### B. Phân bố, thu hái và chế biến
 

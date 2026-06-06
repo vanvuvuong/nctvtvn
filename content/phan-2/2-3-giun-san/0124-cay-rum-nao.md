@@ -22,7 +22,7 @@ A. Mồ tả cây
 
 Cây rùm nao là một cây cao từ 5 đến 15m. Cành gầy, lúc đầu có lông măng, màu gỉ sắt sau nhần và ngả nâu nhạt. Lá mọc so le, có cuống dài 10-I2m, rộng 3-4cm hình trứng hay lưỡi mác. Phiến lá dài, mép nguyên, mật trên nhẵn, mật dưới có lông măng, điểm những hạch màu đỏ. Từ cuống tỏa ra ba gân, sát cuống có hai hạch đen. Hoa nhỏ, đơn tính khác gốc không có cánh mọc thành bông ờ kẽ lá hoặc đầu cành. Quả là một nang, hình cầu, đường kính chừng
 
-1 Omm, gồm 3 mảnh vỏ, mỗi mảnh mở ra theo đường của 2 van. Trên mặt quả có các hạch hình hạt nhỏ màu đỏ tươi hay đỏ nâu. hạt hình cầu hay hình trứng dài 5mm màu đen mờ, có mồng, nội nhữ nhiều ( Hình 121, Hm 47,2 ).
+1 Omm, gồm 3 mảnh vỏ, mỗi mảnh mở ra theo đường của 2 van. Trên mặt quả có các hạch hình hạt nhỏ màu đỏ tươi hay đỏ nâu. hạt hình cầu hay hình trứng dài 5mm màu đen mờ, có mồng, nội nhữ nhiều (Hình 121, Hm 47,2).
 
 B. Phân bô'
 

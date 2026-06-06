@@ -21,7 +21,7 @@ Câu đằng-Rynchophylla-Ramulus et Uncus Uncariae-gai móc câu là mẩu thâ
 
 #### A. Mô tả cây
 
-Cây câu đằng[8] là một thứ dây leo, thường mọc nơi mát. Lá mọc đối có cuống, hình trứng đầu nhọn, mặt dưới như có phấn, ở mặt lá có gai mọc cong xuống trông như luỡi câu do đó có tên câu đằng. Mùa hạ nở hoa nhỏ màu vàng trắng, hình cầu ( Hình 237 ).
+Cây câu đằng[8] là một thứ dây leo, thường mọc nơi mát. Lá mọc đối có cuống, hình trứng đầu nhọn, mặt dưới như có phấn, ở mặt lá có gai mọc cong xuống trông như luỡi câu do đó có tên câu đằng. Mùa hạ nở hoa nhỏ màu vàng trắng, hình cầu (Hình 237).
 
 #### B. Phân bố, thu hái và chế biến
 
@@ -71,7 +71,7 @@ Thuộc họ Cà phê Rubiaceae.
 
 Cây nhàu là một cây cao chừng 6-8m, thân nhẵn, thường mọc hoang ở những nơi ẩm thấp dọc bờ sông bờ suối.
 
-Cây có nhiều cành to, lá mọc đối hình bầu dục, nhọn ở đầu, đài 12-15cm. Hoa nở vào tháng 1-2. Quả chín vào tháng 7-8. Quả hình trứng, xù xì, dài chừng 5-6cm, khi non có màu xanh nhạt, khi chín có màu trắng hoặc hồng, mùi nồng và cay. Ruột quả có một lớp cơm mền ăn được, chính giữa có một nhân cứng. Nhân dài chừng 6-7mm, ngang chừng 4-5mm, có 2 ngăn chứa 1 hạt nhỏ mềm ( Hình 238 ).
+Cây có nhiều cành to, lá mọc đối hình bầu dục, nhọn ở đầu, đài 12-15cm. Hoa nở vào tháng 1-2. Quả chín vào tháng 7-8. Quả hình trứng, xù xì, dài chừng 5-6cm, khi non có màu xanh nhạt, khi chín có màu trắng hoặc hồng, mùi nồng và cay. Ruột quả có một lớp cơm mền ăn được, chính giữa có một nhân cứng. Nhân dài chừng 6-7mm, ngang chừng 4-5mm, có 2 ngăn chứa 1 hạt nhỏ mềm (Hình 238).
 
 #### B. Phân bố, thu hái và chế biến
 

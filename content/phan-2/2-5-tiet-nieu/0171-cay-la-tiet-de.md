@@ -28,7 +28,7 @@ Thuộc họ Tiết dê Menispermaceae.
 
 #### A. Mô tả cây
 
-Tiết dê là một loại dây leo, thân và cành đều mang ít nhiều lông mịn. Lá hình tim, có khi mép hơi khía tai bèo, thường mềm; dài 2-5cm, rông 3-6cm, có 5 gân chính, hai mặt đều có lông mịn. Cụm hoa đực mọc thành ngù lưỡng phán, có cuông, mọc đơn độc hay từng đôi ở kẽ các lá bắc hình lá. Cụm hoa cái mọc thành xim lưỡng phân, gần như không cuống ở kẽ các lá bác hình thận hay hình tròn, nhò, mọc mau. Quả hạch hình cầu, dẹt, đường kính 5mm và có sẹo của vòi ở gốc, màu đỏ có lông. Hạch hình móng ngựa, giữa rỗng, có những mấu sần sùi, nhân có phôi nhũ và phôi cùng dạng ( Hình 210).
+Tiết dê là một loại dây leo, thân và cành đều mang ít nhiều lông mịn. Lá hình tim, có khi mép hơi khía tai bèo, thường mềm; dài 2-5cm, rông 3-6cm, có 5 gân chính, hai mặt đều có lông mịn. Cụm hoa đực mọc thành ngù lưỡng phán, có cuông, mọc đơn độc hay từng đôi ở kẽ các lá bắc hình lá. Cụm hoa cái mọc thành xim lưỡng phân, gần như không cuống ở kẽ các lá bác hình thận hay hình tròn, nhò, mọc mau. Quả hạch hình cầu, dẹt, đường kính 5mm và có sẹo của vòi ở gốc, màu đỏ có lông. Hạch hình móng ngựa, giữa rỗng, có những mấu sần sùi, nhân có phôi nhũ và phôi cùng dạng (Hình 210).
 
 B. Phãn bố, thu hái và chế biến
 

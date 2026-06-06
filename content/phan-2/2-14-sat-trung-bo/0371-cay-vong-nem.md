@@ -32,7 +32,7 @@ Ta dùng lá tươi hay phơi hoặc sấy khô (Folium Erythrinae) hoặc vỏ 
 
 #### A. Mô tả cây
 
-Cây cao từ 10-20m, mọc khắp nơi, nhưng đặc biệt ưa mọc ở ven biển, thân có gai ngắn. Lá gồm 3 lá chét giữa rộng hơn là dài, dài 10-15cm, hai lá chét hai bên dài hơn rộng hình 3 cạnh. Hoa màu đỏ tươi tụ họp từ 1-3 thành chùm dầy. Quả giáp dài 15-30cm, đen, hơi hẹp lại ở giữa các hạt. Trong mỗi quả có 5-6 hạt hình thận màu đỏ hoặc nâu, tễ rộng, hình trứng đen có vành trắng {Hình 610, Hm 18,3 ).
+Cây cao từ 10-20m, mọc khắp nơi, nhưng đặc biệt ưa mọc ở ven biển, thân có gai ngắn. Lá gồm 3 lá chét giữa rộng hơn là dài, dài 10-15cm, hai lá chét hai bên dài hơn rộng hình 3 cạnh. Hoa màu đỏ tươi tụ họp từ 1-3 thành chùm dầy. Quả giáp dài 15-30cm, đen, hơi hẹp lại ở giữa các hạt. Trong mỗi quả có 5-6 hạt hình thận màu đỏ hoặc nâu, tễ rộng, hình trứng đen có vành trắng {Hình 610, Hm 18,3).
 
 []
 
@@ -102,7 +102,7 @@ Toan táo nhân (Semen Zizyphi) là nhân phơi hay sấy khô của hạt cây 
 
 #### A. Mô tả cây
 
-Cây táo là một cây nhỏ, có gai, cành thõng xuống. Lá hình bầu dục ngắn hoặc hơi thon đài; mặt trên xanh lục và nhẵn, mặt dưới có lông, mép có răng cưa, có 3 gân dọc theo chiều lá. Hoa trắng, mọc thành xim ở kẽ lá, trục chính dài 3,7mm. Quả hạch có vỏ quả ngoài nhẵn, màu vàng xanh, vỏ quả giữa dày, vị ngọt, hạch cứng xù xì. Đập hạch ra sẽ được nhân hạt táo, phơi khô gọi là táo nhân ( Hình 611).
+Cây táo là một cây nhỏ, có gai, cành thõng xuống. Lá hình bầu dục ngắn hoặc hơi thon đài; mặt trên xanh lục và nhẵn, mặt dưới có lông, mép có răng cưa, có 3 gân dọc theo chiều lá. Hoa trắng, mọc thành xim ở kẽ lá, trục chính dài 3,7mm. Quả hạch có vỏ quả ngoài nhẵn, màu vàng xanh, vỏ quả giữa dày, vị ngọt, hạch cứng xù xì. Đập hạch ra sẽ được nhân hạt táo, phơi khô gọi là táo nhân (Hình 611).
 
 []
 
@@ -174,7 +174,7 @@ Long nhãn nhục (Arillus longanae) là áo hạt phơi hay sấy khô nửa ch
 
 #### A. Mô tả cây
 
-Cây nhãn cao 5-7m. Lá rườm ra, vỏ cây xù xì, sắc xám, nhiều cành, nhiều lá um tùm, xanh tươi luôn, không hay héo và rụng như lá các cây khác. Lá kép hình lông chim, mọc so le gồm 5 đến 9 lá chét hẹp, dài 7-20cm, rộng 2,5-5cm. Mùa xuân vào các tháng 2-3-4 có hoa màu vàng nhạt, mọc thành chùm ở đầu cành hay kẽ lá, đài 5-6 răng, tràng 5-6, nhị 6-10, bầu 2-3 ô. Quả có vỏ ngoài màu vàng xám, hầu như nhẵn (chi có một ô của bầu phát triển thành quả, các ô kia tiêu giảm đi). Hạt đen nhánh có áo hạt trắng bao bọc ( Hình 612, Hm 34,2).
+Cây nhãn cao 5-7m. Lá rườm ra, vỏ cây xù xì, sắc xám, nhiều cành, nhiều lá um tùm, xanh tươi luôn, không hay héo và rụng như lá các cây khác. Lá kép hình lông chim, mọc so le gồm 5 đến 9 lá chét hẹp, dài 7-20cm, rộng 2,5-5cm. Mùa xuân vào các tháng 2-3-4 có hoa màu vàng nhạt, mọc thành chùm ở đầu cành hay kẽ lá, đài 5-6 răng, tràng 5-6, nhị 6-10, bầu 2-3 ô. Quả có vỏ ngoài màu vàng xám, hầu như nhẵn (chi có một ô của bầu phát triển thành quả, các ô kia tiêu giảm đi). Hạt đen nhánh có áo hạt trắng bao bọc (Hình 612, Hm 34,2).
 
 []
 
@@ -288,7 +288,7 @@ Sì to là một loài valerian mọc hoang dại và được dân tộc Mèo s
 
 Sì to là tên gọi cây này của dân tộc Mèo vùng Sapa (Lào Cai). Cây thuộc thảo, sống lâu năm, cao 25-30cm. Rễ mập có những khoanh tròn đỏ do vết tích của cuống lá, có nhiều rễ con. Lá mọc từ gốc, phiến lá hình tim, hai mặt có lông mịn, cuống lá dài 20-25cm, có lông mịn. Cụm hoa hình xim ngù, cuống dài 30-40cm.
 
-Hoa nhỏ màu trắng, quả bết dẹt ( Hình 614).
+Hoa nhỏ màu trắng, quả bết dẹt (Hình 614).
 
 []
 
@@ -334,7 +334,7 @@ Cây này được sử dụng làm thuốc chống co thắt, an toàn nhất l
 
 Chú thích:
 
-Ngoài cây sì to nói trên, tại vùng cao lạnh ẩm thấp nước ta còn thấy mọc hoang cây nữ lang-Valeriana hardwickii Wall cùng họ. Đây là một loại cỏ cao 1-1,5m, thân nhẵn, có lông ở đốt, và đôi khi ở phía dưới gốc. Lá ở gốc thường héo rụng, trước khi cây ra quả, lá trên thân thường kép lông chim với 3-5 lá chét, nguyên hay khía răng, không cuống, lá chét ở đỉnh lớn hơn cả. Hoa nhỏ màu trắng mọc thành xim dạng ngù, quả bế dẹt. Hoa quả từ tháng 10 đến tháng 2, thường gặp mọc ven đường ở Lào Cai, Yên Bái, Lai Châu, Tây Nguyên. Thân rễ dài 5cm, đường kính 6-12mm, nâu, với những rãnh ngang, và những bướu nổi ở quanh, đôi khi có những rễ con mọc lên, vết bẻ nâu lục nhạt, mùi có khi mạnh hơn mùi thân rễ Valeriana officinalis. Hiện cũng chưa thấy nghiên cứu khai thác ở nước ta. Tại Ấn Độ cây này được sử dụng làm chất thơm ( Hình 615).
+Ngoài cây sì to nói trên, tại vùng cao lạnh ẩm thấp nước ta còn thấy mọc hoang cây nữ lang-Valeriana hardwickii Wall cùng họ. Đây là một loại cỏ cao 1-1,5m, thân nhẵn, có lông ở đốt, và đôi khi ở phía dưới gốc. Lá ở gốc thường héo rụng, trước khi cây ra quả, lá trên thân thường kép lông chim với 3-5 lá chét, nguyên hay khía răng, không cuống, lá chét ở đỉnh lớn hơn cả. Hoa nhỏ màu trắng mọc thành xim dạng ngù, quả bế dẹt. Hoa quả từ tháng 10 đến tháng 2, thường gặp mọc ven đường ở Lào Cai, Yên Bái, Lai Châu, Tây Nguyên. Thân rễ dài 5cm, đường kính 6-12mm, nâu, với những rãnh ngang, và những bướu nổi ở quanh, đôi khi có những rễ con mọc lên, vết bẻ nâu lục nhạt, mùi có khi mạnh hơn mùi thân rễ Valeriana officinalis. Hiện cũng chưa thấy nghiên cứu khai thác ở nước ta. Tại Ấn Độ cây này được sử dụng làm chất thơm (Hình 615).
 
 []
 
@@ -356,7 +356,7 @@ Tên xấu hổ do lá cây và cành cụp xuống khi có người đụng và
 
 #### A. Mô tả cây
 
-Cây nhỏ mọc hoang lòa xoà ở ven đường cái, thân có gai hình móc. Lá hai lần kép lông chim, nhưng cuống phụ xếp như hình chân vịt, khẽ động vào lá cụp xuống. Cuống chung gầy, mang nhiều lông, dài 4cm, cuống phụ 2 đôi, có lông trắng cứng. Lá chét 15-20 đôi nhỏ, gần như không có cuống. Hoa màu tím đỏ. tụ thành hình đầu trái xoan. Quả giáp dài 2cm, rộng 3mm, tụ thành hình ngôi sao, ở phần giữa các hạt quả hẹp lại, có lông cứng ở mép. Hạt gần như hình trái xoan, dài 2mm, rộng 1,5mm ( Hình 616).
+Cây nhỏ mọc hoang lòa xoà ở ven đường cái, thân có gai hình móc. Lá hai lần kép lông chim, nhưng cuống phụ xếp như hình chân vịt, khẽ động vào lá cụp xuống. Cuống chung gầy, mang nhiều lông, dài 4cm, cuống phụ 2 đôi, có lông trắng cứng. Lá chét 15-20 đôi nhỏ, gần như không có cuống. Hoa màu tím đỏ. tụ thành hình đầu trái xoan. Quả giáp dài 2cm, rộng 3mm, tụ thành hình ngôi sao, ở phần giữa các hạt quả hẹp lại, có lông cứng ở mép. Hạt gần như hình trái xoan, dài 2mm, rộng 1,5mm (Hình 616).
 
 []
 
@@ -382,7 +382,7 @@ Trong lá vào tháng 8, hàm lượng selen là 3.000 γ/g và giảm dần đ�
 
 Trong quả vào tháng 8, hàm lượng selen là 290 γ/ g và sau đó tăng dần tới l .560 γ/g trong tháng 12.
 
-Và tác giả nhận xét rằng lá cây xấu hổ có hàm lượng selen rất cao vào mùa hè rồi giảm nhanh, trong khi đó hàm lượng selen trong quả lại tăng ( Đàm Trung Bảo và cộng sự-1977, Hội nghị khoa học Trường Đại học dược khoa Hà nội, 1974-1977)
+Và tác giả nhận xét rằng lá cây xấu hổ có hàm lượng selen rất cao vào mùa hè rồi giảm nhanh, trong khi đó hàm lượng selen trong quả lại tăng (Đàm Trung Bảo và cộng sự-1977, Hội nghị khoa học Trường Đại học dược khoa Hà nội, 1974-1977)
 
 #### D. Tác dụng dược lý
 
