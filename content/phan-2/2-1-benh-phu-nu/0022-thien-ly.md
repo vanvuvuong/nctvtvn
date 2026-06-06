@@ -9,6 +9,7 @@ benh:
 keywords:
   - bệnh phụ nữ
   - thiên lý
+  - 夜来香
   - Telosma cordata
   - chữa lòi dom
   - chữa sa dạ con

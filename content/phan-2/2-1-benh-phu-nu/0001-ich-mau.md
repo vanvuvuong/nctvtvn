@@ -7,6 +7,8 @@ benh:
   - điều kinh
   - huyết áp cao
   - viêm niêm mạc dạ con
+  - thông tiểu
+  - lỵ
 keywords:
   - bệnh phụ nữ
   - ích mẫu
@@ -135,4 +137,4 @@ Cao ích mẫu bán trên thị trường hiện nay thường không phải ch�
 
 Cao ích mẫu hiện nay được thống nhất theo đơn: Ích mẫu 800g, ngải cứu 200g, hương phụ 250g, tá được (xirô, cồn 15°) vừa đủ 1000g.
 
-_Cao hương ngải_. Xem vị hương phụ.
+_Cao hương ngải_. Xem vị [hương phụ](/phan-2/2-1-benh-phu-nu/0002-huong-phu).

@@ -5,7 +5,7 @@ navWeight: 994
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 benh:
   - phụ nữ có thai đau bụng
-  - thông tiểu tiện
+  - thông tiểu
   - tiểu tiện đục
 keywords:
   - bệnh phụ nữ

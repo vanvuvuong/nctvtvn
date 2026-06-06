@@ -11,6 +11,7 @@ benh:
 keywords:
   - bệnh phụ nữ
   - duyên hồ sách
+  - 玄胡索
   - Corydalis ambigua Ch. et Schl
   - giảm đau
   - hoạt huyết

@@ -10,6 +10,11 @@ benh:
 keywords:
   - bệnh phụ nữ
   - thược dược
+  - 芍药
+  - bạch thược
+  - 白芍
+  - xích thược
+  - 赤芍
   - Paeonia lactiflora Pall
   - lợi tiểu
   - giảm đau

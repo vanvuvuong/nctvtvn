@@ -6,7 +6,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 benh:
   - điều kinh
   - cầm máu
-  - lỵ ra máu
+  - lỵ
 keywords:
   - bệnh phụ nữ
   - cây tô mộc

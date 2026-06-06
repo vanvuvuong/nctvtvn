@@ -7,7 +7,7 @@ benh:
   - điều kinh
   - đau bụng
   - thuốc ôn khí huyết
-  - thuốc giúp sự tiêu hóa
+  - tiêu hóa
 keywords:
   - bệnh phụ nữ
   - ngải cứu

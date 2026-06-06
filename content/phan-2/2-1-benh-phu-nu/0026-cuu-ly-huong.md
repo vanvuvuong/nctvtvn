@@ -11,6 +11,7 @@ benh:
 keywords:
   - bệnh phụ nữ
   - cửu lý hương
+  - 九里香
   - Ruta graveolens L
   - giảm đau
   - điều kinh

@@ -7,7 +7,8 @@ benh:
   - sốt phát ban
 keywords:
   - bệnh phụ nữ
-  - bo mẩy
+  - bọ mẩy
+  - 大青
   - Clerodendron cyrtophyllum Turcz
   - chữa sốt phát ban
 ---

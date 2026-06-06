@@ -7,6 +7,7 @@ benh:
   - điều kinh
   - khí uất
   - nôn mửa
+  - giảm đau
 keywords:
   - bệnh phụ nữ
   - hương phụ
