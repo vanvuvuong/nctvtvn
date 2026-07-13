@@ -8,6 +8,8 @@ keywords:
   - hương lâu
   - Vetiveria zizanioides
   - chữa sốt
+slug: "huong-lau"
+description: "Còn gọi là cỏ hương bài, hương lau."
 ---
 
 

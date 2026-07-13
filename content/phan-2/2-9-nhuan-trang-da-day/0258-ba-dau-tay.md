@@ -9,6 +9,8 @@ keywords:
   - Hura crepitans L
   - chữa hủi
   - làm thuốc
+slug: "ba-dau-tay"
+description: "Còn gọi là điệp tây, cây vông đồng, sablier."
 ---
 
 

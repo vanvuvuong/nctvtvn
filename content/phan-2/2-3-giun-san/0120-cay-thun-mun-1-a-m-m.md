@@ -8,6 +8,8 @@ keywords:
   - cây thùn mữn (1) à %m. m- %
   - trị giun đũa
   - chữa giun sán
+slug: "cay-thun-mun-1-a-m-m"
+description: "Còn gọi là cây chua meo (tên ờ Lạng Giang, Bắc Giang), cây phi tủ, cây chua ngút - vốn vén, tấm cùi (Thổ), xốm mun (Thái)."
 ---
 
 

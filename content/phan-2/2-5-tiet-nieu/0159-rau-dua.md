@@ -11,6 +11,8 @@ keywords:
   - thông tiểu
   - làm thuốc lọc máu
   - dùng làm thuốc nhuận
+slug: "rau-dua"
+description: "Còn gọi ỉà thủy long, du long thái."
 ---
 
 

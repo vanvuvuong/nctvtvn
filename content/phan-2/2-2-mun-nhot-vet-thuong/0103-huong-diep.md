@@ -10,6 +10,8 @@ keywords:
   - hương điệp
   - sát trùng
   - hạ huyết áp
+slug: "huong-diep"
+description: "Còn gọi là Cây lá thơm, Giêranium."
 ---
 
 

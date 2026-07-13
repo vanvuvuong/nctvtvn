@@ -10,6 +10,8 @@ keywords:
   - sát trùng
   - chữa ỉa chảy
   - chữa sâu quảng
+slug: "co-bac-dau-mim"
+description: "Còn gọi là cỏ nút áo, smao kak kdam (Cãmupuchia)."
 ---
 
 

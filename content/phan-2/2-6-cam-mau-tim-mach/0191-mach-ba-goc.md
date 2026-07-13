@@ -7,6 +7,8 @@ keywords:
   - cầm máu và bệnh tim mạch
   - mạch ba góc
   - Fagopyrum esculentum Moench
+slug: "mach-ba-goc"
+description: "Còn gọi là tam giác mạch, lúa mạch đen, kiều mạch, sèo (Lào Cai, Yên Bái)."
 ---
 
 

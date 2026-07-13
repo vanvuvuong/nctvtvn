@@ -9,6 +9,8 @@ keywords:
   - Mesona chinensis Benth
   - làm thuốc
   - chữa cảm mạo
+slug: "cay-xuong-sao"
+description: "Còn gọi là cây thạch đen, lương phấn thảo."
 ---
 
 

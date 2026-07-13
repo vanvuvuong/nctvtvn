@@ -12,6 +12,8 @@ keywords:
   - chữa lở ngứa
   - dùng làm thuốc tẩy cho phụ nữ có thai
   - thông tiểu cho những người bị bệnh gút
+slug: "loc-mai"
+description: "Còn gọi là rau mọi, lục mại."
 ---
 
 

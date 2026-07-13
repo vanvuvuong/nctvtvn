@@ -9,6 +9,8 @@ keywords:
   - Sophora japonica L
   - cầm máu
   - chữa xích bạch lỵ
+slug: "cay-hoa-hoe"
+description: "Còn gọi là hòe mễ, hòe hoa mễ, hoè hoa."
 ---
 
 

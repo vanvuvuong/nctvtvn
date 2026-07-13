@@ -21,6 +21,10 @@ keywords:
   - thông kinh rõ rệt
   - chữa bệnh phụ khoa
   - chữa kinh nguyệt không đều
+slug: "huong-phu"
+description: "Còn gọi là củ gấu, cỏ gấu, cỏ cú."
+images:
+  - /images/6-huong-phu.png
 ---
 
 _Còn gọi_ là củ gấu, cỏ gấu, cỏ cú.

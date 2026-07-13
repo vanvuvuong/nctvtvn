@@ -17,6 +17,8 @@ keywords:
   - chữa chứng thủng phấp phục phong
   - chữa các chứng du phong nhức đầu
   - chữa các chứng phong ẩn náu làm cho nhức đầu
+slug: "khuong-hoat"
+description: "Tên khoa học Rhizoma Notopterygii."
 ---
 
 

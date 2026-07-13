@@ -8,6 +8,8 @@ benh:
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - dạng hỗ biến của axit chaulmoogric
+slug: "dang-ho-bien-cua-axit-chaulmoogric"
+description: "Axit chaulmoogric có độ chảy +68°5, năng suất quay cực (α) D+68°l."
 ---
 
 

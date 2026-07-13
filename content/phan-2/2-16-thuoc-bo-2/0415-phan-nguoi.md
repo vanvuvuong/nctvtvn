@@ -15,6 +15,8 @@ keywords:
   - chữa rất nhiều bệnh hiểm nghèo
   - trị sốt dữ dội do thời khí sinh ra
   - chữa một số bệnh hiểm nghèo từ thế kỷ thứ 6
+slug: "phan-nguoi"
+description: "Còn gọi là cứt người, nhân phẩn, hoàng long thang, hoàn nguyên thủy, phấn thanh, nhân trung hoàng."
 ---
 
 

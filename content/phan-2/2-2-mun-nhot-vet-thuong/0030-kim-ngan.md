@@ -15,6 +15,8 @@ keywords:
   - thông tiểu
   - chữa mụn nhọt
   - chữa có kết quả một số trường hợp viêm mũi dị ứng
+slug: "kim-ngan"
+description: "Còn gọi là Nhẫn đông"
 ---
 
 _Còn gọi là_ Nhẫn đông

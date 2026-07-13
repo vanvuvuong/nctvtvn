@@ -12,6 +12,8 @@ keywords:
   - chữa thổ huyết
   - chữa bệnh ho ra‘máu
   - chữa kinh nguyệt bế sinh đau bụng
+slug: "cay-co-nen"
+description: "Còn có tên bồ thảo, hương bồ thảo, bồ hoàng."
 ---
 
 

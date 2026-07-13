@@ -14,6 +14,10 @@ keywords:
   - phá huyết
   - bổ can thận
   - chữa bệnh cholesterol máu cao
+slug: "cay-nguu-tat"
+description: "Còn có tên là cây cỏ xước, hoài ngưu tất."
+images:
+  - /images/18-nguu-tat.png
 ---
 
 _Còn có tên là_ cây cỏ xước, hoài ngưu tất.

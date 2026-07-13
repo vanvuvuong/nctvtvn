@@ -7,6 +7,8 @@ keywords:
   - giun sán và ký sinh trùng
   - lu lu đực >ỷ &ti,&
   - Solanum nigrum L
+slug: "lu-lu-duc-y-ti"
+description: "Còn gọi là thù lù đực, gia cầu, nút áo, hiên già nhi miêu, morelle noire, raisin de oup, herbe au magicien."
 ---
 
 

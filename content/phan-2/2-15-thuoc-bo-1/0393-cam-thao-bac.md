@@ -17,6 +17,8 @@ keywords:
   - chữa loét dạ dày
   - trị bệnh addidơn
   - chữa tỳ hư mà ỉa lỏng
+slug: "cam-thao-bac"
+description: "Còn có tên là bắc cam thảo, cam thảo, sinh cam thảo, quốc lão."
 ---
 
 

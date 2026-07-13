@@ -1,7 +1,9 @@
 ---
-title: "II.XV - THUỐC BỔ 1"
-description: "CÁC CÂY THUỐC VÀ VỊ THUỐC BỔ (PHẦN 1)"
+title: Thuốc bổ 1
+weight: 15
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+slug: "thuoc-bo-1"
+description: "Các cây thuốc và vị thuốc chữa thuốc bổ 1"
 ---
 
 ## XV. CÁC CÂY THUỐC VÀ VỊ THUỐC BỔ (PHẦN 1)
@@ -91,4 +93,3 @@ Hà thủ ô 1.800g thái mỏng, ngưu tất 600g thái mỏng. Hai vị trộn
 4. Hà thủ ô tán. Công dụng cũng như bài trên (Bản thảo cương mục):
 
 Hà thủ ô cạo vỏ, thái mỏng phơi cho khô, tán bột. Ngày uống 4g vào sáng sớm, chiêu thuốc bằng ruợu.
-

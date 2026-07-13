@@ -8,6 +8,8 @@ keywords:
   - cây sui
   - Antiaris toxicaria Lesch
   - chữa đau bụng
+slug: "cay-sui"
+description: "Còn gọi là cây thuốc bắn, nỗ tiễn tử, nong (Lào, vùng Viêntian)."
 ---
 
 

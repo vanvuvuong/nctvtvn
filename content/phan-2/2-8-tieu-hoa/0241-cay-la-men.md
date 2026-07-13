@@ -8,6 +8,8 @@ keywords:
   - cây lá men
   - Mosla dianthera Maxim. Thu
   - chữa đau bụng
+slug: "cay-la-men"
+description: "Còn gọi là kinh gicti núi, cầy men."
 ---
 
 

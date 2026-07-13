@@ -10,6 +10,8 @@ keywords:
   - chữa ho
   - chữa đau nhức
   - sát trùng của tinh dầu tràm lại mạnh hơn tinh dầu bạch đàn
+slug: "tram-va-tinh-dau-tram"
+description: "Còn gọi là cây chè cay, chè đồng, smach chanlos, -smach tachah (Cămpuchia), cajeputier (Pháp)."
 ---
 
 

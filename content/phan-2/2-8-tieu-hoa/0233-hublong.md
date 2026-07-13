@@ -8,6 +8,8 @@ keywords:
   - hublông
   - giảm đau
   - làm thuốc giúp sự tiêu hóa
+slug: "hublong"
+description: "Còn gọi là houblon, hương bia, hoa bìa. Tên khoa học Humuỉus lupulus L. Thuộc họ Gai mèo Cannabinaceae."
 ---
 
 

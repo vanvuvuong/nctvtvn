@@ -12,6 +12,8 @@ keywords:
   - làm thuốc
   - thông tiểu
   - chữa rắn cấn
+slug: "man-tuoi-im"
+description: "Còn gọi là liương thảo, lan thảo, Ayapana du Thuộc họ Cúc Asteraceae (Compositae)."
 ---
 
 

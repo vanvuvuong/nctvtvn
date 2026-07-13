@@ -14,6 +14,8 @@ keywords:
   - trị mụn nhọt
   - chữa phụ nữ có thai
   - chữa những trường hợp đờm ho nhiệt
+slug: "boi-mau"
+description: "Fritillaria-Bulbus Fritillariae"
 ---
 
 

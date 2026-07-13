@@ -10,6 +10,8 @@ keywords:
   - dùng làm thuốc bổ
   - chữa bệnh đau xương
   - chữa những triệu chứng của bệnh tê thấp
+slug: "day-dau-xuong"
+description: "Còn gợi là khoan cân đàng."
 ---
 
 

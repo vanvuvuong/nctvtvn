@@ -7,6 +7,8 @@ keywords:
   - đường tiết niệu
   - mã thầy
   - Heỉeocharis plantaginea R
+slug: "ma-thay"
+description: "Cỏn ỊỊỌÌ ỉà củ năn, bột tể."
 ---
 
 

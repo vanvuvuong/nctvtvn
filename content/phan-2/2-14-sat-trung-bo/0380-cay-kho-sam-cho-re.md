@@ -13,6 +13,8 @@ keywords:
   - thuốc bổ đắng
   - thuốc lợi tiểu tiện
   - chữa sốt quá hoá điên cuồng
+slug: "cay-kho-sam-cho-re"
+description: "Còn có tên là dã hòe, khổ cốt, khổ sâm"
 ---
 
 

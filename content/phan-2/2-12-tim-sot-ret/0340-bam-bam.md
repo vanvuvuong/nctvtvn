@@ -8,6 +8,8 @@ keywords:
   - bàm bàm
   - Entada phaseoloides
   - chữa nóng
+slug: "bam-bam"
+description: "Còn có tên là dây bàm, đậu dẹt, m’ba (Lào), var ang kung (Cămpuchia), lany (Di Linh)."
 ---
 
 

@@ -7,6 +7,8 @@ keywords:
   - cầm máu và bệnh tim mạch
   - cây ba gạc ấn độ
   - Rauwoflia serpentina Benth
+slug: "cay-ba-gac-an-do"
+description: "Còn có tên Ấn Độ sà mộc, Ấn Độ la phù mộc."
 ---
 
 

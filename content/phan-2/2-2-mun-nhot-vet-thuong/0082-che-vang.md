@@ -13,6 +13,8 @@ keywords:
   - chữa rắn cắn
   - chữa bằng lá chè vằng sớm
   - trị bằng chè vằng thường hết sốt
+slug: "che-vang"
+description: "Còn gọi là chè cước man, dây cẩm văn, cây dâm trắng, cây lá ngón, dây vắng, mổ sẻ."
 ---
 
 

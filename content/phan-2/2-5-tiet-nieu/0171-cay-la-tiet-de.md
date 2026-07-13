@@ -16,6 +16,8 @@ keywords:
   - chữa những trường hợp sỏi thận
   - chữa những trường hợp “nóng” như sốt
   - chữa những trường hợp đi tiểu tiện khó khăn
+slug: "cay-la-tiet-de"
+description: "Còn gọi là cây mối tròn, cây mối nám."
 ---
 
 

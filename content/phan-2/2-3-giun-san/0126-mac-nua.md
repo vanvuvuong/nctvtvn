@@ -8,6 +8,8 @@ keywords:
   - mắc nưa
   - Diospyros mo
   - trừ giun
+slug: "mac-nua"
+description: "Cỏn gọi ìà mặc nưa, mac leua (Cãmpuchia)."
 ---
 
 

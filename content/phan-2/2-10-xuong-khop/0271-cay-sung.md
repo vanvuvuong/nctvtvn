@@ -12,6 +12,8 @@ keywords:
   - chữa nhức đáu
   - chữa bệnh nhức đầu
   - chữa mụn nhọt bắp chuối
+slug: "cay-sung"
+description: "Còn gọi là lo va (Campuchia)."
 ---
 
 

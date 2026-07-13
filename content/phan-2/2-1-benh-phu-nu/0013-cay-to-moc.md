@@ -16,6 +16,10 @@ keywords:
   - chữa lỵ ra máu
   - làm thuốc săn da
   - chữa kinh nguyệt không đều
+slug: "cay-to-moc"
+description: "Còn có tên là cây gỗ vang, cây vang nhuộm, cây tô phượng(do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc)."
+images:
+  - /images/19-to-moc.png
 ---
 
 _Còn có tên là_ cây gỗ vang, cây vang nhuộm, cây tô phượng(do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc).

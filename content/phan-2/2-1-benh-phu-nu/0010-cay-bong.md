@@ -14,6 +14,10 @@ keywords:
   - điều kinh
   - thông kinh
   - cầm máu tử cung
+slug: "cay-bong"
+description: "Tên khoa học Gossypium sp."
+images:
+  - /images/17-cay-bong.png
 ---
 
 Tên khoa học _Gossypium sp_.

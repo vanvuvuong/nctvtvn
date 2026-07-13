@@ -10,6 +10,8 @@ keywords:
   - keo nước hoa
   - Acacia farnesiana Willd
   - chữa khí hư
+slug: "keo-nuoc-hoa"
+description: "Còn gọi là keo ta, mân côi, mak ku kong, kum tai (Lào), sambor meas (Cămpuchia), cassie du Levant."
 ---
 
 

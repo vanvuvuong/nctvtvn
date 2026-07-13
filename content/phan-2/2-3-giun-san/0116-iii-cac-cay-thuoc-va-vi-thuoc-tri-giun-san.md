@@ -6,6 +6,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - giun sán và ký sinh trùng
   - iii. các cây thuốc và vị thuốc trị giun sán
+slug: "iii-cac-cay-thuoc-va-vi-thuoc-tri-giun-san"
 ---
 
 

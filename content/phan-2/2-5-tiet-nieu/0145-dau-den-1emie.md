@@ -7,6 +7,8 @@ keywords:
   - đường tiết niệu
   - đậu đen 1ẽmie
   - bổ thận thủy
+slug: "dau-den-1emie"
+description: "Tên hoa học Vìgna cylindrica Skeels (Doỉicỉìos catjang Burm. f.)."
 ---
 
 

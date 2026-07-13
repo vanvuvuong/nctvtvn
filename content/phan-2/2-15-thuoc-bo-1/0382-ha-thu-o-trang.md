@@ -9,6 +9,8 @@ keywords:
   - Streptocaulon juventas
   - 白何首烏
   - chữa cảm sốt
+slug: "ha-thu-o-trang"
+description: "Còn có tên là hà thủ ô nam, bạch hà thủ ô, củ vú bò, dây sữa bò, dây mốc, cây sừng bò cây đa lông, khâu cần cà (Thổ), khâu nước (Lạng Sơn), mã liên an, mã…"
 ---
 
 

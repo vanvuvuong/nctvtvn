@@ -10,6 +10,8 @@ keywords:
   - lợi sữa
   - an thần
   - chữa đau đầu khó ngủ
+slug: "cay-com-nep"
+description: "Tên khoa học Strobilanthes acrocephalus T. Anders."
 ---
 
 

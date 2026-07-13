@@ -7,6 +7,8 @@ keywords:
   - đường tiết niệu
   - cây nghể
   - Polygonum hydropiper L. Persicaria h
+slug: "cay-nghe"
+description: "Còn có tén lủ thủy liễu, rau nghể."
 ---
 
 

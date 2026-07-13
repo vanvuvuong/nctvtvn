@@ -13,6 +13,10 @@ keywords:
   - làm thuốc nhuộm
   - chữa kinh nguyệt bế tắc
   - chữa kinh nguyệt không đều
+slug: "cay-hong-hoa"
+description: "Còn có tên là cây rum."
+images:
+  - /images/12-hong-hoa.png
 ---
 
 _Còn có tên là_ cây rum.

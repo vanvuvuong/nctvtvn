@@ -13,6 +13,8 @@ keywords:
   - lợi tiểu tiện
   - chữa thổ huyết
   - chữa hồi hộp mất ngủ
+slug: "cay-trac-bach-diep"
+description: "Còn có tên là bá tử nhân."
 ---
 
 

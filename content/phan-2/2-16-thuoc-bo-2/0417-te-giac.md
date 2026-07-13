@@ -11,6 +11,8 @@ keywords:
   - giải độc
   - chữa các chứng thổ huyết
   - chữa bệnh viêm não có kết quả
+slug: "te-giac"
+description: "Còn gọi là tê ngưu giác, hương tê giác."
 ---
 
 

@@ -12,6 +12,8 @@ keywords:
   - thông tiểu tiện
   - dùng làm thuốc bổ
   - chữa nhũng trường hợp viêm ống tiểu tiện
+slug: "tai-chuot"
+description: "Còn gọi lủ cây hạt bí, qua tử kim."
 ---
 
 

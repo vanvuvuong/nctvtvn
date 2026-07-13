@@ -8,6 +8,8 @@ keywords:
   - bạng hoa
   - Rhoeo discolor
   - chữa các chứng ho ra máu
+slug: "bang-hoa"
+description: "Còn gọi là cây sò huyết, tử vạn niên thanh, lẻ bạn."
 ---
 
 

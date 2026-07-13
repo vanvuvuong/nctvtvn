@@ -12,6 +12,8 @@ keywords:
   - trị rôm sảy
   - chữa viêm bàng quang cũng có kết quả tốt
   - trị có kết quả mọi trường hợp viêm tây ngoài da
+slug: "e-cong-dung-va-lieu-dung"
+description: "Nhân dân Bắc Ninh, Bắc Giang và nhiều nơi khác vẫn dùng cây sài đất ăn sống như rau với thịt hay cá."
 ---
 
 

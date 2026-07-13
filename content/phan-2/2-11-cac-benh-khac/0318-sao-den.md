@@ -8,6 +8,8 @@ keywords:
   - sao đen
   - Hopea odorala Roxb
   - chữa các bệnh viêm lợi
+slug: "sao-den"
+description: "Còn gọi là koky (Campuchia), mạy khèn (Lào)."
 ---
 
 

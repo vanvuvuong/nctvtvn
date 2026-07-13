@@ -8,6 +8,8 @@ keywords:
   - hạt bí ngô
   - thuốc tẩy muối
   - chữa sán tuy không mạnh bằng dương xỉ đực
+slug: "hat-bi-ngo"
+description: "Hạt bí ngô còn có tên là: hạt bí đỏ, má ứ (Thái), nam qua tử (Semen Cưcurbitae) là hạt của nhiều loại bí như bí ngô {Cucurbita pepõ L.), bí rợ (Cucurbita…"
 ---
 
 

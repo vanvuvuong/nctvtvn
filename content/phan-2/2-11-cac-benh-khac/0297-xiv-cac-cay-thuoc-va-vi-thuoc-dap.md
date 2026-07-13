@@ -6,6 +6,8 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - rắn cắn, giải độc và các bệnh khác
   - xiv. các cây thuốc và vị thuốc đắp
+slug: "xiv-cac-cay-thuoc-va-vi-thuoc-dap"
+description: "■"
 ---
 
 

@@ -16,6 +16,8 @@ keywords:
   - chữa trúng độc
   - chữa xích bạch đới
   - chữa các chứng đau bụng
+slug: "bach-bien-dau"
+description: "Còn gọi ỉà đậu ván trắng, đậu bạch biển, biển đậu, bạch đậu."
 ---
 
 

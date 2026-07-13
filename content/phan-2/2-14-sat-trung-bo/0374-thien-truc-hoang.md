@@ -15,6 +15,8 @@ keywords:
   - chữa trẻ con bị kinh giật
   - chữa các trường hợp sốt mê man
   - chữa người lớn trúng phong cấm khẩu
+slug: "thien-truc-hoang"
+description: "Còn có tên là trúc hoàng phấn, phấn nứa, trúc cao."
 ---
 
 

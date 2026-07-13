@@ -14,6 +14,8 @@ keywords:
   - dùng làm thuốc
   - chữa thổ huyết
   - làm thuốc nhuộm màu xanh lam
+slug: "thanh-dai"
+description: "Còn gọi là bột chàm."
 ---
 
 

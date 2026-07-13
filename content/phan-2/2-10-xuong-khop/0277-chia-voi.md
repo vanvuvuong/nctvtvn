@@ -10,6 +10,8 @@ keywords:
   - chữa đau nhức xương
   - sát trùng rổi dùng nong cổ tử cung
   - kích thích sự co bóp tử cung để tống thai ra
+slug: "chia-voi"
+description: "Còn gọi là bạch liễm, đau xương, bạch phấn đàng."
 ---
 
 

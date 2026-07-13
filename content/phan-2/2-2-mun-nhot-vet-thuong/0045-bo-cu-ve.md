@@ -12,6 +12,8 @@ keywords:
   - cầm máu
   - chữa rắn cắn
   - chữa bệnh giun chỉ
+slug: "bo-cu-ve"
+description: "Còn gọi là đỏ đọt, mào gà, bồ long anh, sâu vẽ, bọ mảy."
 ---
 
 

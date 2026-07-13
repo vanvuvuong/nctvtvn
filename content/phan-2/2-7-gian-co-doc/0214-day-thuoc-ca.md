@@ -12,6 +12,8 @@ keywords:
   - tẩy giun
   - chữa ghẻ
   - chữa bệnh ở bộ máy tiêu hóa sơn tra 山楂 còn gọi là bắc sơn tra
+slug: "day-thuoc-ca"
+description: "Còn gọi là dây duốc cá, dây mật, dây cóc, dây cát, lầu tín, tuba root (Anh), derris (Pháp), touba."
 ---
 
 

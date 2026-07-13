@@ -18,6 +18,8 @@ keywords:
   - chữa loét dạ dày
   - thông mật giúp sự liêu hóa
   - trị cũng thay đổi tuỳ theo nơi mọc
+slug: "bac-ha"
+description: "Tên khoa học Mentha arvensis L."
 ---
 
 

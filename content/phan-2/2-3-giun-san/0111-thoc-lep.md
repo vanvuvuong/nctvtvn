@@ -16,6 +16,8 @@ keywords:
   - chữa những vết loét vết thương
   - làm thuốc tại nhiều noi như hà tây
   - làm thuốc với tên khoa học bul- bus eỉeutherinis subaphyllae
+slug: "thoc-lep"
+description: "Còn có tên là cỏ cháy, bài ngài,"
 ---
 
 

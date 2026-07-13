@@ -7,6 +7,8 @@ keywords:
   - rắn cắn, giải độc và các bệnh khác
   - cây sừng dê
   - Strophanthus divar
+slug: "cay-sung-de"
+description: "Cỏn gọi là cây sừng trâu, dương giác nữu, đương giác ảo, hoa độc mao ư hoa tử, cây sừng bò."
 ---
 
 

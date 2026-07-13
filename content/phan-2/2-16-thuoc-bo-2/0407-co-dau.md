@@ -8,6 +8,8 @@ keywords:
   - cọ dầu
   - Elaeis guineensis Jacq
   - làm thuốc
+slug: "co-dau"
+description: "Còn gọi là palmier à huile."
 ---
 
 

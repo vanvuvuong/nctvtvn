@@ -7,6 +7,8 @@ keywords:
   - sát trùng và thuốc bổ
   - khổ sâm
   - chữa lỵ
+slug: "kho-sam"
+description: "Tên khổ sâm có nghĩa sâm đắng được dùng để chỉ ba vị thuốc nguồn gốc và công dụng khác hẳn nhau."
 ---
 
 

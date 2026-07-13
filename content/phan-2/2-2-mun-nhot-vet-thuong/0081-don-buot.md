@@ -13,6 +13,8 @@ keywords:
   - giải độc
   - chữa bọ cạp
   - chữa viêm ruột thừa có kết quả
+slug: "don-buot"
+description: "Còn gọi là đơn kim, quỷ trâm thảo, manh tràng thảo, tử tô hoang, cúc áo."
 ---
 
 

@@ -10,6 +10,8 @@ keywords:
   - lợi sữa
   - kích thích trung tiện
   - chữa đau bụng của trè em
+slug: "thia-la"
+description: "Còn gọi là rau thìa là, phãk si (Lào-Vientian), aneth (Pháp)."
 ---
 
 

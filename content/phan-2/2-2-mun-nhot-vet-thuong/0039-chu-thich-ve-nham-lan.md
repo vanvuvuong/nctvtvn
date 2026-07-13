@@ -16,6 +16,8 @@ keywords:
   - dùng làm thuốc giúp sự tiêu hóa
   - chữa mụn nhọt đầu đinh kết quả rất tốt
   - chữa 120 trường hợp bạch hầu có kết quả đạt 96
+slug: "chu-thich-ve-nham-lan"
+description: "Hiện nay có 2 cây thường dùng nhầm với tên sài đất:"
 ---
 
 

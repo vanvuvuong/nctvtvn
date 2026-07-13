@@ -13,6 +13,8 @@ keywords:
   - chữa nhức đầu choáng váng
   - chữa cảm mạo biểu chứng ra mồ hôi
   - chữa triệu chứng khi ngủ ra mồ hôi trộm
+slug: "phong-phong"
+description: "Phòng phong theo như tên gọi là một vị thuốc rất hay được dùng để chữa các chứng bệnh do gió gây ra (phong là gió, phòng là phòng bị)."
 ---
 
 

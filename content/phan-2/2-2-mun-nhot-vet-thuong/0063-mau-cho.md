@@ -13,6 +13,8 @@ keywords:
   - sát trùng
   - chữa bệnh hủi
   - trị ghẻ ruồi rất công hiệu
+slug: "mau-cho"
+description: "Còn gọi là muscadier à suif."
 ---
 
 

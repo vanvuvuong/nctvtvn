@@ -11,6 +11,8 @@ keywords:
   - làm thuốc
   - thông tiểu nhất là
   - chữa tim mà là do chất sciliroit đã nói ở trên
+slug: "hanh-bien"
+description: "Tên khoa học Scilla maritima L. (Urginea scilla Steinh., Urginea maritima (L.) Baker)"
 ---
 
 

@@ -8,6 +8,8 @@ keywords:
   - mâm xôi
   - Rubus alceae
   - chữa chậm tiêu
+slug: "mam-xoi"
+description: "Còn gọi là đùm đũm."
 ---
 
 

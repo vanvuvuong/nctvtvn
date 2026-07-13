@@ -14,6 +14,8 @@ keywords:
   - chữa chóng mặt
   - chữa các chứng nhức đầu
   - chữa phong mà sinh hoa mắt
+slug: "cuc-hoa"
+description: "Còn gọi là cam cúc hoa, bạch cúc hoa, cúc hoa trắng, cúc điểm vàng, hoàng cúc."
 ---
 
 

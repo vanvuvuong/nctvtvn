@@ -12,6 +12,8 @@ keywords:
   - chữa sốt
   - thuốc bổ
   - tẩy giun
+slug: "moc-meo-nui"
+description: "Còn gọi là vuốt hùm, bonduc, eniquier, pois- quenique, yeux de chat."
 ---
 
 

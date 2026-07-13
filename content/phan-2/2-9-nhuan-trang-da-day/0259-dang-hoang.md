@@ -11,6 +11,8 @@ keywords:
   - chữa cảm
   - tẩy giun
   - dùng làm thuốc tẩy nhẹ
+slug: "dang-hoang"
+description: "Còn gọi là vàng nhựa, vàng nghệ, gommegutte, đom rông, cam rông, roeng (Cămpuchia)."
 ---
 
 

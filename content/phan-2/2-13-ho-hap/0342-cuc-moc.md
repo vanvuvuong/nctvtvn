@@ -9,6 +9,8 @@ keywords:
   - Crossostephium chinense
   - chữa cảm mạo
   - chữa kinh nguyệt không đều
+slug: "cuc-moc"
+description: "Còn gọi là ngải phù dung, nguyệt bạch, ngọc phù dung."
 ---
 
 

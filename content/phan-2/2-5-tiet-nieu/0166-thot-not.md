@@ -9,6 +9,8 @@ keywords:
   - Borassus f
   - tiêu đờm
   - chữa ăn vào nỏn ra
+slug: "thot-not"
+description: "Còn gọi là thnot, (Cảmpuchia), mak tan kok (Lào), palmier à sucre, rondier."
 ---
 
 

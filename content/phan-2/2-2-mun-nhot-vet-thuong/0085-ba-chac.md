@@ -11,6 +11,8 @@ keywords:
   - Evodialepta
   - điều kinh
   - làm thuốc bổ đắng
+slug: "ba-chac"
+description: "Còn gọi là dầu dấu, bí bái, mạt, kom la van tio tăng (Viêm tian), swai anor (Cămpuchia)."
 ---
 
 

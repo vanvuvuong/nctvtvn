@@ -14,6 +14,8 @@ keywords:
   - chữa đái buốt
   - chữa tiểu tiện khó khăn
   - chữa viêm bàng quang viêm đường tiểu tiện
+slug: "nang-nang"
+description: "Còn gọi ìà trứng ếch, trứng ốc, bọt ếch, nổ trắng, co phá mặc lăm (Thái), pha tốp (Lai Châu), đốc pha nốc (Lào), srul kraham {Cãmpuchia)."
 ---
 
 

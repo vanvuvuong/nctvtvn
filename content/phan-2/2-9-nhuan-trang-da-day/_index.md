@@ -1,7 +1,9 @@
 ---
-title: "II.IX - NHUẬN TRÀNG VÀ BỆNH DẠ DÀY"
-description: "CÁC CÂY THUỐC VÀ VỊ THUỐC NHUẬN TRÀNG VÀ CHỮA BỆNH DẠ DÀY"
+title: Nhuận tràng và bệnh dạ dày
+weight: 9
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+slug: "nhuan-trang-va-benh-da-day"
+description: "Các cây thuốc và vị thuốc chữa nhuận tràng và bệnh dạ dày"
 ---
 
 ## IX. CÁC CÂY THUỐC VÀ VỊ THUỐC NHUẬN TRÀNG VÀ CHỮA BỆNH DẠ DÀY
@@ -31,4 +33,3 @@ Chú thích:
 Ngoài cây Aquilaria agallocha ra, người ta còn khai thác gỗ của nhiều loài Aquilaria khác như Aquilaria malaccensis Lamk., Aloexylon agallochum Lour. và Ecoecari agallochai L.
 
 Ở các tỉnh phía nam nhân dân còn dùng vị kiến kỳ nam hoàn toàn không lấy từ trầm hương mà là một cây mọc phụ sinh được giới thiệu sau đây.
-

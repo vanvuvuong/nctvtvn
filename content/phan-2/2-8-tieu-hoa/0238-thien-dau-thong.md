@@ -10,6 +10,8 @@ keywords:
   - chữa sốt
   - làm thuốc
   - chữa bệnh thiên đầu thổng
+slug: "thien-dau-thong"
+description: "Còn gọi là cây lá trắng, cảy ong bầu, truờng xuyên hoa."
 ---
 
 

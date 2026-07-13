@@ -10,6 +10,8 @@ keywords:
   - làm thuốc
   - chữa bệnh thống phong
   - kích thích để tạo những giống cây nhiều quả
+slug: "toi-doc"
+description: "Còn gọi là colchique."
 ---
 
 

@@ -11,6 +11,8 @@ keywords:
   - chữa sốt
   - chữa đau nhức xương cổt
   - chữa sớt quá hóa điên cuồng
+slug: "luoi-ran"
+description: "Cồn gọi là vương thái tô, cóc mẳn, đơn thảo, đơn đòng, tán phòng hoa nhĩ thảo."
 ---
 
 

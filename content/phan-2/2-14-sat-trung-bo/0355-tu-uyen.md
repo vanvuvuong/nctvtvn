@@ -13,6 +13,8 @@ keywords:
   - chữa tiểu tiện ra huyết
   - chữa viêm khí quản mãn tính
   - chữa trẻ con ho không ra tiếng
+slug: "tu-uyen"
+description: "Còn gọi là thanh uyển, dã ngưu bàng."
 ---
 
 

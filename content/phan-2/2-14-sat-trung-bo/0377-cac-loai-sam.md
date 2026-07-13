@@ -13,6 +13,8 @@ keywords:
   - chữa cơ thể quá suy nhược
   - chữa trẻ con đổ mồ hôi trộm
   - chữa những trường hợp mạch suy
+slug: "cac-loai-sam"
+description: "Đông y coi sâm là vị thuốc đứng đầu các vị thuốc bổ, theo thứ tự sâm, nhung, quế, phụ."
 ---
 
 

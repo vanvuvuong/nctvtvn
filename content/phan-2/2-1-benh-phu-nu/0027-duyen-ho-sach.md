@@ -18,6 +18,10 @@ keywords:
   - chữa đau bụng
   - chữa già trẻ bị ho, có đờm
   - chảy máu cam
+slug: "duyen-ho-sach"
+description: "Còn gọi là huyền hồ sách, nguyên hồ."
+images:
+  - /images/34-duyen-ho-sach.png
 ---
 
 _Còn gọi là_ huyền hồ sách, nguyên hồ.

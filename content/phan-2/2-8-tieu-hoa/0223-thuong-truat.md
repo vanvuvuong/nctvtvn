@@ -10,6 +10,8 @@ keywords:
   - chữa cấp tính
   - lợi tiểu rõ rệt
   - chữa đi ỉa lỏng
+slug: "thuong-truat"
+description: "Còn gọi ỉà mao truật, xích truật, nam thương truủt."
 ---
 
 

@@ -14,6 +14,8 @@ keywords:
   - chữa hen xuyễn
   - chữa mụn rộp hang vòng
   - thuốc giải độc có hoa kim ngân
+slug: "nhung-don-thuoc-dung-beo-cai-trong-nhan-dan"
+description: "Ngoài công dụng trên, bèo cái còn được dùng phối hợp với xà phòng để tẩy các vết trên vải, quần áo, chai, nồi có dầu mỡ, ngâm bèo cái vài ngày sẽ rửa, rất…"
 ---
 
 

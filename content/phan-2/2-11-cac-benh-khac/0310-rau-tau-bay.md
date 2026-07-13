@@ -7,6 +7,8 @@ keywords:
   - rắn cắn, giải độc và các bệnh khác
   - rau tàu bay
   - Cynura crepidioides Benth
+slug: "rau-tau-bay"
+description: "Tên khoa học Cynura crepidioides Benth."
 ---
 
 

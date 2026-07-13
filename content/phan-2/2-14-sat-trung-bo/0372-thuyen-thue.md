@@ -14,6 +14,8 @@ keywords:
   - chữa kinh giật
   - dùng làm thuốc trấn kinh
   - chữa một số trường hợp uốn ván có kết quả
+slug: "thuyen-thue"
+description: "Còn có tên là thuyền thoái, thiền thoái, thiền xác, thiền thuế."
 ---
 
 

@@ -13,6 +13,8 @@ keywords:
   - chữa đau răng
   - chữa mẩn ngứa mụn nhọt
   - chữa những triệu chứng của huyết áp cao như hoa mắt
+slug: "hoang-lien-gai"
+description: "Còn gọi ỉà hoàng mù-hoàng mộc."
 ---
 
 

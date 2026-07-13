@@ -11,6 +11,8 @@ keywords:
   - dùng làm thuốc
   - thông tiểu tiện
   - chữa thủy thũng
+slug: "muong-bien"
+description: "Tên khoa học Ipomoea biloba Forsk, (Ipomoea maritima R. Br., Convolvulus pescaproe L. Batatas maritima Bojer.)"
 ---
 
 

@@ -12,6 +12,8 @@ keywords:
   - kích thích
   - chữa sốt rét
   - chữa ỉa lỏng
+slug: "cay-sau-dau-rung"
+description: "Còn gọi là cây sầu đâu cứt chuột, hạt khổ sâm, khổ luyện tử, nha đảm tử, chù mền, san đực (Sầm Sơn), cứt cò (Vĩnh Linh), bạt bỉnh (Nghệ An)."
 ---
 
 

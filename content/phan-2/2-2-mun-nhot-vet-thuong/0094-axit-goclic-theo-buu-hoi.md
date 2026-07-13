@@ -12,6 +12,8 @@ keywords:
   - sát trùng
   - chữa phong hủi
   - chữa một số bệnh ngoài da
+slug: "axit-goclic-theo-buu-hoi"
+description: "Dầu đại phong tử có tác dụng kích ứng: bôi lên da thì nơi da bôi dầu bị đỏ và có khi mọng nước. Thường dùng bôi lên da để chữa ngứa và bệnh hủi."
 ---
 
 

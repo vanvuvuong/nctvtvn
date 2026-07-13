@@ -13,6 +13,8 @@ keywords:
   - chữa bỏng lửa
   - chữa thổ huyết
   - chữa tà khí vào dạ dày
+slug: "bach-cap"
+description: "Tên khoa học Bletilla striata (Thunb.) Reichb."
 ---
 
 

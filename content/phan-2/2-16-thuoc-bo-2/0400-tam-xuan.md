@@ -12,6 +12,8 @@ keywords:
   - hoạt huyết
   - chữa ỉa chảy
   - dùng làm thuốc lý khí
+slug: "tam-xuan"
+description: "Tên khoa học Rosa multiflora Thunb."
 ---
 
 

@@ -9,6 +9,8 @@ keywords:
   - Síerculia pỉatanìfoỉia L
   - chữa rụng tóc
   - chữa loét miệng
+slug: "ngo-dong"
+description: "Tên khoa học Síerculia pỉatanìfoỉia L."
 ---
 
 

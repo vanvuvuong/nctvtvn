@@ -9,6 +9,8 @@ keywords:
   - Cinnamomum parthenoxyl
   - làm thuốc
   - trị trờ vào
+slug: "cay-xa-xi"
+description: "Còn gọi ìà vù hương, rè hương, cô châu, canh châu, bois de vierge."
 ---
 
 

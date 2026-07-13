@@ -11,6 +11,8 @@ keywords:
   - chữa ghẻ lở
   - chữa bệnh mũi đỏ
   - chữa vết loét hủi
+slug: "don-thuoc-co-vi-dai-phong-tu"
+description: "Chữa ghẻ lở, giang mai: Đại phong tử thiêu tồn tính 10g, khinh phấn 0,5g. Giã nhỏ đại phong tử, thêm khinh phấn, cuối cùng thêm dầu vừng vào làm thành…"
 ---
 
 

@@ -9,6 +9,8 @@ keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có trầu không
   - chữa các vết lở loét
+slug: "don-thuoc-co-trau-khong"
+description: "Chúng ta giới thiệu sau đây đơn thuốc dùng lá trầu không để chữa các vết lở loét, mụn nhọt, vết chàm của trẻ em mới đẻ (Đỗ Tất Lợi). Lá trầu không tươi: 2…"
 ---
 
 

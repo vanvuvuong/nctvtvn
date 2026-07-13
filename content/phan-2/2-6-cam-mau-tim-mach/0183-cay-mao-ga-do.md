@@ -11,6 +11,8 @@ keywords:
   - chữa dạ dày
   - chữa lòi dom
   - chữa xích bạch lỵ
+slug: "cay-mao-ga-do"
+description: "Còn có tên bông mồng gà đỏ, kê quan hoa, kê đấu, kê quan."
 ---
 
 

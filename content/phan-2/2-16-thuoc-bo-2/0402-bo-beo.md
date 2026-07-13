@@ -10,6 +10,8 @@ keywords:
   - lợi tiểu
   - thuốc bổ dùng
   - kích thích ăn ngon
+slug: "bo-beo"
+description: "Còn gọi là bùi béo, béo trắng."
 ---
 
 

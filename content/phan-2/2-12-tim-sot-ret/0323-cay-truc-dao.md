@@ -10,6 +10,8 @@ keywords:
   - 夹竹桃
   - chữa tim
   - trị ở bệnh viện việt-tiệp hải phòng
+slug: "cay-truc-dao"
+description: "Còn gọi là đào lê, giáp trúc đào, laurier rose."
 ---
 
 

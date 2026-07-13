@@ -1,7 +1,9 @@
 ---
-title: "II.VIII - ĐƯỜNG TIÊU HÓA"
-description: "CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH ĐƯỜNG TIÊU HÓA"
+title: Đường tiêu hóa
+weight: 8
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+slug: "duong-tieu-hoa"
+description: "Các cây thuốc và vị thuốc chữa đường tiêu hóa"
 ---
 
 ## VIII. CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA BỆNH ĐƯỜNG TIÊU HÓA
@@ -42,7 +44,7 @@ Theo tài liệu cổ cao lương khươngvị cay, tính ôn, vào hai kình t�
 
 Có khi người ta dùng nhai để chữa đau răng.
 
-Ngày dùng 3-6g dưới dạng thuốc sắc, thuổc bột hay rượu thuốc.
+Ngày dùng 3-6g dưới dạng thuốc sắc, thuốc bột hay rượu thuốc.
 
 Đơn thuốc có cao lương khương
 
@@ -61,4 +63,3 @@ Ngoài vị riềng kể trên nước ta còn có một vị ridng nữa gọi 
 Thản rễ to thô bán tại thị trường với tên đại cao lương khương, dài 8-20cm, đường kính 1,5-3cm, màu nâu hổng nhạt, mùi vị không thơm như cao lương khương (Hình 287).
 
 Cũng có nơi dùng như cao lương khương chữa đau bụng, đi ỉa, nôn mửa, đi lỵ. Phối hợp với than tóc rối, uống chữa ngộ độc thịt cóc.
-

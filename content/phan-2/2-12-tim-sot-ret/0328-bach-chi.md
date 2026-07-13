@@ -17,6 +17,8 @@ keywords:
   - thông kinh nguyệt
   - chữa chứng hôi miệng
   - hoạt huyết bài nùng sinh cơ
+slug: "bach-chi"
+description: "Tên khoa học Angelica dahurica Benth. et Hook. và Angelica anomala Lallem."
 ---
 
 

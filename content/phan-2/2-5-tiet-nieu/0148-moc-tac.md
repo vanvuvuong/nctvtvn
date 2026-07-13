@@ -8,6 +8,8 @@ keywords:
   - mộc tặc
   - Equisetum arx
   - dùng làm thuốc
+slug: "moc-tac"
+description: "Còn gọi lả tiết cốt thảo, mộc tặc thảo, bút đầu thái, cỏ tháp bút."
 ---
 
 

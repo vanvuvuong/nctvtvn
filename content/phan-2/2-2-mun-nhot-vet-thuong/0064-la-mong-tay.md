@@ -17,6 +17,8 @@ keywords:
   - làm thuốc nhuộm tóc
   - chữa tê bại nhức mỏi
   - chữa kinh nguyệt không đều
+slug: "la-mong-tay"
+description: "Còn gọi là cây lá móng tay, móng tay nhuộm, chi giáp hoa, tán mạt hoa, kok khau khao youak, khoa thiên (Lào)."
 ---
 
 

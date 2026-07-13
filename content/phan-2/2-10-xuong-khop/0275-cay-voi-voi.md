@@ -8,6 +8,8 @@ keywords:
   - cây vòi voi
   - Heliotropium indicum L
   - làm thuốc
+slug: "cay-voi-voi"
+description: "Còn gọi là vòi voi, cẩu vĩ trùng, đại vĩ đạo, promoi damrey-xantui damrey (Cămpuchia)."
 ---
 
 

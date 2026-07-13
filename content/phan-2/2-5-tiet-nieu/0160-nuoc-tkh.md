@@ -14,6 +14,8 @@ keywords:
   - chữa bệnh ngoài da
   - trị bệnh nhân kiêng mỡ
   - trị 37 trường hợp đái ra dưỡng chấp
+slug: "nuoc-tkh"
+description: "trên mặt nước, bén rễ ở các mấu và có phao nổi, xốp hình trứng. Lá hình trứng hay hơi thuôn, đến cuống hơi hẹp lại, đầu tù hay hoi tròn, dài"
 ---
 
 

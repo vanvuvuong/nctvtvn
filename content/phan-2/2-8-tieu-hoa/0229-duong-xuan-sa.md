@@ -8,6 +8,8 @@ keywords:
   - dương xuân sa
   - Amomum vi
   - trị hơn vì ít tinh dầu
+slug: "duong-xuan-sa"
+description: "Còn gọi là xuân sa, sa nhân, mé tré bà."
 ---
 
 

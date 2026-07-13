@@ -8,6 +8,8 @@ keywords:
   - cây rùm nao
   - Malỉotus philippinensis
   - chữa bệnh dày da bụng
+slug: "cay-rum-nao"
+description: "Còn gọi là thô khang sài, kamala, camala, mọt."
 ---
 
 

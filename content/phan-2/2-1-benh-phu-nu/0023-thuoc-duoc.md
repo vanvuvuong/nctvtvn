@@ -23,6 +23,10 @@ keywords:
   - chữa đau bụng
   - chữa phụ nữ bế kinh
   - chữa đầu nhức mắt hoa
+slug: "thuoc-duoc"
+description: "Trên thị trường có hai loại thược dược:"
+images:
+  - /images/29-bach-thuoc.png
 ---
 
 Trên thị trường có hai loại thược dược:

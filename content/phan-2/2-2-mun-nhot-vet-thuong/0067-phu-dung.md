@@ -9,6 +9,8 @@ keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - phù dung
   - Hibiscus mutabilis L
+slug: "phu-dung"
+description: "Còn gọi là mộc liên, địa phù dung."
 ---
 
 

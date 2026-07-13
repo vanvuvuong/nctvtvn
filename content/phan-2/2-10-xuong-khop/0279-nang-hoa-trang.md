@@ -7,6 +7,8 @@ keywords:
   - xương khớp và tê thấp
   - náng hoa trắng
   - Crìnum asiatỉcum L
+slug: "nang-hoa-trang"
+description: "Còn ỵọi là cây lá náng, văn thù lan, hoa náng, chuối nước, thập bát học sĩ (Quảng Châu Trung Quốc)."
 ---
 
 

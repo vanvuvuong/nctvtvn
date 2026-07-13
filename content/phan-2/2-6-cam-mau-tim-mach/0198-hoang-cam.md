@@ -15,6 +15,8 @@ keywords:
   - trị bệnh cao huyết áp
   - chữa các bệnh đổ máu cam
   - chữa các triệu chứng nhức đầu
+slug: "hoang-cam"
+description: "Tên khoa học Scutellaria baicalensis Georg."
 ---
 
 

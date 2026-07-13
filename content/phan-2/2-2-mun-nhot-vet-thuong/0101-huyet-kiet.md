@@ -14,6 +14,8 @@ keywords:
   - làm thuốc bổ
   - chữa cháy máu cam
   - trị bị đánh tổn thương
+slug: "huyet-kiet"
+description: "Còn gọi là Sang dragon."
 ---
 
 

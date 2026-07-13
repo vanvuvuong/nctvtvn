@@ -12,6 +12,8 @@ keywords:
   - lợi tiểu
   - thuốc bổ bổi dưỡng
   - chữa tỳ hư trướng mãn hung cách phiền muộn
+slug: "bach-truat-thuong-truat"
+description: "Trong đông y người ta phân biệt bạch truật và khác loài. Ngoài ra còn một sổ' cây khác cùng chi thương truật. Cả hai vị đều do cùng một chi nhung cũng cho…"
 ---
 
 

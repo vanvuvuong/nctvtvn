@@ -11,6 +11,8 @@ keywords:
   - thông tiểu
   - chữa ỉa chảy
   - chữa đau răng
+slug: "bong-gao"
+description: "Còn gọi là cây gạo, mộc miên, gòn, roca (Cãmpuchia), ngiou (Lào), kapokier du Tonkin, kapokier du Malabar."
 ---
 
 

@@ -9,6 +9,8 @@ keywords:
   - Murraya tetramera Huang- Murraya glabra
   - tiêu thũng
   - chữa cảm mạo
+slug: "cu-khi"
+description: "Còn gọi là vương tùng, hồng bì núi, xì hắc, cút khí."
 ---
 
 

@@ -8,6 +8,8 @@ keywords:
   - kim tiển thảo
   - Desmodìum styraciýolium
   - chữa bệnh sỏi túi mật
+slug: "kim-tien-thao"
+description: "Còn có tên là mắt trâu, đồng tiền lông, vảy rồng, mắt rồng."
 ---
 
 

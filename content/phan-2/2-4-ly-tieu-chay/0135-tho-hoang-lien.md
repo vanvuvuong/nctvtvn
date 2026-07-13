@@ -12,6 +12,8 @@ keywords:
   - lợi tiểu
   - chữa cảm sốt
   - dùng làm thuốc cùng một công đụng với đơn đỏ
+slug: "tho-hoang-lien"
+description: "Tên khoa học Thaỉicírum ỷoỉioỉosum D.c. Thuộc họ Mao lương Ranunculaceae."
 ---
 
 

@@ -19,6 +19,10 @@ keywords:
   - tiêu thũng
   - chữa nhức đầu
   - chữa hen suyễn
+slug: "ban-ha"
+description: "Thiên Nguyệt lịch sách Lễ ký nói: Vị thuốc này sinh vào giữa mùa hạ nên gọi là bán hạ. Bán hạ là thân rễ phơi hay sấy khô và chế biến của nhiều cây khác…"
+images:
+  - /images/15-ban-ha-vn.png
 ---
 
 _Thiên Nguyệt lịch sách Lễ ký_ nói: Vị thuốc này sinh vào giữa mùa hạ nên gọi là bán hạ. Bán hạ là thân rễ phơi hay sấy khô và chế biến của nhiều cây khác nhau, đều thuộc họ Ráy _Araceae_.

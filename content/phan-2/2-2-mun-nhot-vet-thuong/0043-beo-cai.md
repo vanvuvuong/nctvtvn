@@ -12,6 +12,8 @@ keywords:
   - chữa mụn nhọt
   - lợi tiểu tiện
   - thông kinh nguyệt
+slug: "beo-cai"
+description: "Còn gọi là đại phù bình, bèo ván, bèo tai tượng, bèo tía, thủy phù liên, đại phiêu."
 ---
 
 

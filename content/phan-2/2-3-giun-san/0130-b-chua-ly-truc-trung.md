@@ -6,6 +6,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - giun sán và ký sinh trùng
   - b. chữa lỵ trực trùng
+slug: "b-chua-ly-truc-trung"
 ---
 
 

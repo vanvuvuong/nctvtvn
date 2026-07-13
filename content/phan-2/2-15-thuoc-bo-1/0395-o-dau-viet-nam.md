@@ -7,6 +7,8 @@ keywords:
   - thuốc bổ
   - ô đầu việt nam
   - Aconitum fortunei Hemsl
+slug: "o-dau-viet-nam"
+description: "Còn gọi là củ gấu tàu, củ ấu tàu (đừng nhầm với vị hương phụ có tên là củ gấu, xem vị này), cố y (Mèo-Nghĩa Lộ)."
 ---
 
 

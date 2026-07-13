@@ -8,6 +8,8 @@ keywords:
   - quế trung quốc
   - Cinnamomum cassia Blume
   - 玉桂
+slug: "que-trung-quoc"
+description: "Còn gọi là quế nhục, ngọc thụ, quế đơn, quế bì, sambor lo veng (Cămpuchia)."
 ---
 
 

@@ -8,6 +8,8 @@ keywords:
   - kiến kỳ nam
   - Hydnophytum formicarum Jack
   - chữa các bệnh về gan
+slug: "kien-ky-nam"
+description: "Còn gọi là trái bí kỳ nam, kỳ nam kiến, ổ kiến, kỳ nam gai."
 ---
 
 

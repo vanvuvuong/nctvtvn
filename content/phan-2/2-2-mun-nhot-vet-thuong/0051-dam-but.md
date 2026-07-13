@@ -11,6 +11,8 @@ keywords:
   - Hibiscusrosa-sinensis L
   - chữa xích
   - điều kinh
+slug: "dam-but"
+description: "Còn gọi là bụp (miền Nam), xuyên can bì."
 ---
 
 

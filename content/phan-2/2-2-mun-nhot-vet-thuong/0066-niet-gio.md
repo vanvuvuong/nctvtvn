@@ -14,6 +14,8 @@ keywords:
   - kích thích bay hơi
   - chữa chứng ma phong
   - dùng làm thuốc diệt trừ sâu bọ
+slug: "niet-gio"
+description: "Còn gọi là gió niệt, gió cánh, gió miết, gió chuột, liễu kha vương, lĩnh nam nguyên hoa, cửu tin thảo, sơn miên bì, địa ba ma, độc ngư đằng."
 ---
 
 

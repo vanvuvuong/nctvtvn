@@ -8,6 +8,8 @@ benh:
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - axit chaulmoogric
+slug: "axit-chaulmoogric"
+description: "Barrowcliff và Pawer cho rằng axit chaulmoogric có một dạng hỗ biến:"
 ---
 
 

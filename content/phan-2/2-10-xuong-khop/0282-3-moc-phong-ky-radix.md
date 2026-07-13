@@ -7,6 +7,8 @@ keywords:
   - xương khớp và tê thấp
   - 3. mộc phòng kỷ (radĩx
   - chữa những bệnh như các vị phòng kỷ nói trẽn
+slug: "3-moc-phong-ky-radix"
+description: "Là rế phơi hay sấy khô của cây Coccuỉus triiobus DC. thuộc họ Tiết dê Menispermaceae."
 ---
 
 

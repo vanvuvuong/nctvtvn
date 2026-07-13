@@ -11,6 +11,8 @@ keywords:
   - chữa cam tẩu mã
   - chữa viêm lợ irăng
   - chữa viêm hạch hạnh nhân
+slug: "don-thuoc-co-thanh-dai"
+description: "Bài thuốc chữa viêm lợ irăng, chảy máu: Bạch phàn (phèn chua) 40g, thanh đại 80g, hồng hoàng (asen sunfua As₂S₃) 2g, mai hoa băng phiến (bocneol) 2g. Tất…"
 ---
 
 

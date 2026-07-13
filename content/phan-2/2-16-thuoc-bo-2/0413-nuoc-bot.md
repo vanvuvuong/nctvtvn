@@ -17,6 +17,8 @@ keywords:
   - chữa khỏi bằng cách buộc chỉ
   - chữa kiểu này phải kiên trì) cháu thấy rất ngứa ở chỗ mụn
   - trị mụn mọc ở má của một thanh niên 20 xuân xanh thần tình
+slug: "nuoc-bot"
+description: "Còn gọi là nước dãi, nước miếng, thần thuỷ (nước thần), quỳnh dịch (nước ngọc), ngọc tương (nước ngọc), kim tân ngọc dịch, quỳnh dịch dưỡng sinh pháp…"
 ---
 
 

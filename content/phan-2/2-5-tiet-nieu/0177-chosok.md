@@ -11,6 +11,8 @@ keywords:
   - thông tiểu
   - chữa rắn cắn
   - làm thuốc săn
+slug: "chosok"
+description: "Chất hyperin tan trong nước, độ chảy 236- 238u."
 ---
 
 

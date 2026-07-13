@@ -11,6 +11,8 @@ keywords:
   - Wedeliacalendulacea
   - giảm đau
   - dùng làm thuốc
+slug: "sai-dat"
+description: "Còn gọi là húng trám, ngổ núi, cúc nháp, cúc giáp, hoa múc."
 ---
 
 

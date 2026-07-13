@@ -17,6 +17,8 @@ keywords:
   - chữa tràng nhạc
   - chữa ho lâu ngày
   - chữa cao huyết áp
+slug: "cay-dau"
+description: "Còn gọi là mạy môn (Thổ), dâu cang (Mèo), tầm tang."
 ---
 
 

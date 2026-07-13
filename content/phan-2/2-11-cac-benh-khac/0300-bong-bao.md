@@ -8,6 +8,8 @@ keywords:
   - bông báo
   - Thunbergia grandi
   - chữa rắn cắn rất phổ biến
+slug: "bong-bao"
+description: "Cồn gọi lủ bông xanh, đại hoa lão nha chủy, madia (Mèo)."
 ---
 
 

@@ -13,6 +13,8 @@ keywords:
   - trị dinh dưỡng
   - làm thuốc nhuận tràng
   - kích thích sinh trưởng
+slug: "ca-chua"
+description: "Còn gọi là cà dầm, tomate (Pháp)."
 ---
 
 

@@ -8,6 +8,8 @@ keywords:
   - cây chổi xuể
   - Baeckea frutescens L
   - chữa cảm cúm
+slug: "cay-choi-xue"
+description: "Còn gọi là cây chổi sể, thanh hao."
 ---
 
 

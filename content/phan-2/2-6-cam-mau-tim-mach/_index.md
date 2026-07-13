@@ -1,7 +1,9 @@
 ---
-title: "II.VI - CẦM MÁU VÀ CHỮA BỆNH TIM MẠCH"
-description: "CÁC CÂY THUỐC VÀ VỊ THUỐC CẦM MÁU VÀ CHỮA BỆNH TIM MẠCH"
+title: Cầm máu và chữa bệnh tim mạch
+weight: 6
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+slug: "cam-mau-va-chua-benh-tim-mach"
+description: "Các cây thuốc và vị thuốc chữa cầm máu và chữa bệnh tim mạch"
 ---
 
 ## VI. CÁC CÂY THUỐC VÀ VỊ THUỐC CẦM MÁU VÀ CHỮA BỆNH TIM MẠCH
@@ -22,7 +24,7 @@ Nhiều người nghiên cứu, nhưng báo cáo chưa thống nhất.
 
 2. Năm 1939-1940 và 1950 Ngô Vân Thùy và Cừu Tác Lâm đã nghiên cứu lấy ở long nha thảo một chất màu đỏ nâu gọì là agrimonim (có C, H, N, O) và nhiều axit tanic.
 
-3.Năm 1958, theo báo Hóa học thế giới (1-7-1958), các tác giả Hứa Thực Phương và Lưu Tinh Giai đã chiết xuất từ long nha thảo được các chất sau đây:
+3. Năm 1958, theo báo Hóa học thế giới (1-7-1958), các tác giả Hứa Thực Phương và Lưu Tinh Giai đã chiết xuất từ long nha thảo được các chất sau đây:
 
 a) Chất agrimonin A có tinh thể màu trắng, độ chảy 288°-290°, công thức thô tạm định là C₂₉H₄₉O₅, có tính chất một sterol;
 
@@ -79,4 +81,3 @@ Long nha thảo tố và cao lỏng đương quy chế thành thuốc viên, ng�
 Dung dịch ái mẫu ninh:
 
 Ngày uống 3 lần, mỗi lần 1 thìa con.
-

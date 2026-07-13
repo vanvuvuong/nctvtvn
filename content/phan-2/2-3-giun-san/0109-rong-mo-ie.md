@@ -9,6 +9,8 @@ keywords:
   - Sargassum
   - tiêu đờm
   - chữa bướu cổ
+slug: "rong-mo-ie"
+description: "Còn gọi là loại rau ma vĩ, rau ngoai, rau mơ - hải tảo, rong biển."
 ---
 
 

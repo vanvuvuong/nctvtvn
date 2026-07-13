@@ -10,6 +10,8 @@ keywords:
   - thuốc tẩy
   - chữa bệnh táo bón
   - làm thuốc nhuận tràng
+slug: "chut-chit"
+description: "Còn gọi là trút trít, lưỡi bò, ngưu thiệt, dương đề."
 ---
 
 

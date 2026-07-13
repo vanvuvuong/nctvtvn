@@ -15,6 +15,8 @@ keywords:
   - chữa tiêu hoá kém
   - chữa hôi miệng sâu răng
   - chữa những vết do đỉa cắn
+slug: "cay-ban-5"
+description: "Còn gọi là điền cơ vương, điền cơ hoàng, địa nhĩ thảo, dạ quan môn, nọc sởi, bioc lương, châm hương."
 ---
 
 

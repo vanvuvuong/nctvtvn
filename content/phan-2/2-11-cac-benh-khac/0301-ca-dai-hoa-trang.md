@@ -7,6 +7,8 @@ keywords:
   - rắn cắn, giải độc và các bệnh khác
   - cà dại hoa trắng
   - Solanum torvum Swartz
+slug: "ca-dai-hoa-trang"
+description: "Cỏn gọi là cà pháo, trăng lao (Buôn ma thuột)."
 ---
 
 

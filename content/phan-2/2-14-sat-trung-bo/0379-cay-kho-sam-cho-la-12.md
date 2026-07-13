@@ -8,6 +8,8 @@ keywords:
   - cây khổ sâm cho lá (1)[2
   - Croton tonkinensis Gagnep
   - chữa đau dạ dày
+slug: "cay-kho-sam-cho-la-12"
+description: "Tên khoa học Croton tonkinensis Gagnep"
 ---
 
 

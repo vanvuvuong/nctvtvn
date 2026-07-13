@@ -15,6 +15,8 @@ keywords:
   - chữa một số bệnh ngoài da
   - chữa các khối u cho nên khi mua dừa cạn
   - chữa bệnh đái đường được ghi nhận ở ấn độ
+slug: "cay-dua-can"
+description: "Còn gọi là trường xuân, hoa hải đằng, bông dừa, dương giác, pervenche de Madagascar."
 ---
 
 

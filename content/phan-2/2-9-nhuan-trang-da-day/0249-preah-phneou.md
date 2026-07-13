@@ -8,6 +8,8 @@ keywords:
   - preah phneou
   - Terminalia nigrovenulosa Pierre
   - chữa đi ỉa lỏng
+slug: "preah-phneou"
+description: "Còn gọi là Chiều liêu, preas phnau, pras phneou (Campuchia)"
 ---
 
 

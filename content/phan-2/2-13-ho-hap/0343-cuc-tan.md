@@ -10,6 +10,8 @@ keywords:
   - chữa lỵ
   - chữa đau
   - chữa cảm sốt
+slug: "cuc-tan"
+description: "Còn gọi là từ bi, cây lức, nan luật (Viêntian), pros anlok, pras anlok (Cămpuchia)."
 ---
 
 

@@ -13,6 +13,10 @@ keywords:
   - 白侗女
   - chữa bệnh khí hư
   - chữa bệnh vàng da
+slug: "bach-dong-nu"
+description: "Còn gọi là bần trắng, vậy trắng, mấn trắng, mò trắng."
+images:
+  - /images/8-bach-dong-nu.png
 ---
 
 _Còn gọi là_ bần trắng, vậy trắng, mấn trắng, mò trắng.

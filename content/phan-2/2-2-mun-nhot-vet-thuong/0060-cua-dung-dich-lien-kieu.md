@@ -16,6 +16,8 @@ keywords:
   - chữa sang thũng
   - thông tiểu tiện
   - thông kinh nguyệt
+slug: "cua-dung-dich-lien-kieu"
+description: "Vi trùng lỵ Shiga 1:640"
 ---
 
 

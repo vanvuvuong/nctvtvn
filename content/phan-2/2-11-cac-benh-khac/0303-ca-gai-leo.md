@@ -11,6 +11,8 @@ keywords:
   - chữa say rượu
   - chữa bệnh lậu
   - chữa phong thấp
+slug: "ca-gai-leo"
+description: "Còn ẹọi là cà quính, cà quánh, trap khar (Campuchia), Blou xít (Lào)."
 ---
 
 

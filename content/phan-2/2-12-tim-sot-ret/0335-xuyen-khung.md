@@ -13,6 +13,8 @@ keywords:
   - chữa thiên đầu thống
   - chữa kinh nguyệt không đều
   - chữa những triệu chứng nhức đẩu
+slug: "xuyen-khung"
+description: "Còn gọi là khung cùng, tang ky."
 ---
 
 

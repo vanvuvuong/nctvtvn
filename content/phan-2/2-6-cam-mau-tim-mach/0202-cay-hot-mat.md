@@ -9,6 +9,8 @@ keywords:
   - Antheroporum pierrei Gagnep
   - dùng làm thuốc
   - làm thuốc trừ sâu bọ hại hoa màu
+slug: "cay-hot-mat"
+description: "Còn gọi là cây xa, thàn mát."
 ---
 
 

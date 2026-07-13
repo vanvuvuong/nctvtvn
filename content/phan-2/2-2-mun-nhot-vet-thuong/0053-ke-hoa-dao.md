@@ -10,6 +10,8 @@ keywords:
   - ké hoa đào
   - Vrenalobata L
   - chữa lỵ
+slug: "ke-hoa-dao"
+description: "Còn gọi là Phan thiên hoa, tiêu phan thiên hoa, nha khac mòn (Thái), bái lương, bái cúc, vái, địa đào hoa, niêm du tử, dã miên hoa."
 ---
 
 

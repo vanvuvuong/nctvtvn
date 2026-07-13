@@ -7,6 +7,8 @@ keywords:
   - giãn cơ và thuốc độc
   - mắc kẹn
   - Aesculus sinensis Bunge
+slug: "mac-ken"
+description: "Còn gọi là bàm bàm, ma keyeng, may kho, marronier."
 ---
 
 

@@ -12,6 +12,8 @@ keywords:
   - chữa xích bạch ly
   - chữa bệnh hoàng đản
   - chữa đau bụng đi ỉa lỏng
+slug: "mang-cut"
+description: "Còn gọi là sơn trúc tử, mangoustanier."
 ---
 
 

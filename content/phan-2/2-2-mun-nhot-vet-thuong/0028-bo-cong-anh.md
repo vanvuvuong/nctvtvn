@@ -22,6 +22,10 @@ keywords:
   - chữa bệnh sưng vú
   - chữa bệnh đau dạ dày
   - chữa ăn uống kém tiêu
+slug: "bo-cong-anh"
+description: "Tên bồ công anh được dùng để chỉ ít nhất 3 cây khác nhau đều có mọc ở nước ta, cần chú ý tránh nhầm lẫn:"
+images:
+  - /images/35-bo-cong-anh-viet-nam.png
 ---
 
 Tên bồ công anh được dùng để chỉ ít nhất 3 cây khác nhau đều có mọc ở nước ta, cần chú ý tránh nhầm lẫn:

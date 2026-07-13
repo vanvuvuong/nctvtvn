@@ -11,6 +11,8 @@ keywords:
   - chữa cảm mạo
   - chữa hen suyễn
   - dùng làm thuốc thanh nhiệt sơ khởi
+slug: "dau-si"
+description: "Còn gọi là đạm đậu sị, đỗ đậu sị, hăm đậu sị."
 ---
 
 

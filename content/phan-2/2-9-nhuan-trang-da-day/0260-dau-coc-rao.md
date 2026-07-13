@@ -9,6 +9,8 @@ keywords:
   - Jatropha curcas L
   - chữa tê liệt
   - chữa thấp khớp
+slug: "dau-coc-rao"
+description: "Còn gọi là ba đậu mè, ba đậu nam, dầu mè, cốc dầu, vong dầu ngô, đồng thụ lohong, kuang, vao (Cămpuchia), nhao (Viên tian), grand pignon d’Inde, fève…"
 ---
 
 

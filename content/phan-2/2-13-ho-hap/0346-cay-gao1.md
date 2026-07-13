@@ -9,6 +9,8 @@ keywords:
   - Sarcocephalus cordatus Miq
   - chữa sốt
   - chữa xơ gan cổ trướng vỏ gáo
+slug: "cay-gao1"
+description: "Tên khoa học Sarcocephalus cordatus Miq."
 ---
 
 

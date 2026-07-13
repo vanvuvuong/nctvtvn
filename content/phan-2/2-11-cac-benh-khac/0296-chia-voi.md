@@ -10,6 +10,8 @@ keywords:
   - chữa thấp khớp
   - dùng làm thuốc tẩy mạnh
   - dùng làm thuốc gồm thản rễ
+slug: "chia-voi"
+description: "Còn gọi là bình vôi, bạch phấn đẳng, turbith vcgeial."
 ---
 
 

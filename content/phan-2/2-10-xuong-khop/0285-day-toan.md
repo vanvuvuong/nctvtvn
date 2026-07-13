@@ -8,6 +8,8 @@ keywords:
   - dây toàn
   - Solanum du
   - dùng làm thuốc lọc máu
+slug: "day-toan"
+description: "Còn gọi là già căn, douce amère."
 ---
 
 

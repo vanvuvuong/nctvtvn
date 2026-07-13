@@ -8,6 +8,8 @@ keywords:
   - thàn mát
   - Milletia ichthyochtona Drake
   - dùng làm thuốc trừ sâu bọ hại mùa màng
+slug: "than-mat"
+description: "Còn gọi là mác bát, hột mát, duốc cá, thăn mút."
 ---
 
 

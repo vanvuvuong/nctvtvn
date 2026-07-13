@@ -10,6 +10,8 @@ keywords:
   - đơn thuốc có huyết kiệt
   - chữa đẻ xong
   - chữa vết thương chảy máu
+slug: "don-thuoc-co-huyet-kiet"
+description: "Chữa vết thương chảy máu: Tán huyết kiệt rắc vào."
 ---
 
 

@@ -17,6 +17,8 @@ keywords:
   - dùng làm thuốc thông đại
   - chữa tinh thần phân liệt
   - thông mật đôi khi có tác dụng ra giun
+slug: "khien-nguu"
+description: "Còn gọi là hắc sửu, bạch sửu, bìm bìm biếc, kalađana (Ấn Độ)."
 ---
 
 

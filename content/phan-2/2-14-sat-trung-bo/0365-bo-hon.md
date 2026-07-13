@@ -10,6 +10,8 @@ keywords:
   - 無患子
   - trừ đờm
   - chữa hôi miệng
+slug: "bo-hon"
+description: "Còn gọi là bòn hòn, vô hoạn, thụ, lai patt (dân tộc núi Bà Rá-Biên Hoà), savonnier (Pháp)."
 ---
 
 

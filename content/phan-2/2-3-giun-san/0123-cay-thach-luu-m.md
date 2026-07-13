@@ -14,6 +14,8 @@ keywords:
   - thuốc thông tiểu tiện
   - làm thuốc giúp sự tiêu hóa
   - lợi tiểu với tên đại phúc bì
+slug: "cay-thach-luu-m"
+description: "Còn có tên gọi là bạch lựu, tháp lựu, lựu chùa Tháp."
 ---
 
 

@@ -11,6 +11,10 @@ keywords:
   - 大青
   - Clerodendron cyrtophyllum Turcz
   - chữa sốt phát ban
+slug: "bo-may"
+description: "Còn gọi là đại thanh, đắng cay, mẩy kỳ cáy, thanh thảo tâm, bọ nẹt."
+images:
+  - /images/31-bo-may.png
 ---
 
 _Còn gọi là_ đại thanh, đắng cay, mẩy kỳ cáy, thanh thảo tâm, bọ nẹt.

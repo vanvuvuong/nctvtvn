@@ -12,6 +12,8 @@ keywords:
   - chữa sốt nóng
   - chữa bệnh viêm não
   - làm thuốc trấn tĩnh
+slug: "nguu-hoang"
+description: "Hiện ta dùng:"
 ---
 
 

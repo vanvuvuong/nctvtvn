@@ -9,6 +9,8 @@ keywords:
   - Atalantia buxifolia
   - 酒饼簕
   - chữa những bệnh về đường hô hấp
+slug: "gai-tam-xoong"
+description: "Còn gọi là cúc keo, quít gai, quít hôi, độc lực, cây gai xanh, mền tên, tửu bính lặc."
 ---
 
 

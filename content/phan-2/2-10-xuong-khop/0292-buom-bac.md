@@ -11,6 +11,8 @@ keywords:
   - lợi tiểu
   - giảm đau
   - chữa tê thấp
+slug: "buom-bac"
+description: "Còn gọi là bướm bướm, hoa bướm, bứa chừa (Thái)."
 ---
 
 

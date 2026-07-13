@@ -8,6 +8,7 @@ benh:
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có liên kiều
+slug: "don-thuoc-co-lien-kieu"
 ---
 
 

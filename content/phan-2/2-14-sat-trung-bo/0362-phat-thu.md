@@ -9,6 +9,8 @@ keywords:
   - Citrus medica L.var. sarcodactylus Sw
   - 佛手
   - chữa ho
+slug: "phat-thu"
+description: "Còn gọi là phật thủ phiến, phật thủ cam."
 ---
 
 

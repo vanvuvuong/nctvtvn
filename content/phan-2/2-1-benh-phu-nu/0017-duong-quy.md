@@ -23,6 +23,10 @@ keywords:
   - chữa thiếu máu
   - cầm máu đi lên
   - chữa thổ huyết
+slug: "duong-quy"
+description: "Còn gọi là tần quy, vân quy."
+images:
+  - /images/23-duong-quy.png
 ---
 
 _Còn gọi là_ tần quy, vân quy.

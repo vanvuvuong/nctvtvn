@@ -9,6 +9,8 @@ keywords:
   - Phaseolus angularis VVight
   - giải độc
   - tiêu thũng
+slug: "chieu"
+description: "Hoa màu vàng hay điểm những dưòmg dọc tía, mọc thành chùm ở kẽ lá. Quả dài đầu nhọn, hơi có lông, dài 4-7cm rộng 8-12mm, với 2 đến 3 vết lõm chạy chéo…"
 ---
 
 

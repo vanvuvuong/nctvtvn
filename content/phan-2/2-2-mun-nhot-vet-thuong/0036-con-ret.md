@@ -15,6 +15,8 @@ keywords:
   - chữa sang trĩ đau nhức
   - chữa tê liệt thần kinh mặt
   - chữa hàn nhiệt tích tụ trọng bụng
+slug: "con-ret"
+description: "Còn có tên là ngô công, thiên long, bách túc trùng, bách cước. Tên khoa học Scolopendra morsitans L. Thuộc họ Ngô công Scolopendridae. Ngô công là toàn…"
 ---
 
 

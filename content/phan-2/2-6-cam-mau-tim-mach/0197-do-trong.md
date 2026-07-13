@@ -11,6 +11,8 @@ keywords:
   - chữa đau lưng
   - chữa các bệnh
   - trị bệnh cao huyết áp
+slug: "do-trong"
+description: "Tên khoa học Eucommia ulmoides Oliv."
 ---
 
 

@@ -14,6 +14,8 @@ keywords:
   - dùng làm thuốc bổ
   - chữa di mộng tinh
   - chữa bệnh về thần kinh với những triệu chứng như lo âu
+slug: "kim-anh"
+description: "Còn gọi là thích lê tử, đường quân tử."
 ---
 
 

@@ -1,8 +1,10 @@
 ---
 title: I. Phần chung
-description: Thuốc đông (bao gồm cả thuốc nam và thuốc bắc) là những vị thuốc kinh nghiệm của ông cha ta, có tác dụng chữa bệnh tốt, dễ kiếm, lại rẻ tiền, việc sử dụng tương đối dễ dùng, nhưng việc sử dụng chỉ mới dựa vào kinh nghiệm và học thuyết âm dương ngũ hành của triết học phương đông còn ít người hiểu, phần lớn chưa được giải thích bằng cơ sở khoa học hiện đại
+
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 navWeight: 100
+description: "Thuốc đông (bao gồm cả thuốc nam và thuốc bắc) là những vị thuốc kinh nghiệm của ông cha ta, có tác dụng chữa bệnh tốt, dễ kiếm, lại rẻ tiền, việc sử dụng…"
+slug: "i-phan-chung"
 ---
 
 # Phần I: PHẦN CHUNG

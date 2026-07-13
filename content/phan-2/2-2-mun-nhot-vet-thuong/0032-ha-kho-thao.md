@@ -20,6 +20,8 @@ keywords:
   - hạ huyết áp lâu dài trên bệnh nhân
   - lợi tiểu rõ rệt như các muối kali khác
   - chữa bệnh nhức mắt rất công hiệu như sau
+slug: "ha-kho-thao"
+description: "Tên khoa học Brunella (Prunella) vulgaris L. Thuộc họ Hoa môi Lamiaceae. Ta dùng cụm hoa và quả phơi hay sấy khô (Flos Brunellae cum Fructu) của cây hạ…"
 ---
 
 

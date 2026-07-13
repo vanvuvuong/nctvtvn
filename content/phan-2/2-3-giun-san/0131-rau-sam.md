@@ -9,6 +9,8 @@ keywords:
   - Portulaca oleracea L
   - giải độc
   - chữa bệnh cước khí thủy thủng
+slug: "rau-sam"
+description: "Cùn gọi là mã xỉ hiện, pourpier."
 ---
 
 

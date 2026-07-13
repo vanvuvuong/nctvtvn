@@ -8,6 +8,8 @@ keywords:
   - lõi tiển
   - Stephania ỉonga Lour
   - chữa các triệu chúng tiểu tiện khó khăn
+slug: "loi-tien"
+description: "Còn gọi lả phấn cơ đốc."
 ---
 
 

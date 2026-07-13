@@ -14,6 +14,8 @@ keywords:
   - chữa mụn nhọt
   - chữa trĩ lòi dom
   - chữa các vết loét
+slug: "hat-gac"
+description: "Còn gọi là mộc tất tử, thổ mộc miết, mộc biệt tử, mắc cao (Viêntian), Mákhâu (Thái), Mắc khấu (Thổ)."
 ---
 
 

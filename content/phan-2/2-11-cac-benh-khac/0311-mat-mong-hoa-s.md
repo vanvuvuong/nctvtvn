@@ -14,6 +14,8 @@ keywords:
   - chữa bệnh scobut
   - chữa hóc xương gà
   - chữa bệnh nhức đẩu
+slug: "mat-mong-hoa-s"
+description: "Còn gọi ìà mông hoa, lão mật mông hoa, lão mông hoa, hoa mật mồng."
 ---
 
 

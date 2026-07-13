@@ -6,6 +6,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - tim và sốt rét
   - xvii. các cây thuốc và vị thuốc chữa cảm sốt
+slug: "xvii-cac-cay-thuoc-va-vi-thuoc-chua-cam-sot"
 ---
 
 

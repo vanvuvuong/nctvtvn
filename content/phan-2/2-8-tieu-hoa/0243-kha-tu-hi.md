@@ -10,6 +10,8 @@ keywords:
   - chữa lỵ kinh niên
   - chữa ho mất tiếng
   - chữa đi ỉa lỏng lâu ngày
+slug: "kha-tu-hi"
+description: "Còn gọi là cây chiều liêu, myrobolan de coin- merce ."
 ---
 
 

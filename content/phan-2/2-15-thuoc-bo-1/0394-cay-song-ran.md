@@ -7,6 +7,8 @@ keywords:
   - thuốc bổ
   - cây sóng rắn
   - Albizzia myriophylla Benth
+slug: "cay-song-ran"
+description: "Còn gọi là sóng rận, sóng rắn nhiều lá."
 ---
 
 

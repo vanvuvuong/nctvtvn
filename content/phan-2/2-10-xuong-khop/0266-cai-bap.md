@@ -12,6 +12,8 @@ keywords:
   - chữa đầu choáng mắt hoa
   - làm thuốc chửa thong manh
   - chữa bệnh đau dạ dày thừa nước chua
+slug: "cai-bap"
+description: "Tên khoa học Brơssica oỉeracea L. var capitata DC."
 ---
 
 

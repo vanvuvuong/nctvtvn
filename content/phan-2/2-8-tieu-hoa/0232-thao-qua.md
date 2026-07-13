@@ -13,6 +13,8 @@ keywords:
   - chữa đau bụng
   - chữa hôi miệng
   - dùng làm thuốc kiện tỳ
+slug: "thao-qua"
+description: "Còn gọi ìà đò ho, tò ho, mac hâu, may mac hâu (Thái)."
 ---
 
 

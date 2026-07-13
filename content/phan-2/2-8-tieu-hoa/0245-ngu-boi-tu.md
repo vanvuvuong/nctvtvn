@@ -11,6 +11,8 @@ keywords:
   - chữa phế hư sinh ho
   - chữa đau bụng đi ỉa lỏng
   - dùng làm thuốc thu liễm trang bệnh đi ỉa lỏng
+slug: "ngu-boi-tu"
+description: "cỏn gọi là bầu bí, mãc piêt, bơ pật (Thái)."
 ---
 
 

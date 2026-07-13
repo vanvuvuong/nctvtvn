@@ -8,6 +8,8 @@ keywords:
   - cổ giải
   - Milletia sp
   - dùng làm thuốc diệt ruồi
+slug: "co-giai"
+description: "Tên khoa học Milletia sp."
 ---
 
 

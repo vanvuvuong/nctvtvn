@@ -7,6 +7,8 @@ keywords:
   - rắn cắn, giải độc và các bệnh khác
   - cây thông thiên iiĩêaitth
   - Thevelia neriifo
+slug: "cay-thong-thien-iiieaitth"
+description: "Còn gọi là hoàng hoa giáp trúc đào, laurier jaune, -noix de serpent, yellow oleanđer, bois à lait."
 ---
 
 

@@ -14,6 +14,8 @@ keywords:
   - chữa mụn nhọt
   - thông tiểu tiện
   - chữa tai điếc rất tốt
+slug: "cay-coi-xay"
+description: "Còn gọi là cây dằng xay, kim hoa thảo, ma mãnh tháo, nhĩ hương thảo."
 ---
 
 

@@ -8,6 +8,8 @@ keywords:
   - cây xa kê
   - Artocarpus incisa L
   - trị dinh duỡng cao
+slug: "cay-xa-ke"
+description: "Còn gọi là cây bánh mỳ, arbre à painvrai."
 ---
 
 

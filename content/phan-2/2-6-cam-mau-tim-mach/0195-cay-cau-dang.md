@@ -9,6 +9,8 @@ keywords:
   - Uncaria rhynchophylla
   - dùng làm thuốc trấn kinh
   - chữa trẻ con hàn nhiệt kinh giản
+slug: "cay-cau-dang"
+description: "Tên khoa học Uncaria rhynchophylla (Miq) Jack."
 ---
 
 

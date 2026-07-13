@@ -11,6 +11,8 @@ keywords:
   - giải độc
   - chữa lao phổi
   - dùng làm thuốc lợi phế
+slug: "cay-mot-la"
+description: "Còn gọi là chân châu diệp, thanh thiên quỳ, Slam lài, bâu thoọc, kíp lầu (Quảng Hoa-Cao Bằng)."
 ---
 
 

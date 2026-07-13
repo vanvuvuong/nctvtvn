@@ -13,6 +13,10 @@ keywords:
   - 馬缨丹
   - chữa bệnh phụ nữ bị rong huyết
   - chữa viêm xoang mũi dị ứng mới phát hiện
+slug: "cay-hoa-cut-lon"
+description: "Còn có tên là cây hoa ngũ sắc, cây hoa ngũ vị, cỏ hôi."
+images:
+  - /images/14-cay-cut-lon.png
 ---
 
 _Còn có tên là_ cây hoa ngũ sắc, cây hoa ngũ vị, cỏ hôi.

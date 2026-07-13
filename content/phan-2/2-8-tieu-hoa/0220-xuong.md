@@ -17,6 +17,8 @@ keywords:
   - trị phong hàn tê thấp
   - chữa thần kinh suy nhược
   - dùng làm thuốc điểu hòa nhịp tim
+slug: "xuong"
+description: "Còn gọi lá thạch xương bồ, thuỷ xương bồ."
 ---
 
 

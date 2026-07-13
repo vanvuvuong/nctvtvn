@@ -9,6 +9,8 @@ keywords:
   - Plantago asiatica L
   - thuốc lợi tiếu
   - chữa ho tiểu đờm
+slug: "v-cac-cay-thuoc-va-vi-thuoc-thong-tieu-tien-va-thong-mat"
+description: "()(\\)()Còn gọi là mã đề thảo, xa tiển, nhả én, dứt (Thái) su ma (Thổ)."
 ---
 
 

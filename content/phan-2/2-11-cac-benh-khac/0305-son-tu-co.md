@@ -12,6 +12,8 @@ keywords:
   - chữa ung thũng
   - chữa ngộ độc thức ăn
   - chữa ngộ độc thức ẫn
+slug: "son-tu-co"
+description: "Còn gọi là mao từ cô."
 ---
 
 

@@ -15,6 +15,8 @@ keywords:
   - chữa đinh râu
   - chữa bệnh gan
   - thông tiểu tiện
+slug: "cho-de-rang-cua"
+description: "Còn gọi là diệp hạ châu, diệp hòe thái, lão nha châu, prak phle (Cămpuchia)."
 ---
 
 

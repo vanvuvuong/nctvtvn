@@ -11,6 +11,8 @@ keywords:
   - chữa rắn cắn
   - chữa đau bụng
   - chữa nhức đâu
+slug: "mang-tang-o-mi"
+description: "Còn gọi là tất trừng già."
 ---
 
 

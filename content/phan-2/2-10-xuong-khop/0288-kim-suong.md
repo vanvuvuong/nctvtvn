@@ -10,6 +10,8 @@ keywords:
   - chữa tê thấp
   - chữa đau nhức
   - chữa kinh nguyệt không đều
+slug: "kim-suong"
+description: "Cỏn gọi là mán chỉ, đôi cầy, chàm hôi, tráng, ớt rừng, lãng ớt, mak so mát, may bi canh, mak khèn (Lào), hang chang (Mường), tomlay khouang, leai sma…"
 ---
 
 

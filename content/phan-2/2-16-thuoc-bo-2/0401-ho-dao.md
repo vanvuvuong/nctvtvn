@@ -18,6 +18,8 @@ keywords:
   - lợi tiểu tiện
   - chữa đau lưng
   - chữa 5 chứng trĩ
+slug: "ho-dao"
+description: "Còn gọi là hạnh đào, hoàng đào, óc chó, cát tuế tử, phan la tư."
 ---
 
 

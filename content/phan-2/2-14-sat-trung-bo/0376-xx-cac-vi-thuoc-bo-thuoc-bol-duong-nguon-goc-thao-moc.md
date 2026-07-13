@@ -6,6 +6,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - sát trùng và thuốc bổ
   - xx. các vị thuốc bổ, thuốc bồl dưỡng nguốn gốc thảo mộc
+slug: "xx-cac-vi-thuoc-bo-thuoc-bol-duong-nguon-goc-thao-moc"
 ---
 
 

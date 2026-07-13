@@ -14,6 +14,8 @@ keywords:
   - chữa chứng nhức óc
   - chữa trẻ con ghẻ lờ
   - chữa chứng âm hộ lạnh
+slug: "cao-ban"
+description: "Cảo bản là một vị thuốc tuơng đối thông dụng trong đông y. Vì gốc cây như gốc lúa (cào - lúa, bản - gốc) do đó có tên cảo bản. Trên thị trường có 2 loại…"
 ---
 
 

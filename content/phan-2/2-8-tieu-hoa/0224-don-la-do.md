@@ -12,6 +12,8 @@ keywords:
   - chữa mụn nhọt mẩn ngứa
   - chữa đi ỉa lỏng lâu ngày
   - chữa đi ỉa lòng lâu ngày
+slug: "don-la-do"
+description: "Còn gọi là đơn tướng quân, đơn tía. mặt quỉ, hồng bối quế hoa."
 ---
 
 

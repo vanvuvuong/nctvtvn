@@ -9,6 +9,8 @@ keywords:
   - Cordyline terminalis Kunth
   - cầm máu
   - chữa lỵ
+slug: "cay-huyet-du"
+description: "Tên khoa học Cordyline terminalis Kunth (Dracaena terminalis Jacq.)."
 ---
 
 

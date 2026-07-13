@@ -12,6 +12,8 @@ keywords:
   - chữa chốc đầu
   - chữa chảy máu cam
   - chữa chảy máu chân răng
+slug: "bach-thao-suong"
+description: "Còn gọi là oa đề khôi, nhọ nồi."
 ---
 
 

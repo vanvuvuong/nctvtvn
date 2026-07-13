@@ -10,6 +10,8 @@ keywords:
   - bạch hạc
   - Rhinacanthus nasuta
   - chữa bệnh hắc lào
+slug: "bach-hac"
+description: "Còn gọi là cây lác, thuốc lá nhỏ lá, cây kiên cò, nam uy linh tiên."
 ---
 
 

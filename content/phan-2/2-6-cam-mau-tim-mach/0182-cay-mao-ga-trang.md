@@ -11,6 +11,8 @@ keywords:
   - chữa ỉa lỏng
   - làm thuốc thu liễm
   - chữa phong nhiệt làm mắt đau
+slug: "cay-mao-ga-trang"
+description: "Còn có tên bông mồng gà trắng, đuôi lươn, dã kê quan, thanh tương tử."
 ---
 
 

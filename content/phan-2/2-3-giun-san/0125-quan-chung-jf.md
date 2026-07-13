@@ -15,6 +15,8 @@ keywords:
   - chữa băng huyết
   - trị bạch thốn trùng
   - tẩy sán như loài dương xỉ đực
+slug: "quan-chung-jf"
+description: "Quán chúng là một vị thuốc tương đối hay dùng trong đông y. Tuy nhiên nguồn gốc rất phức tạp và chưa thông nhất. Trước đây căn cứ vào các tài liệu của…"
 ---
 
 

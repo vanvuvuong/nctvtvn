@@ -9,6 +9,8 @@ keywords:
   - Enydra fluctuans Lour
   - làm thuốc
   - chữa những trường hợp ăn uống không tiêu
+slug: "rau-ngo"
+description: "Còn gọi là rau ngổ thơm, rau ngổ trâu, cúc nước, phak hom pom (Lào)."
 ---
 
 

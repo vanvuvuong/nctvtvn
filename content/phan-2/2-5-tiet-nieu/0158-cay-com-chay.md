@@ -7,6 +7,8 @@ keywords:
   - đường tiết niệu
   - cây com cháy
   - Samhucus javanica Reinw. C
+slug: "cay-com-chay"
+description: "Còn gọi là cây thuốc mọi. A. Mô tả cây"
 ---
 
 

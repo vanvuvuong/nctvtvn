@@ -8,6 +8,8 @@ keywords:
   - hương bài
   - Dianella ensifolia DC
   - làm thuốc
+slug: "huong-bai"
+description: "Còn gọi là cát cánh lan, lưỡi đòng, huệ rừng- hương lâu, rẻ quại, xường quạt, sơn gian lan."
 ---
 
 

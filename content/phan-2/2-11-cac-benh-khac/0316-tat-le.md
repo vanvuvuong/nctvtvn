@@ -7,6 +7,8 @@ keywords:
   - rắn cắn, giải độc và các bệnh khác
   - tật lê
   - chữa những bệnh nghẽn mạch
+slug: "tat-le"
+description: "Cỏn gọi là bạch tật tẻ, gai ma vương, thích tật lê, gai sầu, gai trống, gai yết hầu, herbe teưestre, saligot terrestre, herse."
 ---
 
 

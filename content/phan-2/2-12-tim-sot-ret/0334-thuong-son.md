@@ -16,6 +16,8 @@ keywords:
   - thông tiểu tiện
   - chữa bệnh sốt rét
   - chữa các chứng sốt rét
+slug: "thuong-son"
+description: "Còn gọi là hoàng thường sơn, thục tất, áp niệu thảo, kê niệu thảo."
 ---
 
 

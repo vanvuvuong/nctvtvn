@@ -17,6 +17,8 @@ keywords:
   - chữa hư lao gầy yếu
   - chữa sang thương thũng độc
   - bổ thận tráng dương ôn trung
+slug: "xxi-cac-vi-thuoc-bo-nguon-goc-dong-vat"
+description: "LỘC NHUNG, MÊ NHUNG 鹿茸"
 ---
 
 

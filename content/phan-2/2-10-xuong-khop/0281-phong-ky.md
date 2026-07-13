@@ -7,6 +7,8 @@ keywords:
   - xương khớp và tê thấp
   - phòng kỷ
   - chữa những bệnh như thủy thũng
+slug: "phong-ky"
+description: "Còn gọi là hán phòng kỷ, quảng phòng kỷ, mộc phòng kỷ, phấn phòng kỷ, hán trung phòng kỷ."
 ---
 
 

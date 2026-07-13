@@ -12,6 +12,8 @@ keywords:
   - chữa các bệnh về phổi
   - chữa chứng lợm giọng buồn nôn
   - chữa trẻ con bú vào lại trớ ra
+slug: "dau-khau"
+description: "Cò tỉ gọi là bạch đậu khấu, viên đậu khấu."
 ---
 
 

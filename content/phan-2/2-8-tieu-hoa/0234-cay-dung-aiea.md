@@ -11,6 +11,8 @@ keywords:
   - chữa đau bụnc
   - chữa đau bụng
   - chữa đau dạ đày có tăng toan
+slug: "cay-dung-aiea"
+description: "Còn gụi là chè lang, chè dại, duôì gia, chè dung."
 ---
 
 

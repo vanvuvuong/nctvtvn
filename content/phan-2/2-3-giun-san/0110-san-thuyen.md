@@ -8,6 +8,8 @@ keywords:
   - sắn thuyền
   - Syiygium resinosum
   - chữa những vết thương nhiễm trùng thông thường
+slug: "san-thuyen"
+description: "Còn gọi là sán sàm thuyền."
 ---
 
 

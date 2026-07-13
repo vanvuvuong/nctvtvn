@@ -10,6 +10,8 @@ keywords:
   - chữa ho
   - làm thuốc
   - chữa đau mắt
+slug: "cai-cuc"
+description: "Còn gọi là rau cúc, cúc tần ô, đồng hao (T. Q.), chrysanthème des jardins, chrysan thème à couronne."
 ---
 
 

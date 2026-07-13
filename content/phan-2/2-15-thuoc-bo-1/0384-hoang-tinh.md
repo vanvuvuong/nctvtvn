@@ -15,6 +15,8 @@ keywords:
   - chữa tì vị hư nhược
   - làm thuốc bổ ngũ lao
   - thuốc bổ dùng cho người yếu
+slug: "hoang-tinh"
+description: "Còn gọi là củ cây cơm nếp (Lào Cai) woòng sính, kim thị hoàng tinh, cứu hoang thảo, koesd ka sat pa (Mèo Xiêng Khoảng)."
 ---
 
 

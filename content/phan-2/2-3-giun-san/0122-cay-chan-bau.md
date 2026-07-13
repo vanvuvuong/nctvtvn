@@ -11,6 +11,8 @@ keywords:
   - chữa giun rõ rệt
   - làm thuốc giun như trên
   - chữa trâu bò ngựa gầy gò
+slug: "cay-chan-bau"
+description: "Còn có tên ìà cây chưng bầu, song ke (tên Cãmpuchia)."
 ---
 
 

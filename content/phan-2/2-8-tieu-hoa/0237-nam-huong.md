@@ -9,6 +9,8 @@ keywords:
   - Lentinus edodes
   - chữa lỵ
   - trị cao trên thị
+slug: "nam-huong"
+description: "Còn gọi là bioc hom, lét lang. ịpỉeurotaceae)."
 ---
 
 

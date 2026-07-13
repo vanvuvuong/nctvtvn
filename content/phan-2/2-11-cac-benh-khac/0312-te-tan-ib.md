@@ -8,6 +8,8 @@ keywords:
   - tế tân ib¥
   - Asarum sieb
   - chữa cảm lạnh
+slug: "te-tan-ib"
+description: "Tên khoa học Asarum siebũlíỉii Miq."
 ---
 
 

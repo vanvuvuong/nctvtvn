@@ -13,6 +13,8 @@ keywords:
   - chữa sốt
   - chữa mụn nhọt
   - làm thuốc tẩy
+slug: "bay-la-mot-hoa"
+description: "Còn gọi là thất diệp thất chi hoa, độc cước liên, thiết đăng đài, chi hoa đầu, tảo hưu, thảo hà xa."
 ---
 
 

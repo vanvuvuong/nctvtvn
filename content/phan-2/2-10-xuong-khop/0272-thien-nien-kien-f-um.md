@@ -11,6 +11,8 @@ keywords:
   - chữa đau xương
   - chữa đau khớp xương
   - giải độc do thủy ngân
+slug: "thien-nien-kien-f-um"
+description: "Còn gọi ỉà sơn thục."
 ---
 
 

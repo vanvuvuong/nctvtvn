@@ -8,6 +8,8 @@ keywords:
   - khế rùng
   - Rourea microphyl
   - chữa tiểu tiện khó khăn
+slug: "khe-rung"
+description: "Còn gọi là dây quai xanh, cây cháy nhà."
 ---
 
 

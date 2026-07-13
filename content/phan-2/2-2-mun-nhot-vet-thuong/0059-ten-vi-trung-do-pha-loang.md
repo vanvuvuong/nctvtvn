@@ -8,6 +8,7 @@ benh:
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - tên vi trùng độ pha loãng
+slug: "ten-vi-trung-do-pha-loang"
 ---
 
 

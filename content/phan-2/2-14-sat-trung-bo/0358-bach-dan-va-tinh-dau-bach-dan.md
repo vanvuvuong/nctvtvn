@@ -11,6 +11,8 @@ keywords:
   - chữa ho
   - làm thuốc ra
   - làm thuốc nhỏ mũi
+slug: "bach-dan-va-tinh-dau-bach-dan"
+description: "Còn gọi là cây khuynh diệp."
 ---
 
 

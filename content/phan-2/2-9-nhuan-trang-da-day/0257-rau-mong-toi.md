@@ -13,6 +13,8 @@ keywords:
   - trị hoạt trung
   - chữa vú sưng nứt
   - chữa trẻ con bị táo bón
+slug: "rau-mong-toi"
+description: "Còn gọi là mồng tơi dỏ, mồng tơi tía, lạc quỳ, phak pang (Lào)"
 ---
 
 

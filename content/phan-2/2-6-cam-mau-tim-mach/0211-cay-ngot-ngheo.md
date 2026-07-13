@@ -12,6 +12,8 @@ keywords:
   - chữa rắn cắn
   - chữa mụn nhọt
   - cầm máu như vị tam thất
+slug: "cay-ngot-ngheo"
+description: "Còn gọi là nghẽo nghọt, roi, cỏ củ nhú nhoái, vinh quang rực rỡ, phan ma ha (Lào), var sleng đông đang (Cămpuchia)..."
 ---
 
 

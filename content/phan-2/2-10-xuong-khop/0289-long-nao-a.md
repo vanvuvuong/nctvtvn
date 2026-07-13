@@ -10,6 +10,8 @@ keywords:
   - sát trùng
   - tiêu viêm
   - kích thích
+slug: "long-nao-a"
+description: "Còn gọi ìà chương não, rã hương, may khao khinh (Lầo)."
 ---
 
 

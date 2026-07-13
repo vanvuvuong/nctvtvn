@@ -10,6 +10,8 @@ keywords:
   - liên kiều
   - Porsythiasuspensa Vahl. Thu
   - dùng làm thuốc có khi người ta chia làm thanh kiều
+slug: "lien-kieu"
+description: "Còn gọi là trúc can, hoàng thọ đan, hạn liên tử."
 ---
 
 

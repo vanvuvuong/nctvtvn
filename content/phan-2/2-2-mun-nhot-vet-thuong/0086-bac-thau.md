@@ -12,6 +12,8 @@ keywords:
   - chữa ho
   - điều kinh
   - thông tiểu
+slug: "bac-thau"
+description: "Còn gọi là bạch hạc đằng, bạc sau, thau bạc, mô bạc, bạch hoa đằng, lú lớn (Hải Hưng)."
 ---
 
 

@@ -12,6 +12,8 @@ keywords:
   - chữa bệnh hắc lào
   - chữa bệnh ghẻ của súc vật
   - dùng làm thuốc nhuận tràng
+slug: "muong-trau"
+description: "Còn gọi là trong bhang, ana drao bhao (Buôn Mê Thuột), dâng het, tâng hét, dang hét khmoch (Cămpuchia), khi lek ban (Lào)"
 ---
 
 

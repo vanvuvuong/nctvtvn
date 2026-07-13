@@ -11,6 +11,8 @@ keywords:
   - chữa chốc lở
   - trị xuất khẩu rất cao
   - làm thuốc người ta dùng nhân hạt trẩu đốt thành than
+slug: "cay-cho-curaro"
+description: "Curarơ là những chế phẩm phức tạp chủ yếu chế từ một số cây thuộc chi Mã tiền (Strychnos) họ Mã tiền Loganiaceae như Strychnos toxifera, S. gubleri, S…"
 ---
 
 

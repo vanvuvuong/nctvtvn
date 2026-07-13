@@ -9,6 +9,8 @@ keywords:
   - Lindera myrrha
   - chữa lỵ
   - chữa đau bụng
+slug: "oduoc"
+description: "Còn gọi là cây đầu đấng, ô dược nam."
 ---
 
 

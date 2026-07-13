@@ -10,6 +10,8 @@ keywords:
   - chữa giun
   - chữa 133 người
   - trị luôn như vậy
+slug: "cay-bach-bo-wai5"
+description: "Cỏn có tên là dây đẹt ác, dây ba mươi."
 ---
 
 

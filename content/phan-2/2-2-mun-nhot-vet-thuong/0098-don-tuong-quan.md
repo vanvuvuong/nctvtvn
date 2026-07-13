@@ -11,6 +11,8 @@ keywords:
   - Syzygium formosum var
   - chữa mẩn ngứa
   - chữa viêm họng đỏ
+slug: "don-tuong-quan"
+description: "Tên khoa học Syzygium formosum var, ternifolium (Roxb) Merr. et Perry (Eugenia ternifolia Roxb., Eugenia formosa var, ternifolia (Roxb)Duth)."
 ---
 
 

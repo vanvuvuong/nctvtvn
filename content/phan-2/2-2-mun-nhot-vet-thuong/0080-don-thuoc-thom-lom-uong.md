@@ -9,6 +9,8 @@ keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc thồm lồm uống
   - chữa lỵ
+slug: "don-thuoc-thom-lom-uong"
+description: "Ngoài cách uống tự động nói ở trên, Trung Quốc người ta uống thồm lồm theo như sau:"
 ---
 
 

@@ -17,6 +17,8 @@ keywords:
   - thông tiểu tiện
   - chữa thủy thũng
   - chữa tiểu tiện khó khăn
+slug: "bac-den"
+description: "Còn có tên là đăng tâm thảo."
 ---
 
 

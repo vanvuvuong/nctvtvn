@@ -13,6 +13,8 @@ keywords:
   - chữa đau mắt
   - chữa mụn nhọt
   - chữa ho lâu ngày
+slug: "cay-rau-ma-la-rau-muong"
+description: "Còn gọi là hồng bối diệp, dương đề thảo, nhất điểm hồng, cây rau má lá rau muống cuống rau răm, tiết gà, tam tróc, rau chua lè, hoa mặt trời, lá mặt trời."
 ---
 
 

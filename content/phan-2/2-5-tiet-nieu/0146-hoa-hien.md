@@ -8,6 +8,8 @@ keywords:
   - hoa hiên
   - Hemerocaỉlỉs fuỉva. L
   - chữa đổ máu cam
+slug: "hoa-hien"
+description: "Cỏn gọi ìà hoàng hoa, kim trầm thái, huyền thảo, lêlô, lộc thông."
 ---
 
 

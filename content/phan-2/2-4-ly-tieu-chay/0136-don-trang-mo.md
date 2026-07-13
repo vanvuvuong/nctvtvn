@@ -17,6 +17,8 @@ keywords:
   - chữa trâu bò đầy trướng
   - làm thuốc người ta dùng vỏ cây
   - dùng làm thuốc cùa cây là thân rể
+slug: "don-trang-mo"
+description: "Còn gọi ìà lấu, bời lời, bồ chát, cây men sứa."
 ---
 
 

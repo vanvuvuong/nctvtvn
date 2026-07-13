@@ -16,6 +16,8 @@ keywords:
   - chữa thấp nhiệt da vàng
   - chữa những bệnh đau dạ dày
   - chữa những chồ sưng đau do ngã
+slug: "mat-gau-mbs"
+description: "Còn gọi ìà hùng đởm."
 ---
 
 

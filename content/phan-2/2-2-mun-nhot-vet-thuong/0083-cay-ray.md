@@ -12,6 +12,8 @@ keywords:
   - chữa sốt rét
   - chữa mụn nhọt
   - dùng làm thuốc
+slug: "cay-ray"
+description: "Còn gọi là cây ráy dại, dã vu."
 ---
 
 

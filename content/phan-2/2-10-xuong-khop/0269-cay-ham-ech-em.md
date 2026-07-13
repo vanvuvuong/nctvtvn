@@ -8,6 +8,8 @@ keywords:
   - cây hàm ếch =ẽm
   - Saururus sinensis Baill
   - chữa bệnh thủy thũng
+slug: "cay-ham-ech-em"
+description: "Càn có tên ì à tam bạch thảo, đường biên ngẫu {Lĩnh nam thái dược lục)."
 ---
 
 

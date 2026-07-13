@@ -16,6 +16,8 @@ keywords:
   - chữa bệnh scobut
   - chữa xích bạch đới
   - chữa viêm niệu đạo
+slug: "chua-me-dat-hoa-vang"
+description: "Cỏn gọi là tạc tương thảo, toan tương thảo, toan vị thảo, toan vị vị, chua me ba chìa, tam diệp toan."
 ---
 
 

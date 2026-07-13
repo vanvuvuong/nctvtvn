@@ -7,6 +7,8 @@ keywords:
   - rắn cắn, giải độc và các bệnh khác
   - cây mắm
   - Avicennia marina Vierh var. a
+slug: "cay-mam"
+description: "Còn gọỉ lồ mám đen, mắm trắng, paletuvier, manglier (Pháp)."
 ---
 
 

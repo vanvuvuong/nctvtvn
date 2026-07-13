@@ -6,6 +6,8 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - thuốc bổ và vị thuốc động vật
   - cây lá dứa
+slug: "cay-la-dua"
+description: "Còn gọi là lá dứa thơm, cây cơm nếp."
 ---
 
 

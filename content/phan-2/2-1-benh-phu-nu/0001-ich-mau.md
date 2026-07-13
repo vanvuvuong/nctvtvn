@@ -24,6 +24,10 @@ keywords:
   - chữa huyết áp cao
   - chữa viêm niêm mạc dạ con
   - chữa một số bệnh như sưng vú
+slug: "ich-mau"
+description: "Còn gọi là ích mẫu thảo, sung úy, chói đèn."
+images:
+  - /images/4-ich-mau-1.png
 ---
 
 _Còn gọi_ là ích mẫu thảo, sung úy, chói đèn.

@@ -12,6 +12,8 @@ keywords:
   - tiêu viêm
   - chữa vàng da do viêm gan
   - trị các chứng phù thũng toàn thân
+slug: "cay-nap-am"
+description: "Còn gọi là Trư lủng thảo, Trư tử lung (Trung Quốc), Bình nước (miền Trung và Nam Việt nam), cây bắt ruồi."
 ---
 
 

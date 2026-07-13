@@ -10,6 +10,8 @@ keywords:
   - 芹菜
   - lợi tiểu
   - chữa bệnh huyết áp
+slug: "rau-can-tay"
+description: "Tên khoa học Apium graveolens L."
 ---
 
 

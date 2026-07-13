@@ -19,6 +19,10 @@ keywords:
   - chữa ung thũng
   - chữa bệnh mụn nhọt
   - chữa bệnh viêm sưng tai giữa
+slug: "cay-diep-ca"
+description: "Còn có tên là cây lá giấp, ngư tinh thảo."
+images:
+  - /images/11-diep-ca.png
 ---
 
 _Còn có tên là_ cây lá giấp, ngư tinh thảo.

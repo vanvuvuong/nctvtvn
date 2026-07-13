@@ -8,6 +8,8 @@ keywords:
   - hồi đầu thảo
   - Schizocapsa plantaginea Hance
   - chữa huyết áp của phụ nữ
+slug: "hoi-dau-thao"
+description: "Còn gọi là vùi đầu thảo, vui sầu."
 ---
 
 

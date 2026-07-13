@@ -12,6 +12,8 @@ keywords:
   - thông kinh
   - chữa tê thấp
   - giảm đau giảm độc
+slug: "cu-cot-khi"
+description: "Còn gọi là hoạt huyết đan, tử kim long, ban trượng căn, hổ trượng căn, điền thắt (miền nam)."
 ---
 
 

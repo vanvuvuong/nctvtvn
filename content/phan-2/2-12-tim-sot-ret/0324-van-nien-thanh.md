@@ -8,6 +8,8 @@ keywords:
   - vạn niên thanh
   - Rhodea japonica Roth
   - 萬年青
+slug: "van-nien-thanh"
+description: "Còn gọi là thiên niên vận, đông bất điêu thảo, cửu tiết liên."
 ---
 
 

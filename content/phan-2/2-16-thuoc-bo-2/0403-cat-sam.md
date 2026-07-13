@@ -11,6 +11,8 @@ keywords:
   - thuốc bổ mát
   - chữa đau nhức thấp khớp
   - thuốc bổ dùng cho những người yếu
+slug: "cat-sam"
+description: "Còn gọi là sâm nam, sâm chuột, ngưu đại lực, sơn liên ngẫu, đại lực thự."
 ---
 
 

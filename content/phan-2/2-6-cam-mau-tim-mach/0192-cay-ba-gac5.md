@@ -10,6 +10,8 @@ keywords:
   - an thần
   - chữa cao huyết áp
   - trị có thể kéo dài nhưng thường
+slug: "cay-ba-gac5"
+description: "Còn có tên là la phu mộc, san to (Sapa), lạc toọc (Cao Bằng)."
 ---
 
 

@@ -8,6 +8,8 @@ benh:
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - axit hydnocacpic
+slug: "axit-hydnocacpic"
+description: "Axit hydnocacpic chảy ở 69°5 và năng suất quay cực là (α) D+69°3."
 ---
 
 

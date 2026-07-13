@@ -10,6 +10,8 @@ keywords:
   - chữa sốt rét
   - chữa đau nhức tê thấp
   - chữa kinh nguyệt không đều
+slug: "cay-den"
+description: "Còn gọi lả cây sai (Hà Bắc-Sơn Động), cây thối ruột, mảy sẳn sãn (Thổ)."
 ---
 
 

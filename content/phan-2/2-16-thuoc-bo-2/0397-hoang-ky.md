@@ -16,6 +16,8 @@ keywords:
   - chữa bệnh đậu không mọc được
   - chữa biểu hư sinh ra mồ hôi trộm
   - chữa những trường hợp lở loét mãn tính
+slug: "hoang-ky"
+description: "Hoàng kỳ (Radix Astragali) là rễ phơi hay sấy khô của cây hoàng kỳ-[Astragalus menbranaceus (Fisch) Bunge]-hay cây hoàng kỳ Mông cổ (Astragalus…"
 ---
 
 

@@ -9,6 +9,8 @@ keywords:
   - Ipomoea batatas
   - 番薯
   - làm thuốc nhuận tràng
+slug: "khoai-lang"
+description: "Còn gọi là phan chư, cam thự, hồng thự, cam chư."
 ---
 
 

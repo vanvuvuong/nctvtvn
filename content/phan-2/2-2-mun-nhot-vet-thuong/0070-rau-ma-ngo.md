@@ -11,6 +11,8 @@ keywords:
   - Polygonumperfoliatum L. Thu
   - chữa lỵ
   - chữa sốt
+slug: "rau-ma-ngo"
+description: "Còn gọi là rau sông chua dây, thồm lồm gai, giang bản quy."
 ---
 
 

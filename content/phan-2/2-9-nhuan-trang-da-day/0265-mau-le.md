@@ -13,6 +13,8 @@ keywords:
   - trị gọi là lưu hội
   - chữa kinh nguyệt không đều
   - chữa bệnh bướu cổ tên iotamin
+slug: "mau-le"
+description: "Còn gọi là vỏ hầu, vỏ hà, hầu cồn, hầu cửa sông, hà sông."
 ---
 
 

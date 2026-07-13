@@ -7,6 +7,8 @@ keywords:
   - nhuận tràng và bệnh dạ dày
   - khoai riềng
   - Canna edulis Ker
+slug: "khoai-rieng"
+description: "Còn gọi là cây dong riềng, khoai đao, khương vu, arrow - root du Queensland, fécule de Tolomane."
 ---
 
 

@@ -11,6 +11,8 @@ keywords:
   - Parthenium hysteropkorus L
   - chữa các vết loét
   - chữa bệnh sang bạch hành
+slug: "cuc-lien-chi-dai"
+description: "Còn gọi là cây chứng ếch, Camomille sauvage."
 ---
 
 

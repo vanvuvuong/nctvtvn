@@ -14,6 +14,8 @@ keywords:
   - chữa ách nghịch
   - chữa đau cổ họng
   - chữa cao huyết áp có kết quả
+slug: "thi-de"
+description: "Còn gọi là thị đinh, tai hồng, hồng."
 ---
 
 

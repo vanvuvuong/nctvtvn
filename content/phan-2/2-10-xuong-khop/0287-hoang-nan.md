@@ -14,6 +14,8 @@ keywords:
   - chữa chó dại cắn
   - làm thuốc cường dương
   - kích thích dục tính của phụ nữ
+slug: "hoang-nan"
+description: "Còn gọi là vỏ dãn, vỏ doãn."
 ---
 
 

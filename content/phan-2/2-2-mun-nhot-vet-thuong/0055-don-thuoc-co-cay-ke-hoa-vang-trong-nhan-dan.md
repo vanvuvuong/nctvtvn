@@ -14,6 +14,8 @@ keywords:
   - chữa mụn nhọt
   - làm thuốc bổ đắng
   - làm thuốc mát uống
+slug: "don-thuoc-co-cay-ke-hoa-vang-trong-nhan-dan"
+description: "Chữa mụn nhọt, sưng chín mé: Lá ké hoa vàng tươi, không kể liều lượng, rửa sạch giã nát đắp lên những nơi sưng đau, chưa vỡ mủ. Đồng thời, sao vàng một số…"
 ---
 
 

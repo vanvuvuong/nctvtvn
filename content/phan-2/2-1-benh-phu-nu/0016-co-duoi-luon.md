@@ -11,6 +11,10 @@ keywords:
   - Philydrum lanuginosum Banks
   - 田恝
   - chữa bệnh hậu sản
+slug: "co-duoi-luon"
+description: "Còn có tên là bồn bồn, điền thông Tên khoa học Philydrum lanuginosum Banks (Garciana cochinchinensis Lour). Thuộc họ Cỏ đuôi lươn Philydraceae. Tên là cỏ…"
+images:
+  - /images/22-co-duoi-luon.png
 ---
 
 _Còn có tên là_ bồn bồn, điền thông

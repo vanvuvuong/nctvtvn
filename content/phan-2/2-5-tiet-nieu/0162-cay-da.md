@@ -8,6 +8,8 @@ keywords:
   - cây đa
   - lợi tiểu đùng
   - chữa đi ngoài
+slug: "cay-da"
+description: "Tên khoa học: Ficus elastica Roxb, đa búp đỏ, bồ đề (đom pur): Ficus religiosa L. đa nhiều rể: Ficus macrophyllữ', đa tròn lá: Fỉcus ben^haỉensis L."
 ---
 
 

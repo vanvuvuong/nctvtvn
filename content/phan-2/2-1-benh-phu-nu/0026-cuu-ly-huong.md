@@ -21,6 +21,10 @@ keywords:
   - hoạt huyết tán ứ
   - thuốc đắp nơi đau nhức
   - hoạt huyết tán ứ
+slug: "cuu-ly-huong"
+description: "Còn gọi là rue fetide, văn hương."
+images:
+  - /images/33-cuu-ly-huong.png
 ---
 
 _Còn gọi là_ rue fetide, văn hương.

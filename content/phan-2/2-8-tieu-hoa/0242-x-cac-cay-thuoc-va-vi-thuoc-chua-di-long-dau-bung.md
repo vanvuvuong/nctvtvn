@@ -6,6 +6,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - đường tiêu hóa
   - x. các cây thuốc và vị thuốc chữa đi lỏng - đau bụng
+slug: "x-cac-cay-thuoc-va-vi-thuoc-chua-di-long-dau-bung"
 ---
 
 

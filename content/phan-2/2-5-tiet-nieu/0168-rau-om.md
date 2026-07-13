@@ -11,6 +11,8 @@ keywords:
   - làm thuốc
   - chữa những cơn đau thắt bụng
   - chữa sỏi thận của lương y lẽ quang tốt {rau om
+slug: "rau-om"
+description: "Còn gọi là ngổ om, mò om, ngổ, ma am (Cămpuchia), phẳp hom pôm (Lào)."
 ---
 
 

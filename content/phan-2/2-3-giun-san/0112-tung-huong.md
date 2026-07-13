@@ -14,6 +14,8 @@ keywords:
   - chữa mụn nhọt
   - chữa đau sưng tiêu độc
   - chữa những mụn nhọt lâu ngày không liền miệng
+slug: "tung-huong"
+description: "Còn gọi là tùng chi, tùng cao, tùng giao."
 ---
 
 

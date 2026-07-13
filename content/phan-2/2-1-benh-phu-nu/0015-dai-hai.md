@@ -11,6 +11,10 @@ keywords:
   - Hodgsonia macrocarpa
   - 油仄
   - chữa bệnh loét mũi
+slug: "dai-hai"
+description: "Còn gọi là du qua, dây mỡ lợn, dây hái, then hái, mướp rừng, dây sén, mak khing (Lào), Kigarasu-uri (Nhật). Tên khoa học Hodgsonia macrocarpa (Blume)…"
+images:
+  - /images/21-dai-hai.png
 ---
 
 _Còn gọi là_ du qua, dây mỡ lợn, dây hái, then hái, mướp rừng, dây sén, mak khing (Lào), Kigarasu-uri (Nhật).

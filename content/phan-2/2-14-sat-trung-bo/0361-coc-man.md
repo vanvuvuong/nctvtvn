@@ -13,6 +13,8 @@ keywords:
   - chữa mẩn ngứa
   - kích thích thần kinh
   - chữa khỏi viêm mắt có mủ
+slug: "coc-man"
+description: "Còn gọi là cúc mẳn, cỏ the, thạch hồ tuy, nga bất thực thảo, địa hồ tiêu, cầu tử thảo."
 ---
 
 

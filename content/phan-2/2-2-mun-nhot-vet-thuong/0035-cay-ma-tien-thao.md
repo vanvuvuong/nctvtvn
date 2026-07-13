@@ -17,6 +17,8 @@ keywords:
   - dùng làm thuốc xoa bóp
   - chữa bệnh ngứa ở hạ bộ
   - chữa bệnh lở ngứa hạ bộ
+slug: "cay-ma-tien-thao"
+description: "Còn có tên là cỏ roi ngựa, Verveine (Pháp). Tên khoa học Verbena officinalis L. Thuộc họ Cỏ roi ngựa Verbenaceae. Người ta dùng toàn cây mã tiên thảo…"
 ---
 
 

@@ -13,6 +13,8 @@ keywords:
   - trị cam lỵ trẻ con
   - chữa đau các khớp xương
   - dùng làm thuốc với tên thủ cung
+slug: "thach-sung"
+description: "Còn gọi là mối rách-thủ cung-thiên long, bích cung, hát hổ, bích hổ."
 ---
 
 

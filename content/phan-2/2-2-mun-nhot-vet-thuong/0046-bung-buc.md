@@ -13,6 +13,8 @@ keywords:
   - chữa nôn mửa
   - dùng làm thuốc
   - chữa đau dạ dày
+slug: "bung-buc"
+description: "Còn gọi là bục bục, bông bét, cây lá ngõa kok po hou (Lào)."
 ---
 
 

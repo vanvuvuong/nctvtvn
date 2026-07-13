@@ -16,6 +16,10 @@ keywords:
   - chữa tưa lưỡi
   - chữa sót nhau
   - chữa chậm kinh có kết quả
+slug: "cay-rau-ngot"
+description: "Còn gọi là bồ ngót, bù ngót, hắc diện thần (Trung Quốc)."
+images:
+  - /images/20-rau-ngot.png
 ---
 
 _Còn gọi là_ bồ ngót, bù ngót, hắc diện thần (Trung Quốc).

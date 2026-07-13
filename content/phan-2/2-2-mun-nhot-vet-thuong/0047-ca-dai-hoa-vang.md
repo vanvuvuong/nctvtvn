@@ -12,6 +12,8 @@ keywords:
   - làm thuốc
   - chữa bệnh gì
   - chữa trai chân
+slug: "ca-dai-hoa-vang"
+description: "Còn có tên là cà gai, cây gai cua, cây mùi cua, lão thử lực."
 ---
 
 

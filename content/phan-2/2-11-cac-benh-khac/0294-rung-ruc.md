@@ -7,6 +7,8 @@ keywords:
   - rắn cắn, giải độc và các bệnh khác
   - rung rúc
   - Berchemia ỉìneata
+slug: "rung-ruc"
+description: "Cỏn gọi ì à rút dế, cứt chuột, đồng bìa."
 ---
 
 

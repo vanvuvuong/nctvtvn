@@ -14,6 +14,8 @@ keywords:
   - làm thuốc thì gọi là toàn yết
   - chữa những trường hợp kinh giản
   - chữa những vết đen sạm trên mặt
+slug: "xxii-cac-vi-thuoc-khac-nguon-goc-dong-vat"
+description: "BẠCH CƯƠNG TÀM 白殭蚕"
 ---
 
 

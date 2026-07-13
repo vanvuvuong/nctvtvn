@@ -15,6 +15,8 @@ keywords:
   - làm thuốc hoà hoãn
   - chữa các chứng ù tai
   - trị có kết quả 4 trường hợp bong gản
+slug: "cot-toai"
+description: "Còn gọi là bổ cốt toái, co tạng tó (Thái ở châu Quỳnh Nhai), co in tó (Thái ở Điện Biên), cây tổ phượng, cây tổ rồng, tổ điều, tắc kè đá."
 ---
 
 

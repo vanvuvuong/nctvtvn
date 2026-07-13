@@ -17,6 +17,8 @@ keywords:
   - chữa đau bụng
   - chữa đau nhức
   - chữa bệnh chó dại
+slug: "tuoi-cay-go-la"
+description: "long nao % tinh dẩu % long não % tinh dầu %"
 ---
 
 

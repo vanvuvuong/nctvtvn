@@ -10,6 +10,8 @@ keywords:
   - 玉竹
   - thuốc bổ dùng
   - chữa táo nhiệt
+slug: "ngoc-truc"
+description: "Tên khoa học Polygonatum officinale All."
 ---
 
 

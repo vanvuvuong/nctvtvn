@@ -12,6 +12,8 @@ keywords:
   - chữa sâu răng
   - chữa bệnh tim
   - chữa thiên đấu thông
+slug: "tat-bat"
+description: "Còn gọi ìà tiêu lốt, tiêu hoa tím. morech ton sai (Cămpuchia)."
 ---
 
 

@@ -13,6 +13,8 @@ keywords:
   - chữa đau bụng
   - chữa ho mất tiếng
   - chữa ăn uống không tiêu
+slug: "quit-tran-bi"
+description: "Còn gọi là quyết, hoàng quyết, trần bì, thanh bì, mandarinier (Pháp)."
 ---
 
 

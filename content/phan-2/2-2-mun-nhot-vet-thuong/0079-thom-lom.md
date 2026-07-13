@@ -18,6 +18,8 @@ keywords:
   - chữa một em bé bị chảy dãi nặng
   - chữa 14 bệnh nhân khỏi hẳn một người
   - chữa những bệnh ngoài da nhiễm liên cầu khuẩn khác như chốc đầu
+slug: "thom-lom"
+description: "Còn gọi là đuôi tôm, mía giò, bẻm, mía bẻm, mía nung, cây lôm, chuồng chuồng, hỏa khôi mẫu, săm koy (Luang Prabang)."
 ---
 
 

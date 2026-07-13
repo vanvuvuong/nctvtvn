@@ -12,6 +12,8 @@ keywords:
   - thông kinh lạc
   - bổ tỳ nhuận phổi
   - chữa đau lưng đau mình
+slug: "hong-dang"
+description: "Còn gọi là thuyết đằng, đại hoạt đằng, hoạt huyết đằng, kê huyết đằng, đại huyết đằng, dây máu người."
 ---
 
 

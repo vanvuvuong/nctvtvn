@@ -8,6 +8,8 @@ keywords:
   - vuốt hừm
   - Caesalpinía minax Hancc
   - chữa đau
+slug: "vuot-hum"
+description: "Còh CÓ tên ìà móc mèo, móc diều, trần sa lực, num đíì cán."
 ---
 
 

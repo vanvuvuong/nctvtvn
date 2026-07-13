@@ -8,6 +8,8 @@ keywords:
   - tai chua
   - Garcinia pedunculata Roxb
   - chữa sốt
+slug: "tai-chua"
+description: "Tên khoa học Garcinia pedunculata Roxb. (G. cowa Roxb.)."
 ---
 
 

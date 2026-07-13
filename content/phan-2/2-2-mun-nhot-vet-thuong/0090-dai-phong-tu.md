@@ -10,6 +10,8 @@ keywords:
   - đại phong tử
   - Hydnocarpus anthelmintica Pierre
   - chữa bệnh hủi
+slug: "dai-phong-tu"
+description: "Còn gọi là chùm bao lớn, krabao phlêthom (Cămpuchia)."
 ---
 
 

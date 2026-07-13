@@ -10,6 +10,8 @@ keywords:
   - 藿香
   - chữa cảm mạo
   - chữa ăn uống không tiêu
+slug: "hoac-huong"
+description: "Còn gọi là quảng hoắc hương, thổ hoắc hương."
 ---
 
 

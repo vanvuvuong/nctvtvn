@@ -10,6 +10,8 @@ keywords:
   - cầm máu
   - chữa thổ huyết
   - thuốc bổ không kém nhân sâm
+slug: "cay-tam-that"
+description: "Còn có tên kim bất hoán, nhân sâm tam thất, sâm tam thất."
 ---
 
 

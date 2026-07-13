@@ -10,6 +10,8 @@ keywords:
   - chữa sốt
   - chữa đau mắt
   - làm thuốc với tên là chử thực
+slug: "bau-dat"
+description: "Còn gọi là rau lúi, khảm khon (Thổ), thiên hắc địa hồng, dây chua lè, chi angkam (Campuchia)."
 ---
 
 

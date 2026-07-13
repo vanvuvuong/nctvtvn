@@ -9,6 +9,8 @@ keywords:
   - Calotropis gigantea R. Br
   - chữa hen
   - làm thuốc súng
+slug: "cay-bong-bong"
+description: "Còn có tên là nam tì bà, cây lá hen.[7]"
 ---
 
 

@@ -18,6 +18,8 @@ keywords:
   - thông kinh lạc
   - làm thuốc xoa bóp
   - an thần vì gây ngủ
+slug: "cay-vong-nem"
+description: "Còn có tên là hải đồng bì, thích đồng bì."
 ---
 
 

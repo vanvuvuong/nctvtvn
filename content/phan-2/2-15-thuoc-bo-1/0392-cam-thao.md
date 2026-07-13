@@ -6,6 +6,8 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - thuốc bổ
   - cam thảo
+slug: "cam-thao"
+description: "Cam thào là một vị thuốc rất thông dụng trong đông y và tây y. Tuy nhiên ở nước ta, tên cam thảo dùng để chỉ 3 vị thuốc khác nhau. Cần chú ý để tránh nhầm…"
 ---
 
 

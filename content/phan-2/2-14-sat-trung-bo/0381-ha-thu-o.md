@@ -8,6 +8,8 @@ keywords:
   - hà thủ ô
   - Polygonum multiflorum Thunb. Fallopia multiflora
   - thuốc bổ đông y có khả năng làm người già hoá trẻ
+slug: "ha-thu-o"
+description: "Hà thủ ô được coi là một vị thuốc bổ đông y có khả năng làm người già hoá trẻ, tóc bạc hoá đen."
 ---
 
 

@@ -9,6 +9,8 @@ keywords:
   - Anphitobius diaperinus Panzer
   - chữa trẻ em gầy còm
   - chữa những chứng cam tích
+slug: "con-quy"
+description: "Tên khoa học Anphitobius diaperinus Panzer."
 ---
 
 

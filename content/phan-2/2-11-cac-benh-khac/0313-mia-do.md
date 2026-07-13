@@ -9,6 +9,8 @@ keywords:
   - Cosíus speciosus Smith
   - chữa thấp khớp
   - chữa bệnh ở cổ họng
+slug: "mia-do"
+description: "Còn gọi là tậu chó (Lạng Sơn), đọt đắng, đọt hoàng, cát lồi, củ chóc."
 ---
 
 

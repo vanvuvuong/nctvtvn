@@ -9,6 +9,8 @@ keywords:
   - Biophytum sensit
   - dùng làm thuốc
   - chữa bênh đái đường như ờ philipin
+slug: "cay-chua-me-la-me"
+description: "Còn gọi lá lá chua me."
 ---
 
 

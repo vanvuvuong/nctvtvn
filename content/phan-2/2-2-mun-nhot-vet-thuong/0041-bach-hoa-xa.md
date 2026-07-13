@@ -14,6 +14,8 @@ keywords:
   - chữa đau gân
   - làm thuốc sẩy thai
   - chữa những bệnh ngoài da
+slug: "bach-hoa-xa"
+description: "Còn gọi là bạch tuyết hoa, cây chiến (Bắc Lệ, Lạng Sơn), cây đuôi công, pit phì khao (Luang Prabang), xitraca (Ấn Độ)."
 ---
 
 

@@ -9,6 +9,8 @@ keywords:
   - chữa bệnh tràng nhạc
   - làm thuốc nhuận tràng do tác động cơ học
   - chữa những bệnh mà y học khoa học xác định do thiếu iốt
+slug: "con-bo"
+description: "Còn gới là hải đới, nga chưởng thái."
 ---
 
 

@@ -13,6 +13,8 @@ keywords:
   - giúp tiêu hóa
   - làm thuốc trung tiên
   - dùng làm thuốc mạnh dạ dày
+slug: "rau-mui-m"
+description: "cỏn gọi lủ hồ tuy, hương tuy, nguyên tuy, ngò, ngổ, ngổ thơm, coriandre, coriander (Anh), koriander (Đức)."
 ---
 
 

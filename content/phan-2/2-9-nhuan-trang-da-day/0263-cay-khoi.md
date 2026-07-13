@@ -11,6 +11,8 @@ keywords:
   - giảm đau 80-100%
   - chữa đau dạ dày dùng
   - chữa một số trường hợp đau dạ dày
+slug: "cay-khoi"
+description: "Còn gọi là cây độc lực, đơn tướng quân."
 ---
 
 

@@ -9,6 +9,8 @@ keywords:
   - Papaver Somniferum L
   - 阿片
   - chữa các bệnh ho lâu ngày không khỏi
+slug: "cay-thuoc-phien"
+description: "Còn có tên là phù dung, anh tử túc, a phiến, túc xác, anh túc xác, cù túc xác."
 ---
 
 

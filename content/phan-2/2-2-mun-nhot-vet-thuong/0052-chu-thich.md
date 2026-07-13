@@ -10,6 +10,8 @@ keywords:
   - chú thích
   - chữa mẩn ngứa
   - thông tiểu tiện
+slug: "chu-thich"
+description: "Tại Trung Quốc và nước ta cũng có nơi dùng cây hồng cận biếc hay mộc cận (Hibiscus syriacus L hoặc Hibiscus chinensis DC.) cùng với một công dụng. Cây này…"
 ---
 
 

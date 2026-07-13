@@ -7,6 +7,8 @@ keywords:
   - xương khớp và tê thấp
   - trứng cuốc
   - S/ixis elongaĩa Pierre
+slug: "trung-cuoc"
+description: "Cỏn có tên là mắc năm ngoa (Viêntían), con go, mang nam bo (Thổ)."
 ---
 
 

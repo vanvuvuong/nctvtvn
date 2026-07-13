@@ -11,6 +11,8 @@ keywords:
   - Glycosmis pentaphylla Corr
   - sát trùng lèn da
   - làm thuốc giúp sự tiêu hóa
+slug: "buoi-bung"
+description: "Còn có tên là cây cơm rượu, cát bối, co dọng dạnh (Thái). Tên khoa học Glycosmis pentaphylla Corr. (Glycosmis cochinchinensis (Lour.) Pierre). Thuộc họ…"
 ---
 
 

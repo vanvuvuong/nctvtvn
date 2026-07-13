@@ -9,6 +9,8 @@ keywords:
   - Zanthoxyỉum avicennae
   - làm thuốc
   - chữa mẩn ngứa
+slug: "muong-truong"
+description: "Còn gụi lò màn tàn, sen lai, tần tiêu, buồn chuồn, mú tương, cam."
 ---
 
 

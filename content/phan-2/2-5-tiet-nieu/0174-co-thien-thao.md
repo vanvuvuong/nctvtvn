@@ -11,6 +11,8 @@ keywords:
   - chữa đau bụng
   - chữa thấp khớp
   - dùng làm thuốc xông cho ra mồ hôi
+slug: "co-thien-thao"
+description: "Còn gọi là; cây cứt lợn, kiếm, san nga (Luang Prabang)."
 ---
 
 

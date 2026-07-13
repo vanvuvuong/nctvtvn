@@ -9,6 +9,8 @@ keywords:
   - Sanguisorba officinalis L
   - cầm máu
   - chữa nôn ra máu
+slug: "dia-du"
+description: "Còn gọi là ngọc trát (Trung Quốc), sanguisorbe officinale, grande pimprenelle (Pháp), Pimpernel (Anh)."
 ---
 
 

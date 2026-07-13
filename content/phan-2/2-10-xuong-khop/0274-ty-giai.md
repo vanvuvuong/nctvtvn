@@ -14,6 +14,8 @@ keywords:
   - chữa thống phong
   - chữa bệnh tiểu tiện đục
   - chữa tiểu tiện đục mãn tính
+slug: "ty-giai"
+description: "Còn gọi là xuyên tỳ giải, tắt giã, phấn tỳ giải. Tèn khoa học Dioscorea lokoro Makino. Thuộc họ Củ nâu Dioscoreaceae."
 ---
 
 

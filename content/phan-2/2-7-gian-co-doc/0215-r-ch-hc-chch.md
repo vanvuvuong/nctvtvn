@@ -13,6 +13,8 @@ keywords:
   - chữa nhức đầu
   - chữa ngoại cảm
   - chữa ho mất tiếng
+slug: "r-ch-hc-chch"
+description: "R = -CH (OH) (CH₂)\\(n)CH₃"
 ---
 
 

@@ -13,6 +13,8 @@ keywords:
   - hoạt huyết
   - chữa tê thấp
   - chữa da vàng
+slug: "tan-cuu-thanh-tao"
+description: "Còn gọi là tần cửu, tần qua, tần giao, thanh táo, thuốc trặc, trường sơn cây."
 ---
 
 

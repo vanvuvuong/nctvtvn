@@ -9,6 +9,8 @@ keywords:
   - Blumea myriocephala DC. Conyza lanceolaria
   - chữa ho
   - chữa cảm sốt
+slug: "xuong-song"
+description: "Còn gọi là rau súng ăn gỏi, xang sông, hoạt lộc thảo."
 ---
 
 

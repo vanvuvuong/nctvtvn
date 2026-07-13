@@ -10,6 +10,8 @@ keywords:
   - dây đòn gánh
   - Gouania leptostachya DC
   - chữa bỏng
+slug: "day-don-ganh"
+description: "Còn gọi là đòn kẻ trộm, dây gân."
 ---
 
 

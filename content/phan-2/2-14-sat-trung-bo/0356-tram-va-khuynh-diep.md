@@ -7,6 +7,8 @@ keywords:
   - sát trùng và thuốc bổ
   - tràm và khuynh diệp
   - 白千層
+slug: "tram-va-khuynh-diep"
+description: "Tên tràm và khuynh diệp hiện nay thường được dùng lẫn lộn để chỉ một số cây cho tinh dầu có mùi và công dụng gần giống nhau, hoạt chất căn bản cũng như…"
 ---
 
 

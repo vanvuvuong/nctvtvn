@@ -11,6 +11,8 @@ keywords:
   - lợi tiểu
   - điều kinh
   - chữa thổ huyết
+slug: "thien-thao"
+description: "Còn gọi là tây thảo, mao sáng (mèo), thiên căn, thiến căn."
 ---
 
 

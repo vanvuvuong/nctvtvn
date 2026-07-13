@@ -9,6 +9,8 @@ keywords:
   - Cinnamomum zeylanicum Nees
   - sát trùng mạnh
   - kích thích sự tiêu hóa
+slug: "que-quan"
+description: "Còn gọi là quế Xrilanca."
 ---
 
 

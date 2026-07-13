@@ -11,6 +11,8 @@ keywords:
   - chữa ho
   - chữa rắn cắn
   - dùng làm thuốc
+slug: "hong-bi"
+description: "Còn gọi là hoàng bì."
 ---
 
 

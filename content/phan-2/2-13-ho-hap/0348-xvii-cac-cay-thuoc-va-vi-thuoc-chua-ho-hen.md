@@ -6,6 +6,7 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - hô hấp
   - xvii. các cây thuốc và vị thuốc chữa ho, hen
+slug: "xvii-cac-cay-thuoc-va-vi-thuoc-chua-ho-hen"
 ---
 
 

@@ -11,6 +11,8 @@ keywords:
   - bổ tỳ
   - chữa di tinh
   - chữa bệnh thần kinh suy nhược
+slug: "khiem-thuc"
+description: "Còn có tên kê đầu, khiếm."
 ---
 
 

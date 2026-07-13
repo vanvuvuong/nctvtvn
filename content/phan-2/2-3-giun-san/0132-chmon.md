@@ -6,6 +6,8 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - giun sán và ký sinh trùng
   - c,hmo₄n.
+slug: "chmon"
+description: "ỉ. Tác dụng trên mạch máu"
 ---
 
 

@@ -5,6 +5,7 @@ navWeight: 972
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 keywords:
   - chỉ thiên
+slug: "chi-thien"
 ---
 
 **_Phân biệt ba cây bồ công anh:_** Để phân biệt 3 cây mang tên bồ công anh, chúng tôi tóm tắt sau đây sự khác nhau giữa 3 cây:

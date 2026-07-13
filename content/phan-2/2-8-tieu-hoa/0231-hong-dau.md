@@ -8,6 +8,8 @@ keywords:
   - hồng đậu
   - Alpinia ga
   - chữa nôn mửa
+slug: "hong-dau"
+description: "Còn gọi là sơn khương tử, hổng khấu."
 ---
 
 

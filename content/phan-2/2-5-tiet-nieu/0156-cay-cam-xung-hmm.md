@@ -10,6 +10,8 @@ keywords:
   - làm thuốc
   - chữa đau vú
   - chữa trẻ con bị phù nề
+slug: "cay-cam-xung-hmm"
+description: "Còn gọi lả lưỡi cọp, đơn lưỡi cọp, đơn lưỡi hổ, lưỡi hùm."
 ---
 
 

@@ -10,6 +10,8 @@ keywords:
   - chữa ngứa
   - chữa bệnh tim
   - dùng làm thuốc ở việt nam
+slug: "cay-muop-sat-mm"
+description: "Còn gọi là sơn đương tử, hải qua tử, da krapur (Cămpuchia)."
 ---
 
 

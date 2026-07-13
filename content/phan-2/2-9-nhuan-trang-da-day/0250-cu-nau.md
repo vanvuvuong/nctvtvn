@@ -13,6 +13,8 @@ keywords:
   - dùng làm thuốc
   - chữa xích bạch đới
   - làm thuốc hiện nay người ta chỉ
+slug: "cu-nau"
+description: "Còn gọi là khoai leng, vũ dư lương."
 ---
 
 

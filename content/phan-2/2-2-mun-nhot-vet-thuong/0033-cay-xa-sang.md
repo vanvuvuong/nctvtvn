@@ -12,6 +12,8 @@ keywords:
   - 蛇床子
   - chữa tai ướt
   - chữa liệt dương
+slug: "cay-xa-sang"
+description: "Còn có tên là cây giần sàng Tên khoa học Cnidium monnieri (L.) Cuss. (Selinum monnieri L.) Thuộc họ Hoa tán Umbelliferae. Tên giần sàng vì cụm hoa trông…"
 ---
 
 

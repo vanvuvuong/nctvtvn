@@ -11,6 +11,8 @@ keywords:
   - Sida rhombifolia L
   - làm thuốc
   - chữa mụn nhọt
+slug: "ke-hoa-vang"
+description: "Còn gọi là ké đồng tiền, bạch bối hoàng hoa nhậm, chỗi đực, khát bo lương (Thái)."
 ---
 
 

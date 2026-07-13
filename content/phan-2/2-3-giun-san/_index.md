@@ -1,7 +1,9 @@
 ---
-title: "II.III - GIUN SÁN VÀ KÝ SINH TRÙNG"
-description: "CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA GIUN SÁN VÀ KÝ SINH TRÙNG"
+title: Giun sán và ký sinh trùng
+weight: 3
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+slug: "giun-san-va-ky-sinh-trung"
+description: "Các cây thuốc và vị thuốc chữa giun sán và ký sinh trùng"
 ---
 
 ## III. CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA GIUN SÁN VÀ KÝ SINH TRÙNG
@@ -23,4 +25,3 @@ Lá giã nát hoặc sắc lấy nước rửa vết thương vết loét, bã �
 Nhưng chủ yếu người ta trồng cây keo nước hoa để lấy hoa cất tinh dầu dùng trong kỹ nghệ nước hoa và chất thơm; vỏ cầy làm nguyên liệu chế tanin thuộc loại da mểm. Tanin loại này được sủ dụng đáu tiên ở châu úc (mỗi năm châu úc xuất tới 25 tấn vỏ cây keo nhưng vì chỉ dựa vào nguồn thiên nhiên nên giảm dần, hiện nay Nam Phi lại trồng và khai thác tanin với diện tích
 
 330.0 ha, hầng năm xuất từ 9.400 tấn đến 14.500 tấn vỏ. Ngoài ra Ân Độ, Đông Phi, Mađagatca v.v... cũng trổng cây này để khai thác tan in.
-

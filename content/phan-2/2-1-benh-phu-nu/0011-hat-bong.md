@@ -10,6 +10,8 @@ keywords:
   - hạt bông
   - 棉籽
   - lợi sữa
+slug: "hat-bong"
+description: "Hạt bông nói đây là hạt của cây bông cho ta sợi để dệt vải. Hạt bông sau khi đã lấy sợi đi rồi, trước khi người ta đổ bỏ đi, gần đây người ta đă dùng ép…"
 ---
 
 Hạt bông nói đây là hạt của cây bông cho ta sợi để dệt vải. Hạt bông sau khi đã lấy sợi đi rồi, trước khi người ta đổ bỏ đi, gần đây người ta đă dùng ép lấy dầu để thắp và nấu xà phòng hoặc để ăn sau khi đã loại chất gossypola đi rồi.

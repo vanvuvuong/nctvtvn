@@ -12,6 +12,8 @@ keywords:
   - chữa lỵ
   - làm thuốc
   - chữa ỉa chảy
+slug: "gang-tu-hu"
+description: "Còn gọi là găng trâu, mây nghiêng pa (Lào)."
 ---
 
 

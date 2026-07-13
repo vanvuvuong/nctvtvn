@@ -9,6 +9,8 @@ keywords:
   - Tetrastigma strumarium
   - chữa sốt
   - chữa bệnh này
+slug: "day-quai-bi"
+description: "Còn gọi là dây dác, para (Phan Rang)."
 ---
 
 

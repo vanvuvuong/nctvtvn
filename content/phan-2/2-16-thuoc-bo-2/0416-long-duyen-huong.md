@@ -11,6 +11,8 @@ keywords:
   - giảm đau
   - dùng làm thuốc
   - sát trùng giống như xạ hương nhưng tác dụng có hơi kém hơn
+slug: "long-duyen-huong"
+description: "Còn gọi là long duyên, long phúc hương, long tiết, Ambre gris."
 ---
 
 

@@ -13,6 +13,8 @@ keywords:
   - chữa bệnh cao huyết áp có kết quả
   - chữa những người già yếu chân gối
   - chữa 360 trường kết quả đạt tới 74%
+slug: "cay-ba-kich"
+description: "Còn có tên ba kích thiên, cây Ruột gà, chẩu phóng xì (Hải Ninh), thao tầy cáy, ba kích nhục, liên châu ba kích."
 ---
 
 

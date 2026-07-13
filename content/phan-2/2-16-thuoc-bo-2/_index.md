@@ -1,7 +1,9 @@
 ---
-title: "II.XVI - THUỐC BỔ 2"
-description: "CÁC CÂY THUỐC VÀ VỊ THUỐC BỔ VÀ VỊ THUỐC ĐỘNG VẬT (PHẦN 2)"
+title: Thuốc bổ 2
+weight: 16
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+slug: "thuoc-bo-2"
+description: "Các cây thuốc và vị thuốc chữa thuốc bổ 2"
 ---
 
 ## XVI. CÁC CÂY THUỐC VÀ VỊ THUỐC BỔ VÀ VỊ THUỐC ĐỘNG VẬT (PHẦN 2)
@@ -49,4 +51,3 @@ Theo tài liệu cổ, đông trùng hạ thảo có vị ngọt, tính ôn, và
 2. Thuốc bổ đông trùng hạ thảo
 
 Đông trùng hạ thảo 15 con. Vịt già một con, bỏ lông ruột cho sạch. Bổ đôi đầu vịt, cho đông trùng hạ thảo vào. Lấy dây gai buộc kín lại. Cài đầu vào bụng vịt rồi thêm mắm muối hầm như thường lệ, đem cho người ốm mới khỏi thân thể có hư yếu ăn. Người ta cho rằng ăn một con vịt như vậy cũng như uống 40g nhân sâm.
-

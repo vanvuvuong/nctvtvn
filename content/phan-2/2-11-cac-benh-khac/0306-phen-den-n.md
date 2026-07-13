@@ -9,6 +9,8 @@ keywords:
   - chữa lên đâu
   - chữa rắn độc cắn
   - chữa chảy máu chân răng
+slug: "phen-den-n"
+description: "Còn gọi là nỗ."
 ---
 
 

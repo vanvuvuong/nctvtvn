@@ -11,6 +11,10 @@ keywords:
   - Pleomele cochinchinensis Merr
   - 血角
   - chữa những trường hợp ứ huyết
+slug: "huyet-giac"
+description: "Còn gọi là cây xó nhà, cây dứa dại, cây giáng ông."
+images:
+  - /images/24-huyet-giac.png
 ---
 
 _Còn gọi là_ cây xó nhà, cây dứa dại, cây giáng ông.

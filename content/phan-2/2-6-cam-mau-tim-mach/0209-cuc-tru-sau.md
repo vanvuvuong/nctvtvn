@@ -9,6 +9,8 @@ keywords:
   - Chrysanthemum cinerariaefolium Vis
   - làm thuốc
   - kích thích nhưng không bay
+slug: "cuc-tru-sau"
+description: "Còn gọi là pyrèthre - chrysanthème vermicide et insecticide."
 ---
 
 

@@ -12,6 +12,8 @@ keywords:
   - giảm đau
   - chữa mọi chứng chảy máu
   - chữa những trường hợp đau nhức như đau dạ dày
+slug: "van-tue"
+description: "Còn gọi là thiết thụ, phong mao tùng, phong mao tiêu."
 ---
 
 

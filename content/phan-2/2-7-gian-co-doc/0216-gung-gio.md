@@ -9,6 +9,8 @@ keywords:
   - Zingiber zerumbet Sm
   - kích thích
   - chữa những trường hợp
+slug: "gung-gio"
+description: "Còn gọi là riềng gió, ngải xanh, ngải mặt trời, riềng dại, khưhet phtu, prateal vong atit (Cămpuchia), gingembre fou (Pháp), phong khương (Trung Quốc)."
 ---
 
 

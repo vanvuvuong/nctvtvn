@@ -8,6 +8,8 @@ keywords:
   - chùa dù
   - Elsholtzia blanda Benth
   - chữa cảm cúm
+slug: "chua-du"
+description: "Còn gọi là tả hoàng đồ (Lào Cai), Dê sua tùa."
 ---
 
 

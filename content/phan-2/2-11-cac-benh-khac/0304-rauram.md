@@ -13,6 +13,8 @@ keywords:
   - dùng làm thuốc bổ
   - dùng làm thuốc trấn kinh
   - chữa rắn cắn (xem vị bông báo) rẻ do chất nhầy được dùng để hổ giấy
+slug: "rauram"
+description: "Cỏn gọi lù thuỷ liểu, chi krassang tomhom (Cãmpuchia), phăk phèo (Vièntian)."
 ---
 
 

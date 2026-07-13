@@ -12,6 +12,8 @@ keywords:
   - chữa hàn nhiệt
   - chữa các chúng sốt rét
   - chữa sưng mộng răng chảy máu
+slug: "nuoc-tieu"
+description: "Còn gọi là đồng tiện, nhân niệu, luân hồi tửu, hoàn nguyên thang."
 ---
 
 

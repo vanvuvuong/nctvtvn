@@ -14,6 +14,10 @@ keywords:
   - chữa lòi dom
   - chữa sa dạ con
   - chữa một số trường hợp lòi dom
+slug: "thien-ly"
+description: "Còn gọi là cây hoa lý, hoa thiên lý, dạ lài hương"
+images:
+  - /images/28-thien-ly.png
 ---
 
 _Còn gọi là_ cây hoa lý, hoa thiên lý, dạ lài hương

@@ -10,6 +10,8 @@ keywords:
   - 鱟
   - chữa những trường hợp máu
   - trị này không được dùng cho những người già
+slug: "con-sam"
+description: "Còn gọi là Kabutegami (Nhật)."
 ---
 
 

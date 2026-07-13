@@ -9,6 +9,8 @@ keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - thuốc giấu
   - Euphorbia tithymaloides L
+slug: "thuoc-giau"
+description: "Còn gọi là hồng tước san hô, dương san hô."
 ---
 
 

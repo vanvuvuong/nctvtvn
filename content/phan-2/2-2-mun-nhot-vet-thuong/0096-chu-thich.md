@@ -8,6 +8,8 @@ benh:
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - chú thích
+slug: "chu-thich"
+description: "Ngoài cây cho vị đại phong tử nói trên đây, trên thế giới còn dùng một số cây khác như sau:"
 ---
 
 

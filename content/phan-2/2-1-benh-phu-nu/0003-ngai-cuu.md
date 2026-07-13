@@ -20,6 +20,10 @@ keywords:
   - dùng làm thuốc ôn khí huyết
   - dùng làm thuốc giúp sự tiêu hóa
   - kích thích đối với tử cung có thai
+slug: "ngai-cuu"
+description: "Còn gọi là cây thuốc cứu, cây thuốc cao, ngải điệp."
+images:
+  - /images/7-ngai-cuu.png
 ---
 
 _Còn gọi_ là cây thuốc cứu, cây thuốc cao, ngải điệp.

@@ -9,6 +9,8 @@ keywords:
   - Gomphrena globosa L
   - 百日红
   - chữa hen suyễn đối với người lớn
+slug: "cay-cuc-bach-nhat"
+description: "Còn gọi là thiên kim hồng, bách nhật hồng, bách nhật bạch, thiên nhật hồng."
 ---
 
 

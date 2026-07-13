@@ -18,6 +18,8 @@ keywords:
   - chữa bệnh về huyết
   - thuốc bổ có sinh địa
   - chữa thương hàn ôn bệnh
+slug: "sinh-dia"
+description: "Còn gọi là địa hoàng, thục địa."
 ---
 
 

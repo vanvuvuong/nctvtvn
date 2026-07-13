@@ -17,6 +17,8 @@ keywords:
   - chữa hết thảy các bệnh lờ
   - làm thuốc mới gọi là sử quân tử
   - chữa 5 chứng cam của trẻ em tiểu tiện đục
+slug: "cay-dau-giun"
+description: "Còn có tên ỉã cây rau muối dại, cây cỏ hôi, cây thanh hao dại, thổ kinh giới."
 ---
 
 

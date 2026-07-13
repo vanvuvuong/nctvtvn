@@ -9,6 +9,8 @@ keywords:
   - Lytta vesicatoria Fabr
   - 斑蝥
   - dùng làm thuốc
+slug: "sau-ban-mieu"
+description: "Cantharis Mylabris."
 ---
 
 

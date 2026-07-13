@@ -17,6 +17,8 @@ keywords:
   - chữa ngực bụng đầy
   - kích thích tiết mật trực tiếp
   - chữa tim khác như strophantin
+slug: "moc-huong"
+description: "Trên thị trường có nhiều loại mộc hương, nhưng sau đây là 2 vị chính:"
 ---
 
 

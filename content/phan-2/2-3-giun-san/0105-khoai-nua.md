@@ -8,6 +8,8 @@ keywords:
   - khoai nưa
   - Amorphữphaỉỉus rivieri Dur
   - chữa lòi dom
+slug: "khoai-nua"
+description: "Còn gọi là củ nưa, khoai na."
 ---
 
 

@@ -12,6 +12,8 @@ keywords:
   - chữa hình j87
   - thuốc tẩy máu
   - dùng làm thuốc
+slug: "day-chac-chiu"
+description: "Còn gọi ìà dây chiều, u trặc chiu, tích diệp đàng."
 ---
 
 

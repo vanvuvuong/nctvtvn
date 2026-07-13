@@ -14,6 +14,8 @@ keywords:
   - thuốc tẩy
   - chữa giun
   - chữa bệnh đái đường
+slug: "muop-dang"
+description: "Còn gọi là khổ qua, cẩm lệ chi, lại bồ đào, hồng cô nương, lương qua, mướp mủ, chua hao (Mưòng-Thanh Hoá)."
 ---
 
 

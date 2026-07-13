@@ -11,6 +11,8 @@ keywords:
   - chữa ho
   - lợi tiểu
   - chữa đau răng
+slug: "ca-dai-hoa-tim"
+description: "Còn gọi là cà hoang, cà gai, cà hoang gai hoa tím."
 ---
 
 

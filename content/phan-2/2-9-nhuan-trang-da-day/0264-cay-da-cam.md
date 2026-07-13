@@ -10,6 +10,8 @@ keywords:
   - giảm đau
   - trị viêm lưỡi
   - trị bệnh đau đạ dày từ năm 1962
+slug: "cay-da-cam"
+description: "Còn gọi là cây loét mồm, đất lượt, đứt lướt, chạ khẩu cắm."
 ---
 
 

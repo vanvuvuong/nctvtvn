@@ -12,6 +12,8 @@ keywords:
   - chữa ho
   - chữa viêm kết mạc
   - chữa bệnh chàm mặt của trẻ em
+slug: "trau-khong"
+description: "Còn gọi là trầu, thược tương, mô-lu (Cãmpuchia), hruè êhang (Buôn Mê Thuột)."
 ---
 
 

@@ -19,6 +19,10 @@ keywords:
   - thông tiểu tiện
   - chữa tiểu tiện đục
   - chữa bệnh phụ nữ có thai đau bụng
+slug: "cay-gai"
+description: "Còn gọi là trữ ma (Trung Quốc)."
+images:
+  - /images/13-cay-gai.png
 ---
 
 _Còn gọi là_ trữ ma (Trung Quốc).

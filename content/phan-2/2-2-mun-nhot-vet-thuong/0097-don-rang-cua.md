@@ -10,6 +10,8 @@ keywords:
   - đơn răng cưa
   - Maesa indica Wall
   - chữa mẩn ngứa dị ứng
+slug: "don-rang-cua"
+description: "Còn gọi là đok ton, kok tap (Lào)."
 ---
 
 

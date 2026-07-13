@@ -13,6 +13,8 @@ keywords:
   - giải độc
   - chữa bỏng
   - chữa viêm tai giữa cấp tính
+slug: "thuoc-bong"
+description: "Còn gọi là trường sinh, thổ tam thất, đả bất tử, diệp sinh căn, sái bất tử, lạc địa sinh căn, sống đời."
 ---
 
 

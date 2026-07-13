@@ -9,6 +9,8 @@ keywords:
   - Agave americana Lin
   - chữa sốt
   - chữa đau nhức
+slug: "dua-ba"
+description: "Còn gọi là thùa, lưỡi lê, dứa Mỹ, nil pisey (Cãmpuchia), sisal, agave (Pháp)."
 ---
 
 

@@ -7,6 +7,8 @@ keywords:
   - cầm máu và bệnh tim mạch
   - hồi núi
   - Illicium griffithii Hook.f. et Thoms
+slug: "hoi-nui"
+description: "Còn gọi là đại hồi núi (Faux badianier), mu bu (tiếng Mèo)."
 ---
 
 

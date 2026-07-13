@@ -12,6 +12,8 @@ keywords:
   - làm thuốc
   - chữa bệnh lậu
   - chữa các vết loét
+slug: "dau-rai-trang"
+description: "Còn gọi là dầu nước, nhang, yang may yang (Lào)."
 ---
 
 

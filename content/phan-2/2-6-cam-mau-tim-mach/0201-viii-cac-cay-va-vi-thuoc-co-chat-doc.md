@@ -7,6 +7,8 @@ keywords:
   - cầm máu và bệnh tim mạch
   - viii. các cây và vị thuõc có chất độc
   - Engelhardtia chrysolepis Hance
+slug: "viii-cac-cay-va-vi-thuoc-co-chat-doc"
+description: "CÂY CHẸO黄杞"
 ---
 
 

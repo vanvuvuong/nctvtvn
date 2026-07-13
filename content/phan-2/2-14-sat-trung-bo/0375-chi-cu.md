@@ -8,6 +8,8 @@ keywords:
   - chỉ cụ
   - Hovenia dulcis Thunb
   - giải độc
+slug: "chi-cu"
+description: "Còn gọi là khúng khéng (Cao Bẳng, Lạng Sơn), vạn thọ, kê trảo."
 ---
 
 

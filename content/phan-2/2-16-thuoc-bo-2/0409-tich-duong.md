@@ -14,6 +14,8 @@ keywords:
   - chữa suy yếu
   - làm thuốc nhuận tẩy nhẹ
   - chữa những bệnh tương tự
+slug: "tich-duong"
+description: "Tên khoa học Caulis Cynomorli-Herba Cynomorli"
 ---
 
 

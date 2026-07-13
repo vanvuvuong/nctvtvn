@@ -1,7 +1,9 @@
 ---
-title: "II.XIV - SÁT TRÙNG VÀ THUỐC BỔ"
-description: "CÁC CÂY THUỐC VÀ VỊ THUỐC SÁT TRÙNG VÀ THUỐC BỔ"
+title: Sát trùng và thuốc bổ
+weight: 14
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+slug: "sat-trung-va-thuoc-bo"
+description: "Các cây thuốc và vị thuốc chữa sát trùng và thuốc bổ"
 ---
 
 ## XIV. CÁC CÂY THUỐC VÀ VỊ THUỐC SÁT TRÙNG VÀ THUỐC BỔ
@@ -37,4 +39,3 @@ Hạt bồ kết sao vàng, tán nhỏ, dùng hồ nếp viên bằng hạt ngô
 Chữa phụ nữ sưng vú:
 
 Gai bồ kết thiêu tồn tính 40g, bạng phấn 4g. Hai vị đều tán nhỏ, trộn đều, mỗi lần uống 4g bột này.
-
