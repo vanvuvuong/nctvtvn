@@ -3,6 +3,8 @@ title: "45. BỒ CU VẼ"
 weight: 45
 navWeight: 956
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bồ cu vẽ

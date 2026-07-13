@@ -3,6 +3,8 @@ title: "91. Axit chaulmoogric"
 weight: 91
 navWeight: 910
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - axit chaulmoogric

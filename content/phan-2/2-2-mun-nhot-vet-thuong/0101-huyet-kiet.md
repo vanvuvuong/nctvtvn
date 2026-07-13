@@ -3,6 +3,8 @@ title: "101. HUYẾT KIỆT"
 weight: 101
 navWeight: 900
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - huyết kiệt

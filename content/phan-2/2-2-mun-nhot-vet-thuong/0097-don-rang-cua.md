@@ -3,6 +3,8 @@ title: "97. ĐƠN RĂNG CƯA"
 weight: 97
 navWeight: 904
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn răng cưa

@@ -3,6 +3,8 @@ title: "76. THUỐC GIẤU"
 weight: 76
 navWeight: 925
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - thuốc giấu

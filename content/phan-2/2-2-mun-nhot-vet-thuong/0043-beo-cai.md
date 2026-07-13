@@ -3,6 +3,8 @@ title: "43. BÈO CÁI"
 weight: 43
 navWeight: 958
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bèo cái

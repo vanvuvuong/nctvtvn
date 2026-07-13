@@ -1,11 +1,14 @@
 ---
-title: "30. KIM NGÂN"
+title: "30. KIM NGÂN 金銀"
 weight: 30
 navWeight: 971
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - kim ngân
+  - 金銀
   - Lonicera japonica Thunb
   - giải độc
   - chữa sốt
@@ -14,18 +17,19 @@ keywords:
   - chữa có kết quả một số trường hợp viêm mũi dị ứng
 ---
 
-
-
 _Còn gọi là_ Nhẫn đông
-Tên khoa học _Lonicera japonica Thunb_.
+
+Tên khoa học _Lonicera japonica_ Thunb.
+
 Thuộc họ Cơm cháy Caprifoliaceae. Cây kim ngân cho ta các vị thuốc:
 
-1. Hoa kim ngân hay kim ngân hoa-Flos Lonicerae là hoa phơi hay sấy khô của cây kim ngân.
-2. Cành và lá kim ngân-Caulis cum folium Lonicerae-là cành và lá phơi hay sấy khô của cây kim ngân.
+1. _Hoa kim ngân_ hay _kim ngân hoa_-Flos Lonicerae là hoa phơi hay sấy khô của cây kim ngân.
+2. _Cành và lá kim ngân_-Caulis cum folium Lonicerae-là cành và lá phơi hay sấy khô của cây kim ngân.
 
 #### A. Mô tả cây
 
-Kim ngân11 là một loại dây mọc leo, thân có thể vươn dài tới 10m hay hơn. Cành lúc còn non màu lục nhạt, có phủ lông mịn, khi cành già chuyển màu nâu đỏ nhạt, nhẵn. Lá mọc đối, đôi khi mọc vòng 3 lá một, hình trứng dài, đầu hơi tù, phía cuống tròn, cuống ngắn 2-3mm, cả hai mặt đều phủ lông mịn. Vào các tháng 5-8, hoa mọc từng đôi ở kẽ lá, mỗi kẽ lá có 1 cuống mang 2 hoa, hai bên lá mọc đối mang 4 hoa, lá bắc giống lá nhưng nhỏ hơn. Hoa hình ống xẻ hai môi, môi lớn lại xẻ thành 3 hay 4 thùy nhỏ, phiến của tràng dài gần bằng ống tràng, lúc đầu màu trắng, sau khi nở một thời gian chuyển màu vàng, cùng một lúc trên cây có hoa mới nở màu trắng như bạc, lại có hoa nở đã lâu màu vàng như vàng cho nên có tên là kim ngân (kim là vàng, ngân là bạc); cây kim ngân xanh tốt vào mùa đông cho nên _còn có tên là_ nhẫn đông nghĩa là chịu đựng mùa đông, 4 nhị thòi dài cao hơn tràng; vòi nhụy lại thòi dài cao hơn nhị, mùi thơm dễ chịu. Quả hình trứng dài chừng 5 mm (Hình 37, Hm 4,3).
+Kim ngân là một loại dây mọc leo, thân có thể vươn dài tới 10m hay hơn. Cành lúc còn non màu lục nhạt, có phủ lông mịn, khi cành già chuyển màu nâu đỏ nhạt, nhẵn. Lá mọc đối, đôi khi mọc vòng 3 lá một, hình trứng dài, đầu hơi tù, phía cuống tròn, cuống ngắn 2-3mm, cả hai mặt đều phủ lông mịn. Vào các tháng 5-8, hoa mọc từng đôi ở kẽ lá, mỗi kẽ lá có 1 cuống mang 2 hoa, hai bên lá mọc đối mang 4 hoa, lá bắc giống lá nhưng nhỏ hơn. Hoa hình ống xẻ hai môi, môi lớn lại xẻ thành 3 hay 4 thùy nhỏ, phiến của tràng dài gần bằng ống tràng, lúc đầu màu trắng, sau khi nở một thời gian chuyển màu vàng, cùng một lúc trên cây có hoa mới nở màu trắng như bạc, lại có hoa nở đã lâu màu vàng như vàng cho nên có tên là kim ngân (kim là vàng, ngân là bạc); cây kim ngân xanh tốt vào mùa đông cho nên _còn có tên là_ nhẫn đông nghĩa là chịu đựng mùa đông, 4 nhị thòi dài cao hơn tràng; vòi nhụy lại thòi dài cao hơn nhị, mùi thơm dễ chịu. Quả hình trứng dài chừng 5 mm (Hình 37, Hm 4,3).
+
 Hình 37. Kim ngân - Lonicera japonica
 
 #### B. Phân bố, thu hái và chế biến
@@ -78,4 +82,3 @@ Thuốc K1 (Đỗ Tất Lợi, 1960) chữa mụn nhọt, mẩn ngứa, một s�
 Thuốc K2 (Đỗ Tất Lợi, 1960) là đơn thuốc trên thêm 3g ké đầu ngựa vào. Cùng một công dụng và liều dùng
 Thuốc chữa mụn nhọt, mẩn ngứa, thông tiểu: Hoa kim ngân 6g, cam thảo 3g, nước 200ml, sắc còn 100ml, chia 2 hay 3 lần uống trong ngày.
 Ngân kiều tán (bài thuốc kinh nghiệm từ cổ) thường dùng chữa mụn nhọt, sốt, cảm: Hoa kim ngân 40g, liên kiều 40g, kinh giới tuệ 16g, cát cánh 24g, đạm đậu sị 20g, bạc hà 24g, ngưu bàng tử 24g, đạm trúc diệp 16g. Tất cả sấy khô tán bột. Có thể làm thành viên. Ngày uống 1-2 lần, mỗi lần uống 12g bột.
-

@@ -3,6 +3,8 @@ title: "84. Đơn thuốc có củ ráy"
 weight: 84
 navWeight: 917
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có củ ráy

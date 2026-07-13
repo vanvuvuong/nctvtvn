@@ -3,6 +3,8 @@ title: "39. Chú thích về nhầm lẫn"
 weight: 39
 navWeight: 962
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - chú thích về nhầm lẫn

@@ -3,6 +3,8 @@ title: "77. TRẦU KHÔNG"
 weight: 77
 navWeight: 924
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - trầu không

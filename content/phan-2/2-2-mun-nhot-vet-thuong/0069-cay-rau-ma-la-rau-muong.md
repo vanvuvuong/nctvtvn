@@ -3,6 +3,8 @@ title: "69. CÂY RAU MÁ LÁ RAU MUỐNG"
 weight: 69
 navWeight: 932
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây rau má lá rau muống

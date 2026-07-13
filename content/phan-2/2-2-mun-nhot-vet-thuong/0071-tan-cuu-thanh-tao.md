@@ -3,6 +3,8 @@ title: "71. TẦN CỬU (THANH TÁO)"
 weight: 71
 navWeight: 930
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - tần cửu (thanh táo

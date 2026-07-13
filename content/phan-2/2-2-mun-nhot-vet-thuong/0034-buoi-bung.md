@@ -3,6 +3,8 @@ title: "34. BƯỞI BUNG"
 weight: 34
 navWeight: 967
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bưởi bung

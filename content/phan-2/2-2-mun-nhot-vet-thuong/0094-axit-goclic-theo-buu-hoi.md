@@ -3,6 +3,8 @@ title: "94. Axit goclic (theo Bửu Hội)"
 weight: 94
 navWeight: 907
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - axit goclic (theo bửu hội

@@ -3,6 +3,8 @@ title: "41. BẠCH HOA XÀ"
 weight: 41
 navWeight: 960
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bạch hoa xà

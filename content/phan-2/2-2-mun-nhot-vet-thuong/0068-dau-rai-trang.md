@@ -3,6 +3,8 @@ title: "68. DẦU RÁI TRẮNG"
 weight: 68
 navWeight: 933
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - dầu rái trắng

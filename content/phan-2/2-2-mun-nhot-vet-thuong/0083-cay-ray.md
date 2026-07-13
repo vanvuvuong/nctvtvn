@@ -3,6 +3,8 @@ title: "83. CÂY RÁY"
 weight: 83
 navWeight: 918
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây ráy

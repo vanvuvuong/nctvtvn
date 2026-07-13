@@ -3,6 +3,8 @@ title: "33. CÂY XÀ SÀNG 蛇床子"
 weight: 33
 navWeight: 968
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây xà sàng

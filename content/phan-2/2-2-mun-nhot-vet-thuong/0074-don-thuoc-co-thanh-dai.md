@@ -3,6 +3,8 @@ title: "74. Đơn thuốc có thanh đại"
 weight: 74
 navWeight: 927
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có thanh đại

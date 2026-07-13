@@ -3,6 +3,8 @@ title: "99. GĂNG TU HÚ"
 weight: 99
 navWeight: 902
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - găng tu hú

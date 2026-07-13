@@ -3,6 +3,8 @@ title: "32. HẠ KHÔ THẢO 夏枯草"
 weight: 32
 navWeight: 969
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - hạ khô thảo

@@ -3,6 +3,8 @@ title: "37. SÀI ĐẤT"
 weight: 37
 navWeight: 964
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - sài đất

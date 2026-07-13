@@ -3,6 +3,8 @@ title: "60. của dung dịch liên kiều"
 weight: 60
 navWeight: 941
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - của dung dịch liên kiều

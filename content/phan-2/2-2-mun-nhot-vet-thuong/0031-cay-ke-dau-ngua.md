@@ -3,6 +3,8 @@ title: "31. CÂY KÉ ĐẦU NGỰA"
 weight: 31
 navWeight: 970
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây ké đầu ngựa

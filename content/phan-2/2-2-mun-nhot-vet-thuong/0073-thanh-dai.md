@@ -3,6 +3,8 @@ title: "73. THANH ĐẠI"
 weight: 73
 navWeight: 928
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - thanh đại

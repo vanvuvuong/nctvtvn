@@ -3,6 +3,8 @@ title: "72. Đơn thuốc có thanh táo"
 weight: 72
 navWeight: 929
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có thanh táo

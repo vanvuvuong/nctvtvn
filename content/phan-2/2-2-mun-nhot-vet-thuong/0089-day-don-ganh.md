@@ -3,6 +3,8 @@ title: "89. DÂY ĐÒN GÁNH"
 weight: 89
 navWeight: 912
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - dây đòn gánh

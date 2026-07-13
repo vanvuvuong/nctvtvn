@@ -3,6 +3,8 @@ title: "36. CON RẾT"
 weight: 36
 navWeight: 965
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - con rết

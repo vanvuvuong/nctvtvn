@@ -3,6 +3,8 @@ title: "86. BẠC THAU"
 weight: 86
 navWeight: 915
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bạc thau

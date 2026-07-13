@@ -3,6 +3,8 @@ title: "46. BÙNG BỤC"
 weight: 46
 navWeight: 955
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bùng bục

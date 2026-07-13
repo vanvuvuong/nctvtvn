@@ -3,6 +3,8 @@ title: "35. CÂY MÃ TIÊN THẢO 馬鞭草"
 weight: 35
 navWeight: 966
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây mã tiên thảo

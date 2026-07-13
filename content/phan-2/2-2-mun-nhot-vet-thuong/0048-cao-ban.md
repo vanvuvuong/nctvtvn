@@ -3,6 +3,8 @@ title: "48. CẢO BẢN"
 weight: 48
 navWeight: 953
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cảo bản

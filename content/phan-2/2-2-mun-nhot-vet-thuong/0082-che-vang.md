@@ -3,6 +3,8 @@ title: "82. CHÈ VẰNG"
 weight: 82
 navWeight: 919
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - chè vằng

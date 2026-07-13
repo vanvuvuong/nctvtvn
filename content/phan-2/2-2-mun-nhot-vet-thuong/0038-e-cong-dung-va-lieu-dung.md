@@ -3,6 +3,8 @@ title: "38. E- Công dụng và liều dùng"
 weight: 38
 navWeight: 963
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - e- công dụng và liều dùng

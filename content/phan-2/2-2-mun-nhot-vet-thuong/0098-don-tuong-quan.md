@@ -3,6 +3,8 @@ title: "98. ĐƠN TƯỚNG QUÂN"
 weight: 98
 navWeight: 903
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn tướng quân

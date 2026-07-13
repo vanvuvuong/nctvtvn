@@ -3,6 +3,8 @@ title: "44. Những đơn thuốc dùng bèo cái trong nhân dân"
 weight: 44
 navWeight: 957
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - những đơn thuốc dùng bèo cái trong nhân dân

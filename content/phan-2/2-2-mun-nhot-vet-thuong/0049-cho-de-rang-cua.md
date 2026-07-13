@@ -3,6 +3,8 @@ title: "49. CHÓ ĐẺ RĂNG CƯA"
 weight: 49
 navWeight: 952
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - chó đẻ răng cưa

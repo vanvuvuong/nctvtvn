@@ -3,6 +3,8 @@ title: "79. THỒM LỒM"
 weight: 79
 navWeight: 922
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - thồm lồm

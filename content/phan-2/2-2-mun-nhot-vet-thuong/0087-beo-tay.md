@@ -3,6 +3,8 @@ title: "87. BÈO TÂY"
 weight: 87
 navWeight: 914
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
+benh:
+  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bèo tây
