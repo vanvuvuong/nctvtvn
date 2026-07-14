@@ -18,7 +18,7 @@ description: "Còn gọi là khung cùng, tang ky."
 images:
   - /images/hinh-506.png
 benh:
-  - kinh nguyệt không đều
+  - kinh nguyệt
   - nhức đầu
   - thiên đầu thống
 ---
@@ -135,4 +135,4 @@ Xem vậy, ta thấy cần kiểm tra lại tên thực vật và thành phần 
 
 Trong cây cao bản Ligusticum sinense chỉ mới biết có tinh dầu. Thành phần của tinh dầu và hoạt chất khác chưa thấy có tài liệu nghiên cứu.
 
-![XUYÊN KHUNG 川芎 — Hình 506](/images/hinh-506.png)
+![Hình 506. Xuyên khung - Ligusticum wallichii](/images/hinh-506.png)

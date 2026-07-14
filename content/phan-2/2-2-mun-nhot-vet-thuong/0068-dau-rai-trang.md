@@ -3,8 +3,6 @@ title: "DẦU RÁI TRẮNG"
 weight: 68
 navWeight: 933
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - dầu rái trắng
@@ -14,6 +12,8 @@ keywords:
   - chữa các vết loét
 slug: "dau-rai-trang"
 description: "Còn gọi là dầu nước, nhang, yang may yang (Lào)."
+benh:
+  - mụn nhọt
 ---
 
 

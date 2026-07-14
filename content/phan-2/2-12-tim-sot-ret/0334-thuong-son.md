@@ -31,9 +31,7 @@ benh:
   - sốt rét
   - bệnh sốt rét
   - sốt rét mạnh hơn quinin
-  - sốt rét thường nhưng có nhược
-  - sốt rét thì thấy
-  - sốt rét mới bị
+  - sốt rét thường
   - sốt thường
   - chừng
   - trừ ve
@@ -41,6 +39,8 @@ benh:
   - cảm mạo
   - bị ngộ độc nôn mửa
   - ho trừ đờm
+  - phong nhiệt sinh ho
+  - vị nhiệt sinh nôn mửa
 ---
 
 
@@ -481,14 +481,14 @@ Xạ can 4g, hoàng cầm 2g, sinh cam thảo 2g, cát cánh 2g. Các vị tán 
 
 Xạ can tươi, giã nhỏ, vắt lấy nước uống, hễ thấy lợi tiểu tiện thì thôi.
 
-![THƯỜNG SƠN 常山 — Hình 500](/images/hinh-500.png)
+![Hình 500. Thường sơn - Dichroa febrifuga](/images/hinh-500.png)
 
-![THƯỜNG SƠN 常山 — Hình 501](/images/hinh-501.png)
+![Hình 501. Thường sơn - Dichroa febrifuga](/images/hinh-501.png)
 
-![THƯỜNG SƠN 常山 — Hình 503](/images/hinh-503.png)
+![Hình 503. Thường sơn - Dichroa febrifuga](/images/hinh-503.png)
 
-![THƯỜNG SƠN 常山 — Hình 504](/images/hinh-504.png)
+![Hình 504. Thường sơn - Dichroa febrifuga](/images/hinh-504.png)
 
-![THƯỜNG SƠN 常山 — Hình 505](/images/hinh-505.png)
+![Hình 505. Thường sơn - Dichroa febrifuga](/images/hinh-505.png)
 
-![THƯỜNG SƠN 常山 — Hình 520](/images/hinh-520.png)
+![Hình 520. Thường sơn - Dichroa febrifuga](/images/hinh-520.png)

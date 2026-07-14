@@ -15,6 +15,7 @@ benh:
   - bệnh đái đường
   - mồ hối toát
   - phong hàn thấp tỳ
+  - bệnh
   - bán thân bất toại
   - bệnh chân tay đau nhức
 ---

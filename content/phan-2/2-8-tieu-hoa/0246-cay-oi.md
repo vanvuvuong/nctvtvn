@@ -15,7 +15,7 @@ slug: "cay-oi"
 description: "Còn gọi ià ủi, phan thạch lựu, guajava. Thuộc họ Sim Myrtaceae."
 benh:
   - đi ỉa lỏng
-  - đau bụng đi ngoài kinh nghiệm
+  - đau bụng đi ngoài kinh nghiệm lâu
   - đi ngoài
 ---
 

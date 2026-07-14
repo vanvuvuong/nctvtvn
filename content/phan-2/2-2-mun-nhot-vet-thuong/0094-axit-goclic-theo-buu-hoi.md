@@ -3,8 +3,6 @@ title: "Axit goclic (theo Bửu Hội)"
 weight: 94
 navWeight: 907
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - axit goclic (theo bửu hội
@@ -14,6 +12,8 @@ keywords:
   - chữa một số bệnh ngoài da
 slug: "axit-goclic-theo-buu-hoi"
 description: "Dầu đại phong tử có tác dụng kích ứng: bôi lên da thì nơi da bôi dầu bị đỏ và có khi mọng nước. Thường dùng bôi lên da để chữa ngứa và bệnh hủi."
+benh:
+  - mụn nhọt
 ---
 
 

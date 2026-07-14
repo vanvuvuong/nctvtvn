@@ -11,7 +11,7 @@ slug: "ca-dai-hoa-trang"
 description: "Cỏn gọi là cà pháo, trăng lao (Buôn ma thuột)."
 benh:
   - cảm mạo
-  - viêm xoang mũi như cây cứt
+  - viêm xoang mũi
   - rắn cắn sưng tấy
   - rắn cắn
 ---

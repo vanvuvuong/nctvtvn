@@ -271,4 +271,4 @@ Hậu phác 6g, chỉ thực 3g, đại hoàng 3g, nước 600ml, sắc còn 300
 
 Hậu phác, tẩm nước gừng rồi nướng hay sao vàng, tán nhỏ. Ngày uổng 2 hay 3 lần, mỗi lần 3- 4g bột này.
 
-![GỪNG GIÓ — Hình 277](/images/hinh-277.png)
+![Hình 277. Gừng gió - Zingiber zerumbet](/images/hinh-277.png)

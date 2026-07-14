@@ -18,6 +18,7 @@ images:
 benh:
   - kinh tế
   - giá năm
+  - bệnh
   - bệnh xơ vữa động mạch
   - viêm phế quản
 ---
@@ -152,6 +153,6 @@ Ngoài hải sâm Stichopus japonicus nói trên, người ta còn khai thác d�
 
 Do nhu cầu tăng lên, nhiều nước đã đặt vấn đề nuôi hải sâm để đảm bảo nhu cầu dùng trong nước và xuất khẩu.
 
-![CON SAM 鱟 — Hình 768](/images/hinh-768.png)
+![Hình 768. Con sam - Tachypleus tridentatus](/images/hinh-768.png)
 
-![CON SAM 鱟 — Hình 770](/images/hinh-770.png)
+![Hình 770. Con sam - Tachypleus tridentatus](/images/hinh-770.png)

@@ -3,8 +3,6 @@ title: "DÂM BỤT"
 weight: 51
 navWeight: 950
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - dâm bụt
@@ -13,6 +11,8 @@ keywords:
   - điều kinh
 slug: "dam-but"
 description: "Còn gọi là bụp (miền Nam), xuyên can bì."
+benh:
+  - mụn nhọt
 ---
 
 

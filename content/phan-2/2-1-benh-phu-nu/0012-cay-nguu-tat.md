@@ -3,9 +3,6 @@ title: "CÂY NGƯU TẤT 牛膝"
 weight: 12
 navWeight: 989
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - cholesterol máu cao
-  - bổ can thận
 keywords:
   - bệnh phụ nữ
   - cây ngưu tất
@@ -18,6 +15,9 @@ slug: "cay-nguu-tat"
 description: "Còn có tên là cây cỏ xước, hoài ngưu tất."
 images:
   - /images/18-nguu-tat.png
+benh:
+  - cholesterol máu cao
+  - bổ can thận
 ---
 
 _Còn có tên là_ cây cỏ xước, hoài ngưu tất.
@@ -34,7 +34,7 @@ Sách cổ nói: vị thuốc giống đầu gối con trâu nên gọi là ngư
 
 Cây ngưu tất là một loại cỏ xước cho nên người ta nhầm với cây cỏ xước _Achyranthes aspera L_. Cỏ có thân mảnh, hơi vuông, thường chỉ cao 1m, cũng có khi tới 2m. Lá mọc đối có cuống, dài 5-12cm, rộng 2-4cm, phiến lá hình trứng, đầu nhọn, mép nguyên. Cụm hoa mọc thành bông ở đầu cành hoặc kẽ lá (Hình 18, Hm 2,1).
 
-![CÂY NGƯU TẤT 牛膝 — Hình 18](/images/18-nguu-tat.png)
+![Hình 18. Cây ngưu tất - Achyranthes bidentata](/images/18-nguu-tat.png)
 
 Hình 18. Cây ngưu tất - Achyranthes bidenlata
 

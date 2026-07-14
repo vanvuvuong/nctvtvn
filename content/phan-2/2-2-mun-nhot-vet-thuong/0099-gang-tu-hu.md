@@ -3,8 +3,6 @@ title: "GĂNG TU HÚ"
 weight: 99
 navWeight: 902
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - găng tu hú
@@ -14,6 +12,8 @@ keywords:
   - chữa ỉa chảy
 slug: "gang-tu-hu"
 description: "Còn gọi là găng trâu, mây nghiêng pa (Lào)."
+benh:
+  - mụn nhọt
 ---
 
 

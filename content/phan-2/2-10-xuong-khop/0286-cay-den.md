@@ -13,7 +13,7 @@ keywords:
 slug: "cay-den"
 description: "Còn gọi lả cây sai (Hà Bắc-Sơn Động), cây thối ruột, mảy sẳn sãn (Thổ)."
 benh:
-  - kinh nguyệt không đều
+  - kinh nguyệt
   - đau nhức tê thấp
   - sốt rét
   - bệnh đau nhức khớp xương

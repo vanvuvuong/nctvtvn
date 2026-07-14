@@ -3,8 +3,6 @@ title: "BỌ MẨY 大青"
 weight: 24
 navWeight: 977
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - sốt phát ban
 keywords:
   - bệnh phụ nữ
   - bọ mẩy
@@ -15,6 +13,8 @@ slug: "bo-may"
 description: "Còn gọi là đại thanh, đắng cay, mẩy kỳ cáy, thanh thảo tâm, bọ nẹt."
 images:
   - /images/31-bo-may.png
+benh:
+  - sốt phát ban
 ---
 
 _Còn gọi là_ đại thanh, đắng cay, mẩy kỳ cáy, thanh thảo tâm, bọ nẹt.
@@ -27,7 +27,7 @@ Thuộc họ Cỏ roi ngựa _Verbenaceae_.
 
 Cây nhỏ, cành tròn, lúc non có lông sau nhẵn. Lá hình mác đầu nhọn, phía cuống cũng nhọn, hay hơi tròn, hai mặt đều nhẵn, màu xanh lục sẫm, dài 5-13cm, rộng 3-7cm, gân nổi rõ ở mặt dưới. Cụm hoa hình ngù chùy, nhẵn, mang những nhánh hoa thưa, màu trắng, đôi khi màu hồng. Đài và tràng hoa có lông. Nhị thòi dài gấp 2 ống hoa. Nhụy có vòi dài bằng hay gần bằng nhị, núm xẻ hai. Quả nhỏ bọc trong đài (Hình 31).
 
-![BỌ MẨY 大青 — Hình 31](/images/31-bo-may.png)
+![Hình 31. Bọ mẩy - Clerodendron cyrtophyllum](/images/31-bo-may.png)
 
 Hình 31. Bọ mây - Clerodendron crophyllum
 

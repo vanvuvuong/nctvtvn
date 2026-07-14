@@ -18,7 +18,7 @@ description: "Còn gọi ìà đò ho, tò ho, mac hâu, may mac hâu (Thái)."
 benh:
   - sốt rét
   - đau bụng
-  - bệnh không trung tiện
+  - bệnh
   - ngộ độc
   - giun
 ---

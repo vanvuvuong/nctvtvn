@@ -26,6 +26,7 @@ benh:
   - giá
   - trẻ em kinh phong
   - bệnh cam còm
+  - bệnh
   - tim
   - dinh dưỡng
   - phát bối
@@ -376,10 +377,10 @@ Mỗi lần uống 1g bột này, mỗi ngày uống 2 hay 3 lần, dùng nướ
 
 Chữa người già bị tiểu tiện khó khăn: Dế mèn 4 con, dế dũi 4 con, cam thảo 3g, nước 400ml, sắc còn 200ml, chia 3 lần uống trong ngày.
 
-![XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT — Hình 723](/images/hinh-723.png)
+![Hình 723. Xxii. các vị thuốc khác nguồn gốc động vật - Bombyx cum](/images/hinh-723.png)
 
-![XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT — Hình 724](/images/hinh-724.png)
+![Hình 724. Xxii. các vị thuốc khác nguồn gốc động vật - Bombyx cum](/images/hinh-724.png)
 
-![XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT — Hình 725](/images/hinh-725.png)
+![Hình 725. Xxii. các vị thuốc khác nguồn gốc động vật - Bombyx cum](/images/hinh-725.png)
 
-![XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT — Hình 726](/images/hinh-726.png)
+![Hình 726. Xxii. các vị thuốc khác nguồn gốc động vật - Bombyx cum](/images/hinh-726.png)

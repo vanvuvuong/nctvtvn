@@ -3,8 +3,6 @@ title: "SÀI ĐẤT"
 weight: 37
 navWeight: 964
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - sài đất
@@ -13,6 +11,8 @@ keywords:
   - dùng làm thuốc
 slug: "sai-dat"
 description: "Còn gọi là húng trám, ngổ núi, cúc nháp, cúc giáp, hoa múc."
+benh:
+  - mụn nhọt
 ---
 
 

@@ -35,17 +35,17 @@ benh:
   - sang thương thũng độc
   - hư lao gầy yếu
   - mệt mỏi
-  - bệnh liệt dương ích tinh khí
+  - bệnh liệt dương ích tinh khí trừ
   - khớp xương bị sưng phù
-  - mất ngù
+  - mắt ngù
   - hư lao sinh ho
   - đi ỉa lỏng
   - loét dạ dày
   - bệnh nam giới
   - bệnh phụ nữ
-  - và phòng một số
   - gầy yếu
-  - bệnh mùa hạ
+  - bệnh mùa hạ thêm
+  - ho suyễn
 ---
 
 
@@ -1150,22 +1150,22 @@ Thường dùng chữa hư yếu, ho lao, sốt từng cơn, hen suyễn, thổ 
 
 Theo tài liệu cổ thì đối với những người biểu tà, vị hư hàn không dùng được.
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 710](/images/hinh-710.png)
+![Hình 710. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-710.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 711](/images/hinh-711.png)
+![Hình 711. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-711.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 712](/images/hinh-712.png)
+![Hình 712. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-712.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 714](/images/hinh-714.png)
+![Hình 714. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-714.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 715](/images/hinh-715.png)
+![Hình 715. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-715.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 716](/images/hinh-716.png)
+![Hình 716. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-716.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 717](/images/hinh-717.png)
+![Hình 717. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-717.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 718](/images/hinh-718.png)
+![Hình 718. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-718.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 720](/images/hinh-720.png)
+![Hình 720. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-720.png)
 
-![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 721](/images/hinh-721.png)
+![Hình 721. Xxi. các vị thuốc bổ nguồn gốc động vật](/images/hinh-721.png)

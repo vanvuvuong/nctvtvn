@@ -22,11 +22,10 @@ description: "Còn gọi là nước dãi, nước miếng, thần thuỷ (nư�
 benh:
   - mụn nhọt sưng đau
   - cao bầy cách trị mụn mọc
-  - lại không tốn tiền
   - nhọt sưng đau
   - mụn hạt cơm
-  - khỏi bằng cách buộc chỉ
-  - kiểu
+  - khỏi bằng cách buộc
+  - bằng tàn giấy
 ---
 
 

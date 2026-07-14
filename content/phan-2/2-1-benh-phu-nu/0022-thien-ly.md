@@ -3,9 +3,6 @@ title: "THIÊN LÝ 夜来香"
 weight: 22
 navWeight: 979
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - lòi dom
-  - sa dạ con
 keywords:
   - bệnh phụ nữ
   - thiên lý
@@ -18,6 +15,9 @@ slug: "thien-ly"
 description: "Còn gọi là cây hoa lý, hoa thiên lý, dạ lài hương"
 images:
   - /images/28-thien-ly.png
+benh:
+  - lòi dom
+  - sa dạ con
 ---
 
 _Còn gọi là_ cây hoa lý, hoa thiên lý, dạ lài hương
@@ -30,7 +30,7 @@ Thuộc họ Thiên lý _Asclepiadaceae_.
 
 Thiên lý là một loại cây nhỏ, mọc leo, thân hơi có lông, nhất là ở những bộ phận còn non. Lá hình tim, thuôn, khía mép ở khoảng 5-8mm về phía cuống, đầu lá nhọn, có lông trên các gân lá; phiến lá dài 6-11cm, rộng 4-7,5cm, cuống cũng có lông, dài 12-20mm. Hoa khá to, nhiều, màu vàng xanh lục nhạt, rất thơm, thành xim tán, có cuống to, hơi có lông, dài 10-22m, mang nhiều tán mọc mau liền với nhau. Quả là những đại dài 6,5-9,5 cm, rộng 12-14mm (Hình 28).
 
-![THIÊN LÝ 夜来香 — Hình 28](/images/28-thien-ly.png)
+![Hình 28. Thiên lý - Telosma cordata](/images/28-thien-ly.png)
 
 Hình 28. Thiên lý - Telosma cordata
 

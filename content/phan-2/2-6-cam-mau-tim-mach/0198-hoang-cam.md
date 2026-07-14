@@ -21,7 +21,7 @@ benh:
   - cao huyết ấp
   - tim
   - cao huyết áp thấy huyết áp
-  - cao huyết áp thực nghiệm tạo
+  - cao huyết áp thực nghiệm tạo trên
   - sốt
   - cảm mạo
   - hàn nhiệt vãng

@@ -3,8 +3,6 @@ title: "CÂY RÁY"
 weight: 83
 navWeight: 918
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây ráy
@@ -14,6 +12,8 @@ keywords:
   - dùng làm thuốc
 slug: "cay-ray"
 description: "Còn gọi là cây ráy dại, dã vu."
+benh:
+  - mụn nhọt
 ---
 
 

@@ -30,11 +30,12 @@ images:
   - /images/hinh-616.png
 benh:
   - trĩ
+  - bằng lối
   - sốt
   - lưng gối đau nhức
   - rắn cắn
   - viêm phế quản khó thở
-  - hư phiền không ngủ
+  - hư phiền
   - giun
   - hen
   - cảm mạo
@@ -437,16 +438,16 @@ Rễ cây xấu hổ, thái thành từng miếng mỏng phơi khô. Ngày dùng
 
 Cần chú ý nghiên cứu thêm.
 
-![CÂY VÔNG NEM 刺桐 — Hình 610](/images/hinh-610.png)
+![Hình 610. Cây vông nem - Erythrina orientalis](/images/hinh-610.png)
 
-![CÂY VÔNG NEM 刺桐 — Hình 611](/images/hinh-611.png)
+![Hình 611. Cây vông nem - Erythrina orientalis](/images/hinh-611.png)
 
-![CÂY VÔNG NEM 刺桐 — Hình 612](/images/hinh-612.png)
+![Hình 612. Cây vông nem - Erythrina orientalis](/images/hinh-612.png)
 
-![CÂY VÔNG NEM 刺桐 — Hình 613](/images/hinh-613.png)
+![Hình 613. Cây vông nem - Erythrina orientalis](/images/hinh-613.png)
 
-![CÂY VÔNG NEM 刺桐 — Hình 614](/images/hinh-614.png)
+![Hình 614. Cây vông nem - Erythrina orientalis](/images/hinh-614.png)
 
-![CÂY VÔNG NEM 刺桐 — Hình 615](/images/hinh-615.png)
+![Hình 615. Cây vông nem - Erythrina orientalis](/images/hinh-615.png)
 
-![CÂY VÔNG NEM 刺桐 — Hình 616](/images/hinh-616.png)
+![Hình 616. Cây vông nem - Erythrina orientalis](/images/hinh-616.png)

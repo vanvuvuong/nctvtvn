@@ -20,21 +20,21 @@ keywords:
 slug: "cam-thao-bac"
 description: "Còn có tên là bắc cam thảo, cam thảo, sinh cam thảo, quốc lão."
 benh:
-  - đau dạ dày lưu hành tại
-  - bệnh đau dạ dày thí nghiệm
+  - đau dạ dày lưu hành
+  - bằng cao cam thảo
+  - bệnh đau dạ dày
   - táo bón
   - cháy
-  - tỳ hư mà ỉa lỏng
+  - tỳ hư
   - đau họng
   - bệnh addidơn
-  - khỏi một trường hợp ađidơn
+  - khỏi
   - đau dạ dày
   - loét dạ dày
   - sốt quá hóa điên cuồng
   - cảm sốt quá hóa điên cuồng
   - đau mắt bằng hạt
   - rắn độc cắn
-  - bệnh đau mắt hột
 ---
 
 

@@ -18,8 +18,8 @@ benh:
   - bệnh hắc lào
   - khỏi
   - bệnh ghẻ
-  - ăn uống không tiêu
-  - thong manh có màng
+  - ăn uống
+  - thong manh
   - bệnh đau mắt
   - đau mắt
 ---

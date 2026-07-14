@@ -16,7 +16,7 @@ keywords:
 slug: "cu-nau"
 description: "Còn gọi là khoai leng, vũ dư lương."
 benh:
-  - thuỷ bị thiếu lương thực dùng
+  - thuỷ bị thiếu lương thực dùng củ
   - xích bạch đới
   - ỉa chảy
   - âm nang sưng đau

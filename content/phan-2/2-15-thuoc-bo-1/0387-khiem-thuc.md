@@ -18,7 +18,7 @@ benh:
   - bệnh thần kinh suy nhược
   - củ mài
   - dinh dưỡng
-  - khỏi một trường hợp đi đái
+  - khỏi
   - tả lỵ lâu ngày
   - chân tay yếu mỏi
   - bệnh liệt dương

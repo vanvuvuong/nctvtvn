@@ -3,12 +3,6 @@ title: "BÁN HẠ 半复"
 weight: 9
 navWeight: 992
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - ho
-  - long đờm
-  - nôn mửa
-  - nhức đầu
-  - hen suyễn
 keywords:
   - bệnh phụ nữ
   - bán hạ
@@ -24,6 +18,11 @@ description: "Thiên Nguyệt lịch sách Lễ ký nói: Vị thuốc này sinh
 images:
   - /images/15-ban-ha-vn.png
   - /images/16-ban-ha-tq.png
+benh:
+  - long đờm
+  - nôn mửa
+  - nhức đầu
+  - hen suyễn
 ---
 
 _Thiên Nguyệt lịch sách Lễ ký_ nói: Vị thuốc này sinh vào giữa mùa hạ nên gọi là bán hạ. Bán hạ là thân rễ phơi hay sấy khô và chế biến của nhiều cây khác nhau, đều thuộc họ Ráy _Araceae_.
@@ -38,13 +37,13 @@ Ngoài ra còn một số cây khác nữa, cần chú ý khi dùng và nghiên 
 
 Cây bán hạ Việt Nam (_Typhonium trilobatum_ Schott) (Hình 15) còn gọi là _củ chóc, lá ba chia, cây chóc chuột_, là một loại cỏ không có thân, có củ hình cầu đường kính tới 2cm. Lá hình tim, hay hình mác, hoặc chia 3 thuỳ dài 4-15cm rộng 3,5-9cm. Bông mo với phần hoa đực dài 5- 9mm, phần trần dài 17-27mm. Quả mọng, hình trứng dài 6mm .
 
-![BÁN HẠ 半复 — Hình 15](/images/15-ban-ha-vn.png)
+![Hình 15. Bán hạ](/images/15-ban-ha-vn.png)
 
 _Hình 15. Bán hạ Việt nam - Typhonium divaricatum_
 
 Cây bán hạ Trung Quốc (_Pinellia ternata_ Thunb.) Breiter (Hình 16) khác cây bán hạ Việt Nam ở chỗ thuỳ xẻ sâu rõ rệt hơn. Mặc dầu gọi là bán hạ Trung Quốc để phân biệt với bán hạ _"Việt Nam"_, nhưng có người nói đã thấy cây này mọc ở Lào Cai nhưng chưa được khai thác (Hm 5,4).
 
-![BÁN HẠ 半复 — Hình 16](/images/16-ban-ha-tq.png)
+![Hình 16. Bán hạ](/images/16-ban-ha-tq.png)
 
 _Hình 16. Bán hạ Trung quốc - Pinellia ternata_
 

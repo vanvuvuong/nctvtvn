@@ -3,8 +3,6 @@ title: "E- Công dụng và liều dùng"
 weight: 38
 navWeight: 963
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - e- công dụng và liều dùng
@@ -14,6 +12,8 @@ keywords:
   - trị có kết quả mọi trường hợp viêm tây ngoài da
 slug: "e-cong-dung-va-lieu-dung"
 description: "Nhân dân Bắc Ninh, Bắc Giang và nhiều nơi khác vẫn dùng cây sài đất ăn sống như rau với thịt hay cá."
+benh:
+  - mụn nhọt
 ---
 
 

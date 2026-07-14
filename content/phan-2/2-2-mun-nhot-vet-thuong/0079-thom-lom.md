@@ -3,8 +3,6 @@ title: "THỒM LỒM"
 weight: 79
 navWeight: 922
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - thồm lồm
@@ -20,6 +18,8 @@ keywords:
   - chữa những bệnh ngoài da nhiễm liên cầu khuẩn khác như chốc đầu
 slug: "thom-lom"
 description: "Còn gọi là đuôi tôm, mía giò, bẻm, mía bẻm, mía nung, cây lôm, chuồng chuồng, hỏa khôi mẫu, săm koy (Luang Prabang)."
+benh:
+  - mụn nhọt
 ---
 
 

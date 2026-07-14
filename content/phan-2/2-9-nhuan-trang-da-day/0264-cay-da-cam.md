@@ -14,7 +14,7 @@ slug: "cay-da-cam"
 description: "Còn gọi là cây loét mồm, đất lượt, đứt lướt, chạ khẩu cắm."
 benh:
   - loét mồm
-  - bệnh đau đạ dày từ năm
+  - bệnh đau dạ dày
   - viêm lưỡi
 ---
 

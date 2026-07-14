@@ -22,11 +22,11 @@ slug: "sinh-dia"
 description: "Còn gọi là địa hoàng, thục địa."
 benh:
   - bệnh về huyết
-  - thương hàn ôn
+  - thương hàn ôn bệnh
   - huyết hư
   - đau đầu
   - ho khan
-  - gầy yếu có thể trị đường
+  - gầy yếu
 ---
 
 

@@ -11,7 +11,7 @@ keywords:
 slug: "duong-xuan-sa"
 description: "Còn gọi là xuân sa, sa nhân, mé tré bà."
 benh:
-  - hơn vì ít tinh dầu
+  - hơn
 ---
 
 

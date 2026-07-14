@@ -26,10 +26,9 @@ images:
   - /images/hinh-679.png
 benh:
   - khí hư
-  - bệnh ngoài da như chốc lở
+  - bệnh ngoài da
   - hư hàn
   - đau lưng
-  - người già yếu
   - thương phong
   - cao huyết áp
   - bệnh cao huyết áp
@@ -262,8 +261,8 @@ Trẻ con bị xích bạch lỵ:
 
 Dùng dầu vừng 5 hay 10g tùy theo tuổi hòa với mật ong cho uống.
 
-![HỒ ĐÀO 胡桃 — Hình 677](/images/hinh-677.png)
+![Hình 677. Hồ đào - Juglans regia](/images/hinh-677.png)
 
-![HỒ ĐÀO 胡桃 — Hình 678](/images/hinh-678.png)
+![Hình 678. Hồ đào - Juglans regia](/images/hinh-678.png)
 
-![HỒ ĐÀO 胡桃 — Hình 679](/images/hinh-679.png)
+![Hình 679. Hồ đào - Juglans regia](/images/hinh-679.png)

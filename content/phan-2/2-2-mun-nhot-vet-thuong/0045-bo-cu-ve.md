@@ -3,8 +3,6 @@ title: "BỒ CU VẼ"
 weight: 45
 navWeight: 956
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bồ cu vẽ
@@ -14,6 +12,8 @@ keywords:
   - chữa bệnh giun chỉ
 slug: "bo-cu-ve"
 description: "Còn gọi là đỏ đọt, mào gà, bồ long anh, sâu vẽ, bọ mảy."
+benh:
+  - mụn nhọt
 ---
 
 

@@ -3,8 +3,6 @@ title: "Đơn thuốc có vị đại phong tử"
 weight: 95
 navWeight: 906
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có vị đại phong tử
@@ -13,6 +11,8 @@ keywords:
   - chữa vết loét hủi
 slug: "don-thuoc-co-vi-dai-phong-tu"
 description: "Chữa ghẻ lở, giang mai: Đại phong tử thiêu tồn tính 10g, khinh phấn 0,5g. Giã nhỏ đại phong tử, thêm khinh phấn, cuối cùng thêm dầu vừng vào làm thành…"
+benh:
+  - mụn nhọt
 ---
 
 

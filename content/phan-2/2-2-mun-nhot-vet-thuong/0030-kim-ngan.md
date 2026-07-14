@@ -3,8 +3,6 @@ title: "KIM NGÂN 金銀"
 weight: 30
 navWeight: 971
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - kim ngân
@@ -17,6 +15,8 @@ keywords:
   - chữa có kết quả một số trường hợp viêm mũi dị ứng
 slug: "kim-ngan"
 description: "Còn gọi là Nhẫn đông"
+benh:
+  - mụn nhọt
 ---
 
 _Còn gọi là_ Nhẫn đông

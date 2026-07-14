@@ -3,8 +3,6 @@ title: "Những đơn thuốc dùng bèo cái trong nhân dân"
 weight: 44
 navWeight: 957
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - những đơn thuốc dùng bèo cái trong nhân dân
@@ -16,6 +14,8 @@ keywords:
   - thuốc giải độc có hoa kim ngân
 slug: "nhung-don-thuoc-dung-beo-cai-trong-nhan-dan"
 description: "Ngoài công dụng trên, bèo cái còn được dùng phối hợp với xà phòng để tẩy các vết trên vải, quần áo, chai, nồi có dầu mỡ, ngâm bèo cái vài ngày sẽ rửa, rất…"
+benh:
+  - mụn nhọt
 ---
 
 

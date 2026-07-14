@@ -3,8 +3,6 @@ title: "BẠC THAU"
 weight: 86
 navWeight: 915
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bạc thau
@@ -14,6 +12,8 @@ keywords:
   - thông tiểu
 slug: "bac-thau"
 description: "Còn gọi là bạch hạc đằng, bạc sau, thau bạc, mô bạc, bạch hoa đằng, lú lớn (Hải Hưng)."
+benh:
+  - mụn nhọt
 ---
 
 

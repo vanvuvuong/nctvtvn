@@ -16,8 +16,8 @@ slug: "cai-bap"
 description: "Tên khoa học Brơssica oỉeracea L. var capitata DC."
 benh:
   - đầu choáng mắt hoa
-  - bệnh đau dạ dày thừa nước
-  - lành khá mau chóng các ổ
+  - bệnh đau dạ dày
+  - lành khá mau chóng
   - loét
   - bàng nước ép cải bắp
   - dạ dầy
@@ -25,7 +25,7 @@ benh:
   - phong thấp
   - bệnh phụ nữ khí hư
   - phong hàn
-  - ngang lưng đau nhức kinh nghiệm
+  - ngang lưng đau nhức kinh nghiệm nhản
 ---
 
 

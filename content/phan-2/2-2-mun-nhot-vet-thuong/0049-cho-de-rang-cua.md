@@ -3,8 +3,6 @@ title: "CHÓ ĐẺ RĂNG CƯA"
 weight: 49
 navWeight: 952
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - chó đẻ răng cưa
@@ -17,6 +15,8 @@ keywords:
   - thông tiểu tiện
 slug: "cho-de-rang-cua"
 description: "Còn gọi là diệp hạ châu, diệp hòe thái, lão nha châu, prak phle (Cămpuchia)."
+benh:
+  - mụn nhọt
 ---
 
 

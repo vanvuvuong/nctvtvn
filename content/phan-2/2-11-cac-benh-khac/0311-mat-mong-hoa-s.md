@@ -19,15 +19,15 @@ description: "Còn gọi ìà mông hoa, lão mật mông hoa, lão mông hoa, h
 benh:
   - thong manh
   - ghẻ
-  - bệnh nhức đẩu
+  - bệnh nhức đầu
   - nhức đáu
   - bệnh scobut
   - đau răng
-  - răng đau như
+  - răng đau
   - đâu bụng
   - đau nhức răng
   - báng
-  - mụn to không rõ nguyên nhân
+  - mụn to
 ---
 
 

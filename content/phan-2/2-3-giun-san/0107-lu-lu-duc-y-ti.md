@@ -11,7 +11,7 @@ slug: "lu-lu-duc-y-ti"
 description: "Còn gọi là thù lù đực, gia cầu, nút áo, hiên già nhi miêu, morelle noire, raisin de oup, herbe au magicien."
 benh:
   - gan phát triển to
-  - bệnh ngoài da nhất là
+  - bệnh ngoài da nhất
   - mụn nhọt
   - gian sán
 ---

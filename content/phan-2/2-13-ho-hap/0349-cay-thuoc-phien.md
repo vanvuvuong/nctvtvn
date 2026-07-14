@@ -18,15 +18,15 @@ benh:
   - hen hoa
   - giun
   - chai chân
-  - ho như nhân hạt mơ
   - huyết ứ
   - thuỷ thũng
   - ho gà
-  - chai chân có tác dụng
   - cảm cúng
   - ho hen
-  - ho có húng chanh dùng
   - sốt
+  - đau dây thần kinh
+  - ngực bụng đầy trướng
+  - phế ung hư lao
 ---
 
 

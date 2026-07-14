@@ -17,7 +17,7 @@ benh:
   - đau nhức
   - can thân âm kém
   - bệnh bỏng rát
-  - bệnh nấm ở ngoài da
+  - bệnh nấm
 ---
 
 

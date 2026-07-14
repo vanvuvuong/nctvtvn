@@ -18,6 +18,7 @@ images:
   - /images/hinh-521.png
   - /images/hinh-522.png
 benh:
+  - bệnh
   - sốt
   - phong nhiệt
 ---
@@ -336,12 +337,12 @@ Chú thích:
 
 Ngoài cây ngâu nói trên người ta còn dùng cả hoa và lá cây ngâu dại-Aglaia odorata Lour. var. chaudocensis (Pierre) Pell. hay Aglaia chaudocensis Pierre.
 
-![DÂY QUAI BỊ — Hình 517](/images/hinh-517.png)
+![Hình 517. Dây quai bị - Tetrastigma strumarium](/images/hinh-517.png)
 
-![DÂY QUAI BỊ — Hình 518](/images/hinh-518.png)
+![Hình 518. Dây quai bị - Tetrastigma strumarium](/images/hinh-518.png)
 
-![DÂY QUAI BỊ — Hình 519](/images/hinh-519.png)
+![Hình 519. Dây quai bị - Tetrastigma strumarium](/images/hinh-519.png)
 
-![DÂY QUAI BỊ — Hình 521](/images/hinh-521.png)
+![Hình 521. Dây quai bị - Tetrastigma strumarium](/images/hinh-521.png)
 
-![DÂY QUAI BỊ — Hình 522](/images/hinh-522.png)
+![Hình 522. Dây quai bị - Tetrastigma strumarium](/images/hinh-522.png)

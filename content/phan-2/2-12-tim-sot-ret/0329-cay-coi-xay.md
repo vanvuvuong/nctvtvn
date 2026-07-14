@@ -67,4 +67,4 @@ Chú thích:
 
 Tại Trung Quốc người ta thường hay dùng một cây cùng chi với cối xay: Abutilon avicennae Gaertn (Abuliton theophrasti Medic.) cùng họ, gọi là mãnh ma hay bạch ma. Hạt của nó gọi là đông quì tử có chứa chất protit và chất béo 15- 20%, có khi tới 30% dùng chữa xích và bạch lỵ, còn dùng chữa mụn nhọt, đại tiểu tiện khó khăn, thuỷ thũng, vú sưng đau. Ngày uống 4-12g dưới dạng thuốc sắc.
 
-![CÂY CỐI XAY 磨盘草 — Hình 468](/images/hinh-468.png)
+![Hình 468. Cây cối xay - Abutilon indicum](/images/hinh-468.png)

@@ -10,8 +10,8 @@ keywords:
 slug: "cay-sung-de"
 description: "Cỏn gọi là cây sừng trâu, dương giác nữu, đương giác ảo, hoa độc mao ư hoa tử, cây sừng bò."
 benh:
-  - tim chiết từ hạt strophanthus kombe
-  - bệnh tim thay những loại
+  - tim chiết
+  - bệnh tim thay
 ---
 
 

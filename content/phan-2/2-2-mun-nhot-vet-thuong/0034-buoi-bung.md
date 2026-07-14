@@ -3,8 +3,6 @@ title: "BƯỞI BUNG"
 weight: 34
 navWeight: 967
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bưởi bung
@@ -13,6 +11,8 @@ keywords:
   - làm thuốc giúp sự tiêu hóa
 slug: "buoi-bung"
 description: "Còn có tên là cây cơm rượu, cát bối, co dọng dạnh (Thái). Tên khoa học Glycosmis pentaphylla Corr. (Glycosmis cochinchinensis (Lour.) Pierre). Thuộc họ…"
+benh:
+  - mụn nhọt
 ---
 
 

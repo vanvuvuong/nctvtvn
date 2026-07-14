@@ -3,8 +3,6 @@ title: "BẠCH HẠC"
 weight: 40
 navWeight: 961
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bạch hạc
@@ -12,6 +10,8 @@ keywords:
   - chữa bệnh hắc lào
 slug: "bach-hac"
 description: "Còn gọi là cây lác, thuốc lá nhỏ lá, cây kiên cò, nam uy linh tiên."
+benh:
+  - mụn nhọt
 ---
 
 

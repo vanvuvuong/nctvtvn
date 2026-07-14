@@ -12,7 +12,7 @@ slug: "khoai-nua"
 description: "Còn gọi là củ nưa, khoai na."
 benh:
   - rắn cắn
-  - liệt nửa
+  - liệt nửa người
   - lòi dom
   - tiểu tiện đục
   - nhức đầu

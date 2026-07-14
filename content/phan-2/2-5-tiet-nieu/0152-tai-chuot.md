@@ -15,7 +15,7 @@ keywords:
 slug: "tai-chuot"
 description: "Còn gọi lủ cây hạt bí, qua tử kim."
 benh:
-  - nhũng trường hợp viêm ống tiểu
+  - nhũng trường hợp viêm ống tiểu tiện
   - bệnh than
 ---
 

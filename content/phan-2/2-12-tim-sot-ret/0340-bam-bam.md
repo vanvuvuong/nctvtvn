@@ -16,12 +16,13 @@ images:
   - /images/hinh-525.png
 benh:
   - sốt
-  - khỏi bằng vỏ
-  - sốt rét bằng vỏ
-  - khỏi
-  - sốt rét giống như vỏ canhkina
+  - khỏi bằng vỏ cây
+  - sốt rét bằng vỏ cây
+  - bệnh
+  - khỏi bệnh
+  - sốt rét giống
   - sốt rét
-  - sốt thường người ta dùng vỏ
+  - sốt thường người ta dùng vỏ cây
   - cúm
 ---
 
@@ -291,8 +292,8 @@ Cinchonin dùng như quinin nhưng liều chỉ bằng 1/3, ngày dùng 0,5 đ�
 
 [3] (1) Cao rau má có thể chế như sau: Rau má phơi hay sấy khô. Chiết bằng cồn 95% đun sôi. Cô thu hồi cồn. Bốc hơi tới dạng cao khô. Có thể chiết một lần nữa bằng N.butanol.
 
-![BÀM BÀM — Hình 523](/images/hinh-523.png)
+![Hình 523. Bàm bàm - Entada phaseoloides](/images/hinh-523.png)
 
-![BÀM BÀM — Hình 524](/images/hinh-524.png)
+![Hình 524. Bàm bàm - Entada phaseoloides](/images/hinh-524.png)
 
-![BÀM BÀM — Hình 525](/images/hinh-525.png)
+![Hình 525. Bàm bàm - Entada phaseoloides](/images/hinh-525.png)

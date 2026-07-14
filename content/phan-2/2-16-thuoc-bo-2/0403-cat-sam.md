@@ -124,6 +124,6 @@ Thuốc hãm bổ:
 
 Toàn cây công cộng thái nhỏ 45g, vỏ cam và hạt mùi tán nhỏ 4g, nước sôi 300ml. Mỗi lần uống 45 đến 60g nước hãm này. Ngày uống hai hay ba lần.
 
-![CÁT SÂM — Hình 681](/images/hinh-681.png)
+![Hình 681. Cát sâm - Millettia speciosa](/images/hinh-681.png)
 
-![CÁT SÂM — Hình 682](/images/hinh-682.png)
+![Hình 682. Cát sâm - Millettia speciosa](/images/hinh-682.png)

@@ -12,11 +12,11 @@ keywords:
 slug: "cay-gao1"
 description: "Tên khoa học Sarcocephalus cordatus Miq."
 benh:
-  - sốt gần như vỏ cây canhkina
+  - sốt gần
   - sốt dưới dạng thuốc sắc
   - xơ gan cổ trướng vỏ gáo
   - cảm mạo
-  - ỉa chảy nhưng chủ yếu
+  - ỉa chảy
 ---
 
 

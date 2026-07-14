@@ -27,12 +27,11 @@ images:
   - /images/hinh-743.png
 benh:
   - mụn nhọt lâu lành
-  - bệnh đi tiểu như có sỏi
-  - chảy máu không ngừng
-  - kinh nguyệt không đều
+  - bệnh đi tiểu
+  - chảy máu
+  - kinh nguyệt
   - rắn
   - rắn cắn
-  - thịt rắn chỉ
   - giá
   - ung thư
   - hết sức sớm
@@ -41,6 +40,7 @@ benh:
   - đau cổ họng
   - bệnh ưa chảy máu
   - thấp khớp
+  - đau nhức thấp khớp sẵn
 ---
 
 
@@ -707,24 +707,24 @@ Tàm sa sao vàng tán nhỏ uống mỗi ngày 15g, có thể dùng rượu chi
 
 Tàm sa 40g, nước 600ml, sắc còn 300ml, chia nhiều lần uống trong ngày. Đơn thuốc này còn dùng chữa thổ tả đi mất nhiều nước quá, miệng khát.
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 733](/images/hinh-733.png)
+![Hình 733. Long duyên hương - Ambra grisea](/images/hinh-733.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 734](/images/hinh-734.png)
+![Hình 734. Long duyên hương - Ambra grisea](/images/hinh-734.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 735](/images/hinh-735.png)
+![Hình 735. Long duyên hương - Ambra grisea](/images/hinh-735.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 736](/images/hinh-736.png)
+![Hình 736. Long duyên hương - Ambra grisea](/images/hinh-736.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 737](/images/hinh-737.png)
+![Hình 737. Long duyên hương - Ambra grisea](/images/hinh-737.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 738](/images/hinh-738.png)
+![Hình 738. Long duyên hương - Ambra grisea](/images/hinh-738.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 739](/images/hinh-739.png)
+![Hình 739. Long duyên hương - Ambra grisea](/images/hinh-739.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 740](/images/hinh-740.png)
+![Hình 740. Long duyên hương - Ambra grisea](/images/hinh-740.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 741](/images/hinh-741.png)
+![Hình 741. Long duyên hương - Ambra grisea](/images/hinh-741.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 742](/images/hinh-742.png)
+![Hình 742. Long duyên hương - Ambra grisea](/images/hinh-742.png)
 
-![LONG DUYÊN HƯƠNG 龍延香 — Hình 743](/images/hinh-743.png)
+![Hình 743. Long duyên hương - Ambra grisea](/images/hinh-743.png)

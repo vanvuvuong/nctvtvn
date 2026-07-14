@@ -18,7 +18,7 @@ benh:
   - viêm họng
   - chai chân
   - bỏng
-  - bỏng bằng cao xoan nhừ đơn
+  - bỏng bằng cao xoan nhừ đơn giản
   - ngoại trú
   - phong hai kinh can
   - kinh nguyệt bế tắc

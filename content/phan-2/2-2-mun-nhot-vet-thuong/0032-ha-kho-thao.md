@@ -3,8 +3,6 @@ title: "HẠ KHÔ THẢO 夏枯草"
 weight: 32
 navWeight: 969
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - hạ khô thảo
@@ -22,6 +20,8 @@ keywords:
   - chữa bệnh nhức mắt rất công hiệu như sau
 slug: "ha-kho-thao"
 description: "Tên khoa học Brunella (Prunella) vulgaris L. Thuộc họ Hoa môi Lamiaceae. Ta dùng cụm hoa và quả phơi hay sấy khô (Flos Brunellae cum Fructu) của cây hạ…"
+benh:
+  - mụn nhọt
 ---
 
 

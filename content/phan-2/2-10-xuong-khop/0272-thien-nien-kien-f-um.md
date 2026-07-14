@@ -20,7 +20,7 @@ benh:
   - đau khớp xương
   - bệnh vẩy nến
   - dở dang
-  - trung bình là
+  - trung bình
 ---
 
 

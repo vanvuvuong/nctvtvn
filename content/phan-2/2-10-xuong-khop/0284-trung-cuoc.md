@@ -12,7 +12,7 @@ description: "Cỏn có tên là mắc năm ngoa (Viêntían), con go, mang nam 
 benh:
   - đau nhức gân xương
   - bệnh mắt
-  - bách
+  - bách bệnh
   - tê thấp
 ---
 

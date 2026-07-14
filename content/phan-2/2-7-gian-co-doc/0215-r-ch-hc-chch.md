@@ -18,7 +18,7 @@ description: "R = -CH (OH) (CH₂)\\(n)CH₃"
 benh:
   - ngoại cảm
   - thổ tả
-  - ho mất tiếng
+  - ho mắt tiếng
 ---
 
 

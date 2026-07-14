@@ -3,8 +3,6 @@ title: "CON RẾT"
 weight: 36
 navWeight: 965
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - con rết
@@ -17,6 +15,8 @@ keywords:
   - chữa hàn nhiệt tích tụ trọng bụng
 slug: "con-ret"
 description: "Còn có tên là ngô công, thiên long, bách túc trùng, bách cước. Tên khoa học Scolopendra morsitans L. Thuộc họ Ngô công Scolopendridae. Ngô công là toàn…"
+benh:
+  - mụn nhọt
 ---
 
 

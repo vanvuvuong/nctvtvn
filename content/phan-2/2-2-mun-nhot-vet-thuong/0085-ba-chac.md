@@ -3,8 +3,6 @@ title: "BA CHẠC"
 weight: 85
 navWeight: 916
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - ba chạc
@@ -13,6 +11,8 @@ keywords:
   - làm thuốc bổ đắng
 slug: "ba-chac"
 description: "Còn gọi là dầu dấu, bí bái, mạt, kom la van tio tăng (Viêm tian), swai anor (Cămpuchia)."
+benh:
+  - mụn nhọt
 ---
 
 

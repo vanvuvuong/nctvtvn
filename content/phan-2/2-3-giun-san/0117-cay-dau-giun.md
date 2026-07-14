@@ -21,13 +21,12 @@ slug: "cay-dau-giun"
 description: "Còn có tên ỉã cây rau muối dại, cây cỏ hôi, cây thanh hao dại, thổ kinh giới."
 benh:
   - giun
-  - mà cũng chỉ cần một liều
+  - bệnh
   - giá
-  - giun vẫn có kết quả
   - bộnh
-  - trẻ em phẩn nhiều chỉ dùng
+  - trẻ em phẩn
   - khỏi chứng tả lỵ
-  - hết thảy các bệnh lờ
+  - hết thảy
   - giun đũa
   - đau nhức rảng
   - thức àn đối

@@ -18,7 +18,7 @@ images:
   - /images/hinh-259b.png
   - /images/hinh-260.png
 benh:
-  - uốn ván vì nó loại trừ
+  - uốn ván
   - thực tiễn
   - điều kinh
   - sốt
@@ -318,8 +318,8 @@ Chú thích:
 
 Loài Ganoderma lucidum được xác định là một loại thuốc đông y quý mang tên linh chi (xem vị này).
 
-![CÂY CHO CURARƠ — Hình 259](/images/hinh-259a.png)
+![Hình 259. Cây cho curarơ - Camellia sasanqua](/images/hinh-259a.png)
 
-![CÂY CHO CURARƠ — Hình 259](/images/hinh-259b.png)
+![Hình 259. Cây cho curarơ - Camellia sasanqua](/images/hinh-259b.png)
 
-![CÂY CHO CURARƠ — Hình 260](/images/hinh-260.png)
+![Hình 260. Cây cho curarơ - Camellia sasanqua](/images/hinh-260.png)

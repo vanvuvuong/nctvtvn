@@ -3,8 +3,6 @@ title: "BÈO CÁI"
 weight: 43
 navWeight: 958
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bèo cái
@@ -14,6 +12,8 @@ keywords:
   - thông kinh nguyệt
 slug: "beo-cai"
 description: "Còn gọi là đại phù bình, bèo ván, bèo tai tượng, bèo tía, thủy phù liên, đại phiêu."
+benh:
+  - mụn nhọt
 ---
 
 

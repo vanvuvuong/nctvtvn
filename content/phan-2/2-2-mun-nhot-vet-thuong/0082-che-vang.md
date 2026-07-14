@@ -3,8 +3,6 @@ title: "CHÈ VẰNG"
 weight: 82
 navWeight: 919
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - chè vằng
@@ -15,6 +13,8 @@ keywords:
   - trị bằng chè vằng thường hết sốt
 slug: "che-vang"
 description: "Còn gọi là chè cước man, dây cẩm văn, cây dâm trắng, cây lá ngón, dây vắng, mổ sẻ."
+benh:
+  - mụn nhọt
 ---
 
 

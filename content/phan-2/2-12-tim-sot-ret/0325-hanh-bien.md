@@ -16,7 +16,7 @@ description: "Tên khoa học Scilla maritima L. (Urginea scilla Steinh., Urgine
 images:
   - /images/hinh-463.png
 benh:
-  - tim mà là
+  - tim
 ---
 
 
@@ -105,4 +105,4 @@ Theo M. L. Danzel, cách chế hành biển đỏ giết chuột tiến hành nh
 
 Người ta cho rằng củ hành biển độc đối với chuột không phải do các glucozit chữa tim mà là do chất sciliroit đã nói ở trên.
 
-![HÀNH BIỂN — Hình 463](/images/hinh-463.png)
+![Hình 463. Hành biển - Scilla maritima](/images/hinh-463.png)

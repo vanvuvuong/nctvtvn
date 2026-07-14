@@ -53,4 +53,4 @@ Rễ cây cà dại hoa tím được nhân dân dùng là thuốc chữa ho, he
 
 Hạt rang cháy cho lên khói, hứng khói này vào miệng chữa đau răng và sâu răng, than hạt còn lại giã nhỏ xát lên lợi nơi đau răng.
 
-![CÀ DẠI HOA TÍM 紫花茄 — Hình 582](/images/hinh-582.png)
+![Hình 582. Cà dại hoa tím - Solanum indicum](/images/hinh-582.png)

@@ -61,4 +61,4 @@ Lá hồng bì thường được dùng nấu nước gội đầu cho sạch g�
 
 Hạt hồng bì dùng chữa rắn cắn: Nhai nát hạt hồng bì, nuốt nước, bã đắp lên nơi rắn cắn.
 
-![HỒNG BÌ 黄皮 — Hình 573](/images/hinh-573.png)
+![Hình 573. Hồng bì - Clausena lansium](/images/hinh-573.png)

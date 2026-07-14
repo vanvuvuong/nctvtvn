@@ -52,4 +52,4 @@ Dùng ngoài: Giã nát dùng riêng hay phối hợp với một số cây thu�
 
 Chú thích: Tuy mang tên cơm nếp nhưng nhân dân hầu như không dùng làm thơm thức ăn vì có độc. Để làm thơm bánh kẹo người ta dùng cây lá dứa được giới thiệu sau đây.
 
-![CÂY CƠM NẾP — Hình 683](/images/hinh-683.png)
+![Hình 683. Cây cơm nếp - Strobilanthes acrocephalus](/images/hinh-683.png)

@@ -3,8 +3,6 @@ title: "CẢO BẢN"
 weight: 48
 navWeight: 953
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cảo bản
@@ -16,6 +14,8 @@ keywords:
   - chữa chứng âm hộ lạnh
 slug: "cao-ban"
 description: "Cảo bản là một vị thuốc tuơng đối thông dụng trong đông y. Vì gốc cây như gốc lúa (cào - lúa, bản - gốc) do đó có tên cảo bản. Trên thị trường có 2 loại…"
+benh:
+  - mụn nhọt
 ---
 
 

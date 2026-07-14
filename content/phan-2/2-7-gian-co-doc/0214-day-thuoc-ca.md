@@ -31,15 +31,15 @@ benh:
   - tim
   - tả lỵ
   - tích khối
-  - ăn uống không tiêu
+  - ăn uống
   - bốn mùa cảm mạo
-  - bệnh uống không tiêu
+  - bệnh uống
   - tim digitalis
-  - bệnh loét dạ dày có kết
+  - bệnh loét dạ dày
   - trai chân
   - bệnh biếng ăn
   - bệnh ho
-  - cá đuối cắn rễ đu đủ
+  - cá đuối cắn rễ đu đủ tươi
   - mụn nhọt
   - viêm niêm mạc cổ họng
 ---
@@ -728,24 +728,24 @@ Trong đó:
 
 - Shogaola
 
-![DÂY THUỐC CÁ — Hình 265](/images/hinh-265.png)
+![Hình 265. Dây thuốc cá - Derris elliptica](/images/hinh-265.png)
 
-![DÂY THUỐC CÁ — Hình 266](/images/hinh-266.png)
+![Hình 266. Dây thuốc cá - Derris elliptica](/images/hinh-266.png)
 
-![DÂY THUỐC CÁ — Hình 267](/images/hinh-267.png)
+![Hình 267. Dây thuốc cá - Derris elliptica](/images/hinh-267.png)
 
-![DÂY THUỐC CÁ — Hình 268](/images/hinh-268.png)
+![Hình 268. Dây thuốc cá - Derris elliptica](/images/hinh-268.png)
 
-![DÂY THUỐC CÁ — Hình 269](/images/hinh-269.png)
+![Hình 269. Dây thuốc cá - Derris elliptica](/images/hinh-269.png)
 
-![DÂY THUỐC CÁ — Hình 270](/images/hinh-270.png)
+![Hình 270. Dây thuốc cá - Derris elliptica](/images/hinh-270.png)
 
-![DÂY THUỐC CÁ — Hình 271](/images/hinh-271.png)
+![Hình 271. Dây thuốc cá - Derris elliptica](/images/hinh-271.png)
 
-![DÂY THUỐC CÁ — Hình 272](/images/hinh-272.png)
+![Hình 272. Dây thuốc cá - Derris elliptica](/images/hinh-272.png)
 
-![DÂY THUỐC CÁ — Hình 273](/images/hinh-273.png)
+![Hình 273. Dây thuốc cá - Derris elliptica](/images/hinh-273.png)
 
-![DÂY THUỐC CÁ — Hình 274](/images/hinh-274.png)
+![Hình 274. Dây thuốc cá - Derris elliptica](/images/hinh-274.png)
 
-![DÂY THUỐC CÁ — Hình 275](/images/hinh-275.png)
+![Hình 275. Dây thuốc cá - Derris elliptica](/images/hinh-275.png)

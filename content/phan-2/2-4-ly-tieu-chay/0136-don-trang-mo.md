@@ -22,7 +22,6 @@ description: "Còn gọi ìà lấu, bời lời, bồ chát, cây men sứa."
 benh:
   - đau răng
   - băng huyết
-  - lỵ có kết quả
   - ỉa chảy
   - sán
   - trâu bò đầy trướng
@@ -31,10 +30,11 @@ benh:
   - đau bụng
   - sốt
   - tê thấp
-  - chứng hư hàn mà sinh nấc
   - nấc cụt
   - lỵ mãn tính
   - thấp khớp
+  - bỏng
+  - hắc lào
 ---
 
 

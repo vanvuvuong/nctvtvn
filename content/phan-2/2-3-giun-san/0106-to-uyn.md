@@ -18,7 +18,7 @@ slug: "to-uyn"
 description: "(Kontum)."
 benh:
   - trên
-  - tại chỗ
+  - bằng lân to uyn
 ---
 
 

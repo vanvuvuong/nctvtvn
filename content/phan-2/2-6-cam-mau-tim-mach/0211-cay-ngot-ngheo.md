@@ -17,7 +17,7 @@ description: "Còn gọi là nghẽo nghọt, roi, cỏ củ nhú nhoái, vinh q
 benh:
   - rắn cắn
   - mụn nhọt
-  - chữa
+  - bệnh
 ---
 
 

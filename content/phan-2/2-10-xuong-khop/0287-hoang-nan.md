@@ -24,6 +24,7 @@ benh:
   - tê thấp
   - nôn mửa
   - đau nhức
+  - bệnh
 ---
 
 

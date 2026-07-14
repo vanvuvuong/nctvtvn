@@ -38,7 +38,7 @@ benh:
   - ho dưới dạng thuốc sắc
   - bệnh ho
   - bệnh tạng bạch huyết
-  - phế âm không đủ
+  - phế âm
   - tử cung xuất huyết
   - bệnh về máu dùng
   - ung thũng
@@ -1005,24 +1005,24 @@ Có rải rác ở khắp Việt Nam, Petelot đã thấy cây này ở vùng r�
 
 Chưa thấy khai thác ở Việt Nam. Ở Malaixia thân rễ được dùng trong nước và xuất khẩu sang Trung Quốc với tên quản trọng làm thuốc bổ và chữa sốt.
 
-![CÁC LOẠI SÂM — Hình 621](/images/hinh-621.png)
+![Hình 621. Các loại sâm - Panax ginseng](/images/hinh-621.png)
 
-![CÁC LOẠI SÂM — Hình 622](/images/hinh-622.png)
+![Hình 622. Các loại sâm - Panax ginseng](/images/hinh-622.png)
 
-![CÁC LOẠI SÂM — Hình 623](/images/hinh-623.png)
+![Hình 623. Các loại sâm - Panax ginseng](/images/hinh-623.png)
 
-![CÁC LOẠI SÂM — Hình 624](/images/hinh-624.png)
+![Hình 624. Các loại sâm - Panax ginseng](/images/hinh-624.png)
 
-![CÁC LOẠI SÂM — Hình 625](/images/hinh-625.png)
+![Hình 625. Các loại sâm - Panax ginseng](/images/hinh-625.png)
 
-![CÁC LOẠI SÂM — Hình 626](/images/hinh-626.png)
+![Hình 626. Các loại sâm - Panax ginseng](/images/hinh-626.png)
 
-![CÁC LOẠI SÂM — Hình 628](/images/hinh-628.png)
+![Hình 628. Các loại sâm - Panax ginseng](/images/hinh-628.png)
 
-![CÁC LOẠI SÂM — Hình 629](/images/hinh-629.png)
+![Hình 629. Các loại sâm - Panax ginseng](/images/hinh-629.png)
 
-![CÁC LOẠI SÂM — Hình 630](/images/hinh-630.png)
+![Hình 630. Các loại sâm - Panax ginseng](/images/hinh-630.png)
 
-![CÁC LOẠI SÂM — Hình 631](/images/hinh-631.png)
+![Hình 631. Các loại sâm - Panax ginseng](/images/hinh-631.png)
 
-![CÁC LOẠI SÂM — Hình 632](/images/hinh-632.png)
+![Hình 632. Các loại sâm - Panax ginseng](/images/hinh-632.png)

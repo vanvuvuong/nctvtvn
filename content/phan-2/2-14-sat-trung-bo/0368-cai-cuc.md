@@ -56,4 +56,4 @@ Làm thuốc, cải cúc chữa đau mắt, nhức đầu kinh niên, thổ huy�
 
 Lá cải cúc 6g thái nhỏ, cho vào chén con, thêm ít đường trắng, cho vào nồi com hấp cho tiết nước ra. Chia làm nhiều lần uống trong ngày.
 
-![CẢI CÚC — Hình 583](/images/hinh-583.png)
+![Hình 583. Cải cúc - Chrysanthemum coronarium](/images/hinh-583.png)

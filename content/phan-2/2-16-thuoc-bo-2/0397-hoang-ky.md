@@ -22,9 +22,8 @@ images:
   - /images/hinh-673.png
 benh:
   - bệnh mao mạch dễ bị vỡ
-  - bệnh đậu không mọc
+  - bệnh đậu
   - biểu hư sinh
-  - toàn thân suy nhược
 ---
 
 
@@ -109,4 +108,4 @@ Chú thích:
 
 Ngoài hai cây hoàng kỳ nói trên, một số tài liệu trước xác định cây hoàng kỳ là Astragalus hoantchi. Nhưng theo sự điều tra mới đây của các nhà thực vật và dược liệu Trung Quốc thì không thấy cây này. Một số địa phương của Trung Quốc còn dùng nhiều cây khác làm hoàng kỳ như Astragalus tongolensis Ulbr., Melitotis, Heydysarum polybotrys Hand. -Mazz.v.v...
 
-![HOÀNG KỲ 黄芪 — Hình 673](/images/hinh-673.png)
+![Hình 673. Hoàng kỳ](/images/hinh-673.png)

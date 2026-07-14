@@ -19,7 +19,7 @@ images:
   - /images/hinh-574.png
 benh:
   - eczema
-  - khỏi viêm mắt có mủ
+  - khỏi viêm mắt
 ---
 
 
@@ -84,4 +84,4 @@ Theo Dujardin Beaumetz thì tại châu Úc, bác sĩ D. C. Jockil đã dùng n�
 
 Muller còn cho rằng cóc mẳn có thể dùng làm thuốc kích thích thần kinh và cơ.
 
-![CÓC MẲN 石胡菜 — Hình 574](/images/hinh-574.png)
+![Hình 574. Cóc mẳn - Centipeda minima](/images/hinh-574.png)

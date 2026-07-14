@@ -98,4 +98,4 @@ Chú thích:
 
 Ngoài tinh dầu và lá làm thuốc ra, một số cây bạch đàn cho chất gôm màu đỏ gọi là Red-gum hay Kino do chứa tanin nên được dùng trong cây nghệ thuộc da trắng.
 
-![BẠCH ĐÀN VÀ TINH DẦU BẠCH ĐÀN 白壇 — Hình 571](/images/hinh-571.png)
+![Hình 571. Bạch đàn và tinh dầu bạch đàn - Eucalyptus globulus](/images/hinh-571.png)

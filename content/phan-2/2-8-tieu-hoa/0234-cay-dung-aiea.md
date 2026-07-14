@@ -17,7 +17,7 @@ benh:
   - đau bụnc
   - ỉa chảy
   - đau bụng
-  - đau dạ đày có tăng toan
+  - đau dạ đày
   - ăn uống kém tiêu
 ---
 

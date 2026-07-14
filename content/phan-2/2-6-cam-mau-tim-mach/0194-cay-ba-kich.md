@@ -18,7 +18,7 @@ description: "Còn có tên ba kích thiên, cây Ruột gà, chẩu phóng xì 
 benh:
   - dương ủy
   - bệnh phong thấp
-  - bệnh cao huyết áp có kết
+  - bệnh cao huyết áp
 ---
 
 

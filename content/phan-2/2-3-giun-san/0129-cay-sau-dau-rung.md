@@ -21,7 +21,7 @@ benh:
   - ỉa lỏng
   - sốt rét
   - lỵ amip kết quả khỏi đạt
-  - lỵ trực trùng kết quả khỏi
+  - lỵ trực trùng kết quả khỏi đạt
   - giun kim
   - viêm phế quản mãn tinh
   - băng đới

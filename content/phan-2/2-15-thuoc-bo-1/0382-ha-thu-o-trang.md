@@ -14,7 +14,6 @@ description: "Còn có tên là hà thủ ô nam, bạch hà thủ ô, củ vú 
 benh:
   - sống
   - khỏi
-  - cảm sốt mới
   - cảm sốt
 ---
 

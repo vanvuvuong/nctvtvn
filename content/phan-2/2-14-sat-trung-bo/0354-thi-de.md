@@ -22,7 +22,7 @@ benh:
   - ách nghịch
   - nấc
   - đau cổ họng
-  - cao huyết áp có kết quả
+  - cao huyết áp
 ---
 
 
@@ -85,4 +85,4 @@ Tại Trung Quốc, người ta còn dùng hồng dưới 2 dạng khác nữa:
 
 Người ta nghiên cứu thấy trong thị sương có đường manit và trong thị tất có chất tanin gọi là shibuol C₁₄H₂₇O₂.
 
-![THỊ ĐẾ 柿蒂 — Hình 568](/images/hinh-568.png)
+![Hình 568. Thị đế - Diospyros kaki](/images/hinh-568.png)

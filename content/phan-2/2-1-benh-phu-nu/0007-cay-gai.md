@@ -3,10 +3,6 @@ title: "CÂY GAI 宁麻"
 weight: 7
 navWeight: 994
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - phụ nữ có thai đau bụng
-  - thông tiểu
-  - tiểu tiện đục
 keywords:
   - bệnh phụ nữ
   - cây gai
@@ -24,6 +20,10 @@ description: "Còn gọi là trữ ma (Trung Quốc)."
 images:
   - /images/13-cay-gai.png
   - /images/13-2-axit-clorogenic.png
+benh:
+  - phụ nữ
+  - thông tiểu
+  - tiểu tiện đục
 ---
 
 _Còn gọi là_ trữ ma (Trung Quốc).
@@ -40,7 +40,7 @@ Cây gai nói đây là cây mà lá ta vẫn dùng làm bánh gai ăn và sợi
 
 Cây sống lâu năm, có thể cao tới 1,5-2m. Lá lớn, mọc so le, hình tim, dài 7-15cm, rộng 4- 8cm mép có răng cưa, đáy lá hình tim hay hơi tròn, mặt dưới trắng vì có nhiều lông trắng, mặt trên có màu lục sẫm, dáp, có 3 gân từ cuống phát ra. Hoa đơn tính cùng gốc. Hoa đực có 4 lá đài và 4 nhị. Hoa cái có đài hợp chia làm 3 răng. Quả bế mang đài tồn tại (Hình 13, Hm 5,3).
 
-![CÂY GAI 宁麻 — Hình 13](/images/13-cay-gai.png)
+![Hình 13. Cây gai - Boehmeria nivea](/images/13-cay-gai.png)
 
 _Hình 13. Cây gai – Boehmeria nivea_
 
@@ -54,7 +54,7 @@ Cây này được trồng ở khắp nơi trong nước để lấy sợi hay l
 
 Hoạt chất hiện chưa xác định được. Mới thấy có axit clorogenic là một loại tanin, do sự kết hợp của axit cafeitanic và axit quinic.
 
-![CÂY GAI 宁麻 — Hình 13.2](/images/13-2-axit-clorogenic.png)
+![Hình 13.2. Cây gai - Boehmeria nivea](/images/13-2-axit-clorogenic.png)
 
 _Axit clorogenic_
 

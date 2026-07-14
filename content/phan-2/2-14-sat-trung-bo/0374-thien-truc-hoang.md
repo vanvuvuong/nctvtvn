@@ -19,7 +19,6 @@ slug: "thien-truc-hoang"
 description: "Còn có tên là trúc hoàng phấn, phấn nứa, trúc cao."
 benh:
   - trẻ con bị kinh giật
-  - người lớn trúng phong cấm khẩu
 ---
 
 

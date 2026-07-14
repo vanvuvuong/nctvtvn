@@ -18,7 +18,7 @@ benh:
   - phù thận
   - hình j
   - đi tiểu khó khãn
-  - vết thương phần mền
+  - vết thương
 ---
 
 

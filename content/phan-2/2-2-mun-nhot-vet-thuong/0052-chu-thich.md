@@ -3,8 +3,6 @@ title: "Chú thích"
 weight: 52
 navWeight: 949
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - chú thích
@@ -12,6 +10,8 @@ keywords:
   - thông tiểu tiện
 slug: "chu-thich"
 description: "Tại Trung Quốc và nước ta cũng có nơi dùng cây hồng cận biếc hay mộc cận (Hibiscus syriacus L hoặc Hibiscus chinensis DC.) cùng với một công dụng. Cây này…"
+benh:
+  - mụn nhọt
 ---
 
 

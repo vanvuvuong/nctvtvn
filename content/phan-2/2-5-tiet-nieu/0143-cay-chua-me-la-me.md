@@ -12,7 +12,7 @@ keywords:
 slug: "cay-chua-me-la-me"
 description: "Còn gọi lá lá chua me."
 benh:
-  - bênh đái đường như ờ philipin
+  - bệnh đái đường
 ---
 
 

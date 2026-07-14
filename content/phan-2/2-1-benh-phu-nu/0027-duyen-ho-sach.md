@@ -3,11 +3,6 @@ title: "DUYÊN HỒ SÁCH 玄胡索"
 weight: 27
 navWeight: 974
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - giảm đau
-  - hoạt huyết
-  - đau bụng
-  - ho
 keywords:
   - bệnh phụ nữ
   - duyên hồ sách
@@ -22,6 +17,10 @@ slug: "duyen-ho-sach"
 description: "Còn gọi là huyền hồ sách, nguyên hồ."
 images:
   - /images/34-duyen-ho-sach.png
+benh:
+  - giảm đau
+  - hoạt huyết
+  - đau bụng
 ---
 
 _Còn gọi là_ huyền hồ sách, nguyên hồ.
@@ -36,7 +35,7 @@ Tên vị thuốc vốn là Huyền hồ sách, trong sách thuốc _"Khai tốn
 
 Đông bắc duyên hồ sách (còn gọi là Duyên hồ sách) cũng như Sơn duyên hồ sách là những loại cỏ sống lâu năm, thân nhỏ, chỉ cao 20cm, lá kép xẻ lông chim. Hoa nở tháng 5, màu tím (Hình 34).
 
-![DUYÊN HỒ SÁCH 玄胡索 — Hình 34](/images/34-duyen-ho-sach.png)
+![Hình 34. Duyên hồ sách - Corydalis ambigua](/images/34-duyen-ho-sach.png)
 
 Hình 34. Duyên hồ sách - cordalis ambigua
 

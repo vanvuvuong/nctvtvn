@@ -74,4 +74,4 @@ Tác dụng dược lý của hoạt chất vạn niên thanh đã được các
 
 Tuy trên thí nghiệm vạn niên thanh và hoạt chất rodein có tác dụng làm mạnh tim gần như digitoxin, lại mạnh hơn, nhưng vì tính chất tích luỹ cao cho nên còn cần nghiên cứu hơn nữa mới dùng được.
 
-![VẠN NIÊN THANH 萬年青 — Hình 462](/images/hinh-462.png)
+![Hình 462. Vạn niên thanh - Rhodea japonica](/images/hinh-462.png)

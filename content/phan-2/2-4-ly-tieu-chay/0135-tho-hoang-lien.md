@@ -24,12 +24,12 @@ benh:
   - mắt
   - hoàng đản
   - thường
-  - lỵ ở nước
   - bệnh ngoài da
   - hội chứng lỵ mang tên codanzit
   - rấn cắn
   - cảm sốt
   - sốt
+  - ìỵ dưới dạng thuốc sắc
 ---
 
 

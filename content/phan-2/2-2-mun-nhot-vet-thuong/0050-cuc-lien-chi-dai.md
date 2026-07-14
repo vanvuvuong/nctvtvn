@@ -3,8 +3,6 @@ title: "CÚC LIÊN CHI DẠI"
 weight: 50
 navWeight: 951
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cúc liên chi dại
@@ -13,6 +11,8 @@ keywords:
   - chữa bệnh sang bạch hành
 slug: "cuc-lien-chi-dai"
 description: "Còn gọi là cây chứng ếch, Camomille sauvage."
+benh:
+  - mụn nhọt
 ---
 
 

@@ -3,8 +3,6 @@ title: "CỎ ĐUÔI LƯƠN 田恝"
 weight: 16
 navWeight: 985
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - hậu sản
 keywords:
   - bệnh phụ nữ
   - cỏ đuôi lươn
@@ -15,6 +13,8 @@ slug: "co-duoi-luon"
 description: "Còn có tên là bồn bồn, điền thông Tên khoa học Philydrum lanuginosum Banks (Garciana cochinchinensis Lour). Thuộc họ Cỏ đuôi lươn Philydraceae. Tên là cỏ…"
 images:
   - /images/22-co-duoi-luon.png
+benh:
+  - hậu sản
 ---
 
 _Còn có tên là_ bồn bồn, điền thông
@@ -26,7 +26,7 @@ Tên là cỏ đuôi lươn vì ngọn và cụm hoa giống đuôi con lươn. 
 
 Cỏ đuôi lươn là một loại cỏ mọc đứng, cao chừng 0,35-1,30m. Trên thân có rất nhiều lông ngắn màu trắng, trông như len, nhiều nhất là ở phía dưới cụm hoa. Lá hình gươm, dài 8-70 cm, rộng 4-10mm, phía trên có vạch dọc, phía dưới có lông; lá ở gốc phủ lên nhau, có khi 4-5 lá, dài và hẹp; lá trên thân nhỏ hơn, mọc so le. Cụm hoa mọc thành bông dài 2-5cm. Lá bắc tồn tại như lá nhưng nhỏ có lông hoặc không có lông. Hoa mọc so le, không cuống. Đài 2, tràng 2, nhị 1, bầu 3 ngăn không rõ. Quả nang có lá bắc bao bọc, có lông mịn (Hình 22).
 
-![CỎ ĐUÔI LƯƠN 田恝 — Hình 22](/images/22-co-duoi-luon.png)
+![Hình 22. Cỏ đuôi lươn - Philydrum lanuginosum](/images/22-co-duoi-luon.png)
 
 Hình 22. Cỏ đuôi lươn Philydrum lanuginosum
 

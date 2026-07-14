@@ -3,8 +3,6 @@ title: "LIÊN KIỀU"
 weight: 58
 navWeight: 943
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - liên kiều
@@ -12,6 +10,8 @@ keywords:
   - dùng làm thuốc có khi người ta chia làm thanh kiều
 slug: "lien-kieu"
 description: "Còn gọi là trúc can, hoàng thọ đan, hạn liên tử."
+benh:
+  - mụn nhọt
 ---
 
 

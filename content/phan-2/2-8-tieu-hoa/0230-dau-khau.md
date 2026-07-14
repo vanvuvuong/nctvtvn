@@ -15,7 +15,7 @@ keywords:
 slug: "dau-khau"
 description: "Cò tỉ gọi là bạch đậu khấu, viên đậu khấu."
 benh:
-  - ăn uống không tiều
+  - ăn uống
   - đau dạ dày
   - dạ đày lạnh đau
   - say rượu

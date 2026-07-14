@@ -3,8 +3,6 @@ title: "RAU MÁ NGỌ"
 weight: 70
 navWeight: 931
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - rau má ngọ
@@ -13,6 +11,8 @@ keywords:
   - chữa sốt
 slug: "rau-ma-ngo"
 description: "Còn gọi là rau sông chua dây, thồm lồm gai, giang bản quy."
+benh:
+  - mụn nhọt
 ---
 
 

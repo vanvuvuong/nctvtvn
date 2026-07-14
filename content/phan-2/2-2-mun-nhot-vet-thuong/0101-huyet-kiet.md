@@ -3,8 +3,6 @@ title: "HUYẾT KIỆT"
 weight: 101
 navWeight: 900
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - huyết kiệt
@@ -16,6 +14,8 @@ keywords:
   - trị bị đánh tổn thương
 slug: "huyet-kiet"
 description: "Còn gọi là Sang dragon."
+benh:
+  - mụn nhọt
 ---
 
 

@@ -13,8 +13,7 @@ slug: "cay-bong-bong"
 description: "Còn có tên là nam tì bà, cây lá hen.[7]"
 benh:
   - tim
-  - tim đã biết
-  - chế phẩm bồng bồng có tác
+  - chế phẩm bồng bồng
   - hen
   - sốt
   - ho lao thổ huyết

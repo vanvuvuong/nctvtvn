@@ -3,11 +3,6 @@ title: "NGẢI CỨU 北艾"
 weight: 3
 navWeight: 998
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - điều kinh
-  - đau bụng
-  - thuốc ôn khí huyết
-  - tiêu hóa
 keywords:
   - bệnh phụ nữ
   - ngải cứu
@@ -24,6 +19,11 @@ slug: "ngai-cuu"
 description: "Còn gọi là cây thuốc cứu, cây thuốc cao, ngải điệp."
 images:
   - /images/7-ngai-cuu.png
+benh:
+  - điều kinh
+  - đau bụng
+  - thuốc ôn khí huyết
+  - tiêu hóa
 ---
 
 _Còn gọi_ là cây thuốc cứu, cây thuốc cao, ngải điệp.
@@ -48,7 +48,7 @@ Thường hái cành và lá vào tháng 6 (gần tương ứng với tết mồ
 
 Trong phương pháp chữa bệnh bằng châm cứu, người ta có thể kích thích những huyệt hoặc bằng kim châm sâu vào da thịt, hoặc bằng cách đặt lên những huyệt một miếng gừng tươi mỏng có châm vài lỗ để tránh cho da thịt khỏi bị cháy bỏng nhưng hơi nóng vẫn ngấm tới da thịt rồi vê một nắm ngải nhung bằng một mồi thuốc lào đặt trên miếng gừng mà đốt; sức nóng kích thích huyệt (gọi là cứu). Sở dĩ người ta dùng lông ngải cứu vì nó có nhiều tinh dầu, cháy lâu không tắt.
 
-![NGẢI CỨU 北艾 — Hình 7](/images/7-ngai-cuu.png)
+![Hình 7. Ngải cứu - Artemisia vulgaris](/images/7-ngai-cuu.png)
 
 Hình 7. Ngải cứu - Artemisia vulgaris
 

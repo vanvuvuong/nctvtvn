@@ -3,8 +3,6 @@ title: "CÂY RAU MÁ LÁ RAU MUỐNG"
 weight: 69
 navWeight: 932
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây rau má lá rau muống
@@ -15,6 +13,8 @@ keywords:
   - chữa ho lâu ngày
 slug: "cay-rau-ma-la-rau-muong"
 description: "Còn gọi là hồng bối diệp, dương đề thảo, nhất điểm hồng, cây rau má lá rau muống cuống rau răm, tiết gà, tam tróc, rau chua lè, hoa mặt trời, lá mặt trời."
+benh:
+  - mụn nhọt
 ---
 
 

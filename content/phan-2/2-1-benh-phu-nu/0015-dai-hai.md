@@ -3,8 +3,6 @@ title: "ĐÀI HÁI 油仄"
 weight: 15
 navWeight: 986
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - loét mũi
 keywords:
   - bệnh phụ nữ
   - đài hái
@@ -15,6 +13,8 @@ slug: "dai-hai"
 description: "Còn gọi là du qua, dây mỡ lợn, dây hái, then hái, mướp rừng, dây sén, mak khing (Lào), Kigarasu-uri (Nhật). Tên khoa học Hodgsonia macrocarpa (Blume)…"
 images:
   - /images/21-dai-hai.png
+benh:
+  - loét mũi
 ---
 
 _Còn gọi là_ du qua, dây mỡ lợn, dây hái, then hái, mướp rừng, dây sén, mak khing (Lào), Kigarasu-uri (Nhật).
@@ -25,7 +25,7 @@ Thuộc họ Bí Cucurbitaceae.
 
 Đài hái là một loại dây leo, mọc khỏe, thân nhẵn, có thể dài hơn 30m, lá hình tim, phiến chia 3 hay 5 thùy, và rộng chừng 15-25cm, mặt trên màu xanh lục, mặt dưới màu nhạt hơn, dai, cứng nhẵn; thùy thuôn dài đầu nhọn. Khi còn non lá có thể dài không chia thùy hay chỉ có 2 thùy. Tua cuốn to khỏe và quăn xoắn. Hoa đực mọc thành chùm với dạng ngù. Hoa cái đơn độc, ở kẽ lá. Quả hình cầu, to bằng đầu người, đường kính có thể đạt tới 20cm, trên có chừng 10-12 khía trông không rõ, cùi trắng. Hạt từ 6 đến 12, rất to, dài tới 8 cm, rộng tới 5cm, hình trứng, dẹt, có lá mầm rất phát triển, một mặt phẳng một mặt khum.
 
-![ĐÀI HÁI 油仄 — Hình 21](/images/21-dai-hai.png)
+![Hình 21. Đài hái - Hodgsonia macrocarpa](/images/21-dai-hai.png)
 
 Hình 21. Đài hái - Hodgsonia macrocarpa. Cành, quả, hoa và hạt
 

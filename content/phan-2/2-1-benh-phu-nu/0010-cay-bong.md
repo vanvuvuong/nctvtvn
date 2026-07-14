@@ -3,9 +3,6 @@ title: "CÂY BÔNG 棉株"
 weight: 10
 navWeight: 991
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - điều kinh
-  - cầm máu tử cung
 keywords:
   - bệnh phụ nữ
   - cây bông
@@ -19,6 +16,9 @@ description: "Tên khoa học Gossypium sp."
 images:
   - /images/17-cay-bong.png
   - /images/17-2-gosypola.png
+benh:
+  - điều kinh
+  - cầm máu tử cung
 ---
 
 Tên khoa học _Gossypium sp_.
@@ -33,11 +33,11 @@ Theo sự nghiên cứu ghi trong tài liệu của Liên Xô cũ trong vỏ r�
 
 1. Liên Xô cũ công nhận vỏ rễ cây bông là một vị thuốc chính thức dùng dưới dạng cao lỏng làm thuốc cầm máu tử cung.
 
-![CÂY BÔNG 棉株 — Hình 17](/images/17-cay-bong.png)
+![Hình 17. Cây bông - Gossypium sp](/images/17-cay-bong.png)
 
 Hình 17. Cây bông - Gossypium sp.
 
-![CÂY BÔNG 棉株 — Hình 17.2](/images/17-2-gosypola.png)
+![Hình 17.2. Cây bông - Gossypium sp](/images/17-2-gosypola.png)
 
 Gosypola
 

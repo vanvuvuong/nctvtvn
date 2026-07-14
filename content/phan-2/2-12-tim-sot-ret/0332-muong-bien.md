@@ -945,28 +945,28 @@ Lấy một phần lá, 3 phần nước, đun và cô đặc. Viên bằng hạ
 
 Thanh cao 20g, mạch môn 15g, đảng sâm 12g, sinh địa 15g, gạo sống 15g, nước 800ml. Sắc và cô còn 300ml. Chia làm 3 lần uống trong ngày.
 
-![MUỐNG BIỂN — Hình 486](/images/hinh-486.png)
+![Hình 486. Muống biển - Ipomoea biloba](/images/hinh-486.png)
 
-![MUỐNG BIỂN — Hình 487](/images/hinh-487.png)
+![Hình 487. Muống biển - Ipomoea biloba](/images/hinh-487.png)
 
-![MUỐNG BIỂN — Hình 488](/images/hinh-488.png)
+![Hình 488. Muống biển - Ipomoea biloba](/images/hinh-488.png)
 
-![MUỐNG BIỂN — Hình 489](/images/hinh-489.png)
+![Hình 489. Muống biển - Ipomoea biloba](/images/hinh-489.png)
 
-![MUỐNG BIỂN — Hình 490](/images/hinh-490.png)
+![Hình 490. Muống biển - Ipomoea biloba](/images/hinh-490.png)
 
-![MUỐNG BIỂN — Hình 491](/images/hinh-491.png)
+![Hình 491. Muống biển - Ipomoea biloba](/images/hinh-491.png)
 
-![MUỐNG BIỂN — Hình 492](/images/hinh-492.png)
+![Hình 492. Muống biển - Ipomoea biloba](/images/hinh-492.png)
 
-![MUỐNG BIỂN — Hình 493](/images/hinh-493.png)
+![Hình 493. Muống biển - Ipomoea biloba](/images/hinh-493.png)
 
-![MUỐNG BIỂN — Hình 494](/images/hinh-494.png)
+![Hình 494. Muống biển - Ipomoea biloba](/images/hinh-494.png)
 
-![MUỐNG BIỂN — Hình 495](/images/hinh-495.png)
+![Hình 495. Muống biển - Ipomoea biloba](/images/hinh-495.png)
 
-![MUỐNG BIỂN — Hình 496](/images/hinh-496.png)
+![Hình 496. Muống biển - Ipomoea biloba](/images/hinh-496.png)
 
-![MUỐNG BIỂN — Hình 497](/images/hinh-497.png)
+![Hình 497. Muống biển - Ipomoea biloba](/images/hinh-497.png)
 
-![MUỐNG BIỂN — Hình 498](/images/hinh-498.png)
+![Hình 498. Muống biển - Ipomoea biloba](/images/hinh-498.png)

@@ -57,4 +57,4 @@ Liều dùng hàng ngày: 6-12g, dưới dạng thuốc sắc, khi uống có th
 
 Cần chú ý nghiên cứu.
 
-![CÂY CÚC BÁCH NHẬT 百日红 — Hình 469](/images/hinh-469.png)
+![Hình 469. Cây cúc bách nhật - Gomphrena globosa](/images/hinh-469.png)

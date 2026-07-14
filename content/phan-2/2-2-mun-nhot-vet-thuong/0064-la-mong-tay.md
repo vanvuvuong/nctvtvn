@@ -3,8 +3,6 @@ title: "LÁ MÓNG TAY"
 weight: 64
 navWeight: 937
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - lá móng tay
@@ -19,6 +17,8 @@ keywords:
   - chữa kinh nguyệt không đều
 slug: "la-mong-tay"
 description: "Còn gọi là cây lá móng tay, móng tay nhuộm, chi giáp hoa, tán mạt hoa, kok khau khao youak, khoa thiên (Lào)."
+benh:
+  - mụn nhọt
 ---
 
 

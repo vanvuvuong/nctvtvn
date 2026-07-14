@@ -123,6 +123,6 @@ Mentol 0,06 g
 
 Ốc sên bắt về đập bỏ vỏ, lấy phần lưỡi bỏ hết ruột, mổ đầu ốc, bỏ dạ dày, thực quản rồi dùng muối và phèn chua rửa sạch hết nhớt như nhân dân ta vẫn làm. Sau đó cho thịt ốc sên và natri bicabonat hấp cho nhừ, thải và giã nhỏ. Cho thêm axit benzoic vào để bảo quản và thêm đường vào nấu cho kỹ. Đậu nành hay hoài sơn rang dòn tán thành bột, rây mịn trộn với thịt ốc sên đã nấu. Dùng dầu parafin để viên cho đỡ dính, mỗi viên 4g. Sấy ở nhiệt độ 50-60°C tới khô. Bỏ vào lọ chống ẩm. Đặt tên là viên BOS (bổ ốc sên). Dùng với liều 4 viên một ngày, uống trước lúc ăn cơm. Là thuốc bổ tăng cường chất đạm cho cơ thể và não. Mỗi đợt dùng liền từ 20-40 ngày (Trần Kim Hiếu và Trần Đình Xiêm - bệnh viện tinh thần Hà Nội) đã theo dõi trên nhiều bệnh nhân, bệnh nhân lên cân rất nhanh.
 
-![CON QUY — Hình 771](/images/hinh-771.png)
+![Hình 771. Con quy - Anphitobius diaperinus](/images/hinh-771.png)
 
-![CON QUY — Hình 772](/images/hinh-772.png)
+![Hình 772. Con quy - Anphitobius diaperinus](/images/hinh-772.png)

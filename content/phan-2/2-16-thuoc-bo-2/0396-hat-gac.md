@@ -121,4 +121,4 @@ Chữa trĩ lòi dom: Hạt gấc giã nát thêm một ít dấm thanh gói b�
 
 Chữa sưng vú: Giã nhân hạt gấc với một ít rượu (30-40°) đắp lên nơi sưng đau.
 
-![HẠT GẤC 木鱉子 — Hình 672](/images/hinh-672.png)
+![Hình 672. Hạt gấc - Momordica cochinchinensis](/images/hinh-672.png)

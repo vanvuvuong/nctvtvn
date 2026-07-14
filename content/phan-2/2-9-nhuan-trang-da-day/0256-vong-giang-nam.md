@@ -16,6 +16,7 @@ description: "Còn gọi là cốt khí muồng, dương giác đậu, giang nam
 benh:
   - sốt
   - đau bụng đi lỵ
+  - bệnh
 ---
 
 

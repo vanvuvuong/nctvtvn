@@ -13,7 +13,7 @@ keywords:
 slug: "cay-ba-gac5"
 description: "Còn có tên là la phu mộc, san to (Sapa), lạc toọc (Cao Bằng)."
 benh:
-  - huyết áp ở việt nam
+  - huyết áp
   - cao huyết áp
 ---
 

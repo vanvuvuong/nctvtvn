@@ -3,8 +3,6 @@ title: "KEO NƯỚC HOA"
 weight: 104
 navWeight: 897
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - keo nước hoa
@@ -12,6 +10,8 @@ keywords:
   - chữa khí hư
 slug: "keo-nuoc-hoa"
 description: "Còn gọi là keo ta, mân côi, mak ku kong, kum tai (Lào), sambor meas (Cămpuchia), cassie du Levant."
+benh:
+  - mụn nhọt
 ---
 
 

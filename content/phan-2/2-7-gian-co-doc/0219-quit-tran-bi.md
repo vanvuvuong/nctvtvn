@@ -18,7 +18,8 @@ description: "Còn gọi là quyết, hoàng quyết, trần bì, thanh bì, man
 images:
   - /images/hinh-287.png
 benh:
-  - ăn uống không tiêu
+  - bệnh
+  - ăn uống
   - sa đì
   - đau bụng
 ---
@@ -127,4 +128,4 @@ Vì đây là một loại “gừng” mọc ở quận Cao Lương, do đó c�
 
 Riềng là một loại cỏ nhỏ, cao chừng 0,70-1,2m. Thân rễ mọc bò ngang, dài, hình trụ, đường kính
 
-![QUÍT-TRẦN BÌ 陈皮 — Hình 287](/images/hinh-287.png)
+![Hình 287. Quít-trần bì - Citrus deliciosa](/images/hinh-287.png)

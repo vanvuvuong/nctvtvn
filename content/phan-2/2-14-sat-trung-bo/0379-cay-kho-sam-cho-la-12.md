@@ -62,4 +62,4 @@ Có người thêm vào đơn thuốc trên 3 lát gừng sống đối với ng
 
 Nếu dùng riêng thường dùng với liều 24-40g (lá khô sao vàng), thêm 600ml nước (3 bát), sắc còn 1 bát (200ml), chia 2 hay 3 lần uống trong ngày, 15 phút đến nửa giờ trước khi ăn cơm. Để ăn ngon cơm, giúp sự tiêu hoá.
 
-![CÂY KHỔ SÂM CHO LÁ (1)[2 — Hình 633](/images/hinh-633.png)
+![Hình 633. Cây khổ sâm cho lá (1)[2 - Croton tonkinensis](/images/hinh-633.png)

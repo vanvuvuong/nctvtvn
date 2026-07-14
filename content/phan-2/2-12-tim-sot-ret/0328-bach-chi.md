@@ -114,6 +114,6 @@ Trong nhân dân Việt Nam còn dùng một vị thuốc với tên nam bạch 
 
 Trong một số sách thuốc cũ của Trung Quốc người ta giới thiệu bạch chỉ là rễ Angelica glabra Makino hay Angelica formosana Boiss. họ Hoa tán; nhưng những tài liệu mới nhất thường thống nhất những tên đã giới thiệu ở trên.
 
-![BẠCH CHỈ 白芷 — Hình 466](/images/hinh-466.png)
+![Hình 466. Bạch chỉ - Angelica dahurica](/images/hinh-466.png)
 
-![BẠCH CHỈ 白芷 — Hình 467](/images/hinh-467.png)
+![Hình 467. Bạch chỉ - Angelica dahurica](/images/hinh-467.png)

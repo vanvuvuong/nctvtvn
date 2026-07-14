@@ -3,8 +3,6 @@ title: "ĐẠI PHONG TỬ"
 weight: 90
 navWeight: 911
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đại phong tử
@@ -12,6 +10,8 @@ keywords:
   - chữa bệnh hủi
 slug: "dai-phong-tu"
 description: "Còn gọi là chùm bao lớn, krabao phlêthom (Cămpuchia)."
+benh:
+  - mụn nhọt
 ---
 
 

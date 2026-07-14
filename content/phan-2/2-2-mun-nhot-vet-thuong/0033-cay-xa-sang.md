@@ -3,8 +3,6 @@ title: "CÂY XÀ SÀNG 蛇床子"
 weight: 33
 navWeight: 968
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây xà sàng
@@ -14,6 +12,8 @@ keywords:
   - chữa liệt dương
 slug: "cay-xa-sang"
 description: "Còn có tên là cây giần sàng Tên khoa học Cnidium monnieri (L.) Cuss. (Selinum monnieri L.) Thuộc họ Hoa tán Umbelliferae. Tên giần sàng vì cụm hoa trông…"
+benh:
+  - mụn nhọt
 ---
 
 

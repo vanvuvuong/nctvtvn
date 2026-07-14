@@ -16,7 +16,7 @@ description: "Còn gọi là chân châu diệp, thanh thiên quỳ, Slam lài, 
 images:
   - /images/hinh-572.png
 benh:
-  - giá bằng một xe hơi vận
+  - giá bằng
   - lao phổi
 ---
 
@@ -86,4 +86,4 @@ Chú thích:
 
 3. Có tác giả đã xác định tên khoa học của cây một lá là Pogonium flabellifolium cùng họ Lan (Orchidaceae). Cần kiểm tra lại.
 
-![CÂY MỘT LÁ 青天葵 — Hình 572](/images/hinh-572.png)
+![Hình 572. Cây một lá - Nervilia fordii](/images/hinh-572.png)

@@ -15,7 +15,7 @@ description: "Còn gọi là cây chiều liêu, myrobolan de coin- merce ."
 benh:
   - đi ỉa lỏng lâu ngày
   - lỵ kinh niên
-  - ho mất tiếng
+  - ho mắt tiếng
 ---
 
 

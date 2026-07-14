@@ -48,4 +48,4 @@ Trong bột quả xa kê có 2-3 hoặc 6% nước, 3,2% muối vô cơ, 0,2 đ�
 
 Từ lâu nhân dân ở Pôlynezia và quần đảo Tahiti người ta đã thu hái quả xa kê về lùi trong tro nóng hoặc nướng trên than hồng để ăn. Ở Ấn Độ quả xa kê được coi như một món ăn cao cấp: Người ta thái quả thành từng lát mỏng, rán với mỡ hay với bơ, hương vị giống như những miếng bánh mì rán. Ngoài ra người ta còn dùng quả xa kê nấu món cari, rang, xay thành bột để chế ra nhiều món ăn hằng ngày. Một số nước dùng quả xa kê còn xanh cho lên men (do một loài mốc biến đổi một phần thịt quả xa kê ra các sản phẩm phụ có hương vị đặc biệt) rồi chế thành món “po poi” giống như pho mát. Po poi là một món ăn có giá trị dinh duỡng cao, phối hợp với bánh bột quả xa kê để làm các loại bánh ngọt, ngon và bổ. Có nơi dùng quả xa kê xanh nấu với cá và tôm. Hoặc luộc, thái lát phơi khô nấu với gạo. Do đó thế giới thường biết cây này với tên “cây bánh mì”.
 
-![CÂY XA KÊ — Hình 709](/images/hinh-709.png)
+![Hình 709. Cây xa kê - Artocarpus incisa](/images/hinh-709.png)

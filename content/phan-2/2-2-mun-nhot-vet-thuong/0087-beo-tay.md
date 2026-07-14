@@ -3,14 +3,14 @@ title: "BÈO TÂY"
 weight: 87
 navWeight: 914
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bèo tây
   - Eichhornia crassipes Solms
 slug: "beo-tay"
 description: "Còn gọi là bèo Nhật Bản, lộc bình."
+benh:
+  - mụn nhọt
 ---
 
 

@@ -3,12 +3,6 @@ title: "ĐƯƠNG QUY 當歸"
 weight: 17
 navWeight: 984
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - điều kinh
-  - hoạt huyết
-  - mất ngủ
-  - thiếu máu
-  - thổ huyết
 keywords:
   - bệnh phụ nữ
   - đương quy
@@ -29,6 +23,12 @@ images:
   - /images/23-duong-quy.png
   - /images/23-2-n-butyliden-phtalit.png
   - /images/23-3-n-valerophenon-O-cacboxy-axit.png
+benh:
+  - điều kinh
+  - hoạt huyết
+  - mắt ngủ
+  - thiếu máu
+  - thổ huyết
 ---
 
 _Còn gọi là_ tần quy, vân quy.
@@ -45,7 +45,7 @@ Quy là về, vì vị thuốc này có tác dụng điều khí, nuôi huyết,
 
 Đương quy là một loại cây nhỏ, sống lâu năm, cao chừng 40-80cm, thân màu tím có rãnh dọc. Lá mọc so le, 2-3 lần xẻ lông chim, cuống dài 3-12cm, 3 đôi lá chét; đôi lá chét phía dưới có cuống đài, đôi lá chét phía trên đỉnh không có cuống; lá chét lại xẻ 1-2 lần nữa, mép có răng cưa, phía dưới cuống phát triển dài gần 1/2 cuống, ôm lấy thân. Hoa rất nhỏ màu xanh trắng họp thành cụm hoa hình tán kép gồm 12-40 hoa. Quả bế có rìa màu tím nhạt. Ra hoa vào tháng 7-8 (Hình 23, Hm 3,1).
 
-![ĐƯƠNG QUY 當歸 — Hình 23](/images/23-duong-quy.png)
+![Hình 23. Đương quy - Angelica sinensis](/images/23-duong-quy.png)
 
 Hình 23. Đương quy - Angelica sinensis
 
@@ -71,7 +71,7 @@ Trong đương quy Nhật Bản _Angclica acutiloba_ (Sieb. et Zucc). Kitagawa _
 
 n-butyliden phtalit
 
-![ĐƯƠNG QUY 當歸 — Hình 23.3](/images/23-3-n-valerophenon-O-cacboxy-axit.png)
+![Hình 23.3. Đương quy - Angelica sinensis](/images/23-3-n-valerophenon-O-cacboxy-axit.png)
 
 n-valerophenon-O-cacboxy-axit
 

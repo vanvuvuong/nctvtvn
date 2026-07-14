@@ -3,8 +3,6 @@ title: "THUỐC BỎNG"
 weight: 75
 navWeight: 926
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - thuốc bỏng
@@ -15,6 +13,8 @@ keywords:
   - chữa viêm tai giữa cấp tính
 slug: "thuoc-bong"
 description: "Còn gọi là trường sinh, thổ tam thất, đả bất tử, diệp sinh căn, sái bất tử, lạc địa sinh căn, sống đời."
+benh:
+  - mụn nhọt
 ---
 
 

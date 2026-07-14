@@ -3,8 +3,6 @@ title: "BẠCH HOA XÀ"
 weight: 41
 navWeight: 960
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bạch hoa xà
@@ -16,6 +14,8 @@ keywords:
   - chữa những bệnh ngoài da
 slug: "bach-hoa-xa"
 description: "Còn gọi là bạch tuyết hoa, cây chiến (Bắc Lệ, Lạng Sơn), cây đuôi công, pit phì khao (Luang Prabang), xitraca (Ấn Độ)."
+benh:
+  - mụn nhọt
 ---
 
 

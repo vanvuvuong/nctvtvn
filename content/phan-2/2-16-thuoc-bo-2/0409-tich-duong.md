@@ -90,6 +90,6 @@ Trong nhân dân người ta dùng rễ củ tầm sét làm thuốc bổ, tăng
 
 Tại Ấn Độ, người ta dùng củ tầm sét làm thuốc nhuận tẩy nhẹ. Còn dùng làm thuốc chữa suy yếu, rong kinh. Ngoài ra còn dùng làm thuốc lợi sữa và thông mật. Theo Guerrero, tại Philipin người ta cũng dùng để chữa những bệnh tương tự.
 
-![TÍCH DƯƠNG — Hình 707](/images/hinh-707.png)
+![Hình 707. Tích dương](/images/hinh-707.png)
 
-![TÍCH DƯƠNG — Hình 708](/images/hinh-708.png)
+![Hình 708. Tích dương](/images/hinh-708.png)

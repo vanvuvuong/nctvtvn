@@ -3,11 +3,6 @@ title: "CỬU LÝ HƯƠNG 九里香"
 weight: 26
 navWeight: 975
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - điều kinh
-  - giảm đau
-  - dại
-  - thuốc giun
 keywords:
   - bệnh phụ nữ
   - cửu lý hương
@@ -25,6 +20,11 @@ slug: "cuu-ly-huong"
 description: "Còn gọi là rue fetide, văn hương."
 images:
   - /images/33-cuu-ly-huong.png
+benh:
+  - điều kinh
+  - giảm đau
+  - dại
+  - thuốc giun
 ---
 
 _Còn gọi là_ rue fetide, văn hương.
@@ -37,7 +37,7 @@ Thuộc họ Cam _Rutaceae_.
 
 Cây nhỏ sống dai, nhiều cành, cao 80cm. Lá mọc so le, vò có mùi hắc, phiến lá 2-3 lần xẻ lông chim, mọc ở dưới gốc, phía trên ít xẻ hơn. Hoa mọc thành ngù, hoa màu vàng, lá dài 3 cạnh, 4 cánh hoa, 10 nhị khi chín bao phấn tự động áp vào đầu nhụy. Quả khô gồm 4-5 đại dính ở phía gốc (Hình 33).
 
-![CỬU LÝ HƯƠNG 九里香 — Hình 33](/images/33-cuu-ly-huong.png)
+![Hình 33. Cửu lý hương - Ruta graveolens](/images/33-cuu-ly-huong.png)
 
 Hình 33. Cửu lý hương - Ruta graveolens
 

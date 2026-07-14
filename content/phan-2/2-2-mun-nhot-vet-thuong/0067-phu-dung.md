@@ -3,14 +3,14 @@ title: "PHÙ DUNG"
 weight: 67
 navWeight: 934
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - phù dung
   - Hibiscus mutabilis L
 slug: "phu-dung"
 description: "Còn gọi là mộc liên, địa phù dung."
+benh:
+  - mụn nhọt
 ---
 
 

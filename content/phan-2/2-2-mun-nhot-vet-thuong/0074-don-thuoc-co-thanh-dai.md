@@ -3,8 +3,6 @@ title: "Đơn thuốc có thanh đại"
 weight: 74
 navWeight: 927
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có thanh đại
@@ -13,6 +11,8 @@ keywords:
   - chữa viêm hạch hạnh nhân
 slug: "don-thuoc-co-thanh-dai"
 description: "Bài thuốc chữa viêm lợ irăng, chảy máu: Bạch phàn (phèn chua) 40g, thanh đại 80g, hồng hoàng (asen sunfua As₂S₃) 2g, mai hoa băng phiến (bocneol) 2g. Tất…"
+benh:
+  - mụn nhọt
 ---
 
 

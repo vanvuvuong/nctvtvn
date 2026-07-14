@@ -3,8 +3,6 @@ title: "Đơn thuốc có huyết kiệt"
 weight: 102
 navWeight: 899
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có huyết kiệt
@@ -12,6 +10,8 @@ keywords:
   - chữa vết thương chảy máu
 slug: "don-thuoc-co-huyet-kiet"
 description: "Chữa vết thương chảy máu: Tán huyết kiệt rắc vào."
+benh:
+  - mụn nhọt
 ---
 
 

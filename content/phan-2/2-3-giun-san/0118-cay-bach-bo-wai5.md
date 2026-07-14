@@ -14,8 +14,8 @@ slug: "cay-bach-bo-wai5"
 description: "Cỏn có tên là dây đẹt ác, dây ba mươi."
 benh:
   - giun
-  - bệnh lao hạch thu được kết
-  - luôn như
+  - bệnh lao hạch thu
+  - luôn
 ---
 
 

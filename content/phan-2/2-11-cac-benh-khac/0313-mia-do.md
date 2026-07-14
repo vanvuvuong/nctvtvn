@@ -12,7 +12,7 @@ keywords:
 slug: "mia-do"
 description: "Còn gọi là tậu chó (Lạng Sơn), đọt đắng, đọt hoàng, cát lồi, củ chóc."
 benh:
-  - bệnh ở cổ họng
+  - bệnh
   - thấp khớp
 ---
 

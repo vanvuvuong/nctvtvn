@@ -13,7 +13,7 @@ slug: "cuc-moc"
 description: "Còn gọi là ngải phù dung, nguyệt bạch, ngọc phù dung."
 benh:
   - cảm mạo
-  - kinh nguyệt không đều
+  - kinh nguyệt
 ---
 
 

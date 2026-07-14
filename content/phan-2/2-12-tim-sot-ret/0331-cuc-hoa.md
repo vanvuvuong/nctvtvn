@@ -32,7 +32,7 @@ images:
   - /images/hinh-483.png
   - /images/hinh-485.png
 benh:
-  - phong mà sinh hoa mắt
+  - phong
   - chóng mặt
   - cảm sốt
   - bị cảm
@@ -755,30 +755,30 @@ Chữa mọi bệnh của phụ nữ, kinh nguyệt không đều, các bệnh s
 
 Mẫu đơn bì thang: Mẫu đơn bì 5g, đương quy 5g, thược dược 3g, sinh địa 6g, trần bì 4g, bạch truật 4g, hương phụ 3g, sài hổ 2g, hoàng cầm 2g, cam thảo 2g, nước 600ml. Sắc còn 200ml. Chia 3 lẩn uống trong ngày.
 
-![CÚC HOA 菊 — Hình 470](/images/hinh-470.png)
+![Hình 470. Cúc hoa - Chrysanthemum sinense](/images/hinh-470.png)
 
-![CÚC HOA 菊 — Hình 471](/images/hinh-471.png)
+![Hình 471. Cúc hoa - Chrysanthemum sinense](/images/hinh-471.png)
 
-![CÚC HOA 菊 — Hình 472](/images/hinh-472.png)
+![Hình 472. Cúc hoa - Chrysanthemum sinense](/images/hinh-472.png)
 
-![CÚC HOA 菊 — Hình 473](/images/hinh-473.png)
+![Hình 473. Cúc hoa - Chrysanthemum sinense](/images/hinh-473.png)
 
-![CÚC HOA 菊 — Hình 474](/images/hinh-474.png)
+![Hình 474. Cúc hoa - Chrysanthemum sinense](/images/hinh-474.png)
 
-![CÚC HOA 菊 — Hình 475](/images/hinh-475.png)
+![Hình 475. Cúc hoa - Chrysanthemum sinense](/images/hinh-475.png)
 
-![CÚC HOA 菊 — Hình 476](/images/hinh-476.png)
+![Hình 476. Cúc hoa - Chrysanthemum sinense](/images/hinh-476.png)
 
-![CÚC HOA 菊 — Hình 477](/images/hinh-477.png)
+![Hình 477. Cúc hoa - Chrysanthemum sinense](/images/hinh-477.png)
 
-![CÚC HOA 菊 — Hình 478](/images/hinh-478.png)
+![Hình 478. Cúc hoa - Chrysanthemum sinense](/images/hinh-478.png)
 
-![CÚC HOA 菊 — Hình 479](/images/hinh-479.png)
+![Hình 479. Cúc hoa - Chrysanthemum sinense](/images/hinh-479.png)
 
-![CÚC HOA 菊 — Hình 480](/images/hinh-480.png)
+![Hình 480. Cúc hoa - Chrysanthemum sinense](/images/hinh-480.png)
 
-![CÚC HOA 菊 — Hình 482](/images/hinh-482.png)
+![Hình 482. Cúc hoa - Chrysanthemum sinense](/images/hinh-482.png)
 
-![CÚC HOA 菊 — Hình 483](/images/hinh-483.png)
+![Hình 483. Cúc hoa - Chrysanthemum sinense](/images/hinh-483.png)
 
-![CÚC HOA 菊 — Hình 485](/images/hinh-485.png)
+![Hình 485. Cúc hoa - Chrysanthemum sinense](/images/hinh-485.png)

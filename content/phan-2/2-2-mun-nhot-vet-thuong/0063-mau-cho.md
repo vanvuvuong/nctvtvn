@@ -3,8 +3,6 @@ title: "MÁU CHÓ"
 weight: 63
 navWeight: 938
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - máu chó
@@ -15,6 +13,8 @@ keywords:
   - trị ghẻ ruồi rất công hiệu
 slug: "mau-cho"
 description: "Còn gọi là muscadier à suif."
+benh:
+  - mụn nhọt
 ---
 
 

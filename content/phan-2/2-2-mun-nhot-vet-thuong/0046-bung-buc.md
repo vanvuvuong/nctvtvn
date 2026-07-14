@@ -3,8 +3,6 @@ title: "BÙNG BỤC"
 weight: 46
 navWeight: 955
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bùng bục
@@ -15,6 +13,8 @@ keywords:
   - chữa đau dạ dày
 slug: "bung-buc"
 description: "Còn gọi là bục bục, bông bét, cây lá ngõa kok po hou (Lào)."
+benh:
+  - mụn nhọt
 ---
 
 

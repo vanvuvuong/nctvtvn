@@ -17,8 +17,8 @@ description: "Còn gọi là lo va (Campuchia)."
 benh:
   - đau nhức
   - nhọt độc
-  - bán thán bất toại
-  - bệnh đẻ xong máu chảy
+  - bán thân bất toại
+  - bệnh đẻ
   - bệnh nhức đầu
   - tê liệt
 ---

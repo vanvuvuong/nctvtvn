@@ -22,8 +22,6 @@ benh:
   - đau răng
   - đi ngoàỉ
   - lỵ đi ngoài
-  - sán theo dược thư
-  - sán có phối hợp
   - gin sán
   - viêm ruột
   - sốt rét

@@ -110,4 +110,4 @@ Chú thích:
 
 Có tác giả xác định tên cây biến hoá là Asarum blumei Duch. Cần xác định lại.
 
-![BẠCH CẬP 白芨 — Hình 577](/images/hinh-577.png)
+![Hình 577. Bạch cập - Bletilla striata](/images/hinh-577.png)

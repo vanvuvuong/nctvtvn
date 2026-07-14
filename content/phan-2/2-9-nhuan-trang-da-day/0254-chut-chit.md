@@ -13,7 +13,6 @@ keywords:
 slug: "chut-chit"
 description: "Còn gọi là trút trít, lưỡi bò, ngưu thiệt, dương đề."
 benh:
-  - hay rửa các mụn ghẻ
   - bệnh táo bón
   - hạ lỵ
   - kém ăn

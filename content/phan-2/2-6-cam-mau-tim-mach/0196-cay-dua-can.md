@@ -20,7 +20,7 @@ description: "Còn gọi là trường xuân, hoa hải đằng, bông dừa, d�
 benh:
   - đái đường
   - sốt
-  - bệnh đái đường được ghi nhận
+  - bệnh đái đường
   - huyết áp
 ---
 

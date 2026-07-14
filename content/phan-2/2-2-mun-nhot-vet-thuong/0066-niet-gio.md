@@ -3,8 +3,6 @@ title: "NIỆT GIÓ"
 weight: 66
 navWeight: 935
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - niệt gió
@@ -16,6 +14,8 @@ keywords:
   - dùng làm thuốc diệt trừ sâu bọ
 slug: "niet-gio"
 description: "Còn gọi là gió niệt, gió cánh, gió miết, gió chuột, liễu kha vương, lĩnh nam nguyên hoa, cửu tin thảo, sơn miên bì, địa ba ma, độc ngư đằng."
+benh:
+  - mụn nhọt
 ---
 
 

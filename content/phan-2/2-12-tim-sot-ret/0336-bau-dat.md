@@ -22,7 +22,7 @@ images:
 benh:
   - sốt
   - thuỷ thũng
-  - kinh tế cũng không giống nhau
+  - kinh tế
   - đau dạ dày
   - đau
   - cảm cúm
@@ -329,14 +329,14 @@ Hương nhu tán nhỏ, mỗi lần dùng 8g, pha với nước sôi hay dùng r
 
 Hương nhu 500g, hậu phác tẩm gừng nướng 200g, bạch biển đậu sao 2.000g, tất cả 3 vị tán nhỏ trộn đều, mỗi lần dùng 10g pha với nước đun sôi mà uống. Có thể dùng tới 20g.
 
-![BẦU ĐẤT — Hình 507](/images/hinh-507.png)
+![Hình 507. Bầu đất - Gynura sarmentosa](/images/hinh-507.png)
 
-![BẦU ĐẤT — Hình 508](/images/hinh-508.png)
+![Hình 508. Bầu đất - Gynura sarmentosa](/images/hinh-508.png)
 
-![BẦU ĐẤT — Hình 509](/images/hinh-509.png)
+![Hình 509. Bầu đất - Gynura sarmentosa](/images/hinh-509.png)
 
-![BẦU ĐẤT — Hình 510](/images/hinh-510.png)
+![Hình 510. Bầu đất - Gynura sarmentosa](/images/hinh-510.png)
 
-![BẦU ĐẤT — Hình 511](/images/hinh-511.png)
+![Hình 511. Bầu đất - Gynura sarmentosa](/images/hinh-511.png)
 
-![BẦU ĐẤT — Hình 512](/images/hinh-512.png)
+![Hình 512. Bầu đất - Gynura sarmentosa](/images/hinh-512.png)

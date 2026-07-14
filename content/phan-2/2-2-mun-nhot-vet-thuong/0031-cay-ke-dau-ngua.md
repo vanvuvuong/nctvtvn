@@ -3,8 +3,6 @@ title: "CÂY KÉ ĐẦU NGỰA"
 weight: 31
 navWeight: 970
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây ké đầu ngựa
@@ -16,6 +14,8 @@ keywords:
   - chữa thủy thũng
 slug: "cay-ke-dau-ngua"
 description: "Còn gọi là thương nhĩ (te6n Trung Quốc), phắt ma (Thổ). Tên khoa học Xanthium strumarium L. Thuộc họ Cúc Asteraceae. Ta dùng quả ké đầu ngựa, hay toàn bộ…"
+benh:
+  - mụn nhọt
 ---
 
 

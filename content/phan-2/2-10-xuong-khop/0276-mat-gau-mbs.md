@@ -19,7 +19,7 @@ keywords:
 slug: "mat-gau-mbs"
 description: "Còn gọi ìà hùng đởm."
 benh:
-  - mắt đỏ có màng
+  - mắt đỏ
   - thấp nhiệt da vàng
   - đau mắt
   - mắt sưng đỏ

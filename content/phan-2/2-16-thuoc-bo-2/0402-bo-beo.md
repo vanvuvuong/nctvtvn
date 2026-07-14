@@ -52,4 +52,4 @@ Còn là một vị thuốc bổ dùng trong phạm vi kinh nghiệm nhân dân.
 
 Mỗi ngày dùng 10-20g rễ khô dưới dạng thuốc sắc hay tán bột làm thành viên mà uống. Có thể ngâm rượu.
 
-![BỔ BÉO — Hình 680](/images/hinh-680.png)
+![Hình 680. Bổ béo - Gomphandra tonkinensis](/images/hinh-680.png)

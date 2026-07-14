@@ -19,7 +19,7 @@ images:
   - /images/hinh-284.png
 benh:
   - cảm mạo
-  - ăn uống không tiêu
+  - ăn uống
   - sốt
   - đau dạ dày
   - đau bụng
@@ -332,10 +332,10 @@ Ngoài ra còn daucocosterin (hay β sitoterolglucozit) C₃₅H₆₀O₆ (C. A
 
 Acanthozit B R=+D glucoza
 
-![HOẮC HƯƠNG 藿香 — Hình 280](/images/hinh-280.png)
+![Hình 280. Hoắc hương - Pogostemon cablin](/images/hinh-280.png)
 
-![HOẮC HƯƠNG 藿香 — Hình 281](/images/hinh-281.png)
+![Hình 281. Hoắc hương - Pogostemon cablin](/images/hinh-281.png)
 
-![HOẮC HƯƠNG 藿香 — Hình 282](/images/hinh-282.png)
+![Hình 282. Hoắc hương - Pogostemon cablin](/images/hinh-282.png)
 
-![HOẮC HƯƠNG 藿香 — Hình 284](/images/hinh-284.png)
+![Hình 284. Hoắc hương - Pogostemon cablin](/images/hinh-284.png)

@@ -3,14 +3,14 @@ title: "Đơn thuốc có thanh táo"
 weight: 72
 navWeight: 929
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có thanh táo
   - chữa ho
 slug: "don-thuoc-co-thanh-tao"
 description: "Rễ thanh táo, miết giáp, địa cốt bì, sài bồ, mỗi vị 10g, đương quy, tri mẫu, mỗi vị 5g, thanh cao, ô mai, mỗi vị 4g, nước 600ml, sắc còn 200ml, chia 3 lần…"
+benh:
+  - mụn nhọt
 ---
 
 

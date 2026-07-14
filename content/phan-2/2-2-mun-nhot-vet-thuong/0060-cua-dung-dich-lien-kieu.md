@@ -3,8 +3,6 @@ title: "của dung dịch liên kiều"
 weight: 60
 navWeight: 941
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - của dung dịch liên kiều
@@ -18,6 +16,8 @@ keywords:
   - thông kinh nguyệt
 slug: "cua-dung-dich-lien-kieu"
 description: "Vi trùng lỵ Shiga 1:640"
+benh:
+  - mụn nhọt
 ---
 
 

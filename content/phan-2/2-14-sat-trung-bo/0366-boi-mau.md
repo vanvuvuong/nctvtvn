@@ -141,6 +141,6 @@ Bối mẫu bỏ lõi sao vàng, tán nhỏ luyện với đường phèn, viên
 
 Bối mẫu bỏ lõi 2g, nước lã 2ml, mật ong 2g, bôi lên lưỡi. Thuốc nuốt được. Ngày 4-5 lần.
 
-![BỐI MẪU 貝母 — Hình 580](/images/hinh-580.png)
+![Hình 580. Bối mẫu](/images/hinh-580.png)
 
-![BỐI MẪU 貝母 — Hình 581](/images/hinh-581.png)
+![Hình 581. Bối mẫu](/images/hinh-581.png)

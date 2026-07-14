@@ -3,8 +3,6 @@ title: "CÂY MÃ TIÊN THẢO 馬鞭草"
 weight: 35
 navWeight: 966
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - cây mã tiên thảo
@@ -19,6 +17,8 @@ keywords:
   - chữa bệnh lở ngứa hạ bộ
 slug: "cay-ma-tien-thao"
 description: "Còn có tên là cỏ roi ngựa, Verveine (Pháp). Tên khoa học Verbena officinalis L. Thuộc họ Cỏ roi ngựa Verbenaceae. Người ta dùng toàn cây mã tiên thảo…"
+benh:
+  - mụn nhọt
 ---
 
 

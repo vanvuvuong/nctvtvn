@@ -20,7 +20,7 @@ images:
 benh:
   - ho rõ rệt
   - tiểu tiện
-  - ho gà ở cao
+  - ho gà
   - viêm khí quản mãn tính
 ---
 
@@ -98,4 +98,4 @@ Bách bộ 0,05g, lá tía tô 0,025g, trần bì 0,05 g, tử uyển 0,025g, c�
 
 Tử uyển 10g, khoản đông hoa 10g, bối mẫu 10g, cam thảo 3g, cát cánh 7g, hạnh nhân 10g, nước 600ml sắc còn 200ml. Chia làm 3 lần uống trong ngày (Đơn thuốc của Diệp Quyết Tuyền).
 
-![TỬ UYỂN 紫菀 — Hình 569](/images/hinh-569.png)
+![Hình 569. Tử uyển - Aster tataricus](/images/hinh-569.png)

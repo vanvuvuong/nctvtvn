@@ -3,11 +3,6 @@ title: "HƯƠNG PHỤ 香附"
 weight: 2
 navWeight: 999
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - điều kinh
-  - khí uất
-  - nôn mửa
-  - giảm đau
 keywords:
   - bệnh phụ nữ
   - hương phụ
@@ -27,6 +22,11 @@ images:
   - /images/6-huong-phu.png
   - /images/6-2-cyperon.png
   - /images/6-3-huong-phu-tphh.png
+benh:
+  - điều kinh
+  - khí uất
+  - nôn mửa
+  - giảm đau
 ---
 
 _Còn gọi_ là củ gấu, cỏ gấu, cỏ cú.
@@ -53,7 +53,7 @@ Vào tháng 6, trên ngọn cây có 3 đến 8 cụm hoa hình tán màu xám n
 
 Cỏ gấu mọc hoang ở khắp nơi trên đồng ruộng, ven đường. Tại ven biển, đất cát xốp củ to hơn, dễ đào hơn. Đối với nhà nông, đây là một loại cỏ rất khó tiêu diệt. Chỉ cần sót lại một mẩu thân rễ nhỏ cũng đủ phát triển. Còn thấy mọc những ở nước khác vùng châu Á như Trung Quốc, Triều Tiên, Nhật Bản, Inđônêxia.
 
-![HƯƠNG PHỤ 香附 — Hình 6](/images/6-huong-phu.png)
+![Hình 6. Hương phụ - Cyperus rotundus](/images/6-huong-phu.png)
 
 Hình 6. Hương phụ - Cyperus rotundus
 
@@ -81,9 +81,9 @@ Thành phần tinh dầu gồm 32% cyperen C₁₅H₂₄, 49% rượu cyperola 
 
 Do nguồn gốc hương phụ khác nhau, thành phần tinh dầu của hương phụ cũng không hoàn loàn giống nhau. Trong tinh dầu hương phụ Trung quốc có thành phần chủ yếu là cyperen (độ sôi 104°C/5mm thủy ngân) và izocyperotundone, còn trong tinh dầu hương phụ Nhật bản có thành phần chủ yếu là cyperol, cyperenol (độ chảy 94°C) chiếm 49%, cyperen 32% và a-cyperon (độ sôi 177°C/20mm thủy ngân), cyperotundon và cyperolon (độ chảy 41- 42°C) (Lâm Khải Thọ, 1977, 580):
 
-![HƯƠNG PHỤ 香附 — Hình 6.2](/images/6-2-cyperon.png)
+![Hình 6.2. Hương phụ - Cyperus rotundus](/images/6-2-cyperon.png)
 
-![HƯƠNG PHỤ 香附 — Hình 6.3](/images/6-3-huong-phu-tphh.png)
+![Hình 6.3. Hương phụ - Cyperus rotundus](/images/6-3-huong-phu-tphh.png)
 
 #### D. Tác dụng dược lý
 

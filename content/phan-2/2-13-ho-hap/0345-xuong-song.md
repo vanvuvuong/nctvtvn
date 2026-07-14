@@ -15,7 +15,7 @@ benh:
   - cảm sốt
   - sốt
   - cảm cúm
-  - ăn uống không tiêu
+  - ăn uống
   - tiêu khát
   - nhức đầu
   - mệt nhọc

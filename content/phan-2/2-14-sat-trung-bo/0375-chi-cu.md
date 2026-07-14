@@ -12,7 +12,7 @@ slug: "chi-cu"
 description: "Còn gọi là khúng khéng (Cao Bẳng, Lạng Sơn), vạn thọ, kê trảo."
 benh:
   - lao
-  - bệnh giang mai nhưng thường chỉ
+  - bệnh giang mai
   - hoảng hốt
 ---
 

@@ -55,4 +55,4 @@ Phật thủ là một vị thuốc dùng trong phạm vi nhân dân. Theo tài 
 
 Ngày dùng 3 đến 6g dưới dạng thuốc sắc hay thuốc bột. Trong sách cổ nói “phàm âm hư không dùng được”.
 
-![PHẬT THỦ 佛手 — Hình 575](/images/hinh-575.png)
+![Hình 575. Phật thủ - Citrus medica](/images/hinh-575.png)

@@ -17,7 +17,7 @@ keywords:
 slug: "moc-thong-am"
 description: "Mộc thồng là một vị thuốc ta vừa nhập cùa Trung Quốc, vừa khai thác trong nước. Nhưng ngay mộc thông của Trung Quốc cũng không thống nhất. Người ta đã…"
 benh:
-  - thấp nhiệt lâm
+  - thấp nhiệt lâm bệnh
   - kinh nguyệt bế tắc
   - phù thũng
   - phân đạm kém

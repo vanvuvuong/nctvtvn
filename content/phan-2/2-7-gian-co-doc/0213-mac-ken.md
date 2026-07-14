@@ -14,6 +14,7 @@ images:
   - /images/hinh-263.png
   - /images/hinh-264.png
 benh:
+  - bệnh
   - rắn rết côn trùng cắn
   - ghẻ
   - giun sán
@@ -322,8 +323,8 @@ Trong công nghiệp, sơn chủ yếu được dùng trong công nghiệp sơn,
 
 Chữa các chứng hầu tê châm chích không tới được: Dùng can tất đốt lấy khói thổi vào cổ họng.
 
-![MẮC KẸN — Hình 262](/images/hinh-262.png)
+![Hình 262. Mắc kẹn - Aesculus sinensis](/images/hinh-262.png)
 
-![MẮC KẸN — Hình 263](/images/hinh-263.png)
+![Hình 263. Mắc kẹn - Aesculus sinensis](/images/hinh-263.png)
 
-![MẮC KẸN — Hình 264](/images/hinh-264.png)
+![Hình 264. Mắc kẹn - Aesculus sinensis](/images/hinh-264.png)

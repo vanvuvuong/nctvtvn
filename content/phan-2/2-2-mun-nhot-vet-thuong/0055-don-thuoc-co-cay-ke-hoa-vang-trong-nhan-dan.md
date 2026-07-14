@@ -3,8 +3,6 @@ title: "Đơn thuốc có cây ké hoa vàng trong nhân dân"
 weight: 55
 navWeight: 946
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn thuốc có cây ké hoa vàng trong nhân dân
@@ -16,6 +14,8 @@ keywords:
   - làm thuốc mát uống
 slug: "don-thuoc-co-cay-ke-hoa-vang-trong-nhan-dan"
 description: "Chữa mụn nhọt, sưng chín mé: Lá ké hoa vàng tươi, không kể liều lượng, rửa sạch giã nát đắp lên những nơi sưng đau, chưa vỡ mủ. Đồng thời, sao vàng một số…"
+benh:
+  - mụn nhọt
 ---
 
 

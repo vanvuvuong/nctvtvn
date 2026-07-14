@@ -3,8 +3,6 @@ title: "HƯƠNG ĐIỆP"
 weight: 103
 navWeight: 898
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - hương điệp
@@ -12,6 +10,8 @@ keywords:
   - hạ huyết áp
 slug: "huong-diep"
 description: "Còn gọi là Cây lá thơm, Giêranium."
+benh:
+  - mụn nhọt
 ---
 
 

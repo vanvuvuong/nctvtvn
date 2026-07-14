@@ -3,8 +3,6 @@ title: "DÂY ĐÒN GÁNH"
 weight: 89
 navWeight: 912
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - dây đòn gánh
@@ -12,6 +10,8 @@ keywords:
   - chữa bỏng
 slug: "day-don-ganh"
 description: "Còn gọi là đòn kẻ trộm, dây gân."
+benh:
+  - mụn nhọt
 ---
 
 

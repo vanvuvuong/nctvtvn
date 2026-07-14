@@ -3,8 +3,6 @@ title: "ĐƠN RĂNG CƯA"
 weight: 97
 navWeight: 904
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn răng cưa
@@ -12,6 +10,8 @@ keywords:
   - chữa mẩn ngứa dị ứng
 slug: "don-rang-cua"
 description: "Còn gọi là đok ton, kok tap (Lào)."
+benh:
+  - mụn nhọt
 ---
 
 

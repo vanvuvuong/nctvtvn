@@ -15,7 +15,7 @@ keywords:
 slug: "loc-mai"
 description: "Còn gọi là rau mọi, lục mại."
 benh:
-  - ngộ độc cần dùng thuốc nhuận
+  - ngộ độc
   - táo bón
   - lở ngứa
   - ỉa chảy

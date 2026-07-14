@@ -14,7 +14,7 @@ keywords:
 slug: "cay-mao-ga-trang"
 description: "Còn có tên bông mồng gà trắng, đuôi lươn, dã kê quan, thanh tương tử."
 benh:
-  - phong nhiệt làm mắt đau
+  - phong nhiệt
   - ỉa lỏng
 ---
 

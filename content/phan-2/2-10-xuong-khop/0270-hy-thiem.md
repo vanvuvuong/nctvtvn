@@ -13,7 +13,7 @@ slug: "hy-thiem"
 description: "Còn gọi ìà cỏ đĩ, cứt lợn, hy kicm thảo, hy tiên, niêm hồ thái, chư cao, hổ cao, chó đẻ, nụ áo rìa."
 benh:
   - bệnh phụ nữ
-  - bệnh nhanh chóng nên có nước
+  - bệnh nhanh chóng
   - bệnh nhanh
 ---
 

@@ -17,7 +17,7 @@ slug: "cay-trac-bach-diep"
 description: "Còn có tên là bá tử nhân."
 benh:
   - tim
-  - hồi hộp mất ngủ
+  - hồi hộp mắt ngủ
 ---
 
 

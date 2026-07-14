@@ -17,7 +17,7 @@ slug: "ca-chua"
 description: "Còn gọi là cà dầm, tomate (Pháp)."
 benh:
   - dinh dưỡng
-  - dinh dưỡng thấp nhưng được toàn
+  - dinh dưỡng thấp
   - sốt
   - trĩ
 ---

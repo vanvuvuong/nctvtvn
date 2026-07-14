@@ -3,8 +3,6 @@ title: "TẦN CỬU (THANH TÁO)"
 weight: 71
 navWeight: 930
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - tần cửu (thanh táo
@@ -15,6 +13,8 @@ keywords:
   - chữa da vàng
 slug: "tan-cuu-thanh-tao"
 description: "Còn gọi là tần cửu, tần qua, tần giao, thanh táo, thuốc trặc, trường sơn cây."
+benh:
+  - mụn nhọt
 ---
 
 

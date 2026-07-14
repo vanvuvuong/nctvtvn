@@ -3,8 +3,6 @@ title: "KÉ HOA VÀNG"
 weight: 54
 navWeight: 947
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - ké hoa vàng
@@ -13,6 +11,8 @@ keywords:
   - chữa mụn nhọt
 slug: "ke-hoa-vang"
 description: "Còn gọi là ké đồng tiền, bạch bối hoàng hoa nhậm, chỗi đực, khát bo lương (Thái)."
+benh:
+  - mụn nhọt
 ---
 
 

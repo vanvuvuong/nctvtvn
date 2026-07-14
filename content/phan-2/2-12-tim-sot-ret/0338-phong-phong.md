@@ -99,6 +99,6 @@ Chữa triệu chứng khi ngủ ra mồ hôi trộm:
 
 Phòng phong 80g, xuyên khung 40g, nhân sâm 20g (có thể dùng đảng sâm). Các vị tán nhỏ, trộn đều; mỗi lần trước khi đi ngủ uống 10-12g bột này.
 
-![PHÒNG PHONG 防風 — Hình 515](/images/hinh-515.png)
+![Hình 515. Phòng phong](/images/hinh-515.png)
 
-![PHÒNG PHONG 防風 — Hình 516](/images/hinh-516.png)
+![Hình 516. Phòng phong](/images/hinh-516.png)

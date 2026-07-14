@@ -3,8 +3,6 @@ title: "HUYẾT GIÁC 血角"
 weight: 18
 navWeight: 983
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - ứ huyết
 keywords:
   - bệnh phụ nữ
   - huyết giác
@@ -17,6 +15,8 @@ images:
   - /images/2-ngu-hanh.png
   - /images/2-2-quy-loai-ngu-hanh.png
   - /images/24-huyet-giac.png
+benh:
+  - ứ huyết
 ---
 
 _Còn gọi là_ cây xó nhà, cây dứa dại, cây giáng ông.
@@ -31,7 +31,7 @@ Huyết giác là chất gỗ màu đỏ, do một loại sâu hay nấm gây ra
 
 Huyết giác là một loại cây nhỏ, cao chừng 1- 1,5m, có thể tới 2-3m, sống lâu năm. Thân phân thành nhiều nhánh. Cây nhỏ có đường kính chừng 1,6-2cm, cây to có đường kính tới 20-25 cm. Lá hình lưỡi kiếm, trung bình dài 25-80cm, rộng 3-4cm tới 6-7cm, cứng, màu xanh tươi, mọc cách, không có cuống. Lá rụng để lại trên thân một sẹo, Thường chỉ còn một bó lá tụ tập trên ngọn. Cụm hoa mọc thành chùm dài tới lm, đường kính phía cuống tới 1,5-2cm trên có lá nhỏ, dài 15 cm, rộng 2cm, phân cành nhỏ dài tới 30cm. Hoa tụ từng 2-4 hoa gần nhau. Hoa nhỏ, đường kính 7-8 mm, màu lục vàng nhạt. Quả mọng hình cầu, đường kính chừng 1cm. Khi khô có màu đen, hạt hình cầu, đường kính 6-7 cm (Hình 24, Hm 3,2).
 
-![HUYẾT GIÁC 血角 — Hình 24](/images/24-huyet-giac.png)
+![Hình 24. Huyết giác - Pleomele cochinchinensis](/images/24-huyet-giac.png)
 
 Hình 2. Huyết giác Pleamele cochinchinensis
 
@@ -57,6 +57,6 @@ Huyết giác còn là một vị thuốc dùng trong phạm vi nhân dân, chư
 
 Nhân dân dùng chữa những trường hợp ứ huyết, bị thương, máu tím bầm không lưu thông. Dùng cho cả nam và nữ. Đối với nữ còn dùng khi kinh nguyệt bế. Liều dùng: ngày 10-20g dưới dạng thuốc sắc, ngâm rượu uống và xoa.
 
-![HUYẾT GIÁC 血角 — Hình 2](/images/2-ngu-hanh.png)
+![Hình 2. Huyết giác - Pleomele cochinchinensis](/images/2-ngu-hanh.png)
 
-![HUYẾT GIÁC 血角 — Hình 2.2](/images/2-2-quy-loai-ngu-hanh.png)
+![Hình 2.2. Huyết giác - Pleomele cochinchinensis](/images/2-2-quy-loai-ngu-hanh.png)

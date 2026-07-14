@@ -33,21 +33,21 @@ images:
   - /images/hinh-765.png
   - /images/hinh-766.png
 benh:
-  - đau các khớp xương
-  - cam lỵ trẻ
+  - đau
+  - cam lỵ trẻ con
   - bệnh tràng nhạc
   - mụn nhọt
   - thổ huyết
-  - mụn nhọt chưa vỡ mủ
   - kim sang hạ cam
-  - đậu
   - đau lưng
-  - theo các triệu chứng ngộ độc
   - tắc họng
   - kịp thời
   - tích tụ
-  - mắt có màng mộng
+  - mắt
   - bệnh vàng da
+  - thận dương suy nhược
+  - nghẹn
+  - choáng váng
 ---
 
 
@@ -890,34 +890,34 @@ Ngoài ra rươi còn là thức ăn cho cá.
 
 Tuy nhiên, những người có bệnh hen tránh ăn rươi có thể vì rươi có chất gây lên cơn hen.
 
-![THẠCH SÙNG 宁宮 — Hình 747](/images/hinh-747.png)
+![Hình 747. Thạch sùng - Hemidactylus frenatus](/images/hinh-747.png)
 
-![THẠCH SÙNG 宁宮 — Hình 748](/images/hinh-748.png)
+![Hình 748. Thạch sùng - Hemidactylus frenatus](/images/hinh-748.png)
 
-![THẠCH SÙNG 宁宮 — Hình 749](/images/hinh-749.png)
+![Hình 749. Thạch sùng - Hemidactylus frenatus](/images/hinh-749.png)
 
-![THẠCH SÙNG 宁宮 — Hình 750](/images/hinh-750.png)
+![Hình 750. Thạch sùng - Hemidactylus frenatus](/images/hinh-750.png)
 
-![THẠCH SÙNG 宁宮 — Hình 751](/images/hinh-751.png)
+![Hình 751. Thạch sùng - Hemidactylus frenatus](/images/hinh-751.png)
 
-![THẠCH SÙNG 宁宮 — Hình 752](/images/hinh-752.png)
+![Hình 752. Thạch sùng - Hemidactylus frenatus](/images/hinh-752.png)
 
-![THẠCH SÙNG 宁宮 — Hình 755](/images/hinh-755.png)
+![Hình 755. Thạch sùng - Hemidactylus frenatus](/images/hinh-755.png)
 
-![THẠCH SÙNG 宁宮 — Hình 756](/images/hinh-756.png)
+![Hình 756. Thạch sùng - Hemidactylus frenatus](/images/hinh-756.png)
 
-![THẠCH SÙNG 宁宮 — Hình 757](/images/hinh-757.png)
+![Hình 757. Thạch sùng - Hemidactylus frenatus](/images/hinh-757.png)
 
-![THẠCH SÙNG 宁宮 — Hình 758](/images/hinh-758.png)
+![Hình 758. Thạch sùng - Hemidactylus frenatus](/images/hinh-758.png)
 
-![THẠCH SÙNG 宁宮 — Hình 759](/images/hinh-759.png)
+![Hình 759. Thạch sùng - Hemidactylus frenatus](/images/hinh-759.png)
 
-![THẠCH SÙNG 宁宮 — Hình 760](/images/hinh-760.png)
+![Hình 760. Thạch sùng - Hemidactylus frenatus](/images/hinh-760.png)
 
-![THẠCH SÙNG 宁宮 — Hình 761](/images/hinh-761.png)
+![Hình 761. Thạch sùng - Hemidactylus frenatus](/images/hinh-761.png)
 
-![THẠCH SÙNG 宁宮 — Hình 762](/images/hinh-762.png)
+![Hình 762. Thạch sùng - Hemidactylus frenatus](/images/hinh-762.png)
 
-![THẠCH SÙNG 宁宮 — Hình 765](/images/hinh-765.png)
+![Hình 765. Thạch sùng - Hemidactylus frenatus](/images/hinh-765.png)
 
-![THẠCH SÙNG 宁宮 — Hình 766](/images/hinh-766.png)
+![Hình 766. Thạch sùng - Hemidactylus frenatus](/images/hinh-766.png)

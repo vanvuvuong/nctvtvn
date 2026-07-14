@@ -3,8 +3,6 @@ title: "BẢY LÁ MỘT HOA"
 weight: 42
 navWeight: 959
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - bảy lá một hoa
@@ -15,6 +13,8 @@ keywords:
   - làm thuốc tẩy
 slug: "bay-la-mot-hoa"
 description: "Còn gọi là thất diệp thất chi hoa, độc cước liên, thiết đăng đài, chi hoa đầu, tảo hưu, thảo hà xa."
+benh:
+  - mụn nhọt
 ---
 
 

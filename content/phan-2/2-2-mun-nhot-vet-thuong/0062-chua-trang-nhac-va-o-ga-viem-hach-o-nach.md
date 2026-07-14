@@ -3,14 +3,14 @@ title: "Chữa tràng nhạc và ổ gà (viêm hạch ở nách)"
 weight: 62
 navWeight: 939
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - chữa tràng nhạc và ổ gà (viêm hạch ở nách
   - chữa sưng vú
 slug: "chua-trang-nhac-va-o-ga-viem-hach-o-nach"
 description: "Đơn thuốc thứ nhất : Liên kiều và vừng đen hai vị bằng nhau, tán nhỏ, ngày uống 3 lần, mỗi lần 4g."
+benh:
+  - mụn nhọt
 ---
 
 

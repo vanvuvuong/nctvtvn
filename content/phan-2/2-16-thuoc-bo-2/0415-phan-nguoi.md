@@ -24,20 +24,20 @@ images:
   - /images/hinh-731.png
 benh:
   - chạy giúp bộ đội
+  - bệnh
   - sốt dữ dội
   - cốt chưng lao phục
   - choáng
-  - bệnh dùng
+  - bệnh dùng thuốc
   - sốt nặng
   - sốt
+  - bá bệnh
   - sốt rét
   - sốt ho hen
-  - bệnh cao huyết áp cứng mạch
+  - bệnh cao huyết áp
   - đau nhức khớp xương
   - bệnh nhiệt phát cuồng
-  - làm ban
   - kinh tế
-  - và phẩm chất
 ---
 
 
@@ -348,10 +348,10 @@ Liều dùng hằng ngày là 5 đến 10g cắt thành từng miếng nhỏ ng�
 
 Sỏi mật của khỉ (hầu táo) được đông y coi là tính lạnh (hàn) vị đắng, hơi mặn, vào các kinh tâm, phế, đởm và gan, có khả năng thanh nhiệt trấn kinh, giải độc, tiêu thũng, tiêu đờm định suyễn. Ngày dùng với liều 0,20 đến 0,30g dưới hình thức thuốc bột hay phối hợp với các vị khác mà uống.
 
-![PHÂN NGƯỜI — Hình 728](/images/hinh-728.png)
+![Hình 728. Phân người](/images/hinh-728.png)
 
-![PHÂN NGƯỜI — Hình 729](/images/hinh-729.png)
+![Hình 729. Phân người](/images/hinh-729.png)
 
-![PHÂN NGƯỜI — Hình 730](/images/hinh-730.png)
+![Hình 730. Phân người](/images/hinh-730.png)
 
-![PHÂN NGƯỜI — Hình 731](/images/hinh-731.png)
+![Hình 731. Phân người](/images/hinh-731.png)

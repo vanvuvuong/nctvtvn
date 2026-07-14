@@ -27,9 +27,8 @@ benh:
   - kém ăn
   - loét dạ dày
   - cảm nắng
-  - nôn thông mật giúp sự liêu
+  - nôn thông mật giúp sự liêu hóa
   - cảm mạo
-  - cũng thay đổi tuỳ theo nơi
 ---
 
 
@@ -152,4 +151,4 @@ Nãm 1958, chúng tôi có xin được loài bạc hà lai số 272 của Liên
 
 Tại Việt Nam, chúng tôi cất từ loài húng dũi Mentha crispa L. được thứ tinh dầu có chứa 50- 60% cacvon như tinh dầu lưu lan hương (Đỗ Tất Lợi, 1970).
 
-![BẠC HÀ 薄荷 — Hình 464](/images/hinh-464.png)
+![Hình 464. Bạc hà - Mentha arvensis](/images/hinh-464.png)

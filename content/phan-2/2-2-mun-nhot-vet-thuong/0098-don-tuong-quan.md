@@ -3,8 +3,6 @@ title: "ĐƠN TƯỚNG QUÂN"
 weight: 98
 navWeight: 903
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn tướng quân
@@ -13,6 +11,8 @@ keywords:
   - chữa viêm họng đỏ
 slug: "don-tuong-quan"
 description: "Tên khoa học Syzygium formosum var, ternifolium (Roxb) Merr. et Perry (Eugenia ternifolia Roxb., Eugenia formosa var, ternifolia (Roxb)Duth)."
+benh:
+  - mụn nhọt
 ---
 
 

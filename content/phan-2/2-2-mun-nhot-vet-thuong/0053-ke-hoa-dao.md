@@ -3,8 +3,6 @@ title: "KÉ HOA ĐÀO"
 weight: 53
 navWeight: 948
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - ké hoa đào
@@ -12,6 +10,8 @@ keywords:
   - chữa lỵ
 slug: "ke-hoa-dao"
 description: "Còn gọi là Phan thiên hoa, tiêu phan thiên hoa, nha khac mòn (Thái), bái lương, bái cúc, vái, địa đào hoa, niêm du tử, dã miên hoa."
+benh:
+  - mụn nhọt
 ---
 
 

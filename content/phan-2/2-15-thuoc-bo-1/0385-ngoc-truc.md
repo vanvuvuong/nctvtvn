@@ -13,7 +13,6 @@ keywords:
 slug: "ngoc-truc"
 description: "Tên khoa học Polygonatum officinale All."
 benh:
-  - tim như convallamarin
   - tim
   - táo nhiệt
 ---

@@ -3,8 +3,6 @@ title: "ĐƠN BUỐT"
 weight: 81
 navWeight: 920
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
-benh:
-  - mụn nhọt
 keywords:
   - mụn nhọt, vết thương và bệnh ngoài da
   - đơn buốt
@@ -15,6 +13,8 @@ keywords:
   - chữa viêm ruột thừa có kết quả
 slug: "don-buot"
 description: "Còn gọi là đơn kim, quỷ trâm thảo, manh tràng thảo, tử tô hoang, cúc áo."
+benh:
+  - mụn nhọt
 ---
 
 

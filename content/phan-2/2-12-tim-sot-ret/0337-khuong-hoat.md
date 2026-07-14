@@ -24,8 +24,6 @@ images:
   - /images/hinh-514.png
 benh:
   - tê thấp đau nhức
-  - chứng thủy thấp phong
-  - chứng thủng phấp phục phong
   - nhức đầu
   - khát
   - sốt
@@ -127,6 +125,6 @@ Củ niễng dùng xào nấu, có vị thơm béo.
 
 Tại một số nước như Nhật Bản, quả niễng được dùng làm thực phẩm ăn độn với cơm.
 
-![KHƯƠNG HOẠT 羌活 — Hình 513](/images/hinh-513.png)
+![Hình 513. Khương hoạt](/images/hinh-513.png)
 
-![KHƯƠNG HOẠT 羌活 — Hình 514](/images/hinh-514.png)
+![Hình 514. Khương hoạt](/images/hinh-514.png)

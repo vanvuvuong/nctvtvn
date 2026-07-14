@@ -17,7 +17,7 @@ slug: "mau-le"
 description: "Còn gọi là vỏ hầu, vỏ hà, hầu cồn, hầu cửa sông, hà sông."
 benh:
   - ỉa chảy
-  - kinh nguyệt không đều
+  - kinh nguyệt
   - bệnh bướu cổ tên iotamin
 ---
 

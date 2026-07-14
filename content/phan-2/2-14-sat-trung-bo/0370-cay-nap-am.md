@@ -25,7 +25,7 @@ benh:
   - ho hen
   - hen
   - đau bụng
-  - mất ngủ
+  - mắt ngủ
   - hồi hộp
   - hồi hộp bồn chồn
   - tim hồi hộp
@@ -427,10 +427,10 @@ Công dụng và liều dùng.
 
 Chữa băng huyết, thổ huyêt, di mộng tinh. Ngày uống 5-10g dưới dạng thuốc sắc.
 
-![CÂY NẮP ẤM — Hình 605](/images/hinh-605.png)
+![Hình 605. Cây nắp ấm - Nepenthes mirabilis](/images/hinh-605.png)
 
-![CÂY NẮP ẤM — Hình 606](/images/hinh-606.png)
+![Hình 606. Cây nắp ấm - Nepenthes mirabilis](/images/hinh-606.png)
 
-![CÂY NẮP ẤM — Hình 607](/images/hinh-607.png)
+![Hình 607. Cây nắp ấm - Nepenthes mirabilis](/images/hinh-607.png)
 
-![CÂY NẮP ẤM — Hình 609](/images/hinh-609.png)
+![Hình 609. Cây nắp ấm - Nepenthes mirabilis](/images/hinh-609.png)

@@ -57,4 +57,4 @@ Theo tài liệu cổ bồ hòn có tác dụng chữa ho trừ đờm, nhân h�
 
 Một số vùng ở Việt Nam và Trung Quốc dùng vỏ cây bồ hòn giã nát ngâm nước tắm cho súc vật bị bọ, rận, chấy.
 
-![BỒ HÒN 無患子 — Hình 579](/images/hinh-579.png)
+![Hình 579. Bồ hòn - Sapindus mukorossi](/images/hinh-579.png)

@@ -20,7 +20,6 @@ keywords:
 slug: "xuong"
 description: "Còn gọi lá thạch xương bồ, thuỷ xương bồ."
 benh:
-  - ở bệnh viện cũng như ngoại
   - thần kinh suy nhược
   - phong hàn tê thấp
   - đau dạ dày

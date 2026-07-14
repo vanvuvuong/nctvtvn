@@ -16,7 +16,7 @@ slug: "tat-bat"
 description: "Còn gọi ìà tiêu lốt, tiêu hoa tím. morech ton sai (Cămpuchia)."
 benh:
   - đau bụng
-  - nhức đẩu
+  - nhức đầu
 ---
 
 

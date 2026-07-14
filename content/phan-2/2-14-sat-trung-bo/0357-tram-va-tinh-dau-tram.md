@@ -84,4 +84,4 @@ Dung dịch tinh dầu tràm 5-10 hay 20% trong dầu còn được dùng với 
 
 Người ta còn dùng tinh dầu pha vào nưóc với nồng độ 2 phần nghìn để rửa các vết thương rất tốt.
 
-![TRÀM VÀ TINH DẦU TRÀM — Hình 570](/images/hinh-570.png)
+![Hình 570. Tràm và tinh dầu tràm - Melaleuca leucadendra](/images/hinh-570.png)
