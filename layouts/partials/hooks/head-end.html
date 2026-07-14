@@ -1,0 +1,35 @@
+{{ $title := .Title }}
+{{ $desc := cond (ne (.Params.description | default "") "") (.Params.description | plainify | truncate 200) (.Summary | plainify | truncate 200) }}
+{{ $url := .Permalink }}
+{{ $img := "" }}
+{{ with .Params.images }}{{ $img = (index . 0) | absURL }}{{ end }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": {{ $title | jsonify }},
+  "headline": {{ $title | jsonify }},
+  "description": {{ $desc | jsonify }},
+  "url": {{ $url | jsonify }},
+  "inLanguage": "vi",
+  {{ if $img }}"image": {{ $img | jsonify }},{{ end }}
+  "author": { "@type": "Person", "name": "Đỗ Tất Lợi" },
+  "isPartOf": { "@type": "Book", "name": "Những cây thuốc và vị thuốc Việt Nam", "author": { "@type": "Person", "name": "Đỗ Tất Lợi" } },
+  "publisher": { "@type": "Organization", "name": {{ site.Title | jsonify }} }
+}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+{{ $pos := 1 }}
+{{ range .Ancestors.Reverse }}
+{"@type":"ListItem","position":{{ $pos }},"name":{{ .Title | jsonify }},"item":{{ .Permalink | jsonify }}},
+{{ $pos = add $pos 1 }}
+{{ end }}
+{"@type":"ListItem","position":{{ $pos }},"name":{{ $title | jsonify }},"item":{{ $url | jsonify }}}
+]}
+</script>
+<style>
+/* Phase 6 responsive fix (inline, build-pipeline independent) */
+@media (max-width:767.98px){.navbar-brand{white-space:normal;font-size:.95rem;line-height:1.15;max-width:calc(100vw - 108px);overflow-wrap:anywhere}.navbar-brand img{max-height:28px;width:auto}}
+html,body{overflow-x:hidden}
+</style>

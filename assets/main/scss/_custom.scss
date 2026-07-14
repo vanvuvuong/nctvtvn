@@ -1,0 +1,25 @@
+// ---------------------------------------------------------------------------
+// Phase 6 responsive fix
+// Long site title in .navbar-brand rendered on a single line and forced the
+// mobile viewport to ~447px wide (horizontal scroll on phones). Allow it to
+// wrap and cap its width so the page never exceeds the viewport.
+// ---------------------------------------------------------------------------
+@media (max-width: 767.98px) {
+  .navbar-brand {
+    white-space: normal;
+    font-size: 0.95rem;
+    line-height: 1.15;
+    max-width: calc(100vw - 108px);
+    overflow-wrap: anywhere;
+  }
+  .navbar-brand img {
+    max-height: 28px;
+    width: auto;
+  }
+}
+
+// Safety net against any other stray wide element.
+html,
+body {
+  overflow-x: hidden;
+}

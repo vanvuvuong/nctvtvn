@@ -1,0 +1,10 @@
+{{- $u := .Destination -}}
+{{- $webp := replaceRE "[.](png|jpe?g)$" ".webp" $u -}}
+{{- $alt := .PlainText | default .Text -}}
+<figure class="figure d-block text-center my-3">
+  <picture>
+    <source srcset="{{ $webp | relURL }}" type="image/webp">
+    <img src="{{ $u | relURL }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="figure-img img-fluid rounded">
+  </picture>
+  {{- with .Text }}<figcaption class="figure-caption text-muted">{{ . }}</figcaption>{{ end -}}
+</figure>
