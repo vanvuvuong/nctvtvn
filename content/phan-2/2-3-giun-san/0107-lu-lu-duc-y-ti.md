@@ -1,5 +1,5 @@
 ---
-title: "107. LU LU ĐỰC >ỷ &ti,&"
+title: "LU LU ĐỰC >ỷ &ti,&"
 weight: 107
 navWeight: 894
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,11 @@ keywords:
   - Solanum nigrum L
 slug: "lu-lu-duc-y-ti"
 description: "Còn gọi là thù lù đực, gia cầu, nút áo, hiên già nhi miêu, morelle noire, raisin de oup, herbe au magicien."
+benh:
+  - gan phát triển to
+  - bệnh ngoài da nhất là
+  - mụn nhọt
+  - gian sán
 ---
 
 

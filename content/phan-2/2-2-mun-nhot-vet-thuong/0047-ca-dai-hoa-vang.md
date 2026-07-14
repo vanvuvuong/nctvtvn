@@ -1,5 +1,5 @@
 ---
-title: "47. CÀ DẠI HOA VÀNG"
+title: "CÀ DẠI HOA VÀNG"
 weight: 47
 navWeight: 954
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

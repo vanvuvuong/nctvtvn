@@ -1,5 +1,5 @@
 ---
-title: "278. CỦ CỐT KHÍ £&&&"
+title: "CỦ CỐT KHÍ £&&&"
 weight: 278
 navWeight: 723
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,8 @@ keywords:
   - giảm đau giảm độc
 slug: "cu-cot-khi"
 description: "Còn gọi là hoạt huyết đan, tử kim long, ban trượng căn, hổ trượng căn, điền thắt (miền nam)."
+benh:
+  - tê thấp
 ---
 
 

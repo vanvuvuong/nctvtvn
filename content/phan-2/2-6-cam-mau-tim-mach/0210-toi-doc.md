@@ -1,5 +1,5 @@
 ---
-title: "210. TỎI ĐỘC"
+title: "TỎI ĐỘC"
 weight: 210
 navWeight: 791
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,9 @@ keywords:
   - kích thích để tạo những giống cây nhiều quả
 slug: "toi-doc"
 description: "Còn gọi là colchique."
+benh:
+  - bệnh gút
+  - bệnh thống phong
 ---
 
 

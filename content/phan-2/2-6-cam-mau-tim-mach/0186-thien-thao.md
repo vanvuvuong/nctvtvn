@@ -1,5 +1,5 @@
 ---
-title: "186. THIẾN THẢO"
+title: "THIẾN THẢO"
 weight: 186
 navWeight: 815
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,8 @@ keywords:
   - chữa thổ huyết
 slug: "thien-thao"
 description: "Còn gọi là tây thảo, mao sáng (mèo), thiên căn, thiến căn."
+benh:
+  - thổ huyết
 ---
 
 

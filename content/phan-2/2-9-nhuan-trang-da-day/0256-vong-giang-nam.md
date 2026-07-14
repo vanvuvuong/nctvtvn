@@ -1,5 +1,5 @@
 ---
-title: "256. VỌNG GIANG NAM"
+title: "VỌNG GIANG NAM"
 weight: 256
 navWeight: 745
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,9 @@ keywords:
   - chữa đau bụng đi lỵ
 slug: "vong-giang-nam"
 description: "Còn gọi là cốt khí muồng, dương giác đậu, giang nam đậu, thạch quyết minh, sơn lục đậu, dã biển đậu, muồng hoè (miền Nam), muống lá khế."
+benh:
+  - sốt
+  - đau bụng đi lỵ
 ---
 
 

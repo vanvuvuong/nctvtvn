@@ -1,5 +1,5 @@
 ---
-title: "191. MẠCH BA GÓC"
+title: "MẠCH BA GÓC"
 weight: 191
 navWeight: 810
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

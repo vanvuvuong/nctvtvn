@@ -1,5 +1,5 @@
 ---
-title: "402. BỔ BÉO"
+title: "BỔ BÉO"
 weight: 402
 navWeight: 599
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,8 @@ keywords:
   - kích thích ăn ngon
 slug: "bo-beo"
 description: "Còn gọi là bùi béo, béo trắng."
+images:
+  - /images/hinh-680.png
 ---
 
 
@@ -50,3 +52,4 @@ Còn là một vị thuốc bổ dùng trong phạm vi kinh nghiệm nhân dân.
 
 Mỗi ngày dùng 10-20g rễ khô dưới dạng thuốc sắc hay tán bột làm thành viên mà uống. Có thể ngâm rượu.
 
+![BỔ BÉO — Hình 680](/images/hinh-680.png)

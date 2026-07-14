@@ -1,5 +1,5 @@
 ---
-title: "255. MUỒNG TRÂU"
+title: "MUỒNG TRÂU"
 weight: 255
 navWeight: 746
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,14 @@ keywords:
   - dùng làm thuốc nhuận tràng
 slug: "muong-trau"
 description: "Còn gọi là trong bhang, ana drao bhao (Buôn Mê Thuột), dâng het, tâng hét, dang hét khmoch (Cămpuchia), khi lek ban (Lào)"
+benh:
+  - bệnh hắc lào
+  - khỏi
+  - bệnh ghẻ
+  - ăn uống không tiêu
+  - thong manh có màng
+  - bệnh đau mắt
+  - đau mắt
 ---
 
 

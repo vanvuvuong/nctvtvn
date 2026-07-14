@@ -1,5 +1,5 @@
 ---
-title: "382. HÀ THỦ Ô TRẮNG白何首烏"
+title: "HÀ THỦ Ô TRẮNG白何首烏"
 weight: 382
 navWeight: 619
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,11 @@ keywords:
   - chữa cảm sốt
 slug: "ha-thu-o-trang"
 description: "Còn có tên là hà thủ ô nam, bạch hà thủ ô, củ vú bò, dây sữa bò, dây mốc, cây sừng bò cây đa lông, khâu cần cà (Thổ), khâu nước (Lạng Sơn), mã liên an, mã…"
+benh:
+  - sống
+  - khỏi
+  - cảm sốt mới
+  - cảm sốt
 ---
 
 

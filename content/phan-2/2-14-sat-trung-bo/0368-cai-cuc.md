@@ -1,5 +1,5 @@
 ---
-title: "368. CẢI CÚC"
+title: "CẢI CÚC"
 weight: 368
 navWeight: 633
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - chữa đau mắt
 slug: "cai-cuc"
 description: "Còn gọi là rau cúc, cúc tần ô, đồng hao (T. Q.), chrysanthème des jardins, chrysan thème à couronne."
+images:
+  - /images/hinh-583.png
+benh:
+  - đau mắt
 ---
 
 
@@ -52,3 +56,4 @@ Làm thuốc, cải cúc chữa đau mắt, nhức đầu kinh niên, thổ huy�
 
 Lá cải cúc 6g thái nhỏ, cho vào chén con, thêm ít đường trắng, cho vào nồi com hấp cho tiết nước ra. Chia làm nhiều lần uống trong ngày.
 
+![CẢI CÚC — Hình 583](/images/hinh-583.png)

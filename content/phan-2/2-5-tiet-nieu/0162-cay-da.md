@@ -1,5 +1,5 @@
 ---
-title: "162. CÂY ĐA"
+title: "CÂY ĐA"
 weight: 162
 navWeight: 839
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa đi ngoài
 slug: "cay-da"
 description: "Tên khoa học: Ficus elastica Roxb, đa búp đỏ, bồ đề (đom pur): Ficus religiosa L. đa nhiều rể: Ficus macrophyllữ', đa tròn lá: Fỉcus ben^haỉensis L."
+benh:
+  - đi ngoài
 ---
 
 

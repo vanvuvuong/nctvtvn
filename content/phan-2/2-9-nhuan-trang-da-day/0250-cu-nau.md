@@ -1,5 +1,5 @@
 ---
-title: "250. CỦ NÂU"
+title: "CỦ NÂU"
 weight: 250
 navWeight: 751
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,12 @@ keywords:
   - làm thuốc hiện nay người ta chỉ
 slug: "cu-nau"
 description: "Còn gọi là khoai leng, vũ dư lương."
+benh:
+  - thuỷ bị thiếu lương thực dùng
+  - xích bạch đới
+  - ỉa chảy
+  - âm nang sưng đau
+  - bệnh viêm họng
 ---
 
 

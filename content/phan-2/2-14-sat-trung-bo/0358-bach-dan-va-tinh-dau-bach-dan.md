@@ -1,5 +1,5 @@
 ---
-title: "358. BẠCH ĐÀN VÀ TINH DẦU BẠCH ĐÀN 白壇"
+title: "BẠCH ĐÀN VÀ TINH DẦU BẠCH ĐÀN 白壇"
 weight: 358
 navWeight: 643
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,11 @@ keywords:
   - làm thuốc nhỏ mũi
 slug: "bach-dan-va-tinh-dau-bach-dan"
 description: "Còn gọi là cây khuynh diệp."
+images:
+  - /images/hinh-571.png
+benh:
+  - bệnh lậu
+  - cảm sốt
 ---
 
 
@@ -93,3 +98,4 @@ Chú thích:
 
 Ngoài tinh dầu và lá làm thuốc ra, một số cây bạch đàn cho chất gôm màu đỏ gọi là Red-gum hay Kino do chứa tanin nên được dùng trong cây nghệ thuộc da trắng.
 
+![BẠCH ĐÀN VÀ TINH DẦU BẠCH ĐÀN 白壇 — Hình 571](/images/hinh-571.png)

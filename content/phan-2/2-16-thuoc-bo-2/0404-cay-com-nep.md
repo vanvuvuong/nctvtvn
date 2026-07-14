@@ -1,5 +1,5 @@
 ---
-title: "404. CÂY CƠM NẾP"
+title: "CÂY CƠM NẾP"
 weight: 404
 navWeight: 597
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - chữa đau đầu khó ngủ
 slug: "cay-com-nep"
 description: "Tên khoa học Strobilanthes acrocephalus T. Anders."
+images:
+  - /images/hinh-683.png
+benh:
+  - đau đầu khó ngủ
 ---
 
 
@@ -48,3 +52,4 @@ Dùng ngoài: Giã nát dùng riêng hay phối hợp với một số cây thu�
 
 Chú thích: Tuy mang tên cơm nếp nhưng nhân dân hầu như không dùng làm thơm thức ăn vì có độc. Để làm thơm bánh kẹo người ta dùng cây lá dứa được giới thiệu sau đây.
 
+![CÂY CƠM NẾP — Hình 683](/images/hinh-683.png)

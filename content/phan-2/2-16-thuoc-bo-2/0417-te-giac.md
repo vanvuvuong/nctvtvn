@@ -1,5 +1,5 @@
 ---
-title: "417. TÊ GIÁC"
+title: "TÊ GIÁC"
 weight: 417
 navWeight: 584
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - chữa bệnh viêm não có kết quả
 slug: "te-giac"
 description: "Còn gọi là tê ngưu giác, hương tê giác."
+images:
+  - /images/hinh-745.png
+benh:
+  - bệnh viêm não có kết quả
 ---
 
 
@@ -85,3 +89,4 @@ Vì tê giác giá đắt lại hiếm cho nên có nhiều người dùng sừn
 
 Gần đây, tại Trung Quốc, các nhà Trung y tỉnh Quảng Đông đã dùng sừng trâu-Cornu Bubali tức là sừng của con trâu hay thủy ngưu- Bubalus bubalis L. để thay sừng tê giác. Theo các vị trung y đã dùng sừng trâu nói sừng trâu cũng tốt. Vậy ta có thể nghiên cứu để dùng thay tê giác vừa hiếm lại vừa đắt.
 
+![TÊ GIÁC — Hình 745](/images/hinh-745.png)

@@ -1,5 +1,5 @@
 ---
-title: "313. MÍA DÒ"
+title: "MÍA DÒ"
 weight: 313
 navWeight: 688
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,9 @@ keywords:
   - chữa bệnh ở cổ họng
 slug: "mia-do"
 description: "Còn gọi là tậu chó (Lạng Sơn), đọt đắng, đọt hoàng, cát lồi, củ chóc."
+benh:
+  - bệnh ở cổ họng
+  - thấp khớp
 ---
 
 

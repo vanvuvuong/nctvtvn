@@ -1,5 +1,5 @@
 ---
-title: "288. KIM SƯƠNG"
+title: "KIM SƯƠNG"
 weight: 288
 navWeight: 713
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - chữa kinh nguyệt không đều
 slug: "kim-suong"
 description: "Cỏn gọi là mán chỉ, đôi cầy, chàm hôi, tráng, ớt rừng, lãng ớt, mak so mát, may bi canh, mak khèn (Lào), hang chang (Mường), tomlay khouang, leai sma…"
+benh:
+  - tê thấp
+  - kinh nguyệt không đều
+  - đau nhức
 ---
 
 

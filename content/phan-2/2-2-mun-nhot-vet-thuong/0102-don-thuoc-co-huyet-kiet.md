@@ -1,5 +1,5 @@
 ---
-title: "102. Đơn thuốc có huyết kiệt"
+title: "Đơn thuốc có huyết kiệt"
 weight: 102
 navWeight: 899
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

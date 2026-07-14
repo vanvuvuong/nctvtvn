@@ -1,5 +1,5 @@
 ---
-title: "343. CÚC TẦN"
+title: "CÚC TẦN"
 weight: 343
 navWeight: 658
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,9 @@ keywords:
   - chữa cảm sốt
 slug: "cuc-tan"
 description: "Còn gọi là từ bi, cây lức, nan luật (Viêntian), pros anlok, pras anlok (Cămpuchia)."
+benh:
+  - cảm sốt
+  - đau
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "370. CÂY NẮP ẤM"
+title: "CÂY NẮP ẤM"
 weight: 370
 navWeight: 631
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,27 @@ keywords:
   - trị các chứng phù thũng toàn thân
 slug: "cay-nap-am"
 description: "Còn gọi là Trư lủng thảo, Trư tử lung (Trung Quốc), Bình nước (miền Trung và Nam Việt nam), cây bắt ruồi."
+images:
+  - /images/hinh-605.png
+  - /images/hinh-606.png
+  - /images/hinh-607.png
+  - /images/hinh-609.png
+benh:
+  - vàng da
+  - phế khí súc bách
+  - ho hen
+  - hen
+  - đau bụng
+  - mất ngủ
+  - hồi hộp
+  - hồi hộp bồn chồn
+  - tim hồi hộp
+  - tâm phiền
+  - lỵ cấm khẩu
+  - di tinh
+  - tỳ hư sinh tiết tả
+  - bệnh đi đại tiện
+  - ứ huyết bụng đau
 ---
 
 
@@ -406,3 +427,10 @@ Công dụng và liều dùng.
 
 Chữa băng huyết, thổ huyêt, di mộng tinh. Ngày uống 5-10g dưới dạng thuốc sắc.
 
+![CÂY NẮP ẤM — Hình 605](/images/hinh-605.png)
+
+![CÂY NẮP ẤM — Hình 606](/images/hinh-606.png)
+
+![CÂY NẮP ẤM — Hình 607](/images/hinh-607.png)
+
+![CÂY NẮP ẤM — Hình 609](/images/hinh-609.png)

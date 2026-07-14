@@ -1,5 +1,5 @@
 ---
-title: "344. ĐẬU SỊ"
+title: "ĐẬU SỊ"
 weight: 344
 navWeight: 657
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - dùng làm thuốc thanh nhiệt sơ khởi
 slug: "dau-si"
 description: "Còn gọi là đạm đậu sị, đỗ đậu sị, hăm đậu sị."
+benh:
+  - cảm mạo
+  - đầy hơi
+  - cảm sốt
 ---
 
 

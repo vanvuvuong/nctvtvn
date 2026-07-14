@@ -1,5 +1,5 @@
 ---
-title: "199. HỒI ĐẦU THẢO"
+title: "HỒI ĐẦU THẢO"
 weight: 199
 navWeight: 802
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa huyết áp của phụ nữ
 slug: "hoi-dau-thao"
 description: "Còn gọi là vùi đầu thảo, vui sầu."
+benh:
+  - huyết áp
 ---
 
 

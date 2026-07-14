@@ -1,5 +1,5 @@
 ---
-title: "139. BẤC ĐÈN -"
+title: "BẤC ĐÈN -"
 weight: 139
 navWeight: 862
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,12 @@ keywords:
   - chữa tiểu tiện khó khăn
 slug: "bac-den"
 description: "Còn có tên là đăng tâm thảo."
+benh:
+  - tiểu tiện khó khăn
+  - sốt
+  - phù
+  - thủy thũng
+  - bệnh sốt khát nước
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "253. KHOAI LANG 番薯"
+title: "KHOAI LANG 番薯"
 weight: 253
 navWeight: 748
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,14 @@ keywords:
   - làm thuốc nhuận tràng
 slug: "khoai-lang"
 description: "Còn gọi là phan chư, cam thự, hồng thự, cam chư."
+benh:
+  - bệnh huyết hữu
+  - trai chân
+  - bách bệnh hàn nhiệt
+  - đau bụng viêm dạ dày
+  - ngộ độc
+  - bệnh sót nhau đẻ khó
+  - đẻ khó
 ---
 
 

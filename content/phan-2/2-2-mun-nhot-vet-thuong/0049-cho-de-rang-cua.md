@@ -1,5 +1,5 @@
 ---
-title: "49. CHÓ ĐẺ RĂNG CƯA"
+title: "CHÓ ĐẺ RĂNG CƯA"
 weight: 49
 navWeight: 952
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "416. LONG DUYÊN HƯƠNG 龍延香"
+title: "LONG DUYÊN HƯƠNG 龍延香"
 weight: 416
 navWeight: 585
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,34 @@ keywords:
   - sát trùng giống như xạ hương nhưng tác dụng có hơi kém hơn
 slug: "long-duyen-huong"
 description: "Còn gọi là long duyên, long phúc hương, long tiết, Ambre gris."
+images:
+  - /images/hinh-733.png
+  - /images/hinh-734.png
+  - /images/hinh-735.png
+  - /images/hinh-736.png
+  - /images/hinh-737.png
+  - /images/hinh-738.png
+  - /images/hinh-739.png
+  - /images/hinh-740.png
+  - /images/hinh-741.png
+  - /images/hinh-742.png
+  - /images/hinh-743.png
+benh:
+  - mụn nhọt lâu lành
+  - bệnh đi tiểu như có sỏi
+  - chảy máu không ngừng
+  - kinh nguyệt không đều
+  - rắn
+  - rắn cắn
+  - thịt rắn chỉ
+  - giá
+  - ung thư
+  - hết sức sớm
+  - rắn cắn phối hợp
+  - nhọt độc
+  - đau cổ họng
+  - bệnh ưa chảy máu
+  - thấp khớp
 ---
 
 
@@ -679,3 +707,24 @@ Tàm sa sao vàng tán nhỏ uống mỗi ngày 15g, có thể dùng rượu chi
 
 Tàm sa 40g, nước 600ml, sắc còn 300ml, chia nhiều lần uống trong ngày. Đơn thuốc này còn dùng chữa thổ tả đi mất nhiều nước quá, miệng khát.
 
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 733](/images/hinh-733.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 734](/images/hinh-734.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 735](/images/hinh-735.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 736](/images/hinh-736.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 737](/images/hinh-737.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 738](/images/hinh-738.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 739](/images/hinh-739.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 740](/images/hinh-740.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 741](/images/hinh-741.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 742](/images/hinh-742.png)
+
+![LONG DUYÊN HƯƠNG 龍延香 — Hình 743](/images/hinh-743.png)

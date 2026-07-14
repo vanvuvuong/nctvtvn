@@ -1,5 +1,5 @@
 ---
-title: "224. ĐƠN LÁ ĐỎ"
+title: "ĐƠN LÁ ĐỎ"
 weight: 224
 navWeight: 777
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,9 @@ keywords:
   - chữa đi ỉa lòng lâu ngày
 slug: "don-la-do"
 description: "Còn gọi là đơn tướng quân, đơn tía. mặt quỉ, hồng bối quế hoa."
+benh:
+  - mụn nhọt mẩn ngứa
+  - đi ỉa lỏng lâu ngày
 ---
 
 

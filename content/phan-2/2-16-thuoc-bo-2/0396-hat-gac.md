@@ -1,5 +1,5 @@
 ---
-title: "396. HẠT GẤC 木鱉子"
+title: "HẠT GẤC 木鱉子"
 weight: 396
 navWeight: 605
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,11 @@ keywords:
   - chữa các vết loét
 slug: "hat-gac"
 description: "Còn gọi là mộc tất tử, thổ mộc miết, mộc biệt tử, mắc cao (Viêntian), Mákhâu (Thái), Mắc khấu (Thổ)."
+images:
+  - /images/hinh-672.png
+benh:
+  - mụn nhọt
+  - tê thấp
 ---
 
 
@@ -116,3 +121,4 @@ Chữa trĩ lòi dom: Hạt gấc giã nát thêm một ít dấm thanh gói b�
 
 Chữa sưng vú: Giã nhân hạt gấc với một ít rượu (30-40°) đắp lên nơi sưng đau.
 
+![HẠT GẤC 木鱉子 — Hình 672](/images/hinh-672.png)

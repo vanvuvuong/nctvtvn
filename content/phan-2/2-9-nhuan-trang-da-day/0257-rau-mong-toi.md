@@ -1,5 +1,5 @@
 ---
-title: "257. RAU MỒNG TƠI"
+title: "RAU MỒNG TƠI"
 weight: 257
 navWeight: 744
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,13 @@ keywords:
   - chữa trẻ con bị táo bón
 slug: "rau-mong-toi"
 description: "Còn gọi là mồng tơi dỏ, mồng tơi tía, lạc quỳ, phak pang (Lào)"
+benh:
+  - hoạt trung
+  - trẻ con bị táo bón
+  - đau mắt
+  - vú sưng nứt
+  - sốt
+  - ngộ độc đường tiêu hoá
 ---
 
 

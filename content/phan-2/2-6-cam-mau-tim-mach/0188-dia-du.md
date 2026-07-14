@@ -1,5 +1,5 @@
 ---
-title: "188. ĐỊA DU"
+title: "ĐỊA DU"
 weight: 188
 navWeight: 813
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa nôn ra máu
 slug: "dia-du"
 description: "Còn gọi là ngọc trát (Trung Quốc), sanguisorbe officinale, grande pimprenelle (Pháp), Pimpernel (Anh)."
+benh:
+  - nôn
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "172. KHẾ RÙNG"
+title: "KHẾ RÙNG"
 weight: 172
 navWeight: 829
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa tiểu tiện khó khăn
 slug: "khe-rung"
 description: "Còn gọi là dây quai xanh, cây cháy nhà."
+benh:
+  - đi tiểu nước tiểu vàng
 ---
 
 

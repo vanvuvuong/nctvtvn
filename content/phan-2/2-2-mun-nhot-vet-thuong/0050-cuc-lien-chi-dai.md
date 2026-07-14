@@ -1,5 +1,5 @@
 ---
-title: "50. CÚC LIÊN CHI DẠI"
+title: "CÚC LIÊN CHI DẠI"
 weight: 50
 navWeight: 951
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

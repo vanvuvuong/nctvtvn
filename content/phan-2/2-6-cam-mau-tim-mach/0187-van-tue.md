@@ -1,5 +1,5 @@
 ---
-title: "187. VẠN TUẾ"
+title: "VẠN TUẾ"
 weight: 187
 navWeight: 814
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "125. QUÁN CHÚNG -jf &"
+title: "QUÁN CHÚNG -jf &"
 weight: 125
 navWeight: 876
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,9 @@ keywords:
   - tẩy sán như loài dương xỉ đực
 slug: "quan-chung-jf"
 description: "Quán chúng là một vị thuốc tương đối hay dùng trong đông y. Tuy nhiên nguồn gốc rất phức tạp và chưa thông nhất. Trước đây căn cứ vào các tài liệu của…"
+benh:
+  - bạch thốn trùng
+  - bãng đới
 ---
 
 

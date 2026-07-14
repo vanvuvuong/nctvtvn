@@ -1,5 +1,5 @@
 ---
-title: "352. MƯỚP ĐẮNG 苦瓜"
+title: "MƯỚP ĐẮNG 苦瓜"
 weight: 352
 navWeight: 649
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,12 @@ keywords:
   - chữa bệnh đái đường
 slug: "muop-dang"
 description: "Còn gọi là khổ qua, cẩm lệ chi, lại bồ đào, hồng cô nương, lương qua, mướp mủ, chua hao (Mưòng-Thanh Hoá)."
+images:
+  - /images/hinh-566.png
+benh:
+  - sốt
+  - bệnh đái đường
+  - giun
 ---
 
 
@@ -70,3 +76,4 @@ Chữa ho:
 
 Mướp đắng 1-2 quả, nấu với nước mà uống làm 1 hay 2 lần trong ngày.
 
+![MƯỚP ĐẮNG 苦瓜 — Hình 566](/images/hinh-566.png)

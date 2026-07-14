@@ -1,5 +1,5 @@
 ---
-title: "421. SÂU BAN MIÊU 斑蝥"
+title: "SÂU BAN MIÊU 斑蝥"
 weight: 421
 navWeight: 580
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

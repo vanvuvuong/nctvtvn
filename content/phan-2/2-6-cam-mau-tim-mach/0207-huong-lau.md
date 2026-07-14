@@ -1,5 +1,5 @@
 ---
-title: "207. HƯƠNG LÂU"
+title: "HƯƠNG LÂU"
 weight: 207
 navWeight: 794
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa sốt
 slug: "huong-lau"
 description: "Còn gọi là cỏ hương bài, hương lau."
+benh:
+  - sốt
 ---
 
 

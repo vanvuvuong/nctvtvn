@@ -1,5 +1,5 @@
 ---
-title: "302. BÔNG GẠO"
+title: "BÔNG GẠO"
 weight: 302
 navWeight: 699
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - chữa đau răng
 slug: "bong-gao"
 description: "Còn gọi là cây gạo, mộc miên, gòn, roca (Cãmpuchia), ngiou (Lào), kapokier du Tonkin, kapokier du Malabar."
+benh:
+  - đau răng
+  - ỉa chảy
+  - lậu
 ---
 
 

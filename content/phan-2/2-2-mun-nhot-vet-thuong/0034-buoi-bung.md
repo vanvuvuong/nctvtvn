@@ -1,5 +1,5 @@
 ---
-title: "34. BƯỞI BUNG"
+title: "BƯỞI BUNG"
 weight: 34
 navWeight: 967
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

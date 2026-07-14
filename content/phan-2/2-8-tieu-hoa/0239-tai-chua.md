@@ -1,5 +1,5 @@
 ---
-title: "239. TAI CHUA"
+title: "TAI CHUA"
 weight: 239
 navWeight: 762
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa sốt
 slug: "tai-chua"
 description: "Tên khoa học Garcinia pedunculata Roxb. (G. cowa Roxb.)."
+benh:
+  - sốt
 ---
 
 

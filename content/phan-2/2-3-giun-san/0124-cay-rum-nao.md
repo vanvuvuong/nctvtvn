@@ -1,5 +1,5 @@
 ---
-title: "124. CÂY RÙM NAO"
+title: "CÂY RÙM NAO"
 weight: 124
 navWeight: 877
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,9 @@ keywords:
   - chữa bệnh dày da bụng
 slug: "cay-rum-nao"
 description: "Còn gọi là thô khang sài, kamala, camala, mọt."
+benh:
+  - sán
+  - bệnh dày da bụng
 ---
 
 

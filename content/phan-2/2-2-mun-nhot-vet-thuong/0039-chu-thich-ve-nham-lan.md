@@ -1,5 +1,5 @@
 ---
-title: "39. Chú thích về nhầm lẫn"
+title: "Chú thích về nhầm lẫn"
 weight: 39
 navWeight: 962
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

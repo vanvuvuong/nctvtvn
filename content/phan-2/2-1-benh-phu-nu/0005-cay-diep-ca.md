@@ -1,5 +1,5 @@
 ---
-title: "5. CÂY DIẾP CÁ 魚腥草"
+title: "CÂY DIẾP CÁ 魚腥草"
 weight: 5
 navWeight: 996
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -23,6 +23,7 @@ slug: "cay-diep-ca"
 description: "Còn có tên là cây lá giấp, ngư tinh thảo."
 images:
   - /images/11-diep-ca.png
+  - /images/11-2-diep-ca-cthh.png
 ---
 
 _Còn có tên là_ cây lá giấp, ngư tinh thảo.
@@ -35,11 +36,11 @@ Thuộc họ Lá giấp _Saururaceae_.
 
 Cây diếp cá là một loại cỏ nhỏ, mọc lâu năm, ưa chỗ ẩm ướt có thân rễ mọc ngầm dưới đất. Rễ nhỏ mọc ở các đốt, thân mọc đứng cao 40cm, có lông hoặc ít lông. Lá mọc cách, hình tim, đầu lá, hơi nhọn hay nhọn hẳn. Hoa nhỏ màu vàng nhạt, không có bao hoa, mọc thành bông, có 4 lá bắc màu trắng; trông toàn bộ bề ngoài của cụm hoa và lá bác giống như một cây hoa đơn độc, toàn cây vò có mùi tanh như cá. Hoa nở về mùa hạ vào các tháng 5-8. (Hình 11, Hm 1,4).
 
-![diep-ca](/images/11-diep-ca.png)
+![CÂY DIẾP CÁ 魚腥草 — Hình 11](/images/11-diep-ca.png)
 
 _Hình 11. Diếp cá - Houtfuynid cordata_
 
-![diep-ca-cthh](/images/11-2-diep-ca-cthh.png)
+![CÂY DIẾP CÁ 魚腥草 — Hình 11.2](/images/11-2-diep-ca-cthh.png)
 
 #### B. Phân bố thu hái và chế biến
 

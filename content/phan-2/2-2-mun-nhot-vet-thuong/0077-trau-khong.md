@@ -1,5 +1,5 @@
 ---
-title: "77. TRẦU KHÔNG"
+title: "TRẦU KHÔNG"
 weight: 77
 navWeight: 924
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "310. RAU TÀU BAY"
+title: "RAU TÀU BAY"
 weight: 310
 navWeight: 691
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,14 @@ keywords:
   - Cynura crepidioides Benth
 slug: "rau-tau-bay"
 description: "Tên khoa học Cynura crepidioides Benth."
+benh:
+  - dinh dưỡng tốt
+  - hủi dưới dạng cao mềm
+  - rắn độc cắn
+  - vết rắn độc cắn
+  - rắn cắn
+  - chân nút
+  - ho sốt đối
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "92. Dạng hỗ biến của axit chaulmoogric"
+title: "Dạng hỗ biến của axit chaulmoogric"
 weight: 92
 navWeight: 909
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

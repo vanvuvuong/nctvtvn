@@ -1,5 +1,5 @@
 ---
-title: "235. MÀNG TANG o Mí"
+title: "MÀNG TANG o Mí"
 weight: 235
 navWeight: 766
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - chữa nhức đâu
 slug: "mang-tang-o-mi"
 description: "Còn gọi là tất trừng già."
+benh:
+  - đau bụng
+  - nhức đâu
+  - rắn cắn
 ---
 
 

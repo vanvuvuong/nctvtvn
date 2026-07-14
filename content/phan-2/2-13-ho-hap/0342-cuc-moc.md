@@ -1,5 +1,5 @@
 ---
-title: "342. CÚC MỐC"
+title: "CÚC MỐC"
 weight: 342
 navWeight: 659
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,9 @@ keywords:
   - chữa kinh nguyệt không đều
 slug: "cuc-moc"
 description: "Còn gọi là ngải phù dung, nguyệt bạch, ngọc phù dung."
+benh:
+  - cảm mạo
+  - kinh nguyệt không đều
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "312. TẾ TÂN IB¥"
+title: "TẾ TÂN IB¥"
 weight: 312
 navWeight: 689
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

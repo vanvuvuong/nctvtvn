@@ -1,5 +1,5 @@
 ---
-title: "81. ĐƠN BUỐT"
+title: "ĐƠN BUỐT"
 weight: 81
 navWeight: 920
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

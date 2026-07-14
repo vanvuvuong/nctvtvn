@@ -1,5 +1,5 @@
 ---
-title: "169. MÓNG LUNG RỔNG"
+title: "MÓNG LUNG RỔNG"
 weight: 169
 navWeight: 832
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,9 @@ keywords:
   - chữa ho ra máu
 slug: "mong-lung-rong"
 description: "Còn gọi là chân vịt, quyển bá, vạn niên từng, kiến thủy hoàn dương, hổi sinh thảo, trường sinh thảo, cải tử hoàn hồn thảo, hoàn dương thảo, nhả mung ngựa…"
+benh:
+  - vàng da
+  - bỏng
 ---
 
 

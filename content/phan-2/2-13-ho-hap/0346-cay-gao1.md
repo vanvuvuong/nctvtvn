@@ -1,5 +1,5 @@
 ---
-title: "346. CÂY GÁO[1"
+title: "CÂY GÁO[1"
 weight: 346
 navWeight: 655
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,12 @@ keywords:
   - chữa xơ gan cổ trướng vỏ gáo
 slug: "cay-gao1"
 description: "Tên khoa học Sarcocephalus cordatus Miq."
+benh:
+  - sốt gần như vỏ cây canhkina
+  - sốt dưới dạng thuốc sắc
+  - xơ gan cổ trướng vỏ gáo
+  - cảm mạo
+  - ỉa chảy nhưng chủ yếu
 ---
 
 

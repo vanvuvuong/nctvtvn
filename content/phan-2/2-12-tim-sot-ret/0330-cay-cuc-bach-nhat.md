@@ -1,5 +1,5 @@
 ---
-title: "330. CÂY CÚC BÁCH NHẬT 百日红"
+title: "CÂY CÚC BÁCH NHẬT 百日红"
 weight: 330
 navWeight: 671
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,10 @@ keywords:
   - chữa hen suyễn đối với người lớn
 slug: "cay-cuc-bach-nhat"
 description: "Còn gọi là thiên kim hồng, bách nhật hồng, bách nhật bạch, thiên nhật hồng."
+images:
+  - /images/hinh-469.png
+benh:
+  - hen suyễn đối
 ---
 
 
@@ -53,3 +57,4 @@ Liều dùng hàng ngày: 6-12g, dưới dạng thuốc sắc, khi uống có th
 
 Cần chú ý nghiên cứu.
 
+![CÂY CÚC BÁCH NHẬT 百日红 — Hình 469](/images/hinh-469.png)

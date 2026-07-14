@@ -1,5 +1,5 @@
 ---
-title: "394. CÂY SÓNG RẮN"
+title: "CÂY SÓNG RẮN"
 weight: 394
 navWeight: 607
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,14 @@ keywords:
   - Albizzia myriophylla Benth
 slug: "cay-song-ran"
 description: "Còn gọi là sóng rận, sóng rắn nhiều lá."
+benh:
+  - liệt dương
+  - bệnh scocbut
+  - bệnh đái đường
+  - mồ hối toát
+  - phong hàn thấp tỳ
+  - bán thân bất toại
+  - bệnh chân tay đau nhức
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "398. HỒNG ĐẰNG 大血藤"
+title: "HỒNG ĐẰNG 大血藤"
 weight: 398
 navWeight: 603
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,8 @@ keywords:
   - chữa đau lưng đau mình
 slug: "hong-dang"
 description: "Còn gọi là thuyết đằng, đại hoạt đằng, hoạt huyết đằng, kê huyết đằng, đại huyết đằng, dây máu người."
+benh:
+  - đau lưng đau mình
 ---
 
 

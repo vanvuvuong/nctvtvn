@@ -1,5 +1,5 @@
 ---
-title: "390. QUẾ QUAN"
+title: "QUẾ QUAN"
 weight: 390
 navWeight: 611
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "85. BA CHẠC"
+title: "BA CHẠC"
 weight: 85
 navWeight: 916
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

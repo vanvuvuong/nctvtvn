@@ -1,5 +1,5 @@
 ---
-title: "42. BẢY LÁ MỘT HOA"
+title: "BẢY LÁ MỘT HOA"
 weight: 42
 navWeight: 959
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

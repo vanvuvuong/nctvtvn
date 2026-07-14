@@ -1,5 +1,5 @@
 ---
-title: "106. Tơ UYN"
+title: "Tơ UYN"
 weight: 106
 navWeight: 895
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,9 @@ keywords:
   - kích thích tổ chức hạt non ở vết thương phát triển nhanh
 slug: "to-uyn"
 description: "(Kontum)."
+benh:
+  - trên
+  - tại chỗ
 ---
 
 

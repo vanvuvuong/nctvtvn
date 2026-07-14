@@ -1,5 +1,5 @@
 ---
-title: "393. CAM THẢO BẮC"
+title: "CAM THẢO BẮC"
 weight: 393
 navWeight: 608
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,22 @@ keywords:
   - chữa tỳ hư mà ỉa lỏng
 slug: "cam-thao-bac"
 description: "Còn có tên là bắc cam thảo, cam thảo, sinh cam thảo, quốc lão."
+benh:
+  - đau dạ dày lưu hành tại
+  - bệnh đau dạ dày thí nghiệm
+  - táo bón
+  - cháy
+  - tỳ hư mà ỉa lỏng
+  - đau họng
+  - bệnh addidơn
+  - khỏi một trường hợp ađidơn
+  - đau dạ dày
+  - loét dạ dày
+  - sốt quá hóa điên cuồng
+  - cảm sốt quá hóa điên cuồng
+  - đau mắt bằng hạt
+  - rắn độc cắn
+  - bệnh đau mắt hột
 ---
 
 

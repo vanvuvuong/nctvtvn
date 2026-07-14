@@ -1,5 +1,5 @@
 ---
-title: "400. TẦM XUÂN 蔷薇"
+title: "TẦM XUÂN 蔷薇"
 weight: 400
 navWeight: 601
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,10 @@ keywords:
   - dùng làm thuốc lý khí
 slug: "tam-xuan"
 description: "Tên khoa học Rosa multiflora Thunb."
+images:
+  - /images/hinh-676.png
+benh:
+  - ỉa chảy
 ---
 
 
@@ -50,3 +54,4 @@ Chú thích
 
 Ngoài cây tầm xuân, trong nhân dân ta còn thấy dùng hoa hồng mang tên mai quỷ, tên khoa học Rosa rugosa Thunb. Hoa và rễ được dùng làm thuốc lý khí, hoạt huyết. Một loại rượu nổi tiếng của Trung Quốc mang tên Mai quế lộ do chúng ta đọc chệch Mai quý lộ, chế từ một loại cao lương cho lên men và cất qua hoa hồng Mai quỷ.
 
+![TẦM XUÂN 蔷薇 — Hình 676](/images/hinh-676.png)

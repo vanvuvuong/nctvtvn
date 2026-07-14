@@ -1,5 +1,5 @@
 ---
-title: "380. CÂY KHỔ SÂM CHO RỄ 苦参"
+title: "CÂY KHỔ SÂM CHO RỄ 苦参"
 weight: 380
 navWeight: 621
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,20 @@ keywords:
   - chữa sốt quá hoá điên cuồng
 slug: "cay-kho-sam-cho-re"
 description: "Còn có tên là dã hòe, khổ cốt, khổ sâm"
+images:
+  - /images/hinh-634.png
+  - /images/hinh-635.png
+  - /images/hinh-636.png
+  - /images/hinh-637.png
+  - /images/hinh-638.png
+benh:
+  - giun
+  - sốt
+  - sáng mắt
+  - viêm gan cấp
+  - bí tiểu tiện
+  - hen
+  - đau nhức khớp xương
 ---
 
 
@@ -295,3 +309,12 @@ Nhiều người còn mua nấm linh chi khô về nấu canh, nấu súp làm m
 
 Để tiện cho người sử dụng, nhiều xưởng thuốc ở Trung Quốc đã chế nấm linh chi thành nhiều dạng thuốc như viên linh chi, thuốc nước ngọt có linh chi, nước sắc linh chi đông khô đóng thành nang, mỗi nang 300-500mg đông khô nấm linh chi. Với liều dùng 1-2 nang một ngày. Dùng nước nóng để uống thuốc. Có loại trà nhân sâm để phối hợp với linh chi.
 
+![CÂY KHỔ SÂM CHO RỄ 苦参 — Hình 634](/images/hinh-634.png)
+
+![CÂY KHỔ SÂM CHO RỄ 苦参 — Hình 635](/images/hinh-635.png)
+
+![CÂY KHỔ SÂM CHO RỄ 苦参 — Hình 636](/images/hinh-636.png)
+
+![CÂY KHỔ SÂM CHO RỄ 苦参 — Hình 637](/images/hinh-637.png)
+
+![CÂY KHỔ SÂM CHO RỄ 苦参 — Hình 638](/images/hinh-638.png)

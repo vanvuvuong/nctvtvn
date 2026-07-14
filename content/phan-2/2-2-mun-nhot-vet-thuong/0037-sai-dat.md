@@ -1,5 +1,5 @@
 ---
-title: "37. SÀI ĐẤT"
+title: "SÀI ĐẤT"
 weight: 37
 navWeight: 964
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "291. VUỐT HỪM"
+title: "VUỐT HỪM"
 weight: 291
 navWeight: 710
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,9 @@ keywords:
   - chữa đau
 slug: "vuot-hum"
 description: "Còh CÓ tên ìà móc mèo, móc diều, trần sa lực, num đíì cán."
+benh:
+  - đau nhức
+  - đau
 ---
 
 

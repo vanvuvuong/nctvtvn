@@ -1,5 +1,5 @@
 ---
-title: "375. CHỈ CỤ"
+title: "CHỈ CỤ"
 weight: 375
 navWeight: 626
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,10 @@ keywords:
   - giải độc
 slug: "chi-cu"
 description: "Còn gọi là khúng khéng (Cao Bẳng, Lạng Sơn), vạn thọ, kê trảo."
+benh:
+  - lao
+  - bệnh giang mai nhưng thường chỉ
+  - hoảng hốt
 ---
 
 

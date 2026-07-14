@@ -1,5 +1,5 @@
 ---
-title: "229. DƯƠNG XUÂN SA"
+title: "DƯƠNG XUÂN SA"
 weight: 229
 navWeight: 772
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - trị hơn vì ít tinh dầu
 slug: "duong-xuan-sa"
 description: "Còn gọi là xuân sa, sa nhân, mé tré bà."
+benh:
+  - hơn vì ít tinh dầu
 ---
 
 

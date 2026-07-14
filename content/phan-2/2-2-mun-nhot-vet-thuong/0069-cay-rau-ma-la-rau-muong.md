@@ -1,5 +1,5 @@
 ---
-title: "69. CÂY RAU MÁ LÁ RAU MUỐNG"
+title: "CÂY RAU MÁ LÁ RAU MUỐNG"
 weight: 69
 navWeight: 932
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

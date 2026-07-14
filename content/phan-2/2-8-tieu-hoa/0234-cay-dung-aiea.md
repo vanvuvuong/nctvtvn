@@ -1,5 +1,5 @@
 ---
-title: "234. CÂY DUNG âíÈÃ-"
+title: "CÂY DUNG âíÈÃ-"
 weight: 234
 navWeight: 767
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,12 @@ keywords:
   - chữa đau dạ đày có tăng toan
 slug: "cay-dung-aiea"
 description: "Còn gụi là chè lang, chè dại, duôì gia, chè dung."
+benh:
+  - đau bụnc
+  - ỉa chảy
+  - đau bụng
+  - đau dạ đày có tăng toan
+  - ăn uống kém tiêu
 ---
 
 

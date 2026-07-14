@@ -1,5 +1,5 @@
 ---
-title: "419. CON SAM 鱟"
+title: "CON SAM 鱟"
 weight: 419
 navWeight: 582
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,14 @@ keywords:
   - trị này không được dùng cho những người già
 slug: "con-sam"
 description: "Còn gọi là Kabutegami (Nhật)."
+images:
+  - /images/hinh-768.png
+  - /images/hinh-770.png
+benh:
+  - kinh tế
+  - giá năm
+  - bệnh xơ vữa động mạch
+  - viêm phế quản
 ---
 
 
@@ -144,3 +152,6 @@ Ngoài hải sâm Stichopus japonicus nói trên, người ta còn khai thác d�
 
 Do nhu cầu tăng lên, nhiều nước đã đặt vấn đề nuôi hải sâm để đảm bảo nhu cầu dùng trong nước và xuất khẩu.
 
+![CON SAM 鱟 — Hình 768](/images/hinh-768.png)
+
+![CON SAM 鱟 — Hình 770](/images/hinh-770.png)

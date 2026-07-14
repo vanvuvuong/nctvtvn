@@ -1,5 +1,5 @@
 ---
-title: "383. SINH ĐỊA 生地黄"
+title: "SINH ĐỊA 生地黄"
 weight: 383
 navWeight: 618
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -20,6 +20,13 @@ keywords:
   - chữa thương hàn ôn bệnh
 slug: "sinh-dia"
 description: "Còn gọi là địa hoàng, thục địa."
+benh:
+  - bệnh về huyết
+  - thương hàn ôn
+  - huyết hư
+  - đau đầu
+  - ho khan
+  - gầy yếu có thể trị đường
 ---
 
 

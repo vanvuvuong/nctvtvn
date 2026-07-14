@@ -1,5 +1,5 @@
 ---
-title: "160. NƯỚC TKH"
+title: "NƯỚC TKH"
 weight: 160
 navWeight: 841
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,13 @@ keywords:
   - trị 37 trường hợp đái ra dưỡng chấp
 slug: "nuoc-tkh"
 description: "trên mặt nước, bén rễ ở các mấu và có phao nổi, xốp hình trứng. Lá hình trứng hay hơi thuôn, đến cuống hơi hẹp lại, đầu tù hay hoi tròn, dài"
+benh:
+  - sài đầu
+  - sốt
+  - rán cán
+  - bệnh ngoài da
+  - mắt
+  - bệnh nhân kiêng mỡ
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "163. CHIỂU"
+title: "CHIỂU"
 weight: 163
 navWeight: 838
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,11 @@ keywords:
   - tiêu thũng
 slug: "chieu"
 description: "Hoa màu vàng hay điểm những dưòmg dọc tía, mọc thành chùm ở kẽ lá. Quả dài đầu nhọn, hơi có lông, dài 4-7cm rộng 8-12mm, với 2 đến 3 vết lõm chạy chéo…"
+benh:
+  - sốt giải độc
+  - thùy thũng cước
+  - phù thũng
+  - đái
 ---
 
 

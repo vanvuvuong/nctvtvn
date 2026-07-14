@@ -1,5 +1,5 @@
 ---
-title: "296. CHÌA VỐI"
+title: "CHÌA VỐI"
 weight: 296
 navWeight: 705
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,9 @@ keywords:
   - dùng làm thuốc gồm thản rễ
 slug: "chia-voi"
 description: "Còn gọi là bình vôi, bạch phấn đẳng, turbith vcgeial."
+benh:
+  - thấp khớp
+  - đau bụng
 ---
 
 

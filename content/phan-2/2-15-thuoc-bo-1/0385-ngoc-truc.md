@@ -1,5 +1,5 @@
 ---
-title: "385. NGỌC TRÚC玉竹"
+title: "NGỌC TRÚC玉竹"
 weight: 385
 navWeight: 616
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - chữa táo nhiệt
 slug: "ngoc-truc"
 description: "Tên khoa học Polygonatum officinale All."
+benh:
+  - tim như convallamarin
+  - tim
+  - táo nhiệt
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "282. 3. MỘC PHÒNG KỶ (RADĨX"
+title: "MỘC PHÒNG KỶ (RADĨX"
 weight: 282
 navWeight: 719
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

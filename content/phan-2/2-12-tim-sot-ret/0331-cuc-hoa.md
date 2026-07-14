@@ -1,5 +1,5 @@
 ---
-title: "331. CÚC HOA 菊"
+title: "CÚC HOA 菊"
 weight: 331
 navWeight: 670
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,37 @@ keywords:
   - chữa phong mà sinh hoa mắt
 slug: "cuc-hoa"
 description: "Còn gọi là cam cúc hoa, bạch cúc hoa, cúc hoa trắng, cúc điểm vàng, hoàng cúc."
+images:
+  - /images/hinh-470.png
+  - /images/hinh-471.png
+  - /images/hinh-472.png
+  - /images/hinh-473.png
+  - /images/hinh-474.png
+  - /images/hinh-475.png
+  - /images/hinh-476.png
+  - /images/hinh-477.png
+  - /images/hinh-478.png
+  - /images/hinh-479.png
+  - /images/hinh-480.png
+  - /images/hinh-482.png
+  - /images/hinh-483.png
+  - /images/hinh-485.png
+benh:
+  - phong mà sinh hoa mắt
+  - chóng mặt
+  - cảm sốt
+  - bị cảm
+  - đầy bụng
+  - đau bụng
+  - mụn nhọt lở loét
+  - sốt tan
+  - sốt
+  - sốt ngang
+  - tâm phiến
+  - đau răng
+  - tê thấp
+  - ngoại cảm phát sốt
+  - thổ huyết máu cam
 ---
 
 
@@ -724,3 +755,30 @@ Chữa mọi bệnh của phụ nữ, kinh nguyệt không đều, các bệnh s
 
 Mẫu đơn bì thang: Mẫu đơn bì 5g, đương quy 5g, thược dược 3g, sinh địa 6g, trần bì 4g, bạch truật 4g, hương phụ 3g, sài hổ 2g, hoàng cầm 2g, cam thảo 2g, nước 600ml. Sắc còn 200ml. Chia 3 lẩn uống trong ngày.
 
+![CÚC HOA 菊 — Hình 470](/images/hinh-470.png)
+
+![CÚC HOA 菊 — Hình 471](/images/hinh-471.png)
+
+![CÚC HOA 菊 — Hình 472](/images/hinh-472.png)
+
+![CÚC HOA 菊 — Hình 473](/images/hinh-473.png)
+
+![CÚC HOA 菊 — Hình 474](/images/hinh-474.png)
+
+![CÚC HOA 菊 — Hình 475](/images/hinh-475.png)
+
+![CÚC HOA 菊 — Hình 476](/images/hinh-476.png)
+
+![CÚC HOA 菊 — Hình 477](/images/hinh-477.png)
+
+![CÚC HOA 菊 — Hình 478](/images/hinh-478.png)
+
+![CÚC HOA 菊 — Hình 479](/images/hinh-479.png)
+
+![CÚC HOA 菊 — Hình 480](/images/hinh-480.png)
+
+![CÚC HOA 菊 — Hình 482](/images/hinh-482.png)
+
+![CÚC HOA 菊 — Hình 483](/images/hinh-483.png)
+
+![CÚC HOA 菊 — Hình 485](/images/hinh-485.png)

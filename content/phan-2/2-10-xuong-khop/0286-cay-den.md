@@ -1,5 +1,5 @@
 ---
-title: "286. CÂY DỂN"
+title: "CÂY DỂN"
 weight: 286
 navWeight: 715
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,11 @@ keywords:
   - chữa kinh nguyệt không đều
 slug: "cay-den"
 description: "Còn gọi lả cây sai (Hà Bắc-Sơn Động), cây thối ruột, mảy sẳn sãn (Thổ)."
+benh:
+  - kinh nguyệt không đều
+  - đau nhức tê thấp
+  - sốt rét
+  - bệnh đau nhức khớp xương
 ---
 
 

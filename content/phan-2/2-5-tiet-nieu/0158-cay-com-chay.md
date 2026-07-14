@@ -1,5 +1,5 @@
 ---
-title: "158. CÂY COM CHÁY"
+title: "CÂY COM CHÁY"
 weight: 158
 navWeight: 843
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

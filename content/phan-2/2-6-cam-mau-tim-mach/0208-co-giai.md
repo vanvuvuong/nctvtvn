@@ -1,5 +1,5 @@
 ---
-title: "208. CỔ GIẢI"
+title: "CỔ GIẢI"
 weight: 208
 navWeight: 793
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

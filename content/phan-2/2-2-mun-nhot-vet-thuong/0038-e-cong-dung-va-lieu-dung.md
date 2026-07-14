@@ -1,5 +1,5 @@
 ---
-title: "38. E- Công dụng và liều dùng"
+title: "E- Công dụng và liều dùng"
 weight: 38
 navWeight: 963
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

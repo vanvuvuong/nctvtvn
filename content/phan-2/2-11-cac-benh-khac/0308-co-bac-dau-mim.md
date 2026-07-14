@@ -1,5 +1,5 @@
 ---
-title: "308. CỎ BẠC ĐẦU MỈM"
+title: "CỎ BẠC ĐẦU MỈM"
 weight: 308
 navWeight: 693
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,16 @@ keywords:
   - chữa sâu quảng
 slug: "co-bac-dau-mim"
 description: "Còn gọi là cỏ nút áo, smao kak kdam (Cãmupuchia)."
+benh:
+  - sâu quảng
+  - ỉa chảy
+  - viêm họng
+  - chai chân
+  - bỏng
+  - bỏng bằng cao xoan nhừ đơn
+  - ngoại trú
+  - phong hai kinh can
+  - kinh nguyệt bế tắc
 ---
 
 

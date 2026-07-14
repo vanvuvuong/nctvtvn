@@ -1,5 +1,5 @@
 ---
-title: "374. THIÊN TRÚC HOÀNG 天竹黄"
+title: "THIÊN TRÚC HOÀNG 天竹黄"
 weight: 374
 navWeight: 627
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,9 @@ keywords:
   - chữa người lớn trúng phong cấm khẩu
 slug: "thien-truc-hoang"
 description: "Còn có tên là trúc hoàng phấn, phấn nứa, trúc cao."
+benh:
+  - trẻ con bị kinh giật
+  - người lớn trúng phong cấm khẩu
 ---
 
 

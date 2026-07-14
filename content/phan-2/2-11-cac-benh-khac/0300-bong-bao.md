@@ -1,5 +1,5 @@
 ---
-title: "300. BÔNG BÁO"
+title: "BÔNG BÁO"
 weight: 300
 navWeight: 701
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,11 @@ keywords:
   - chữa rắn cắn rất phổ biến
 slug: "bong-bao"
 description: "Cồn gọi lủ bông xanh, đại hoa lão nha chủy, madia (Mèo)."
+benh:
+  - đi ỉa
+  - rắn cắn
+  - vết
+  - ứ tích lâu nãm
 ---
 
 

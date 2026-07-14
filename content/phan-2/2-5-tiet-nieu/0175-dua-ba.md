@@ -1,5 +1,5 @@
 ---
-title: "175. DỨA BÀ"
+title: "DỨA BÀ"
 weight: 175
 navWeight: 826
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,13 @@ keywords:
   - chữa đau nhức
 slug: "dua-ba"
 description: "Còn gọi là thùa, lưỡi lê, dứa Mỹ, nil pisey (Cãmpuchia), sisal, agave (Pháp)."
+benh:
+  - sốt
+  - vết loét
+  - đau nhức
+  - can thân âm kém
+  - bệnh bỏng rát
+  - bệnh nấm ở ngoài da
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "269. CÂY HÀM ẾCH =ẼM"
+title: "CÂY HÀM ẾCH =ẼM"
 weight: 269
 navWeight: 732
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa bệnh thủy thũng
 slug: "cay-ham-ech-em"
 description: "Càn có tên ì à tam bạch thảo, đường biên ngẫu {Lĩnh nam thái dược lục)."
+benh:
+  - bệnh thủy thũng
 ---
 
 

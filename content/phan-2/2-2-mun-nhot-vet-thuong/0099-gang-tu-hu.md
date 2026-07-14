@@ -1,5 +1,5 @@
 ---
-title: "99. GĂNG TU HÚ"
+title: "GĂNG TU HÚ"
 weight: 99
 navWeight: 902
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "46. BÙNG BỤC"
+title: "BÙNG BỤC"
 weight: 46
 navWeight: 955
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "283. 4. CÁC LOẠI PHÒNG KỶ DÙNG Ở VIỆT NAM"
+title: "CÁC LOẠI PHÒNG KỶ DÙNG Ở VIỆT NAM"
 weight: 283
 navWeight: 718
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,12 @@ keywords:
   - chữa chân tay đau nhức
 slug: "4-cac-loai-phong-ky-dung-o-viet-nam"
 description: "Hiện nay ở nước ta có khai thác một số rễ cây với tên phòng kỷ. Chúng tôi chưa có dịp xác định. Phòng kỷ khai thác ở Quảng Ninh không những dùng trong…"
+benh:
+  - ngoài da
+  - nhức đầu
+  - hen
+  - đau xương
+  - ngã
 ---
 
 

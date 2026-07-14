@@ -1,5 +1,5 @@
 ---
-title: "11. HẠT BÔNG 棉籽"
+title: "HẠT BÔNG 棉籽"
 weight: 11
 navWeight: 990
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

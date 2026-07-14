@@ -1,5 +1,5 @@
 ---
-title: "110. SẮN THUYỀN"
+title: "SẮN THUYỀN"
 weight: 110
 navWeight: 891
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

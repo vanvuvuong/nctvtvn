@@ -1,5 +1,5 @@
 ---
-title: "29. CHỈ THIÊN 苦地胆"
+title: "CHỈ THIÊN 苦地胆"
 weight: 29
 navWeight: 972
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

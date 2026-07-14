@@ -1,5 +1,5 @@
 ---
-title: "274. TỲ GIẢI"
+title: "TỲ GIẢI"
 weight: 274
 navWeight: 727
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,12 @@ keywords:
   - chữa tiểu tiện đục mãn tính
 slug: "ty-giai"
 description: "Còn gọi là xuyên tỳ giải, tắt giã, phấn tỳ giải. Tèn khoa học Dioscorea lokoro Makino. Thuộc họ Củ nâu Dioscoreaceae."
+benh:
+  - thấp khớp
+  - thống phong
+  - bạch trọc
+  - mụn nhọt
+  - bệnh tiểu tiện đục
 ---
 
 

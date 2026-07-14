@@ -1,5 +1,5 @@
 ---
-title: "45. BỒ CU VẼ"
+title: "BỒ CU VẼ"
 weight: 45
 navWeight: 956
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

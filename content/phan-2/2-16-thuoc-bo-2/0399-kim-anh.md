@@ -1,5 +1,5 @@
 ---
-title: "399. KIM ANH 金樱子"
+title: "KIM ANH 金樱子"
 weight: 399
 navWeight: 602
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,11 @@ keywords:
   - chữa bệnh về thần kinh với những triệu chứng như lo âu
 slug: "kim-anh"
 description: "Còn gọi là thích lê tử, đường quân tử."
+benh:
+  - bệnh về thần kinh
+  - di tinh
+  - di mộng tinh
+  - lỵ lâu ngày
 ---
 
 

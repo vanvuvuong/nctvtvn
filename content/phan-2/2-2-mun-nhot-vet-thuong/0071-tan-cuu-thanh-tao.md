@@ -1,5 +1,5 @@
 ---
-title: "71. TẦN CỬU (THANH TÁO)"
+title: "TẦN CỬU (THANH TÁO)"
 weight: 71
 navWeight: 930
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

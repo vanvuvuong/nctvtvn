@@ -1,5 +1,5 @@
 ---
-title: "86. BẠC THAU"
+title: "BẠC THAU"
 weight: 86
 navWeight: 915
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

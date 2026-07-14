@@ -1,5 +1,5 @@
 ---
-title: "320. CÂY MƯỚP SÁT M&m"
+title: "CÂY MƯỚP SÁT M&m"
 weight: 320
 navWeight: 681
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,9 @@ keywords:
   - dùng làm thuốc ở việt nam
 slug: "cay-muop-sat-mm"
 description: "Còn gọi là sơn đương tử, hải qua tử, da krapur (Cămpuchia)."
+benh:
+  - bệnh tim
+  - ngứa
 ---
 
 

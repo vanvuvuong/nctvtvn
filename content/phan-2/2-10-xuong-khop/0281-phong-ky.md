@@ -1,5 +1,5 @@
 ---
-title: "281. PHÒNG KỶ"
+title: "PHÒNG KỶ"
 weight: 281
 navWeight: 720
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

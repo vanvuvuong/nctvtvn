@@ -1,5 +1,5 @@
 ---
-title: "231. HỒNG ĐẬU"
+title: "HỒNG ĐẬU"
 weight: 231
 navWeight: 770
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,11 @@ keywords:
   - chữa nôn mửa
 slug: "hong-dau"
 description: "Còn gọi là sơn khương tử, hổng khấu."
+benh:
+  - nôn mửa
+  - đái dầm
+  - lạnh bụng
+  - tê thấp
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "418. THẠCH SÙNG 宁宮"
+title: "THẠCH SÙNG 宁宮"
 weight: 418
 navWeight: 583
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,39 @@ keywords:
   - dùng làm thuốc với tên thủ cung
 slug: "thach-sung"
 description: "Còn gọi là mối rách-thủ cung-thiên long, bích cung, hát hổ, bích hổ."
+images:
+  - /images/hinh-747.png
+  - /images/hinh-748.png
+  - /images/hinh-749.png
+  - /images/hinh-750.png
+  - /images/hinh-751.png
+  - /images/hinh-752.png
+  - /images/hinh-755.png
+  - /images/hinh-756.png
+  - /images/hinh-757.png
+  - /images/hinh-758.png
+  - /images/hinh-759.png
+  - /images/hinh-760.png
+  - /images/hinh-761.png
+  - /images/hinh-762.png
+  - /images/hinh-765.png
+  - /images/hinh-766.png
+benh:
+  - đau các khớp xương
+  - cam lỵ trẻ
+  - bệnh tràng nhạc
+  - mụn nhọt
+  - thổ huyết
+  - mụn nhọt chưa vỡ mủ
+  - kim sang hạ cam
+  - đậu
+  - đau lưng
+  - theo các triệu chứng ngộ độc
+  - tắc họng
+  - kịp thời
+  - tích tụ
+  - mắt có màng mộng
+  - bệnh vàng da
 ---
 
 
@@ -857,3 +890,34 @@ Ngoài ra rươi còn là thức ăn cho cá.
 
 Tuy nhiên, những người có bệnh hen tránh ăn rươi có thể vì rươi có chất gây lên cơn hen.
 
+![THẠCH SÙNG 宁宮 — Hình 747](/images/hinh-747.png)
+
+![THẠCH SÙNG 宁宮 — Hình 748](/images/hinh-748.png)
+
+![THẠCH SÙNG 宁宮 — Hình 749](/images/hinh-749.png)
+
+![THẠCH SÙNG 宁宮 — Hình 750](/images/hinh-750.png)
+
+![THẠCH SÙNG 宁宮 — Hình 751](/images/hinh-751.png)
+
+![THẠCH SÙNG 宁宮 — Hình 752](/images/hinh-752.png)
+
+![THẠCH SÙNG 宁宮 — Hình 755](/images/hinh-755.png)
+
+![THẠCH SÙNG 宁宮 — Hình 756](/images/hinh-756.png)
+
+![THẠCH SÙNG 宁宮 — Hình 757](/images/hinh-757.png)
+
+![THẠCH SÙNG 宁宮 — Hình 758](/images/hinh-758.png)
+
+![THẠCH SÙNG 宁宮 — Hình 759](/images/hinh-759.png)
+
+![THẠCH SÙNG 宁宮 — Hình 760](/images/hinh-760.png)
+
+![THẠCH SÙNG 宁宮 — Hình 761](/images/hinh-761.png)
+
+![THẠCH SÙNG 宁宮 — Hình 762](/images/hinh-762.png)
+
+![THẠCH SÙNG 宁宮 — Hình 765](/images/hinh-765.png)
+
+![THẠCH SÙNG 宁宮 — Hình 766](/images/hinh-766.png)

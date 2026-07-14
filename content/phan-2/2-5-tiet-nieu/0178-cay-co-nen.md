@@ -1,5 +1,5 @@
 ---
-title: "178. CÂY CỎ NẾN"
+title: "CÂY CỎ NẾN"
 weight: 178
 navWeight: 823
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,10 @@ keywords:
   - chữa kinh nguyệt bế sinh đau bụng
 slug: "cay-co-nen"
 description: "Còn có tên bồ thảo, hương bồ thảo, bồ hoàng."
+benh:
+  - bệnh ho
+  - kinh nguyệt bế sinh đau bụng
+  - thổ huyết
 ---
 
 

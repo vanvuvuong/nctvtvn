@@ -1,5 +1,5 @@
 ---
-title: "415. PHÂN NGƯỜI"
+title: "PHÂN NGƯỜI"
 weight: 415
 navWeight: 586
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,27 @@ keywords:
   - chữa một số bệnh hiểm nghèo từ thế kỷ thứ 6
 slug: "phan-nguoi"
 description: "Còn gọi là cứt người, nhân phẩn, hoàng long thang, hoàn nguyên thủy, phấn thanh, nhân trung hoàng."
+images:
+  - /images/hinh-728.png
+  - /images/hinh-729.png
+  - /images/hinh-730.png
+  - /images/hinh-731.png
+benh:
+  - chạy giúp bộ đội
+  - sốt dữ dội
+  - cốt chưng lao phục
+  - choáng
+  - bệnh dùng
+  - sốt nặng
+  - sốt
+  - sốt rét
+  - sốt ho hen
+  - bệnh cao huyết áp cứng mạch
+  - đau nhức khớp xương
+  - bệnh nhiệt phát cuồng
+  - làm ban
+  - kinh tế
+  - và phẩm chất
 ---
 
 
@@ -327,3 +348,10 @@ Liều dùng hằng ngày là 5 đến 10g cắt thành từng miếng nhỏ ng�
 
 Sỏi mật của khỉ (hầu táo) được đông y coi là tính lạnh (hàn) vị đắng, hơi mặn, vào các kinh tâm, phế, đởm và gan, có khả năng thanh nhiệt trấn kinh, giải độc, tiêu thũng, tiêu đờm định suyễn. Ngày dùng với liều 0,20 đến 0,30g dưới hình thức thuốc bột hay phối hợp với các vị khác mà uống.
 
+![PHÂN NGƯỜI — Hình 728](/images/hinh-728.png)
+
+![PHÂN NGƯỜI — Hình 729](/images/hinh-729.png)
+
+![PHÂN NGƯỜI — Hình 730](/images/hinh-730.png)
+
+![PHÂN NGƯỜI — Hình 731](/images/hinh-731.png)

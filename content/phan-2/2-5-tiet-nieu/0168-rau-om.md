@@ -1,5 +1,5 @@
 ---
-title: "168. RÂU OM"
+title: "RÂU OM"
 weight: 168
 navWeight: 833
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,8 @@ keywords:
   - chữa sỏi thận của lương y lẽ quang tốt {rau om
 slug: "rau-om"
 description: "Còn gọi là ngổ om, mò om, ngổ, ma am (Cămpuchia), phẳp hom pôm (Lào)."
+benh:
+  - sỏi thận
 ---
 
 

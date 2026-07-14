@@ -1,5 +1,5 @@
 ---
-title: "153. LƯỠI RẮN"
+title: "LƯỠI RẮN"
 weight: 153
 navWeight: 848
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,11 @@ keywords:
   - chữa sớt quá hóa điên cuồng
 slug: "luoi-ran"
 description: "Cồn gọi là vương thái tô, cóc mẳn, đơn thảo, đơn đòng, tán phòng hoa nhĩ thảo."
+benh:
+  - bệnh tóc rụng
+  - sớt quá hóa điên cuồng
+  - đau nhức xương cổt
+  - sốt
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "111. THÓC LÉP"
+title: "THÓC LÉP"
 weight: 111
 navWeight: 890
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -18,6 +18,8 @@ keywords:
   - làm thuốc với tên khoa học bul- bus eỉeutherinis subaphyllae
 slug: "thoc-lep"
 description: "Còn có tên là cỏ cháy, bài ngài,"
+benh:
+  - mệt mỏi
 ---
 
 

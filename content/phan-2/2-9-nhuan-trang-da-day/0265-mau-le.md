@@ -1,5 +1,5 @@
 ---
-title: "265. MẪU LỆ"
+title: "MẪU LỆ"
 weight: 265
 navWeight: 736
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,10 @@ keywords:
   - chữa bệnh bướu cổ tên iotamin
 slug: "mau-le"
 description: "Còn gọi là vỏ hầu, vỏ hà, hầu cồn, hầu cửa sông, hà sông."
+benh:
+  - ỉa chảy
+  - kinh nguyệt không đều
+  - bệnh bướu cổ tên iotamin
 ---
 
 

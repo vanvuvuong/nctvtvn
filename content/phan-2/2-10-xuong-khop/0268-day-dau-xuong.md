@@ -1,5 +1,5 @@
 ---
-title: "268. DÂY ĐAU XƯƠNG"
+title: "DÂY ĐAU XƯƠNG"
 weight: 268
 navWeight: 733
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,9 @@ keywords:
   - chữa những triệu chứng của bệnh tê thấp
 slug: "day-dau-xuong"
 description: "Còn gợi là khoan cân đàng."
+benh:
+  - bệnh đau xương
+  - kéo dài
 ---
 
 

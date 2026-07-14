@@ -1,5 +1,5 @@
 ---
-title: "360. HỒNG BÌ 黄皮"
+title: "HỒNG BÌ 黄皮"
 weight: 360
 navWeight: 641
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - dùng làm thuốc
 slug: "hong-bi"
 description: "Còn gọi là hoàng bì."
+images:
+  - /images/hinh-573.png
+benh:
+  - rắn cắn
 ---
 
 
@@ -57,3 +61,4 @@ Lá hồng bì thường được dùng nấu nước gội đầu cho sạch g�
 
 Hạt hồng bì dùng chữa rắn cắn: Nhai nát hạt hồng bì, nuốt nước, bã đắp lên nơi rắn cắn.
 
+![HỒNG BÌ 黄皮 — Hình 573](/images/hinh-573.png)

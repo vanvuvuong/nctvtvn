@@ -1,5 +1,5 @@
 ---
-title: "180. CÂY TRẮC BÁCH DIỆP"
+title: "CÂY TRẮC BÁCH DIỆP"
 weight: 180
 navWeight: 821
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,9 @@ keywords:
   - chữa hồi hộp mất ngủ
 slug: "cay-trac-bach-diep"
 description: "Còn có tên là bá tử nhân."
+benh:
+  - tim
+  - hồi hộp mất ngủ
 ---
 
 

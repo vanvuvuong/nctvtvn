@@ -1,5 +1,5 @@
 ---
-title: "270. HY THIÊM"
+title: "HY THIÊM"
 weight: 270
 navWeight: 731
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,10 @@ keywords:
   - chữa bệnh phụ nữ) để tránh nhầm lẫn
 slug: "hy-thiem"
 description: "Còn gọi ìà cỏ đĩ, cứt lợn, hy kicm thảo, hy tiên, niêm hồ thái, chư cao, hổ cao, chó đẻ, nụ áo rìa."
+benh:
+  - bệnh phụ nữ
+  - bệnh nhanh chóng nên có nước
+  - bệnh nhanh
 ---
 
 

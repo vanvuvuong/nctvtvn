@@ -1,5 +1,5 @@
 ---
-title: "83. CÂY RÁY"
+title: "CÂY RÁY"
 weight: 83
 navWeight: 918
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

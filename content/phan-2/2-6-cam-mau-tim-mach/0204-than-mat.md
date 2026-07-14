@@ -1,5 +1,5 @@
 ---
-title: "204. THÀN MÁT"
+title: "THÀN MÁT"
 weight: 204
 navWeight: 797
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

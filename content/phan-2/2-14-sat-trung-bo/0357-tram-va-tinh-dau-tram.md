@@ -1,5 +1,5 @@
 ---
-title: "357. TRÀM VÀ TINH DẦU TRÀM"
+title: "TRÀM VÀ TINH DẦU TRÀM"
 weight: 357
 navWeight: 644
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - sát trùng của tinh dầu tràm lại mạnh hơn tinh dầu bạch đàn
 slug: "tram-va-tinh-dau-tram"
 description: "Còn gọi là cây chè cay, chè đồng, smach chanlos, -smach tachah (Cămpuchia), cajeputier (Pháp)."
+images:
+  - /images/hinh-570.png
+benh:
+  - đau nhức
 ---
 
 
@@ -80,3 +84,4 @@ Dung dịch tinh dầu tràm 5-10 hay 20% trong dầu còn được dùng với 
 
 Người ta còn dùng tinh dầu pha vào nưóc với nồng độ 2 phần nghìn để rửa các vết thương rất tốt.
 
+![TRÀM VÀ TINH DẦU TRÀM — Hình 570](/images/hinh-570.png)

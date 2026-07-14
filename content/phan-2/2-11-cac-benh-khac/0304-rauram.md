@@ -1,5 +1,5 @@
 ---
-title: "304. RAƯRẢM"
+title: "RAƯRẢM"
 weight: 304
 navWeight: 697
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,11 @@ keywords:
   - chữa rắn cắn (xem vị bông báo) rẻ do chất nhầy được dùng để hổ giấy
 slug: "rauram"
 description: "Cỏn gọi lù thuỷ liểu, chi krassang tomhom (Cãmpuchia), phăk phèo (Vièntian)."
+benh:
+  - rắn cắn
+  - sốt
+  - di tinh
+  - say rượu
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "225. MÂM XÔI"
+title: "MÂM XÔI"
 weight: 225
 navWeight: 776
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa chậm tiêu
 slug: "mam-xoi"
 description: "Còn gọi là đùm đũm."
+benh:
+  - chậm tiêu
 ---
 
 

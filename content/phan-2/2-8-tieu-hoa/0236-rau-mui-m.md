@@ -1,5 +1,5 @@
 ---
-title: "236. RAU MỪI m"
+title: "RAU MỪI m"
 weight: 236
 navWeight: 765
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "221. BẠCH BIỂN ĐẬU"
+title: "BẠCH BIỂN ĐẬU"
 weight: 221
 navWeight: 780
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -18,6 +18,11 @@ keywords:
   - chữa các chứng đau bụng
 slug: "bach-bien-dau"
 description: "Còn gọi ỉà đậu ván trắng, đậu bạch biển, biển đậu, bạch đậu."
+benh:
+  - hòa trung
+  - nôn ọe
+  - đau bụng
+  - xích bạch đới
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "271. CÂY SƯNG"
+title: "CÂY SƯNG"
 weight: 271
 navWeight: 730
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,13 @@ keywords:
   - chữa mụn nhọt bắp chuối
 slug: "cay-sung"
 description: "Còn gọi là lo va (Campuchia)."
+benh:
+  - đau nhức
+  - nhọt độc
+  - bán thán bất toại
+  - bệnh đẻ xong máu chảy
+  - bệnh nhức đầu
+  - tê liệt
 ---
 
 

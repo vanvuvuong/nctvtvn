@@ -1,5 +1,5 @@
 ---
-title: "121. HẠT BÍ NGÔ"
+title: "HẠT BÍ NGÔ"
 weight: 121
 navWeight: 880
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa sán tuy không mạnh bằng dương xỉ đực
 slug: "hat-bi-ngo"
 description: "Hạt bí ngô còn có tên là: hạt bí đỏ, má ứ (Thái), nam qua tử (Semen Cưcurbitae) là hạt của nhiều loại bí như bí ngô {Cucurbita pepõ L.), bí rợ (Cucurbita…"
+benh:
+  - sán tuy không mạnh bằng dương
 ---
 
 

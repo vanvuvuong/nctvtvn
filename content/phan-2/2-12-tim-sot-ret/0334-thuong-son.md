@@ -1,5 +1,5 @@
 ---
-title: "334. THƯỜNG SƠN 常山"
+title: "THƯỜNG SƠN 常山"
 weight: 334
 navWeight: 667
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -18,6 +18,29 @@ keywords:
   - chữa các chứng sốt rét
 slug: "thuong-son"
 description: "Còn gọi là hoàng thường sơn, thục tất, áp niệu thảo, kê niệu thảo."
+images:
+  - /images/hinh-500.png
+  - /images/hinh-501.png
+  - /images/hinh-503.png
+  - /images/hinh-504.png
+  - /images/hinh-505.png
+  - /images/hinh-520.png
+benh:
+  - sốt
+  - sốt rét mạnh nhất
+  - sốt rét
+  - bệnh sốt rét
+  - sốt rét mạnh hơn quinin
+  - sốt rét thường nhưng có nhược
+  - sốt rét thì thấy
+  - sốt rét mới bị
+  - sốt thường
+  - chừng
+  - trừ ve
+  - ngoại cảm phong hàn
+  - cảm mạo
+  - bị ngộ độc nôn mửa
+  - ho trừ đờm
 ---
 
 
@@ -458,3 +481,14 @@ Xạ can 4g, hoàng cầm 2g, sinh cam thảo 2g, cát cánh 2g. Các vị tán 
 
 Xạ can tươi, giã nhỏ, vắt lấy nước uống, hễ thấy lợi tiểu tiện thì thôi.
 
+![THƯỜNG SƠN 常山 — Hình 500](/images/hinh-500.png)
+
+![THƯỜNG SƠN 常山 — Hình 501](/images/hinh-501.png)
+
+![THƯỜNG SƠN 常山 — Hình 503](/images/hinh-503.png)
+
+![THƯỜNG SƠN 常山 — Hình 504](/images/hinh-504.png)
+
+![THƯỜNG SƠN 常山 — Hình 505](/images/hinh-505.png)
+
+![THƯỜNG SƠN 常山 — Hình 520](/images/hinh-520.png)

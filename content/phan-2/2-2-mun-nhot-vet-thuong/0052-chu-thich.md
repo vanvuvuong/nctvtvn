@@ -1,5 +1,5 @@
 ---
-title: "52. Chú thích"
+title: "Chú thích"
 weight: 52
 navWeight: 949
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

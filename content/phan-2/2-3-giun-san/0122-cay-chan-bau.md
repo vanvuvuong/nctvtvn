@@ -1,5 +1,5 @@
 ---
-title: "122. CÂY CHÂN BẦU"
+title: "CÂY CHÂN BẦU"
 weight: 122
 navWeight: 879
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - chữa trâu bò ngựa gầy gò
 slug: "cay-chan-bau"
 description: "Còn có tên ìà cây chưng bầu, song ke (tên Cãmpuchia)."
+benh:
+  - giun rõ rệt
+  - giun đũa
+  - trâu bò ngựa gầy gò
 ---
 
 

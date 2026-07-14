@@ -1,5 +1,5 @@
 ---
-title: "213. MẮC KẸN"
+title: "MẮC KẸN"
 weight: 213
 navWeight: 788
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,17 @@ keywords:
   - Aesculus sinensis Bunge
 slug: "mac-ken"
 description: "Còn gọi là bàm bàm, ma keyeng, may kho, marronier."
+images:
+  - /images/hinh-262.png
+  - /images/hinh-263.png
+  - /images/hinh-264.png
+benh:
+  - rắn rết côn trùng cắn
+  - ghẻ
+  - giun sán
+  - bỏng
+  - hầu tê
+  - giun đũa
 ---
 
 
@@ -311,3 +322,8 @@ Trong công nghiệp, sơn chủ yếu được dùng trong công nghiệp sơn,
 
 Chữa các chứng hầu tê châm chích không tới được: Dùng can tất đốt lấy khói thổi vào cổ họng.
 
+![MẮC KẸN — Hình 262](/images/hinh-262.png)
+
+![MẮC KẸN — Hình 263](/images/hinh-263.png)
+
+![MẮC KẸN — Hình 264](/images/hinh-264.png)

@@ -1,5 +1,5 @@
 ---
-title: "301. CÀ DẠI HOA TRẮNG"
+title: "CÀ DẠI HOA TRẮNG"
 weight: 301
 navWeight: 700
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,11 @@ keywords:
   - Solanum torvum Swartz
 slug: "ca-dai-hoa-trang"
 description: "Cỏn gọi là cà pháo, trăng lao (Buôn ma thuột)."
+benh:
+  - cảm mạo
+  - viêm xoang mũi như cây cứt
+  - rắn cắn sưng tấy
+  - rắn cắn
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "319. TẤT BẠT"
+title: "TẤT BẠT"
 weight: 319
 navWeight: 682
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,9 @@ keywords:
   - chữa thiên đấu thông
 slug: "tat-bat"
 description: "Còn gọi ìà tiêu lốt, tiêu hoa tím. morech ton sai (Cămpuchia)."
+benh:
+  - đau bụng
+  - nhức đẩu
 ---
 
 

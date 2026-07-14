@@ -1,5 +1,5 @@
 ---
-title: "364. BẠCH CẬP 白芨"
+title: "BẠCH CẬP 白芨"
 weight: 364
 navWeight: 637
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,11 @@ keywords:
   - chữa tà khí vào dạ dày
 slug: "bach-cap"
 description: "Tên khoa học Bletilla striata (Thunb.) Reichb."
+images:
+  - /images/hinh-577.png
+benh:
+  - tà khí
+  - thấp khớp
 ---
 
 
@@ -105,3 +110,4 @@ Chú thích:
 
 Có tác giả xác định tên cây biến hoá là Asarum blumei Duch. Cần xác định lại.
 
+![BẠCH CẬP 白芨 — Hình 577](/images/hinh-577.png)

@@ -1,5 +1,5 @@
 ---
-title: "194. CÂY BA KÍCH"
+title: "CÂY BA KÍCH"
 weight: 194
 navWeight: 807
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,10 @@ keywords:
   - chữa 360 trường kết quả đạt tới 74%
 slug: "cay-ba-kich"
 description: "Còn có tên ba kích thiên, cây Ruột gà, chẩu phóng xì (Hải Ninh), thao tầy cáy, ba kích nhục, liên châu ba kích."
+benh:
+  - dương ủy
+  - bệnh phong thấp
+  - bệnh cao huyết áp có kết
 ---
 
 

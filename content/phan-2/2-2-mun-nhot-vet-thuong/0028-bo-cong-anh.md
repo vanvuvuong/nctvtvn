@@ -1,5 +1,5 @@
 ---
-title: "28. BỒ CÔNG ANH"
+title: "BỒ CÔNG ANH"
 weight: 28
 navWeight: 973
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -48,7 +48,7 @@ Bồ công anh là một cây nhỏ, cao 0,60m đến 1m, có thể cao tới 3m
 
 Có người gọi cây hoa vàng là _hoàng hoa địa đinh_ và loại hoa tím là _tử hoa địa đinh_ (tử là màu tím). Cả hai loại đều được dùng làm thuốc (Hình 35,Hm 4,1).
 
-![bo-cong-anh-viet-nam](/images/35-bo-cong-anh-viet-nam.png)
+![BỒ CÔNG ANH — Hình 35](/images/35-bo-cong-anh-viet-nam.png)
 
 Hình 35. Bồ công anh Việt nam - Lactuca indica
 
@@ -64,7 +64,7 @@ Một số người hái cả cây, cả rễ cắt nhỏ phơi khô để dùng
 
 Chưa thấy tài liệu nghiên cứu về cây _Lactuca indica_ L. của ta. Theo những tài liệu nước ngoài, tại một số nước người ta có sử dụng và nghiên cứu một số loài _Lactuca_ khác như _Lactuca virosa, Lactuca sativa_ L. (rau diếp của ta ăn) thấy trong có lactuxerin là một ête axetic của hai thứ rượu nhị no lactuxerola α và lactuxerola β ngoài ra còn 3 chất đắng có tên axit lacturic, lactucopicrin và lactuxin. Lactucopicrin, là este p. hydroxy phenylaxetic của lactuxin.
 
-![lactucopicrin](/images/35-2-lactucopicrin.png)
+![BỒ CÔNG ANH — Hình 35.2](/images/35-2-lactucopicrin.png)
 
 ##### D. Tác dụng dược lý
 
@@ -104,7 +104,7 @@ Tại các nước Châu Âu, người ta dùng rễ Radix Taraxaci hay Taraxacu
 
 Cỏ sống dai, có rễ trụ. Lá mọc thành hoa thị ở gốc, phiến lá cắt thành nhiều thùy nhỏ như răng nhọn, mềm trông giống như hàm răng sư tử do đó có tên dens leonis (có nghĩa là răng con sư tử), từ giữa vòng lá mọc lên cuống cụm hoa màu vàng, khi già ra quả có lông màu trắng xếp thành hình cầu. Căn cứ vào màu sắc hoa, dáng lá, hình quả người ta chia ra nhiều loại khác nhau (Hình 36, Hm 4,2).
 
-![bo-cong-anh-trung-quoc](/images/36-bo-cong-anh-trung-quoc.png)
+![BỒ CÔNG ANH — Hình 36](/images/36-bo-cong-anh-trung-quoc.png)
 
 Hình 36. Bồ công anh Trung quốc - Taraxacum officinale
 

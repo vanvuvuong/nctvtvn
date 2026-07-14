@@ -1,5 +1,5 @@
 ---
-title: "219. QUÍT-TRẦN BÌ 陈皮"
+title: "QUÍT-TRẦN BÌ 陈皮"
 weight: 219
 navWeight: 782
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,12 @@ keywords:
   - chữa ăn uống không tiêu
 slug: "quit-tran-bi"
 description: "Còn gọi là quyết, hoàng quyết, trần bì, thanh bì, mandarinier (Pháp)."
+images:
+  - /images/hinh-287.png
+benh:
+  - ăn uống không tiêu
+  - sa đì
+  - đau bụng
 ---
 
 
@@ -120,3 +126,5 @@ Vì đây là một loại “gừng” mọc ở quận Cao Lương, do đó c�
 #### A. Mô tả cây
 
 Riềng là một loại cỏ nhỏ, cao chừng 0,70-1,2m. Thân rễ mọc bò ngang, dài, hình trụ, đường kính
+
+![QUÍT-TRẦN BÌ 陈皮 — Hình 287](/images/hinh-287.png)

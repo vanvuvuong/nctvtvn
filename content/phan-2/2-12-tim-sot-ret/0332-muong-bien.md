@@ -1,5 +1,5 @@
 ---
-title: "332. MUỐNG BIỂN"
+title: "MUỐNG BIỂN"
 weight: 332
 navWeight: 669
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,36 @@ keywords:
   - chữa thủy thũng
 slug: "muong-bien"
 description: "Tên khoa học Ipomoea biloba Forsk, (Ipomoea maritima R. Br., Convolvulus pescaproe L. Batatas maritima Bojer.)"
+images:
+  - /images/hinh-486.png
+  - /images/hinh-487.png
+  - /images/hinh-488.png
+  - /images/hinh-489.png
+  - /images/hinh-490.png
+  - /images/hinh-491.png
+  - /images/hinh-492.png
+  - /images/hinh-493.png
+  - /images/hinh-494.png
+  - /images/hinh-495.png
+  - /images/hinh-496.png
+  - /images/hinh-497.png
+  - /images/hinh-498.png
+benh:
+  - cảm mạo
+  - thủy thũng
+  - sốt rét
+  - mụn nhọt
+  - cảm cúm
+  - sốt
+  - sưng vú
+  - ngoại cảm biểu chứng
+  - phù thận cấp tính
+  - bệnh vàng da
+  - thân thể nóng
+  - bệnh trâu bò ỉa cứt trắng
+  - phế nhiệt sinh ho
+  - táo bón
+  - tiêu khát
 ---
 
 
@@ -915,3 +945,28 @@ Lấy một phần lá, 3 phần nước, đun và cô đặc. Viên bằng hạ
 
 Thanh cao 20g, mạch môn 15g, đảng sâm 12g, sinh địa 15g, gạo sống 15g, nước 800ml. Sắc và cô còn 300ml. Chia làm 3 lần uống trong ngày.
 
+![MUỐNG BIỂN — Hình 486](/images/hinh-486.png)
+
+![MUỐNG BIỂN — Hình 487](/images/hinh-487.png)
+
+![MUỐNG BIỂN — Hình 488](/images/hinh-488.png)
+
+![MUỐNG BIỂN — Hình 489](/images/hinh-489.png)
+
+![MUỐNG BIỂN — Hình 490](/images/hinh-490.png)
+
+![MUỐNG BIỂN — Hình 491](/images/hinh-491.png)
+
+![MUỐNG BIỂN — Hình 492](/images/hinh-492.png)
+
+![MUỐNG BIỂN — Hình 493](/images/hinh-493.png)
+
+![MUỐNG BIỂN — Hình 494](/images/hinh-494.png)
+
+![MUỐNG BIỂN — Hình 495](/images/hinh-495.png)
+
+![MUỐNG BIỂN — Hình 496](/images/hinh-496.png)
+
+![MUỐNG BIỂN — Hình 497](/images/hinh-497.png)
+
+![MUỐNG BIỂN — Hình 498](/images/hinh-498.png)

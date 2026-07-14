@@ -1,5 +1,5 @@
 ---
-title: "157. CÔN BỐ"
+title: "CÔN BỐ"
 weight: 157
 navWeight: 844
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa những bệnh mà y học khoa học xác định do thiếu iốt
 slug: "con-bo"
 description: "Còn gới là hải đới, nga chưởng thái."
+benh:
+  - bệnh tràng nhạc
 ---
 
 

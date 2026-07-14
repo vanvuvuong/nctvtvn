@@ -1,5 +1,5 @@
 ---
-title: "79. THỒM LỒM"
+title: "THỒM LỒM"
 weight: 79
 navWeight: 922
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "136. ĐƠN TRẮNG ()(\\*)()MỌ"
+title: "ĐƠN TRẮNG ()(\\*)()MỌ"
 weight: 136
 navWeight: 865
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,22 @@ keywords:
   - dùng làm thuốc cùa cây là thân rể
 slug: "don-trang-mo"
 description: "Còn gọi ìà lấu, bời lời, bồ chát, cây men sứa."
+benh:
+  - đau răng
+  - băng huyết
+  - lỵ có kết quả
+  - ỉa chảy
+  - sán
+  - trâu bò đầy trướng
+  - đi ỉa chảy
+  - lỵ trực trùng
+  - đau bụng
+  - sốt
+  - tê thấp
+  - chứng hư hàn mà sinh nấc
+  - nấc cụt
+  - lỵ mãn tính
+  - thấp khớp
 ---
 
 

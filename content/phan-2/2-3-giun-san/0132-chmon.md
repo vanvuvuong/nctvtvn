@@ -1,5 +1,5 @@
 ---
-title: "132. C,HMO₄N."
+title: "C,HMO₄N."
 weight: 132
 navWeight: 869
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

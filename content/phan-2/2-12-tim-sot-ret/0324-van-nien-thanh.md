@@ -1,5 +1,5 @@
 ---
-title: "324. VẠN NIÊN THANH 萬年青"
+title: "VẠN NIÊN THANH 萬年青"
 weight: 324
 navWeight: 677
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - 萬年青
 slug: "van-nien-thanh"
 description: "Còn gọi là thiên niên vận, đông bất điêu thảo, cửu tiết liên."
+images:
+  - /images/hinh-462.png
 ---
 
 
@@ -72,3 +74,4 @@ Tác dụng dược lý của hoạt chất vạn niên thanh đã được các
 
 Tuy trên thí nghiệm vạn niên thanh và hoạt chất rodein có tác dụng làm mạnh tim gần như digitoxin, lại mạnh hơn, nhưng vì tính chất tích luỹ cao cho nên còn cần nghiên cứu hơn nữa mới dùng được.
 
+![VẠN NIÊN THANH 萬年青 — Hình 462](/images/hinh-462.png)

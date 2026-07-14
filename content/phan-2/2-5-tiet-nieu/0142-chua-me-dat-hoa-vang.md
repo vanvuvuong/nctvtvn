@@ -1,5 +1,5 @@
 ---
-title: "142. CHƯA ME ĐẤT HOA VÀNG"
+title: "CHƯA ME ĐẤT HOA VÀNG"
 weight: 142
 navWeight: 859
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -18,6 +18,11 @@ keywords:
   - chữa viêm niệu đạo
 slug: "chua-me-dat-hoa-vang"
 description: "Cỏn gọi là tạc tương thảo, toan tương thảo, toan vị thảo, toan vị vị, chua me ba chìa, tam diệp toan."
+benh:
+  - xích bạch đới
+  - sốt
+  - bệnh scobut
+  - viêm niệu đạo
 ---
 
 

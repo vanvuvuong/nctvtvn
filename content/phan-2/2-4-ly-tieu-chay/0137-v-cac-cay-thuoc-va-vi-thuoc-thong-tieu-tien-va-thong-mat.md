@@ -1,5 +1,5 @@
 ---
-title: "137. V. CÁC CÂY THUỐC VÀ VỊ THUỐC THÔNG TIỂU TIỆN VÀ THÔNG MẬT"
+title: "V. CÁC CÂY THUỐC VÀ VỊ THUỐC THÔNG TIỂU TIỆN VÀ THÔNG MẬT"
 weight: 137
 navWeight: 864
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

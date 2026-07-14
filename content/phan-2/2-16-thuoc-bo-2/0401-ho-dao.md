@@ -1,5 +1,5 @@
 ---
-title: "401. HỒ ĐÀO 胡桃"
+title: "HỒ ĐÀO 胡桃"
 weight: 401
 navWeight: 600
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -20,6 +20,20 @@ keywords:
   - chữa 5 chứng trĩ
 slug: "ho-dao"
 description: "Còn gọi là hạnh đào, hoàng đào, óc chó, cát tuế tử, phan la tư."
+images:
+  - /images/hinh-677.png
+  - /images/hinh-678.png
+  - /images/hinh-679.png
+benh:
+  - khí hư
+  - bệnh ngoài da như chốc lở
+  - hư hàn
+  - đau lưng
+  - người già yếu
+  - thương phong
+  - cao huyết áp
+  - bệnh cao huyết áp
+  - phụ nữ cạn sữa
 ---
 
 
@@ -248,3 +262,8 @@ Trẻ con bị xích bạch lỵ:
 
 Dùng dầu vừng 5 hay 10g tùy theo tuổi hòa với mật ong cho uống.
 
+![HỒ ĐÀO 胡桃 — Hình 677](/images/hinh-677.png)
+
+![HỒ ĐÀO 胡桃 — Hình 678](/images/hinh-678.png)
+
+![HỒ ĐÀO 胡桃 — Hình 679](/images/hinh-679.png)

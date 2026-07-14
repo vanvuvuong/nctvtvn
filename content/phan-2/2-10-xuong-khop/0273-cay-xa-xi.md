@@ -1,5 +1,5 @@
 ---
-title: "273. CẦY XÁ XỊ"
+title: "CẦY XÁ XỊ"
 weight: 273
 navWeight: 728
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

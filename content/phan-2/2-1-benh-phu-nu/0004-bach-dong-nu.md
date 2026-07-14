@@ -1,5 +1,5 @@
 ---
-title: "4. BẠCH ĐỒNG NỮ 白侗女"
+title: "BẠCH ĐỒNG NỮ 白侗女"
 weight: 4
 navWeight: 997
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,8 @@ slug: "bach-dong-nu"
 description: "Còn gọi là bần trắng, vậy trắng, mấn trắng, mò trắng."
 images:
   - /images/8-bach-dong-nu.png
+  - /images/9-bach-dong-nu.png
+  - /images/10-xich-dong-nam.png
 ---
 
 _Còn gọi là_ bần trắng, vậy trắng, mấn trắng, mò trắng.
@@ -35,7 +37,7 @@ Cây nhỏ cao chừng 1m đến 1,5m. Lá rộng hình trứng, dài 10-20cm, r
 
 Vòi nhuỵ thường ngắn hơn chỉ nhị. Bầu thượng hình trứng. Quả hạch gần hình cầu, còn đài tồn tại bao ở ngoài (Hình 8).
 
-![bach-dong-nu-1](/images/8-bach-dong-nu.png)
+![BẠCH ĐỒNG NỮ 白侗女 — Hình 8](/images/8-bach-dong-nu.png)
 
 _Hình 8. Bạch đồng nữ - Clerodendron ƒragrans_
 
@@ -57,7 +59,7 @@ Cây bạch đồng nữ chưa thấy tài liệu nghiên cứu.
 
 Năm 1968, bộ môn dược liệu phối hợp với phòng đông y thực nghiệm Viện đông y nghiên cứu thấy bạch đồng nữ của ta có tác dụng hạ huyết áp do dãn mạch ngoại vi; ngoài ra có tác dụng lợi tiểu, có khả năng ngăn chặn phản ứng viêm do phenol gây ra trên tai thỏ.
 
-![bach-dong-nu-2](/images/9-bach-dong-nu.png)
+![BẠCH ĐỒNG NỮ 白侗女 — Hình 9](/images/9-bach-dong-nu.png)
 
 _Hình 9. Bạch đồng nữ - Clerodendron squamatum_
 
@@ -83,7 +85,7 @@ Các lương y khác thường chỉ dùng rễ cây bạch đồng nữ.
 
 Ngoài những công dụng kể trên, mới đây dựa trên kinh nghiệm nhân dân địa phương, bệnh viện Lạng Sơn đã dùng rễ cây bạch đồng nữ và xích đồng nam (hoa đỏ- xem phần chú thích ở dưới) chữa bệnh vàng da và niêm mạc, nhất là niêm mạc mắt bị vàng thẫm, kiểm nghiệm nước tiểu có sắc tố mật. Dùng dưới dạng thuốc sắc hay thuốc viên. Sắc: Rễ bạch đồng nữ 10g, nước 400ml, sắc còn một bát (200ml), chia 2 lần uống trong ngày, có thể dùng cả rễ và thân cây thái nhỏ 600g sắc với 5lít nước và cô đặc còn 90g, thêm tá dược vào làm thành viên (120viên), mỗi viên nặng 1g; ngày uống 8 viên chia làm hai lần (Y học thực hành 2-1962).
 
-![xich-dong-nam](/images/10-xich-dong-nam.png)
+![BẠCH ĐỒNG NỮ 白侗女 — Hình 10](/images/10-xich-dong-nam.png)
 
 _Hình 10. Xích đồng nam - Clerodendron infortunatum_
 

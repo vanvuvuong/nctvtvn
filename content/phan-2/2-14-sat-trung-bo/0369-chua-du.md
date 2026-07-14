@@ -1,5 +1,5 @@
 ---
-title: "369. CHÙA DÙ"
+title: "CHÙA DÙ"
 weight: 369
 navWeight: 632
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,40 @@ keywords:
   - chữa cảm cúm
 slug: "chua-du"
 description: "Còn gọi là tả hoàng đồ (Lào Cai), Dê sua tùa."
+images:
+  - /images/hinh-586.png
+  - /images/hinh-587.png
+  - /images/hinh-588.png
+  - /images/hinh-589.png
+  - /images/hinh-590.png
+  - /images/hinh-591.png
+  - /images/hinh-592.png
+  - /images/hinh-593.png
+  - /images/hinh-594.png
+  - /images/hinh-595.png
+  - /images/hinh-596.png
+  - /images/hinh-597.png
+  - /images/hinh-598.png
+  - /images/hinh-601.png
+  - /images/hinh-602.png
+  - /images/hinh-603.png
+  - /images/hinh-604.png
+benh:
+  - cảm cúm
+  - giun sán
+  - mụn nhọt
+  - rán cắn có ruột gà
+  - ho khan
+  - hen
+  - bệnh tê thấp
+  - bệnh scocbut
+  - ho viêm họng
+  - bí đái
+  - ho dưới dạng thuốc sắc
+  - đau nhức
+  - bệnh tiêu khát
+  - sốt
+  - ỉa chảy
 ---
 
 
@@ -864,3 +898,36 @@ Bạch quả định suyễn thang: Bạch quả 21 quả sao vàng, ma hoàng 1
 
 Chữa đi đái luôn, tiểu tiện quá nhiều, tiểu tiện trắng đục: Bạch quả 10 quả, 5 để sống, 5 để chín. Gom cả hai thứ vào mà ăn trong ngày.
 
+![CHÙA DÙ — Hình 586](/images/hinh-586.png)
+
+![CHÙA DÙ — Hình 587](/images/hinh-587.png)
+
+![CHÙA DÙ — Hình 588](/images/hinh-588.png)
+
+![CHÙA DÙ — Hình 589](/images/hinh-589.png)
+
+![CHÙA DÙ — Hình 590](/images/hinh-590.png)
+
+![CHÙA DÙ — Hình 591](/images/hinh-591.png)
+
+![CHÙA DÙ — Hình 592](/images/hinh-592.png)
+
+![CHÙA DÙ — Hình 593](/images/hinh-593.png)
+
+![CHÙA DÙ — Hình 594](/images/hinh-594.png)
+
+![CHÙA DÙ — Hình 595](/images/hinh-595.png)
+
+![CHÙA DÙ — Hình 596](/images/hinh-596.png)
+
+![CHÙA DÙ — Hình 597](/images/hinh-597.png)
+
+![CHÙA DÙ — Hình 598](/images/hinh-598.png)
+
+![CHÙA DÙ — Hình 601](/images/hinh-601.png)
+
+![CHÙA DÙ — Hình 602](/images/hinh-602.png)
+
+![CHÙA DÙ — Hình 603](/images/hinh-603.png)
+
+![CHÙA DÙ — Hình 604](/images/hinh-604.png)

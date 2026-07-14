@@ -1,5 +1,5 @@
 ---
-title: "60. của dung dịch liên kiều"
+title: "của dung dịch liên kiều"
 weight: 60
 navWeight: 941
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

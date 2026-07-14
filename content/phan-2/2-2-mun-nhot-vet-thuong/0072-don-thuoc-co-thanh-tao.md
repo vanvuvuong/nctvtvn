@@ -1,5 +1,5 @@
 ---
-title: "72. Đơn thuốc có thanh táo"
+title: "Đơn thuốc có thanh táo"
 weight: 72
 navWeight: 929
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "212. CÂY CHO CURARƠ"
+title: "CÂY CHO CURARƠ"
 weight: 212
 navWeight: 789
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,23 @@ keywords:
   - làm thuốc người ta dùng nhân hạt trẩu đốt thành than
 slug: "cay-cho-curaro"
 description: "Curarơ là những chế phẩm phức tạp chủ yếu chế từ một số cây thuộc chi Mã tiền (Strychnos) họ Mã tiền Loganiaceae như Strychnos toxifera, S. gubleri, S…"
+images:
+  - /images/hinh-259a.png
+  - /images/hinh-259b.png
+  - /images/hinh-260.png
+benh:
+  - uốn ván vì nó loại trừ
+  - thực tiễn
+  - điều kinh
+  - sốt
+  - về mặt lý thuyết
+  - ngộ độc
+  - ghẻ lở
+  - xuất khẩu
+  - chốc lở
+  - đau
+  - tim
+  - bệnh tim
 ---
 
 
@@ -301,3 +318,8 @@ Chú thích:
 
 Loài Ganoderma lucidum được xác định là một loại thuốc đông y quý mang tên linh chi (xem vị này).
 
+![CÂY CHO CURARƠ — Hình 259](/images/hinh-259a.png)
+
+![CÂY CHO CURARƠ — Hình 259](/images/hinh-259b.png)
+
+![CÂY CHO CURARƠ — Hình 260](/images/hinh-260.png)

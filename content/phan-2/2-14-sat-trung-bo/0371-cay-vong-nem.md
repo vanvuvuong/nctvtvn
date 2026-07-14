@@ -1,5 +1,5 @@
 ---
-title: "371. CÂY VÔNG NEM 刺桐"
+title: "CÂY VÔNG NEM 刺桐"
 weight: 371
 navWeight: 630
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -20,6 +20,27 @@ keywords:
   - an thần vì gây ngủ
 slug: "cay-vong-nem"
 description: "Còn có tên là hải đồng bì, thích đồng bì."
+images:
+  - /images/hinh-610.png
+  - /images/hinh-611.png
+  - /images/hinh-612.png
+  - /images/hinh-613.png
+  - /images/hinh-614.png
+  - /images/hinh-615.png
+  - /images/hinh-616.png
+benh:
+  - trĩ
+  - sốt
+  - lưng gối đau nhức
+  - rắn cắn
+  - viêm phế quản khó thở
+  - hư phiền không ngủ
+  - giun
+  - hen
+  - cảm mạo
+  - huyết hư sinh
+  - đau dạ dày
+  - bệnh nhức xương
 ---
 
 
@@ -416,3 +437,16 @@ Rễ cây xấu hổ, thái thành từng miếng mỏng phơi khô. Ngày dùng
 
 Cần chú ý nghiên cứu thêm.
 
+![CÂY VÔNG NEM 刺桐 — Hình 610](/images/hinh-610.png)
+
+![CÂY VÔNG NEM 刺桐 — Hình 611](/images/hinh-611.png)
+
+![CÂY VÔNG NEM 刺桐 — Hình 612](/images/hinh-612.png)
+
+![CÂY VÔNG NEM 刺桐 — Hình 613](/images/hinh-613.png)
+
+![CÂY VÔNG NEM 刺桐 — Hình 614](/images/hinh-614.png)
+
+![CÂY VÔNG NEM 刺桐 — Hình 615](/images/hinh-615.png)
+
+![CÂY VÔNG NEM 刺桐 — Hình 616](/images/hinh-616.png)

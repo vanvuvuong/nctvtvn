@@ -1,5 +1,5 @@
 ---
-title: "266. CẢI BẮP"
+title: "CẢI BẮP"
 weight: 266
 navWeight: 735
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,18 @@ keywords:
   - chữa bệnh đau dạ dày thừa nước chua
 slug: "cai-bap"
 description: "Tên khoa học Brơssica oỉeracea L. var capitata DC."
+benh:
+  - đầu choáng mắt hoa
+  - bệnh đau dạ dày thừa nước
+  - lành khá mau chóng các ổ
+  - loét
+  - bàng nước ép cải bắp
+  - dạ dầy
+  - đau lưng
+  - phong thấp
+  - bệnh phụ nữ khí hư
+  - phong hàn
+  - ngang lưng đau nhức kinh nghiệm
 ---
 
 

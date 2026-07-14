@@ -1,5 +1,5 @@
 ---
-title: "193. CÂY BA GẠC ẤN ĐỘ"
+title: "CÂY BA GẠC ẤN ĐỘ"
 weight: 193
 navWeight: 808
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

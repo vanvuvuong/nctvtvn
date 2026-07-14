@@ -1,5 +1,5 @@
 ---
-title: "251. KHOAI RIỀNG"
+title: "KHOAI RIỀNG"
 weight: 251
 navWeight: 750
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

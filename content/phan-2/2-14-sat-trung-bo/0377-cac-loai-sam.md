@@ -1,5 +1,5 @@
 ---
-title: "377. CÁC LOẠI SÂM"
+title: "CÁC LOẠI SÂM"
 weight: 377
 navWeight: 624
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,34 @@ keywords:
   - chữa những trường hợp mạch suy
 slug: "cac-loai-sam"
 description: "Đông y coi sâm là vị thuốc đứng đầu các vị thuốc bổ, theo thứ tự sâm, nhung, quế, phụ."
+images:
+  - /images/hinh-621.png
+  - /images/hinh-622.png
+  - /images/hinh-623.png
+  - /images/hinh-624.png
+  - /images/hinh-625.png
+  - /images/hinh-626.png
+  - /images/hinh-628.png
+  - /images/hinh-629.png
+  - /images/hinh-630.png
+  - /images/hinh-631.png
+  - /images/hinh-632.png
+benh:
+  - phế hư sinh ho suyễn
+  - cơ thể quá suy nhược
+  - trẻ con đổ mồ hôi trộm
+  - tỳ hư
+  - mụn mủ
+  - sốt
+  - viêm cổ họng
+  - ho dưới dạng thuốc sắc
+  - bệnh ho
+  - bệnh tạng bạch huyết
+  - phế âm không đủ
+  - tử cung xuất huyết
+  - bệnh về máu dùng
+  - ung thũng
+  - đau đớn
 ---
 
 
@@ -977,3 +1005,24 @@ Có rải rác ở khắp Việt Nam, Petelot đã thấy cây này ở vùng r�
 
 Chưa thấy khai thác ở Việt Nam. Ở Malaixia thân rễ được dùng trong nước và xuất khẩu sang Trung Quốc với tên quản trọng làm thuốc bổ và chữa sốt.
 
+![CÁC LOẠI SÂM — Hình 621](/images/hinh-621.png)
+
+![CÁC LOẠI SÂM — Hình 622](/images/hinh-622.png)
+
+![CÁC LOẠI SÂM — Hình 623](/images/hinh-623.png)
+
+![CÁC LOẠI SÂM — Hình 624](/images/hinh-624.png)
+
+![CÁC LOẠI SÂM — Hình 625](/images/hinh-625.png)
+
+![CÁC LOẠI SÂM — Hình 626](/images/hinh-626.png)
+
+![CÁC LOẠI SÂM — Hình 628](/images/hinh-628.png)
+
+![CÁC LOẠI SÂM — Hình 629](/images/hinh-629.png)
+
+![CÁC LOẠI SÂM — Hình 630](/images/hinh-630.png)
+
+![CÁC LOẠI SÂM — Hình 631](/images/hinh-631.png)
+
+![CÁC LOẠI SÂM — Hình 632](/images/hinh-632.png)

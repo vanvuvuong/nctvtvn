@@ -1,5 +1,5 @@
 ---
-title: "177. C„H“O₇SO₃K."
+title: "C„H“O₇SO₃K."
 weight: 177
 navWeight: 824
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,9 @@ keywords:
   - làm thuốc săn
 slug: "chosok"
 description: "Chất hyperin tan trong nước, độ chảy 236- 238u."
+benh:
+  - giun
+  - rắn cắn
 ---
 
 

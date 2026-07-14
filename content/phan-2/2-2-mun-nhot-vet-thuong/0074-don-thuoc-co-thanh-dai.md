@@ -1,5 +1,5 @@
 ---
-title: "74. Đơn thuốc có thanh đại"
+title: "Đơn thuốc có thanh đại"
 weight: 74
 navWeight: 927
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

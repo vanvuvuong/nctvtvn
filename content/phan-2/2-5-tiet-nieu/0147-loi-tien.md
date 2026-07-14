@@ -1,5 +1,5 @@
 ---
-title: "147. LÕI TIỂN"
+title: "LÕI TIỂN"
 weight: 147
 navWeight: 854
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,9 @@ keywords:
   - chữa các triệu chúng tiểu tiện khó khăn
 slug: "loi-tien"
 description: "Còn gọi lả phấn cơ đốc."
+benh:
+  - vàng da
+  - sốt
 ---
 
 

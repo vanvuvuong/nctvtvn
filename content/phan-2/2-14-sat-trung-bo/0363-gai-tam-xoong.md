@@ -1,5 +1,5 @@
 ---
-title: "363. GAI TẦM XOỌNG 酒饼簕"
+title: "GAI TẦM XOỌNG 酒饼簕"
 weight: 363
 navWeight: 638
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

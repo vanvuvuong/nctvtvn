@@ -1,5 +1,5 @@
 ---
-title: "276. MẬT GẤU MBS"
+title: "MẬT GẤU MBS"
 weight: 276
 navWeight: 725
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -18,6 +18,11 @@ keywords:
   - chữa những chồ sưng đau do ngã
 slug: "mat-gau-mbs"
 description: "Còn gọi ìà hùng đởm."
+benh:
+  - mắt đỏ có màng
+  - thấp nhiệt da vàng
+  - đau mắt
+  - mắt sưng đỏ
 ---
 
 

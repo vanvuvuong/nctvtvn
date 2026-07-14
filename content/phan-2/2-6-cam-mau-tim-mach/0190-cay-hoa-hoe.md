@@ -1,5 +1,5 @@
 ---
-title: "190. CÂY HOA HÒE"
+title: "CÂY HOA HÒE"
 weight: 190
 navWeight: 811
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa xích bạch lỵ
 slug: "cay-hoa-hoe"
 description: "Còn gọi là hòe mễ, hòe hoa mễ, hoè hoa."
+benh:
+  - xích bạch lỵ
 ---
 
 

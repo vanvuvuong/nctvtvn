@@ -1,5 +1,5 @@
 ---
-title: "254. CHÚT CHÍT"
+title: "CHÚT CHÍT"
 weight: 254
 navWeight: 747
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,13 @@ keywords:
   - làm thuốc nhuận tràng
 slug: "chut-chit"
 description: "Còn gọi là trút trít, lưỡi bò, ngưu thiệt, dương đề."
+benh:
+  - hay rửa các mụn ghẻ
+  - bệnh táo bón
+  - hạ lỵ
+  - kém ăn
+  - trẻ con cam tích
+  - táo bón
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "414. NƯỚC TIỂU"
+title: "NƯỚC TIỂU"
 weight: 414
 navWeight: 587
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,8 @@ keywords:
   - chữa sưng mộng răng chảy máu
 slug: "nuoc-tieu"
 description: "Còn gọi là đồng tiện, nhân niệu, luân hồi tửu, hoàn nguyên thang."
+benh:
+  - hàn nhiệt
 ---
 
 

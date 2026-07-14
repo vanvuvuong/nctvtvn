@@ -1,5 +1,5 @@
 ---
-title: "351. CÂY DÂU"
+title: "CÂY DÂU"
 weight: 351
 navWeight: 650
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,22 @@ keywords:
   - chữa cao huyết áp
 slug: "cay-dau"
 description: "Còn gọi là mạy môn (Thổ), dâu cang (Mèo), tầm tang."
+benh:
+  - sốt
+  - bệnh kém ngủ
+  - ho lâu ngày
+  - cao huyết áp
+  - đau lưng
+  - bệnh trẻ con bị đau mắt
+  - phong ôn biểu chứng
+  - gân xương đau nhức
+  - phong hàn thấp tì
+  - phế nhiệt sinh ho
+  - bệnh tiêu khát
+  - di tinh
+  - bệnh ho lâu năm
+  - sâu răng
+  - bệnh ho
 ---
 
 

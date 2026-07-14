@@ -1,5 +1,5 @@
 ---
-title: "409. TÍCH DƯƠNG"
+title: "TÍCH DƯƠNG"
 weight: 409
 navWeight: 592
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,12 @@ keywords:
   - chữa những bệnh tương tự
 slug: "tich-duong"
 description: "Tên khoa học Caulis Cynomorli-Herba Cynomorli"
+images:
+  - /images/hinh-707.png
+  - /images/hinh-708.png
+benh:
+  - bệnh yếu sinh lý
+  - suy yếu
 ---
 
 
@@ -84,3 +90,6 @@ Trong nhân dân người ta dùng rễ củ tầm sét làm thuốc bổ, tăng
 
 Tại Ấn Độ, người ta dùng củ tầm sét làm thuốc nhuận tẩy nhẹ. Còn dùng làm thuốc chữa suy yếu, rong kinh. Ngoài ra còn dùng làm thuốc lợi sữa và thông mật. Theo Guerrero, tại Philipin người ta cũng dùng để chữa những bệnh tương tự.
 
+![TÍCH DƯƠNG — Hình 707](/images/hinh-707.png)
+
+![TÍCH DƯƠNG — Hình 708](/images/hinh-708.png)

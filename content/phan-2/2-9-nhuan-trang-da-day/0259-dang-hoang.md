@@ -1,5 +1,5 @@
 ---
-title: "259. ĐẰNG HOÀNG"
+title: "ĐẰNG HOÀNG"
 weight: 259
 navWeight: 742
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,9 @@ keywords:
   - dùng làm thuốc tẩy nhẹ
 slug: "dang-hoang"
 description: "Còn gọi là vàng nhựa, vàng nghệ, gommegutte, đom rông, cam rông, roeng (Cămpuchia)."
+benh:
+  - hơn
+  - cảm
 ---
 
 

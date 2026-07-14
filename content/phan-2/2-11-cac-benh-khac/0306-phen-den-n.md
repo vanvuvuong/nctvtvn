@@ -1,5 +1,5 @@
 ---
-title: "306. PHÈN ĐEN n ,"
+title: "PHÈN ĐEN n ,"
 weight: 306
 navWeight: 695
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,10 @@ keywords:
   - chữa chảy máu chân răng
 slug: "phen-den-n"
 description: "Còn gọi là nỗ."
+benh:
+  - lên đâu
+  - chảy máu chân răng
+  - rắn độc cắn
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "171. CÂY LÁ TIẾT DÊ"
+title: "CÂY LÁ TIẾT DÊ"
 weight: 171
 navWeight: 830
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -18,6 +18,9 @@ keywords:
   - chữa những trường hợp đi tiểu tiện khó khăn
 slug: "cay-la-tiet-de"
 description: "Còn gọi là cây mối tròn, cây mối nám."
+benh:
+  - sỏi mật
+  - tê thấp
 ---
 
 

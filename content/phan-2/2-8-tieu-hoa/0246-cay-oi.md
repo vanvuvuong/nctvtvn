@@ -1,5 +1,5 @@
 ---
-title: "246. CÂY ỔI"
+title: "CÂY ỔI"
 weight: 246
 navWeight: 755
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - chữa đau bụng đi ngoài kinh nghiệm lâu đời
 slug: "cay-oi"
 description: "Còn gọi ià ủi, phan thạch lựu, guajava. Thuộc họ Sim Myrtaceae."
+benh:
+  - đi ỉa lỏng
+  - đau bụng đi ngoài kinh nghiệm
+  - đi ngoài
 ---
 
 

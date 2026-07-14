@@ -1,5 +1,5 @@
 ---
-title: "243. KHA TỬ Hí"
+title: "KHA TỬ Hí"
 weight: 243
 navWeight: 758
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - chữa đi ỉa lỏng lâu ngày
 slug: "kha-tu-hi"
 description: "Còn gọi là cây chiều liêu, myrobolan de coin- merce ."
+benh:
+  - đi ỉa lỏng lâu ngày
+  - lỵ kinh niên
+  - ho mất tiếng
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "112. TÙNG HƯƠNG"
+title: "TÙNG HƯƠNG"
 weight: 112
 navWeight: 889
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,11 @@ keywords:
   - chữa những mụn nhọt lâu ngày không liền miệng
 slug: "tung-huong"
 description: "Còn gọi là tùng chi, tùng cao, tùng giao."
+benh:
+  - mụn nhọt
+  - chuẩn thảng
+  - đau sưng tiêu độc
+  - rắn cắn
 ---
 
 

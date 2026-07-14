@@ -1,5 +1,5 @@
 ---
-title: "216. GỪNG GIÓ"
+title: "GỪNG GIÓ"
 weight: 216
 navWeight: 785
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,16 @@ keywords:
   - chữa những trường hợp
 slug: "gung-gio"
 description: "Còn gọi là riềng gió, ngải xanh, ngải mặt trời, riềng dại, khưhet phtu, prateal vong atit (Cămpuchia), gingembre fou (Pháp), phong khương (Trung Quốc)."
+images:
+  - /images/hinh-277.png
+benh:
+  - giun sán
+  - đau nhức răng
+  - sốt
+  - răng đau
+  - đi lỏng
+  - bệnh đầy bụng
+  - đau bụng
 ---
 
 
@@ -261,3 +271,4 @@ Hậu phác 6g, chỉ thực 3g, đại hoàng 3g, nước 600ml, sắc còn 300
 
 Hậu phác, tẩm nước gừng rồi nướng hay sao vàng, tán nhỏ. Ngày uổng 2 hay 3 lần, mỗi lần 3- 4g bột này.
 
+![GỪNG GIÓ — Hình 277](/images/hinh-277.png)

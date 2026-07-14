@@ -1,5 +1,5 @@
 ---
-title: "387. KHIẾM THỰC 芡實"
+title: "KHIẾM THỰC 芡實"
 weight: 387
 navWeight: 614
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,17 @@ keywords:
   - chữa bệnh thần kinh suy nhược
 slug: "khiem-thuc"
 description: "Còn có tên kê đầu, khiếm."
+benh:
+  - di tinh
+  - bệnh thần kinh suy nhược
+  - củ mài
+  - dinh dưỡng
+  - khỏi một trường hợp đi đái
+  - tả lỵ lâu ngày
+  - chân tay yếu mỏi
+  - bệnh liệt dương
+  - thận hư tinh lanh
+  - đi đái đêm
 ---
 
 

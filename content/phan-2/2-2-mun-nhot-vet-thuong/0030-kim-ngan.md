@@ -1,5 +1,5 @@
 ---
-title: "30. KIM NGÂN 金銀"
+title: "KIM NGÂN 金銀"
 weight: 30
 navWeight: 971
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

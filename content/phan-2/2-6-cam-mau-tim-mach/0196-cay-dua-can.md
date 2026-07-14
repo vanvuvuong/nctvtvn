@@ -1,5 +1,5 @@
 ---
-title: "196. CÂY DỪA CẠN"
+title: "CÂY DỪA CẠN"
 weight: 196
 navWeight: 805
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,11 @@ keywords:
   - chữa bệnh đái đường được ghi nhận ở ấn độ
 slug: "cay-dua-can"
 description: "Còn gọi là trường xuân, hoa hải đằng, bông dừa, dương giác, pervenche de Madagascar."
+benh:
+  - đái đường
+  - sốt
+  - bệnh đái đường được ghi nhận
+  - huyết áp
 ---
 
 

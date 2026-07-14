@@ -1,5 +1,5 @@
 ---
-title: "292. BƯỚM BẠC"
+title: "BƯỚM BẠC"
 weight: 292
 navWeight: 709
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,8 @@ keywords:
   - chữa tê thấp
 slug: "buom-bac"
 description: "Còn gọi là bướm bướm, hoa bướm, bứa chừa (Thái)."
+benh:
+  - tê thấp
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "166. THỐT NỐT"
+title: "THỐT NỐT"
 weight: 166
 navWeight: 835
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,9 @@ keywords:
   - chữa ăn vào nỏn ra
 slug: "thot-not"
 description: "Còn gọi là thnot, (Cảmpuchia), mak tan kok (Lào), palmier à sucre, rondier."
+benh:
+  - sốt
+  - vàng da
 ---
 
 

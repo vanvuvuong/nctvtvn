@@ -1,5 +1,5 @@
 ---
-title: "192. CÂY BA GẠC[5"
+title: "CÂY BA GẠC[5"
 weight: 192
 navWeight: 809
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,9 @@ keywords:
   - trị có thể kéo dài nhưng thường
 slug: "cay-ba-gac5"
 description: "Còn có tên là la phu mộc, san to (Sapa), lạc toọc (Cao Bằng)."
+benh:
+  - huyết áp ở việt nam
+  - cao huyết áp
 ---
 
 

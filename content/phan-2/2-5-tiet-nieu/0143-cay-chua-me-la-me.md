@@ -1,5 +1,5 @@
 ---
-title: "143. CÂY CHUA ME LÁ ME"
+title: "CÂY CHUA ME LÁ ME"
 weight: 143
 navWeight: 858
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa bênh đái đường như ờ philipin
 slug: "cay-chua-me-la-me"
 description: "Còn gọi lá lá chua me."
+benh:
+  - bênh đái đường như ờ philipin
 ---
 
 

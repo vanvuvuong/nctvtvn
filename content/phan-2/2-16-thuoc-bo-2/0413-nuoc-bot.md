@@ -1,5 +1,5 @@
 ---
-title: "413. NƯỚC BỌT"
+title: "NƯỚC BỌT"
 weight: 413
 navWeight: 588
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,14 @@ keywords:
   - trị mụn mọc ở má của một thanh niên 20 xuân xanh thần tình
 slug: "nuoc-bot"
 description: "Còn gọi là nước dãi, nước miếng, thần thuỷ (nước thần), quỳnh dịch (nước ngọc), ngọc tương (nước ngọc), kim tân ngọc dịch, quỳnh dịch dưỡng sinh pháp…"
+benh:
+  - mụn nhọt sưng đau
+  - cao bầy cách trị mụn mọc
+  - lại không tốn tiền
+  - nhọt sưng đau
+  - mụn hạt cơm
+  - khỏi bằng cách buộc chỉ
+  - kiểu
 ---
 
 

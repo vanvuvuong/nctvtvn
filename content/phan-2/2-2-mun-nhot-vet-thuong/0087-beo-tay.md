@@ -1,5 +1,5 @@
 ---
-title: "87. BÈO TÂY"
+title: "BÈO TÂY"
 weight: 87
 navWeight: 914
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

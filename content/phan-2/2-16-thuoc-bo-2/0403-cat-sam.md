@@ -1,5 +1,5 @@
 ---
-title: "403. CÁT SÂM"
+title: "CÁT SÂM"
 weight: 403
 navWeight: 598
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,13 @@ keywords:
   - thuốc bổ dùng cho những người yếu
 slug: "cat-sam"
 description: "Còn gọi là sâm nam, sâm chuột, ngưu đại lực, sơn liên ngẫu, đại lực thự."
+images:
+  - /images/hinh-681.png
+  - /images/hinh-682.png
+benh:
+  - đau nhức thấp khớp
+  - sốt
+  - rắn độc cắn
 ---
 
 
@@ -117,3 +124,6 @@ Thuốc hãm bổ:
 
 Toàn cây công cộng thái nhỏ 45g, vỏ cam và hạt mùi tán nhỏ 4g, nước sôi 300ml. Mỗi lần uống 45 đến 60g nước hãm này. Ngày uống hai hay ba lần.
 
+![CÁT SÂM — Hình 681](/images/hinh-681.png)
+
+![CÁT SÂM — Hình 682](/images/hinh-682.png)

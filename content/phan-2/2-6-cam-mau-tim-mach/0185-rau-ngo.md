@@ -1,5 +1,5 @@
 ---
-title: "185. RAU NGỔ"
+title: "RAU NGỔ"
 weight: 185
 navWeight: 816
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "100. Đơn thuốc có găng tu hú"
+title: "Đơn thuốc có găng tu hú"
 weight: 100
 navWeight: 901
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

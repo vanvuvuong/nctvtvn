@@ -1,5 +1,5 @@
 ---
-title: "91. Axit chaulmoogric"
+title: "Axit chaulmoogric"
 weight: 91
 navWeight: 910
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

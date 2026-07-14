@@ -1,5 +1,5 @@
 ---
-title: "44. Những đơn thuốc dùng bèo cái trong nhân dân"
+title: "Những đơn thuốc dùng bèo cái trong nhân dân"
 weight: 44
 navWeight: 957
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

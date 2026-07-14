@@ -1,5 +1,5 @@
 ---
-title: "55. Đơn thuốc có cây ké hoa vàng trong nhân dân"
+title: "Đơn thuốc có cây ké hoa vàng trong nhân dân"
 weight: 55
 navWeight: 946
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

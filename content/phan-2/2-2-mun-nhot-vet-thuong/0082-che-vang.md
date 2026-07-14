@@ -1,5 +1,5 @@
 ---
-title: "82. CHÈ VẰNG"
+title: "CHÈ VẰNG"
 weight: 82
 navWeight: 919
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

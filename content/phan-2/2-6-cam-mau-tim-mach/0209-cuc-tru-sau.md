@@ -1,5 +1,5 @@
 ---
-title: "209. CÚC TRỪ SÂU"
+title: "CÚC TRỪ SÂU"
 weight: 209
 navWeight: 792
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

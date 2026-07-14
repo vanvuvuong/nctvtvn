@@ -1,5 +1,5 @@
 ---
-title: "249. PREAH PHNEOU"
+title: "PREAH PHNEOU"
 weight: 249
 navWeight: 752
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa đi ỉa lỏng
 slug: "preah-phneou"
 description: "Còn gọi là Chiều liêu, preas phnau, pras phneou (Campuchia)"
+benh:
+  - đi ỉa lỏng
 ---
 
 

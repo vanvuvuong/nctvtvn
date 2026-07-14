@@ -1,5 +1,5 @@
 ---
-title: "101. HUYẾT KIỆT"
+title: "HUYẾT KIỆT"
 weight: 101
 navWeight: 900
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

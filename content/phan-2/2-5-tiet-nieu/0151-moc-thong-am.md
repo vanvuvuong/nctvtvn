@@ -1,5 +1,5 @@
 ---
-title: "151. MỘC THÔNG ẠM"
+title: "MỘC THÔNG ẠM"
 weight: 151
 navWeight: 850
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,16 @@ keywords:
   - chữa thấp nhiệt lâm bệnh
 slug: "moc-thong-am"
 description: "Mộc thồng là một vị thuốc ta vừa nhập cùa Trung Quốc, vừa khai thác trong nước. Nhưng ngay mộc thông của Trung Quốc cũng không thống nhất. Người ta đã…"
+benh:
+  - thấp nhiệt lâm
+  - kinh nguyệt bế tắc
+  - phù thũng
+  - phân đạm kém
+  - bệnh huyết hấp trùng
+  - rán độc cắn
+  - mụn nhọt mẩn ngứa
+  - bệnh thủy thũng
+  - bệnh bụng trướng
 ---
 
 

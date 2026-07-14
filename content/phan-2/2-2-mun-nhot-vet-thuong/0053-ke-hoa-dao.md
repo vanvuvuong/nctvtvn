@@ -1,5 +1,5 @@
 ---
-title: "53. KÉ HOA ĐÀO"
+title: "KÉ HOA ĐÀO"
 weight: 53
 navWeight: 948
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

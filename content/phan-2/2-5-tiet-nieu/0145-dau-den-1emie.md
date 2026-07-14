@@ -1,5 +1,5 @@
 ---
-title: "145. ĐẬU ĐEN 1ẼMIE"
+title: "ĐẬU ĐEN 1ẼMIE"
 weight: 145
 navWeight: 856
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

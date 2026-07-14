@@ -1,5 +1,5 @@
 ---
-title: "54. KÉ HOA VÀNG"
+title: "KÉ HOA VÀNG"
 weight: 54
 navWeight: 947
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

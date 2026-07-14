@@ -1,5 +1,5 @@
 ---
-title: "201. VIII. CÁC CÂY VÀ VỊ THUÕC CÓ CHẤT ĐỘC"
+title: "VIII. CÁC CÂY VÀ VỊ THUÕC CÓ CHẤT ĐỘC"
 weight: 201
 navWeight: 800
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

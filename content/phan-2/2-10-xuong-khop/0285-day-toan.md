@@ -1,5 +1,5 @@
 ---
-title: "285. DÂY TOÀN"
+title: "DÂY TOÀN"
 weight: 285
 navWeight: 716
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

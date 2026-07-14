@@ -1,5 +1,5 @@
 ---
-title: "244. MẢNG CỤT"
+title: "MẢNG CỤT"
 weight: 244
 navWeight: 757
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,10 @@ keywords:
   - chữa đau bụng đi ỉa lỏng
 slug: "mang-cut"
 description: "Còn gọi là sơn trúc tử, mangoustanier."
+benh:
+  - đi ỉa lỏng
+  - đau bụng đi ỉa lỏng
+  - bệnh hoàng đản
 ---
 
 

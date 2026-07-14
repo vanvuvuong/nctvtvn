@@ -1,5 +1,5 @@
 ---
-title: "165. CÂY XƯƠNG SÁO"
+title: "CÂY XƯƠNG SÁO"
 weight: 165
 navWeight: 836
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa cảm mạo
 slug: "cay-xuong-sao"
 description: "Còn gọi là cây thạch đen, lương phấn thảo."
+benh:
+  - cảm mạo
 ---
 
 

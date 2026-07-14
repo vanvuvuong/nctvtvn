@@ -1,5 +1,5 @@
 ---
-title: "349. CÂY THUỐC PHIỆN 阿片"
+title: "CÂY THUỐC PHIỆN 阿片"
 weight: 349
 navWeight: 652
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,22 @@ keywords:
   - chữa các bệnh ho lâu ngày không khỏi
 slug: "cay-thuoc-phien"
 description: "Còn có tên là phù dung, anh tử túc, a phiến, túc xác, anh túc xác, cù túc xác."
+benh:
+  - cơn co giật
+  - hen xuyễn
+  - kinh sợ
+  - hen hoa
+  - giun
+  - chai chân
+  - ho như nhân hạt mơ
+  - huyết ứ
+  - thuỷ thũng
+  - ho gà
+  - chai chân có tác dụng
+  - cảm cúng
+  - ho hen
+  - ho có húng chanh dùng
+  - sốt
 ---
 
 

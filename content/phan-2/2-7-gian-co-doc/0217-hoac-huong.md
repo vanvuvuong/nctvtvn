@@ -1,5 +1,5 @@
 ---
-title: "217. HOẮC HƯƠNG 藿香"
+title: "HOẮC HƯƠNG 藿香"
 weight: 217
 navWeight: 784
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,20 @@ keywords:
   - chữa ăn uống không tiêu
 slug: "hoac-huong"
 description: "Còn gọi là quảng hoắc hương, thổ hoắc hương."
+images:
+  - /images/hinh-280.png
+  - /images/hinh-281.png
+  - /images/hinh-282.png
+  - /images/hinh-284.png
+benh:
+  - cảm mạo
+  - ăn uống không tiêu
+  - sốt
+  - đau dạ dày
+  - đau bụng
+  - trẻ con bú sữa bị nôn
+  - nóng sốt
+  - nôn mửa
 ---
 
 
@@ -318,3 +332,10 @@ Ngoài ra còn daucocosterin (hay β sitoterolglucozit) C₃₅H₆₀O₆ (C. A
 
 Acanthozit B R=+D glucoza
 
+![HOẮC HƯƠNG 藿香 — Hình 280](/images/hinh-280.png)
+
+![HOẮC HƯƠNG 藿香 — Hình 281](/images/hinh-281.png)
+
+![HOẮC HƯƠNG 藿香 — Hình 282](/images/hinh-282.png)
+
+![HOẮC HƯƠNG 藿香 — Hình 284](/images/hinh-284.png)

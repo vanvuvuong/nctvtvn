@@ -1,5 +1,5 @@
 ---
-title: "391. QUẾ TRUNG QUỐC玉桂"
+title: "QUẾ TRUNG QUỐC玉桂"
 weight: 391
 navWeight: 610
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

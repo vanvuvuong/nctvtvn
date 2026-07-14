@@ -1,5 +1,5 @@
 ---
-title: "23. THƯỢC DƯỢC 芍药"
+title: "THƯỢC DƯỢC 芍药"
 weight: 23
 navWeight: 978
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -27,6 +27,7 @@ slug: "thuoc-duoc"
 description: "Trên thị trường có hai loại thược dược:"
 images:
   - /images/29-bach-thuoc.png
+  - /images/30-thao-thuoc-duoc.png
 ---
 
 Trên thị trường có hai loại thược dược:
@@ -50,7 +51,7 @@ Bạch thược (Radix Paeoniae albae) là rễ phơi hay sấy khô của cây 
 
 Bạch thược hay thược dược là một cây sống lâu năm, cao 50-80cm, rễ củ to, thân mọc thẳng đứng, không có lông. Lá mọc so le, xẻ sâu thành 3-7 thùy hình trứng dài 8-12cm, rộng 2-4 cm, mép nguyên, phía cuống hơi hồng. Hoa rất to mọc đơn độc, cánh hoa màu trắng. Mùa hoa ở Trung Quốc vào các tháng 5-7, mùa quả vào các tháng 6-7 (Hình 29).
 
-![bach-thuoc](/images/29-bach-thuoc.png)
+![THƯỢC DƯỢC 芍药 — Hình 29](/images/29-bach-thuoc.png)
 
 Hình 29. Bạch thược - Paeonia tactiflora
 
@@ -98,7 +99,7 @@ Xích thược _Radix Paeoniae rubrae_ là rễ phơi hay sấy khô của 3 lo�
 
 Tất cả xích thược đều do cây mọc hoang cung cấp. Vào các tháng 3-5 hay các tháng 5-10 đào về, trừ bỏ thân rễ và rễ nhỏ, chia thành từng rễ to nhỏ riêng biệt, rửa sạch đất cát; phơi khô là được.
 
-![thao-thuoc-duoc](/images/30-thao-thuoc-duoc.png)
+![THƯỢC DƯỢC 芍药 — Hình 30](/images/30-thao-thuoc-duoc.png)
 
 Hình 30. Thảo thược dược - Paeonia obovata
 

@@ -1,5 +1,5 @@
 ---
-title: "339. DÂY QUAI BỊ"
+title: "DÂY QUAI BỊ"
 weight: 339
 navWeight: 662
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,15 @@ keywords:
   - chữa bệnh này
 slug: "day-quai-bi"
 description: "Còn gọi là dây dác, para (Phan Rang)."
+images:
+  - /images/hinh-517.png
+  - /images/hinh-518.png
+  - /images/hinh-519.png
+  - /images/hinh-521.png
+  - /images/hinh-522.png
+benh:
+  - sốt
+  - phong nhiệt
 ---
 
 
@@ -327,3 +336,12 @@ Chú thích:
 
 Ngoài cây ngâu nói trên người ta còn dùng cả hoa và lá cây ngâu dại-Aglaia odorata Lour. var. chaudocensis (Pierre) Pell. hay Aglaia chaudocensis Pierre.
 
+![DÂY QUAI BỊ — Hình 517](/images/hinh-517.png)
+
+![DÂY QUAI BỊ — Hình 518](/images/hinh-518.png)
+
+![DÂY QUAI BỊ — Hình 519](/images/hinh-519.png)
+
+![DÂY QUAI BỊ — Hình 521](/images/hinh-521.png)
+
+![DÂY QUAI BỊ — Hình 522](/images/hinh-522.png)

@@ -1,5 +1,5 @@
 ---
-title: "327. BẠC HÀ 薄荷"
+title: "BẠC HÀ 薄荷"
 weight: 327
 navWeight: 674
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -20,6 +20,16 @@ keywords:
   - trị cũng thay đổi tuỳ theo nơi mọc
 slug: "bac-ha"
 description: "Tên khoa học Mentha arvensis L."
+images:
+  - /images/hinh-464.png
+benh:
+  - cảm sốt
+  - kém ăn
+  - loét dạ dày
+  - cảm nắng
+  - nôn thông mật giúp sự liêu
+  - cảm mạo
+  - cũng thay đổi tuỳ theo nơi
 ---
 
 
@@ -142,3 +152,4 @@ Nãm 1958, chúng tôi có xin được loài bạc hà lai số 272 của Liên
 
 Tại Việt Nam, chúng tôi cất từ loài húng dũi Mentha crispa L. được thứ tinh dầu có chứa 50- 60% cacvon như tinh dầu lưu lan hương (Đỗ Tất Lợi, 1970).
 
+![BẠC HÀ 薄荷 — Hình 464](/images/hinh-464.png)

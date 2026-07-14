@@ -1,5 +1,5 @@
 ---
-title: "181. CÂY TAM THẤT"
+title: "CÂY TAM THẤT"
 weight: 181
 navWeight: 820
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - thuốc bổ không kém nhân sâm
 slug: "cay-tam-that"
 description: "Còn có tên kim bất hoán, nhân sâm tam thất, sâm tam thất."
+benh:
+  - thu mua căn cứ
+  - tham khảo
+  - thổ huyết
 ---
 
 

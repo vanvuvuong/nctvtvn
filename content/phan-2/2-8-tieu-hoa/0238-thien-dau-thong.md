@@ -1,5 +1,5 @@
 ---
-title: "238. THIÊN ĐẦU THỐNG"
+title: "THIÊN ĐẦU THỐNG"
 weight: 238
 navWeight: 763
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,9 @@ keywords:
   - chữa bệnh thiên đầu thổng
 slug: "thien-dau-thong"
 description: "Còn gọi là cây lá trắng, cảy ong bầu, truờng xuyên hoa."
+benh:
+  - bệnh thiên đầu thổng
+  - sốt
 ---
 
 

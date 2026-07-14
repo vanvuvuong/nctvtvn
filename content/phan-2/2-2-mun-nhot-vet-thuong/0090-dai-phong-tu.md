@@ -1,5 +1,5 @@
 ---
-title: "90. ĐẠI PHONG TỬ"
+title: "ĐẠI PHONG TỬ"
 weight: 90
 navWeight: 911
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

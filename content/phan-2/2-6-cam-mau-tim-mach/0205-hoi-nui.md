@@ -1,5 +1,5 @@
 ---
-title: "205. HỒI NÚI"
+title: "HỒI NÚI"
 weight: 205
 navWeight: 796
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

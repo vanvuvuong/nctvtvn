@@ -1,5 +1,5 @@
 ---
-title: "58. LIÊN KIỀU"
+title: "LIÊN KIỀU"
 weight: 58
 navWeight: 943
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

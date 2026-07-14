@@ -1,5 +1,5 @@
 ---
-title: "362. PHẬT THỦ 佛手"
+title: "PHẬT THỦ 佛手"
 weight: 362
 navWeight: 639
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa ho
 slug: "phat-thu"
 description: "Còn gọi là phật thủ phiến, phật thủ cam."
+images:
+  - /images/hinh-575.png
 ---
 
 
@@ -53,3 +55,4 @@ Phật thủ là một vị thuốc dùng trong phạm vi nhân dân. Theo tài 
 
 Ngày dùng 3 đến 6g dưới dạng thuốc sắc hay thuốc bột. Trong sách cổ nói “phàm âm hư không dùng được”.
 
+![PHẬT THỦ 佛手 — Hình 575](/images/hinh-575.png)

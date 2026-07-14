@@ -1,5 +1,5 @@
 ---
-title: "123. CÂY THẠCH Lựu M"
+title: "CÂY THẠCH Lựu M"
 weight: 123
 navWeight: 878
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,17 @@ keywords:
   - lợi tiểu với tên đại phúc bì
 slug: "cay-thach-luu-m"
 description: "Còn có tên gọi là bạch lựu, tháp lựu, lựu chùa Tháp."
+benh:
+  - sán
+  - thông thường
+  - đau răng
+  - đi ngoàỉ
+  - lỵ đi ngoài
+  - sán theo dược thư
+  - sán có phối hợp
+  - gin sán
+  - viêm ruột
+  - sốt rét
 ---
 
 

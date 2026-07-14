@@ -1,5 +1,5 @@
 ---
-title: "198. HOÀNG CẦM"
+title: "HOÀNG CẦM"
 weight: 198
 navWeight: 803
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,15 @@ keywords:
   - chữa các triệu chứng nhức đầu
 slug: "hoang-cam"
 description: "Tên khoa học Scutellaria baicalensis Georg."
+benh:
+  - cao huyết ấp
+  - tim
+  - cao huyết áp thấy huyết áp
+  - cao huyết áp thực nghiệm tạo
+  - sốt
+  - cảm mạo
+  - hàn nhiệt vãng
+  - bệnh cao huyết áp
 ---
 
 

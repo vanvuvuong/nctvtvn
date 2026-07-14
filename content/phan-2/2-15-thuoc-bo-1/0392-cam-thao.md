@@ -1,5 +1,5 @@
 ---
-title: "392. CAM THẢO"
+title: "CAM THẢO"
 weight: 392
 navWeight: 609
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

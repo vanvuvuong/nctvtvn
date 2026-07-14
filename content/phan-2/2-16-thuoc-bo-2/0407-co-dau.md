@@ -1,5 +1,5 @@
 ---
-title: "407. CỌ DẦU"
+title: "CỌ DẦU"
 weight: 407
 navWeight: 594
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,9 @@ keywords:
   - làm thuốc
 slug: "co-dau"
 description: "Còn gọi là palmier à huile."
+images:
+  - /images/hinh-697.png
+  - /images/hinh-698.png
 ---
 
 
@@ -148,3 +151,6 @@ Chúng tôi cho rằng những nguyên liệu nhập dưới dạng cao để ch
 
 Điều này càng làm chúng ta thêm vững đi sâu nghiên cứu tìm những công thức nước uống với những nguyên liệu sẵn có trong nước ta và hợp với khẩu vị sở thích của nhân dân ta.
 
+![CỌ DẦU — Hình 697](/images/hinh-697.png)
+
+![CỌ DẦU — Hình 698](/images/hinh-698.png)

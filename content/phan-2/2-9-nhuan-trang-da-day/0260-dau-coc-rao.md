@@ -1,5 +1,5 @@
 ---
-title: "260. ĐẬU CỌC RÀO"
+title: "ĐẬU CỌC RÀO"
 weight: 260
 navWeight: 741
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,10 @@ keywords:
   - chữa thấp khớp
 slug: "dau-coc-rao"
 description: "Còn gọi là ba đậu mè, ba đậu nam, dầu mè, cốc dầu, vong dầu ngô, đồng thụ lohong, kuang, vao (Cămpuchia), nhao (Viên tian), grand pignon d’Inde, fève…"
+benh:
+  - thấp khớp
+  - tê liệt
+  - dầu lai chúng tôi ghi
 ---
 
 

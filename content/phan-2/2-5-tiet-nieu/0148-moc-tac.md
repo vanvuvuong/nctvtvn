@@ -1,5 +1,5 @@
 ---
-title: "148. MỘC TẶC"
+title: "MỘC TẶC"
 weight: 148
 navWeight: 853
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

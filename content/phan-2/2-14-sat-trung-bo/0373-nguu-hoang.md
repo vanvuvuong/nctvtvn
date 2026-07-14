@@ -1,5 +1,5 @@
 ---
-title: "373. NGƯU HOÀNG 牛黄"
+title: "NGƯU HOÀNG 牛黄"
 weight: 373
 navWeight: 628
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,14 @@ keywords:
   - làm thuốc trấn tĩnh
 slug: "nguu-hoang"
 description: "Hiện ta dùng:"
+images:
+  - /images/hinh-618.png
+benh:
+  - giá tới
+  - giá vẫn tới
+  - kinh giản
+  - hồi hộp
+  - sốt nóng
 ---
 
 
@@ -106,3 +114,4 @@ Ngưu hoàng, uất kim (nghệ), tê giác, hoàng liên, hoàng cầm, sơn ch
 
 Mỗi lần uống 1 viên. Bệnh nặng thể thực có thể uống thêm. Trong ngày có thể uống tới 3 viên. Trẻ con giảm liều xuống một nửa. Phụ nữ có thai không dùng được.
 
+![NGƯU HOÀNG 牛黄 — Hình 618](/images/hinh-618.png)

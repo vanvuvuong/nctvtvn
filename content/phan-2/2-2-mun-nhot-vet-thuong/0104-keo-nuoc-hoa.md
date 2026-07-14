@@ -1,5 +1,5 @@
 ---
-title: "104. KEO NƯỚC HOA"
+title: "KEO NƯỚC HOA"
 weight: 104
 navWeight: 897
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

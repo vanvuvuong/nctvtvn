@@ -1,5 +1,5 @@
 ---
-title: "154. DÂY CHẶC CHÌU"
+title: "DÂY CHẶC CHÌU"
 weight: 154
 navWeight: 847
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,11 @@ keywords:
   - dùng làm thuốc
 slug: "day-chac-chiu"
 description: "Còn gọi ìà dây chiều, u trặc chiu, tích diệp đàng."
+benh:
+  - phù thận
+  - hình j
+  - đi tiểu khó khãn
+  - vết thương phần mền
 ---
 
 

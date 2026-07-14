@@ -1,5 +1,5 @@
 ---
-title: "103. HƯƠNG ĐIỆP"
+title: "HƯƠNG ĐIỆP"
 weight: 103
 navWeight: 898
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

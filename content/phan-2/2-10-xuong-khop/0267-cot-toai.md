@@ -1,5 +1,5 @@
 ---
-title: "267. CỐT TOÁI"
+title: "CỐT TOÁI"
 weight: 267
 navWeight: 734
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,9 @@ keywords:
   - trị có kết quả 4 trường hợp bong gản
 slug: "cot-toai"
 description: "Còn gọi là bổ cốt toái, co tạng tó (Thái ở châu Quỳnh Nhai), co in tó (Thái ở Điện Biên), cây tổ phượng, cây tổ rồng, tổ điều, tắc kè đá."
+benh:
+  - đau xương
+  - đập xương
 ---
 
 

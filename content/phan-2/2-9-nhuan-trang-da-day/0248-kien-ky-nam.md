@@ -1,5 +1,5 @@
 ---
-title: "248. KIẾN KỲ NAM"
+title: "KIẾN KỲ NAM"
 weight: 248
 navWeight: 753
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,10 @@ keywords:
   - chữa các bệnh về gan
 slug: "kien-ky-nam"
 description: "Còn gọi là trái bí kỳ nam, kỳ nam kiến, ổ kiến, kỳ nam gai."
+benh:
+  - ỉa chảy trẻ em
+  - bệnh đau thắt ngực
+  - bệnh đau thắt ngực cấp
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "263. CÂY KHÔI"
+title: "CÂY KHÔI"
 weight: 263
 navWeight: 738
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,9 @@ keywords:
   - chữa một số trường hợp đau dạ dày
 slug: "cay-khoi"
 description: "Còn gọi là cây độc lực, đơn tướng quân."
+benh:
+  - đau dạ dày dùng
+  - đau bụng
 ---
 
 

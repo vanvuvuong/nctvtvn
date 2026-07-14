@@ -1,5 +1,5 @@
 ---
-title: "182. CÂY MÀO GÀ TRẮNG"
+title: "CÂY MÀO GÀ TRẮNG"
 weight: 182
 navWeight: 819
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,9 @@ keywords:
   - chữa phong nhiệt làm mắt đau
 slug: "cay-mao-ga-trang"
 description: "Còn có tên bông mồng gà trắng, đuôi lươn, dã kê quan, thanh tương tử."
+benh:
+  - phong nhiệt làm mắt đau
+  - ỉa lỏng
 ---
 
 

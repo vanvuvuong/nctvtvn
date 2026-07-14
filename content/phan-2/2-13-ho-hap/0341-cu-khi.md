@@ -1,5 +1,5 @@
 ---
-title: "341. CỦ KHỈ"
+title: "CỦ KHỈ"
 weight: 341
 navWeight: 660
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa cảm mạo
 slug: "cu-khi"
 description: "Còn gọi là vương tùng, hồng bì núi, xì hắc, cút khí."
+benh:
+  - cảm mạo
 ---
 
 

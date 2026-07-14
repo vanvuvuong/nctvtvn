@@ -1,5 +1,5 @@
 ---
-title: "367. CÀ DẠI HOA TÍM 紫花茄"
+title: "CÀ DẠI HOA TÍM 紫花茄"
 weight: 367
 navWeight: 634
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - chữa đau răng
 slug: "ca-dai-hoa-tim"
 description: "Còn gọi là cà hoang, cà gai, cà hoang gai hoa tím."
+images:
+  - /images/hinh-582.png
+benh:
+  - đau răng
 ---
 
 
@@ -49,3 +53,4 @@ Rễ cây cà dại hoa tím được nhân dân dùng là thuốc chữa ho, he
 
 Hạt rang cháy cho lên khói, hứng khói này vào miệng chữa đau răng và sâu răng, than hạt còn lại giã nhỏ xát lên lợi nơi đau răng.
 
+![CÀ DẠI HOA TÍM 紫花茄 — Hình 582](/images/hinh-582.png)

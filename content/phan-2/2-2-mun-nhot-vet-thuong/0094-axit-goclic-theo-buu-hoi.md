@@ -1,5 +1,5 @@
 ---
-title: "94. Axit goclic (theo Bửu Hội)"
+title: "Axit goclic (theo Bửu Hội)"
 weight: 94
 navWeight: 907
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

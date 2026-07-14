@@ -1,5 +1,5 @@
 ---
-title: "261. LỘC MẠI"
+title: "LỘC MẠI"
 weight: 261
 navWeight: 740
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,12 @@ keywords:
   - thông tiểu cho những người bị bệnh gút
 slug: "loc-mai"
 description: "Còn gọi là rau mọi, lục mại."
+benh:
+  - ngộ độc cần dùng thuốc nhuận
+  - táo bón
+  - lở ngứa
+  - ỉa chảy
+  - thuỷ thũng trướng mãn
 ---
 
 

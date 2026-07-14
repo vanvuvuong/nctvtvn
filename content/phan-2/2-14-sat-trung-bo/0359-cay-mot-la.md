@@ -1,5 +1,5 @@
 ---
-title: "359. CÂY MỘT LÁ 青天葵"
+title: "CÂY MỘT LÁ 青天葵"
 weight: 359
 navWeight: 642
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,11 @@ keywords:
   - dùng làm thuốc lợi phế
 slug: "cay-mot-la"
 description: "Còn gọi là chân châu diệp, thanh thiên quỳ, Slam lài, bâu thoọc, kíp lầu (Quảng Hoa-Cao Bằng)."
+images:
+  - /images/hinh-572.png
+benh:
+  - giá bằng một xe hơi vận
+  - lao phổi
 ---
 
 
@@ -81,3 +86,4 @@ Chú thích:
 
 3. Có tác giả đã xác định tên khoa học của cây một lá là Pogonium flabellifolium cùng họ Lan (Orchidaceae). Cần kiểm tra lại.
 
+![CÂY MỘT LÁ 青天葵 — Hình 572](/images/hinh-572.png)

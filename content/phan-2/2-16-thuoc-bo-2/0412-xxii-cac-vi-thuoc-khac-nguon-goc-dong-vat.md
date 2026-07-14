@@ -1,5 +1,5 @@
 ---
-title: "412. XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT"
+title: "XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT"
 weight: 412
 navWeight: 589
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,26 @@ keywords:
   - chữa những vết đen sạm trên mặt
 slug: "xxii-cac-vi-thuoc-khac-nguon-goc-dong-vat"
 description: "BẠCH CƯƠNG TÀM 白殭蚕"
+images:
+  - /images/hinh-723.png
+  - /images/hinh-724.png
+  - /images/hinh-725.png
+  - /images/hinh-726.png
+benh:
+  - kinh giản
+  - giá
+  - trẻ em kinh phong
+  - bệnh cam còm
+  - tim
+  - dinh dưỡng
+  - phát bối
+  - suy dinh dưỡng
+  - cam tích trẻ em
+  - cam tẩu mã
+  - trẻ con cam tích
+  - gan
+  - thủy thũng
+  - khó đẻ
 ---
 
 
@@ -356,3 +376,10 @@ Mỗi lần uống 1g bột này, mỗi ngày uống 2 hay 3 lần, dùng nướ
 
 Chữa người già bị tiểu tiện khó khăn: Dế mèn 4 con, dế dũi 4 con, cam thảo 3g, nước 400ml, sắc còn 200ml, chia 3 lần uống trong ngày.
 
+![XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT — Hình 723](/images/hinh-723.png)
+
+![XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT — Hình 724](/images/hinh-724.png)
+
+![XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT — Hình 725](/images/hinh-725.png)
+
+![XXII. CÁC VỊ THUỐC KHÁC NGUỒN GỐC ĐỘNG VẬT — Hình 726](/images/hinh-726.png)

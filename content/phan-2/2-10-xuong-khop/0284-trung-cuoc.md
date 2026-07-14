@@ -1,5 +1,5 @@
 ---
-title: "284. TRỨNG CUỐC"
+title: "TRỨNG CUỐC"
 weight: 284
 navWeight: 717
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,11 @@ keywords:
   - S/ixis elongaĩa Pierre
 slug: "trung-cuoc"
 description: "Cỏn có tên là mắc năm ngoa (Viêntían), con go, mang nam bo (Thổ)."
+benh:
+  - đau nhức gân xương
+  - bệnh mắt
+  - bách
+  - tê thấp
 ---
 
 

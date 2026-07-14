@@ -1,5 +1,5 @@
 ---
-title: "135. THỔ HOÀNG LIÊN ()(\\*)("
+title: "THỔ HOÀNG LIÊN ()(\\*)("
 weight: 135
 navWeight: 866
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,22 @@ keywords:
   - dùng làm thuốc cùng một công đụng với đơn đỏ
 slug: "tho-hoang-lien"
 description: "Tên khoa học Thaỉicírum ỷoỉioỉosum D.c. Thuộc họ Mao lương Ranunculaceae."
+benh:
+  - đau mắt
+  - bệnh gan
+  - bệnh kiết lỵ
+  - kiết lỵ
+  - giun
+  - mụn nhọt
+  - mắt
+  - hoàng đản
+  - thường
+  - lỵ ở nước
+  - bệnh ngoài da
+  - hội chứng lỵ mang tên codanzit
+  - rấn cắn
+  - cảm sốt
+  - sốt
 ---
 
 

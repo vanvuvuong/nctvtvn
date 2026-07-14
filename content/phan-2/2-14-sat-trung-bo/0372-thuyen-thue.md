@@ -1,5 +1,5 @@
 ---
-title: "372. THUYỂN THUẾ 蝉蜕"
+title: "THUYỂN THUẾ 蝉蜕"
 weight: 372
 navWeight: 629
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,15 @@ keywords:
   - chữa một số trường hợp uốn ván có kết quả
 slug: "thuyen-thue"
 description: "Còn có tên là thuyền thoái, thiền thoái, thiền xác, thiền thuế."
+images:
+  - /images/hinh-617.png
+benh:
+  - chứng dạ đề
+  - sốt
+  - kinh giật
+  - đậu chẩn
+  - sung huyết ở trên đầu
+  - phiền nhiệt
 ---
 
 
@@ -108,3 +117,4 @@ Dùng ngoài điểm vào mắt để tan màng mộng. Vì vị thuốc rắn c
 
 Theo tài liệu cổ, trân châu vị ngọt mặn, tính hàn, vào 2 kinh tâm và can. Có tác dụng thanh nhiệt, ích âm, trấn tâm, an thần, trừ đờm định quý, sáng mắt, giải độc. Dùng chữa phiền nhiệt, tiêu khát, giật mình, họng đau, mắt đỏ, có màng mộng. Không thực hoả, tà nhiệt không được dùng.
 
+![THUYỂN THUẾ 蝉蜕 — Hình 617](/images/hinh-617.png)

@@ -1,5 +1,5 @@
 ---
-title: "33. CÂY XÀ SÀNG 蛇床子"
+title: "CÂY XÀ SÀNG 蛇床子"
 weight: 33
 navWeight: 968
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

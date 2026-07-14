@@ -1,5 +1,5 @@
 ---
-title: "240. THÌA LÀ"
+title: "THÌA LÀ"
 weight: 240
 navWeight: 761
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,8 @@ keywords:
   - chữa đau bụng của trè em
 slug: "thia-la"
 description: "Còn gọi là rau thìa là, phãk si (Lào-Vientian), aneth (Pháp)."
+benh:
+  - đau bụng
 ---
 
 

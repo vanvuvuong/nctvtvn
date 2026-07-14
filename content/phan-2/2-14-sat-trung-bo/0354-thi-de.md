@@ -1,5 +1,5 @@
 ---
-title: "354. THỊ ĐẾ 柿蒂"
+title: "THỊ ĐẾ 柿蒂"
 weight: 354
 navWeight: 647
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,13 @@ keywords:
   - chữa cao huyết áp có kết quả
 slug: "thi-de"
 description: "Còn gọi là thị đinh, tai hồng, hồng."
+images:
+  - /images/hinh-568.png
+benh:
+  - ách nghịch
+  - nấc
+  - đau cổ họng
+  - cao huyết áp có kết quả
 ---
 
 
@@ -78,3 +85,4 @@ Tại Trung Quốc, người ta còn dùng hồng dưới 2 dạng khác nữa:
 
 Người ta nghiên cứu thấy trong thị sương có đường manit và trong thị tất có chất tanin gọi là shibuol C₁₄H₂₇O₂.
 
+![THỊ ĐẾ 柿蒂 — Hình 568](/images/hinh-568.png)

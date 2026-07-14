@@ -1,5 +1,5 @@
 ---
-title: "338. PHÒNG PHONG 防風"
+title: "PHÒNG PHONG 防風"
 weight: 338
 navWeight: 663
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,12 @@ keywords:
   - chữa triệu chứng khi ngủ ra mồ hôi trộm
 slug: "phong-phong"
 description: "Phòng phong theo như tên gọi là một vị thuốc rất hay được dùng để chữa các chứng bệnh do gió gây ra (phong là gió, phòng là phòng bị)."
+images:
+  - /images/hinh-515.png
+  - /images/hinh-516.png
+benh:
+  - cảm mạo biểu chứng
+  - nhức đầu choáng váng
 ---
 
 
@@ -93,3 +99,6 @@ Chữa triệu chứng khi ngủ ra mồ hôi trộm:
 
 Phòng phong 80g, xuyên khung 40g, nhân sâm 20g (có thể dùng đảng sâm). Các vị tán nhỏ, trộn đều; mỗi lần trước khi đi ngủ uống 10-12g bột này.
 
+![PHÒNG PHONG 防風 — Hình 515](/images/hinh-515.png)
+
+![PHÒNG PHONG 防風 — Hình 516](/images/hinh-516.png)

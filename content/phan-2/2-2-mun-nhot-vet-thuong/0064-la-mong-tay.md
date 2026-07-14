@@ -1,5 +1,5 @@
 ---
-title: "64. LÁ MÓNG TAY"
+title: "LÁ MÓNG TAY"
 weight: 64
 navWeight: 937
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

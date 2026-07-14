@@ -1,5 +1,5 @@
 ---
-title: "405. CÂY LÁ DỨA"
+title: "CÂY LÁ DỨA"
 weight: 405
 navWeight: 596
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -8,6 +8,17 @@ keywords:
   - cây lá dứa
 slug: "cay-la-dua"
 description: "Còn gọi là lá dứa thơm, cây cơm nếp."
+images:
+  - /images/hinh-684.png
+  - /images/hinh-686.png
+benh:
+  - liệt dương
+  - lở ngứa
+  - đau dạ dày
+  - ỉa chảy
+  - mồ hôi chân nhiều quá
+  - vết loét ngoài da
+  - tỳ hư sinh tiết tả
 ---
 
 
@@ -216,3 +227,6 @@ Phụ nữ có thai hay đau bụng: Đại táo 14 quả đốt ra than cho u�
 
 Trẻ con cam tẩu mã: Đại táo 1 quả, hoàng bá 6g. Hai vị đốt ra than. Tán nhỏ. Sát vào răng.
 
+![CÂY LÁ DỨA — Hình 684](/images/hinh-684.png)
+
+![CÂY LÁ DỨA — Hình 686](/images/hinh-686.png)

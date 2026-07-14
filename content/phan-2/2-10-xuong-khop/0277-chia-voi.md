@@ -1,5 +1,5 @@
 ---
-title: "277. CHÌA VÔI"
+title: "CHÌA VÔI"
 weight: 277
 navWeight: 724
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,8 @@ keywords:
   - kích thích sự co bóp tử cung để tống thai ra
 slug: "chia-voi"
 description: "Còn gọi là bạch liễm, đau xương, bạch phấn đàng."
+benh:
+  - đau nhức xương
 ---
 
 

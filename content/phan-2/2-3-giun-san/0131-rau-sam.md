@@ -1,5 +1,5 @@
 ---
-title: "131. RAU SAM"
+title: "RAU SAM"
 weight: 131
 navWeight: 870
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa bệnh cước khí thủy thủng
 slug: "rau-sam"
 description: "Cùn gọi là mã xỉ hiện, pourpier."
+benh:
+  - bệnh cước khí thủy thủng
 ---
 
 

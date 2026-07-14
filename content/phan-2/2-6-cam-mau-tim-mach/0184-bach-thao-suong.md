@@ -1,5 +1,5 @@
 ---
-title: "184. BÁCH THẢO SƯƠNG"
+title: "BÁCH THẢO SƯƠNG"
 weight: 184
 navWeight: 817
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,8 @@ keywords:
   - chữa chảy máu chân răng
 slug: "bach-thao-suong"
 description: "Còn gọi là oa đề khôi, nhọ nồi."
+benh:
+  - chảy máu cam
 ---
 
 

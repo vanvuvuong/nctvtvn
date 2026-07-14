@@ -1,5 +1,5 @@
 ---
-title: "67. PHÙ DUNG"
+title: "PHÙ DUNG"
 weight: 67
 navWeight: 934
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

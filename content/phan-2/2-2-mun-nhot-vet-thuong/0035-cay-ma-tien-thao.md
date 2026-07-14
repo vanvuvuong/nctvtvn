@@ -1,5 +1,5 @@
 ---
-title: "35. CÂY MÃ TIÊN THẢO 馬鞭草"
+title: "CÂY MÃ TIÊN THẢO 馬鞭草"
 weight: 35
 navWeight: 966
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

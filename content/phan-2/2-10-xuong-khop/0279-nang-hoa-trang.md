@@ -1,5 +1,5 @@
 ---
-title: "279. NÁNG HOA TRẮNG"
+title: "NÁNG HOA TRẮNG"
 weight: 279
 navWeight: 722
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

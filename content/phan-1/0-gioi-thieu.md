@@ -5,6 +5,10 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 navWeight: 1000
 description: "In 1.000 cuốn, khổ 19 x 27 cm, tại Công ty In Công Đoàn Việt Nam, 167 Tây Sơn, Đống Đa, Hà Nội."
 slug: "loi-gioi-thieu"
+benh:
+  - bổ sung một cách thận trọng
+  - lại nội dung cũ
+  - cuốn sách
 ---
 
 Giáo sư Tiến sĩ Đỗ Tất Lợi

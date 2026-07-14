@@ -1,5 +1,5 @@
 ---
-title: "272. THIÊN NIÊN KIỆN =F ụM"
+title: "THIÊN NIÊN KIỆN =F ụM"
 weight: 272
 navWeight: 729
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,14 @@ keywords:
   - giải độc do thủy ngân
 slug: "thien-nien-kien-f-um"
 description: "Còn gọi ỉà sơn thục."
+benh:
+  - phong thấp
+  - tê thấp
+  - giang mai
+  - đau khớp xương
+  - bệnh vẩy nến
+  - dở dang
+  - trung bình là
 ---
 
 

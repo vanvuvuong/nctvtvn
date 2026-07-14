@@ -1,5 +1,5 @@
 ---
-title: "350. CÂY BỒNG BỒNG"
+title: "CÂY BỒNG BỒNG"
 weight: 350
 navWeight: 651
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,13 @@ keywords:
   - làm thuốc súng
 slug: "cay-bong-bong"
 description: "Còn có tên là nam tì bà, cây lá hen.[7]"
+benh:
+  - tim
+  - tim đã biết
+  - chế phẩm bồng bồng có tác
+  - hen
+  - sốt
+  - ho lao thổ huyết
 ---
 
 

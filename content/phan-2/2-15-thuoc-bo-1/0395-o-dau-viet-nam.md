@@ -1,5 +1,5 @@
 ---
-title: "395. Ô ĐẦU VIỆT NAM"
+title: "Ô ĐẦU VIỆT NAM"
 weight: 395
 navWeight: 606
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,10 @@ keywords:
   - Aconitum fortunei Hemsl
 slug: "o-dau-viet-nam"
 description: "Còn gọi là củ gấu tàu, củ ấu tàu (đừng nhầm với vị hương phụ có tên là củ gấu, xem vị này), cố y (Mèo-Nghĩa Lộ)."
+benh:
+  - di mộng tinh
+  - lậu
+  - sốt
 ---
 
 

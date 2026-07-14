@@ -1,5 +1,5 @@
 ---
-title: "233. HUBLÔNG"
+title: "HUBLÔNG"
 weight: 233
 navWeight: 768
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

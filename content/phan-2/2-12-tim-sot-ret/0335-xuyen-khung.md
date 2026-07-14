@@ -1,5 +1,5 @@
 ---
-title: "335. XUYÊN KHUNG 川芎"
+title: "XUYÊN KHUNG 川芎"
 weight: 335
 navWeight: 666
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,12 @@ keywords:
   - chữa những triệu chứng nhức đẩu
 slug: "xuyen-khung"
 description: "Còn gọi là khung cùng, tang ky."
+images:
+  - /images/hinh-506.png
+benh:
+  - kinh nguyệt không đều
+  - nhức đầu
+  - thiên đầu thống
 ---
 
 
@@ -129,3 +135,4 @@ Xem vậy, ta thấy cần kiểm tra lại tên thực vật và thành phần 
 
 Trong cây cao bản Ligusticum sinense chỉ mới biết có tinh dầu. Thành phần của tinh dầu và hoạt chất khác chưa thấy có tài liệu nghiên cứu.
 
+![XUYÊN KHUNG 川芎 — Hình 506](/images/hinh-506.png)

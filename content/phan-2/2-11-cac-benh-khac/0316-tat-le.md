@@ -1,5 +1,5 @@
 ---
-title: "316. TẬT LÊ"
+title: "TẬT LÊ"
 weight: 316
 navWeight: 685
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

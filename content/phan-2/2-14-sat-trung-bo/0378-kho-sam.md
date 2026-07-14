@@ -1,5 +1,5 @@
 ---
-title: "378. KHỔ SÂM"
+title: "KHỔ SÂM"
 weight: 378
 navWeight: 623
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

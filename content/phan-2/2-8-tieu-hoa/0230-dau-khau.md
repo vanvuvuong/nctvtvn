@@ -1,5 +1,5 @@
 ---
-title: "230. ĐẬU KHẤU"
+title: "ĐẬU KHẤU"
 weight: 230
 navWeight: 771
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,11 @@ keywords:
   - chữa trẻ con bú vào lại trớ ra
 slug: "dau-khau"
 description: "Cò tỉ gọi là bạch đậu khấu, viên đậu khấu."
+benh:
+  - ăn uống không tiều
+  - đau dạ dày
+  - dạ đày lạnh đau
+  - say rượu
 ---
 
 

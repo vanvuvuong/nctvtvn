@@ -1,5 +1,5 @@
 ---
-title: "179. CÂY HUYẾT DỤ"
+title: "CÂY HUYẾT DỤ"
 weight: 179
 navWeight: 822
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

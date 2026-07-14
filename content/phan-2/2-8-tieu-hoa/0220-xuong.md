@@ -1,5 +1,5 @@
 ---
-title: "220. XƯƠNG"
+title: "XƯƠNG"
 weight: 220
 navWeight: 781
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,14 @@ keywords:
   - dùng làm thuốc điểu hòa nhịp tim
 slug: "xuong"
 description: "Còn gọi lá thạch xương bồ, thuỷ xương bồ."
+benh:
+  - ở bệnh viện cũng như ngoại
+  - thần kinh suy nhược
+  - phong hàn tê thấp
+  - đau dạ dày
+  - liên tục
+  - viêm tá tràng
+  - tai ù
 ---
 
 

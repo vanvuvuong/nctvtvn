@@ -1,5 +1,5 @@
 ---
-title: "117. CÂY DẦU GIUN -±. #■"
+title: "CÂY DẦU GIUN -±. #■"
 weight: 117
 navWeight: 884
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,18 @@ keywords:
   - chữa 5 chứng cam của trẻ em tiểu tiện đục
 slug: "cay-dau-giun"
 description: "Còn có tên ỉã cây rau muối dại, cây cỏ hôi, cây thanh hao dại, thổ kinh giới."
+benh:
+  - giun
+  - mà cũng chỉ cần một liều
+  - giá
+  - giun vẫn có kết quả
+  - bộnh
+  - trẻ em phẩn nhiều chỉ dùng
+  - khỏi chứng tả lỵ
+  - hết thảy các bệnh lờ
+  - giun đũa
+  - đau nhức rảng
+  - thức àn đối
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "51. DÂM BỤT"
+title: "DÂM BỤT"
 weight: 51
 navWeight: 950
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

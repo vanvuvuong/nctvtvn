@@ -1,5 +1,5 @@
 ---
-title: "57. Kinh nghiệm dùng lá khế trong nhân dân"
+title: "Kinh nghiệm dùng lá khế trong nhân dân"
 weight: 57
 navWeight: 944
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

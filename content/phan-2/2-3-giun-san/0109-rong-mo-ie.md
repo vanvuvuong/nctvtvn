@@ -1,5 +1,5 @@
 ---
-title: "109. RONG Mơ ỉệ%"
+title: "RONG Mơ ỉệ%"
 weight: 109
 navWeight: 892
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa bướu cổ
 slug: "rong-mo-ie"
 description: "Còn gọi là loại rau ma vĩ, rau ngoai, rau mơ - hải tảo, rong biển."
+benh:
+  - bướu cổ
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "247. ÔDƯỢC"
+title: "ÔDƯỢC"
 weight: 247
 navWeight: 754
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,9 @@ keywords:
   - chữa đau bụng
 slug: "oduoc"
 description: "Còn gọi là cây đầu đấng, ô dược nam."
+benh:
+  - đau bụng
+  - bệnh đi ỉa lòng
 ---
 
 

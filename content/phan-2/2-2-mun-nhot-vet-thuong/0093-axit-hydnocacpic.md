@@ -1,5 +1,5 @@
 ---
-title: "93. Axit hydnocacpic"
+title: "Axit hydnocacpic"
 weight: 93
 navWeight: 908
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

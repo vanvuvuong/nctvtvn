@@ -1,5 +1,5 @@
 ---
-title: "41. BẠCH HOA XÀ"
+title: "BẠCH HOA XÀ"
 weight: 41
 navWeight: 960
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

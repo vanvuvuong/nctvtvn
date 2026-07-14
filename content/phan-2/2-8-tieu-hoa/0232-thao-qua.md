@@ -1,5 +1,5 @@
 ---
-title: "232. THẢO QUẢ"
+title: "THẢO QUẢ"
 weight: 232
 navWeight: 769
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,12 @@ keywords:
   - dùng làm thuốc kiện tỳ
 slug: "thao-qua"
 description: "Còn gọi ìà đò ho, tò ho, mac hâu, may mac hâu (Thái)."
+benh:
+  - sốt rét
+  - đau bụng
+  - bệnh không trung tiện
+  - ngộ độc
+  - giun
 ---
 
 

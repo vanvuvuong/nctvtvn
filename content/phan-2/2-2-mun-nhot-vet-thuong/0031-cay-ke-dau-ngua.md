@@ -1,5 +1,5 @@
 ---
-title: "31. CÂY KÉ ĐẦU NGỰA"
+title: "CÂY KÉ ĐẦU NGỰA"
 weight: 31
 navWeight: 970
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

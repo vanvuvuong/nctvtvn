@@ -1,5 +1,5 @@
 ---
-title: "323. CÂY TRÚC ĐÀO 夹竹桃"
+title: "CÂY TRÚC ĐÀO 夹竹桃"
 weight: 323
 navWeight: 678
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,13 @@ keywords:
   - trị ở bệnh viện việt-tiệp hải phòng
 slug: "cay-truc-dao"
 description: "Còn gọi là đào lê, giáp trúc đào, laurier rose."
+images:
+  - /images/hinh-461.png
+benh:
+  - phải liên tục
+  - duy trì lâu dài
+  - tim
+  - ở bệnh viện việt
 ---
 
 
@@ -118,3 +125,4 @@ Theo kinh nghiệm điều trị ở Bệnh viện Việt-Tiệp Hải Phòng, n
 
 Bản thân chất neriolin phải bảo quản theo chế độ thuốc độc bảng A, nhưng dung dịch và viên neriolin thì theo chế độ thuốc độc bảng B.
 
+![CÂY TRÚC ĐÀO 夹竹桃 — Hình 461](/images/hinh-461.png)

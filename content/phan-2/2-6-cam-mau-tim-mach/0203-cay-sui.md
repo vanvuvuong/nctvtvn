@@ -1,5 +1,5 @@
 ---
-title: "203. CÂY SUI"
+title: "CÂY SUI"
 weight: 203
 navWeight: 798
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa đau bụng
 slug: "cay-sui"
 description: "Còn gọi là cây thuốc bắn, nỗ tiễn tử, nong (Lào, vùng Viêntian)."
+benh:
+  - đau bụng
 ---
 
 

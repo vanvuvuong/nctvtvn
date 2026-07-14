@@ -1,5 +1,5 @@
 ---
-title: "170. NÀNG NÀNG"
+title: "NÀNG NÀNG"
 weight: 170
 navWeight: 831
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,10 @@ keywords:
   - chữa viêm bàng quang viêm đường tiểu tiện
 slug: "nang-nang"
 description: "Còn gọi ìà trứng ếch, trứng ốc, bọt ếch, nổ trắng, co phá mặc lăm (Thái), pha tốp (Lai Châu), đốc pha nốc (Lào), srul kraham {Cãmpuchia)."
+benh:
+  - phụ nữ
+  - đái buốt
+  - rắn cắn
 ---
 
 

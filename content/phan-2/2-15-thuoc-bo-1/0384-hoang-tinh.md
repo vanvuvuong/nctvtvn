@@ -1,5 +1,5 @@
 ---
-title: "384. HOÀNG TINH黄精"
+title: "HOÀNG TINH黄精"
 weight: 384
 navWeight: 617
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,9 @@ keywords:
   - thuốc bổ dùng cho người yếu
 slug: "hoang-tinh"
 description: "Còn gọi là củ cây cơm nếp (Lào Cai) woòng sính, kim thị hoàng tinh, cứu hoang thảo, koesd ka sat pa (Mèo Xiêng Khoảng)."
+benh:
+  - lao thương
+  - tì vị hư nhược
 ---
 
 

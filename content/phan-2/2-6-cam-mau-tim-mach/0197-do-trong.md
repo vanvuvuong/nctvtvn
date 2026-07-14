@@ -1,5 +1,5 @@
 ---
-title: "197. ĐỖ TRỌNG"
+title: "ĐỖ TRỌNG"
 weight: 197
 navWeight: 804
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,9 @@ keywords:
   - trị bệnh cao huyết áp
 slug: "do-trong"
 description: "Tên khoa học Eucommia ulmoides Oliv."
+benh:
+  - đau lưng
+  - bệnh cao huyết áp
 ---
 
 

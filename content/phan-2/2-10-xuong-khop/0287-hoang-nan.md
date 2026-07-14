@@ -1,5 +1,5 @@
 ---
-title: "287. HOÀNG NÀN"
+title: "HOÀNG NÀN"
 weight: 287
 navWeight: 714
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,14 @@ keywords:
   - kích thích dục tính của phụ nữ
 slug: "hoang-nan"
 description: "Còn gọi là vỏ dãn, vỏ doãn."
+benh:
+  - hủi
+  - chó dại cắn
+  - thấp khớp
+  - ghẻ
+  - tê thấp
+  - nôn mửa
+  - đau nhức
 ---
 
 

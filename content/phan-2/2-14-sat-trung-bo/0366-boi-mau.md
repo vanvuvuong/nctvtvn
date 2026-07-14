@@ -1,5 +1,5 @@
 ---
-title: "366. BỐI MẪU 貝母"
+title: "BỐI MẪU 貝母"
 weight: 366
 navWeight: 635
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,11 @@ keywords:
   - chữa những trường hợp đờm ho nhiệt
 slug: "boi-mau"
 description: "Fritillaria-Bulbus Fritillariae"
+images:
+  - /images/hinh-580.png
+  - /images/hinh-581.png
+benh:
+  - mụn nhọt
 ---
 
 
@@ -136,3 +141,6 @@ Bối mẫu bỏ lõi sao vàng, tán nhỏ luyện với đường phèn, viên
 
 Bối mẫu bỏ lõi 2g, nước lã 2ml, mật ong 2g, bôi lên lưỡi. Thuốc nuốt được. Ngày 4-5 lần.
 
+![BỐI MẪU 貝母 — Hình 580](/images/hinh-580.png)
+
+![BỐI MẪU 貝母 — Hình 581](/images/hinh-581.png)

@@ -1,5 +1,5 @@
 ---
-title: "68. DẦU RÁI TRẮNG"
+title: "DẦU RÁI TRẮNG"
 weight: 68
 navWeight: 933
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

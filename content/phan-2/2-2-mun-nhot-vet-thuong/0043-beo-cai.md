@@ -1,5 +1,5 @@
 ---
-title: "43. BÈO CÁI"
+title: "BÈO CÁI"
 weight: 43
 navWeight: 958
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

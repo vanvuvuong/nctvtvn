@@ -1,5 +1,5 @@
 ---
-title: "126. MẮC NƯA"
+title: "MẮC NƯA"
 weight: 126
 navWeight: 875
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

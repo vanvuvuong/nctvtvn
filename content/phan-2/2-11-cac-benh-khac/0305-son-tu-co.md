@@ -1,5 +1,5 @@
 ---
-title: "305. SƠN Từ CÔ"
+title: "SƠN Từ CÔ"
 weight: 305
 navWeight: 696
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,9 @@ keywords:
   - chữa ngộ độc thức ẫn
 slug: "son-tu-co"
 description: "Còn gọi là mao từ cô."
+benh:
+  - ung thũng
+  - ngộ độc thức ăn
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "183. CÂY MÀO GÀ ĐỎ"
+title: "CÂY MÀO GÀ ĐỎ"
 weight: 183
 navWeight: 818
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

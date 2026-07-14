@@ -1,5 +1,5 @@
 ---
-title: "289. LONG NÃO |ậ"
+title: "LONG NÃO |ậ"
 weight: 289
 navWeight: 712
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,8 @@ keywords:
   - kích thích
 slug: "long-nao-a"
 description: "Còn gọi ìà chương não, rã hương, may khao khinh (Lầo)."
+benh:
+  - cảm cúm
 ---
 
 

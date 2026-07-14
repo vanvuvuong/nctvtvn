@@ -1,5 +1,5 @@
 ---
-title: "389. BẠNG HOA"
+title: "BẠNG HOA"
 weight: 389
 navWeight: 612
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,13 @@ keywords:
   - chữa các chứng ho ra máu
 slug: "bang-hoa"
 description: "Còn gọi là cây sò huyết, tử vạn niên thanh, lẻ bạn."
+benh:
+  - lâu
+  - quế
+  - cả đau mắt
+  - cố lãnh trầm hàn
+  - chân tay co quắp
+  - cảm mạo
 ---
 
 

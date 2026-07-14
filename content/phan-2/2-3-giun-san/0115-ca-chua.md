@@ -1,5 +1,5 @@
 ---
-title: "115. CÀ CHƯA"
+title: "CÀ CHƯA"
 weight: 115
 navWeight: 886
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,11 @@ keywords:
   - kích thích sinh trưởng
 slug: "ca-chua"
 description: "Còn gọi là cà dầm, tomate (Pháp)."
+benh:
+  - dinh dưỡng
+  - dinh dưỡng thấp nhưng được toàn
+  - sốt
+  - trĩ
 ---
 
 

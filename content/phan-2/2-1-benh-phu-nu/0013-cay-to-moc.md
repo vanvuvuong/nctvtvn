@@ -1,5 +1,5 @@
 ---
-title: "13. CÂY TÔ MỘC 蘇木"
+title: "CÂY TÔ MỘC 蘇木"
 weight: 13
 navWeight: 988
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -20,6 +20,7 @@ slug: "cay-to-moc"
 description: "Còn có tên là cây gỗ vang, cây vang nhuộm, cây tô phượng(do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc)."
 images:
   - /images/19-to-moc.png
+  - /images/19-2-to-moc-cthh.png
 ---
 
 _Còn có tên là_ cây gỗ vang, cây vang nhuộm, cây tô phượng(do cây này mọc ở nước Tô Phượng, một nước cổ ở vùng hải đảo Trung Quốc).
@@ -34,13 +35,13 @@ Tô mộc (_Lignum Caesalpiniae sappan_) là gỗ phơi khô của cây gỗ van
 
 Cây tô mộc là một cây cao 7-10m, thân có gai. Lá kép lông chim, gồm 12 đôi, hay hơn 12 đôi lá chét, hơi hẹp ở phía dưới tròn ở đầu, mặt trên nhẵn, mặt dưới có lông. Hoa 5 cánh màu vàng mọc thành chùm, nhị hơi lòi ra, nửa dưới chỉ nhị hoi có lông, bầu hoa phủ lông xám. Quả là một giáp dẹt hình trứng ngược, dày, dai, cứng, dài từ 7-10cm, rộng từ 3,5-4cm, trong có 3-4 hạt màu nâu (Hình 19, Hm 12,1).
 
-![to-moc](/images/19-to-moc.png)
+![CÂY TÔ MỘC 蘇木 — Hình 19](/images/19-to-moc.png)
 
 #### B. Phân bố, thu hái và chế biến
 
 Cây mọc hoang và được trồng ở nhiều nơi trong nước ta vì gỗ được dùng làm thuốc nhuộm gỗ và làm thuốc với tên tô mộc. Người ta dùng gỗ chẻ mỏng phơi khô.
 
-![to-moc-cthh](/images/19-2-to-moc-cthh.png)
+![CÂY TÔ MỘC 蘇木 — Hình 19.2](/images/19-2-to-moc-cthh.png)
 
 Hematoxylin
 Hematein(màu đỏ)

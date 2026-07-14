@@ -1,5 +1,5 @@
 ---
-title: "40. BẠCH HẠC"
+title: "BẠCH HẠC"
 weight: 40
 navWeight: 961
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

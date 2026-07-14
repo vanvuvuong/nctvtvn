@@ -1,5 +1,5 @@
 ---
-title: "215. R = - CH = HC - (CH₂)₄CH₃"
+title: "R = - CH = HC - (CH₂)₄CH₃"
 weight: 215
 navWeight: 786
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,10 @@ keywords:
   - chữa ho mất tiếng
 slug: "r-ch-hc-chch"
 description: "R = -CH (OH) (CH₂)\\(n)CH₃"
+benh:
+  - ngoại cảm
+  - thổ tả
+  - ho mất tiếng
 ---
 
 

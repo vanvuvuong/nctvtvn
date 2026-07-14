@@ -1,5 +1,5 @@
 ---
-title: "155. MẦN TƯỚI >iM"
+title: "MẦN TƯỚI >iM"
 weight: 155
 navWeight: 846
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,10 @@ keywords:
   - chữa rắn cấn
 slug: "man-tuoi-im"
 description: "Còn gọi là liương thảo, lan thảo, Ayapana du Thuộc họ Cúc Asteraceae (Compositae)."
+benh:
+  - sốt
+  - rắn cấn
+  - tiểu tiện
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "318. SAO ĐEN"
+title: "SAO ĐEN"
 weight: 318
 navWeight: 683
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

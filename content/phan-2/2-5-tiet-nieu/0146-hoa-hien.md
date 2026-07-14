@@ -1,5 +1,5 @@
 ---
-title: "146. HOA HIÊN"
+title: "HOA HIÊN"
 weight: 146
 navWeight: 855
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa đổ máu cam
 slug: "hoa-hien"
 description: "Cỏn gọi ìà hoàng hoa, kim trầm thái, huyền thảo, lêlô, lộc thông."
+benh:
+  - đổ máu cam
 ---
 
 

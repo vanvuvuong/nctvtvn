@@ -1,5 +1,5 @@
 ---
-title: "322. CÂY THÔNG THIÊN IIĨÊaittH"
+title: "CÂY THÔNG THIÊN IIĨÊaittH"
 weight: 322
 navWeight: 679
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

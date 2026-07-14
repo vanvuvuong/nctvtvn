@@ -1,5 +1,5 @@
 ---
-title: "340. BÀM BÀM"
+title: "BÀM BÀM"
 weight: 340
 navWeight: 661
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,19 @@ keywords:
   - chữa nóng
 slug: "bam-bam"
 description: "Còn có tên là dây bàm, đậu dẹt, m’ba (Lào), var ang kung (Cămpuchia), lany (Di Linh)."
+images:
+  - /images/hinh-523.png
+  - /images/hinh-524.png
+  - /images/hinh-525.png
+benh:
+  - sốt
+  - khỏi bằng vỏ
+  - sốt rét bằng vỏ
+  - khỏi
+  - sốt rét giống như vỏ canhkina
+  - sốt rét
+  - sốt thường người ta dùng vỏ
+  - cúm
 ---
 
 
@@ -278,3 +291,8 @@ Cinchonin dùng như quinin nhưng liều chỉ bằng 1/3, ngày dùng 0,5 đ�
 
 [3] (1) Cao rau má có thể chế như sau: Rau má phơi hay sấy khô. Chiết bằng cồn 95% đun sôi. Cô thu hồi cồn. Bốc hơi tới dạng cao khô. Có thể chiết một lần nữa bằng N.butanol.
 
+![BÀM BÀM — Hình 523](/images/hinh-523.png)
+
+![BÀM BÀM — Hình 524](/images/hinh-524.png)
+
+![BÀM BÀM — Hình 525](/images/hinh-525.png)

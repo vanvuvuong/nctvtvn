@@ -1,5 +1,5 @@
 ---
-title: "6. CÂY HỒNG HOA 紅花"
+title: "CÂY HỒNG HOA 紅花"
 weight: 6
 navWeight: 995
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,8 @@ slug: "cay-hong-hoa"
 description: "Còn có tên là cây rum."
 images:
   - /images/12-hong-hoa.png
+  - /images/12-2-cactamin.png
+  - /images/12-3-hong-hoa-cthh.png
 ---
 
 _Còn có tên là_ cây rum.
@@ -31,7 +33,7 @@ Người ta thường dùng hồng hoa (_Flos Casthami_) là hoa phơi hay sấy
 
 Cây thuộc thảo, cao 0.60-1m hay hơn, không có lông, thân trắng có vạch dọc. Lá mọc so le không có cuống, mép có răng cưa nhọn. Cụm hoa gồm những đầu họp lại thành ngù. Hoa màu đỏ cam đẹp, lá bắc có gai. Quả bế có bốn cạnh lồi nhỏ dài 6-7mm, rộng 4-5mm (Hình 12, Hm 6,2).
 
-![hong-hoa](/images/12-hong-hoa.png)
+![CÂY HỒNG HOA 紅花 — Hình 12](/images/12-hong-hoa.png)
 
 _Hình 12. Hồng hoa - Carthamus tinctorius_
 
@@ -45,8 +47,8 @@ Trong hồng hoa có chừng 0,3-0,6% chất gluxit gọi là cactamin (carthami
 
 Cactamin là một chất có tinh thể màu đỏ khi tác dụng HCl lạnh sẽ cho isocactamin, thuỷ phân sẽ cho glucoza và cactamidin.
 
-![cactamin](/images/12-2-cactamin.png)
-![hong-hoa-cthh](/images/12-3-hong-hoa-cthh.png)
+![CÂY HỒNG HOA 紅花 — Hình 12.2](/images/12-2-cactamin.png)
+![CÂY HỒNG HOA 紅花 — Hình 12.3](/images/12-3-hong-hoa-cthh.png)
 
 #### D. Tác dụng dược lý
 

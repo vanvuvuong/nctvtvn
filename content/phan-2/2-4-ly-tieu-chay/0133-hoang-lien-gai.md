@@ -1,5 +1,5 @@
 ---
-title: "133. HOÀNG LIÊN GAI"
+title: "HOÀNG LIÊN GAI"
 weight: 133
 navWeight: 868
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -15,6 +15,12 @@ keywords:
   - chữa những triệu chứng của huyết áp cao như hoa mắt
 slug: "hoang-lien-gai"
 description: "Còn gọi ỉà hoàng mù-hoàng mộc."
+benh:
+  - đi lỵ
+  - đau răng
+  - mẩn ngứa mụn nhọt
+  - đau mắt
+  - viêm ruột
 ---
 
 

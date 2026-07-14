@@ -1,5 +1,5 @@
 ---
-title: "290. TUỔI CÂY GÔ LÁ"
+title: "TUỔI CÂY GÔ LÁ"
 weight: 290
 navWeight: 711
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,16 @@ keywords:
   - chữa bệnh chó dại
 slug: "tuoi-cay-go-la"
 description: "long nao % tinh dẩu % long não % tinh dầu %"
+benh:
+  - trụy tim
+  - đau bụng
+  - bệnh chó dại
+  - tê hệt
+  - chẻ
+  - tê thấp
+  - phù nể
+  - đau nhức
+  - phong tẽ thíp
 ---
 
 

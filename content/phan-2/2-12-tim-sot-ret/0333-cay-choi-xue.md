@@ -1,5 +1,5 @@
 ---
-title: "333. CÂY CHỔI XUỂ"
+title: "CÂY CHỔI XUỂ"
 weight: 333
 navWeight: 668
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,10 @@ keywords:
   - chữa cảm cúm
 slug: "cay-choi-xue"
 description: "Còn gọi là cây chổi sể, thanh hao."
+images:
+  - /images/hinh-499.png
+benh:
+  - cảm cúm
 ---
 
 
@@ -54,3 +58,4 @@ Cho đến nay, nhân dân thường chỉ dùng cây chổi xuể làm chổi q
 
 Với những kinh nghiệm trong nhân dân và những nghiên cứu gần đây, chúng ta có thể khai thác cây chổi xuể cất tinh dầu dùng chế một số dầu xoa và uổng chữa cảm cúm, đau nhức, ăn uống không tiêu như tại các tỉnh Nghệ An, Hà Tĩnh vẫn làm.
 
+![CÂY CHỔI XUỂ — Hình 499](/images/hinh-499.png)

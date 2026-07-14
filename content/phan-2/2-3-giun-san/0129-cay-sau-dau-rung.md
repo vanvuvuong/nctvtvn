@@ -1,5 +1,5 @@
 ---
-title: "129. CÂY SẤU ĐÂU RỪNG"
+title: "CÂY SẤU ĐÂU RỪNG"
 weight: 129
 navWeight: 872
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,18 @@ keywords:
   - chữa ỉa lỏng
 slug: "cay-sau-dau-rung"
 description: "Còn gọi là cây sầu đâu cứt chuột, hạt khổ sâm, khổ luyện tử, nha đảm tử, chù mền, san đực (Sầm Sơn), cứt cò (Vĩnh Linh), bạt bỉnh (Nghệ An)."
+benh:
+  - giun
+  - giun sán
+  - lỵ amip cấp tính
+  - ỉa lỏng
+  - sốt rét
+  - lỵ amip kết quả khỏi đạt
+  - lỵ trực trùng kết quả khỏi
+  - giun kim
+  - viêm phế quản mãn tinh
+  - băng đới
+  - lỵ amip
 ---
 
 

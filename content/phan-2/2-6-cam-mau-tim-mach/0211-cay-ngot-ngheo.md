@@ -1,5 +1,5 @@
 ---
-title: "211. CÂY NGỌT NGHẸO"
+title: "CÂY NGỌT NGHẸO"
 weight: 211
 navWeight: 790
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,10 @@ keywords:
   - cầm máu như vị tam thất
 slug: "cay-ngot-ngheo"
 description: "Còn gọi là nghẽo nghọt, roi, cỏ củ nhú nhoái, vinh quang rực rỡ, phan ma ha (Lào), var sleng đông đang (Cămpuchia)..."
+benh:
+  - rắn cắn
+  - mụn nhọt
+  - chữa
 ---
 
 

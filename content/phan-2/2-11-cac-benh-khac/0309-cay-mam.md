@@ -1,5 +1,5 @@
 ---
-title: "309. CÂY MẮM"
+title: "CÂY MẮM"
 weight: 309
 navWeight: 692
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "66. NIỆT GIÓ"
+title: "NIỆT GIÓ"
 weight: 66
 navWeight: 935
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

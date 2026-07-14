@@ -1,5 +1,5 @@
 ---
-title: "156. CÂY CAM XỮNG HmM"
+title: "CÂY CAM XỮNG HmM"
 weight: 156
 navWeight: 845
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - chữa trẻ con bị phù nề
 slug: "cay-cam-xung-hmm"
 description: "Còn gọi lả lưỡi cọp, đơn lưỡi cọp, đơn lưỡi hổ, lưỡi hùm."
+benh:
+  - đau vú
+  - đau bụng chướng bụng
+  - bí tiểu tiện
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "120. CÂY THÙN MỮN (1) à %M. M- %"
+title: "CÂY THÙN MỮN (1) à %M. M- %"
 weight: 120
 navWeight: 881
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,9 @@ keywords:
   - chữa giun sán
 slug: "cay-thun-mun-1-a-m-m"
 description: "Còn gọi là cây chua meo (tên ờ Lạng Giang, Bắc Giang), cây phi tủ, cây chua ngút - vốn vén, tấm cùi (Thổ), xốm mun (Thái)."
+benh:
+  - giun sán
+  - giun đũa
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "174. CỎ THIÊN THẢO"
+title: "CỎ THIÊN THẢO"
 weight: 174
 navWeight: 827
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,9 @@ keywords:
   - dùng làm thuốc xông cho ra mồ hôi
 slug: "co-thien-thao"
 description: "Còn gọi là; cây cứt lợn, kiếm, san nga (Luang Prabang)."
+benh:
+  - đau bụng
+  - thấp khớp
 ---
 
 

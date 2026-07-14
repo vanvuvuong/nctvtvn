@@ -1,5 +1,5 @@
 ---
-title: "311. MẬT MÔNG HOA s"
+title: "MẬT MÔNG HOA s"
 weight: 311
 navWeight: 690
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,18 @@ keywords:
   - chữa bệnh nhức đẩu
 slug: "mat-mong-hoa-s"
 description: "Còn gọi ìà mông hoa, lão mật mông hoa, lão mông hoa, hoa mật mồng."
+benh:
+  - thong manh
+  - ghẻ
+  - bệnh nhức đẩu
+  - nhức đáu
+  - bệnh scobut
+  - đau răng
+  - răng đau như
+  - đâu bụng
+  - đau nhức răng
+  - báng
+  - mụn to không rõ nguyên nhân
 ---
 
 

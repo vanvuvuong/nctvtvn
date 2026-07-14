@@ -1,5 +1,5 @@
 ---
-title: "108. MUỔNG TRUổNG $£"
+title: "MUỔNG TRUổNG $£"
 weight: 108
 navWeight: 893
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - chữa mẩn ngứa
 slug: "muong-truong"
 description: "Còn gụi lò màn tàn, sen lai, tần tiêu, buồn chuồn, mú tương, cam."
+benh:
+  - mẩn ngứa
 ---
 
 

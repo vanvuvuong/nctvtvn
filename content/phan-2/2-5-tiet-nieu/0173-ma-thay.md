@@ -1,5 +1,5 @@
 ---
-title: "173. MÃ THẦY"
+title: "MÃ THẦY"
 weight: 173
 navWeight: 828
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,8 @@ keywords:
   - Heỉeocharis plantaginea R
 slug: "ma-thay"
 description: "Cỏn ỊỊỌÌ ỉà củ năn, bột tể."
+benh:
+  - bệnh tiêu khát
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "307. NGÔ ĐỔNG"
+title: "NGÔ ĐỔNG"
 weight: 307
 navWeight: 694
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,9 @@ keywords:
   - chữa loét miệng
 slug: "ngo-dong"
 description: "Tên khoa học Síerculia pỉatanìfoỉia L."
+benh:
+  - rụng tóc
+  - loét miệng
 ---
 
 

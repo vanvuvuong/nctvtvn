@@ -1,5 +1,5 @@
 ---
-title: "237. NẤM HƯƠNG"
+title: "NẤM HƯƠNG"
 weight: 237
 navWeight: 764
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,8 @@ keywords:
   - trị cao trên thị
 slug: "nam-huong"
 description: "Còn gọi là bioc hom, lét lang. ịpỉeurotaceae)."
+benh:
+  - cao trên thị
 ---
 
 

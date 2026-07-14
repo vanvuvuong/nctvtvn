@@ -1,5 +1,5 @@
 ---
-title: "226. MỘC HƯƠNG"
+title: "MỘC HƯƠNG"
 weight: 226
 navWeight: 775
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,12 @@ keywords:
   - chữa tim khác như strophantin
 slug: "moc-huong"
 description: "Trên thị trường có nhiều loại mộc hương, nhưng sau đây là 2 vị chính:"
+benh:
+  - ngực bụng đầy
+  - đau bụng đi lỵ
+  - đau bụng
+  - táo bón
+  - tim
 ---
 
 

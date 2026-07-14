@@ -1,5 +1,5 @@
 ---
-title: "241. CÂY LÁ MEN"
+title: "CÂY LÁ MEN"
 weight: 241
 navWeight: 760
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa đau bụng
 slug: "cay-la-men"
 description: "Còn gọi là kinh gicti núi, cầy men."
+benh:
+  - đau bụng
 ---
 
 

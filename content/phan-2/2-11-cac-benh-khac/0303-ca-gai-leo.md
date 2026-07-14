@@ -1,5 +1,5 @@
 ---
-title: "303. CÀ GAI LEO"
+title: "CÀ GAI LEO"
 weight: 303
 navWeight: 698
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,11 @@ keywords:
   - chữa phong thấp
 slug: "ca-gai-leo"
 description: "Còn ẹọi là cà quính, cà quánh, trap khar (Campuchia), Blou xít (Lào)."
+benh:
+  - phong thấp
+  - say rượu
+  - bệnh lậu
+  - rắn cắn
 ---
 
 

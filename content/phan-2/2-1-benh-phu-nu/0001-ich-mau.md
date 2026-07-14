@@ -1,5 +1,5 @@
 ---
-title: "1. ÍCH MẪU 益母草"
+title: "ÍCH MẪU 益母草"
 weight: 1
 navWeight: 1000
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -28,6 +28,8 @@ slug: "ich-mau"
 description: "Còn gọi là ích mẫu thảo, sung úy, chói đèn."
 images:
   - /images/4-ich-mau-1.png
+  - /images/5-ich-mau-2.png
+  - /images/5-2-leonurin.png
 ---
 
 _Còn gọi_ là ích mẫu thảo, sung úy, chói đèn.
@@ -52,11 +54,11 @@ Ngoài cây ích mẫu mô tả trên, cần chú ý phát hiện và phân bi�
 1. Lá trên cùng không chia thùy, tràng hoa đài 9-12mm, môi trên, môi dưới gần bằng nhau... Leonurus heterophyllus
 2. Lá trên cùng xẻ 3 thùy, tràng hoa dài 15- 20mm, môi dưới ngắn hơn môi trên... _Leonurus_
 
-![ich-mau-1](/images/4-ich-mau-1.png)
+![ÍCH MẪU 益母草 — Hình 4](/images/4-ich-mau-1.png)
 
 Hình 4. ích mẫu - Leonurus heterophyllus
 
-![ich-mau-2](/images/5-ich-mau-2.png)
+![ÍCH MẪU 益母草 — Hình 5](/images/5-ich-mau-2.png)
 
 Hình 5. ích mẫu - Leonurus sibiricus
 
@@ -74,7 +76,7 @@ Cây ích mẫu _Leonurus heterophyllus_ chưa thấy tài liệu nghiên cứu.
 
 Từ cây ích mẫu _Leonurus sibiricus_, các nhà nghiên cứu Nhật Bản (_Nhật Bản dược vật học tạp chí_ 1930, tr. 153-158) đã chiết được 0,05% ancaloit gọi là leonurin C₁₃H₁₉O₄N₄ có độ chảy 238°C.
 
-![leonurin](/images/5-2-leonurin.png)
+![ÍCH MẪU 益母草 — Hình 5.2](/images/5-2-leonurin.png)
 
 Leonurin
 

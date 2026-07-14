@@ -1,5 +1,5 @@
 ---
-title: "167. KIM TIỂN THẢO"
+title: "KIM TIỂN THẢO"
 weight: 167
 navWeight: 834
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,8 @@ keywords:
   - chữa bệnh sỏi túi mật
 slug: "kim-tien-thao"
 description: "Còn có tên là mắt trâu, đồng tiền lông, vảy rồng, mắt rồng."
+benh:
+  - bệnh sỏi túi mật
 ---
 
 

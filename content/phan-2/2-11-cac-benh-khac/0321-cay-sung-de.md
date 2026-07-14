@@ -1,5 +1,5 @@
 ---
-title: "321. CÂY SỪNG DÊ"
+title: "CÂY SỪNG DÊ"
 weight: 321
 navWeight: 680
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,9 @@ keywords:
   - Strophanthus divar
 slug: "cay-sung-de"
 description: "Cỏn gọi là cây sừng trâu, dương giác nữu, đương giác ảo, hoa độc mao ư hoa tử, cây sừng bò."
+benh:
+  - tim chiết từ hạt strophanthus kombe
+  - bệnh tim thay những loại
 ---
 
 

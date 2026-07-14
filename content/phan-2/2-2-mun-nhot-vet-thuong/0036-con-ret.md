@@ -1,5 +1,5 @@
 ---
-title: "36. CON RẾT"
+title: "CON RẾT"
 weight: 36
 navWeight: 965
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

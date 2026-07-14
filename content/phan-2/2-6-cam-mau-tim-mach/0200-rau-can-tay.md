@@ -1,5 +1,5 @@
 ---
-title: "200. RAU CẦN TÂY芹菜"
+title: "RAU CẦN TÂY芹菜"
 weight: 200
 navWeight: 801
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,9 @@ keywords:
   - chữa bệnh huyết áp
 slug: "rau-can-tay"
 description: "Tên khoa học Apium graveolens L."
+benh:
+  - huyết áp
+  - bệnh huyết áp
 ---
 
 

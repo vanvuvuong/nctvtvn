@@ -1,5 +1,5 @@
 ---
-title: "206. HƯƠNG BÀI"
+title: "HƯƠNG BÀI"
 weight: 206
 navWeight: 795
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

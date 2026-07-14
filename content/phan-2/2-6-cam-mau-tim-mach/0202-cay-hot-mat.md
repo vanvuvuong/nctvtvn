@@ -1,5 +1,5 @@
 ---
-title: "202. CÂY HỘT MÁT"
+title: "CÂY HỘT MÁT"
 weight: 202
 navWeight: 799
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,10 @@ keywords:
   - làm thuốc trừ sâu bọ hại hoa màu
 slug: "cay-hot-mat"
 description: "Còn gọi là cây xa, thàn mát."
+benh:
+  - hủi
+  - ngộ độc bằng lá ngón
+  - bệnh động kinh
 ---
 
 

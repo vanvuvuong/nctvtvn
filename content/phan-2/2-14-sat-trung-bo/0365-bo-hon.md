@@ -1,5 +1,5 @@
 ---
-title: "365. BỒ HÒN 無患子"
+title: "BỒ HÒN 無患子"
 weight: 365
 navWeight: 636
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,11 @@ keywords:
   - chữa hôi miệng
 slug: "bo-hon"
 description: "Còn gọi là bòn hòn, vô hoạn, thụ, lai patt (dân tộc núi Bà Rá-Biên Hoà), savonnier (Pháp)."
+images:
+  - /images/hinh-579.png
+benh:
+  - ho trừ đờm
+  - hôi miệng
 ---
 
 
@@ -52,3 +57,4 @@ Theo tài liệu cổ bồ hòn có tác dụng chữa ho trừ đờm, nhân h�
 
 Một số vùng ở Việt Nam và Trung Quốc dùng vỏ cây bồ hòn giã nát ngâm nước tắm cho súc vật bị bọ, rận, chấy.
 
+![BỒ HÒN 無患子 — Hình 579](/images/hinh-579.png)

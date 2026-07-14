@@ -1,5 +1,5 @@
 ---
-title: "329. CÂY CỐI XAY 磨盘草"
+title: "CÂY CỐI XAY 磨盘草"
 weight: 329
 navWeight: 672
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -16,6 +16,13 @@ keywords:
   - chữa tai điếc rất tốt
 slug: "cay-coi-xay"
 description: "Còn gọi là cây dằng xay, kim hoa thảo, ma mãnh tháo, nhĩ hương thảo."
+images:
+  - /images/hinh-468.png
+benh:
+  - tai điếc
+  - sốt
+  - xích
+  - mụn nhọt
 ---
 
 
@@ -60,3 +67,4 @@ Chú thích:
 
 Tại Trung Quốc người ta thường hay dùng một cây cùng chi với cối xay: Abutilon avicennae Gaertn (Abuliton theophrasti Medic.) cùng họ, gọi là mãnh ma hay bạch ma. Hạt của nó gọi là đông quì tử có chứa chất protit và chất béo 15- 20%, có khi tới 30% dùng chữa xích và bạch lỵ, còn dùng chữa mụn nhọt, đại tiểu tiện khó khăn, thuỷ thũng, vú sưng đau. Ngày uống 4-12g dưới dạng thuốc sắc.
 
+![CÂY CỐI XAY 磨盘草 — Hình 468](/images/hinh-468.png)

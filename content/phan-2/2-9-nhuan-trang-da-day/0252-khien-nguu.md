@@ -1,5 +1,5 @@
 ---
-title: "252. KHIÊN NGƯU 牵牛"
+title: "KHIÊN NGƯU 牵牛"
 weight: 252
 navWeight: 749
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,12 @@ keywords:
   - thông mật đôi khi có tác dụng ra giun
 slug: "khien-nguu"
 description: "Còn gọi là hắc sửu, bạch sửu, bìm bìm biếc, kalađana (Ấn Độ)."
+benh:
+  - tiện bĩ
+  - hạ khí
+  - cước thũng
+  - phù thũng
+  - tinh thần phân liệt
 ---
 
 

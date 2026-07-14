@@ -1,5 +1,5 @@
 ---
-title: "223. THƯƠNG TRUẬT"
+title: "THƯƠNG TRUẬT"
 weight: 223
 navWeight: 778
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,8 @@ keywords:
   - chữa đi ỉa lỏng
 slug: "thuong-truat"
 description: "Còn gọi ỉà mao truật, xích truật, nam thương truủt."
+benh:
+  - đi ỉa lỏng
 ---
 
 

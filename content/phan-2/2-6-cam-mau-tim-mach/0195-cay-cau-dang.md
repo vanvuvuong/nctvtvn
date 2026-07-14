@@ -1,5 +1,5 @@
 ---
-title: "195. CÂY CÂU ĐẰNG"
+title: "CÂY CÂU ĐẰNG"
 weight: 195
 navWeight: 806
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,13 @@ keywords:
   - chữa trẻ con hàn nhiệt kinh giản
 slug: "cay-cau-dang"
 description: "Tên khoa học Uncaria rhynchophylla (Miq) Jack."
+benh:
+  - bệnh cao huyết áp câu đằng
+  - bệnh cao huyết áp
+  - băng huyết
+  - bệnh nhức mỏi
+  - mụn nhọt
+  - sốt
 ---
 
 

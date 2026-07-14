@@ -1,5 +1,5 @@
 ---
-title: "48. CẢO BẢN"
+title: "CẢO BẢN"
 weight: 48
 navWeight: 953
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

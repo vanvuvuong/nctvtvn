@@ -1,5 +1,5 @@
 ---
-title: "118. CÂY BÁCH BỘ WẵỊ5"
+title: "CÂY BÁCH BỘ WẵỊ5"
 weight: 118
 navWeight: 883
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - trị luôn như vậy
 slug: "cay-bach-bo-wai5"
 description: "Cỏn có tên là dây đẹt ác, dây ba mươi."
+benh:
+  - giun
+  - bệnh lao hạch thu được kết
+  - luôn như
 ---
 
 

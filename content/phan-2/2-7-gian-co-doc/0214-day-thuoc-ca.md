@@ -1,5 +1,5 @@
 ---
-title: "214. DÂY THUỐC CÁ"
+title: "DÂY THUỐC CÁ"
 weight: 214
 navWeight: 787
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,34 @@ keywords:
   - chữa bệnh ở bộ máy tiêu hóa sơn tra 山楂 còn gọi là bắc sơn tra
 slug: "day-thuoc-ca"
 description: "Còn gọi là dây duốc cá, dây mật, dây cóc, dây cát, lầu tín, tuba root (Anh), derris (Pháp), touba."
+images:
+  - /images/hinh-265.png
+  - /images/hinh-266.png
+  - /images/hinh-267.png
+  - /images/hinh-268.png
+  - /images/hinh-269.png
+  - /images/hinh-270.png
+  - /images/hinh-271.png
+  - /images/hinh-272.png
+  - /images/hinh-273.png
+  - /images/hinh-274.png
+  - /images/hinh-275.png
+benh:
+  - ghẻ dưới dạng thuốc mỡ
+  - tim
+  - tả lỵ
+  - tích khối
+  - ăn uống không tiêu
+  - bốn mùa cảm mạo
+  - bệnh uống không tiêu
+  - tim digitalis
+  - bệnh loét dạ dày có kết
+  - trai chân
+  - bệnh biếng ăn
+  - bệnh ho
+  - cá đuối cắn rễ đu đủ
+  - mụn nhọt
+  - viêm niêm mạc cổ họng
 ---
 
 
@@ -700,3 +728,24 @@ Trong đó:
 
 - Shogaola
 
+![DÂY THUỐC CÁ — Hình 265](/images/hinh-265.png)
+
+![DÂY THUỐC CÁ — Hình 266](/images/hinh-266.png)
+
+![DÂY THUỐC CÁ — Hình 267](/images/hinh-267.png)
+
+![DÂY THUỐC CÁ — Hình 268](/images/hinh-268.png)
+
+![DÂY THUỐC CÁ — Hình 269](/images/hinh-269.png)
+
+![DÂY THUỐC CÁ — Hình 270](/images/hinh-270.png)
+
+![DÂY THUỐC CÁ — Hình 271](/images/hinh-271.png)
+
+![DÂY THUỐC CÁ — Hình 272](/images/hinh-272.png)
+
+![DÂY THUỐC CÁ — Hình 273](/images/hinh-273.png)
+
+![DÂY THUỐC CÁ — Hình 274](/images/hinh-274.png)
+
+![DÂY THUỐC CÁ — Hình 275](/images/hinh-275.png)

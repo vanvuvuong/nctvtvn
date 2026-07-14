@@ -1,5 +1,5 @@
 ---
-title: "176. CÂY NGHỂ"
+title: "CÂY NGHỂ"
 weight: 176
 navWeight: 825
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

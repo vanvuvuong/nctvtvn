@@ -1,5 +1,5 @@
 ---
-title: "8. CÂY HOA CỨT LỢN 馬缨丹"
+title: "CÂY HOA CỨT LỢN 馬缨丹"
 weight: 8
 navWeight: 993
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -29,7 +29,7 @@ Thuộc họ Cúc _Asteraceae(Compositae)_.
 
 Cây hoa cứt lợn là một cây nhỏ, mọc hàng năm, thân có nhiều lông nhỏ mềm, cao chừng 25-50cm, mọc hoang ở khắp nơi trong nước ta. Lá mọc đối hình trứng hay 3 cạnh, dài 2-6cm, rộng 1-3cm, mép có răng cưa tròn, hai mặt đều có lông, mặt dưới của lá nhạt hơn. Hoa nhỏ, màu tím, xanh. Quả bế màu đen, có 5 sống dọc (Hình 14, Hm 45,1).
 
-![cay-cut-lon](/images/14-cay-cut-lon.png)
+![CÂY HOA CỨT LỢN 馬缨丹 — Hình 14](/images/14-cay-cut-lon.png)
 
 _Hình 14. Cây cứt lợn - Ageratum conyzoides_
 

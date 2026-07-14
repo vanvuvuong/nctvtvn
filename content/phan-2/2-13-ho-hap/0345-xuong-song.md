@@ -1,5 +1,5 @@
 ---
-title: "345. XƯƠNG SÔNG"
+title: "XƯƠNG SÔNG"
 weight: 345
 navWeight: 656
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -11,6 +11,16 @@ keywords:
   - chữa cảm sốt
 slug: "xuong-song"
 description: "Còn gọi là rau súng ăn gỏi, xang sông, hoạt lộc thảo."
+benh:
+  - cảm sốt
+  - sốt
+  - cảm cúm
+  - ăn uống không tiêu
+  - tiêu khát
+  - nhức đầu
+  - mệt nhọc
+  - loét dạ dầy
+  - trẻ con sài đầu
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "347. MÓC MÈO NÚI"
+title: "MÓC MÈO NÚI"
 weight: 347
 navWeight: 654
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,10 @@ keywords:
   - tẩy giun
 slug: "moc-meo-nui"
 description: "Còn gọi là vuốt hùm, bonduc, eniquier, pois- quenique, yeux de chat."
+benh:
+  - sốt
+  - sốt rét
+  - cảm cúm
 ---
 
 

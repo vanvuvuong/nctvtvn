@@ -1,5 +1,5 @@
 ---
-title: "105. KHOAI NƯA"
+title: "KHOAI NƯA"
 weight: 105
 navWeight: 896
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -10,6 +10,16 @@ keywords:
   - chữa lòi dom
 slug: "khoai-nua"
 description: "Còn gọi là củ nưa, khoai na."
+benh:
+  - rắn cắn
+  - liệt nửa
+  - lòi dom
+  - tiểu tiện đục
+  - nhức đầu
+  - bệnh sổ mũi
+  - hen
+  - phù
+  - sâu răng
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "299. CÂY BAN £5«"
+title: "CÂY BAN £5«"
 weight: 299
 navWeight: 702
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -17,6 +17,11 @@ keywords:
   - chữa những vết do đỉa cắn
 slug: "cay-ban-5"
 description: "Còn gọi là điền cơ vương, điền cơ hoàng, địa nhĩ thảo, dạ quan môn, nọc sởi, bioc lương, châm hương."
+benh:
+  - tiêu hoá kém
+  - cam tích
+  - rắn cắn
+  - hôi miệng sâu răng
 ---
 
 

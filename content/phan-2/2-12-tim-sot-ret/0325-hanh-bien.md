@@ -1,5 +1,5 @@
 ---
-title: "325. HÀNH BIỂN"
+title: "HÀNH BIỂN"
 weight: 325
 navWeight: 676
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -13,6 +13,10 @@ keywords:
   - chữa tim mà là do chất sciliroit đã nói ở trên
 slug: "hanh-bien"
 description: "Tên khoa học Scilla maritima L. (Urginea scilla Steinh., Urginea maritima (L.) Baker)"
+images:
+  - /images/hinh-463.png
+benh:
+  - tim mà là
 ---
 
 
@@ -101,3 +105,4 @@ Theo M. L. Danzel, cách chế hành biển đỏ giết chuột tiến hành nh
 
 Người ta cho rằng củ hành biển độc đối với chuột không phải do các glucozit chữa tim mà là do chất sciliroit đã nói ở trên.
 
+![HÀNH BIỂN — Hình 463](/images/hinh-463.png)

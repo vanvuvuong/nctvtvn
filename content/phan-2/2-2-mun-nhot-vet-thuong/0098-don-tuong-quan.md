@@ -1,5 +1,5 @@
 ---
-title: "98. ĐƠN TƯỚNG QUÂN"
+title: "ĐƠN TƯỚNG QUÂN"
 weight: 98
 navWeight: 903
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi

@@ -1,5 +1,5 @@
 ---
-title: "294. RUNG RÚC"
+title: "RUNG RÚC"
 weight: 294
 navWeight: 707
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -9,6 +9,9 @@ keywords:
   - Berchemia ỉìneata
 slug: "rung-ruc"
 description: "Cỏn gọi ì à rút dế, cứt chuột, đồng bìa."
+benh:
+  - tê thấp
+  - sổt
 ---
 
 

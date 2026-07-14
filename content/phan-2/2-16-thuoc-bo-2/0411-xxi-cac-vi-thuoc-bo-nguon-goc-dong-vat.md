@@ -1,5 +1,5 @@
 ---
-title: "411. XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT"
+title: "XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT"
 weight: 411
 navWeight: 590
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,33 @@ keywords:
   - bổ thận tráng dương ôn trung
 slug: "xxi-cac-vi-thuoc-bo-nguon-goc-dong-vat"
 description: "LỘC NHUNG, MÊ NHUNG 鹿茸"
+images:
+  - /images/hinh-710.png
+  - /images/hinh-711.png
+  - /images/hinh-712.png
+  - /images/hinh-714.png
+  - /images/hinh-715.png
+  - /images/hinh-716.png
+  - /images/hinh-717.png
+  - /images/hinh-718.png
+  - /images/hinh-720.png
+  - /images/hinh-721.png
+benh:
+  - giá gấp
+  - sang thương thũng độc
+  - hư lao gầy yếu
+  - mệt mỏi
+  - bệnh liệt dương ích tinh khí
+  - khớp xương bị sưng phù
+  - mất ngù
+  - hư lao sinh ho
+  - đi ỉa lỏng
+  - loét dạ dày
+  - bệnh nam giới
+  - bệnh phụ nữ
+  - và phòng một số
+  - gầy yếu
+  - bệnh mùa hạ
 ---
 
 
@@ -1123,3 +1150,22 @@ Thường dùng chữa hư yếu, ho lao, sốt từng cơn, hen suyễn, thổ 
 
 Theo tài liệu cổ thì đối với những người biểu tà, vị hư hàn không dùng được.
 
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 710](/images/hinh-710.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 711](/images/hinh-711.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 712](/images/hinh-712.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 714](/images/hinh-714.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 715](/images/hinh-715.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 716](/images/hinh-716.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 717](/images/hinh-717.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 718](/images/hinh-718.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 720](/images/hinh-720.png)
+
+![XXI. CÁC VỊ THUỐC BỔ NGUỒN GỐC ĐỘNG VẬT — Hình 721](/images/hinh-721.png)

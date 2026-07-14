@@ -1,5 +1,5 @@
 ---
-title: "337. KHƯƠNG HOẠT 羌活"
+title: "KHƯƠNG HOẠT 羌活"
 weight: 337
 navWeight: 664
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -19,6 +19,16 @@ keywords:
   - chữa các chứng phong ẩn náu làm cho nhức đầu
 slug: "khuong-hoat"
 description: "Tên khoa học Rhizoma Notopterygii."
+images:
+  - /images/hinh-513.png
+  - /images/hinh-514.png
+benh:
+  - tê thấp đau nhức
+  - chứng thủy thấp phong
+  - chứng thủng phấp phục phong
+  - nhức đầu
+  - khát
+  - sốt
 ---
 
 
@@ -117,3 +127,6 @@ Củ niễng dùng xào nấu, có vị thơm béo.
 
 Tại một số nước như Nhật Bản, quả niễng được dùng làm thực phẩm ăn độn với cơm.
 
+![KHƯƠNG HOẠT 羌活 — Hình 513](/images/hinh-513.png)
+
+![KHƯƠNG HOẠT 羌活 — Hình 514](/images/hinh-514.png)

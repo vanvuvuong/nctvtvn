@@ -1,5 +1,5 @@
 ---
-title: "152. TAI CHUỘT"
+title: "TAI CHUỘT"
 weight: 152
 navWeight: 849
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -14,6 +14,9 @@ keywords:
   - chữa nhũng trường hợp viêm ống tiểu tiện
 slug: "tai-chuot"
 description: "Còn gọi lủ cây hạt bí, qua tử kim."
+benh:
+  - nhũng trường hợp viêm ống tiểu
+  - bệnh than
 ---
 
 

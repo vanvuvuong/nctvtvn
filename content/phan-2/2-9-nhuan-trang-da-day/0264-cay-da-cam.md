@@ -1,5 +1,5 @@
 ---
-title: "264. CÂY DẠ CẨM"
+title: "CÂY DẠ CẨM"
 weight: 264
 navWeight: 737
 author: Giáo sư Tiến sĩ Đỗ Tất Lợi
@@ -12,6 +12,10 @@ keywords:
   - trị bệnh đau đạ dày từ năm 1962
 slug: "cay-da-cam"
 description: "Còn gọi là cây loét mồm, đất lượt, đứt lướt, chạ khẩu cắm."
+benh:
+  - loét mồm
+  - bệnh đau đạ dày từ năm
+  - viêm lưỡi
 ---
 
 
