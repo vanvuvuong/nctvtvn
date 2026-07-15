@@ -5,3 +5,8 @@ pwa:
     pages:
       - /
 metaRobots: "index, follow"
+# Custom: docs left-nav always shows every part of the book, not just the active section
+docs:
+  nav:
+    expand: false
+    reduceFontSize: true

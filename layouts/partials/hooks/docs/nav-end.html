@@ -1,0 +1,18 @@
+<script>
+(function(){
+  if (window.matchMedia && !window.matchMedia("(min-width: 1400px)").matches) return;
+  function scrollActiveIntoView(){
+    var scope = document.querySelector(".docs-nav") || document;
+    var active = scope.querySelector(".docs-nav-active-item")
+              || scope.querySelector(".docs-nav-link.active")
+              || scope.querySelector(".text-primary .docs-nav-link");
+    if (!active) return;
+    try { active.scrollIntoView({block:"center", inline:"nearest", behavior:"auto"}); }
+    catch(e) { active.scrollIntoView(); }
+  }
+  if (document.readyState === "loading")
+    document.addEventListener("DOMContentLoaded", scrollActiveIntoView);
+  else
+    scrollActiveIntoView();
+})();
+</script>

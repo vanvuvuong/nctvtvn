@@ -1,25 +1,92 @@
-// ---------------------------------------------------------------------------
-// Phase 6 responsive fix
-// Long site title in .navbar-brand rendered on a single line and forced the
-// mobile viewport to ~447px wide (horizontal scroll on phones). Allow it to
-// wrap and cap its width so the page never exceeds the viewport.
-// ---------------------------------------------------------------------------
-@media (max-width: 767.98px) {
-  .navbar-brand {
-    white-space: normal;
-    font-size: 0.95rem;
-    line-height: 1.15;
-    max-width: calc(100vw - 108px);
-    overflow-wrap: anywhere;
-  }
-  .navbar-brand img {
-    max-height: 28px;
-    width: auto;
+// ============================================================
+//  Custom overrides for Những cây thuốc và vị thuốc Việt Nam
+// ============================================================
+
+// -------- Docs left-nav: desktop-only sticky/scroll --------
+@media (min-width: 1400px) {
+  .docs-nav {
+    position: sticky;
+    top: 4.5rem;
+    max-height: calc(100vh - 5rem);
+    overflow-y: auto;
+    align-self: flex-start;
+    scroll-behavior: smooth;
+    padding-right: .25rem;
+
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0,0,0,.25) transparent;
+    &::-webkit-scrollbar        { width: 6px; }
+    &::-webkit-scrollbar-thumb  { background: rgba(0,0,0,.22); border-radius: 3px; }
+    &::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,.4); }
   }
 }
 
-// Safety net against any other stray wide element.
-html,
-body {
-  overflow-x: hidden;
+// -------- Mobile offcanvas: solid opaque background, theme-aware --------
+@media (max-width: 1399.98px) {
+  .offcanvas-xxl.show,
+  .offcanvas-xxl.showing { z-index: 1055 !important; }
+  .offcanvas-backdrop.show { z-index: 1050 !important; opacity: .55 !important; }
+
+  #offcanvasDocsNav {
+    max-width: 88vw;
+    box-shadow: 0 8px 32px rgba(0,0,0,.35);
+    background-color: #ffffff !important;   // light-mode fallback
+    color: #212529 !important;
+    -webkit-backdrop-filter: none !important;
+    backdrop-filter: none !important;
+    opacity: 1 !important;
+
+    .offcanvas-header,
+    .offcanvas-body {
+      background-color: inherit !important;
+    }
+    .docs-nav-link,
+    .docs-nav-title,
+    a { color: inherit; }
+    .text-primary,
+    .text-primary .docs-nav-link { color: var(--bs-primary) !important; }
+  }
+
+  // Dark theme override
+  [data-bs-theme="dark"] #offcanvasDocsNav {
+    background-color: #1a1d21 !important;
+    color: #e9ecef !important;
+    box-shadow: 0 8px 32px rgba(0,0,0,.7);
+  }
+
+  // Follow OS dark preference when theme is set to auto
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-bs-theme="light"]) #offcanvasDocsNav {
+      background-color: #1a1d21 !important;
+      color: #e9ecef !important;
+    }
+  }
+}
+
+// -------- Active-item highlight (all viewports) --------
+.docs-nav-active-item {
+  background: rgba(13, 110, 253, .10);
+  border-left-width: 3px !important;
+  border-radius: 0 .25rem .25rem 0;
+  font-weight: 600;
+
+  a, .docs-nav-link { color: var(--bs-primary) !important; }
+}
+
+.docs-nav .text-primary > .docs-nav-link { font-weight: 600; }
+
+.docs-nav-link {
+  transition: color .15s ease, background-color .15s ease;
+  &:hover { color: var(--bs-primary); text-decoration: none; }
+}
+
+// -------- Dark mode tint for scrollbar --------
+[data-bs-theme="dark"] {
+  .docs-nav-active-item { background: rgba(110, 168, 254, .18); }
+  @media (min-width: 1400px) {
+    .docs-nav {
+      scrollbar-color: rgba(255,255,255,.25) transparent;
+      &::-webkit-scrollbar-thumb { background: rgba(255,255,255,.22); }
+    }
+  }
 }
