@@ -5,22 +5,6 @@ author: Giáo sư Tiến sĩ Đỗ Tất Lợi
 navWeight: 100
 description: "Thuốc đông (bao gồm cả thuốc nam và thuốc bắc) là những vị thuốc kinh nghiệm của ông cha ta, có tác dụng chữa bệnh tốt, dễ kiếm, lại rẻ tiền, việc sử dụng…"
 slug: "i-phan-chung"
-benh:
-  - bệnh tốt
-  - bệnh rõ rệt
-  - bệnh
-  - bệnh trẻ em
-  - hư lao
-  - ho cảm
-  - bệnh giúp
-  - tìm thuốc chế thuốc đều
-  - khỏi
-  - bệnh tật chẳng
-  - bằng cách bổ âm
-  - thuốc nóng
-  - bằng thuốc trợ dương
-  - bằng
-  - dương
 ---
 
 # Phần I: PHẦN CHUNG

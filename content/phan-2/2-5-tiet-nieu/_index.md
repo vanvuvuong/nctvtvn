@@ -18,9 +18,4 @@ bôi lên nhiều lần trong ngày (SEVPM-1977).
 
 5. Chữa phỏng lửa chưa phồng da: 3 quả dưa chuột hái vào ngày 5 tháng 5 âm lịch (mùa hè) bỏ vào bình chát kín. Để ngoài hiên. Khi bị bòng, lấy nước trong bình dưa chuột mà bôi lên. (Nam dược thần hiệu).
 
-
-
-
-
-
 Cỏn gọi là tạc tương thảo, toan tương thảo, toan vị thảo, toan vị vị, chua me ba chìa, tam diệp toan.

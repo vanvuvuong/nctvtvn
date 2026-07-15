@@ -158,8 +158,6 @@ Tại một bệnh viện Trung Quốc người ta đã dùng thử nước sắ
 
 Mùa thu hoạch vỏ quả lựu: Mùa hè.
 
-
-
 Hoàng liên (Coptis - Rhizoma Coptidis) là thân rẽ phơi khô của nhiều loài hoàng liên chân gà như Coptis quinquesecta, Coptis sìnensis Franch, Coptis tceta Wall., Coptis teetoides c. Y. Cheng v.v... đều thuộc họ Mao lương Ranunculaceae.
 
 Hoàng liên là một loại cây cỏ nhỏ, sống lâu năm, cao độ 20-35cm. Lá mọc so le từ thân rễ, có cuống đài. Phiến lá gồm 3-5 lá chét. Mỗi lá chét lại chia thành nhiều thùy, mép có răng cưa to. Đầu mùa xuân sinh trục mang hoa dài chừng

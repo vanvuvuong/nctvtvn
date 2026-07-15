@@ -20,9 +20,4 @@ D. Cóng dụng và liều dùng
 
 Chỉ mới thấy dùng trong phạm vi nhân dân. Vỏ rễ nhai như nhai trầu có tác dụng làm cho chắc răng. Lá và rễ sắc uống có tác dụng chữa đau lưng, mỏi gối, tê thấp. Ngày dùng 10-20g dưới dạng thuốc sắc. Dùng riêng hay phối hợp với nhiều vị khác như thiên niên kiện, thổ phục linh.
 
-
-
-
-
-
 Cỏn gọi ì à rút dế, cứt chuột, đồng bìa.

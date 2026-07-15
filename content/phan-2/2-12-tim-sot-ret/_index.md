@@ -30,11 +30,9 @@ Có tác giả cho rằng dầu hạt thông thiên có độc, gây nôn và đ
 
 a/ Tevetin-C₄₂H₆₆O₁₈.3H₂0- trọng lượng phân tử 912,9 là một chất có tinh thể, không màu, không mùi, vị rất đắng. Tan trong 12 phần nước ở nhiệt độ 15°C, không tan trong axeton, clorofoc và ête. Độ chảy 192-193°C. Năng suất quay cực ở 20° là -62°5 (trong rượu metylic).
 
-
 Thủy phân tevetin sẽ cho một phân tử tevetoza, 2 phần tử glucoza và một phần không đường (genin hay aglycon). Phần không đường của tevetin rất giống phần không đường của digitalin, nhưng trong khi ta thủy phân digitalin bằng tác nhân lý hoá nhẹ, digitalin dễ dàng giải phóng 3 chất đường digitoxoza và digitoxigenin không tan, trái lại trong trường hợp đó đường tevetoza là một đường đặc hiệu của tevetin dính chặt với phần không đường làm cho tevetin có độ tan nhiều hơn, do đó tác dụng nhanh hơn, ít tích luỹ hơn và cũng ít độc hơn digitalin. Tỷ lệ tevetin chiết suất được từ 3-5%.
 
 Tevetin cho phản ứng Legal dương tính mà không cho phản ứng Keller-Kiliani.
-
 
 b/ Neriifolin và dẫn xuất monoaxetyl của neriifolin.
 

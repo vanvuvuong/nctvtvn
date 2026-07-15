@@ -8,11 +8,6 @@ description: "Các cây thuốc và vị thuốc chữa giãn cơ và thuốc đ
 
 ## VII. CÁC CÂY THUỐC VÀ VỊ THUỐC CÓ TÁC DỤNG GIÃN CƠ VÀ THUỐC ĐỘC
 
-
-
-
-
-
 Curarơ là những chế phẩm phức tạp chủ yếu chế từ một số cây thuộc chi Mã tiền (Strychnos) họ Mã tiền Loganiaceae như Strychnos toxifera, S. gubleri, S. curare v.v... có khi phối hợp với một số cây thuộc chi và họ khác như cây Chondodendron tomentosum thuộc họ Tiết dê (Menispermaceae), một số cây thuộc họ Ngũ gia bì (Araliaceae), họ Mộc hương (Aristolochiaceae) v.v...
 
 Chế curarơ là một bí truyền bắt nguồn từ một số dân tộc vùng Nam Mỹ (nhiều nhất vùng Amazone, Orenoque) thường dùng trong săn bắn thú rừng. Đặc điểm của curarơ là độ độc rất cao, nhưng gần như không độc nếu uống, chỉ khi nào có vết sây sát thì chất độc vào máu và hầu như chết tức khắc. Thịt thú rừng chết do chất độc curarơ ăn được, thịt mềm chứ không co cứng. Bị ngộ độc do curarơ thì con vật chết không có cơn co giật, trái với ngộ độc do mã tiền hay thuốc độc cùng loại strycnin.
@@ -80,7 +75,6 @@ Tuy nhiện việc nghiện cứu còn cần tiếp tục nhiều và còn gặp
 [http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tubocurarine.svg/640px-Tubocurarine.svg.png?1432191082484]
 
 d-Tubocurarin
-
 
 Curin
 

@@ -6,12 +6,7 @@ slug: "mun-nhot-vet-thuong-va-mot-so-benh-ngoai-da"
 description: "Các cây thuốc và vị thuốc chữa mụn nhọt, vết thương và một số bệnh ngoài da"
 ---
 
-benh:
-  - mụn nhọt
-
 ## II. CÁC CÂY THUỐC VÀ VỊ THUỐC CHỮA MỤN NHỌT MẨN NGỨA
-
-
 
 Tên bồ công anh được dùng để chỉ ít nhất 3 cây khác nhau đều có mọc ở nước ta, cần chú ý tránh nhầm lẫn:
 
